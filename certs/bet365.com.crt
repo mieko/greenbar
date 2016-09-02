@@ -1,0 +1,66 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=GB/ST=Staffordshire/L=Stoke-on-Trent/O=bet365 Group Limited/OU=New Media/CN=*.bet365.com
+   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+ 2 s:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE0DCCA7igAwIBAgIQW+OzO3DH0qez8+yTxlAgEzANBgkqhkiG9w0BAQsFADBB
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
+aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUwNTA3MDAwMDAwWhcNMTgwNzAyMjM1OTU5
+WjCBiDELMAkGA1UEBhMCR0IxFjAUBgNVBAgMDVN0YWZmb3Jkc2hpcmUxFzAVBgNV
+BAcMDlN0b2tlLW9uLVRyZW50MR0wGwYDVQQKDBRiZXQzNjUgR3JvdXAgTGltaXRl
+ZDESMBAGA1UECwwJTmV3IE1lZGlhMRUwEwYDVQQDDAwqLmJldDM2NS5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDNQvygXxBKcuoWNoFbGoCX6syS
+fppAPwXHSzA3cu1te/seRhpDvTmkphKcXvGbLkobpLcogsDnqu8oeyZ/x0zmpc0m
+mbFjumwJdPH1DVdv+pXDxsZKX9cJkoRh7PDraHN3PBZsUeg7nkNC7RRv4C+nbvWh
+n7u/ZYKSGslLWo8yo9ISE6laHHFLbuFdaapBDoZMw8AdnZtlbwGf0vp/c9I530TO
+Ju3DH+StRc8hX6KYxG7YhhMozO4+66F/tfrbzAVN+H1pkBmreXTl/TFA+pX8h8uW
+r9lsPTotIYFxkWBp/583vlsXXN2MEAsEuIkk2OSTHID7xytpV12xm8x5PQ65AgMB
+AAGjggF6MIIBdjAjBgNVHREEHDAaggwqLmJldDM2NS5jb22CCmJldDM2NS5jb20w
+CQYDVR0TBAIwADBuBgNVHSAEZzBlMGMGBmeBDAECAjBZMCYGCCsGAQUFBwIBFhpo
+dHRwczovL3d3dy50aGF3dGUuY29tL2NwczAvBggrBgEFBQcCAjAjDCFodHRwczov
+L3d3dy50aGF3dGUuY29tL3JlcG9zaXRvcnkwDgYDVR0PAQH/BAQDAgWgMB8GA1Ud
+IwQYMBaAFMJPSFf80U+awF04fQ4F29kutVJgMCsGA1UdHwQkMCIwIKAeoByGGmh0
+dHA6Ly90ai5zeW1jYi5jb20vdGouY3JsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly90ai5z
+eW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0dHA6Ly90ai5zeW1jYi5jb20vdGouY3J0
+MA0GCSqGSIb3DQEBCwUAA4IBAQB9a2uMEUI5Fffm7TZ5n1xtLCk3vZjqsSMGwNR5
+NtZwBP6/r38CbMrRiQEpbO4L3BQnZuzg7Yf57q67QMsCGwLuM7q9OwqZSXp+HVri
+dAmQGRGMGTgpNuvJ+II7FJmqZIKWL3oWr1avYAahz0F21tPTcWRA/sTbxJoTbOgF
+DPU2Kv7WESHooF0OMGg813tJ3bv/8Ltyfndi2m2K+UcsVzoWO7zE+FpVSuiIrXLi
+1L8SXbQofXn/EcRCPFn2LxFKYJhCm6FjNnDiIqw8txYmR97UKnZWU6z3ucqz9FPc
+os/7IbZnyyWn9iecQqscWYJCChkIcuCbsV/QHPE8Rgt31E36
+-----END CERTIFICATE-----
+subject=/C=GB/ST=Staffordshire/L=Stoke-on-Trent/O=bet365 Group Limited/OU=New Media/CN=*.bet365.com
+issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+---
+No client certificate CA names sent
+---
+SSL handshake has read 3676 bytes and written 650 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-SHA
+    Session-ID: 6100439E036032BD807CF37B0784EBC859E943EB88852CE5C3D679DACDDB056A
+    Session-ID-ctx: 
+    Master-Key: 6F424E3D31A45467F7E2A21E80522EEF4E094B19BC430BE423547EA1ADCD38ADB0BCF9C7A9B7A61A7F11EBAF69CFFE78
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472788070
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,83 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Maryland/L=Forest Hill/O=Apache Software Foundation/CN=*.openoffice.org
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLDCCBBSgAwIBAgIQAtIEU2aZ9q2oFFVDNYNpfzANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTQwMzIxMDAwMDAwWhcN
+MTcwNzIwMTIwMDAwWjB2MQswCQYDVQQGEwJVUzERMA8GA1UECBMITWFyeWxhbmQx
+FDASBgNVBAcTC0ZvcmVzdCBIaWxsMSMwIQYDVQQKExpBcGFjaGUgU29mdHdhcmUg
+Rm91bmRhdGlvbjEZMBcGA1UEAwwQKi5vcGVub2ZmaWNlLm9yZzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALhgYrs0ArH+X5/YI/tYkk81jNH36S19A8qb
+eM0DzAQxQSbkU9mTsDG36/kB2+hgueqrG4fR5dD1aWrSELbrgEkAweAoXQrOEuus
+r/zZgrH5k9w2Bo8pj7pL7bip30iuY48IL3XMOUuB/8dXZUl7PBiVKZLNRhIRjW2s
+lRzK/qM0DykgitrVAftIysbHvDvvo1KU2gTYnPm/qBK51SJV/b7q3q86M87fybGj
+orh58gzluPF+v//sHgYhnRQ0iU6nlysHiPPikkFkBQ9PeAlzfcBr30TE3qW6vOi/
+/cvVlUo+KoFqWcURXdAOgkldPSzLKLs67tNWFTWiueB81fIVSuECAwEAAaOCAd0w
+ggHZMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBRy
+wfQLoLI8Yr/WgFujpWhPXCBlWjArBgNVHREEJDAighAqLm9wZW5vZmZpY2Uub3Jn
+gg5vcGVub2ZmaWNlLm9yZzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9jcmwzLmRp
+Z2ljZXJ0LmNvbS9zc2NhLXNoYTItZzEuY3JsMC+gLaArhilodHRwOi8vY3JsNC5k
+aWdpY2VydC5jb20vc3NjYS1zaGEyLWcxLmNybDBCBgNVHSAEOzA5MDcGCWCGSAGG
+/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BT
+MHwGCCsGAQUFBwEBBHAwbjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNl
+cnQuY29tMEYGCCsGAQUFBzAChjpodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20v
+RGlnaUNlcnRTSEEyU2VjdXJlU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwDQYJ
+KoZIhvcNAQELBQADggEBAB3mt5wJzoS8IoiYlxgOhXf9LoBJCrBhX6FKL7RlEDCe
+40VLQyOvfegtk733+jpClkskdHdVI84Ik/LJzX7Yp/E5PyV53TTtSVEC3dNmXpo/
+/dQjRIySk4n81vMEdFIunmDegjFjq8+MUSNCC2fUgZd+bjdMB7c4c/lg4JdY4kqG
+6oa2gCvDiXhJZNs3eY5/iQQ0Jgk9EAxOYeVjlgUGJjxX7oDstH0GIRg+FhkoqcJk
+y/Zj92ha43JmX31XHG0DBOJEjxy4mlcdTsNeEqgeK3Bkpsy65mzccmHlNAkcJWut
+P65pKTYsBgEY7sv8KYDcs2kFeVD0IPbc+D/DfUGW5dA=
+-----END CERTIFICATE-----
+subject=/C=US/ST=Maryland/L=Forest Hill/O=Apache Software Foundation/CN=*.openoffice.org
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3198 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 36155F01930C756566C54B7239ED8B56CDC0AC4C160DA42D7978234F8820B303
+    Session-ID-ctx: 
+    Master-Key: DE2E05BBF1512D28BB5D0EE24FB6703AEED8CACA4FCB9D6725FBE5D8B99391E177AE1CD874A44F78264F42E3AC01E898
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c0 76 2e d7 b8 7e 4b 7d-01 34 ce 17 85 d4 14 fc   .v...~K}.4......
+    0010 - 05 21 8e 5f 71 5e c1 14-a4 29 bf 79 6e fc f2 3a   .!._q^...).yn..:
+    0020 - 58 76 90 57 9c eb 4d 9d-6b 05 1f 90 91 df f9 70   Xv.W..M.k......p
+    0030 - 93 53 5a 01 0a d4 b6 5f-a8 7a 62 44 75 72 ef c4   .SZ...._.zbDur..
+    0040 - 6e 11 b8 e5 50 ec ae 8e-78 88 09 7a 9a 35 25 d5   n...P...x..z.5%.
+    0050 - 7f 45 82 e6 c4 ad ee 83-5c 4b 9f 1b ba 53 34 ea   .E......\K...S4.
+    0060 - 15 82 85 9a 4d 65 b5 52-3a a7 88 d0 50 ca 42 ed   ....Me.R:...P.B.
+    0070 - bc a4 61 d1 a1 f8 fa 75-da d1 90 4e f1 f4 31 2a   ..a....u...N..1*
+    0080 - 70 1d 01 92 3d 66 01 ce-a5 48 20 18 0e 1f e5 e6   p...=f...H .....
+    0090 - 26 a1 41 b1 b0 f3 56 af-41 da f5 fe b3 81 3d 06   &.A...V.A.....=.
+    00a0 - a5 27 3d 33 ed 66 96 a7-82 75 6d bf 52 f3 ec b0   .'=3.f...um.R...
+    00b0 - d6 ff e3 d6 69 b3 d9 6f-55 9e c7 77 6b 48 4a 48   ....i..oU..wkHJH
+
+    Start Time: 1472789168
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,74 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=24h-w126/emailAddress=root@24h-w126
+   i:/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=24h-w126/emailAddress=root@24h-w126
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID2jCCAsKgAwIBAgICOJgwDQYJKoZIhvcNAQELBQAwgaExCzAJBgNVBAYTAi0t
+MRIwEAYDVQQIDAlTb21lU3RhdGUxETAPBgNVBAcMCFNvbWVDaXR5MRkwFwYDVQQK
+DBBTb21lT3JnYW5pemF0aW9uMR8wHQYDVQQLDBZTb21lT3JnYW5pemF0aW9uYWxV
+bml0MREwDwYDVQQDDAgyNGgtdzEyNjEcMBoGCSqGSIb3DQEJARYNcm9vdEAyNGgt
+dzEyNjAeFw0xNjA1MTEwNjU3NDBaFw0xNzA1MTEwNjU3NDBaMIGhMQswCQYDVQQG
+EwItLTESMBAGA1UECAwJU29tZVN0YXRlMREwDwYDVQQHDAhTb21lQ2l0eTEZMBcG
+A1UECgwQU29tZU9yZ2FuaXphdGlvbjEfMB0GA1UECwwWU29tZU9yZ2FuaXphdGlv
+bmFsVW5pdDERMA8GA1UEAwwIMjRoLXcxMjYxHDAaBgkqhkiG9w0BCQEWDXJvb3RA
+MjRoLXcxMjYwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCtBNMTlPWL
+05MbPjTaktWDzmf87ZqU2w6RKgaokhEoUTuwTumg0SEfwxItNUFWLYLYihTGY9Ia
+cop3oohWXr/HH14TldLKFOOfqOp0JV10UNokTu701obtBP0E3u8IAVAv1RSHh8bo
+s7I9WvG8jl665idT/Ku0EEgrEJ20ayYEYShvQSv11E8ZY1srX6GjIV/4A+2CEy7x
+5grxBpjNK0H39B4RhB1GpuJRiQtTVLPnoc/ojsZ/luAFjqXlfaM71tvXHVSj19VT
+ao7CnXhVuPFvHEb/6lLs95Wqc33S3JO18qQOmvMXt2Jv/723OpNtJmQxqqNjEmeW
+XhRFgN3cjTEfAgMBAAGjGjAYMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgXgMA0GCSqG
+SIb3DQEBCwUAA4IBAQA2UaMABICl+1MOM+9cx6Bc0BXIGUQzCcF+940hBOSdt3CN
+bDAzaMYYkyIKkY7vR41y+W6DuI3DsERQZPhkNZhkWiNQqf6vF1cIwGTrEYChMh5a
+4qWfQunvrytpOQN/r0z1AFPrcwuadSSMPYm6pwMtWlNYiPRVCMA0kxqfK0gB1gJf
+dk4Uz2Ycc9nG19Hnd1ScJrCpEOFSCqMG1GXbB8AUzOPeDPGZzm9+p1wKGV9LMUDp
+bzRQy4E3rJ7hJyiELj8ZoCZ9DhQqvaaDIw4/bQmTvsYSRVXEb67yq8WT3oylKrR4
+p8avWqX2YRahxdBxOimeM79PSA4Yp6u5PIixba+T
+-----END CERTIFICATE-----
+subject=/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=24h-w126/emailAddress=root@24h-w126
+issuer=/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=24h-w126/emailAddress=root@24h-w126
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1681 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: EA01C808D6AE3346FA5563E68871346525C87244A56C1691FB87D90654CECB7E
+    Session-ID-ctx: 
+    Master-Key: F54AA58587460C3986AF14C3AA009C778B43836A7863C83190C7E738D78EB2D2737E9022C63C7D8EC7016B7FE5EABB77
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7c 2c 36 fe 95 a9 35 f6-2b ad 8f f5 a2 d4 99 e6   |,6...5.+.......
+    0010 - a4 29 f2 b9 02 d0 0e 13-7d d7 59 d0 fa 96 f9 c0   .)......}.Y.....
+    0020 - 76 86 17 58 a9 2a 73 fe-9d fc 35 03 ad 35 34 95   v..X.*s...5..54.
+    0030 - bd da 17 03 8c b8 85 5f-77 a0 dc b5 bc 38 eb 55   ......._w....8.U
+    0040 - 52 95 96 8c 29 fd b1 0e-13 b5 dd df ac a6 fb ac   R...)...........
+    0050 - ae 49 fa 09 a5 bf ea 2d-84 39 44 0f 8e 94 bd 59   .I.....-.9D....Y
+    0060 - 24 1a 41 27 22 8d eb 04-64 91 b1 27 47 46 5f 94   $.A'"...d..'GF_.
+    0070 - e4 6b 67 80 fa 79 ef e1-9a 71 b5 a0 f0 8b cd 3c   .kg..y...q.....<
+    0080 - 4f b7 b5 09 40 3d bd 1d-dd f2 c2 25 e8 27 86 bf   O...@=.....%.'..
+    0090 - c7 51 10 55 0a 45 d9 b2-f0 0a 9c 33 ce 8a 60 89   .Q.U.E.....3..`.
+    00a0 - 96 d6 35 87 72 1f 9a a2-13 38 e2 06 55 46 80 bb   ..5.r....8..UF..
+    00b0 - 82 34 87 5a ec fa 4f a6-55 cf 15 e1 28 6b e7 89   .4.Z..O.U...(k..
+
+    Start Time: 1472790277
+    Timeout   : 300 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

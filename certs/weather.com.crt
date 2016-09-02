@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Georgia/L=Atlanta/O=The Weather Channel, LLC/OU=OPS/CN=*.weather.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE9jCCA96gAwIBAgIQSDGVGZukTHjFVVE3H8+tlTANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTYwMTExMDAwMDAwWhcNMTcwMTEwMjM1
+OTU5WjB6MQswCQYDVQQGEwJVUzEQMA4GA1UECBMHR2VvcmdpYTEQMA4GA1UEBxQH
+QXRsYW50YTEhMB8GA1UEChQYVGhlIFdlYXRoZXIgQ2hhbm5lbCwgTExDMQwwCgYD
+VQQLFANPUFMxFjAUBgNVBAMUDSoud2VhdGhlci5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCYbCmzp0VsdJuz3mNwv3iIal+Ex3ZsQJJFxF0shFGw
++J4nnqorG6NV6ev/zGmOaSxm5aBIEIaOciJ0aK7uTkm439BuCg/EHHSPmyXXu9lm
+ECDuteRiecRJAkyttdSesXyYWeA77d/PX3aixwMG6TKxz+b0wjnidb9sPEb7Cd6b
+T1wBQogtBLqBfkqDf/gEEnj0ctKp1qiixnP7TZ9ykMMlDO+gUDSK/vKs/D9YDCPW
+433JKT0impxtIeByrJP0UazpnMzo/dcQbFebBh6E5S511VT6A9FeW9uADykYm9eU
+oKnNa7rpII8F6ExvKIdggYSvEANNh7YOcToaPlETTbGjAgMBAAGjggGsMIIBqDAl
+BgNVHREEHjAcgg0qLndlYXRoZXIuY29tggt3ZWF0aGVyLmNvbTAJBgNVHRMEAjAA
+MA4GA1UdDwEB/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3lt
+Y2IuY29tL2duLmNybDCBnQYDVR0gBIGVMIGSMIGPBgZngQwBAgIwgYQwPwYIKwYB
+BQUHAgEWM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3Np
+dG9yeS9sZWdhbDBBBggrBgEFBQcCAjA1DDNodHRwczovL3d3dy5nZW90cnVzdC5j
+b20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVnYWwwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFNJv95b0hT9yPDB9I9qFeJujfFp8MFcG
+CCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2duLnN5bWNkLmNvbTAm
+BggrBgEFBQcwAoYaaHR0cDovL2duLnN5bWNiLmNvbS9nbi5jcnQwDQYJKoZIhvcN
+AQELBQADggEBANbeL5FzMIZRdpNMY6DMuVZO66qqcn0kD+vzR5G+VN0bVxudAQ+Z
+21BQAJTgDUbhSsrufTyK+Ti4jE88thqyTmyK7VPT7KXZIAxlQotq0h9/QmMFq4BF
++16bRlYu8cYfiZEZZ0nSwFzAidV3IZ818Jsz29g1KCFDOJ1+GpeQw1/L+4kvXFE4
+On/+eJvX6k4nGSL4ox+XWFMyarAlDGhlizVPhNpulH/rfDR684iyqiZa7Ob/jz/s
+6xAAMROac6AnXXTidPVQ5R3HFSJwzIs/auDj89wFKbPzorfVgt31GF6Uk59AAdUt
+6zB0rNRJRK08OzkzttmWgJGAMMknGo/QcHk=
+-----END CERTIFICATE-----
+subject=/C=US/ST=Georgia/L=Atlanta/O=The Weather Channel, LLC/OU=OPS/CN=*.weather.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3038 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 8DEECAFECB6230F5CFC388B2A39FCFA2E532261DD69DD3096CBE44D8FA4AD962
+    Session-ID-ctx: 
+    Master-Key: DD6B43C61C31CB62F01E9FACC96906012B3BAB4CFF7884E234A9E0ABE24E8EA6561426A410951706B95A3AB6D5492DB1
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - d7 2c fd d0 97 fe 4c ae-5e 04 f1 bd 58 7f 2f 37   .,....L.^...X./7
+    0010 - 67 2f e5 59 e3 c2 0e ec-5e dc c5 f8 bd 53 28 94   g/.Y....^....S(.
+    0020 - f5 8c 56 ac 33 1a 60 02-9d f0 9e e6 04 ca 3b 81   ..V.3.`.......;.
+    0030 - c0 85 59 08 cd d7 2c d3-37 36 54 84 72 c6 0e f8   ..Y...,.76T.r...
+    0040 - d8 ed aa b2 05 74 95 2e-f3 af 33 a1 48 4d 1d dc   .....t....3.HM..
+    0050 - 6e 5a 18 b3 7f 3e d3 79-1f 6b ea 27 fc d9 67 19   nZ...>.y.k.'..g.
+    0060 - 3b 79 96 74 c2 e4 ff bb-aa d3 1f 6b c7 c1 78 8e   ;y.t.......k..x.
+    0070 - f9 0e f4 d0 ad 07 a3 e1-41 d8 51 66 38 d3 e3 57   ........A.Qf8..W
+    0080 - e8 16 2d 1f 75 f0 17 1a-6c c7 6d ac 1c cb 39 86   ..-.u...l.m...9.
+    0090 - 4e 7a 89 e4 ad cf 63 be-af bf d0 34 e2 20 e7 fb   Nz....c....4. ..
+
+    Start Time: 1472788039
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

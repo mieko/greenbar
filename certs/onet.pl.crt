@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=PL/ST=Malopolskie/L=Krakow/O=Grupa Onet.pl SA/OU=IT Operations/CN=*.onet.pl
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE7zCCA9egAwIBAgIQJUka9XMvKyTGRlCVtXa0vDANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMjEwMDAwMDAwWhcNMTcwMjA3MjM1
+OTU5WjB7MQswCQYDVQQGEwJQTDEUMBIGA1UECBMLTWFsb3BvbHNraWUxDzANBgNV
+BAcUBktyYWtvdzEZMBcGA1UEChQQR3J1cGEgT25ldC5wbCBTQTEWMBQGA1UECxQN
+SVQgT3BlcmF0aW9uczESMBAGA1UEAxQJKi5vbmV0LnBsMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAvP9M/67ewpGi8dk4WIc5vgp9It/LiE/p9gRcHWaq
+ETTv/yAMxzLeiVhwy21UQAo3o5x3SMgfF5GOg+/gOiKbRkL8WEy26Hkzuedj7H8V
+qxhfhhVLcJI2Uqhb2fzBsPtjm95sD1K/B86A3ouEgt6UrQb5+s9u7tW4kmXXF48N
+yuxR8JXu2oDeBin4MW/LYBsfoCztNLIZ2ADErU9KM0VCJskkvwi1MPz+X+AM3qWK
+v4mI2rCL+a8Nlp3i9Y95qg5UVonUmBWrx/sdaNhbtmkG5+VUIbsYzrXYSr+0ReLu
+nu68XM71qRD5QYI20Jokvk6gs95hHfxhil2agnMRTIlzqQIDAQABo4IBpDCCAaAw
+HQYDVR0RBBYwFIIJKi5vbmV0LnBsggdvbmV0LnBsMAkGA1UdEwQCMAAwDgYDVR0P
+AQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9nbi5zeW1jYi5jb20v
+Z24uY3JsMIGdBgNVHSAEgZUwgZIwgY8GBmeBDAECAjCBhDA/BggrBgEFBQcCARYz
+aHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xl
+Z2FsMEEGCCsGAQUFBwICMDUMM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNv
+dXJjZXMvcmVwb3NpdG9yeS9sZWdhbDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwHwYDVR0jBBgwFoAU0m/3lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUH
+AQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ24uc3ltY2QuY29tMCYGCCsGAQUF
+BzAChhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNydDANBgkqhkiG9w0BAQsFAAOC
+AQEAKJSE8zdH+P7/YlsHohyTL2pyKCWnEP0qJoY2Lluioup3wHCXvOHHfLpec0l6
+fsEatizspz6RmR2xuVQOdkdZ/2qunl6M1PtFFYHzeHtMFzAt33fpjG4o3gLkAQMn
+rP8zCCrK52ekA58hpKn3nAqAV30hINibq7TIUTdxWZzkLCihlX6cj5B3qYBGZfyn
+yDvN3ztE9lqvFDM2JFVFWyDyXLXGPzDmexcSiLsE2ge86yOlfQCrc7szcs7RADFq
+JeDdiDzEyAj9RUOhdO+RGNg82MqYKGL1wGWlg4V9Q8totBpGQJU+9K6SI00qz04y
+7eH/nUqC/4DcpOO1SWnO8Sf73Q==
+-----END CERTIFICATE-----
+subject=/C=PL/ST=Malopolskie/L=Krakow/O=Grupa Onet.pl SA/OU=IT Operations/CN=*.onet.pl
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3052 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 7EF738FDA699C4ADE1755575A2B1F2C0DD86AECD66F4D0A1137566F6CE975AD5
+    Session-ID-ctx: 
+    Master-Key: E206AFE759BE33693CD899E0079B3269DB6D3F047557EE1343EA3E6C4584C5168053D32579B964C58EF22C9A7CC74765
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 4d 76 04 18 20 76 46 8a-d8 1e 6a ea c8 43 46 80   Mv.. vF...j..CF.
+    0010 - 1c c6 e8 5e a8 c7 40 6b-ff 8e 02 cd be 43 e3 29   ...^..@k.....C.)
+    0020 - 72 65 ba ac cc 81 e4 d2-73 5b 9f 7a 6b 25 d4 fb   re......s[.zk%..
+    0030 - 0c 2a eb 90 ba de 48 7b-22 55 b9 1e 93 8c d4 c3   .*....H{"U......
+    0040 - ec 6b 07 8c 96 72 8e d2-d7 ca f8 03 22 ef 55 83   .k...r......".U.
+    0050 - 8c 10 d8 97 b8 8d 37 43-49 5c 52 c0 d0 ce b9 f0   ......7CI\R.....
+    0060 - 50 6e ac 69 8c 46 7a 0e-1b c7 ca 04 5c 2b ba 61   Pn.i.Fz.....\+.a
+    0070 - 88 3e 0c 01 14 84 f1 62-52 65 42 78 64 e2 36 f3   .>.....bReBxd.6.
+    0080 - d6 8f 85 62 3d 31 c2 b5-33 47 76 a5 f4 a5 59 f3   ...b=1..3Gv...Y.
+    0090 - e4 25 8e 7e 97 f8 df a3-b0 f5 57 34 39 30 2f 4e   .%.~......W490/N
+    00a0 - 73 e3 83 1d d4 66 3d 1f-14 b5 99 19 9a 89 3d 48   s....f=.......=H
+
+    Start Time: 1472788095
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

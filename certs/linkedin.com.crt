@@ -1,0 +1,68 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=Mountain View/O=LinkedIn Corporation/CN=www.linkedin.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKDCCBBCgAwIBAgIQDNq1J0qHKyBzE3L2tPlfFTANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTMxMjIwMDAwMDAwWhcN
+MTYxMjMwMTIwMDAwWjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+YTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEdMBsGA1UEChMUTGlua2VkSW4gQ29y
+cG9yYXRpb24xGTAXBgNVBAMTEHd3dy5saW5rZWRpbi5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDonjtjfyzzJpMwPemr/7SILcI3tYASHCZFCYAj
+cKilx5uzUQ3SbVy9c756arI7XHiMYYko01hr/+qSSJ/In1bu1hG1zx5BppF++OHS
+ZT6dmtlmBXx1zOSp7rBkejXPXDBoQU6sRPhrh/6hiy3tmt/nvdLRJSFZzHhHUfAQ
+hjdF9HBnpZt9ybPfg/Mgh91GM3MQBYqQr+NRvS5o64Vc0Hl+bCfTdwHKU8b61U0T
+wvIlogZtr3XtiojKkiHspifDjVAqBN80CAUAe2FCIsjXDNl5gO+xpjKAWwGVs1fi
+/JzcOZzoHrKhPNj7geF+I5dhQ2rK3g4RWgEGMjFCVxsXxdhFAgMBAAGjggHbMIIB
+1zAfBgNVHSMEGDAWgBQPgGEcgjFh1S8o541GOLQs4cbZ4jAdBgNVHQ4EFgQUSdvg
+SgTuENyanFYdq/abApsMrJIwKQYDVR0RBCIwIIIQd3d3LmxpbmtlZGluLmNvbYIM
+bGlua2VkaW4uY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNl
+cnQuY29tL3NzY2Etc2hhMi1nMy5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2lj
+ZXJ0LmNvbS9zc2NhLXNoYTItZzMuY3JsMEIGA1UdIAQ7MDkwNwYJYIZIAYb9bAEB
+MCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwfAYI
+KwYBBQUHAQEEcDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5j
+b20wRgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdp
+Q2VydFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG
+9w0BAQsFAAOCAQEAwaqukz1VifDjF2iVr6QzT4XX6hS0A6ZZO9u9SJH3/EDGsV5j
+0H3Z7X62zHoXd4g4J8QUvfZ1etXFg685JFDyq1XHdpMl5uLc37H+3SXFEqsWSVUN
+16HZQ49IiyHXDssxf9rKBpXRrSxAclfIrP9reC6BMAMxnF0cNrSuWgUIHCLxi3kQ
+sUfjeJaRUWV1JdOVEJxTcrfM0HxycjoC5J+MQ5rlrWx+GPgeMGyQIGM4v2xGEXXp
+XQEunwG92tLfMY0Dd4SUD0XIRlidQbREWz73NxqLyFap9lghcGdZMiVQSaGp7c8Y
+vqQpESlJ2IQLnTMfbxN30WZnh4F2AGjltIT0cQ==
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=Mountain View/O=LinkedIn Corporation/CN=www.linkedin.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3015 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 0B6A52D00ACE7BD5F2660A74A2047C0498EC452F69032EAE951AD3BF6F010498
+    Session-ID-ctx: 
+    Master-Key: 203B763E0E19B70DBB9EC72D3255DB88FE93CA595DB4D2B5951D922019D9030BE8D0C5D2C1364F1A38087C68996CEE11
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472787828
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

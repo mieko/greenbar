@@ -1,0 +1,84 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=bestadbid.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcDCCBFigAwIBAgIQBi3g8OO/g1ng0WUT1fdrtzANBgkqhkiG9w0BAQsFADBC
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEbMBkGA1UEAxMS
+UmFwaWRTU0wgU0hBMjU2IENBMB4XDTE2MDgyMzAwMDAwMFoXDTE3MDkyMjIzNTk1
+OVowGDEWMBQGA1UEAwwNYmVzdGFkYmlkLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBALV5Coh55pvog8epFzpqPnwlXBAXt/9ouyjQ7huCJfHi3VnP
+jyHDmGtOL10gSSBKvzgCeCVmPQB4YJuCOZk2BpcUmbqsAotGe9vM54itPKSoKPwS
+Ot2jeKmvGwG0I3WelZ49xyCkUz+EzbxX6TtE+NRShURvsG2fCuhaW25RZWuis5uC
+y+LwzXI+ML+Z6wKbvyPL5GiTzH3xlsHflmpdx2oLS97TO4t4OMo6l2NSUuZXJMXf
+QZp8DCXmdOciuqtoEgWj5LKJAEVdo7WnrJVYFuNbMbJfwKwqGdUc1b+L1Uct2Jjo
+jo5CcXwiFKjaOgz6L9nvB9lN43ptgMjCNlioSH0CAwEAAaOCAoowggKGMCsGA1Ud
+EQQkMCKCDWJlc3RhZGJpZC5jb22CEXd3dy5iZXN0YWRiaWQuY29tMAkGA1UdEwQC
+MAAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcmww
+bwYDVR0gBGgwZjBkBgZngQwBAgEwWjAqBggrBgEFBQcCARYeaHR0cHM6Ly93d3cu
+cmFwaWRzc2wuY29tL2xlZ2FsMCwGCCsGAQUFBwICMCAMHmh0dHBzOi8vd3d3LnJh
+cGlkc3NsLmNvbS9sZWdhbDAfBgNVHSMEGDAWgBSXwidQnsLJ7AyIMsh8reKmAU/a
+bzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2dwLnN5bWNkLmNv
+bTAmBggrBgEFBQcwAoYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcnQwggEDBgor
+BgEEAdZ5AgQCBIH0BIHxAO8AdQDd6x0reg1PpiCLga2BaHB+Lo6dAdVciI09EcTN
+tuy+zAAAAVa2e3lAAAAEAwBGMEQCIGYDZ4JAprzHvt5smzgQ/cvETLroM/Su3u/m
+WXDkBSWTAiAEiQGPlTr/DQibAiutDV7c/qc4jhV8PspOwO0a+pvWVgB2AKS5CZC0
+GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABVrZ7etYAAAQDAEcwRQIhANme
+HZprnVHuO5ZQEbWBdpY/tl1CmVKnSrL3v20/lETjAiAtWeNxy2HqsN+7t8JWEQRn
+jKVj5MDVFXl3zgQ+8wLzhzANBgkqhkiG9w0BAQsFAAOCAQEAZPm8OWWdSWhMouNt
+DSq2wrCxWXiX9IupVRJQD7yEo9u5Oys55BV4rnVlF3xsl4xrjMtg3QmM1nIJJW2y
+GIoRsgriq0UgDtrSzaN8DRuLFACV8w+eRu4g7dOHzcm0w5QtKe2a8QUKmZELTLuC
+Z1eB/se/ZDXEdL3TzLnQ3HEps/6nU23AR0UA6cahdROv7+H6UuMcmWZkleKJSpRu
+tEDvJNNCvDnAPXBjwKhwDNshXgQG3wEAe9wf4OpTcrqDHzpueOfDsHSbND9TSLQE
+43YqW9RG8on7n0qwXl+N/czry6zUGJpVAdjPQfR024Hy6vIr/0lrm/33iWAnnO/E
+9nKaLA==
+-----END CERTIFICATE-----
+subject=/CN=bestadbid.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3203 bytes and written 458 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-SHA
+    Session-ID: CE4F45F41C9E00748B1CE02BCADDCA384015E72497E45E0D12D2B74A6B8A0887
+    Session-ID-ctx: 
+    Master-Key: 638C2E48018F9319EA67B9C6E0FA6B8395DA6BC613F50594900AAA92DD3021BA76D8ECE5F64EA8D4C2FCAB3099C8E9F9
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 3a d7 8f a1 4c 59 70 3b-4b a7 12 37 ce e8 15 ff   :...LYp;K..7....
+    0010 - 2e 47 92 62 4f 48 9f 9a-bb 6d 34 57 a2 16 88 0b   .G.bOH...m4W....
+    0020 - 5e a5 e8 16 ec 6e d5 f9-77 20 4d 4c 5e 58 53 46   ^....n..w ML^XSF
+    0030 - 4b fc 9c fa 0c fc 83 60-61 ee 0b 47 74 fa 21 91   K......`a..Gt.!.
+    0040 - 91 5f bb 24 c9 d1 df 5d-6d ac fa 55 81 03 c5 64   ._.$...]m..U...d
+    0050 - 49 f8 db f9 aa 7a 93 4b-18 a9 0d f2 d3 86 46 d8   I....z.K......F.
+    0060 - f3 c9 d8 10 7d 32 2c 96-26 08 f8 92 66 2c 54 f5   ....}2,.&...f,T.
+    0070 - 3a c4 0a 63 a6 40 3d 1a-88 e7 30 ec 63 76 b4 da   :..c.@=...0.cv..
+    0080 - 26 02 0b 03 c1 5a 7b 04-a0 2b d4 fb d4 2b de 7b   &....Z{..+...+.{
+    0090 - 5a 75 ee e3 76 e6 1f 64-af 96 9d 1a 6a 29 b1 5c   Zu..v..d....j).\
+    00a0 - 5d d5 9d 91 d4 a0 f7 01-a7 7c b3 cb da 28 58 31   ]........|...(X1
+
+    Start Time: 1472789646
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=GT87008144/OU=See www.rapidssl.com/resources/cps (c)14/OU=Domain Control Validated - RapidSSL(R)/CN=*.ted.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEojCCA4qgAwIBAgIDAR04MA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
+NTYgQ0EgLSBHMzAeFw0xNDEyMTUxMTM0NDBaFw0xODAxMTYxMDQxMjVaMIGNMRMw
+EQYDVQQLEwpHVDg3MDA4MTQ0MTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
+bS9yZXNvdXJjZXMvY3BzIChjKTE0MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
+YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTESMBAGA1UEAwwJKi50ZWQuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjQTPBDjYTZtN2DjBpbt8nYttQ0G
+3/okrsgyAxpjV+RxdpXjGB+nFOq12VFY/oaDlBP2DopnWSJQjlRAXdpGoLMuo2KE
+kp8h8mDIZRsTxjS88/TSeN98ECvVaNEMykMMzK+jhCxsgg+K2PsE76Wf69L54lUG
+8yGW0Yg/KpWv9SCpFgsCUvCmcBNwFOHRjUulZfjzsK1nPcgQJYCRqCwXediwWFTg
+bc6mJtmiSNfOVuY93mNQxEpt4OL/4/DYwm2kY7bJFdWt4TqsNX/r7tmNmiO9jy+Z
+BRq3r14n/GHRXaM2Lzld3tLuwmwnC49p+IIDnsMrxiK45KLnfqarXkI+/QIDAQAB
+o4IBTjCCAUowHwYDVR0jBBgwFoAUw5zz/NNGCDS7zkZ/oHxb8+IIy1kwVwYIKwYB
+BQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ3Yuc3ltY2QuY29tMCYGCCsG
+AQUFBzAChhpodHRwOi8vZ3Yuc3ltY2IuY29tL2d2LmNydDAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB0GA1UdEQQWMBSCCSou
+dGVkLmNvbYIHdGVkLmNvbTArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ3Yuc3lt
+Y2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAAMEUGA1UdIAQ+MDwwOgYKYIZIAYb4
+RQEHNjAsMCoGCCsGAQUFBwIBFh5odHRwczovL3d3dy5yYXBpZHNzbC5jb20vbGVn
+YWwwDQYJKoZIhvcNAQELBQADggEBAGIxcZ9fxSV02/o6D2Cct6ee4VGY401puDUt
+yDn6HWSCl2HHm8B3iBYNKqTRynVz2Q1hBQ2HUomJh3boTpEG7Kc3WWL7qe3r1x5I
+zs9NRQGxd8xEDMX7kIrGgLuKWm/iqx+wRUN1rDRKCoN/kg+V7mVemvuaRYV+6g2C
+WIElMo/jY6rXLQIAHnKHQYE4K7Z8tT5wWSlllAM3mypqdZ0wWZSzpsUoIPvl7K+K
+m6OFnaUbvcPhCpqKcwMFiET5KE/NGHbfdH9FQb/51Bmp/CnoM1ZcxkybcvxNBJcq
+I3/TOAQkYo3vEf8ByW6glmOkszgtHXiCY8hf2iYkX/EZQJJBJyc=
+-----END CERTIFICATE-----
+subject=/OU=GT87008144/OU=See www.rapidssl.com/resources/cps (c)14/OU=Domain Control Validated - RapidSSL(R)/CN=*.ted.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3812 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: FECE634D5C0F327F2B724E9099F09F4C36E16C9E0945F322B95213F4B885FCB3
+    Session-ID-ctx: 
+    Master-Key: 3C0C742715CD3DBE3B6BAFE98CDFBF8D056220F17EF6C32CA14BB525A0F229A459D832CBE5B330BED10A7F62ACF48778
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d1 41 c7 1c 96 29 70 cf-46 1c ea a6 f6 6f cd b5   .A...)p.F....o..
+    0010 - 2f 57 14 84 9f 8a 44 d7-9a 14 89 26 35 33 d8 86   /W....D....&53..
+    0020 - c0 76 6c 34 01 7b 8e 77-f5 08 85 41 70 90 6b eb   .vl4.{.w...Ap.k.
+    0030 - 2a 5d 38 09 59 b1 64 aa-35 e6 41 27 87 fe f2 98   *]8.Y.d.5.A'....
+    0040 - f9 19 be 87 a3 7c 91 6c-1e 17 8c 5e 50 5d 19 ae   .....|.l...^P]..
+    0050 - d7 60 24 f1 4e 3b 93 9d-2e 51 1e 63 f5 7d 76 b9   .`$.N;...Q.c.}v.
+    0060 - 3a c7 71 d6 2d f6 a8 d2-e2 39 84 52 12 42 54 22   :.q.-....9.R.BT"
+    0070 - 65 4f 24 10 45 35 f7 3a-98 82 1c 21 1a 5b 07 b0   eO$.E5.:...!.[..
+    0080 - 7e d0 4e 65 c4 e6 71 da-92 1f 03 ee 01 1f 3b 13   ~.Ne..q.......;.
+    0090 - c2 9f 24 e2 0e ba f1 1f-af f0 88 a0 a5 fe 69 19   ..$...........i.
+
+    Start Time: 1472789585
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

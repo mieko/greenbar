@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=DE/ST=Hessen/L=Frankfurt am Main/O=DB Systel GmbH/OU=DB AG/CN=www.bahn.de
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5zCCA8+gAwIBAgIQOgdxk/7YJEIu97BM1m0qezANBgkqhkiG9w0BAQsFADB+
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
+IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDEyMDAwMDAwMFoX
+DTE3MDMyMDIzNTk1OVoweTELMAkGA1UEBhMCREUxDzANBgNVBAgTBkhlc3NlbjEa
+MBgGA1UEBxQRRnJhbmtmdXJ0IGFtIE1haW4xFzAVBgNVBAoUDkRCIFN5c3RlbCBH
+bWJIMQ4wDAYDVQQLFAVEQiBBRzEUMBIGA1UEAxQLd3d3LmJhaG4uZGUwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDd3dL/wzIsDsmOxoc0AZkREIly9Fzr
+bJ2kdE0VvHHBrFgUf0CTzmWd5d14veYOTsKt1pwGGnqB+DGLyEJUBf+bD4f5OQcE
+hRzoqi4d1yAWggYKnk5er/HfWu4VPS9XR28o36yFEWiw0djbPR2kJIWeSSElCcJ0
+7QZzbgJF2cdYaovUV/kU0SiSmqeuFRTzjwZ6WYu++3NC+sriLLR9jC/k+OGG8n9v
+/vOww6/xEfS7U36TlfV/0kiV66XC4ofcIt/QBevtHsGXdu4Hca4PGuF6Oe5P6TR4
+xOJbF8I2WM0fMCVj7/Ehk6Ubc312b2o7q0a2uiym4kGVkkn1fYqcVQWpAgMBAAGj
+ggFkMIIBYDAWBgNVHREEDzANggt3d3cuYmFobi5kZTAJBgNVHRMEAjAAMA4GA1Ud
+DwEB/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vc3Muc3ltY2IuY29t
+L3NzLmNybDBlBgNVHSAEXjBcMFoGCmCGSAGG+EUBBzYwTDAjBggrBgEFBQcCARYX
+aHR0cHM6Ly9kLnN5bWNiLmNvbS9jcHMwJQYIKwYBBQUHAgIwGQwXaHR0cHM6Ly9k
+LnN5bWNiLmNvbS9ycGEwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8G
+A1UdIwQYMBaAFF9gz2GQVd+EQxSKYCqy9Xr0QxjvMFcGCCsGAQUFBwEBBEswSTAf
+BggrBgEFBQcwAYYTaHR0cDovL3NzLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0
+cDovL3NzLnN5bWNiLmNvbS9zcy5jcnQwDQYJKoZIhvcNAQELBQADggEBAEJUoUTy
+zyRNT+Vn4hPLvyYceVU7DXINjoIpG3/sxsjUWuC72MQz17P7UqdPGWUQ+soSWWUL
+ImA+e3zYDo+OvSdcUp4Bs03TPQmdkWbTIkULshzVkkd0YlRur6tuopf1t0WpwhaR
+F0tjPMNJ8hV0ndMAb4TZBjGVMgZw8DSTYVtWH43pfwO92MnajALqkQ/gBhKJj+G2
+OINewsmmDxnXQOxUHQRDlPVzN5Mty9QVOZpEI+S6z61QYqw98tpmZGspihyRO69d
+BdmTkaUchhdwEL6KU5ICWjYr0Fj957j5MD0EKRRoaeJkxupJDQ8nwWDOmq0PXpmE
+yMyWnInE/gZkX+U=
+-----END CERTIFICATE-----
+subject=/C=DE/ST=Hessen/L=Frankfurt am Main/O=DB Systel GmbH/OU=DB AG/CN=www.bahn.de
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3293 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 443FE220BF7CED18677CE719948956B3E5DE75135F68C8BAB0296551F62266B3
+    Session-ID-ctx: 
+    Master-Key: 2CDB25ABF793520F5D4E8E5B481570CDCD80CF0BC13A248768FDF58F04E072C3996F0A42E0C39EF568EFDE63F544905E
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6b f6 7b b9 5a 5b 38 ca-3f 51 d8 be 2b 81 34 8e   k.{.Z[8.?Q..+.4.
+    0010 - 34 3c 68 84 0c ca c5 05-d1 13 16 34 6a 7a d2 55   4<h........4jz.U
+    0020 - 61 77 ef 0f 00 8f 79 d4-af af eb 66 10 dc f3 e0   aw....y....f....
+    0030 - 01 4b b0 12 43 8a d5 f6-c6 46 66 32 1e 5d 3d cd   .K..C....Ff2.]=.
+    0040 - f3 2d f5 19 24 db 8a 21-03 ed d3 c7 03 5b 18 08   .-..$..!.....[..
+    0050 - 8b 01 d9 8c df 3c 84 91-e4 53 02 dc 0b 2f 44 07   .....<...S.../D.
+    0060 - 3c 17 fc 72 a2 b1 29 85-a5 15 50 94 a7 20 3a 89   <..r..)...P.. :.
+    0070 - 8f 23 55 eb 70 cc 5e 72-23 86 c3 8d 31 94 56 7c   .#U.p.^r#...1.V|
+    0080 - cd c0 14 a7 53 68 fb f1-2c e4 d2 0d 05 c3 59 2f   ....Sh..,.....Y/
+    0090 - df a9 80 1e 6a 38 2a 61-1d 97 a9 e3 c1 eb c4 25   ....j8*a.......%
+    00a0 - 5a d9 f4 19 92 52 b8 94-7c 18 7d af 96 70 93 6f   Z....R..|.}..p.o
+    00b0 - b0 82 bf 3f 39 f8 f3 4c-1f b1 2b 11 b3 c7 f8 be   ...?9..L..+.....
+
+    Start Time: 1472789932
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

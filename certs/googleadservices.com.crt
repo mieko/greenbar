@@ -1,0 +1,85 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=Mountain View/O=Google Inc/CN=*.g.doubleclick.net
+   i:/C=US/O=Google Inc/CN=Google Internet Authority G2
+ 1 s:/C=US/O=Google Inc/CN=Google Internet Authority G2
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUjCCBDqgAwIBAgIIPFXQyuMK8GEwDQYJKoZIhvcNAQELBQAwSTELMAkGA1UE
+BhMCVVMxEzARBgNVBAoTCkdvb2dsZSBJbmMxJTAjBgNVBAMTHEdvb2dsZSBJbnRl
+cm5ldCBBdXRob3JpdHkgRzIwHhcNMTYwODI0MTA0MDE1WhcNMTYxMTE2MTAxMDAw
+WjBtMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwN
+TW91bnRhaW4gVmlldzETMBEGA1UECgwKR29vZ2xlIEluYzEcMBoGA1UEAwwTKi5n
+LmRvdWJsZWNsaWNrLm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AJTfWlsJQdkDure9X4dXP9FWwHpWss1tFKdArOoYjbOZWGud37BnnIirjLnpX0EV
+kXYJIP7P0jid0deBz3ZRJqpXkwvOSYnUJBB4o3jcO7T8rls4Oq/B7+avtnIai786
+qskAcQHwOUFG3cIAibbxsbqwXfVu86QNCk++L9yteKznAbpEZElCyuWMpO/LyvMn
+t0KsK6txcmufsItAOY0U27dzRJrRyGjutBGklRXTGLQs+DzloYW5P+W1K1Vghr+a
+9OBVCbSM0x+MAj7wm6pafTx6770i7wfEffgWc4i3YOFBeb8ibfDpcNE9nxo+n6oJ
+OL06nGMCSsZPqmwKoVqk2WECAwEAAaOCAhgwggIUMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjCB5QYDVR0RBIHdMIHaghMqLmcuZG91YmxlY2xpY2submV0
+ghYqLmdvb2dsZWFkc2VydmljZXMuY29tghcqLmdvb2dsZXN5bmRpY2F0aW9uLmNv
+bYIXKi5nb29nbGV0YWdzZXJ2aWNlcy5jb22CESouaW52aXRlbWVkaWEuY29tghFn
+LmRvdWJsZWNsaWNrLm5ldIIUZ29vZ2xlYWRzZXJ2aWNlcy5jb22CFWdvb2dsZXN5
+bmRpY2F0aW9uLmNvbYIVZ29vZ2xldGFnc2VydmljZXMuY29tgg9tZWRpYS5hZG1v
+Yi5jb20waAYIKwYBBQUHAQEEXDBaMCsGCCsGAQUFBzAChh9odHRwOi8vcGtpLmdv
+b2dsZS5jb20vR0lBRzIuY3J0MCsGCCsGAQUFBzABhh9odHRwOi8vY2xpZW50czEu
+Z29vZ2xlLmNvbS9vY3NwMB0GA1UdDgQWBBRHscQKftBwNJvzOtVrXpq6X2wf3zAM
+BgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFErdBhYbvPZotXb1gba7Yhq6WoEvMCEG
+A1UdIAQaMBgwDAYKKwYBBAHWeQIFATAIBgZngQwBAgIwMAYDVR0fBCkwJzAloCOg
+IYYfaHR0cDovL3BraS5nb29nbGUuY29tL0dJQUcyLmNybDANBgkqhkiG9w0BAQsF
+AAOCAQEAKewvo684jiK+VIMl5uox6h7ojLgiA7ChmzuxAZi0bCZ20U2jlPmyTnL+
++Slg4GWxAZYnr7LlnZcLnNKAWWhM3I1WgBB3fd1QhUYs+vfBxUMuAGjEsz9hKjMZ
+ZpNyuGfvnaWCSxGJN6uVeda/BJw/jVMskcpHpeUwOrUpWkq5AIfDCOthFUTk+peX
+3VTpjLMd27MaLcXDnA8z4Pc1wB183hrIJQNfRHsXa20mGwecFyGJmegaDoxEnuH2
+IFbwVVYypg5PDgxPrdKMdJPHYO11du9WvJmj6UngpQ6ZYYS1lXTO84Bt+IbCcXUa
+fjXmwM6qTsS3WrUQDoLAPh25nAbbWw==
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=Mountain View/O=Google Inc/CN=*.g.doubleclick.net
+issuer=/C=US/O=Google Inc/CN=Google Internet Authority G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3937 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B44E2ACFB41B76BE7294C899C5D9C4929CFE97D4F7F3973F23D71640BA61CA53
+    Session-ID-ctx: 
+    Master-Key: 550CB24A5000364746A920BF59CB4D0C4F3218DD171F3ED9A89B2B89E8EE0F585F0FE8AFE5962BE482947EE8C082CD26
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 100800 (seconds)
+    TLS session ticket:
+    0000 - d9 16 e6 49 16 33 ec cf-6c fc 8c 82 13 ec a6 e2   ...I.3..l.......
+    0010 - 93 c3 2b d2 af 06 8f 18-0a e1 9a 3f 73 10 d3 0e   ..+........?s...
+    0020 - be 6e 79 98 5e 98 be 0b-45 5b 32 bf 85 64 83 f5   .ny.^...E[2..d..
+    0030 - 3f e8 5e 23 73 a1 a0 1a-99 d7 04 74 1b 0f e6 fa   ?.^#s......t....
+    0040 - 1a 38 42 34 26 82 62 37-5b 04 3b fc 8a aa f0 20   .8B4&.b7[.;.... 
+    0050 - 54 68 11 7b ee e5 1c e3-c3 b0 12 94 bd 87 d2 d0   Th.{............
+    0060 - d6 93 a9 86 b9 c4 48 72-9e c3 b9 9a 15 77 df a1   ......Hr.....w..
+    0070 - 90 1e ca f9 df 5a 48 e2-87 7d d4 2c 04 e0 80 62   .....ZH..}.,...b
+    0080 - 38 45 40 63 cc b3 1c 0d-3d 31 8f be 46 4e 56 6e   8E@c....=1..FNVn
+    0090 - 25 79 c5 55 13 73 38 f1-cf c8 c2 2c eb 32 cd b5   %y.U.s8....,.2..
+    00a0 - 6b d8 b3 63                                       k..c
+
+    Start Time: 1472790420
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

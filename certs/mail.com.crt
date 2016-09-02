@@ -1,0 +1,66 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Pennsylvania/L=Chesterbrook/O=1&1 Mail & Media Inc./CN=*.mail.com
+   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIErTCCA5WgAwIBAgIQeycAxZKQU+9ACotvZMrHkjANBgkqhkiG9w0BAQsFADBB
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
+aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUwMjI1MDAwMDAwWhcNMTcwNDAxMjM1OTU5
+WjBwMQswCQYDVQQGEwJVUzEVMBMGA1UECAwMUGVubnN5bHZhbmlhMRUwEwYDVQQH
+DAxDaGVzdGVyYnJvb2sxHjAcBgNVBAoMFTEmMSBNYWlsICYgTWVkaWEgSW5jLjET
+MBEGA1UEAwwKKi5tYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAJdxZPPTqiyl2lL7wyjCCXTO2uLw31GiAac76QGRLJmQEkfSSGodF+g8TRj7
+fFnKgyZdS7sawaeQaVzMfjyWI0a9kerApJTZxcCbDfDioMeukzfzTLfdfjWOtyoW
+XJzjr8lnAwflUCwRNMQlabJ0ndBuXNC8AdJVdBy4X4DGpMdv9MFeus0WpR+cYeJc
+EAgNaxcvUyXg/7XTRf8xPH6KDjkUIKHzCCuciPdZvITOIXrMsY+FuDQoYbGSRYUm
+Qcl/YtyfvuraEO+QZeW3xeUJEUXxHe63HaDsf4mC+IiXnXF8RvRdWKAWGlkIoc49
+lxhGbCUOjCSVFsC0gIhSgD8VTs0CAwEAAaOCAXAwggFsMBUGA1UdEQQOMAyCCiou
+bWFpbC5jb20wCQYDVR0TBAIwADByBgNVHSAEazBpMGcGCmCGSAGG+EUBBzYwWTAm
+BggrBgEFBQcCARYaaHR0cHM6Ly93d3cudGhhd3RlLmNvbS9jcHMwLwYIKwYBBQUH
+AgIwIwwhaHR0cHM6Ly93d3cudGhhd3RlLmNvbS9yZXBvc2l0b3J5MA4GA1UdDwEB
+/wQEAwIFoDAfBgNVHSMEGDAWgBTCT0hX/NFPmsBdOH0OBdvZLrVSYDArBgNVHR8E
+JDAiMCCgHqAchhpodHRwOi8vdGouc3ltY2IuY29tL3RqLmNybDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzAB
+hhNodHRwOi8vdGouc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vdGouc3lt
+Y2IuY29tL3RqLmNydDANBgkqhkiG9w0BAQsFAAOCAQEAo7R5/18RXglr0qsZNBJR
+UEok5mYqbpB9WGMy5By7E5hvS9VT1vYn5NAe8/XTK8ycxIniqSDJhtV/HCfYaylr
+BQ3MOz1N9RGRCEvDoon9kyysysuyD2kp1oaDR96RutoMY+9SlFDwKvFBhnv8g0MG
+9wv3DOaSCjAYMoYI4kUQ2JkkRE3pYNGjx4R3yiN1e4LLh0sN6T0Em8naR0OPL6LS
+UpTLiR0n2Z0DBhXSEIJ7pP54ARsTXXd4nnE0YE737XCGfFCA4LLGJeoXihX84Hcg
+l98tMEsS6mo0DvqK3xsTfR6X5G0NnHek38lGRX5oe6+GnxRh7TIyrOSi4hMwb/wL
+Xg==
+-----END CERTIFICATE-----
+subject=/C=US/ST=Pennsylvania/L=Chesterbrook/O=1&1 Mail & Media Inc./CN=*.mail.com
+issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA1
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2915 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: B26B7B8E81F10C3E941911044C22C9A60A9C792311DEC7741905E65A5F42DA5C
+    Session-ID-ctx: 
+    Master-Key: 937654B36F89A385B39F4D55C500A6C1CFB18A7EF5A09FBDCCD5F361D93378ACC084499490C366BA75812620227AFA67
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790349
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

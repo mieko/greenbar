@@ -1,0 +1,68 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=CN/O=Sinorail Certification Authority/OU=\x94\xC1\x8D\xEF[\xA2b7g\x0DR\xA1N-_\xC3/CN=kyfw.12306.cn
+   i:/C=CN/O=Sinorail Certification Authority/CN=SRCA
+ 1 s:/C=CN/O=Sinorail Certification Authority/CN=SRCA
+   i:/C=CN/O=Sinorail Certification Authority/CN=SRCA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIICsTCCAhqgAwIBAgIIODtw6bZEH1kwDQYJKoZIhvcNAQEFBQAwRzELMAkGA1UE
+BhMCQ04xKTAnBgNVBAoTIFNpbm9yYWlsIENlcnRpZmljYXRpb24gQXV0aG9yaXR5
+MQ0wCwYDVQQDEwRTUkNBMB4XDTE0MDUyNjAxNDQzNloXDTE5MDUyNTAxNDQzNlow
+azELMAkGA1UEBhMCQ04xKTAnBgNVBAoTIFNpbm9yYWlsIENlcnRpZmljYXRpb24g
+QXV0aG9yaXR5MRkwFwYDVQQLHhCUwY3vW6JiN2cNUqFOLV/DMRYwFAYDVQQDEw1r
+eWZ3LjEyMzA2LmNuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8Cxlz+V/4
+KkUk8YTxVxzii7xp2gZPWuuVBiwQ6iwL98it75WNGiYCUasDXy3O8wY+PtZFvgEK
+kpHqQ1U6uemiHStthUS1xTBsU/TuXF6AHc+oduP6zCGKcUnHRAksRb8BGSgzBA/X
+3B9CUKnYa9YA2EBIYccrzIh6aRAjDHbvYQIDAQABo4GBMH8wHwYDVR0jBBgwFoAU
+eV62d7fiUoND7cdRiExjhSwAQ1gwEQYJYIZIAYb4QgEBBAQDAgbAMAsGA1UdDwQE
+AwIC/DAdBgNVHQ4EFgQUj/0m74jhq993ItPCldNHYLJ884MwHQYDVR0lBBYwFAYI
+KwYBBQUHAwIGCCsGAQUFBwMBMA0GCSqGSIb3DQEBBQUAA4GBAEXeoTkvUVSeQzAx
+FIvqfC5jvBuApczonn+Zici+50Jcu17JjqZ0zEjn4HsNHm56n8iEbmOcf13fBil0
+aj4AQz9hGbjmvQSufaB6//LM1jVe/OSVAKB4C9NUdY5PNs7HDzdLfkQjjDehCADa
+1DH+TP3879N5zFoWDgejQ5iFsAh0
+-----END CERTIFICATE-----
+subject=/C=CN/O=Sinorail Certification Authority/OU=\x94\xC1\x8D\xEF[\xA2b7g\x0DR\xA1N-_\xC3/CN=kyfw.12306.cn
+issuer=/C=CN/O=Sinorail Certification Authority/CN=SRCA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1897 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 1024 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: D675FC6086D41B3C7BE03A85F6A6CDB80E50F29D4F035E4F68DC282223B9B140
+    Session-ID-ctx: 
+    Master-Key: 1A466514E193026CC71FFB2467674F1AA40CECFE62295FD6F06C8469162CEE7F5818C985001AF09B1A3E814FB9EC4A98
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 40 01 57 64 b6 11 15 05-a7 f7 50 32 ab 53 47 17   @.Wd......P2.SG.
+    0010 - 9f 0a bd aa c0 85 a2 02-08 15 49 63 0a e7 8f 51   ..........Ic...Q
+    0020 - d6 41 b0 b0 1c 85 2f 7b-38 05 9a 12 51 8c 33 ce   .A..../{8...Q.3.
+    0030 - 0f 50 ab e6 8e 8f fc 4b-b7 62 78 ed 46 2a 48 44   .P.....K.bx.F*HD
+    0040 - 0d 43 60 45 9c e6 4b 90-1b 2c a1 82 9a 27 24 c3   .C`E..K..,...'$.
+    0050 - ac 6f 55 9a 6a 16 67 f9-13 a7 14 e9 44 fb 2f 42   .oU.j.g.....D./B
+    0060 - 0a 25 c5 4f 7f 6b 90 68-78 78 46 0c 96 b2 9e 8e   .%.O.k.hxxF.....
+    0070 - dd 7f 22 0b 5f 30 a3 a7-08 db 1e 4a 83 d8 dc 34   .."._0.....J...4
+    0080 - cc 9d c8 c9 43 a7 21 98-aa 1e 79 1e a5 8c fb 90   ....C.!...y.....
+    0090 - 3f 22 c2 2b 3b 52 14 8d-b9 65 be 2c ff f9 fa 45   ?".+;R...e.,...E
+
+    Start Time: 1472790589
+    Timeout   : 300 (sec)
+    Verify return code: 19 (self signed certificate in certificate chain)
+---

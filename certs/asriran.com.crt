@@ -1,0 +1,73 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=server1.asriran.com/O=asriran.com/C=IR/ST=Tehran/L=Tehran
+   i:/CN=server1.asriran.com/O=asriran.com/C=IR/ST=Tehran/L=Tehran
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDmTCCAoGgAwIBAgIJANyGTnZl1VahMA0GCSqGSIb3DQEBBQUAMGMxHDAaBgNV
+BAMME3NlcnZlcjEuYXNyaXJhbi5jb20xFDASBgNVBAoMC2FzcmlyYW4uY29tMQsw
+CQYDVQQGEwJJUjEPMA0GA1UECAwGVGVocmFuMQ8wDQYDVQQHDAZUZWhyYW4wHhcN
+MTQxMDMxMTIyODQ0WhcNMjQxMDI4MTIyODQ0WjBjMRwwGgYDVQQDDBNzZXJ2ZXIx
+LmFzcmlyYW4uY29tMRQwEgYDVQQKDAthc3JpcmFuLmNvbTELMAkGA1UEBhMCSVIx
+DzANBgNVBAgMBlRlaHJhbjEPMA0GA1UEBwwGVGVocmFuMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAq+uKbc+VnDr7L8diTUllW1cFcYWX4kdiYszEZ9rG
+MITr72Y0gegfqXBi6cTBDW+WTTqVD5IZPluwq5P34uxLPkiFF8D3VYe6s6MbXpOc
+pLCZY7OWn8ckDHOlRXfyzPGnmkjqZhoKWtr4ce42ir2zKfenGZUuBzBE459sqNoB
+ao069FWw5ZSS830XIYqpW/zUO+A8FmhybIW20aAYzkz4p60gxRZqYBjbDpyVaoMi
+eoP7HtauQ2rq+7kmoKSmipyQoVrnq10ssKNma6uGkV0wyCmvO3xDyG4j5VXFZhBb
+VmEQ28Hy1of1ux5Zl247sOUCa2qSQkau6XPe7buUrmvmKwIDAQABo1AwTjAdBgNV
+HQ4EFgQU18MBJzSwIJ+YQZs6/RUCI2HWzoYwHwYDVR0jBBgwFoAU18MBJzSwIJ+Y
+QZs6/RUCI2HWzoYwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOCAQEAEQLI
++LsX0AD8499oBVK9WXncwZfY6RBLI9HHZhpM265T3jtOLP/za5uHY4+A9Lmbxp1J
+TH+XBBe1w90PmoqGGQCy8c0KyOX1kAM3kqr1Di5BhCY8Tcn8ZKqXMufR6mrk21nW
+RqJb/boUTSWs/2Z+RRmQt2ceqYbA3XmjTG5xwZwJ5+VzJXtciUy8peEbjX2xxZFx
+0tw02nPDh2CBnYYLET8f0Lj71p53Tu7n3b1sVEoGZyVTOqEGgZpfZldrB4fal5MV
+xom0whfVbWyCuLBjQNk5jr9ztbA88QSQFZAkOnoODHxPfYEmBeEADDmwtTCA9tC5
+3n6+O0uY50PbQcumnw==
+-----END CERTIFICATE-----
+subject=/CN=server1.asriran.com/O=asriran.com/C=IR/ST=Tehran/L=Tehran
+issuer=/CN=server1.asriran.com/O=asriran.com/C=IR/ST=Tehran/L=Tehran
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1616 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 7F6005A0D9F40EAD33E8C2FC7EBA8CDF76AE718D76266D1CED21C3EFF1DD7198
+    Session-ID-ctx: 
+    Master-Key: 4327D6DCA5AF509805B31C368DAB279195ED01631A3098337ACC67EE1E71C6D9B552DB71E7A7077029DC3F62B498BFE8
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 1c c4 da 03 91 db 1b 5d-a6 77 46 c3 83 6c a6 e1   .......].wF..l..
+    0010 - 02 18 f8 90 e4 8a d3 2c-78 38 32 3c 44 41 a2 32   .......,x82<DA.2
+    0020 - d3 2d ae 2b 35 8c e7 90-90 06 4c cf c6 b5 2d 89   .-.+5.....L...-.
+    0030 - 88 19 14 88 20 ce 8e 31-ac b1 22 d1 23 ef 80 db   .... ..1..".#...
+    0040 - 96 32 d8 68 76 bc 07 2e-59 4f d3 33 1b e3 5e 39   .2.hv...YO.3..^9
+    0050 - bf c4 9f d4 a8 4a 3a 92-8e 18 e8 37 ad f3 43 d2   .....J:....7..C.
+    0060 - 62 84 74 e4 f8 0f 2f bd-cb 81 a8 ae d7 a0 33 be   b.t.../.......3.
+    0070 - c0 4d 0e 93 b3 e2 a3 ed-f3 80 48 3a 49 10 0d 43   .M........H:I..C
+    0080 - 9f c0 9b 71 72 16 83 56-f6 3b e7 b5 da 97 88 1c   ...qr..V.;......
+    0090 - 73 99 e0 84 b6 97 24 a1-00 4f 7a 14 50 78 91 98   s.....$..Oz.Px..
+    00a0 - d9 97 cb 21 aa 65 50 c0-f3 e9 27 75 4e b1 0b 73   ...!.eP...'uN..s
+    00b0 - 2b f3 25 5d 25 8a 3f 88-5b 5d b9 6d cb 0c fb eb   +.%]%.?.[].m....
+
+    Start Time: 1472790523
+    Timeout   : 300 (sec)
+    Verify return code: 18 (self signed certificate)
+---

@@ -1,0 +1,68 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=dnsme
+   i:/CN=dnsme
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIC8zCCAdugAwIBAgIJAKGPtnUkp+spMA0GCSqGSIb3DQEBBQUAMBAxDjAMBgNV
+BAMMBWRuc21lMB4XDTE2MDYxNzE2MjU1NVoXDTE5MDMxMzE2MjU1NVowEDEOMAwG
+A1UEAwwFZG5zbWUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDWmzCN
+SJ71HBsZ296dBeLmVgDLvEBuLLBK4bG69/HaKrRN7xjMHaIysSyvZqj50KdyqdCE
+RYTK2FiKZiv7UwDbCBGuDwSQl++qdUTHvhjNav7U5kTiQ9xhYKCctVbH9v/AsYbh
+xBjI24/YUwnJT3qJPytxclpYST6h8EA1PjradZFES7DBtC2MU9tlHVAOuZXkFFGf
+ZwIGOve4cIDCp0dy8UwpCBA4SrbUGj722QKoBgfacOGbo6XpksayN0aCDa9h68sf
+8CAq800j+ODIrxOFjgje3rgg2DzARXdid37zSRL6hWbCVA0hpt6WBMsCl6P1ufFx
+cm2+T3Ec3y5hMdcTAgMBAAGjUDBOMB0GA1UdDgQWBBS/WaQ7T8r2qE5oIF3jft8R
+NkmgkjAfBgNVHSMEGDAWgBS/WaQ7T8r2qE5oIF3jft8RNkmgkjAMBgNVHRMEBTAD
+AQH/MA0GCSqGSIb3DQEBBQUAA4IBAQAeM7yVooRey4A/2gJ6tDPzN2Jrl5GQe+O9
+E/x6exQEewa0Xv3GLpYTKsqCW1N9u1/V0QiH24Q4jrLmllrzK+CdfFRZE+FsGuhF
+SSQ3+uAUoJxEzGl7+aICTAiRYStTVHHPUvDPN1wGRINFabqdTzCt9bxlUdfTkDjw
+exgGA9EA8eYNjvXJ3ROpfpzoqoBFSA/4KQ0QVoT/uugeVNoLU7JrUkupjYKK9RGp
+VJsPt/7PydteT5bBv9nDLXxJy/ukqnogt7uuewJEinxIvF07DNNsAfIfjrZNglx0
+ElaVv5HXOU8jVOmZc0ZVSwfqgyR5ueepqB6krI6yQL/Pr/rvz33U
+-----END CERTIFICATE-----
+subject=/CN=dnsme
+issuer=/CN=dnsme
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1434 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 23382761B0BFC997F7AC360FA6B6493BDC46E25311F71C097669C2E24ED25902
+    Session-ID-ctx: 
+    Master-Key: 6725BCCD5612CFFC618A1D2A162E73A25D9693211FC1DBFC37EB79BC1D03C6F38007DB7DE5225D5ACFF9148C8D82051E
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c4 a1 db 6e 31 4e e8 d3-11 ec 1d 41 25 f8 01 8b   ...n1N.....A%...
+    0010 - 05 d8 fe 25 56 8b 19 26-ef dc 30 6c ee f5 d3 97   ...%V..&..0l....
+    0020 - 24 28 82 23 3b db fc cc-0b a0 02 ac 7f 90 a0 fe   $(.#;...........
+    0030 - 35 62 9d fd d5 16 68 a0-05 30 40 40 ae 6f 90 94   5b....h..0@@.o..
+    0040 - 7a 72 89 b7 aa e0 14 80-8d 3c 34 ad 8c 64 db 42   zr.......<4..d.B
+    0050 - 54 ca 85 9a 85 94 d3 c6-77 15 37 01 c7 42 74 3c   T.......w.7..Bt<
+    0060 - ef 57 71 e0 a6 4d a2 20-de 84 74 58 26 25 81 65   .Wq..M. ..tX&%.e
+    0070 - 47 71 d4 28 20 35 9a 82-00 8c 6e 35 aa 3e 46 ff   Gq.( 5....n5.>F.
+    0080 - 12 5b 13 20 78 47 16 ba-59 e9 e0 8c 8c 7f 92 7f   .[. xG..Y.......
+    0090 - 6f 87 b1 fe cf 4e 63 e4-d5 88 2e 99 2b e1 39 4e   o....Nc.....+.9N
+    00a0 - d7 aa 10 b2 6e 01 93 df-3d 8b 78 29 8e 32 a0 95   ....n...=.x).2..
+
+    Start Time: 1472790466
+    Timeout   : 300 (sec)
+    Verify return code: 18 (self signed certificate)
+---

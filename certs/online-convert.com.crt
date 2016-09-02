@@ -1,0 +1,77 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=*.online-convert.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIERTCCAy2gAwIBAgIDCiNrMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
+NTYgQ0EgLSBHMzAeFw0xNjAyMDgxMDQyNTZaFw0xODA0MTEwMTExNTZaMB8xHTAb
+BgNVBAMMFCoub25saW5lLWNvbnZlcnQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA3kgv3dfnbg/dVz2H3fdoxuZonKKZt9TozDYvMT2w5MB0pSTG
+w6CD3LfaVMq4qKPJRo39mk+i7w7WwhsYf/3+iL1TP78J09e1gRQgZrdRCD3ly+a8
+/pldH4IzFUNhsKdPKQi2eeZDAQCZbigsdbAjv8CeFult/nCJsVOra4+GIp2+/WE+
+W/9HlKKo8ZhAHKCHgToz+06F3QjmcAVnFyGbRpCbOS3g/LqAk2arCLUnWZVgDslK
+gwW3RgOvjdVvwxSy0K+AohUs1JBMr8QoOEXG+5vQCKSSsVqFs6XMCD2TE0RpB8uB
+ctzPsgJwffkrp2tZU/9rqN8ZMS+q9hNWPjMBEQIDAQABo4IBYDCCAVwwHwYDVR0j
+BBgwFoAUw5zz/NNGCDS7zkZ/oHxb8+IIy1kwVwYIKwYBBQUHAQEESzBJMB8GCCsG
+AQUFBzABhhNodHRwOi8vZ3Yuc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8v
+Z3Yuc3ltY2IuY29tL2d2LmNydDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMDMGA1UdEQQsMCqCFCoub25saW5lLWNvbnZlcnQu
+Y29tghJvbmxpbmUtY29udmVydC5jb20wKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDov
+L2d2LnN5bWNiLmNvbS9ndi5jcmwwDAYDVR0TAQH/BAIwADBBBgNVHSAEOjA4MDYG
+BmeBDAECATAsMCoGCCsGAQUFBwIBFh5odHRwczovL3d3dy5yYXBpZHNzbC5jb20v
+bGVnYWwwDQYJKoZIhvcNAQELBQADggEBAE1sWC2RqsThIf0I2SHc0hYYLywg1w6H
+CSV4FhzkecL8dftMydo5xU4q1ROcS7+kVTckjzzwE4lZZXU2voEalzjcHC7l8FDZ
+ERFZjJ1cK8LJrNpB3cUj1Sa5g8TfeB06XXmQB6XvAftqDvNgKvt/twL7cMpKuBLQ
+twai2saV7iIe8FPxFJgXzwFeIjPY/Esjmq6MiCmdkP3WweKo3CN4zOscNfmEuXJe
+57Ht4HCS4zsgOouosFkij1kFTC4VzwiHkaEvgzF8IsIrTGnq12+vwKbecH+HMN8A
+kfFP2benmKZeIIouKbVddbfwvJDMABIpPIAk/Hb6Ov0iurzdkMuZNbU=
+-----END CERTIFICATE-----
+subject=/CN=*.online-convert.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2840 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 1206045B36F2AD8BF1D3EE3B620B5C1B7399D36CD39DB5887CAA626FAE9668D4
+    Session-ID-ctx: 
+    Master-Key: EC3C27EFBC9B941AAD5EDF027C953D0C42713CB6D2772115D8621C5949BB0DAD672F1A961D79E7D73B1058B1DAAF61D9
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 10800 (seconds)
+    TLS session ticket:
+    0000 - ea 0a 91 58 fe c7 d4 fc-d5 31 f5 25 3f cf 9f 86   ...X.....1.%?...
+    0010 - 9a 61 43 24 cc e1 a9 39-ae d7 5c 8e 7c c3 8f 3e   .aC$...9..\.|..>
+    0020 - 8e 21 61 9a 86 99 5d 28-eb 23 8b 7c 6e fc 0d 13   .!a...](.#.|n...
+    0030 - cc bd c6 df d5 90 73 02-93 33 55 fe e4 d6 73 90   ......s..3U...s.
+    0040 - 7e 00 50 11 7e 3a 04 59-23 fd 05 f4 81 fd eb fc   ~.P.~:.Y#.......
+    0050 - 2b 92 c6 e2 d4 d7 cd ae-95 46 90 ac 86 9f cd 6a   +........F.....j
+    0060 - 42 10 1b 4f 6a a7 88 e4-1c 96 7a 62 79 35 d7 65   B..Oj.....zby5.e
+    0070 - b9 dd da ec e3 0c f9 88-d8 12 40 56 09 6c 2d 26   ..........@V.l-&
+    0080 - 44 63 1a 4c 20 3c d3 f7-8e cf 13 5b b0 8f 0d 3a   Dc.L <.....[...:
+    0090 - 6d d7 ad 3a 6c 21 f3 a5-93 58 d2 a4 c5 1d 34 68   m..:l!...X....4h
+    00a0 - 43 20 7e 95 c1 b6 eb a2-5c 65 47 ca 0d 71 56 c2   C ~.....\eG..qV.
+
+    Start Time: 1472790645
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

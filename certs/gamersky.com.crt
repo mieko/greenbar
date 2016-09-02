@@ -1,0 +1,69 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=WIN-EQ4I6U7VTOB
+   i:/CN=WIN-EQ4I6U7VTOB
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIC9zCCAd+gAwIBAgIJALgQgrDBzgnCMA0GCSqGSIb3DQEBBQUAMBoxGDAWBgNV
+BAMMD1dJTi1FUTRJNlU3VlRPQjAeFw0xNTAxMjIwOTUwMjNaFw0yNTAxMTkwOTUw
+MjNaMBoxGDAWBgNVBAMMD1dJTi1FUTRJNlU3VlRPQjCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAKi1diuo82NIltEi4XloCSTG0qnzY0UJc+NK7VaYgw4b
+wNjFKjlEshDTLlmlKe/28oDamyjIDdLVCef2CBvV6YbkvRusp1/m/y2G66aXtu3k
+2V7SFLk0Uu1PnFI4hJX96OKSzlJwlSHcRu28ebiwkm73eAWAOrwaIl11Cv+vcWM2
+Qr2bcLrpTK7bfIDkn4vbgeIIYUZJQp9zGYmU7rB8OBYs/PyhKjFN30JO+zIJLKMK
+wa5OcL/1uBCyIVaqYjAnyx9zysMHzxH80FnCUBzWkE9grVA2dK7SQtkIIQgLLuBI
+UfFTOH4hb3dkRRTTvnnrZGsJEO3f/A1sXcf21++yc2MCAwEAAaNAMD4wCwYDVR0P
+BAQDAgQwMBMGA1UdJQQMMAoGCCsGAQUFBwMBMBoGA1UdEQQTMBGCD1dJTi1FUTRJ
+NlU3VlRPQjANBgkqhkiG9w0BAQUFAAOCAQEAQpRa6qqc4VF13mErnh8+6FTnybOB
+N71PYCi3dwgdZ2UCBXMXcIYj6tFeu5DKDW//p3IW/46Mm9STWbRqoiPx1hF27Jhr
+ZIw0toQQ5DgOJCkwci1KDbxtj8P4SLQQGjpjggBgz4EyKsbRmOOhvyyGXBD7z2KH
+/0hrlO4d723TbT42ILYzHdbOyu6Ux8gcXF3qT469nYHW+nxVFtsAZJLfQYNaJIVz
+IHu++cTYFur041MN7T77uQT6dCaNR1KU1FpAWEKwXBqTPY07yIRbwksbTyFam0q0
+FXAUyADhHChie5Syb9A5/aCEKOsMyvvrlPJaMdqV2UgXrML1QIjAjiWv6g==
+-----END CERTIFICATE-----
+subject=/CN=WIN-EQ4I6U7VTOB
+issuer=/CN=WIN-EQ4I6U7VTOB
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1454 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 630B42A73C538FF65CF563C26EBE9C74304087F6E26A7C1EEB2CC2731CAAFAAE
+    Session-ID-ctx: 
+    Master-Key: CCDB2729939A3518D09FB6E89AC099FF04761A62417665308E804F7A69C4CA496F68643B5C10F8AA482DFB2B886F6D22
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 52 d9 a3 82 28 04 da 55-fa d3 68 07 05 79 d6 b0   R...(..U..h..y..
+    0010 - 9d 3a 79 e7 40 0d d6 e7-fe 66 e7 6c 18 30 16 8f   .:y.@....f.l.0..
+    0020 - 1a 41 ca f8 99 ef e8 ec-8f 19 96 f8 1d f2 74 9d   .A............t.
+    0030 - cd d5 bb c6 f9 41 41 af-cd b8 82 db 8f db 29 e4   .....AA.......).
+    0040 - ec 1e 76 55 86 a2 48 9a-97 bf 7a ee 2d f4 b9 21   ..vU..H...z.-..!
+    0050 - 26 e7 f8 b4 b7 fd d2 52-ad 43 de dd f8 2f 42 1a   &......R.C.../B.
+    0060 - a1 85 15 6e a8 e2 fc 11-ed d7 a6 9d 8a d7 b7 85   ...n............
+    0070 - 8b 72 f6 50 6c 21 54 18-82 96 42 16 26 a0 94 8e   .r.Pl!T...B.&...
+    0080 - d1 4d 09 ce 91 47 d9 74-6b 46 ed d2 c9 47 33 09   .M...G.tkF...G3.
+    0090 - b9 09 84 f4 ca d3 8c cb-17 95 fa 49 da 55 7b a9   ...........I.U{.
+    00a0 - 6b 28 a5 00 ab 0e b9 b7-51 e7 e6 80 84 96 19 a1   k(......Q.......
+    00b0 - 12 65 9c 1c e3 da 90 5b-79 b7 dc 0e 9c c2 a4 b2   .e.....[y.......
+
+    Start Time: 1472788243
+    Timeout   : 300 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

@@ -1,0 +1,77 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=clipper.360doc.com
+   i:/C=CN/O=WoSign CA Limited/CN=WoSign CA Free SSL Certificate G2
+ 1 s:/C=CN/O=WoSign CA Limited/CN=WoSign CA Free SSL Certificate G2
+   i:/C=CN/O=WoSign CA Limited/CN=Certification Authority of WoSign
+ 2 s:/C=CN/O=WoSign CA Limited/CN=Certification Authority of WoSign
+   i:/C=IL/O=StartCom Ltd./OU=Secure Digital Certificate Signing/CN=StartCom Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEqjCCA5KgAwIBAgIQXnZtY2WuuPz6gTtpxKRLMTANBgkqhkiG9w0BAQsFADBV
+MQswCQYDVQQGEwJDTjEaMBgGA1UEChMRV29TaWduIENBIExpbWl0ZWQxKjAoBgNV
+BAMTIVdvU2lnbiBDQSBGcmVlIFNTTCBDZXJ0aWZpY2F0ZSBHMjAeFw0xNjA0MTEw
+OTA2MThaFw0xODA0MTEwOTA2MThaMB0xGzAZBgNVBAMMEmNsaXBwZXIuMzYwZG9j
+LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMgZJp8XfY1XmTk/
+Ogldy9XUYZ/Q4yPYmZknDhNCFuHA3E+zTPqURdEULlNHskaiqY7xOLPwDqsXVeOz
+T97F7W992mgqBimvP5J+xR0YzdwtlrCYp38K/RVHEvg4cEFk5OXa2E/FFHKBfifB
+VUfR3VzZ1CYXFU78MuubetPYJeK6LbJmDGyE37BdxIcTOlUDThS2HJKt2JuIpEiW
+r6IWGbh7mNeU1rEHts/eY6ewPLJ4Bdc2Qqmi/TxIA7s6zvAvnUbVuyZMyYAyHWKG
+mV8wrWjjszFvs9F+1IEITwFmjKb9uJcKYGY3+jfeCkOTLINiu7wI6KYAp1/w0gxZ
+AZ1++WUCAwEAAaOCAawwggGoMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggr
+BgEFBQcDAgYIKwYBBQUHAwEwCQYDVR0TBAIwADAdBgNVHQ4EFgQU9zCTPsjUoSEG
+QlXtIY2UxfOjL7UwHwYDVR0jBBgwFoAU0qcWIHyv2ZWe60MKGfLguXQOqMcwfQYI
+KwYBBQUHAQEEcTBvMDQGCCsGAQUFBzABhihodHRwOi8vb2NzcDEud29zaWduLmNv
+bS9jYTYvc2VydmVyMS9mcmVlMDcGCCsGAQUFBzAChitodHRwOi8vYWlhMS53b3Np
+Z24uY29tL2NhNi5zZXJ2ZXIxLmZyZWUuY2VyMD0GA1UdHwQ2MDQwMqAwoC6GLGh0
+dHA6Ly9jcmxzMS53b3NpZ24uY29tL2NhNi1zZXJ2ZXIxLWZyZWUuY3JsMB0GA1Ud
+EQQWMBSCEmNsaXBwZXIuMzYwZG9jLmNvbTBPBgNVHSAESDBGMAgGBmeBDAECATA6
+BgsrBgEEAYKbUQEBAjArMCkGCCsGAQUFBwIBFh1odHRwOi8vd3d3Lndvc2lnbi5j
+b20vcG9saWN5LzANBgkqhkiG9w0BAQsFAAOCAQEAI5bL6MxF2qJemCBmFMai0TPg
+egLQXUxKNYhM1Fxb5scXwHTJiGv7+i3MWJ4mIFKjoZq2REeM5cKaPqdlnoIfFqxF
+zlYr3smvOS2zmuduV+CKD4NoyWqySstqHF4TObditSY5mzX3i0a8Prr6DaW+f4a2
+3fml6LpBdhru1rxAE3UaFu4vF+e+jx+9ECaaKPEGTRUoGTLbS4qC/6NxUKOV7JGk
+1OTL0tP9sDSK+py9xh2BSLbcNQ7FQq7o/pS5+w3uArmXUXOpp9uau4Zlo+8uBdLt
+lC3mxG72mTXsnGQ36E+2cU1bExvyte5g/wfci0Hu5FzyEWw5qFJi97XTV4jQbA==
+-----END CERTIFICATE-----
+subject=/CN=clipper.360doc.com
+issuer=/C=CN/O=WoSign CA Limited/CN=WoSign CA Free SSL Certificate G2
+---
+No client certificate CA names sent
+---
+SSL handshake has read 4608 bytes and written 634 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : AES256-SHA
+    Session-ID: C744A2966BACF4138F6C133D0B5941E58CCA0681F01DDB334161965D5547AA55
+    Session-ID-ctx: 
+    Master-Key: 6E6A18FF001B545CDD8164D9E10EA2B593B052C08399EC282488B767C7FA2BF959E3C3C7080860A9AD1A5607ACA98EF7
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket:
+    0000 - 92 70 36 56 4d ef 97 14-17 60 f3 fe 2d 2a 57 43   .p6VM....`..-*WC
+    0010 - 26 72 2b 7a 74 9d a9 0a-77 b5 17 a3 ae 71 79 c8   &r+zt...w....qy.
+    0020 - 98 ff 24 ca 89 25 33 40-09 e5 b5 40 9c 22 89 4f   ..$..%3@...@.".O
+    0030 - 7d 66 0e a3 48 5b 6e f6-0d 9e 0d 45 7c 45 7f f0   }f..H[n....E|E..
+    0040 - 9c 5e 62 8a 55 c5 e0 19-85 ed 58 a6 1e 9c a4 41   .^b.U.....X....A
+    0050 - 29 5d 61 48 51 ff 69 3f-7c 32 c6 f7 aa 54 65 f8   )]aHQ.i?|2...Te.
+    0060 - 07 19 6f ea 53 11 b8 fc-90 08 f5 85 7a 88 95 84   ..o.S.......z...
+    0070 - 97 a7 6e a7 54 7e fb 81-9e 85 2a ef d7 c5 0b 43   ..n.T~....*....C
+    0080 - a8 81 35 fc a0 45 b2 1d-84 92 66 b8 79 00 42 8a   ..5..E....f.y.B.
+    0090 - 04 bb 6e 15 1c 67 74 31-48 0a e0 e5 4b c2 78 73   ..n..gt1H...K.xs
+
+    Start Time: 1472788506
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

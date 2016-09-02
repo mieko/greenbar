@@ -1,0 +1,84 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Georgia/L=Atlanta/O=The Weather Channel LLC/CN=*.wunderground.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTDCCBDSgAwIBAgISESHm/ixAdXVLlUq/8IY1gNQZMA0GCSqGSIb3DQEBCwUA
+MGYxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYD
+VQQDEzNHbG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hB
+MjU2IC0gRzIwHhcNMTQxMDI4MTgwNjAzWhcNMTkwOTE1MTgyNTE4WjBwMQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHR2VvcmdpYTEQMA4GA1UEBxMHQXRsYW50YTEgMB4G
+A1UEChMXVGhlIFdlYXRoZXIgQ2hhbm5lbCBMTEMxGzAZBgNVBAMMEioud3VuZGVy
+Z3JvdW5kLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMNaNXgL
+U2YT9QoVtfbHGY3/HGb1difAH0/E3MnfUfn0W+umjm+OU1b/3yC8Awt8UdyTb4BG
+PLSmUa0kGsVOMR8Ljfe0LdOJFLcy7wajhaFOpAIxdu8ScdFOWTPA2Phsd0oI45v5
+4wF1e0EMteH25oaqCLZC7391YBIkDdvUooJv4rDUHA+GtCffKF4tzMGsWr/V5Vt0
+8gd5ONnPSbtgPRafUtzNPlA08UoIDs8Mz77ZLkLV3YjGAp8OPHysvxMdv+7WIa6R
+cm5m5M3xvqXoLUV/3TjHAAkZJXXeLJ9czElXiHYSCUw2giCHIgWfaPh+vnzYV7en
+cHxJVxvtoUq0s90CAwEAAaOCAegwggHkMA4GA1UdDwEB/wQEAwIFoDBJBgNVHSAE
+QjBAMD4GBmeBDAECAjA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5nbG9iYWxz
+aWduLmNvbS9yZXBvc2l0b3J5LzAvBgNVHREEKDAmghIqLnd1bmRlcmdyb3VuZC5j
+b22CEHd1bmRlcmdyb3VuZC5jb20wCQYDVR0TBAIwADAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwSQYDVR0fBEIwQDA+oDygOoY4aHR0cDovL2NybC5nbG9i
+YWxzaWduLmNvbS9ncy9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMi5jcmwwgaAGCCsG
+AQUFBwEBBIGTMIGQME0GCCsGAQUFBzAChkFodHRwOi8vc2VjdXJlLmdsb2JhbHNp
+Z24uY29tL2NhY2VydC9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMnIxLmNydDA/Bggr
+BgEFBQcwAYYzaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2dzb3JnYW5pemF0
+aW9udmFsc2hhMmcyMB0GA1UdDgQWBBRdsVUruPAPpEFDqCPlrt7IqUmRoTAfBgNV
+HSMEGDAWgBSW3mHxvRwWKVMcwMx9O4MAQOYafDANBgkqhkiG9w0BAQsFAAOCAQEA
+RSrWT597CZKiXa9ZkOc9wflKPZy/fdqihA+euuuGRnkvcKwLnb6SklUCuWG3Cmv7
+64cbyYP+WGYn3qPjYsfQLL+jwNTQzl3+Chn6QPtyjRCqZO6wXqABsxggAEdaSrCi
+hgQdiCzFaTA2rR9ppMrwzXxR8DPuxGBSPomA0jZEJ/fnLzu5dAgWmdYDqRQ/UC+9
+Yb76f7AfqLHcXvN+RpVaVhAHqqdVV2ao/qOTUeMffhaiWpF/V5kpi0Q5Zzhiw8/d
+q/rg/IDn2ckQaW6DXA+Q5S1dAExz0Bbo/AdgMypwIYr3u7aiP5dsQF9Q3q6AIhT1
+KLzIBEwLu/V0WOT9ifht6g==
+-----END CERTIFICATE-----
+subject=/C=US/ST=Georgia/L=Atlanta/O=The Weather Channel LLC/CN=*.wunderground.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3187 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 8E0DC5D5C103896CAE9EA409F9BFA2DC04E22E4CE5CD8424928A247906F0D513
+    Session-ID-ctx: 
+    Master-Key: 22B24BFB2BD77211CDCA841F614EED21E5358E6B39ED66BD0261DFCDE526036273AD6942FC692A32310058DD1C0CBD40
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ea d5 0d ba ec 29 9e 5b-04 fb a7 f0 22 91 da ed   .....).[...."...
+    0010 - f3 3a 53 59 c6 4e 3f 0d-fa ae aa b0 0e 7c 7d 66   .:SY.N?......|}f
+    0020 - 96 90 55 cf 9b 9d a9 0b-89 d6 84 0f 2b b6 34 63   ..U.........+.4c
+    0030 - f7 58 2c 0a 9f fd aa 8a-60 a2 b9 20 4e 73 1d 6e   .X,.....`.. Ns.n
+    0040 - 9e c3 5d 8f 94 4d cf 86-92 2f cb f2 34 32 6b 36   ..]..M.../..42k6
+    0050 - f8 0b 87 5c ad 08 70 5e-a0 0c 02 8e 23 33 f2 dd   ...\..p^....#3..
+    0060 - a0 e5 8b 20 80 55 7e 7b-f5 25 0e 76 9c 33 59 27   ... .U~{.%.v.3Y'
+    0070 - 39 6e 78 c3 fb 8c 0b 05-46 9f 51 ad 2c e9 37 44   9nx.....F.Q.,.7D
+    0080 - f5 72 d0 60 da 71 c2 5f-35 3f 63 25 77 62 fd ab   .r.`.q._5?c%wb..
+    0090 - d0 31 ee 42 69 c2 f2 2f-a3 a7 e8 fe 6e 72 e1 b6   .1.Bi../....nr..
+    00a0 - 8e c3 2f a6 26 6d c5 a9-e0 73 bb cd 16 df 75 07   ../.&m...s....u.
+    00b0 - 44 67 43 23 b4 a9 a0 2e-3b f2 d0 67 f9 39 fc 4b   DgC#....;..g.9.K
+
+    Start Time: 1472788405
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

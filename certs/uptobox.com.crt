@@ -1,0 +1,78 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl366817.cloudflaressl.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID+DCCA5+gAwIBAgIRAOC+h+Xzlnv/BqXjZK41KxUwCgYIKoZIzj0EAwIwgZIx
+CzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAOBgNV
+BAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTgwNgYDVQQD
+Ey9DT01PRE8gRUNDIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIgQ0Eg
+MjAeFw0xNjA3MjgwMDAwMDBaFw0xNzAxMjkyMzU5NTlaMGwxITAfBgNVBAsTGERv
+bWFpbiBDb250cm9sIFZhbGlkYXRlZDEhMB8GA1UECxMYUG9zaXRpdmVTU0wgTXVs
+dGktRG9tYWluMSQwIgYDVQQDExtzc2wzNjY4MTcuY2xvdWRmbGFyZXNzbC5jb20w
+WTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATe12/q2Fio4yWG8CV9rzFsBpdOVZvk
+nCsj4xC10ovY8EfngKKfYh+OeuA65Co+FmDwIjmPUDzayn3vDicq4sKLo4IB+TCC
+AfUwHwYDVR0jBBgwFoAUQAlhZ/C8g3FP3hIILG/U1Ct2PZYwHQYDVR0OBBYEFIpA
+AJZY4aJhjq1OswIY4pFdxT/NMA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysG
+AQQBsjEBAgIHMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5j
+b20vQ1BTMAgGBmeBDAECATBWBgNVHR8ETzBNMEugSaBHhkVodHRwOi8vY3JsLmNv
+bW9kb2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZl
+ckNBMi5jcmwwgYgGCCsGAQUFBwEBBHwwejBRBggrBgEFBQcwAoZFaHR0cDovL2Ny
+dC5jb21vZG9jYTQuY29tL0NPTU9ET0VDQ0RvbWFpblZhbGlkYXRpb25TZWN1cmVT
+ZXJ2ZXJDQTIuY3J0MCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC5jb21vZG9jYTQu
+Y29tMEIGA1UdEQQ7MDmCG3NzbDM2NjgxNy5jbG91ZGZsYXJlc3NsLmNvbYINKi51
+cHRvYm94LmNvbYILdXB0b2JveC5jb20wCgYIKoZIzj0EAwIDRwAwRAIgGbpjdA0B
+Nx2zArbo5R3K0JOahCPasA9DWq5vebkPUFoCIC36SYFsrepC33dd8KaTLO2z1UQQ
+CMO90cmxxe7Qn61V
+-----END CERTIFICATE-----
+subject=/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl366817.cloudflaressl.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3422 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: 161F63CDE7B2A18A5D1B74868814D289ACFA2B8140E4B74C74A90FC32691C1DB
+    Session-ID-ctx: 
+    Master-Key: 2489AFF18C607CDA0713D105A2D81789FB40425800139CADA49B57B17CF058D9B5EC24096047134A71C567829539F169
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 67 3e 33 d7 cc 57 79 4c-b2 85 a3 1c c8 1b 69 31   g>3..WyL......i1
+    0010 - fb 63 8b 58 0f a8 32 f3-1d 7b fc 70 5f f0 6f 30   .c.X..2..{.p_.o0
+    0020 - a2 50 a1 61 1d c1 20 79-be 38 91 a3 71 97 c0 9d   .P.a.. y.8..q...
+    0030 - 53 25 6f 90 23 f1 a3 a0-53 2e 33 2f f2 ba 89 db   S%o.#...S.3/....
+    0040 - 68 f6 ff 29 66 27 a7 c7-6b cc 46 ea 2f e6 bf 80   h..)f'..k.F./...
+    0050 - d5 48 ab 5d 6e c8 96 1d-19 a6 1d 26 fc a9 13 cd   .H.]n......&....
+    0060 - bf f7 c2 46 bd 3b 04 b6-a5 ee d1 b9 cb cb 8a 4d   ...F.;.........M
+    0070 - 9f 4c 5a 22 7f f1 eb 28-98 d5 4e e2 fb 73 86 c0   .LZ"...(..N..s..
+    0080 - 03 60 3b a8 9a 46 88 d1-5a 51 dd db 36 2d 20 85   .`;..F..ZQ..6- .
+    0090 - ff e2 41 70 93 94 54 f6-6e df c9 ef 0d cf e3 6b   ..Ap..T.n......k
+    00a0 - 5a 22 3d 49 32 00 be db-b0 e8 d0 54 bb 68 67 19   Z"=I2......T.hg.
+
+    Start Time: 1472788838
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

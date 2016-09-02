@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=IN/ST=Haryana/L=Gurgaon/O=Ibibo Group Pvt. Ltd/OU=IT/CN=*.goibibo.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE8TCCA9mgAwIBAgIQcycACshMHPTFiRG/NuyK8DANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMTEzMDAwMDAwWhcNMTcwMTExMjM1
+OTU5WjB1MQswCQYDVQQGEwJJTjEQMA4GA1UECBMHSGFyeWFuYTEQMA4GA1UEBxQH
+R3VyZ2FvbjEdMBsGA1UEChQUSWJpYm8gR3JvdXAgUHZ0LiBMdGQxCzAJBgNVBAsU
+AklUMRYwFAYDVQQDFA0qLmdvaWJpYm8uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAt1t92kVXzxuw9QpioEawUkZJYllTJS4vLtkPPFzunsBIhN7F
+tkePt70YXAs1jsLTusJgSr746+iDi/HKI7y6/B8zCghIHOX7vOsUcxlGRcw7eQoe
+/rXL/n13fgqPffxr7Mz+mrwT4NcbHYp0ji37ybp27r5PknpMRNkRblNkOo+jhcJ6
+gkRj47IuIAH+5l4VwJ1I9HGX2+qRu5AJlzcusMLibIuy8bpzWfFXg2jc49chBNUZ
+eqMSM+sGyH0u9po0LdIcXDtDd7+Fg9knEyJ1EhToDUphnAMyJe7sQzesg3N2yKrr
+y6vh3/Ukz9cVhig1uP5Brjcw9zGrBSteTFquMQIDAQABo4IBrDCCAagwJQYDVR0R
+BB4wHIINKi5nb2liaWJvLmNvbYILZ29pYmliby5jb20wCQYDVR0TBAIwADAOBgNV
+HQ8BAf8EBAMCBaAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2duLnN5bWNiLmNv
+bS9nbi5jcmwwgZ0GA1UdIASBlTCBkjCBjwYGZ4EMAQICMIGEMD8GCCsGAQUFBwIB
+FjNodHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkv
+bGVnYWwwQQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jl
+c291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xafDBXBggrBgEF
+BQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5jb20wJgYIKwYB
+BQUHMAKGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MA0GCSqGSIb3DQEBCwUA
+A4IBAQBG69NzDDDWZfAFnRUyo0H6GgRgQdT9kYOdNyyX80Bn+IQzEL/KxtwZ9WSR
+7FN21PD5qGMcfb0KjbgKrLKFqufqq+4l3VEEgawojxcP17RM9NYAhTE8UVpysdGz
+J5Y+WGQTGQBIPlrTppUmGa790OyojIJq+hSSZFQzas43VEE+eHJjJxgegs96/RQq
+z00Blwlc/LpK1P2Xbef6E9fGE8E+VAHK2g+vKJBRDqAVArnij5YL0rjtEAT+gq3W
+CQSQs65OiU+eOpjJpX8JnL6wM244DK+rx8tmtjftRZEc64v9ApBKiGkJ2hNF4F3P
+WDaHVz3GoABtDhXdUTAdGHQNEB3I
+-----END CERTIFICATE-----
+subject=/C=IN/ST=Haryana/L=Gurgaon/O=Ibibo Group Pvt. Ltd/OU=IT/CN=*.goibibo.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3897 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: FF4DEB17E56694BC6681A27D4533A0AF7160D982A7BE4691CB91C5B5BB4A0FD2
+    Session-ID-ctx: 
+    Master-Key: F65118CF4444B836E54E70D1D226B13CEFF99219EA62B93E209BFB13F3FF27D3529F33E6696122B2036E9CBC9EF4AD1A
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 37 3c da d0 6d 04 80 cf-40 43 54 53 97 8c 32 1d   7<..m...@CTS..2.
+    0010 - 42 d5 85 a4 80 76 b6 c9-49 b6 41 56 89 9e 73 1c   B....v..I.AV..s.
+    0020 - a6 a4 b8 1f 22 e1 4e db-fd 13 20 e9 5d 74 fd 1d   ....".N... .]t..
+    0030 - b0 5c 99 3b 71 ba 36 f2-4b a6 31 fb 7a 05 97 39   .\.;q.6.K.1.z..9
+    0040 - a7 c9 d4 42 c0 91 5f 93-a7 59 dc 17 bc 5e a9 0d   ...B.._..Y...^..
+    0050 - 78 61 86 1a be 65 0a 41-a6 4d c5 d0 fe 65 ac a8   xa...e.A.M...e..
+    0060 - 3c 98 11 9b 80 34 7e 94-db a7 5e 70 60 35 6c a5   <....4~...^p`5l.
+    0070 - 24 06 1b 86 35 f2 85 14-7b ef 83 b2 35 76 ee 8e   $...5...{...5v..
+    0080 - 60 09 9a 9a fe c3 29 d3-d4 6c f8 91 a4 45 24 91   `.....)..l...E$.
+    0090 - af ec 28 fd f7 0f c8 b8-df 44 3c bd 90 93 33 a4   ..(......D<...3.
+
+    Start Time: 1472790487
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

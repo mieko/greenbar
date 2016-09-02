@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=NZ/ST=E9/L=Auckland/O=Drugsite Limited/CN=*.drugs.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFCjCCA/KgAwIBAgIQCAHqzBjuPfpD983r0BGNLTANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTQwMzI1MDAwMDAwWhcN
+MTcwNzI3MTIwMDAwWjBeMQswCQYDVQQGEwJOWjELMAkGA1UECBMCRTkxETAPBgNV
+BAcTCEF1Y2tsYW5kMRkwFwYDVQQKExBEcnVnc2l0ZSBMaW1pdGVkMRQwEgYDVQQD
+DAsqLmRydWdzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMg0
+9XMoecNLywbq+L7atkQAiAuaCooxFXf4Fse2Zk+ft6OOHVmLmq02sQsmxIHabaC7
+vkNh/9kHfIc8KqQuizkplQCRYnI8AALWfwNdrmMJBhptkTxFx5wCUK9kPPpdsSrv
+EIQ3+UO/vJCkiH82STEgES4WzPcQUo6Frte1oHe1gimh8Oeh0dwphzytiJuIYqDZ
+EcpPb1QpZmNX05WBfpgZdSFSx+09Jj/JJGNie+Va6rRSJksZ4IMAw0Unuz/Oqd+Y
+9VdI+EVxNrfUceX0tHs82KJ1LqHxXetXeHAd+Na3ArZB/46Zk99VQJZClpUBiPE0
+vqxCEOMjKCp+OJxuGVcCAwEAAaOCAdMwggHPMB8GA1UdIwQYMBaAFA+AYRyCMWHV
+LyjnjUY4tCzhxtniMB0GA1UdDgQWBBRnDF++dJ9QEx25UTnjYGfrcrbUIDAhBgNV
+HREEGjAYggsqLmRydWdzLmNvbYIJZHJ1Z3MuY29tMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4Yp
+aHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nMS5jcmwwL6AtoCuG
+KWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzEuY3JsMEIGA1Ud
+IAQ7MDkwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRp
+Z2ljZXJ0LmNvbS9DUFMwfAYIKwYBBQUHAQEEcDBuMCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRz
+LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQwDAYD
+VR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAY/fnvgtZsfB/8P9TYnAkGrN0
+Uho48u62w/iFS/NIieoKMhYxqWbQg0vLiQaNH5ZF9hQ6dDHswj96IKaFDWtkdU7v
+uyDHKRRRlpBh4VAseNeSiSrLY94/Dmm3vVSPt5HaClmrJuX+eu4ZAguwtRH6zBNL
+zsCRhqzwPt7H0FnLXl2DXcFz8bVr9/uUyZNOuj+G2bfaggIUCZ+8xawht67+H3UX
+/GehIVjR6TG9PmfT7eBFBeTplQGnj/ew5hdD3bjK9P2aK1Ap4HgnReyjVfBRWbs1
+SIJ4i3hirowZ1Cta7Ab68p94f8Q2YN3TxAziSh8N+kYn8nfxmBXwF4eF7J8wQQ==
+-----END CERTIFICATE-----
+subject=/C=NZ/ST=E9/L=Auckland/O=Drugsite Limited/CN=*.drugs.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3127 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 125A417B5531DB398018C21D571DAD72A0B9E940F2813FDC9E57DD47BA41F538
+    Session-ID-ctx: 
+    Master-Key: 4400A4D6879B838B798E623600CD6B8AA1BCB56611AD1E5C80007F4621DDCD0D583D097BC157CAF86AA4D83C93F44085
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 7e a2 75 0c 9f ce 88 96-58 bf f5 b2 a6 48 8e 3b   ~.u.....X....H.;
+    0010 - f1 9a 23 ca b9 81 19 66-8a 2c a6 4c a6 13 cc 40   ..#....f.,.L...@
+    0020 - 7e 4a 03 da 9a 7d e6 5c-d6 37 fa 66 b6 c2 b4 56   ~J...}.\.7.f...V
+    0030 - f0 68 ea 90 86 ae 3e d5-79 62 d9 a7 69 81 f2 7c   .h....>.yb..i..|
+    0040 - e6 3f d3 1c c7 2b 62 0a-5b 16 e0 83 64 72 71 d1   .?...+b.[...drq.
+    0050 - b5 d6 a3 22 d1 de de 55-33 c0 96 ea 2f eb b3 37   ..."...U3.../..7
+    0060 - cd b6 05 2f 8b 8c 98 00-57 5a 6c 91 49 39 b3 f4   .../....WZl.I9..
+    0070 - 5a 47 93 f3 27 eb 7f 6a-b7 8e 88 e7 03 2d 5c 1b   ZG..'..j.....-\.
+    0080 - 13 e2 ce a2 ed ae 7e 3d-e1 7e 9d 0f 8e de 16 29   ......~=.~.....)
+    0090 - 25 a4 46 33 ea a2 1d 82-df 5f f9 f4 27 bc e7 f7   %.F3....._..'...
+
+    Start Time: 1472790064
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

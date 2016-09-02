@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=New York/L=New York/O=Outbrain Inc./OU=Operations/CN=*.outbrain.com
+   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+ 2 s:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+   i:/C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEujCCA6KgAwIBAgIQFLTudqAkbtr0T56HK8J6WzANBgkqhkiG9w0BAQsFADBB
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
+aGF3dGUgU1NMIENBIC0gRzIwHhcNMTQxMDIwMDAwMDAwWhcNMTYxMjE4MjM1OTU5
+WjB5MQswCQYDVQQGEwJVUzERMA8GA1UECBMITmV3IFlvcmsxETAPBgNVBAcUCE5l
+dyBZb3JrMRYwFAYDVQQKFA1PdXRicmFpbiBJbmMuMRMwEQYDVQQLFApPcGVyYXRp
+b25zMRcwFQYDVQQDFA4qLm91dGJyYWluLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAL4pGUfCqmRuP1iDcPRADgH4T33tMWOWd0EVW0JdMYOirca4
+3j0D2lrqEPJjvQTPXReVV3+DJHZ5Vnbk8Owd0kr1Y7cKunVMvNc8swzNsnvMtriC
+8l9U9zC5qcu1INVLbADjVsOJ5CHhF75SuBE7O8zZ02WLd8ZWofAD2bFRx+YFOkQ3
+ATj1sZMT3cTqLe3XgzKteWKeMPOkFh37ITUIkT6AG2IFazK3PgSO97PfFs1jNg4Z
+REQxi3yE81GwSxZ06kbWVeJR1uLOJLHaZLMbY+DZIhIP/wL3NcVnAwU1M6YbdKrs
+HwH53EsfrlYV7AM0rRdoy6pio3OVQHrkw7SzjcMCAwEAAaOCAXQwggFwMBkGA1Ud
+EQQSMBCCDioub3V0YnJhaW4uY29tMAkGA1UdEwQCMAAwcgYDVR0gBGswaTBnBgpg
+hkgBhvhFAQc2MFkwJgYIKwYBBQUHAgEWGmh0dHBzOi8vd3d3LnRoYXd0ZS5jb20v
+Y3BzMC8GCCsGAQUFBwICMCMMIWh0dHBzOi8vd3d3LnRoYXd0ZS5jb20vcmVwb3Np
+dG9yeTAOBgNVHQ8BAf8EBAMCBaAwHwYDVR0jBBgwFoAUwk9IV/zRT5rAXTh9DgXb
+2S61UmAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL3RqLnN5bWNiLmNvbS90ai5j
+cmwwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsGAQUFBwEBBEsw
+STAfBggrBgEFBQcwAYYTaHR0cDovL3RqLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYa
+aHR0cDovL3RqLnN5bWNiLmNvbS90ai5jcnQwDQYJKoZIhvcNAQELBQADggEBAHZx
+Pg3lrZcABztYOzBKNMrO0Jc88xM5KX8KKYO9lE6JOGGeufrai/mplEKSg7/VgArH
+KcGktJpfdnRdIuykL1eABFkloiuxgjYjaR6fKG6CyhpBYZ4zXVSaXh32hkuIFzQM
+Za1xCNjd+F0Kz+jT34zDg+N7XxPqsTaFp96Vw1Gt2gISqA6VnZQynBAH8sX0uxkK
+kXmrZWkkfcVBbVdEl+/FYGEE/rlcOIk0t0D8djLIk+jcxBUbrqyCO4VeOYVHgDEV
+96Af7UASYoRhDhItMqdtEdO7KyiF0hdKUeW84nqlxoG41nLyVrzqFDQb4SgSdY7x
+h6fyJJhgdXGvKD0Wifo=
+-----END CERTIFICATE-----
+subject=/C=US/ST=New York/L=New York/O=Outbrain Inc./OU=Operations/CN=*.outbrain.com
+issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4182 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2E587A1C245B84C2ACDA2B5E328EFAABBF06FF27D18F38BB45B23E9AFB156703
+    Session-ID-ctx: 
+    Master-Key: 3034454374743CF15E160BAF17FA11C6259F2E5139C76BBAAAC72456A15725271221604E8353ECEC9E575191A83A7446
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 09 b9 16 b3 0b e4 d4 79-24 36 58 20 58 a5 dd 92   .......y$6X X...
+    0010 - 85 cc c6 bf 36 ec 1e 9d-d4 68 03 c7 19 48 29 ac   ....6....h...H).
+    0020 - 55 97 db f3 69 0a 4f 3a-6a 09 9b c3 15 f0 4b c9   U...i.O:j.....K.
+    0030 - 2c 45 9a a6 89 62 99 31-da f6 41 5b 6d 65 36 0c   ,E...b.1..A[me6.
+    0040 - 9a eb db 5d 29 6c e7 8e-7a 96 b3 1f 7e aa 6b 37   ...])l..z...~.k7
+    0050 - dc bd 5a 16 de c6 f4 e1-cf e9 32 bb fa eb cd 5d   ..Z.......2....]
+    0060 - b9 d4 aa 7d b6 83 4c ca-3e e8 7a bd f6 e8 86 31   ...}..L.>.z....1
+    0070 - 33 b0 47 4c 39 d7 7b 6f-de 52 1a a7 f7 19 e0 f2   3.GL9.{o.R......
+    0080 - cc 5c 91 74 c6 16 3c b6-ba 33 74 96 47 44 ef 99   .\.t..<..3t.GD..
+    0090 - c0 4e 8c 67 c6 3e 7c 6f-a6 82 50 bc 48 d7 cb 87   .N.g.>|o..P.H...
+
+    Start Time: 1472787907
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

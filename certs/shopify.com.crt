@@ -1,0 +1,83 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=CA/ST=Ontario/L=Ottawa/O=Shopify Inc./CN=*.shopify.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRDCCBCygAwIBAgIQDkrFyclKvLeYqco5hWvOdjANBgkqhkiG9w0BAQsFADBw
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xNTAzMjYwMDAwMDBaFw0xODAzMzAxMjAwMDBa
+MF8xCzAJBgNVBAYTAkNBMRAwDgYDVQQIEwdPbnRhcmlvMQ8wDQYDVQQHEwZPdHRh
+d2ExFTATBgNVBAoTDFNob3BpZnkgSW5jLjEWMBQGA1UEAwwNKi5zaG9waWZ5LmNv
+bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKVZare3yW8u6s1okd3t
+X9X5gtbAnl+OEjO2TUi38SP9rHGNDvRTpRuBJ5jYU2tCImH3jI+3pQR6A9rERavE
+PA2I7gOMRclcrJBnPYVXmopD6KephrSNHywISIy/GHdOU9TTSGpjQUp/N5aSE2Jl
+Q5IUkAUrLyiHntQkXuh2u1+eH+bQXmluxIQG53LK6wjopcykl5WsFEpDAXdO4joi
+y6/vTZIPUaKVS/nTKoDxEvDQ5n1aEwo30YcwrrCaMwMeW0ylkiXClO51cSgVUik6
+Svpxj/2HzVw7I3GlWuiWeFdAbP/X7kFfoBlJyJ4irjZQ7cqTM8EZbD+GnUJG7h55
+qgsCAwEAAaOCAekwggHlMB8GA1UdIwQYMBaAFFFo/5CvAgd1PMzZZWRiohK4WXI7
+MB0GA1UdDgQWBBRDXM1SEspeuVXykrOxlCUghkaHhTAlBgNVHREEHjAcgg0qLnNo
+b3BpZnkuY29tggtzaG9waWZ5LmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0dHA6Ly9j
+cmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nMy5jcmwwNKAyoDCGLmh0
+dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nMy5jcmwwQgYD
+VR0gBDswOTA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cu
+ZGlnaWNlcnQuY29tL0NQUzCBgwYIKwYBBQUHAQEEdzB1MCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC5kaWdpY2VydC5jb20wTQYIKwYBBQUHMAKGQWh0dHA6Ly9jYWNl
+cnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJIaWdoQXNzdXJhbmNlU2VydmVy
+Q0EuY3J0MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQELBQADggEBALaxyCFE+p0j
+/aFddHnZBEQoP72VK4vPVGqmjUIzNg8ZC7GlNayYQZtOM99AkvpDXk45Paoqg2/3
+3NCYYSNuFdvk9bOs6lurEnyBgU9xejQH6YtvFKafl1qbiC4yjyw6w5KwmS1nuIX5
+aqaDss9e29QSOxftJ6I6jyPQ5nJD598Jm0wlewYXRfnn+AeOY6vYd7bIyHjAe6lp
+G9IdsbYneHFuiRpwms4WY64M8M5dk1zS0rm1Iqkh2YB0xqIT7kD2KrOdc1gPaSj0
+w9xTaBrliFx36ZiDYO4OEteZ9AhJJzNlrCvJmV31QFyQGiIjBkkXwt02glGpK7Hh
+9qVysQjaXPY=
+-----END CERTIFICATE-----
+subject=/C=CA/ST=Ontario/L=Ottawa/O=Shopify Inc./CN=*.shopify.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3235 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: ABB2658A3FF9E465BE2C28B13E18633DB53D080BB27EE41D06AF73C7DE5FC635
+    Session-ID-ctx: 
+    Master-Key: F728CEEB4604F577A8A7FC196CD9E0AE361924625EA551A5C83629EF5EB879D75101DA3876856071AD38690706DE6746
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 3d 99 aa 1f e7 ad 4b 53-a2 9a b9 fb ae 24 3b 27   =.....KS.....$;'
+    0010 - 2b d6 17 df 0b 53 f5 e5-6d 1c 0f 23 b3 18 89 ad   +....S..m..#....
+    0020 - 2a de 64 b8 0a 8b f3 f1-99 8e 10 d1 59 56 5f 21   *.d.........YV_!
+    0030 - 04 04 0c 4c 97 57 86 75-45 d5 6b 30 7c 0f 72 fc   ...L.W.uE.k0|.r.
+    0040 - 50 a8 de 38 14 85 ff cc-ea ae 47 9f b9 5c 8a 78   P..8......G..\.x
+    0050 - 1a c6 ea 3b 43 e5 94 59-08 ba 1e 5a a0 98 fe a8   ...;C..Y...Z....
+    0060 - 34 75 ab 89 7d 6b 0f 32-6a a1 20 55 2f 86 f8 eb   4u..}k.2j. U/...
+    0070 - fd 56 c0 c0 cc 80 8c 44-ff 59 6c 98 f9 40 3e ee   .V.....D.Yl..@>.
+    0080 - 47 51 fa 87 8b 28 ad 49-44 39 7a 0a 67 70 e9 3b   GQ...(.ID9z.gp.;
+    0090 - 69 74 a0 06 1b 28 0d 81-d1 1c f0 ee 66 2a 7c 0d   it...(......f*|.
+    00a0 - e8 5a ef c9 1a 77 3e aa-dc 7f cb f8 a7 68 24 c6   .Z...w>......h$.
+
+    Start Time: 1472788328
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

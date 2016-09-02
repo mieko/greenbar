@@ -1,0 +1,65 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Washington/L=Seattle/O=Amazon.com, Inc./CN=www.goodreads.com
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6jCCA9KgAwIBAgIQH2NH8YcEtMBPEaKGbfxVKjANBgkqhkiG9w0BAQsFADB+
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
+IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDkxODAwMDAwMFoX
+DTE2MTAxMTIzNTk1OVowazELMAkGA1UEBhMCVVMxEzARBgNVBAgMCldhc2hpbmd0
+b24xEDAOBgNVBAcMB1NlYXR0bGUxGTAXBgNVBAoMEEFtYXpvbi5jb20sIEluYy4x
+GjAYBgNVBAMMEXd3dy5nb29kcmVhZHMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAsgEi9TNIrKnIS/paOGcZBvNnyltmeQe6zidWQYfgODTdiRga
+K6YjN2HaJDRsSN2g8WYGaDZ8QyTaUIrxXrJN5rNaodNTdCL+Ny6gmO6y4bV5lyPz
+di6jEmD0GqAN1vE1H4HM5EpldEvWcZOTg6uTFMo+8vBmVOl5p5GPg32iDQE4WOw0
+vzrspunXQHIubbCGe6YAIDezDfT4C98sqbcsr8o11Mz2my3Iy2Wve0QduAbdVtAu
+dVA3HrXoM1Nhu0RDZsHUD5oXEUJAntPEf9MpIwvMwQayB50H4XeFfH58G8l31Esj
+Oh659aWBwHxpZ7pU8vAq2fp/nR76AvaIlEhv9wIDAQABo4IBdTCCAXEwKwYDVR0R
+BCQwIoINZ29vZHJlYWRzLmNvbYIRd3d3Lmdvb2RyZWFkcy5jb20wCQYDVR0TBAIw
+ADAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MGEGA1UdIARaMFgwVgYGZ4EMAQICMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5z
+eW1jYi5jb20vY3BzMCUGCCsGAQUFBwICMBkaF2h0dHBzOi8vZC5zeW1jYi5jb20v
+cnBhMB8GA1UdIwQYMBaAFF9gz2GQVd+EQxSKYCqy9Xr0QxjvMCsGA1UdHwQkMCIw
+IKAeoByGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3JsMFcGCCsGAQUFBwEBBEsw
+STAfBggrBgEFBQcwAYYTaHR0cDovL3NzLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYa
+aHR0cDovL3NzLnN5bWNiLmNvbS9zcy5jcnQwDQYJKoZIhvcNAQELBQADggEBACeY
+HqrfZBf3Bc4t/x81obtm2PBOeyrIXgJIMNz+xZ7VSOuq+qi3+osWFSYPWpJQMzlE
+0lET9a4kkbI7cQM7kHhIZTp+dhrzr/rKTni3pKNYaJMsku+G2WzJ4GX/HTxKZOdm
+u+FQAe+P5/DQFOqXgQ/V6h8T8ZAvoV9dqR41JoG6B7iblivRmQIAzE4IuVoTaTmT
+3kOc3+ehxKKpjX/QEaIETTcuaWR4DiFNdruIbYKZq49hv9RnwpEJAsWjAuN8bKEN
+YkFofaPYLFu+Co55uaDZEmCw666mSAf007OvXGQlyhSHSweI04yaUbzI9ATgX8Jq
+BSJZ9KEWWMnM2afxr5k=
+-----END CERTIFICATE-----
+subject=/C=US/ST=Washington/L=Seattle/O=Amazon.com, Inc./CN=www.goodreads.com
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+---
+No client certificate CA names sent
+---
+SSL handshake has read 2741 bytes and written 618 bytes
+---
+New, TLSv1/SSLv3, Cipher is RC4-MD5
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : RC4-MD5
+    Session-ID: 1DE2B6E575415B197C929A8ED50758D79A961A8FBB9DB0F71BB08CD9FB347EF5
+    Session-ID-ctx: 
+    Master-Key: 7059D11F810BB06F82C54EEC4DCB31FD7917478D54E8CFCB02907C78DE4E38D7513EE450E94C17E17EF2A11D2B6BB4ED
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472788185
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

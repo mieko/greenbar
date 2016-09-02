@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=San Francisco/O=MyFitnessPal, Inc./CN=*.myfitnesspal.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLjCCBBagAwIBAgIQBNOBTr5tTZFLoEOy4vl2gjANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTQwNDExMDAwMDAwWhcN
+MTcwNDE0MTIwMDAwWjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+YTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEbMBkGA1UEChMSTXlGaXRuZXNzUGFs
+LCBJbmMuMRswGQYDVQQDDBIqLm15Zml0bmVzc3BhbC5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDzJEZe7k6PRoC/+KFJvL5Q0g5pytgaZRN3r5/z
+aSfcE8LyRqOpIh9Qa3WdA2lggh47Ng/7yclT6mKjwEY685iMls7xbsfM2LLNnQ3X
+9M/J2fz5xVTlWSrwAzUqm7X0FrtTyDTCLzigJ4ozmP9TvI2pABGD1KHziQpz5md/
+M358Zzj151HvMibOQjjC4NzE2E/8fxKH22+RR+bFrzkDiyxfLaoYGKYUXcrpg9bq
+Oo7/ABZR/1wdMfUScvMUP+wCU/4XiWDRa5xZklqYpkBGRVQVBF+jUTJX4pTOyKrY
+IzkDml6XzMh6JTHE01FslGgveQjRHyB3FKa0P+29ggCN3yGVAgMBAAGjggHhMIIB
+3TAfBgNVHSMEGDAWgBQPgGEcgjFh1S8o541GOLQs4cbZ4jAdBgNVHQ4EFgQU128z
+8r+gNNwlyI4OM/Gkik2MAf4wLwYDVR0RBCgwJoISKi5teWZpdG5lc3NwYWwuY29t
+ghBteWZpdG5lc3NwYWwuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggr
+BgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0cDovL2NybDMu
+ZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nMy5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0
+LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzMuY3JsMEIGA1UdIAQ7MDkwNwYJYIZI
+AYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9D
+UFMwfAYIKwYBBQUHAQEEcDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdp
+Y2VydC5jb20wRgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNv
+bS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADAN
+BgkqhkiG9w0BAQsFAAOCAQEAMDgUWpoaSKj64x2+PpA+nG/J48Vhr2oSpnn4iQjn
+2P4/kR2SnmuPQcpnueu3JEoyEkedO+2cMegtlTyg+zKrr8/h9BWvEICg5oUnTWyr
+8/8/Wh8p528f4WvEm4BhuZOxESNzbzh8yG1uXur8vUnhkYYxxf63dGGOjdTkieSU
+w71X/hMJsA1QedHWUIszPLc24z1RODFT11EyuwTjPz4cl9TIQHYcbPfiDSIFkgw5
+zrv3EE/qjGn+kKaA0ltRLYUmY2TiEgnIGfkDaAupeobsuPBpxYkThifOInbLPxI8
+z2sH5uyc9OOnwocwr2GNvGVaZ1VWGDoor6XokwkcVO/qnA==
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=San Francisco/O=MyFitnessPal, Inc./CN=*.myfitnesspal.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3163 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: A70D4B875987288C0F433AEDE32655EAFABB91B9F6B408F4A1B159724912480C
+    Session-ID-ctx: 
+    Master-Key: 4DE8722ED2086B60E67A8896845F4C8D17B41D916EFE8C126979BD5670827DB6903161B9889F2D1A5598CCB3A38C9422
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - cd d9 25 25 96 42 0d df-e3 cf 54 7b 72 c8 df 4c   ..%%.B....T{r..L
+    0010 - ca 80 87 3a 87 ba 79 15-06 ad c8 5c 7a b3 19 ad   ...:..y....\z...
+    0020 - 75 71 ec 25 fd 03 6a cf-1c 10 40 31 54 8d 6d 92   uq.%..j...@1T.m.
+    0030 - 49 21 f0 80 2a 65 0b aa-2d ff dd 46 1a 90 54 75   I!..*e..-..F..Tu
+    0040 - 63 80 31 fe 96 c3 fd 15-92 3a 74 ce d9 ec ec 8a   c.1......:t.....
+    0050 - ec 6f e5 b0 df 54 bd 29-ae c7 3e b6 d4 6c d8 fa   .o...T.)..>..l..
+    0060 - bd f9 e0 a8 af 19 e4 d6-02 1d c0 31 28 28 1b 34   ...........1((.4
+    0070 - 9e 2f 1f 04 a3 e5 bf ea-84 6a f6 e8 3d d0 6a 7f   ./.......j..=.j.
+    0080 - c7 07 b7 9c 8b da f8 ab-8b 28 b6 fe 28 56 33 cb   .........(..(V3.
+    0090 - c6 6d e0 16 d4 3d 71 3a-c2 2e 4d bf 50 92 98 75   .m...=q:..M.P..u
+
+    Start Time: 1472788730
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

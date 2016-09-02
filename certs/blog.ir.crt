@@ -1,0 +1,79 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=IR/OU=Domain Validated SSL certificate/CN=*.blog.ir
+   i:/C=FR/O=KEYNECTIS/CN=CLASS 2 KEYNECTIS CA
+ 1 s:/C=FR/O=KEYNECTIS/CN=CLASS 2 KEYNECTIS CA
+   i:/C=FR/O=Certplus/CN=Class 2 Primary CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEmDCCA4CgAwIBAgISESd3CJC+s9HZ/Qa9+G8t9iK4MA0GCSqGSIb3DQEBCwUA
+MEAxCzAJBgNVBAYTAkZSMRIwEAYDVQQKEwlLRVlORUNUSVMxHTAbBgNVBAMTFENM
+QVNTIDIgS0VZTkVDVElTIENBMB4XDTE1MDQzMDA4NTgxM1oXDTE3MDQyOTA4NTgx
+M1owTDELMAkGA1UEBhMCSVIxKTAnBgNVBAsMIERvbWFpbiBWYWxpZGF0ZWQgU1NM
+IGNlcnRpZmljYXRlMRIwEAYDVQQDDAkqLmJsb2cuaXIwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDUuW8liMlh3AHNL1yWx5c54TV13+VzOI8a8JBbc8Vp
+Md9XSDVXHY5hDbGIlfERHJqpMJi4lE8oyH53OYBfwUXe8CHyIF2ujxnCl8dY8Lmd
+rVunhnExfzeOHDYzWRZt2Yg0IKCULiEizItmKM87/M60c4Lg7ZPEnRE96QZq91hw
+Ncsir4VAtaMiAxQkwg1iAsBM87KlqKYvrQKz3haQTsu5WTv6QWSnXxwynC6pkgZG
+4OYde2Jijx2iJcihj63L/D7gfj34fUrPZJ/HEMnOg42d4S8AQg2dyJ/x2ipFSQqg
+ZuGU/7zeEXJ33PCTbfolh/E/zFoKTBkVhTLlzgRcqG1hAgMBAAGjggF+MIIBejAM
+BgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwHQYDVR0RBBYwFIIJKi5ibG9nLmlyggdibG9nLmlyME8GA1Ud
+HwRIMEYwRKBCoECGPmh0dHA6Ly9jcmwtc3NsLmNlcnRpZmljYXQyLmNvbS9rZXlu
+ZWN0aXMvY2xhc3Mya2V5bmVjdGlzY2EuY3JsMEQGCCsGAQUFBwEBBDgwNjA0Bggr
+BgEFBQcwAYYoaHR0cDovL29jc3Atc3NsLmNlcnRpZmljYXQyLmNvbS9zc2wtb2Nz
+cDBFBgNVHSAEPjA8MDoGDCsGAQQBga1aAgUDDTAqMCgGCCsGAQUFBwIBFhxodHRw
+Oi8vd3d3Lm9wZW50cnVzdC5jb20vUEMvMB0GA1UdDgQWBBQKLXS4qm03LBG+79NU
+Y+YePakcpzAfBgNVHSMEGDAWgBQAEUHfO507y7iiwTOSqIHM5X3nmTANBgkqhkiG
+9w0BAQsFAAOCAQEAqlzqWjen5Qyd7JAfHi1FKYjzdtCkP2omCuhdXumKDh6WsGO0
+unj0Cy2/BbbKNMm3B/OVNg2TLbvDFNk55+MwH1C1/VG09MtcAGaf8LF/k6SION42
+Iu7CGk+DvKKRxtYHi9p+G4qf/sByu7w/3uca2m/ehTnN+zIc4L5uJUVY4KEnk6oJ
+M43flZ3Tqu+p48SXdaP+1TAwKY3c2t/e3vsGuj8HPQPgZerWvMPFN1iAGpFKlyAk
+XAVx4EULgk+eQuhGkFbNBh6PZbKNW+bYxsi/vU92mkH7IbeS1I/3JP38AKLsUnA+
+2tsaBjJJPfjYeWtcd19+3h89t5skWcck32/tPg==
+-----END CERTIFICATE-----
+subject=/C=IR/OU=Domain Validated SSL certificate/CN=*.blog.ir
+issuer=/C=FR/O=KEYNECTIS/CN=CLASS 2 KEYNECTIS CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2942 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 7CE5EEA0E8A1AB88CBF47CDD192BB9AA978D76D61582BE7EED16D8F2B41BBF69
+    Session-ID-ctx: 
+    Master-Key: 828BE7FCC201FFAF4F01F5C71C700E4ADC535F39773BBDBCA9C24B9F2C92514D7FCAD44B9D9DB25A0C1B46658F890C2D
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 16 6f ba 26 eb a8 2e 76-1e 9b a9 b1 bb 28 0f 50   .o.&...v.....(.P
+    0010 - c7 7e 36 10 29 38 1b 21-ae 43 61 07 f4 89 fb 00   .~6.)8.!.Ca.....
+    0020 - 6d 39 b8 ac 1e 79 de c6-54 ab 6f 8d e8 71 1c 11   m9...y..T.o..q..
+    0030 - 8d c5 1c f9 12 be 59 23-0f 22 c7 35 b4 fe ae 5e   ......Y#.".5...^
+    0040 - 0d 55 44 37 c5 84 c1 ff-30 7b fe a1 47 67 89 64   .UD7....0{..Gg.d
+    0050 - 30 d1 55 99 a9 c1 d2 c0-2c ba 79 61 27 6d fb ac   0.U.....,.ya'm..
+    0060 - a0 53 e2 56 9e 06 65 63-ae cd 84 1d 8b d8 6d 54   .S.V..ec......mT
+    0070 - 4f b6 cf fa c2 8a d2 34-5e b0 58 45 57 4c dc 17   O......4^.XEWL..
+    0080 - f3 3c a5 7b 02 b7 cd 69-7a c8 66 23 b5 b4 9d b3   .<.{...iz.f#....
+    0090 - 09 a0 5a 25 7b d4 16 e2-17 39 f8 5a 22 31 f1 9b   ..Z%{....9.Z"1..
+    00a0 - 32 80 c2 e6 90 0f dd c8-e3 3b d5 6f 4b 47 73 66   2........;.oKGsf
+
+    Start Time: 1472789993
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

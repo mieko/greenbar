@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Texas/L=Plano/O=J.C. Penney Corporation/OU=Technical Services/CN=jcpenney.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFCDCCA/CgAwIBAgIQVNuZIcdhALNOWHZRS3A4pTANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMTA1MDAwMDAwWhcNMTcwMTAzMjM1
+OTU5WjCBgzELMAkGA1UEBhMCVVMxDjAMBgNVBAgTBVRleGFzMQ4wDAYDVQQHFAVQ
+bGFubzEgMB4GA1UEChQXSi5DLiBQZW5uZXkgQ29ycG9yYXRpb24xGzAZBgNVBAsU
+ElRlY2huaWNhbCBTZXJ2aWNlczEVMBMGA1UEAxQMamNwZW5uZXkuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3087gm9w6YoVicM+Dep1b7b9WEgL
+3+nSSa0C/mZ+ArBZaS5uXdYSr4eK9UO32L/FjTgcg7801jNp+69Ap7bNH2PhfQDm
+w8OW44W31V+o5YcUvcoMouNf36BpfdlxctLvNkNYo9pG5K5iUuNAqa8tbWcl+fQH
+o5vr0AVeDGe7ineM3A5Ic84c2aSc3WZx3DL/UIgkgPcIdztpjrEMZ46a2Xu0rBHg
+e4T84vOGBWkeVraozQ0rCSajbHM+soMZgOwM8q6MF+0Y/3/hM3KWakkMPA1k6HIm
+F8l/eitBwvkl96kcG1O3PDIVwc5RwLQh2Q0Hu/vmiZVEA3MNym/8TDpLkwIDAQAB
+o4IBtDCCAbAwLQYDVR0RBCYwJIIHamNwLmNvbYILd3d3LmpjcC5jb22CDGpjcGVu
+bmV5LmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIFoDArBgNVHR8EJDAiMCCg
+HqAchhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNybDCBnQYDVR0gBIGVMIGSMIGP
+BgZngQwBAgIwgYQwPwYIKwYBBQUHAgEWM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNv
+bS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDBBBggrBgEFBQcCAjA1DDNodHRw
+czovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVnYWww
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFNJv95b0
+hT9yPDB9I9qFeJujfFp8MFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0
+cDovL2duLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL2duLnN5bWNiLmNv
+bS9nbi5jcnQwDQYJKoZIhvcNAQELBQADggEBAFq9fcVDitZRZs3D1nbi1la0oKvR
+d0L23GLW17thvrnD36NFQbd4e1tNd2JMm4K6/pjaMATtVq9Stob+xy6MmWgbrtLH
+gLAjUT35SnH11fWt8Qr1+z1KZMm7NeO52uydjU2mYjA2nP80vnLfALIow4GD6Ras
+XReHNM27VPMZJcgmrl3MUt198rc75vhwTRwgsqkGDKjJQI1l9y0kAupuhB7C+/w4
+ya9++Hy6Ulq9393Q7US0UIYX97HjqZL2RexTGr1WzZGjjyocxAEDC+IafdxDF97E
+Wqpjjglc7AROz9EV9qr3N1uQqVTEhdyKvBEOmnUN8Ws2AEEiOyd+4JlsBzk=
+-----END CERTIFICATE-----
+subject=/C=US/ST=Texas/L=Plano/O=J.C. Penney Corporation/OU=Technical Services/CN=jcpenney.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3056 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2AC7C4A76C326C176759F8F866F01F7AC62325168D5CFBAC2A3C0E5190CF6C47
+    Session-ID-ctx: 
+    Master-Key: 5A5658F53126322F2E539A85DA79B19C98E7A0D6FAAB4E9EEAADE165DB21733FA457F00CAB53E0C732792F28908EE2A9
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - c3 bd 2c 49 86 2f 3c 42-25 a6 50 15 4a c3 27 08   ..,I./<B%.P.J.'.
+    0010 - 0d 20 97 18 b5 b9 5a b8-2f fe 41 52 48 63 e8 88   . ....Z./.ARHc..
+    0020 - 23 b8 91 6f 69 87 48 ad-0a 77 8a c1 7c 36 da 25   #..oi.H..w..|6.%
+    0030 - 43 3d 0f 91 47 53 2a 64-0e ec 26 18 5e 19 bf fd   C=..GS*d..&.^...
+    0040 - 40 85 e8 3d 35 4a ed 47-47 14 de 60 57 5a 61 81   @..=5J.GG..`WZa.
+    0050 - 47 ed 48 18 a3 f0 67 2f-18 77 3a e9 30 67 36 bd   G.H...g/.w:.0g6.
+    0060 - ff f0 ce 18 68 e9 34 29-03 a6 31 ae 45 4a fe bd   ....h.4)..1.EJ..
+    0070 - fe b7 d6 1f ab 3b d8 0e-b2 c2 8e 76 03 8f 7f a8   .....;.....v....
+    0080 - dd fe 62 d9 4c c2 c7 b0-44 57 50 68 bf 71 bc 98   ..b.L...DWPh.q..
+    0090 - 35 49 07 ae 81 e1 81 e3-17 aa 7b aa da a5 d3 e4   5I........{.....
+
+    Start Time: 1472788868
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=9gag.com
+   i:/C=US/O=SSL.com/OU=www.ssl.com/CN=SSL.com DV CA
+ 1 s:/C=US/O=SSL.com/OU=www.ssl.com/CN=SSL.com DV CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEuTCCA6GgAwIBAgIRAJ4d8H81HpSA+RI2JnzO30owDQYJKoZIhvcNAQELBQAw
+TTELMAkGA1UEBhMCVVMxEDAOBgNVBAoTB1NTTC5jb20xFDASBgNVBAsTC3d3dy5z
+c2wuY29tMRYwFAYDVQQDEw1TU0wuY29tIERWIENBMB4XDTE2MDIxNTAwMDAwMFoX
+DTE4MDIxNDIzNTk1OVowWTEhMB8GA1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRh
+dGVkMSEwHwYDVQQLExhQb3NpdGl2ZVNTTCBNdWx0aS1Eb21haW4xETAPBgNVBAMT
+CDlnYWcuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxUC/H+AT
+sarAm9Z4X8NL0i41WKAwfwbrRgGMclt8r7kxJdUfEvDipUAZR22OaIV5fyJ1iUek
+1rq5neLu/nlEXGQK407WEf8/fIUfXYvMJqmgE2q5ukaKq6HyO8nDBSpeLYq/C5RA
+Fh7WI91a6CAKb426rvbwpTROcEsNv1cOHikfsRaXT7uY8BVOd3tFnaVzrz4JNjbN
+LwRp7SEw4RWp69OMsr7G7wH1Ktv0wLApls/E6jH3wlZz17Et6JLs+jKzH7HNSgzO
+Cuay83ybLowKTbP3sxap8wSPfnCzyqD9XE50jIHdy0MJGgiWSWSObYdodMwbKf5Q
+Qqpd+aotB1brdwIDAQABo4IBhjCCAYIwHwYDVR0jBBgwFoAURpr9/FFefFRTUuKZ
+47My75Maf1YwHQYDVR0OBBYEFMfuaFpeKFc4QuN3I/gTezjudonpMA4GA1UdDwEB
+/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjBKBgNVHSAEQzBBMDUGCisGAQQBgqkwAQEwJzAlBggrBgEFBQcCARYZaHR0
+cHM6Ly9jcHMudXNlcnRydXN0LmNvbTAIBgZngQwBAgEwNAYDVR0fBC0wKzApoCeg
+JYYjaHR0cDovL2NybC5zc2wuY29tL1NTTGNvbURWQ0FfMi5jcmwwYAYIKwYBBQUH
+AQEEVDBSMC8GCCsGAQUFBzAChiNodHRwOi8vY3J0LnNzbC5jb20vU1NMY29tRFZD
+QV8yLmNydDAfBggrBgEFBQcwAYYTaHR0cDovL29jc3Auc3NsLmNvbTAfBgNVHREE
+GDAWggg5Z2FnLmNvbYIKKi45Z2FnLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAjmcy
+LG2f7geJjifges73KoQliRss7PA7L39ysiZHbtj+670p90OpUAf2YDYGwv7zmN1R
+CzYf9C0JUIyDcFuWvcA+EBks8Q+INIiDgnfUAXYG3vmGVSS+ccwG1IpVz0REecb3
+GIPM1XeHxVI++1SpU/CtLe8t0wFDEtLcX5E8ekr6czMXbiYMk1ee7wSKFZAHDKwT
+6pHb4ZDoGGAnLkWcmeWiYeZvu7lyZHOyYvOw00wCpcwZXqsdlL+oPfl93FIle7eR
+ItdKkAf6ymXqctG6vqcBT59hY+IexgEBojyGpvga47CR8I0ZKPGX0bERGwXyq/DS
+CQvSZ3gCKBQgGPDNMw==
+-----END CERTIFICATE-----
+subject=/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=9gag.com
+issuer=/C=US/O=SSL.com/OU=www.ssl.com/CN=SSL.com DV CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4790 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: E23F40007E51FF9F8B7D00DBF84744BC0C1594B214D4A8AE960806E8E986F4AC
+    Session-ID-ctx: 
+    Master-Key: 9E25D08BE7443867BE1FE547CE5CE954A5042F0FB7D93C5A117C44069B33A36BE998D8526A3416DEE59970A5DB115E0F
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a3 ba 00 22 6e 05 e4 92-2b 7c 0b a0 58 7e 28 6f   ..."n...+|..X~(o
+    0010 - ba 25 23 57 a6 3e fb 56-bd 94 99 ba e6 a4 b4 d7   .%#W.>.V........
+    0020 - c4 3c ef 2b d8 8c 25 ba-f9 53 03 b5 6a 45 d1 e9   .<.+..%..S..jE..
+    0030 - 8f 10 f1 01 d0 c0 d9 ce-a3 61 5c 3b ad 53 7a 18   .........a\;.Sz.
+    0040 - 28 44 3d ee dd ed ee f3-cc 18 d0 48 13 f0 8e 92   (D=........H....
+    0050 - d9 eb 1e 35 0f d8 45 af-09 93 f5 90 e4 7d 2b 59   ...5..E......}+Y
+    0060 - c6 34 07 88 11 6a 33 75-19 06 c6 28 8b 2c 3b 78   .4...j3u...(.,;x
+    0070 - 9e 2b 82 72 bd 00 73 5f-e3 b0 bf e9 d6 1d ae 69   .+.r..s_.......i
+    0080 - 6b 80 6d d8 47 ff 84 90-cd 2a 64 49 b2 93 20 84   k.m.G....*dI.. .
+    0090 - a1 fe cf 87 f1 06 85 98-b7 94 05 aa 14 26 e4 90   .............&..
+
+    Start Time: 1472788065
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

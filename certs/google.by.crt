@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=Mountain View/O=Google Inc/CN=www.google.com
+   i:/C=US/O=Google Inc/CN=Google Internet Authority G2
+ 1 s:/C=US/O=Google Inc/CN=Google Internet Authority G2
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEgDCCA2igAwIBAgIIPRLG8pXZZNYwDQYJKoZIhvcNAQELBQAwSTELMAkGA1UE
+BhMCVVMxEzARBgNVBAoTCkdvb2dsZSBJbmMxJTAjBgNVBAMTHEdvb2dsZSBJbnRl
+cm5ldCBBdXRob3JpdHkgRzIwHhcNMTYwODI0MTA0NjAyWhcNMTYxMTE2MTAxMDAw
+WjBoMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwN
+TW91bnRhaW4gVmlldzETMBEGA1UECgwKR29vZ2xlIEluYzEXMBUGA1UEAwwOd3d3
+Lmdvb2dsZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDeBp48
+ya9ctXRUhaAEOslgiYomPjsNm4rS6ID0wTsSH4Nf6WpVZewO2D2j5hyHpYVy5l0S
+QkHG4OUByV93+7plmtGl+Ukbyxle4mR1rrvg+RFQXZ88RacfF8PfUM4jBXvdbZ9S
+XchCZin/KwCOK7DcMUbHrk2LJDYFssGHI29+vOihNqmZi7XnRoMJsEBnI6TZL8DE
+t4F/9EmxpPOyZT1Zfqk+YDIxRAoIW6K5097TZ3ViJUa9D/tqRfz0wovLNUO5jrku
+dTU7Hl3tzdPYGfKsE7gKJ4K/1sY0rhZOClflvEGm/qR2q7G4eX2ZQBGcMX/tJ0gQ
+3asj6Z21smQgxmNzAgMBAAGjggFLMIIBRzAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwGQYDVR0RBBIwEIIOd3d3Lmdvb2dsZS5jb20waAYIKwYBBQUHAQEE
+XDBaMCsGCCsGAQUFBzAChh9odHRwOi8vcGtpLmdvb2dsZS5jb20vR0lBRzIuY3J0
+MCsGCCsGAQUFBzABhh9odHRwOi8vY2xpZW50czEuZ29vZ2xlLmNvbS9vY3NwMB0G
+A1UdDgQWBBQNyzOVgZD9qV4N/F1nNMJ79aqddjAMBgNVHRMBAf8EAjAAMB8GA1Ud
+IwQYMBaAFErdBhYbvPZotXb1gba7Yhq6WoEvMCEGA1UdIAQaMBgwDAYKKwYBBAHW
+eQIFATAIBgZngQwBAgIwMAYDVR0fBCkwJzAloCOgIYYfaHR0cDovL3BraS5nb29n
+bGUuY29tL0dJQUcyLmNybDANBgkqhkiG9w0BAQsFAAOCAQEAIo6SzfrTRrhcMEjc
+jQEWkUVHnv1P5Ek2EpYYQT1JkEmIKDT5AFREcqhIAJWq7COi0uHaY/OLGd2guw3u
+j7yJQeSG5LvmWVZF3tVpGTUJbc9DbA6RvFdQIlOCkYwXMP6UBHUoNvLkzzGE3O6r
+RYL3gmtCfImrcmwtP3BMNP2Bdcrxz+YEo3YRp8Yn/B/EdJFmdYoQFcIxIHvM2Jmo
+5f7rbSDKs9KBvY2WddHOnzehYxxUI0pFu8B5mtKcvM4+2h/4QvSFUbPMIoJcS/qq
+gi1KfZ3JzFjkYVy1wQt/eBrAauJxazydh10HBHKOIdt8y9HJoWuJACJO6O0lJfAh
+Df1mQQ==
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=Mountain View/O=Google Inc/CN=www.google.com
+issuer=/C=US/O=Google Inc/CN=Google Internet Authority G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3727 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 694357B2178AB9E4226A637A18D8EB5D8A0A15CCDE21062B3C8DF6FB4BA980D6
+    Session-ID-ctx: 
+    Master-Key: 77C2347FB1474415147F97203431CCA53BA10ECD37D535DF6EB7BBB4B0860BEFC12822FD8C556F3CFC4EB6E9CFFEE233
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 100800 (seconds)
+    TLS session ticket:
+    0000 - d9 16 e6 49 16 33 ec cf-6c fc 8c 82 13 ec a6 e2   ...I.3..l.......
+    0010 - 83 70 b9 f4 f0 22 7d 83-80 a5 70 05 89 15 0e ef   .p..."}...p.....
+    0020 - 1b de 57 d6 1e a1 16 b6-3f 85 e5 8f 58 4d 05 0b   ..W.....?...XM..
+    0030 - ee 7f a1 49 2d 22 e4 15-87 01 52 1d 46 68 48 93   ...I-"....R.FhH.
+    0040 - 07 ed f8 60 ca a0 2d 8b-3a 33 f3 5e 77 93 66 1e   ...`..-.:3.^w.f.
+    0050 - 3d 3a fe 10 8b 80 23 08-ce b2 89 10 48 32 27 02   =:....#.....H2'.
+    0060 - 71 20 66 22 fb f6 01 70-21 5d bf ca 17 80 23 95   q f"...p!]....#.
+    0070 - 18 e8 f3 52 68 1c 81 3d-96 a2 57 51 12 17 6e 6e   ...Rh..=..WQ..nn
+    0080 - 3d d6 cf 1a a3 59 c3 ab-81 41 34 a6 a2 55 b4 7e   =....Y...A4..U.~
+    0090 - f7 85 d1 43 20 76 17 ea-aa 70 0d 89 1a 66 51 a0   ...C v...p...fQ.
+    00a0 - cf c7 3a 81                                       ..:.
+
+    Start Time: 1472788725
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

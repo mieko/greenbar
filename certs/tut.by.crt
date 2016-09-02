@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=BY/ST=Minsk/L=Minsk/O=Reliable Software, Ltd./OU=IT/CN=*.tut.by
+   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIErjCCA5agAwIBAgIQJqV0E508p0NUSdysWC99BzANBgkqhkiG9w0BAQsFADBB
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
+aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUxMTAzMDAwMDAwWhcNMTgwMTAxMjM1OTU5
+WjBvMQswCQYDVQQGEwJCWTEOMAwGA1UECBMFTWluc2sxDjAMBgNVBAcUBU1pbnNr
+MSAwHgYDVQQKFBdSZWxpYWJsZSBTb2Z0d2FyZSwgTHRkLjELMAkGA1UECxQCSVQx
+ETAPBgNVBAMUCCoudHV0LmJ5MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAxrTGubuVKViQq+BMMzIcWBCi4+aMJOFnyKwV7Z9J+E2fX04ujHZzREboDXrQ
+Gwr68aRebqadlCGgo+T3KyqfUgpJwevQcV1kFpRPFw7BbEVNnejNi171DxpnLkYK
+ZOkA/hX5Ctmi7UA5d20UDzanoeduhL0bzn/JEaUVKdboDnnX6kk/DJANaRjdnaso
+NMdW7DK7HQnUhEu/HVQuR+3FzqiaDBdrhGMTNjALesHfmN+vhI6T1GjT57AUHU8v
+cr/rA+Estgga9f8L6AGgvKc5nJJHP5cbdNr56zqvFI6KJ7p0wbkDnJOIxBq1shNc
+EUQKIoupZ72niH06Ho5jgPlsMwIDAQABo4IBcjCCAW4wGwYDVR0RBBQwEoIIKi50
+dXQuYnmCBnR1dC5ieTAJBgNVHRMEAjAAMG4GA1UdIARnMGUwYwYGZ4EMAQICMFkw
+JgYIKwYBBQUHAgEWGmh0dHBzOi8vd3d3LnRoYXd0ZS5jb20vY3BzMC8GCCsGAQUF
+BwICMCMMIWh0dHBzOi8vd3d3LnRoYXd0ZS5jb20vcmVwb3NpdG9yeTAOBgNVHQ8B
+Af8EBAMCBaAwHwYDVR0jBBgwFoAUwk9IV/zRT5rAXTh9DgXb2S61UmAwKwYDVR0f
+BCQwIjAgoB6gHIYaaHR0cDovL3RqLnN5bWNiLmNvbS90ai5jcmwwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcw
+AYYTaHR0cDovL3RqLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3RqLnN5
+bWNiLmNvbS90ai5jcnQwDQYJKoZIhvcNAQELBQADggEBAAJebTrIm20Md/achPqN
+5W+9KX/MhTsnbE7zzvCTeoG+QlIexT+tuRviNpzctnKl3sTtbTeQGXQzSvOBfIDS
+VPkFvxLUXac32b4RpNOUT2wcakFjc7yow6KbfoacKY1o/ReHRvsN1Yf11+khR9y5
+uKXiNp0VV5fqpGWiNxCnKn+ULwM7Y+Zhu1iW6OXGMyky0PSG4ZfMpntOTTodzr5m
+JnrHNK9QFH3rb/E5uiD1isuNRQ7PMlGho29d+T4I41JKw+CIH+3iM+hG3swnbumq
+RlDj6UWYNs5omJG5YGl2SQ6m3u0aQyeQgDZXo4KdjFeFiVcS6ISCpuqAYriok758
+z58=
+-----END CERTIFICATE-----
+subject=/C=BY/ST=Minsk/L=Minsk/O=Reliable Software, Ltd./OU=IT/CN=*.tut.by
+issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3086 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 84B7AA550693B8EC6A908433D0B2D8027900C1D966166AA6EA0AB0062DAB5DB5
+    Session-ID-ctx: 
+    Master-Key: D13F7E750D16288DE5257BB5B9FC655736C5C6DCF24645067A17FFED110D9EBE26DE635A86F517BB3AE8A2F210534DF8
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 6f 4a 95 10 17 17 56 86-51 89 4b 5d 9a 26 ee 3c   oJ....V.Q.K].&.<
+    0010 - 0f 83 07 19 05 98 0e d6-db 18 08 0b f6 42 e3 5e   .............B.^
+    0020 - d3 46 96 11 33 13 04 c9-f6 cc 19 20 8c 8f d1 48   .F..3...... ...H
+    0030 - 20 12 f5 74 40 59 ee 69-91 17 f1 ec 15 e2 e6 c7    ..t@Y.i........
+    0040 - ba 7f b0 49 2b a0 24 55-1a ea 0a 3e 1a 7e b0 c2   ...I+.$U...>.~..
+    0050 - ca a2 b0 cd e0 d9 9e c0-82 35 3c 53 20 f8 6d 99   .........5<S .m.
+    0060 - 4c f5 c2 65 e0 81 8b 2c-e3 66 49 20 bc b9 06 e2   L..e...,.fI ....
+    0070 - ef e2 8a 81 4a 52 04 bc-9f 11 d2 1a 7f da c3 ff   ....JR..........
+    0080 - af 16 38 99 c2 7e 3b 93-d7 7b 70 ac c6 ba db d3   ..8..~;..{p.....
+    0090 - 85 f2 a0 bc 79 cc cb f6-27 6f a3 3c 49 4b d9 a4   ....y...'o.<IK..
+    00a0 - 09 e7 f4 5a c7 c4 44 24-6c 59 37 36 ad 66 de 3f   ...Z..D$lY76.f.?
+
+    Start Time: 1472790339
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

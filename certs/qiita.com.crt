@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=GT01505012/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.qiita.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEqDCCA5CgAwIBAgIDAv1PMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
+NTYgQ0EgLSBHMzAeFw0xNTAzMTUwMzU1MDNaFw0xNzA1MTYwMTU5MDRaMIGPMRMw
+EQYDVQQLEwpHVDAxNTA1MDEyMTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
+bS9yZXNvdXJjZXMvY3BzIChjKTE1MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
+YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEUMBIGA1UEAwwLKi5xaWl0YS5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDQUg/lx7a7NhVP7jobuu5exHfO
+USaswA+66eJOUoQHHMm+BONFq25CMLhmqdtreddQRVC/9fdfAVbqPE5N8Wbj+vI0
+2M+lhz6eo/a0imdD36ONT+f3yN2bDnLurieDeaCoQh8bv9AvBo22nnmnKfhUuOA4
+UHKD3A+fAocTVccKFIx9i2vknrp+JSPFGJIQMKtdslwgEUqUy7PGzaERCSM8Jp/L
+kaP9pbJgrde6cjlV7Y5vZi25jLCmClG+D9dCYoeVCyJlnKnSvYqkU2lOfeS3Lhec
+H6A1UVIeAPYiq5HY/EONPdlgVjc12kEPF1J+uCxHv44FbCtILfqVC8EOVMGtAgMB
+AAGjggFSMIIBTjAfBgNVHSMEGDAWgBTDnPP800YINLvORn+gfFvz4gjLWTBXBggr
+BgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9ndi5zeW1jZC5jb20wJgYI
+KwYBBQUHMAKGGmh0dHA6Ly9ndi5zeW1jYi5jb20vZ3YuY3J0MA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwIQYDVR0RBBowGIIL
+Ki5xaWl0YS5jb22CCXFpaXRhLmNvbTArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8v
+Z3Yuc3ltY2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAAMEUGA1UdIAQ+MDwwOgYK
+YIZIAYb4RQEHNjAsMCoGCCsGAQUFBwIBFh5odHRwczovL3d3dy5yYXBpZHNzbC5j
+b20vbGVnYWwwDQYJKoZIhvcNAQELBQADggEBABnshM/X/OdJCvImQNj3qWwCT9j7
+4Az8BtKAZGDtXarQ2UUANHLEwE/0zFyukDPwAvdlSa4Xuh74KOBllGEW1E16OTNe
+LzSL91s5Y8C4cLEV6EP+6Z9N0OJ7fWIPhX75bNMxrMWtim46s3sK5O7EZM/cAob+
+h3TFioQnzIdhgqeNY/yWVlg5x8z/Bn+jgK9vuMUDI34IFpNBE/iqCztetG5e3YLX
+b9Tu9r+VlyXWjh1+E0xy93MLeeKqEt49U6OSBTGG08zckPHddw4Z9AZbBMv+eo/f
+WvFjqMhHW4v8yhkPrX3XPR/Rb5jjrXiZBnyuDZfvQzw78ii7G4o/6fGnjy0=
+-----END CERTIFICATE-----
+subject=/OU=GT01505012/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.qiita.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3818 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 4EA328B52C455D4CAB150DA631558F02DC0D0BBB3769EA24804C1EE644F89D65
+    Session-ID-ctx: 
+    Master-Key: F631D5A6590C1E63D82A06E1C9A6D0DA1BA047882E8C2CC8F94A78C401A86F596812E59544D656DD8B5E8D3082C161FC
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d4 55 37 45 e4 18 3a 6d-e5 5c 96 a5 59 69 fd d4   .U7E..:m.\..Yi..
+    0010 - 6f 8f 8b 1f f4 08 90 1b-46 a4 cf b7 76 b8 da c5   o.......F...v...
+    0020 - 98 96 9d 84 36 63 c6 af-65 da 97 54 3f 6a ab af   ....6c..e..T?j..
+    0030 - 26 60 11 65 81 90 f8 6e-23 46 d4 99 fe 31 78 61   &`.e...n#F...1xa
+    0040 - 8b 1b 54 bb fb e1 82 3a-07 b0 51 2f bc 2f 5a 4c   ..T....:..Q/./ZL
+    0050 - 08 a1 78 97 1e ae 03 a0-ef 84 1a 46 f1 7d 3e 3d   ..x........F.}>=
+    0060 - 45 65 53 61 24 ac 16 d2-fc ab da cf 45 62 ed 6f   EeSa$.......Eb.o
+    0070 - fc 11 a7 8e fb 18 dc bb-5b a8 ad 93 33 43 e6 0d   ........[...3C..
+    0080 - 01 9b 17 e6 80 7c fb 7d-43 81 57 b4 37 cb ff f6   .....|.}C.W.7...
+    0090 - 9e bf ca 8a 7a 42 c4 86-32 25 3d 0c 9e 97 44 b1   ....zB..2%=...D.
+
+    Start Time: 1472790532
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

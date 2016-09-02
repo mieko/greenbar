@@ -1,0 +1,72 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=john.centraldnserver.com/emailAddress=ssl@john.centraldnserver.com
+   i:/CN=john.centraldnserver.com/emailAddress=ssl@john.centraldnserver.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDbDCCAlSgAwIBAgIFAQommqwwDQYJKoZIhvcNAQELBQAwUDEhMB8GA1UEAwwY
+am9obi5jZW50cmFsZG5zZXJ2ZXIuY29tMSswKQYJKoZIhvcNAQkBFhxzc2xAam9o
+bi5jZW50cmFsZG5zZXJ2ZXIuY29tMB4XDTE2MDQwMjAwMzIwNloXDTE3MDQwMjAw
+MzIwNlowUDEhMB8GA1UEAwwYam9obi5jZW50cmFsZG5zZXJ2ZXIuY29tMSswKQYJ
+KoZIhvcNAQkBFhxzc2xAam9obi5jZW50cmFsZG5zZXJ2ZXIuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1lBk+f0WVuxRSQoJ1+XHG4duYRi3YCIv
+noEFJ8oH+X/UKkrbmY+0t4DuyFFbT6GZoZv1mVUFJAjsCq0kxR3Yk+i/iBCuJrY7
+qL1YKAO1QkUlc47LwupSYj00vAj8uJgVJfa1m10yeO+Z41nAtVfgxHKQncjqOM94
+rzdWNRjEWUkcQHR0B7/hw5XOWAyNpy+3KpXxRlJk9FtqpRpdMxVZ4iuhwH5ULV1S
+Qrre5xA0PAFuiAWk9Vowm7GDF8Ul/EBc03XvSU8BKcsE2VnOGjI+imcSJxYSdrWe
+7T153pHpUqoCCIf0gOs25ISdKo+3RsDdvb3EZ1oBNHyNwTwtm3XyLwIDAQABo00w
+SzAdBgNVHQ4EFgQUf3mY0vI4D3bgdAXmRJb2ojFgDsUwHwYDVR0jBBgwFoAUf3mY
+0vI4D3bgdAXmRJb2ojFgDsUwCQYDVR0TBAIwADANBgkqhkiG9w0BAQsFAAOCAQEA
+z7bs+GAaRBMjIxPJYBaZzDRMfqghGarvnCJSLETW3IpZM58WK/rMcSKKUDBtMAus
+KueYgdayYHXD2KygB+bJYoe08IYodlMaBxev11khzYVd4Ajx/1D7TIQHq0eTP+GW
+7SYslM4N52EUZ2F8P78WaLcGieFECk7zBaPAxAu2hV0Ueg/TUdfw4LPg4IJH8doa
+OMTRpPIMNKqjeijlT0LqEKb4Mvo2hufRpNd+6m86AQT3ijqRs1GsvS2ihidBTAae
+CiqhiRaVTvQYSoZmD54n2Ga7Pts0wx//45JVt5kFufe9dP9MuPgi9wJpNDidW/JP
+VaZr0LThGbhACvTTWBEB6Q==
+-----END CERTIFICATE-----
+subject=/CN=john.centraldnserver.com/emailAddress=ssl@john.centraldnserver.com
+issuer=/CN=john.centraldnserver.com/emailAddress=ssl@john.centraldnserver.com
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1571 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2E785CD13924173AE84AC8FB0FD570E7079DCE60B97653A767383A685F62994C
+    Session-ID-ctx: 
+    Master-Key: FFC998A371318031015219D94CA72BF6CF990A1FA6B2D6F6143BE5D8737887D18F47C83BC09D8229167E496DD9EA5D63
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 86 8a 85 b7 dc 41 78 cf-48 a1 da 5d 55 e9 03 e3   .....Ax.H..]U...
+    0010 - 1f ff e2 61 34 b7 e1 58-5a 39 8c 01 94 ee ab 75   ...a4..XZ9.....u
+    0020 - 99 85 f8 00 e5 34 dc 37-04 51 b2 d5 c2 5c 21 c8   .....4.7.Q...\!.
+    0030 - 2e ca 2d 3c d7 f9 6e b2-0d 01 23 45 70 06 ed 0a   ..-<..n...#Ep...
+    0040 - 58 1c 5c eb 03 64 4a f4-2b a2 c9 7a 99 8a 95 9b   X.\..dJ.+..z....
+    0050 - a8 ed f1 62 e4 8d 85 95-9a 5f 15 be d4 8b 4c 96   ...b....._....L.
+    0060 - 1b 26 2a 94 e2 60 a6 82-a6 69 fa 18 cf 38 ed 63   .&*..`...i...8.c
+    0070 - 60 ff aa 9f f6 06 cf f9-a2 17 7f 0c 1a f8 f9 a8   `...............
+    0080 - a9 14 ac 76 53 a1 7a 68-74 a6 e7 64 4f 0f 1a a7   ...vS.zht..dO...
+    0090 - b4 32 c4 b6 51 12 16 27-87 4e b3 7c 4f b6 55 ee   .2..Q..'.N.|O.U.
+    00a0 - ba 01 c5 62 42 4f 3f 9d-c4 66 f6 be cf bc f3 fc   ...bBO?..f......
+    00b0 - 2e 1f 2c 3b f1 42 f9 f1-f1 0a 5a 7f 41 32 f5 72   ..,;.B....Z.A2.r
+
+    Start Time: 1472790667
+    Timeout   : 300 (sec)
+    Verify return code: 18 (self signed certificate)
+---

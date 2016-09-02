@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=Domain Control Validated/CN=*.biligame.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+DCCA+CgAwIBAgISESFg/K6NHK+zVCs1Rp0mvA15MA0GCSqGSIb3DQEBCwUA
+MGAxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTYwNAYD
+VQQDEy1HbG9iYWxTaWduIERvbWFpbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTUwOTIxMDYzMTUzWhcNMTYwOTIxMDYzMTUzWjA8MSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxFzAVBgNVBAMMDiouYmlsaWdhbWUuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyf6fioW7h2X4rr4993Gf
+0acxtB5CwqfDuOf2kOSGJkJ+LeMlSSO28I87P0L5Exp7d6IxGhIMF4OveCL8mg7E
+huWuZ7IlHdGvzStZwlMSmQCGaghIw75dsLcQj5v3HCkmMBJIkMFhId+96DVrdlRQ
+zbRurRZ6VrJOO6i/4mqBc52A+2ynPr91SghgUuNSrqmhzx30lYuG5M9F2fj89MqO
+bkssQySQpjbxzFVs0fwxq0gwm/W/jU6FXYr/Dg8ywpSTEfDe4ul0tEtnxG5jkosS
+QZ5I/517NW+OPDBzIbJD7GUZD5VPS83TRPqsZerZAe4yOj7rqRQl8cVKO/goLfVi
+GwIDAQABo4IBzjCCAcowDgYDVR0PAQH/BAQDAgWgMEkGA1UdIARCMEAwPgYGZ4EM
+AQIBMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3Jl
+cG9zaXRvcnkvMCcGA1UdEQQgMB6CDiouYmlsaWdhbWUuY29tggxiaWxpZ2FtZS5j
+b20wCQYDVR0TBAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwQwYD
+VR0fBDwwOjA4oDagNIYyaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9ncy9nc2Rv
+bWFpbnZhbHNoYTJnMi5jcmwwgZQGCCsGAQUFBwEBBIGHMIGEMEcGCCsGAQUFBzAC
+hjtodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc2RvbWFpbnZh
+bHNoYTJnMnIxLmNydDA5BggrBgEFBQcwAYYtaHR0cDovL29jc3AyLmdsb2JhbHNp
+Z24uY29tL2dzZG9tYWludmFsc2hhMmcyMB0GA1UdDgQWBBRDoP7ug8QQdbRu+3RG
+p+pzcuwrpzAfBgNVHSMEGDAWgBTqTnzUgC3lFYGGJoyCbcCYpM+XDzANBgkqhkiG
+9w0BAQsFAAOCAQEAnV0hUcbGn0ySFfE2gkb42hYhBt37LDMOwZHKEV9YhpDyQ/QP
+ppmGK322ozA0lP+X66ZI+2CTwKTdx6OE7mHqZeDdPbc/94qMpVgvrddwXtAUrNIU
+nU0PT4fFEIqne54/LOdxW3rry47v3iG/RYLAzI2YnFGPH3uj/IcGOI76inuuQXeB
+WfHmtHmsPoHt5liGmjnvuFSU2M92kxG3i1rOr4hNHQhHs2AQFAspg1rbPM1MlgYp
+hv+/gS0E9u3Z+lTYzuopzSsbk95g3NjAmXCh5myR92ZfhTa0Ilxaavjtb3g+9VbD
+eAp5+WFzeLjHhhTGKWJFg5q503lc1gECompEuw==
+-----END CERTIFICATE-----
+subject=/OU=Domain Control Validated/CN=*.biligame.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3081 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: D8AC3A21F4070A0546F62682A45E6E00589338549204191FEA5B0FC0F6283831
+    Session-ID-ctx: 
+    Master-Key: 6035148B8B03D20C4ADEE96BA89151A2F0070B8C35C057768CBA678EE345496F125C00ABBDBF6E948F05986D17F5FD1D
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 1800 (seconds)
+    TLS session ticket:
+    0000 - f7 fe a3 f2 43 40 63 51-75 34 a2 b0 c6 c2 cd 1b   ....C@cQu4......
+    0010 - 4e db 01 f8 6f a3 3f 53-6e 72 47 5b 2f 00 a1 ed   N...o.?SnrG[/...
+    0020 - 3b 5e f7 89 11 7b b7 a5-e3 02 5a c8 f0 a0 55 a4   ;^...{....Z...U.
+    0030 - 40 92 34 72 ee cb da 48-29 28 18 80 60 b6 ad b1   @.4r...H)(..`...
+    0040 - c2 e4 d2 d0 b8 f4 11 7a-9a 57 e5 5a 92 44 5a 65   .......z.W.Z.DZe
+    0050 - fd f5 c8 b0 4a fa 7d f6-8b ee d7 98 ac 82 27 f2   ....J.}.......'.
+    0060 - ac fe 73 08 1e af 9a c6-e1 7b 79 84 ad 1f 43 52   ..s......{y...CR
+    0070 - 0e 7b 97 1a 33 56 c3 bf-d1 fc 61 ff e6 f0 23 99   .{..3V....a...#.
+    0080 - 70 c6 a4 a0 37 1d 90 0c-c0 d2 7d 6a b6 d3 35 be   p...7.....}j..5.
+    0090 - 21 1f b0 ae 26 00 a5 e3-46 17 41 10 59 03 4d 9a   !...&...F.A.Y.M.
+    00a0 - 51 68 c1 9e 53 4e 89 94-32 96 fb 6f 99 fd ea af   Qh..SN..2..o....
+
+    Start Time: 1472787894
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

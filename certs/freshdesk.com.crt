@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=freshdesk.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEfDCCA2SgAwIBAgIQA+7YKEfGXnyhwK1YQIXz5jANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xNjAxMjcwMDAwMDBaFw0xNzAyMjcx
+MjAwMDBaMBgxFjAUBgNVBAMTDWZyZXNoZGVzay5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCVxpBNz3WbdzQSdFdeHyaybaHwXqsCOcyAfpLZwL3x
+nYgT4bDilho4cmHWMF2JfDhnPIa4c0kpDKXWriSEkX/+Y5K+/kMWVxhP750xjYdp
+y4EyC+hd+S0lcsrsULoADGOqFjv/Ykhw7aflHVEBOHvRP0MlZiPwnoVophkuQByE
+u63slzeUPiuvsjZc9B5oIOdIneibbGzLf8Yt391uQ3bYhvyEZGJXQFxcsqeGcwHv
+yz0a9qaEYiX/S1eA1lJLascrsbAj7X3MGnPp5CbUzae9mgSsW/RpGeL+YJ/PDNMK
+Il7WVE2AijPsENMxY6Qp9+9eDkBJ6P6iAWOdzh77A7jbAgMBAAGjggGSMIIBjjAf
+BgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUv1bGsCK8
+IyuA91T1jbznf2D9dS8wRgYDVR0RBD8wPYINZnJlc2hkZXNrLmNvbYIQZnJlc2hz
+ZXJ2aWNlLmNvbYIacmVnaXN0cmF0aW9uLmZyZXNoZGVzay5jb20wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAy
+MDCgLqAshipodHRwOi8vY3JsLnNjYTFiLmFtYXpvbnRydXN0LmNvbS9zY2ExYi5j
+cmwwEwYDVR0gBAwwCjAIBgZngQwBAgEwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUF
+BzABhiFodHRwOi8vb2NzcC5zY2ExYi5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUH
+MAKGKmh0dHA6Ly9jcnQuc2NhMWIuYW1hem9udHJ1c3QuY29tL3NjYTFiLmNydDAM
+BgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQAd3fZQhOAKH3XvK388WqXY
+4WwjaKaHCG8Iboz9WrSfrhqUpyaVqAr3YOVAN2Ex6Y3Tkc5CQWTwJETR7UAzmk0h
+a+GPPzLwHvzdxyiiyxs7yfl803TKORz2y97Ji11Y8NeD+bOAfDMc0dtA8OI3beO/
+cDV2ZSuPRCwkrLdbkFUULkHeaU/aI+4TOrEQOjIneHG8/CzDkNByTJT0N+QuVk9v
+trIwJn1zfy3Rtn4GdguBK+x8fZzyMF0wpOGMVvIoPO1vTgR7ZZU/F1ujt4lA1vfs
+S/Pa3Yb2dV5PlVME69QjQxczPu8zpTkztvzyk49qUZkp7XgLSBteWOLGkKJV5iu7
+-----END CERTIFICATE-----
+subject=/CN=freshdesk.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5235 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 1930284D497744457600F1F6CE415D22AFD34907B8F26B950B62956CB2BC4E16
+    Session-ID-ctx: 
+    Master-Key: BBB59F0892018423D5F96257DCD86348D138AD87A3713F1D858D08302C6C61D7370F00ACC75EEA1DE5FA37D34BDEBCD7
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 10800 (seconds)
+    TLS session ticket:
+    0000 - a3 f8 35 21 1e 85 c3 5e-bd 0b e9 90 95 a7 6c 04   ..5!...^......l.
+    0010 - 6a 89 d8 16 21 15 91 7e-46 18 9c 34 57 b4 90 40   j...!..~F..4W..@
+    0020 - 7a 24 55 ab 07 da 9b 6e-3b 51 18 9d 90 9c 96 1d   z$U....n;Q......
+    0030 - a5 ed cf c1 f0 08 df 42-7c 41 98 9a 82 fb 55 56   .......B|A....UV
+    0040 - 8e 81 4b 44 d4 4f 46 93-34 2d 56 13 0a 15 66 c7   ..KD.OF.4-V...f.
+    0050 - 23 c8 a3 79 8b 63 75 d2-02 26 23 75 9f e7 ad d6   #..y.cu..&#u....
+    0060 - 36 2f 8a d0 9e 08 e5 ba-65 61 0e aa 13 48 3a b0   6/......ea...H:.
+    0070 - a6 a7 c2 c9 f1 db 91 f5-d5 8d 0c ab b2 7d 3c 36   .............}<6
+    0080 - 50 f0 a2 50 45 34 28 48-f6 fe 5d c3 32 10 e1 87   P..PE4(H..].2...
+    0090 - 50 e8 00 1b f8 aa d9 fe-8e 69 35 0f 29 3d d0 e1   P........i5.)=..
+
+    Start Time: 1472790553
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

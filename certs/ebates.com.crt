@@ -1,0 +1,68 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=CA/L=San Francisco/O=Ebates Performance Marketing, Inc./CN=*.ebates.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLjCCBBagAwIBAgIQClxI8f6AxiTaYW+tbd/zGjANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTUxMDI0MDAwMDAwWhcN
+MTgxMDMxMTIwMDAwWjB2MQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNV
+BAcTDVNhbiBGcmFuY2lzY28xKzApBgNVBAoTIkViYXRlcyBQZXJmb3JtYW5jZSBN
+YXJrZXRpbmcsIEluYy4xFTATBgNVBAMMDCouZWJhdGVzLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAMZ3IcColN6cDUp2/AiVzUMyv7KXxtKPbMIq
+9HGV7dyWCyBA8vUXuaSMrojdNUvYSLlsNjbsXixN9EBAmYYxndTgQTxayPF0gvKy
+r2Yn9Wm4nNvp357B+xhxvYnEX/p7GE2xl4Dh6ZYmCyKMsssDjLFW4T+voDThxZF+
+Ezl83z5YgqSus6lUfi0CXLt0be+KWet7Kmw0SP07Efcq+JC/jXBdhp5McJUXobFk
+/PY5ZbVi9hcT6aOZ49T6SJNneeJbVlEh/9kXwR4n5/PXE/0StmP0PPEDc4wF328T
+p5cLHKN7whD3d2EsqM0+5v8TrDfwdcnjGo+iZjSbf+LGEB+vCWcCAwEAAaOCAd8w
+ggHbMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBSv
+hqS1gOwqUJZDSG5/k+cvf7VjWzAjBgNVHREEHDAaggwqLmViYXRlcy5jb22CCmVi
+YXRlcy5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjBrBgNVHR8EZDBiMC+gLaArhilodHRwOi8vY3JsMy5kaWdpY2VydC5j
+b20vc3NjYS1zaGEyLWc0LmNybDAvoC2gK4YpaHR0cDovL2NybDQuZGlnaWNlcnQu
+Y29tL3NzY2Etc2hhMi1nNC5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAo
+BggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwB
+AgIwfAYIKwYBBQUHAQEEcDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdp
+Y2VydC5jb20wRgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNv
+bS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADAN
+BgkqhkiG9w0BAQsFAAOCAQEAuPoaAPNSyhjy7Lw4QuBxUhjpkW8mY2Wzf9wZd+fc
+xbzVllvyGIIkB1UCS/Yunr6vun2rvaS9mpMeEZTupbMUq22jYeBDJzSOChNdMmG2
+zRNg7RMTsj17ny+5CI81hamufknPuvEdIfUthrPsSeVhhsiqwnUcbgPkG9QS0PkK
+Ax9Z73nmCm81lk1aysg8PgwAOu7GZ7x5CSorY6gNh43GRxUW4hEORcnot8phHbG1
+qt5XmXr3H4Dkfl6H6c+LgiVekv4LERcaaKPMrnP4OCztJND/dGomWwy5GUznC8uR
+bhvmAx5Em0e7wVx0djUsc0r29SP3ZIjHTPQ5kYNChpx5ZQ==
+-----END CERTIFICATE-----
+subject=/C=US/ST=CA/L=San Francisco/O=Ebates Performance Marketing, Inc./CN=*.ebates.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3014 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C45396FC38362B80EC5BD560E2BF124AD21A05C681F1A65A0D6D078230CFE2D9
+    Session-ID-ctx: 
+    Master-Key: DD7DF09CB2271FA478AABB0D9460DAF505BB7986FCA23884551356CBBA7332DF7CA1450AA266DACFF9FDCE94721D47F7
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472788513
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

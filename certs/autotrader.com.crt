@@ -1,0 +1,66 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Georgia/L=Atlanta/O=Autotrader.com, Inc./OU=Autotrader/CN=autotrader.com
+   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+ 2 s:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+   i:/C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEzzCCA7egAwIBAgIQaahaXkHR5DKxrz6GSKK3eDANBgkqhkiG9w0BAQsFADBB
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
+aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUwNTE1MDAwMDAwWhcNMTgwNTE0MjM1OTU5
+WjB+MQswCQYDVQQGEwJVUzEQMA4GA1UECAwHR2VvcmdpYTEQMA4GA1UEBwwHQXRs
+YW50YTEdMBsGA1UECgwUQXV0b3RyYWRlci5jb20sIEluYy4xEzARBgNVBAsMCkF1
+dG90cmFkZXIxFzAVBgNVBAMMDmF1dG90cmFkZXIuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAx9eOetdu2d/4+ROxcBOafHMsjOsBD8u+XBiayxB8
+x8faHZ6ApFZH2VnCyY6jZU2vOsEPZmP+UbD1nQuQLsAEaOTCGKiewgEFlURs/Sle
+4ySTkUY9dkTVBLSbU8SHWJ/tnN7WDqRGQ0qrQffyCeDTubVZlcYauUiGPBXZ+Van
+ZYOcZzUarhN3/U83Le67MNgoqI1+yoGvYG2XUFPjHafW3xjQHH0zZ/51yIbGSVX2
+Pi3INQREJKO5JKKlE5RK4sKakj/3S09zFkLDVj71eYBUWxF/8rXl8NehS50xRub5
+gFt430ubDa+yNicsxuH7HIjoWQSsxcwl/IoK1dl8v4+EfQIDAQABo4IBhDCCAYAw
+LQYDVR0RBCYwJIIOYXV0b3RyYWRlci5jb22CEnd3dy5hdXRvdHJhZGVyLmNvbTAJ
+BgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIFoDBuBgNVHSAEZzBlMGMGBmeBDAECAjBZ
+MCYGCCsGAQUFBwIBFhpodHRwczovL3d3dy50aGF3dGUuY29tL2NwczAvBggrBgEF
+BQcCAjAjDCFodHRwczovL3d3dy50aGF3dGUuY29tL3JlcG9zaXRvcnkwHwYDVR0j
+BBgwFoAUwk9IV/zRT5rAXTh9DgXb2S61UmAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0
+cDovL3RqLnN5bWNiLmNvbS90ai5jcmwwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3RqLnN5
+bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3RqLnN5bWNiLmNvbS90ai5jcnQw
+DQYJKoZIhvcNAQELBQADggEBAEY2VqZQTALF2mmWrQyfuzbOuZkLMt5c7tnEKv6L
+LfO7NFD4ZdYLyk5ZiuuREOFHZip+nx25Yfjjmuw9dOnINmyLcDF+b8CDWgeFo9ja
+4AC9HhesB+nx9QDl2M2+U/W2cLVb2znNUprkDJkpRcgRsTOTJkHtiXYgPPqaRcqz
+KLUd3mlakfwhOzRxeAHYQo/a5WrX/HGWjzK4FT0CVWIcwDX1s8nKAGS+b8Z6ZB44
+dOfOQZr07gm8LHqgx5gjWZbGmirEMYl81KFusgl11dNBycaxEi3g24faMrIZ5hzK
+rmQ5sEwhEp91Y/p2Q7iPWDsoS568KzYPJOVzgRSRFIy3n+E=
+-----END CERTIFICATE-----
+subject=/C=US/ST=Georgia/L=Atlanta/O=Autotrader.com, Inc./OU=Autotrader/CN=autotrader.com
+issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+---
+No client certificate CA names sent
+---
+SSL handshake has read 3701 bytes and written 622 bytes
+---
+New, TLSv1/SSLv3, Cipher is RC4-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : RC4-SHA
+    Session-ID: 429F100940D95D247673EFA526C43CFD5D2CB84D219835B03F7DEBEE1689D04C
+    Session-ID-ctx: 
+    Master-Key: 295DBAE9DAF3FBB0FD8989EE51FC6F84CD9D49A62B3638C9AAE51B2D6B1B155D987B30BB82C42F437B883BB0967A701F
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472789863
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.w3.org
+   i:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+ 1 s:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6zCCA9OgAwIBAgIRAKGzrUM/KzLOjTaFpEIYFZ8wDQYJKoZIhvcNAQELBQAw
+XzELMAkGA1UEBhMCRlIxDjAMBgNVBAgTBVBhcmlzMQ4wDAYDVQQHEwVQYXJpczEO
+MAwGA1UEChMFR2FuZGkxIDAeBgNVBAMTF0dhbmRpIFN0YW5kYXJkIFNTTCBDQSAy
+MB4XDTE2MDQyMTAwMDAwMFoXDTE3MDUxNzIzNTk1OVowXDEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMSQwIgYDVQQLExtHYW5kaSBTdGFuZGFyZCBX
+aWxkY2FyZCBTU0wxETAPBgNVBAMMCCoudzMub3JnMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA8Pbk/KFdRoHIGhUEekhXN/YhanGC08zqqqFoltBPzVBr
+RJZXVqnerjGCiHhh2JZGsCG5qomPiV64RSXQDSioNC38jYos3G+3h8wHBvrnvgby
+O8eBCtGDateCzi8cDhWrq8/c/DPo0uPrg1d1/qOjPEWH9SvM7bF07Ivdg80PJ/iD
+6BE2mGXGHXCvza0PIzXhenL+KRbvxYD8YqTz1sZGF/HrhWrsz0c6uDszWMBci+ex
+HyGUmkclpV6mDlOXuQWE/CnCNIvFEMUS0YHESORgwASwCVRiG1NH8tml8+zS+XvI
+SQY6SIu03QDeylVkq27OR5NauucwePRH0NuKcvSyhwIDAQABo4IBozCCAZ8wHwYD
+VR0jBBgwFoAUs5Cn2MmvTs1hPJ98rV1/Qf1pMOowHQYDVR0OBBYEFGjesxjiKxwl
+YHUerjDoDlzx5+ZkMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBLBgNVHSAERDBCMDYGCysGAQQBsjEB
+AgIaMCcwJQYIKwYBBQUHAgEWGWh0dHBzOi8vY3BzLnVzZXJ0cnVzdC5jb20wCAYG
+Z4EMAQIBMEEGA1UdHwQ6MDgwNqA0oDKGMGh0dHA6Ly9jcmwudXNlcnRydXN0LmNv
+bS9HYW5kaVN0YW5kYXJkU1NMQ0EyLmNybDBzBggrBgEFBQcBAQRnMGUwPAYIKwYB
+BQUHMAKGMGh0dHA6Ly9jcnQudXNlcnRydXN0LmNvbS9HYW5kaVN0YW5kYXJkU1NM
+Q0EyLmNydDAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudXNlcnRydXN0LmNvbTAb
+BgNVHREEFDASgggqLnczLm9yZ4IGdzMub3JnMA0GCSqGSIb3DQEBCwUAA4IBAQB4
+tQpfVO+bUBieyXXxNVfPGN4pf6C4Kfcg+jJgHTfqm7zPyhy7n6OZwyQXpQyQa917
+RLfk1AIJ0wPCm8Ls+bby5d2fE12KSoBHKFKKj+DdXqXzvCRYVnrN9X40i+JzR9oH
+35TlDqzoKaeHNm8xRxzfFWXSdYgcpfyiFfmDz5E2oOU+9IymjabRE6HDCHCPuae/
+fgDAdI0LuY5AofcHKdwih3xoyUbjd6udaEL7E4cDP8ZFLxj2vH+6cdvi1mP0PCar
+9EqlH1XY6wm5I0iDlt23t1Rr9pFHSy6P7JGucaFKC2g0ncGdPH3nm6iBHhMOzstL
+8myudX/BQteFLw7g6yPT
+-----END CERTIFICATE-----
+subject=/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.w3.org
+issuer=/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4848 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F5EDA58C3668CCC84CDBD6DFFBC66F42026EA4E61B0622F0D11229AA080FB829
+    Session-ID-ctx: 
+    Master-Key: 3F0FBA4F99D66DB0A4F50408E6F1A1DAA9672D5AE75AB650D2BE49195BBB96E98DD6B7919707FCB7D9571FB06B837705
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f4 5b f8 34 1e f0 7b 69-ea 78 72 5d 6e ef 08 f7   .[.4..{i.xr]n...
+    0010 - 3b f2 a5 17 cb ce 9e 84-f6 87 c1 10 cf 09 e2 cc   ;...............
+    0020 - 8c a0 01 55 1e ed 73 59-cb d9 03 b2 e0 94 08 e9   ...U..sY........
+    0030 - fb 52 a2 64 82 af 4a 04-a0 c2 83 cc c8 fb 95 18   .R.d..J.........
+    0040 - 59 2d 54 76 fc 82 8a b0-f7 44 83 30 3d 77 4d 5f   Y-Tv.....D.0=wM_
+    0050 - 9c 29 96 97 4a c4 b7 2e-9a 6b 0b 77 6b f8 68 eb   .)..J....k.wk.h.
+    0060 - bb 4b 27 f0 68 95 71 96-57 b9 cf 03 82 68 33 ff   .K'.h.q.W....h3.
+    0070 - 57 f5 01 ab 2e 72 b4 80-d1 55 3b 02 9d ec 9e 41   W....r...U;....A
+    0080 - d9 29 9f fc d4 a4 7a a4-23 39 1a 47 1c 5f 96 6b   .)....z.#9.G._.k
+    0090 - a2 16 65 39 ab 11 7c a3-c8 e1 5e a1 16 5e 0f d3   ..e9..|...^..^..
+
+    Start Time: 1472790685
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

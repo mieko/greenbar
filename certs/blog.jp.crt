@@ -1,0 +1,62 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=livedoor.blogcms.jp
+   i:/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G4
+ 1 s:/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G4
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEYzCCA0ugAwIBAgIDAz4QMA0GCSqGSIb3DQEBCwUAMGYxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMR0wGwYDVQQLExREb21haW4gVmFsaWRh
+dGVkIFNTTDEgMB4GA1UEAxMXR2VvVHJ1c3QgRFYgU1NMIENBIC0gRzQwHhcNMTYw
+MjE0MTcyNTE0WhcNMTcwNTE4MDY0MTM2WjAeMRwwGgYDVQQDExNsaXZlZG9vci5i
+bG9nY21zLmpwMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2gB6dT/9
+Q59+BWfEZu723A8TOS2ghVZpW7uJFZtFzkCaS6xEUm+uTTcfChSRuRLApTJHKt1w
+n3WAHK2pyk/u3Z/CASOU9G4DtCg5wUcW5DNNfRpBa7yaF0lkItAjEFwQi3QqZV5x
+vh7bL2BjT5FypT/Enyh3rvOgCAPuomIlyU084zLQrMurqOXIR+mPhCniGXv3VHV4
+MI8JrjWhXHP4oqcOrhXhbcfI/vZWP5Q3CKGoYnol3J1ahiJnZkbk+kZ5L+zC2EOB
+vpUymFuH0dKh+eqPxsyyLi79M2jReDpHj4SQ7mxOm/2HlqahW31t92n2rPCKlays
+APiyp1kmrwmG2wIDAQABo4IBYDCCAVwwHwYDVR0jBBgwFoAUC1Dsd+8qm//sA6EK
+/63G5CoYxz4wVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ3Uu
+c3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ3Uuc3ltY2IuY29tL2d1LmNy
+dDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MB4GA1UdEQQXMBWCE2xpdmVkb29yLmJsb2djbXMuanAwKwYDVR0fBCQwIjAgoB6g
+HIYaaHR0cDovL2d1LnN5bWNiLmNvbS9ndS5jcmwwDAYDVR0TAQH/BAIwADBWBgNV
+HSAETzBNMEsGBmeBDAECATBBMD8GCCsGAQUFBwIBFjNodHRwczovL3d3dy5nZW90
+cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVnYWwwDQYJKoZIhvcNAQEL
+BQADggEBACXtS2wuxTlbVHRMk/hvARJLSw/pzQgjzyhk4f+OUNrZPYIt/CiWsGTk
+Qg/qSPSeuOXRp+8uzSCJvRqQ74lmNYRBXFgKsswrOspen4hriRq/DrFQcHBXFLM0
+lsbWxsOqPn/gBrQAdZrwfhGyR7RZg2T3bVk7VBFU7jW/fUovjqLE0ne57keB0Y1J
+eb8ke36fZQ4NpaG6tjVS7pqcE61VwXoKWSdA+nVDE39W2zAUy84ni4bV8SzE2KLo
+Czr4RAGRirbTJt3xKZodhLlBViqo6rG5H8BIh90IhynOc7gZHAwh2CrPEuaPovzZ
+ux/eiIOqBQcaXsfJzyyWea63QFWVoo0=
+-----END CERTIFICATE-----
+subject=/CN=livedoor.blogcms.jp
+issuer=/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G4
+---
+No client certificate CA names sent
+---
+SSL handshake has read 2427 bytes and written 666 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES256-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-SHA256
+    Session-ID: 03B8E7933A634087B446B491C148A6AD4C6251C887D8F5C92981ADC35547E21A
+    Session-ID-ctx: 
+    Master-Key: 1C01559642315636101CA8BDA82B390FD8A8A5CC45B52ACEC02BC1FF0B87FF1267DF832D4010DB8CE65756F9A05DFD2E
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472788114
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=IN/ST=Delhi/L=New Delhi/O=One97 Communications Ltd./CN=*.paytm.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE4zCCA8ugAwIBAgIQLSB0hi5e0zao/7YpSTq8azANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMDEzMDAwMDAwWhcNMTcwODI2MjM1
+OTU5WjBrMQswCQYDVQQGEwJJTjEOMAwGA1UECBMFRGVsaGkxEjAQBgNVBAcUCU5l
+dyBEZWxoaTEiMCAGA1UEChQZT25lOTcgQ29tbXVuaWNhdGlvbnMgTHRkLjEUMBIG
+A1UEAxQLKi5wYXl0bS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDbPfiZO3JCkABo96nsAxpZef7CeEVZaoLGflZLQyhT6AyPumC+ek1kSYjjvKjG
+qLgBswXXT26F6mLVkCwmupdYTD8D1URSDge9f2pxoxd3cruBOZ+HkKbxYcH3cWhj
+OY6anK/MNvni1Cd0Km6kuFzTWp7Al9F7FRuHEcYHvfSk+oGWn9mc/tmMItHpSRq9
+ywiX8XRt8fistcgZuXHuZwc5LpwKmgOgGhppWLsGOu612sS7LPs0s8XU7Bz1XfM2
+NPvMYxDA7eRyQYfwFou9y2NrluBJU1deflb71Qvb0zsKWDkKeZtlRNzMBj2asdf8
+xCEXS4wQfEV85F6SNtcjM+svAgMBAAGjggGoMIIBpDAhBgNVHREEGjAYggsqLnBh
+eXRtLmNvbYIJcGF5dG0uY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsG
+A1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3JsMIGdBgNV
+HSAEgZUwgZIwgY8GBmeBDAECAjCBhDA/BggrBgEFBQcCARYzaHR0cHM6Ly93d3cu
+Z2VvdHJ1c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUF
+BwICMDUMM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3Np
+dG9yeS9sZWdhbDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0j
+BBgwFoAU0m/3lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsG
+AQUFBzABhhNodHRwOi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8v
+Z24uc3ltY2IuY29tL2duLmNydDANBgkqhkiG9w0BAQsFAAOCAQEAt9quZKGU/1fG
+leQacmlYJgU6KyLy2gUDlgOVOUu8GR5ycGkCqXEiu9o0fiSTCQxf26Hyk+aIGVLh
+bQ/7mVLhznu9TbPwPeMKGCa2pgoUNJwpy95dmbqdWcjaSGC8DWL6G0X1upp1NXlx
+IsWlQOB4nS2I/91wxnfbUMaXua3hu9/EVvoYyTk2QIOcuzEL+0m2pMNBGnVou72v
+nvBNhJX9MTKTF94pxFBqa4gjhWgjKF4HP/Z38VRVdp2+DGlGSucFzUYAKJc15oqI
+MIac3lmjLq9FNrTI6BpIyHugVSs+8Cfoh0EOLiadEaLFShZjHYnogRmcJQv6LqQX
+TeGDRmaz8g==
+-----END CERTIFICATE-----
+subject=/C=IN/ST=Delhi/L=New Delhi/O=One97 Communications Ltd./CN=*.paytm.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3878 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: F490AAFEE6A610AD8C6F788059C485BCAEB83B04531DAE19A21994A81A85D722
+    Session-ID-ctx: 
+    Master-Key: 6BE13CF785A6189888F53471D7CF6B65D48E40F24F3CD005F79F2DEBDF194274C542838F5809D0EAD11A3EF60B175FBE
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 52 bf 86 63 48 94 6f 32-65 2b d5 c8 a2 d9 87 27   R..cH.o2e+.....'
+    0010 - bc 05 af 86 70 df 46 ad-e7 1c e2 ce 8f 5e 2d 28   ....p.F......^-(
+    0020 - 8b 1a ff b9 f9 1d e3 fc-ae c4 cb b8 1a 80 64 71   ..............dq
+    0030 - 46 68 df b7 81 28 10 7d-24 dd 02 eb 81 b7 d7 f8   Fh...(.}$.......
+    0040 - 0b be 7b c4 95 8a 28 92-75 82 49 2e 3f 6a aa cd   ..{...(.u.I.?j..
+    0050 - 34 b4 55 e0 ea f3 f1 17-c9 b8 d3 8e 47 64 1b 6e   4.U.........Gd.n
+    0060 - c4 31 77 8e d1 63 e0 a1-7c 50 06 58 97 b8 f7 61   .1w..c..|P.X...a
+    0070 - 35 16 e2 b1 ed df 45 3c-af c3 de 5d e2 e8 35 c3   5.....E<...]..5.
+    0080 - d0 86 59 a0 98 3c 5f b0-6a 62 8b 7d 8b 3c d2 22   ..Y..<_.jb.}.<."
+    0090 - 0c 91 65 11 45 fc 7c a5-5d e9 9d e5 96 06 90 17   ..e.E.|.].......
+
+    Start Time: 1472788157
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

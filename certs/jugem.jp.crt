@@ -1,0 +1,68 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=JP/ST=Tokyo/L=Shibuya-ku/O=GMO Pepabo, Inc./CN=jugem.jp
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFIDCCBAigAwIBAgISESEY3mbTeWLt//o4UHjh+agHMA0GCSqGSIb3DQEBCwUA
+MGYxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYD
+VQQDEzNHbG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hB
+MjU2IC0gRzIwHhcNMTYwMzEwMDg1OTMxWhcNMTcwMzExMDg1OTMxWjBgMQswCQYD
+VQQGEwJKUDEOMAwGA1UECAwFVG9reW8xEzARBgNVBAcMClNoaWJ1eWEta3UxGTAX
+BgNVBAoMEEdNTyBQZXBhYm8sIEluYy4xETAPBgNVBAMMCGp1Z2VtLmpwMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1RFj348hDVqJ/rxLMHkDxk5ZKL60
+54c9ft5RClwtcni7QOGx02Q5BiaRdVq6BgSitJ811fusLo/QlcnEW9OSwkCWLuPv
+X1qfK3NCW4W0slkbVngUtZ/OjVb/tMyxgXTslpDc70/K23r8Fdpw8jOx7kYA3Zoo
+c8WmWh2ZApDHaSsRCgWJZISXB09jay7KhklyOpJnMLd7A6iTsokldaqMLaLTLpxZ
+eYWy2w20Kb5a0XgNB/vAR3z7T7LK86Q/WwTApYiuCxnKJaZ1jzgcvvo1fLNekold
+C/IhYmOB4xSvi8F9i/dwQm4KAxvGi3pxaLGIyIxdAckWCQOer4RH64UfDwIDAQAB
+o4IBzDCCAcgwDgYDVR0PAQH/BAQDAgWgMEkGA1UdIARCMEAwPgYGZ4EMAQICMDQw
+MgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRv
+cnkvMBMGA1UdEQQMMAqCCGp1Z2VtLmpwMAkGA1UdEwQCMAAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdHwRCMEAwPqA8oDqGOGh0dHA6Ly9jcmwu
+Z2xvYmFsc2lnbi5jb20vZ3MvZ3Nvcmdhbml6YXRpb252YWxzaGEyZzIuY3JsMIGg
+BggrBgEFBQcBAQSBkzCBkDBNBggrBgEFBQcwAoZBaHR0cDovL3NlY3VyZS5nbG9i
+YWxzaWduLmNvbS9jYWNlcnQvZ3Nvcmdhbml6YXRpb252YWxzaGEyZzJyMS5jcnQw
+PwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMi5nbG9iYWxzaWduLmNvbS9nc29yZ2Fu
+aXphdGlvbnZhbHNoYTJnMjAdBgNVHQ4EFgQUuvwbuE09Le9eLj61HN6CevVRCU4w
+HwYDVR0jBBgwFoAUlt5h8b0cFilTHMDMfTuDAEDmGnwwDQYJKoZIhvcNAQELBQAD
+ggEBAFFZayHiFepUgj3SDQKC5nX+voyAlV5GTt9qFyVduc1stmzOgdnHR0+dA/6v
+9soyDtVnYr+JnNg1chy31an8tG3f86Sx1rLJfYMpIGAFPPYlSn74O4pSru7olGvC
+ZPhDWFF0K1cjzJFxsfJ4XX7HV2Z0E81nyJ2swbkM8+/Qd3zgYKqYoVwqHSYzlo36
+0G56JF2d/OqOx7KdM86lEHtKJH0sayvCkLSdltfXUqtlfWsHQiAQ19AB6fhVMsN9
+2GZDoRKqunEMvJQRR/4Gr9Io59eFK/8rGZvR24mNmxKSg4U5NRTjczqJlEfJS4ig
+xQZwoMLU9tDg6OREjL9dpn0zTR8=
+-----END CERTIFICATE-----
+subject=/C=JP/ST=Tokyo/L=Shibuya-ku/O=GMO Pepabo, Inc./CN=jugem.jp
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2964 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BD27D92CF2B64793F53DEC24DAED775F50C466EDBDB881DFCDF6CC0B60990BAD
+    Session-ID-ctx: 
+    Master-Key: 46D3E70FFCA913EDC2A44353D64D5FE71F28B05EA83DA37F155E8D8E71A10AB69EFE645A5C967E5A64CD108D5B0FB6E6
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790760
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

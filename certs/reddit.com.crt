@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=San Francisco/O=Reddit Inc./CN=*.reddit.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFFTCCA/2gAwIBAgIQCYaKcXQTsL6bYkBsa5WBeTANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTUwODE3MDAwMDAwWhcN
+MTgwODIxMTIwMDAwWjBnMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+YTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEUMBIGA1UEChMLUmVkZGl0IEluYy4x
+FTATBgNVBAMMDCoucmVkZGl0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBALX+Pfsobp3y8hDvDLkXbhDZBJVQshj/OTCDOgBi4VNxvTrZoqo4mW+v
+yVpWbavLu+NGuDTrSmvnWMYhDQO2XjnGPDOw1cy4Nv0OW7HrzVF+BxMnkjLddBlR
+8YQ7DOy6t56PPlHWfqUYqHn68RoAU9oYVSqV3nOZYVEvEGrConDCL453IV/lSF/T
+eR4/W8PHbKcV1J4mTUY5ku3d/+363MnvHKCJrEas/bRlpPGk23T8xZ7Xayd7L1eW
+oCQ2jPBphzNOgvn/wLObUUMQVv7OZtZ0geyX7qfkpIqb/nZALjcQAwvC8WPBGb28
+5DCsLQO8JFBFHGT7+C6bB4wwOnlD46sCAwEAAaOCAdUwggHRMB8GA1UdIwQYMBaA
+FA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBQQaFlLzdeYxaZt8qtbT/j/
+Rj/THTAjBgNVHREEHDAaggwqLnJlZGRpdC5jb22CCnJlZGRpdC5jb20wDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBrBgNVHR8E
+ZDBiMC+gLaArhilodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc0
+LmNybDAvoC2gK4YpaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1n
+NC5jcmwwQgYDVR0gBDswOTA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0
+cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzB8BggrBgEFBQcBAQRwMG4wJAYIKwYB
+BQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEFBQcwAoY6aHR0
+cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNlY3VyZVNlcnZl
+ckNBLmNydDAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQBMfIU2JuAZ
+STqBZZKJxb5Vf0Az1nGbbZrcwB5gjAjNsv/OWo0+aiUEYcjYQoGWvGVxBoGuT0Bi
+VLdHT0cORfHVlkE+l/29PJYGxhFda443/gkOZLaL4L9RyGYamdD8tIgYK1Q3hWBu
+SmFUvKdTfkb8R8GsujMUSQR19ZHXEe/Ih3mUeBxC+CZJSGxx2SUAKRomUl0Wj9mN
+sdWJUiJ1AhOLQXugQ36VceLVCImp0z1EPCpEoGG9lCM+2ShzzRJkqBZJLZ47tsms
+h72qBafdlcI9D4Qq6c5aB8+VRmYPASw6qkfnXPpecVrh/7hnQkcy6MQ8auhDycy1
+scbqIFjVt2FS
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=San Francisco/O=Reddit Inc./CN=*.reddit.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3154 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 9074AAB1BB78EB340A61545689055023FC556B3627A27DA7FC5EB6E31DC5A44E
+    Session-ID-ctx: 
+    Master-Key: 2D8C2E42211EE651A748A321C089E905949BDFC4A132E93B9993DDDD52B87F75FE19231972009F8F887C1895BB854E5E
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 49 4e 50 e3 c7 f1 4e 89-ef 15 99 ce 26 c1 51 8f   INP...N.....&.Q.
+    0010 - d9 9e a8 6b 9a 87 b8 a4-24 c7 5f b3 3b 5a 0d 4b   ...k....$._.;Z.K
+    0020 - 66 ac 1c 0c 57 3d f9 8e-23 29 32 20 7a ce cf 5d   f...W=..#)2 z..]
+    0030 - 1d 0e 6a 2e 41 d7 3f e2-d5 65 f3 2d 38 96 66 44   ..j.A.?..e.-8.fD
+    0040 - 6c ab 31 dd 39 7a c4 9d-5a 6b 9a be dc f7 b9 91   l.1.9z..Zk......
+    0050 - 94 ab e6 a5 3b 57 3d 5a-6f 6f 97 c2 91 58 95 f0   ....;W=Zoo...X..
+    0060 - 39 7f bb 0c c9 83 51 49-3a 85 d8 7c 83 43 ac 56   9.....QI:..|.C.V
+    0070 - 47 d1 c8 12 66 a5 ea 58-6a 58 d3 14 d8 c4 89 e5   G...f..XjX......
+    0080 - ab a3 9d 83 f1 6b db b8-25 73 35 8e 7d ce 06 a6   .....k..%s5.}...
+    0090 - 48 92 f8 97 3f 5b 8e 7f-3b e7 06 f9 3f d0 1c 65   H...?[..;...?..e
+    00a0 - a1 39 34 8d 40 52 cd b7-64 88 59 52 47 7d 6f d0   .94.@R..d.YRG}o.
+
+    Start Time: 1472787846
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

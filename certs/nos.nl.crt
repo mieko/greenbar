@@ -1,0 +1,58 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=NL/ST=Noord-Holland/L=Hilversum/O=NPO ICT/CN=*.nos.nl/emailAddress=beheer@omroep.nl
+   i:/C=NL/ST=Noord-Holland/L=Hilversum/O=Publieke Omroep/CN=Publieke Omroep Internet Services Root CA/emailAddress=beheer@omroep.nl
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDnjCCAwegAwIBAgICARkwDQYJKoZIhvcNAQELBQAwgagxCzAJBgNVBAYTAk5M
+MRYwFAYDVQQIEw1Ob29yZC1Ib2xsYW5kMRIwEAYDVQQHEwlIaWx2ZXJzdW0xGDAW
+BgNVBAoTD1B1YmxpZWtlIE9tcm9lcDEyMDAGA1UEAxMpUHVibGlla2UgT21yb2Vw
+IEludGVybmV0IFNlcnZpY2VzIFJvb3QgQ0ExHzAdBgkqhkiG9w0BCQEWEGJlaGVl
+ckBvbXJvZXAubmwwHhcNMTUwMjExMTA1NjUyWhcNMTgwMjEwMTA1NjUyWjB/MQsw
+CQYDVQQGEwJOTDEWMBQGA1UECBMNTm9vcmQtSG9sbGFuZDESMBAGA1UEBxMJSGls
+dmVyc3VtMRAwDgYDVQQKEwdOUE8gSUNUMREwDwYDVQQDDAgqLm5vcy5ubDEfMB0G
+CSqGSIb3DQEJARYQYmVoZWVyQG9tcm9lcC5ubDCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAOKgO/b464G40HO7zy0oB018Me1YnIl/mKlfGaFaeKdfeX9t
+MQ4PhRaU7ApuA0gqqfIE3cCKKsRsULvcGnEboRWiJMTnp1W3qc3SKqTJYEstslZl
++by9YA3Q3VNhSokAoQHJXO/WjzWr0NNqWxkQi1houE+Rkvr+1C0mj22MY/kPfK0P
+Mud9UO7s0XrP8UNI206txH5uJQLBchVDjA+r5cQZoQHPAGJiXuJ9GTzL5tCQV3+g
+e+9uMSw0FW8hJgPgv3RnDyHD1C9hp0wJHxCCF2Zrhuj9bS9KiafTWDHTW/GeJeHw
+X1C6UwFlz5xDjYIbpIblm6t7G6+cE5egDY7YMtMCAwEAAaN7MHkwCQYDVR0TBAIw
+ADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUw
+HQYDVR0OBBYEFEgC5VNIdinktBj2g6Z/vM/+WEtZMB8GA1UdIwQYMBaAFAHEi0OO
+yt8p5+5HAIL1PiH0oenkMA0GCSqGSIb3DQEBCwUAA4GBACcXLZv2Mqvuh2+uFYBf
+osV2NzdRhJa0x7Pp/hrMSvHj3nEyP5C04o2Bh9IYm504cbpc6V9oIjgCzToyQkRd
+I0wJZeCc9TvYrRpBCxyvIBgjM5oW/XD3AHnW0f0l6x0fVDYjPChWmbwUxxZVBwmd
+C66iPbwUuqGC9A+IGj8p1Pqt
+-----END CERTIFICATE-----
+subject=/C=NL/ST=Noord-Holland/L=Hilversum/O=NPO ICT/CN=*.nos.nl/emailAddress=beheer@omroep.nl
+issuer=/C=NL/ST=Noord-Holland/L=Hilversum/O=Publieke Omroep/CN=Publieke Omroep Internet Services Root CA/emailAddress=beheer@omroep.nl
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1442 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: E171DF6BFD25DB18900728530D7943C4466221265FC53CD22E6B920F4B62FB7E
+    Session-ID-ctx: 
+    Master-Key: EB7515097F9981AF382459FFD211DD87DE27959E7B7EB80D6743BC01FE0CC0DF7B0BB952A916718250F28201A04C5859
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790713
+    Timeout   : 300 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

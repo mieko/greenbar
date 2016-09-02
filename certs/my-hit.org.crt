@@ -1,0 +1,79 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=my-hit.org
+   i:/C=US/O=thawte, Inc./OU=Domain Validated SSL/CN=thawte DV SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./OU=Domain Validated SSL/CN=thawte DV SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEgDCCA2igAwIBAgIQLKr+puATnaaFEWwjb6chqTANBgkqhkiG9w0BAQsFADBj
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMR0wGwYDVQQLExRE
+b21haW4gVmFsaWRhdGVkIFNTTDEeMBwGA1UEAxMVdGhhd3RlIERWIFNTTCBDQSAt
+IEcyMB4XDTE1MDkxNDAwMDAwMFoXDTE4MTExMjIzNTk1OVowFTETMBEGA1UEAxQK
+bXktaGl0Lm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOVF0jQA
+3YUtx7yz/1RoJ+CHdNVcrnvJKqsLPi+NMzqtiOAH9a4TNQm5Qiao9P56jKYyWC4A
+5hMh1QJ+e5HqebKsl4Zseb92rS+CMOVGcjrH1rn/ueUyrept5Is3Ku1l0bYCIdc3
+4kmLD/PKNyPvNjCwhXA0LjZZYeHTFzTfffOVgvqG8+U0bv72Ruv1wy/dXbUNEPMb
+GhU++rwzu9PtC9Y21KJHPGU1m3J8abP+h2JSv7ZVo0f+tzYi3fqcwV7b8nNqxRZQ
+pxGzaoIEHAKRgJERmjeOVwrGP9IdkSZFlD7Bl6cHhmSfOIk5Juac86zl8xZSIu8z
+uoaFADlnmGdUTkkCAwEAAaOCAXwwggF4MCUGA1UdEQQeMByCCm15LWhpdC5vcmeC
+Dnd3dy5teS1oaXQub3JnMAkGA1UdEwQCMAAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0
+cDovL3RuLnN5bWNiLmNvbS90bi5jcmwwbgYDVR0gBGcwZTBjBgZngQwBAgEwWTAm
+BggrBgEFBQcCARYaaHR0cHM6Ly93d3cudGhhd3RlLmNvbS9jcHMwLwYIKwYBBQUH
+AgIwIwwhaHR0cHM6Ly93d3cudGhhd3RlLmNvbS9yZXBvc2l0b3J5MB8GA1UdIwQY
+MBaAFJ+4wals8vXAIiqU7VyZrNTs18YHMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUF
+BzABhhNodHRwOi8vdG4uc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vdG4u
+c3ltY2IuY29tL3RuLmNydDANBgkqhkiG9w0BAQsFAAOCAQEAKesDI5WOHSzWO+zR
+7+yO9/F2nCbJ/C4ZYfVxhydThFSSmeDnfxR4s1cLHXer8XZ6o75lSgZjA9ngQWJU
+tI8ln6NFFnJ8Q37Ik9w3+KOxYKmKU7NduEeWXJ1O9Gyeh3Mldl4YWoBvg488XEoU
+ms3ZOsmKSMu9BMTg5lw1iowD7amTZHMQh0T9h2U1g9CSfSLk54bUVDpeoPsI2Yjz
+ZDmR+lEmLIyzqnsUmxfjs7+MKhViuPPH3D/9bfG9Iw6LOijYmDQzyxhTgrbzs3AQ
+fNEypqlgfHOYIncK1IEkg/YRE51zLzwR1CX9MlM0uCT6At0NpedguouPluN9vjr/
+4YKmxw==
+-----END CERTIFICATE-----
+subject=/CN=my-hit.org
+issuer=/C=US/O=thawte, Inc./OU=Domain Validated SSL/CN=thawte DV SSL CA - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3128 bytes and written 490 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-SHA384
+    Session-ID: 39517CAB660B50AA192249D0D08A2FAFC78E9A78DFEC7D4B3FB989EAEB817407
+    Session-ID-ctx: 
+    Master-Key: 66A270AFF3B1D52CF54428C83BE3A8EE460A5904B9C99F303CC67FA5AB0B49F135E4DD3E434DD8D4B7F660562B31C791
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 68 a0 5f 29 28 5c c9 f1-35 ab 6b 73 42 d7 af ec   h._)(\..5.ksB...
+    0010 - 59 60 22 a4 38 4c c7 8c-8a 42 98 ab 84 42 b1 f2   Y`".8L...B...B..
+    0020 - 1f 61 f5 2e 36 5f 9d 8f-b9 70 f6 93 cb 53 13 fa   .a..6_...p...S..
+    0030 - 62 20 98 71 7f c1 4c 1e-48 b2 ca 35 9d aa 27 1b   b .q..L.H..5..'.
+    0040 - 4a 3f 16 07 86 8e 88 bc-7c dd 2d 17 37 c9 48 85   J?......|.-.7.H.
+    0050 - 2f 83 5b 28 9e 9a 3a 18-be 0f 4a fa 9a 08 16 88   /.[(..:...J.....
+    0060 - 07 f6 f6 67 d0 4e 6d 11-ab ae ca 80 62 70 36 97   ...g.Nm.....bp6.
+    0070 - 77 f5 5b 61 0d db 76 be-97 9c e0 87 a7 4a 87 7d   w.[a..v......J.}
+    0080 - 28 1e 57 9c eb 6f e5 44-26 a9 bd d0 88 e6 7e 97   (.W..o.D&.....~.
+    0090 - 29 1a d1 1a 70 10 56 4e-ae 87 bd ad 9f 83 e5 c5   )...p.VN........
+    00a0 - 5a 6e 93 fc aa 2e e4 90-1c 29 36 81 c1 3b 00 b1   Zn.......)6..;..
+
+    Start Time: 1472789227
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

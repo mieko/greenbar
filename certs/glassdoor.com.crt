@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=Sausalito/O=Glassdoor, Inc./CN=*.glassdoor.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE7jCCA9agAwIBAgIQCLT4hl7pM7bqGKN0H/MNwzANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTQxMDAxMDAwMDAwWhcNMTgwMjIzMjM1
+OTU5WjBqMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTESMBAGA1UE
+BwwJU2F1c2FsaXRvMRgwFgYDVQQKDA9HbGFzc2Rvb3IsIEluYy4xGDAWBgNVBAMM
+DyouZ2xhc3Nkb29yLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AKFR9Ge3xPH+rqDv+oCMNeVlQQDVt57FoKRCwn3bwS4byy5yyMETw2a4LO1WcLsW
+hEMca7WoIsLZHbDBizY3sUHsFvINhuEF2wNAyyewpKLBcZVefDeSQzhCz5a7r/sV
+iaIbOj/YMyQkn7TQidTFCHP2wecNNw7NuimaganQvOW40TSDuJJevD3udu7/sylR
+CJ0Qu9UdPDGQmvASHPuRViRMugMxf/50lqZTHvBKF99WbgwhxtyhA33CX7+NRDgK
++1rC0lEuyUpxMEBw3tJyR4DW5ggrZXx8MHr6MkW3kt9RKpt8X3kVE4tPEQqUyH8l
+RvK83hHkPH/rPxiwldTLN/MCAwEAAaOCAbQwggGwMCkGA1UdEQQiMCCCDyouZ2xh
+c3Nkb29yLmNvbYINZ2xhc3Nkb29yLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQE
+AwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNy
+bDCBoQYDVR0gBIGZMIGWMIGTBgpghkgBhvhFAQc2MIGEMD8GCCsGAQUFBwIBFjNo
+dHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVn
+YWwwQQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291
+cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xafDBXBggrBgEFBQcB
+AQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5jb20wJgYIKwYBBQUH
+MAKGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MA0GCSqGSIb3DQEBCwUAA4IB
+AQBRUw5c1ojalNhOuRjYoMCneUyh/8gKE68UcJn7gaAWJ3Z0Z9HGp6KQaoB+4fy+
+wtZO4O4mm7Vc0DP4Z+1SrC8MH0RW3HFgONKO73VHDyevmqJiVb8h3jIe2msqwexT
+1ou17KVAQIg7W1z4r9/9CsTiyOu1I6ezfC1JJ4FBthAJzshJ5BxEC7SRG8OK0L93
+VNN8xHohu+kP4z/oXDZZ5vEpEt9nNwBnVba8UkYPvLoyfcb3LzaebYoARJVaKgVy
+UPuRA/fas2JV/46bMnffNuO6azzREG5rtq0mc5S+0cAQFnZdUttDQedP8B3YMuau
+ETqPdynR8Y2hGK0GM8/6b7N0
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=Sausalito/O=Glassdoor, Inc./CN=*.glassdoor.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3046 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: DA6BB5986326032302258309445D4472D666CF6694AE03807918604692E0ABFD
+    Session-ID-ctx: 
+    Master-Key: 58FBEB5C4331AE2AFFFC8523CF494416F7A7947708A82B495EC62E54F5AAF55FC9467008F2E27E1441FECA9AF16C6243
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 49 4e 50 e3 c7 f1 4e 89-ef 15 99 ce 26 c1 51 8f   INP...N.....&.Q.
+    0010 - 36 49 c0 03 cd c9 da fe-6f 11 7d d4 ba 72 d0 98   6I......o.}..r..
+    0020 - 17 90 60 c4 58 2a 13 a4-af ae 87 05 39 61 ce 8f   ..`.X*......9a..
+    0030 - ec bc ba d2 bb 92 af 72-0c 01 b5 07 40 65 5f a4   .......r....@e_.
+    0040 - 87 4f 53 e4 48 c7 13 de-e4 c0 4d c8 8d 4c f1 61   .OS.H.....M..L.a
+    0050 - 98 5f 48 92 2d 7a f9 d4-b7 c2 2a 3b 3e c8 69 22   ._H.-z....*;>.i"
+    0060 - 3f ed 00 ce 47 72 6f 77-ab 3c 31 5e c0 a4 53 81   ?...Grow.<1^..S.
+    0070 - 6a 1e db fa 3a 30 23 68-ac 0c d5 2d 2e 8a 68 f1   j...:0#h...-..h.
+    0080 - 37 b8 3d 14 e5 19 8c a1-82 6d 63 99 93 b4 dc ef   7.=......mc.....
+    0090 - 22 5c 2c 9f e3 03 7f d7-41 8c f7 55 d8 b6 bb 95   "\,.....A..U....
+    00a0 - df 92 88 d9 ad 90 7b 6a-3d 5f d4 ec 6c 35 dc 2a   ......{j=_..l5.*
+
+    Start Time: 1472788575
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

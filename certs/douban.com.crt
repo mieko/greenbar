@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=CN/ST=Beijing/L=Beijing/O=Beijing Douwang Technology Co. Ltd./OU=Technology Department/CN=*.douban.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFETCCA/mgAwIBAgIQYShGlpAa43zMoyj0xO4x1jANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwODAzMDAwMDAwWhcNMTcwNzE2MjM1
+OTU5WjCBljELMAkGA1UEBhMCQ04xEDAOBgNVBAgMB0JlaWppbmcxEDAOBgNVBAcM
+B0JlaWppbmcxLDAqBgNVBAoMI0JlaWppbmcgRG91d2FuZyBUZWNobm9sb2d5IENv
+LiBMdGQuMR4wHAYDVQQLDBVUZWNobm9sb2d5IERlcGFydG1lbnQxFTATBgNVBAMM
+DCouZG91YmFuLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALS9
+yPBs0/se2KS8p6lh6Ji9HhtcCynsVoelZ4IyWTam3xa1abs4BicuwsfmWd8lPQv0
+q7sM1iXAY85j1XtCPo+JWlyGRlazclHwKelDzXJbxuRAcz2Qj7tcM3swXIt7bPhF
+XFafxt3X9sIa/66ixVTVCG2OumILWTztY1LZXXV0BahzNtvlL142gNnLKutuSdZK
+KrjtrLtC+NnZ1Nrxvoy8H0QrzBqAaUdPFtl3pPjzNCjEU+x0cR8u8FzxYHyB03FA
+IVLTjK1mUd6T0yFMPddrdEO8LXAXCvz7pXLj70sJJ/M3FDXNfrPYEg7h6Buv/1R/
+eOB7Kha02TkPo8w7SoECAwEAAaOCAaowggGmMCMGA1UdEQQcMBqCDCouZG91YmFu
+LmNvbYIKZG91YmFuLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIFoDArBgNV
+HR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNybDCBnQYDVR0g
+BIGVMIGSMIGPBgZngQwBAgIwgYQwPwYIKwYBBQUHAgEWM2h0dHBzOi8vd3d3Lmdl
+b3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDBBBggrBgEFBQcC
+AjA1DDNodHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRv
+cnkvbGVnYWwwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQY
+MBaAFNJv95b0hT9yPDB9I9qFeJujfFp8MFcGCCsGAQUFBwEBBEswSTAfBggrBgEF
+BQcwAYYTaHR0cDovL2duLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL2du
+LnN5bWNiLmNvbS9nbi5jcnQwDQYJKoZIhvcNAQELBQADggEBAHl3AAPZy+uXYrxV
+/BV2268K+RCDTLojGm0kgopDt0kDGcIzuFe8hPN7V0cQQA0CwLmmRUMyxnlGbyiM
+7qhmSvwisxI8+90wYv9ZJQDjj7a04VQOa89H0hCORTgt5bKmDkA+UARLvEQ29IFC
+KhOoUUhYrorwOlqOlAnv1yR4VQ9C4kOMIGBVak65C6ymxcPXTZqBajo4Plct07mn
+YJtgQdy3HgRdX8okevnGLCXSGcPFbi88bQRBVtVyL3IaXKyR1/s+O4V2peR1FvRt
++QEhRuUswm2P7oxRQHxHOFiv7LVmxoXga0KzjO4M5UZ3UAnZdSEgTCSDCfMQ7f17
+ob740cA=
+-----END CERTIFICATE-----
+subject=/C=CN/ST=Beijing/L=Beijing/O=Beijing Douwang Technology Co. Ltd./OU=Technology Department/CN=*.douban.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3081 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 7456A873EFC9DB6E34E88641EE4E8875430A7B1C9EFB873A53F318AB342B2E5E
+    Session-ID-ctx: 
+    Master-Key: E5C76978135E0C17D5D834814DC7684E94030D0F6F2932C926992888F02A14043417E80C20D7FDE15C9FEBB1A5B46803
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a3 52 f0 9c 3e f4 fe 7b-ee ed e9 58 ea e2 9b 7b   .R..>..{...X...{
+    0010 - 72 46 fd 3a a5 e1 ef 87-3c 6e 3f 7d eb 57 9b 2f   rF.:....<n?}.W./
+    0020 - bc 4f bb f7 20 63 cd 54-17 24 ca 30 86 51 c4 6e   .O.. c.T.$.0.Q.n
+    0030 - ba 90 eb ba a4 8f cd bc-25 56 83 da 6f 56 66 de   ........%V..oVf.
+    0040 - 9a 3a 51 56 f5 9f 76 90-c1 17 cd f8 e8 ae 3a 6c   .:QV..v.......:l
+    0050 - c5 9b ba 7c d1 f5 bc 55-7c d1 3e 74 57 41 0c 58   ...|...U|.>tWA.X
+    0060 - bb 91 16 df 79 99 3e ee-92 48 1c 9e 76 5b fe 48   ....y.>..H..v[.H
+    0070 - 8d 9f 10 50 5f b5 0c 37-1e df be ba 00 3d cf 24   ...P_..7.....=.$
+    0080 - 28 84 63 fb b9 0c 57 cb-04 4f b9 f8 ac e6 73 e0   (.c...W..O....s.
+    0090 - 01 c5 f3 1d 55 a8 a0 ee-84 96 68 4b ea 3a 16 e5   ....U.....hK.:..
+    00a0 - a7 69 87 eb 17 42 b8 04-ae 1d a5 0d be 8b 52 4f   .i...B........RO
+
+    Start Time: 1472788214
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

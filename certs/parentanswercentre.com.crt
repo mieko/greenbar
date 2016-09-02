@@ -1,0 +1,66 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=CA/L=San Mateo/O=Relevad/CN=411answers.com
+   i:/C=US/ST=CA/L=San Mateo/O=Relevad/CN=411answers.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIICgDCCAemgAwIBAgIJAOcQFD9GLDaXMA0GCSqGSIb3DQEBBQUAMFkxCzAJBgNV
+BAYTAlVTMQswCQYDVQQIDAJDQTESMBAGA1UEBwwJU2FuIE1hdGVvMRAwDgYDVQQK
+DAdSZWxldmFkMRcwFQYDVQQDDA40MTFhbnN3ZXJzLmNvbTAeFw0xMTA4MjYwMTE2
+MzVaFw0xMjA4MjUwMTE2MzVaMFkxCzAJBgNVBAYTAlVTMQswCQYDVQQIDAJDQTES
+MBAGA1UEBwwJU2FuIE1hdGVvMRAwDgYDVQQKDAdSZWxldmFkMRcwFQYDVQQDDA40
+MTFhbnN3ZXJzLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA2AEFMxVu
+XgTzW4wPxxah65y3mabH/L1o05TJe4SWGpI982gXBnxNBVrAcqHW7BRDmek4JPa6
+i3nFsgCA6h7BZS82QfI8lURRPyC76mDO1l6kMhWmv9TxTtdtF33amfAb1S/w3Jd0
+K4f3odDRMCL39PRJAtlwUCN0TZj4vmW+RekCAwEAAaNQME4wHQYDVR0OBBYEFKSg
+Efjy1yMwRKvxxx/tqKEZlVMGMB8GA1UdIwQYMBaAFKSgEfjy1yMwRKvxxx/tqKEZ
+lVMGMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADgYEArgrsSpLcoczfCDWY
+obIj94n9LjE0f5Fj7hid3OvMovM9hXGh9cweqEwAYPrMvVwpoApbwJBdB768Mef+
+4TX7bCIXOIEfwi2j6NndQkiYe/w0fiMnWzpmNfIeaNuYtbXd21ZMxRB3dugWYP1W
+y5ArXJw326TcJekJMKZrfnhzlB8=
+-----END CERTIFICATE-----
+subject=/C=US/ST=CA/L=San Mateo/O=Relevad/CN=411answers.com
+issuer=/C=US/ST=CA/L=San Mateo/O=Relevad/CN=411answers.com
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1191 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 1024 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 8852E9C4D61B25DAF53710B77E4D1CDE833F98E97FFDB87C2921F241545AA416
+    Session-ID-ctx: 
+    Master-Key: 720BF3A9D8987DD0A51F041165DF6055AE99F60A569902FA0D03763338A6F6E657393E496AB7A81FD1EF839151A654AC
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 49 71 aa b8 c0 7b 9b 81-00 4a dd 7c 87 6c 2e 09   Iq...{...J.|.l..
+    0010 - 74 b2 0c 77 66 6e 5e b0-03 9c ff 19 b8 4a bc c8   t..wfn^......J..
+    0020 - 08 2e 38 79 6e 27 18 8c-06 aa cb ea 4e 88 09 b4   ..8yn'......N...
+    0030 - 6a 47 dd 66 58 b1 ce 7d-f6 6a f9 70 c8 7d 6e c6   jG.fX..}.j.p.}n.
+    0040 - 63 97 85 eb 5e b7 a0 ea-88 85 69 96 03 08 87 e6   c...^.....i.....
+    0050 - 12 94 e0 04 8e c5 fa b6-b9 91 64 a9 c7 a0 e7 18   ..........d.....
+    0060 - 33 7f 1e 1e 92 a1 68 f8-67 37 0f fd 95 27 68 30   3.....h.g7...'h0
+    0070 - fa 02 1d 15 d5 68 3f b1-42 71 be 6d 2b 1d e3 41   .....h?.Bq.m+..A
+    0080 - d5 8f 2d 03 60 60 cd 8e-cd e4 8f 6d 54 43 54 50   ..-.``.....mTCTP
+    0090 - 8a c5 f9 cd e3 e1 d7 a3-c9 da 7c 3f aa fd 14 75   ..........|?...u
+    00a0 - 0e 6f 36 7e e3 ee 60 b4-fc eb fe 90 91 67 6a f5   .o6~..`......gj.
+
+    Start Time: 1472790119
+    Timeout   : 300 (sec)
+    Verify return code: 10 (certificate has expired)
+---

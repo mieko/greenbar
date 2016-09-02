@@ -1,0 +1,79 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=*.myanimelist.net
+   i:/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEtDCCA5ygAwIBAgIQPNmMQRSOjh877yVQLotiDzANBgkqhkiG9w0BAQsFADBm
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UECxMU
+RG9tYWluIFZhbGlkYXRlZCBTU0wxIDAeBgNVBAMTF0dlb1RydXN0IERWIFNTTCBD
+QSAtIEczMB4XDTE1MTIxMTAwMDAwMFoXDTE3MDIwODIzNTk1OVowHDEaMBgGA1UE
+AxQRKi5teWFuaW1lbGlzdC5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCkaxPb+eYQGhBHRcU0shbsBaZwyafwHHMqfouC29qTkZVh8fU9guhLid+n
+Z01tOZRYEcm2p2XD+oP+H0P/p92NzQMFUgbbvc+o8gP7cclwHmaH54oykrfEGAeP
+oZZHSGNCUeR5Dw7QCPrqyYm7vy114slmIop6vF0EcO8CEbtvAJdg2d8Wh3wtPJh7
+cbooZEsqrgSL1mplRHmn2007YbBHiY+TlXh/dIURe2N0tAqJMT/SA/een0JnEPft
+hLw5DNcp6OTJxZNTry12+LhLot7bqTJ1vRMGUV245MBc4iO+j41FfCrAjXSY6AF9
+ZCrAtmLMGLK2+rjx9i3mMrTTP2y1AgMBAAGjggGmMIIBojAtBgNVHREEJjAkghEq
+Lm15YW5pbWVsaXN0Lm5ldIIPbXlhbmltZWxpc3QubmV0MAkGA1UdEwQCMAAwKwYD
+VR0fBCQwIjAgoB6gHIYaaHR0cDovL2d0LnN5bWNiLmNvbS9ndC5jcmwwgY8GA1Ud
+IASBhzCBhDCBgQYGZ4EMAQIBMHcwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdl
+b3RydXN0LmNvbS9yZXNvdXJjZXMvY3BzMEEGCCsGAQUFBwICMDUMM2h0dHBzOi8v
+d3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDAfBgNV
+HSMEGDAWgBStZSKFkNA746FJizf58QsdXxegdzAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsGAQUFBwEBBEswSTAfBggr
+BgEFBQcwAYYTaHR0cDovL2d0LnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDov
+L2d0LnN5bWNiLmNvbS9ndC5jcnQwDQYJKoZIhvcNAQELBQADggEBAASqRPAd8tu3
+vQZWsQc3uqDzBp8vEWSaI/TcoIE4PpaeE+TDWPIifrotjBR2sluy43jTzirjeuIX
+zv3TN7PshTESMlOk/9ZBCSbn3bL4S1w64MHt5yYCHuo2NsYgdZIlZOOsS7wXydV7
+fWnRkOoJ9O8LS4Uu2zua9sH1n4+EnPrUk5ZbBIFw+4ga99EI5h6mdZ7DyDwFE1Pf
+l9a0nNdugRlMg7PqhESnVT5q8KtyqWWDVVVyOYZRzuqMANUWwi5g1nD6DuC18j36
+mN6io31kDFSeWHbuT3pXPz2B5Mlp70+QRQWyjBQHcTAjK/vUhbiv91G8sTyFf3RI
+p+pXWlxWRSc=
+-----END CERTIFICATE-----
+subject=/CN=*.myanimelist.net
+issuer=/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3004 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 36276FC4417D2629EA9AB6347387A094167448417194825ABB01EADE8A5F0C06
+    Session-ID-ctx: 
+    Master-Key: 69E2A2AF491D39B469F6199E04CD0DA4E71C9754F750967B464085E7392ED315A3810970B0434EAB2D7CECB4A8FFB361
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 27 ce 4f 9c 5e 17 6e 0a-cd a0 c8 fe e9 0c 09 23   '.O.^.n........#
+    0010 - f0 c2 0a b4 4b ab 2d f3-2c ff b9 de 10 6b 6d 21   ....K.-.,....km!
+    0020 - 72 e1 11 e6 c6 22 8f a3-dd 19 d1 7c e9 4f ba 83   r....".....|.O..
+    0030 - b8 0f 4c 33 85 cb 96 0e-1e a0 b0 08 20 ad 43 a5   ..L3........ .C.
+    0040 - 0a 8c b3 3c e6 f1 43 37-53 ef 0a a6 02 71 88 4b   ...<..C7S....q.K
+    0050 - 9d c0 8b 39 f3 fa e7 e7-d8 c0 f1 e9 a5 f2 b8 5d   ...9...........]
+    0060 - 98 9c 60 ca 20 43 2b 1c-91 55 71 5f d9 b1 37 1f   ..`. C+..Uq_..7.
+    0070 - d5 97 78 19 8f 5e 6e 38-44 c3 a1 82 08 9b 77 4a   ..x..^n8D.....wJ
+    0080 - ed 8b 72 6c 77 ab 81 d9-3f 14 19 7e 6d 50 a1 c6   ..rlw...?..~mP..
+    0090 - 07 b7 4b 7f 91 2f 71 a7-ca 04 b7 f9 dc d3 f4 0f   ..K../q.........
+
+    Start Time: 1472789389
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

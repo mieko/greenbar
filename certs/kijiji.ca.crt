@@ -1,0 +1,67 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=San Jose/O=eBay, Inc./OU=Kijiji Canada/CN=*.kijiji.ca
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5jCCA86gAwIBAgIQeAtPFqz3W/XtTEpMkX94NDANBgkqhkiG9w0BAQsFADB+
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
+IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE0MTExOTAwMDAwMFoX
+DTE2MTExOTIzNTk1OVoweDELMAkGA1UEBhMCVVMxEzARBgNVBAgMCkNhbGlmb3Ju
+aWExETAPBgNVBAcMCFNhbiBKb3NlMRMwEQYDVQQKDAplQmF5LCBJbmMuMRYwFAYD
+VQQLDA1LaWppamkgQ2FuYWRhMRQwEgYDVQQDDAsqLmtpamlqaS5jYTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAL5p1YoBC4zw3VNChYkK6y44jXGyGDWk
+80sAB6Q8AsJYBMQHes14KZDxv/PravOSzah/w2nL7biQBHRA6Q/K0auhdT6ShspE
+6ocX1dN7ADrl00ys7XvGEtRLgvq7miaZYo2jXDhPhxOJPcUUTLbW6/9j4FiMRO9n
+pgfu3yPcCex7u2dZE30ooG1cxOYp0FQTQZE+9GTCF5VY+oeBQTirspWTHtxG+to3
+YF6D4Uy9RXOKEUPjrwBf6GRVqcl5qU+dtJ4bjo/l6lHIBwRXKEkZrysPkJNc6Pyq
+8Xe+l8vQ1g6k/kr2H4KpjJrhSQwMxxkpaWWUX2tIey+bEcx0u3iNV5ECAwEAAaOC
+AWQwggFgMBYGA1UdEQQPMA2CCyoua2lqaWppLmNhMAkGA1UdEwQCMAAwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBlBgNVHSAE
+XjBcMFoGCmCGSAGG+EUBBzYwTDAjBggrBgEFBQcCARYXaHR0cHM6Ly9kLnN5bWNi
+LmNvbS9jcHMwJQYIKwYBBQUHAgIwGRoXaHR0cHM6Ly9kLnN5bWNiLmNvbS9ycGEw
+HwYDVR0jBBgwFoAUX2DPYZBV34RDFIpgKrL1evRDGO8wKwYDVR0fBCQwIjAgoB6g
+HIYaaHR0cDovL3NzLnN5bWNiLmNvbS9zcy5jcmwwVwYIKwYBBQUHAQEESzBJMB8G
+CCsGAQUFBzABhhNodHRwOi8vc3Muc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRw
+Oi8vc3Muc3ltY2IuY29tL3NzLmNydDANBgkqhkiG9w0BAQsFAAOCAQEAagb+cvU3
+iOJaIm26t9KH5HAoq8RuH17T6jRscc3VsKPja6Cg8R5MHYBJjBikFpMl94ouvb5y
+AEOq58Cidi9YzYDBivDMiRtDvEXNZADtxwmArkz/MYwFmzcitJhjRKhFEqB41fUd
+R7PmS2va06zJpli68EP1R57eUctgmsVS4+LtCGVWyrbHV9zXfZBI+3n/HJBg3I+q
+OblgIGNMSg69ZB/zmlU0yk2skIPHelLyvRaQMRKpudOpyz26ux3agkc7Hsbjy0Q2
+fO7rDTQFdd8IBAPtJ3Dp4qgMbNOsNGMl+M8SzHjTqsZSf8hXVy5Qc7mJmToIGfYj
+EM3qavFbwiaIKw==
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=San Jose/O=eBay, Inc./OU=Kijiji Canada/CN=*.kijiji.ca
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3096 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2361645226A9ED40BB1CED43FAE9CA8E72E1866F47B2D554D18E052DF8238207
+    Session-ID-ctx: 
+    Master-Key: 5D364EE8568297E1D89128FACB76A8BFAE86670EF4201394EA33E75D53429455044136BC84BF69B5EDAB8D0FB654B110
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472788503
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

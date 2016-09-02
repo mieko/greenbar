@@ -1,0 +1,64 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=ssl.zeit.de
+   i:/C=US/O=thawte, Inc./OU=Domain Validated SSL/CN=thawte DV SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./OU=Domain Validated SSL/CN=thawte DV SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEcjCCA1qgAwIBAgIQGGMNW6RuwWB56RmnVZkvbzANBgkqhkiG9w0BAQsFADBj
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMR0wGwYDVQQLExRE
+b21haW4gVmFsaWRhdGVkIFNTTDEeMBwGA1UEAxMVdGhhd3RlIERWIFNTTCBDQSAt
+IEcyMB4XDTE1MDcyNzAwMDAwMFoXDTE4MDcyNjIzNTk1OVowFjEUMBIGA1UEAxQL
+c3NsLnplaXQuZGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCmk4Rw
+De2E9rCIQA7Nvg3VNRi3JRAmiP+oq5JCs0Bo4LF98Mn86p488C1rRHoxm/l7PwJT
+eTbmeG81zSceqiXv67k5SOLaoRTpzv9JyYqJ0hRULkPYs7jbLliTQ7jD/C7U7dnh
+dolYkNXnAVsFziS7BrfMYV6i5/DxmW3jh/93/lgp1PIK1rp772OA0Gi7MnUgAhPy
+eay50O50rgN1MfB+6HQraT0iobsLNm8VQCwnzlZjsMUzSQm6vAcjQRIxkYoXRy09
+9K+OJvQFfe1vGoON7P9gYH1D7vqcXmHv33fnsvIIQYDnK+KCA2wyMR/o68mHGC36
+x8+dYkEB5efgbHz1AgMBAAGjggFtMIIBaTAWBgNVHREEDzANggtzc2wuemVpdC5k
+ZTAJBgNVHRMEAjAAMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly90bi5zeW1jYi5j
+b20vdG4uY3JsMG4GA1UdIARnMGUwYwYGZ4EMAQIBMFkwJgYIKwYBBQUHAgEWGmh0
+dHBzOi8vd3d3LnRoYXd0ZS5jb20vY3BzMC8GCCsGAQUFBwICMCMMIWh0dHBzOi8v
+d3d3LnRoYXd0ZS5jb20vcmVwb3NpdG9yeTAfBgNVHSMEGDAWgBSfuMGpbPL1wCIq
+lO1cmazU7NfGBzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3Ru
+LnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3RuLnN5bWNiLmNvbS90bi5j
+cnQwDQYJKoZIhvcNAQELBQADggEBADsG+pIOtp8OyahAZ82mWIR2kFJr53lezWII
+rGy9E2aTHuQaoT7fYzztZEBXcaEDV5AGpAVOJp3tkpVuVG77GCgSVULX2nakxf3X
+a1cDtNGAkKdviqcfki4ji52HeIcpDdkgAKeVQDMv56ORkgGQI6Dwd57H808PnuMn
+SPNiX22twVsqZOWnV7nvuGBiKsoI8kFLrLIWVvY6JuFJZXio3wZjwIq6A7fxslH+
+1e9FHiEO1W99OdIUG/GFU9yHNKkOAOz5glsP4lY/yJ1IQ93ZzSm9HrogiqoQ3drD
+zAEiayDhZcYZey52iFRMMz9r223xGN+nDyRXFNPgAueeWbVn78Q=
+-----END CERTIFICATE-----
+subject=/CN=ssl.zeit.de
+issuer=/C=US/O=thawte, Inc./OU=Domain Validated SSL/CN=thawte DV SSL CA - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2895 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 9F16AC03F298B5DC0000065F12D77F62D44F5C5E7E80EB453CEA2CAD3BEEC941
+    Session-ID-ctx: 
+    Master-Key: AA599EACE9B32435FE1294923DF5F764954C7E999EE93A868F0DBB8E1123F04DAD631052A16E4C923029C6964F88A7C6
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790136
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

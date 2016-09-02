@@ -1,0 +1,79 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.ensonhaber.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWDCCBECgAwIBAgIRAJVTnoHN2wtgMzp6OEuSzuMwDQYJKoZIhvcNAQELBQAw
+gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
+VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
+Q0EwHhcNMTYwNjA4MDAwMDAwWhcNMTcwNjA4MjM1OTU5WjBdMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxHTAbBgNVBAsTFFBvc2l0aXZlU1NMIFdp
+bGRjYXJkMRkwFwYDVQQDDBAqLmVuc29uaGFiZXIuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAw/Q9G4k9FEH+5ypsZ7vqxlhv6wyh2MZOj4iPU0Yp
+z1rbV08ko2qUzbJorULfUPUTJ1atEI9lGdYuvyVpEyFKiHMxyfIWg32mKARcQ71g
+v6BatfamvHcwzbm0CqDvoLyK0wGEtr39Xvlh/MOAuutPzi60BwdjIttlLanXvEEb
+1AskQgFhMkvZlsIese44DzedP4yPDx1U0uMGGldlsKvHUe42WpRC4Gog+rsX1e43
+3tm3Y+Zf3ZiqvU8ISkxXchAwLz/l/UNJx8YeVkhOgA0olzQTe1gZG9BiM+AG7iQL
+RILJ5z7clkK0MWfCHynM4s3n9nCmYgj/dh2bXYBz3rltswIDAQABo4IB3TCCAdkw
+HwYDVR0jBBgwFoAUkK9qOpRaC9iQ6hJWc99DtDoo2ucwHQYDVR0OBBYEFHs/AYEc
+YZXA+FWlutrtZtiz2ZJqMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQB
+sjEBAgIHMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20v
+Q1BTMAgGBmeBDAECATBUBgNVHR8ETTBLMEmgR6BFhkNodHRwOi8vY3JsLmNvbW9k
+b2NhLmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0Eu
+Y3JsMIGFBggrBgEFBQcBAQR5MHcwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuY29t
+b2RvY2EuY29tL0NPTU9ET1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJD
+QS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTArBgNV
+HREEJDAighAqLmVuc29uaGFiZXIuY29tgg5lbnNvbmhhYmVyLmNvbTANBgkqhkiG
+9w0BAQsFAAOCAQEAgATKXVpM2BsiFSCwsxSH2NEABwvcJUcvwoTUi1CmXR1+DlYN
+/0PVgqVqVysbPJiYHezFQj0QFLCm4R4GVdf/Ml0zxwnGo8lGkGtMMAnE9EfkT2OA
+wyYNyFQLfJw4ktSfd1F8/YuXakW5odFCSa2p4N5yt3yeHD8I+e+g8YS1PNESvhlb
+cqK76zIMw1ZJYodIZ2BV/L2sGq23oUyEBnONsTqDPELLJy6PudkQs6bph72Tgycu
+gqJOK3DMri4Nwer1QaD7d8o5nzZir6eyvZX6IWgLh8AB8fdX1Xvw5rEtNNRQrs1Y
+SDWWgzK0tH5aIiZChtscRln1qIV4J5C6ut2ECA==
+-----END CERTIFICATE-----
+subject=/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.ensonhaber.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2037 bytes and written 442 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : ECDHE-RSA-AES256-SHA
+    Session-ID: ED6A0934BC9D2E3BDE2F156D30F78A36F25CD9343AA10D21D057DF092526C81F
+    Session-ID-ctx: 
+    Master-Key: AAEB994E6020DB898C9D9F7D29AD566381597AA4CAB2A0D9DD4075948840251A0B79FE6DA30A856F9A315CF638B87716
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e2 2b 82 1a b8 4e b3 9a-d1 7a ac 47 3a e0 bc dd   .+...N...z.G:...
+    0010 - 3a 77 ba 5e 07 25 14 df-5c 71 08 af 0a e2 c7 8d   :w.^.%..\q......
+    0020 - 63 8a 70 08 2c 7b 45 bb-73 30 1f 91 fc 8c 25 9b   c.p.,{E.s0....%.
+    0030 - 73 7c 6d 8c 5c d4 ca 63-8c 84 ca 5d 14 c4 45 68   s|m.\..c...]..Eh
+    0040 - 4e af cc 25 55 25 34 39-df 19 9c d1 be e3 22 c7   N..%U%49......".
+    0050 - 9f 13 b5 ee 87 20 ef 5c-ba 60 79 e1 77 f2 20 b0   ..... .\.`y.w. .
+    0060 - a3 19 3e 92 93 91 d8 27-c6 9d 88 6a b9 e1 af 3a   ..>....'...j...:
+    0070 - d4 9d ad 20 58 e3 a6 0a-54 46 46 f0 81 e0 36 21   ... X...TFF...6!
+    0080 - 39 b4 5d b8 48 f8 1f d9-b5 ef b0 0c 38 4a ff 73   9.].H.......8J.s
+    0090 - 15 3a 4d df 99 7a 72 aa-89 09 3d d1 d9 fc b3 8a   .:M..zr...=.....
+
+    Start Time: 1472788472
+    Timeout   : 300 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

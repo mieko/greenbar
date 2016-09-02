@@ -1,0 +1,51 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Arizona/L=Newbury/O=FreeJobAlert.com/CN=freejobalert.com
+   i:/C=US/ST=Arizona/L=Newbury/O=FreeJobAlert.com/CN=freejobalert.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIICRTCCAa4CCQCl/Cebse/GqTANBgkqhkiG9w0BAQUFADBnMQswCQYDVQQGEwJV
+UzEQMA4GA1UECBMHQXJpem9uYTEQMA4GA1UEBxMHTmV3YnVyeTEZMBcGA1UEChMQ
+RnJlZUpvYkFsZXJ0LmNvbTEZMBcGA1UEAxMQZnJlZWpvYmFsZXJ0LmNvbTAeFw0x
+MzAxMTUyMTA4NDVaFw0xNTEwMTEyMTA4NDVaMGcxCzAJBgNVBAYTAlVTMRAwDgYD
+VQQIEwdBcml6b25hMRAwDgYDVQQHEwdOZXdidXJ5MRkwFwYDVQQKExBGcmVlSm9i
+QWxlcnQuY29tMRkwFwYDVQQDExBmcmVlam9iYWxlcnQuY29tMIGfMA0GCSqGSIb3
+DQEBAQUAA4GNADCBiQKBgQDGIKvGob+cmAKSHFcTAMN4+0L1z4ZIj5Mkwk4WTL7S
+T3fWiyvftfw4baYAZF+qry4shI2TqTukgTT+sseztncJxlxI8TQPQRk6VMrCb8Bf
+a2ihDM2ddd+egthWZ91opfrhoEEv0oo/tdGnzEVMFH4Fz7cgbybIP9MeUffZDPA5
+RQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAEJDUauntFe6e5C1Nz2dIz681OB0lchp
+3Cnc4HYSEq9+WBOoQBXKz1dhY07QJVwcMWc8/CfJabUKBN+6CdHDLSe/10i+fg/l
+cfE5GOKhYPzoa1IpFgFuCoSXOBxReZHe16/Va0b5Rbddnrl15Nu9btBJ5bCE1DjQ
+kZoCuH8nV0zW
+-----END CERTIFICATE-----
+subject=/C=US/ST=Arizona/L=Newbury/O=FreeJobAlert.com/CN=freejobalert.com
+issuer=/C=US/ST=Arizona/L=Newbury/O=FreeJobAlert.com/CN=freejobalert.com
+---
+No client certificate CA names sent
+Server Temp Key: DH, 1024 bits
+---
+SSL handshake has read 1156 bytes and written 506 bytes
+---
+New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
+Server public key is 1024 bit
+Secure Renegotiation IS supported
+Compression: zlib compression
+Expansion: zlib compression
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : DHE-RSA-AES256-SHA
+    Session-ID: 06577003EFE0783CA50265D34F29FCCDD4642EFF9D1F4CE2526FB378C3B433E6
+    Session-ID-ctx: 
+    Master-Key: 4BD76253AE654BBE578F57F1F9CA91BE21F0BFBD54D3FBD0E56549BE914AD390F79F9EF43739D6194345745E0D57C30C
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Compression: 1 (zlib compression)
+    Start Time: 1472790348
+    Timeout   : 300 (sec)
+    Verify return code: 10 (certificate has expired)
+---

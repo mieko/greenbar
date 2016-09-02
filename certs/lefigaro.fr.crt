@@ -1,0 +1,72 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=FR/ST=Ech weiss net/L=Ech weiss net/O=Ech weiss net/CN=localhost
+   i:/C=FR/ST=Ech weiss net/L=Ech weiss net/O=Ech weiss net/CN=localhost
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpzCCAo+gAwIBAgIJALgc4xQHFWdOMA0GCSqGSIb3DQEBCwUAMGkxCzAJBgNV
+BAYTAkZSMRYwFAYDVQQIDA1FY2ggd2Vpc3MgbmV0MRYwFAYDVQQHDA1FY2ggd2Vp
+c3MgbmV0MRYwFAYDVQQKDA1FY2ggd2Vpc3MgbmV0MRIwEAYDVQQDDAlsb2NhbGhv
+c3QwIBcNMTYwNzA1MTQwMTQzWhgPMzAxNTExMDYxNDAxNDNaMGkxCzAJBgNVBAYT
+AkZSMRYwFAYDVQQIDA1FY2ggd2Vpc3MgbmV0MRYwFAYDVQQHDA1FY2ggd2Vpc3Mg
+bmV0MRYwFAYDVQQKDA1FY2ggd2Vpc3MgbmV0MRIwEAYDVQQDDAlsb2NhbGhvc3Qw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDKTANEphDhAI/gy3kjr0tV
+GM4d722PF6dl6ZPAE3R/Hb6dulvspfyZPHa2vpb/utQ8WbbMzFN+cR6+nz96TQ+2
+LCCotq1LYd5dLrolyRrBP0PlnBe4BvJ1+iFif4yn8kLRoC+OdKhThZ1xeU/nB2HP
+22x98DiQ5yQNLQZ+IAdXPAcNquimkbAVsCMM07psRYt/hToXXYSCVJ/y+faeJ1GW
+9zCDCszRtXn8FrM13liVCeeYUN7CAeHCLwsLcMN8XN5cnZILbQKCBabujh+PboZ4
+HVvrrFqt5I4WLeub/JBt7ZQ/oUKV+uzLfjaZMi3J4Az0Gc6anrv91GEjm1WiPPH7
+AgMBAAGjUDBOMB0GA1UdDgQWBBSV8pjZ3uyYH4hQyBEMu6DahQ7fUDAfBgNVHSME
+GDAWgBSV8pjZ3uyYH4hQyBEMu6DahQ7fUDAMBgNVHRMEBTADAQH/MA0GCSqGSIb3
+DQEBCwUAA4IBAQAnLNbhLnAPFfPUGWh4Tqi49w1TBE48vIUE1yIXqGVEDOAALr2T
+yvXnf7pMQ1oJeYdmGd90wb8dGq26hMrUCXQNftC2KsEfRvUVp7r8z5He9H1Sd7tp
+izLAefjJdjT72trBESxITOwxRKmNfhwthF/4dXPg01fHpYoh71Y7eL1HjWm5EUq3
+oAYtzkjAejY2gNOwIrOmY9H9yH97Qiqihm5LxvXCLPJf5yfYIGykd4e/k2yPIGzu
+pr3IH5uJmx+VXx2T/Ttlwxn6Dj29egoxQTqJL4W1YI1L0XT3bIar5ZX6iYcQLh2g
+2lpaFN9u85HcbP2Hsu6rbABB33rLvESF2ccv
+-----END CERTIFICATE-----
+subject=/C=FR/ST=Ech weiss net/L=Ech weiss net/O=Ech weiss net/CN=localhost
+issuer=/C=FR/ST=Ech weiss net/L=Ech weiss net/O=Ech weiss net/CN=localhost
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1614 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2F2CDF520F9F99531AE285B3DC63AF8F622391F902E5D5CBA3CD70F59BE43AE2
+    Session-ID-ctx: 
+    Master-Key: 77EA75948D040844378DBEFB804164EE8DA66F24CA51BC51D43E61BD98CF81FCE582CCB4DA1B8CE58E3F5F9B24A138E8
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 3600 (seconds)
+    TLS session ticket:
+    0000 - 35 99 98 1a c1 d3 59 0d-04 a0 14 9e 0a 32 fd ad   5.....Y......2..
+    0010 - 83 3f 7b 90 c0 8f 74 2a-0f 92 ee 5e e0 7b 9e 52   .?{...t*...^.{.R
+    0020 - 44 08 0e 5d 0a a2 77 ed-8b a8 16 e8 e5 e9 0f 58   D..]..w........X
+    0030 - 1f 71 51 12 55 63 bd ac-d8 39 a0 4e 96 82 3a 37   .qQ.Uc...9.N..:7
+    0040 - 71 c0 8e f4 91 f6 63 0c-8a 1f 59 42 4d 57 0b 15   q.....c...YBMW..
+    0050 - a6 6e 88 6c b8 ff 5e a4-c6 ac 87 e1 1e 6f 3b 67   .n.l..^......o;g
+    0060 - b9 71 7c 19 af 62 64 63-90 f0 7e 3c 53 ce 54 9d   .q|..bdc..~<S.T.
+    0070 - 58 46 fa 2d 35 29 cc 78-df 7a bf 6a 75 ca d8 52   XF.-5).x.z.ju..R
+    0080 - 74 18 e0 eb 3f 22 dd 68-93 a8 b4 2c 4b f3 38 a6   t...?".h...,K.8.
+    0090 - 3f c3 49 b4 b2 dd 50 f9-f3 a1 aa 1e 2e b0 f2 ac   ?.I...P.........
+    00a0 - d3 a6 05 ce ba 02 c2 b8-9f 84 43 92 67 c6 eb 96   ..........C.g...
+
+    Start Time: 1472788636
+    Timeout   : 300 (sec)
+    Verify return code: 18 (self signed certificate)
+---

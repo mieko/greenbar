@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=Domain Control Validated/CN=*.bandcamp.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+DCCA+CgAwIBAgISESEy2t0VfLARjHJp/7I45AppMA0GCSqGSIb3DQEBCwUA
+MGAxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTYwNAYD
+VQQDEy1HbG9iYWxTaWduIERvbWFpbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTYwMzA0MjAxNjQxWhcNMTgwMzA1MjAxNjQxWjA8MSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxFzAVBgNVBAMMDiouYmFuZGNhbXAuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp4c6vj//vLF52fivZzX8
+qfq9OjeS2hkDL7455QKPnuGsRO5E/L7QFGgyIvjmV04ZrSIBphxapejWJJN4E17G
+DQgB+dDJODn0qbtFHl7Cn65v1eI1fZ72ClVpUtwtWh3tQ7d1r5PxRgymbERAvwe7
+NR197DOuin3JfbPMkcUbbCKpFqFp3oN+/ImWYvPYqpFE8QJPqjQPq0WhEC+/Xrw6
+NQMd7YgWMAfNoEq3/ET9Ocp46qO8rye9LrZ7Hi0BB5ZzZCsEZ92a7at1IS+WsLrs
+vIOuiGufNFFvAFK5CwHEx1+iminV7wOKq/huUi45E7NNF/9XqQExGiX2bO1yVhm6
+SwIDAQABo4IBzjCCAcowDgYDVR0PAQH/BAQDAgWgMEkGA1UdIARCMEAwPgYGZ4EM
+AQIBMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3Jl
+cG9zaXRvcnkvMCcGA1UdEQQgMB6CDiouYmFuZGNhbXAuY29tggxiYW5kY2FtcC5j
+b20wCQYDVR0TBAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwQwYD
+VR0fBDwwOjA4oDagNIYyaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9ncy9nc2Rv
+bWFpbnZhbHNoYTJnMi5jcmwwgZQGCCsGAQUFBwEBBIGHMIGEMEcGCCsGAQUFBzAC
+hjtodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc2RvbWFpbnZh
+bHNoYTJnMnIxLmNydDA5BggrBgEFBQcwAYYtaHR0cDovL29jc3AyLmdsb2JhbHNp
+Z24uY29tL2dzZG9tYWludmFsc2hhMmcyMB0GA1UdDgQWBBSN8gufvrob6KPdxopm
+mltvdzbZrjAfBgNVHSMEGDAWgBTqTnzUgC3lFYGGJoyCbcCYpM+XDzANBgkqhkiG
+9w0BAQsFAAOCAQEAppduF5N+NJ/UhE5hK/ibjp4maOz8ZvQzx5peulFLswkVFxdi
+Y071f83A3tuvy6pdlWlSwW4uWftWZMbTHrE7QjOtIXCWawNXG+gjzEOo38hTOBZY
+ePCEDYWuHuYckSQ1AqLxjz9gdy6358NaNRA0h5r98GXpWDOBXWS+8WERbDx2/A5r
+XOJqZgaqFOaBlfAKdkEiIX/o36qEM6cM7OBxZJgCcZ639dekATs1UHkfWGeb0ThE
+y6id4Kwixv2bn3AFUGxg3Vy2Ok1MHx58a92beFkTRVixu9NRJ2xAQ6XTSTGv8GGx
+VolC+Cu/qV79JoZcFVKx578ejFkPtGA58yj0+A==
+-----END CERTIFICATE-----
+subject=/OU=Domain Control Validated/CN=*.bandcamp.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3065 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 2E3FA1C23D2B8A195F1E32EBA4B79361B8ED83D391A763F9667C6C6E85B8EB40
+    Session-ID-ctx: 
+    Master-Key: 9AB3A4CEEF039E4833F365ACC4CEA695079457985D6FE09AE1AE25266F512134A23F552ED4EF878AC14B28764DC98673
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 1200 (seconds)
+    TLS session ticket:
+    0000 - 63 cc 77 4a 00 db 2c 42-2e 8f 76 23 dd a9 ae 53   c.wJ..,B..v#...S
+    0010 - c5 d3 49 18 49 07 ba 84-3b ab 73 2a 47 34 f5 df   ..I.I...;.s*G4..
+    0020 - ef 07 73 a2 e1 5f ee 5c-ca c3 5e f9 95 c6 ea 85   ..s.._.\..^.....
+    0030 - d3 cd 96 21 3c 7e 41 22-8d f0 14 aa 3b ba 30 10   ...!<~A"....;.0.
+    0040 - 9c f3 f0 d7 41 6d 53 1d-69 86 9d 1a 2b 4d d9 57   ....AmS.i...+M.W
+    0050 - fb 94 d0 86 5b 35 d2 18-83 e5 f6 f1 8d ac 18 c4   ....[5..........
+    0060 - ee 21 7e bf 67 1c ad 8e-50 74 41 4b 57 60 6a 24   .!~.g...PtAKW`j$
+    0070 - 6f 24 16 f4 75 2f 1f 3b-e0 58 a8 03 c9 3d 7f e2   o$..u/.;.X...=..
+    0080 - fd 3f 75 41 2b a0 f4 9b-5f 06 b9 ab e9 a7 9d 69   .?uA+..._......i
+    0090 - 07 b6 15 ff 54 5f a6 ef-64 49 9a 8a d3 ca 49 5a   ....T_..dI....IZ
+
+    Start Time: 1472789825
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

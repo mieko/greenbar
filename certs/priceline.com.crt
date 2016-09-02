@@ -1,0 +1,67 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Connecticut/L=Norwalk/O=priceline.com LLC/CN=*.priceline.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6zCCA9OgAwIBAgIQTpPwNLMgF5mi6f2g8NQvPjANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMjE0MDAwMDAwWhcNMTgwMjExMjM1
+OTU5WjBrMQswCQYDVQQGEwJVUzEUMBIGA1UECBMLQ29ubmVjdGljdXQxEDAOBgNV
+BAcUB05vcndhbGsxGjAYBgNVBAoUEXByaWNlbGluZS5jb20gTExDMRgwFgYDVQQD
+FA8qLnByaWNlbGluZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCxn/O+k5xNTE4Qscp8N09+ZLLwGTVju2YX/0bl9WZ4AM08OMln7YVVmA4e+vn1
+kZSnkI1XMSlpiVMlhXs7Csol0jRfsUDR2Ed6hfbRWlpw5F0aKVrXs8I/2F+hb8Rq
+zVduNT/FdWFMOHFqP11wUOFmxi9+B3TmWLZq0md2hxImNPYHaocH5g3fSJdl6rTs
+4KQTlAJRuPlaesIwq1FtQn6gW3pPHBDJ6dSYzcHC0er0qHxaV/nUlj3pIVe5YfJp
+gR3ypRERZVWQlw/FNBfz+0uYtSYEQoglM4by99ZueSdJm+A5IWfp1FV0L9ZmkqbO
+uOJ4GJhxLoVn6CAR0UraJz3VAgMBAAGjggGwMIIBrDApBgNVHREEIjAggg8qLnBy
+aWNlbGluZS5jb22CDXByaWNlbGluZS5jb20wCQYDVR0TBAIwADAOBgNVHQ8BAf8E
+BAMCBaAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2duLnN5bWNiLmNvbS9nbi5j
+cmwwgZ0GA1UdIASBlTCBkjCBjwYGZ4EMAQICMIGEMD8GCCsGAQUFBwIBFjNodHRw
+czovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVnYWww
+QQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291cmNl
+cy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xafDBXBggrBgEFBQcBAQRL
+MEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5jb20wJgYIKwYBBQUHMAKG
+Gmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MA0GCSqGSIb3DQEBCwUAA4IBAQAb
+wVrbIAyBLb53FU3cQyun1pQ+G+cuGjPB25sYxMRiqiCqIxPGjUtJex9tO1lxDY5+
+UUnSwq4D4jeQTEgKrf5/xMi0eWWzQIRVzLzXlPe3FrMcP/weWHAi1F+qDbQ/UVIi
+vLp+l9JwJwOZv50UjGOh/jvDKSAstHpz9adAfV2a1O5EiirBdmHdBU1INbNeEpJO
+usSf2lVE7QQbYltSlDz7I0LzWoFUFQDSoYkfkhYWWdGApnvG5rGgSWAz6GnzNCBT
+rGqYQdu1b+CrDZraO1+eUT4Sjoi5VbnMpfS8yvqh2VSbRc5c6PDwCsXoxonOa0iV
+ZGip7+yLeaBhO+79HOnY
+-----END CERTIFICATE-----
+subject=/C=US/ST=Connecticut/L=Norwalk/O=priceline.com LLC/CN=*.priceline.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA1
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2902 bytes and written 458 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-SHA
+    Session-ID: FECDB40B7F2251E8DB4BC7E24EB55578B525C1C3A18EB52B764FEE164EE1A852
+    Session-ID-ctx: 
+    Master-Key: 872B87F606A1B897F07EFE91EB466DCD6013B6D259858493E5DE18490833357D7BC85D480DD9E128ADD29A2E849B2ECE
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472789295
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

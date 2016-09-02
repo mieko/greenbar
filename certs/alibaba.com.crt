@@ -1,0 +1,85 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=CN/ST=ZheJiang/L=HangZhou/O=Alibaba (China) Technology Co., Ltd./CN=*.alibaba.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+ 2 s:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTDCCBDSgAwIBAgISESGputJIRS3KON2MtFcuiEpsMA0GCSqGSIb3DQEBCwUA
+MGYxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYD
+VQQDEzNHbG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hB
+MjU2IC0gRzIwHhcNMTYwMTEyMDk1OTM4WhcNMTcwMTEyMDk1OTM4WjB6MQswCQYD
+VQQGEwJDTjERMA8GA1UECBMIWmhlSmlhbmcxETAPBgNVBAcTCEhhbmdaaG91MS0w
+KwYDVQQKEyRBbGliYWJhIChDaGluYSkgVGVjaG5vbG9neSBDby4sIEx0ZC4xFjAU
+BgNVBAMMDSouYWxpYmFiYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCglXsOhVpuZ6FOlYzDE1099RZGxFPpY5UcW2c/bsGo3vbcqjfBFgKpaywk
+nSiGivUvqpnZ9uH6TISYlaE6VtxuWgImxA+6y+S2XD3xgIqnUMbxF6C4Fpce9pMe
+s/G/8gpeCIzF23YS+IxL8mZTt6wEFYSl77FYda1TuO1Ya6sGQ8PkAiENCm1k1WP6
+IX1c5XmtZ/BJ2ENBU46/8PPrVb4qQiyRmAMMxPZSv3lDCrB5Y9AkVxzNY9dxDs2+
+8p997ul1qnrPZ/2x0VD3RfapTAcx/3MPxrbUWVeWNwn8gq3ObPl88dm/1LFTSVn9
+/sCvSPfR/KDOFvNEoThBWhdk3OhVAgMBAAGjggHeMIIB2jAOBgNVHQ8BAf8EBAMC
+BaAwSQYDVR0gBEIwQDA+BgZngQwBAgIwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93
+d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wJQYDVR0RBB4wHIINKi5hbGli
+YWJhLmNvbYILYWxpYmFiYS5jb20wCQYDVR0TBAIwADAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwSQYDVR0fBEIwQDA+oDygOoY4aHR0cDovL2NybC5nbG9i
+YWxzaWduLmNvbS9ncy9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMi5jcmwwgaAGCCsG
+AQUFBwEBBIGTMIGQME0GCCsGAQUFBzAChkFodHRwOi8vc2VjdXJlLmdsb2JhbHNp
+Z24uY29tL2NhY2VydC9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMnIxLmNydDA/Bggr
+BgEFBQcwAYYzaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2dzb3JnYW5pemF0
+aW9udmFsc2hhMmcyMB0GA1UdDgQWBBTD0O+9E/1p2AINW+l9YC0+ffsfoDAfBgNV
+HSMEGDAWgBSW3mHxvRwWKVMcwMx9O4MAQOYafDANBgkqhkiG9w0BAQsFAAOCAQEA
+xVK5LaPCUw8DG9uE97MqPh7xHWs3pRR3TKV3vd+YKjXgQR6CaIw0TBoy8Ob52CW7
+TNZF7NzKmxPTINV2vCL8GLoZVCHoJvmR1SeecIuqZ+JJQNto9e4SzSoEoK597hSe
+06RTM/P8gov6CcIEyyDkkmziXFqIaxVy8B81x5S6oPENI3x+Xh05ZW9CcbUihW7H
+9tsrMUS62Pc91HMBBxyMw2Mxf5nyxdILegQlc28Y/nWXpLAeX8C4eYi2VeVDI/oH
+ifSeRQZcCixNUoG1Cr2LFhqqYQZXHj11dCXYC2rwMAwStPitPYrlUu2v2OF4bhUk
+SDeQj/ShUvae2AO7W28A4g==
+-----END CERTIFICATE-----
+subject=/C=CN/ST=ZheJiang/L=HangZhou/O=Alibaba (China) Technology Co., Ltd./CN=*.alibaba.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4063 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 1FD4FC99CC80F2783B5C40B1E3A836365397EC68B248BFE988166E3F0BACBC69
+    Session-ID-ctx: 
+    Master-Key: CAC2684F61E01F644FA850578EEDE53F64EC55BFD95BEA41C882897072EE1FA604CC5C4ECD35D280A785F9B736DF49D0
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - e4 da f8 54 98 5f 4a 35-e4 7b 90 32 c2 02 94 42   ...T._J5.{.2...B
+    0010 - 19 aa d3 9f a8 4b 99 fb-be 60 3f fc 5a f1 fa df   .....K...`?.Z...
+    0020 - 6b ea 66 5c 02 33 4c 1e-d2 9a 38 3f 11 97 e5 a3   k.f\.3L...8?....
+    0030 - b8 cd 73 31 c5 b3 ae 03-c7 fd 00 c1 ef 8f f2 a6   ..s1............
+    0040 - ae 19 b3 fb ac 00 b4 9f-e8 bf df cf e0 f3 5c e4   ..............\.
+    0050 - 0f c0 68 fd 49 4c 95 55-bb f6 a0 02 bb 66 43 ab   ..h.IL.U.....fC.
+    0060 - b9 0d 50 fa 09 ed 9a e7-e7 2b e1 e9 ca 16 eb 06   ..P......+......
+    0070 - cc 10 79 b5 65 1d 65 59-c8 a1 24 f9 a8 25 27 f2   ..y.e.eY..$..%'.
+    0080 - 59 8a 36 e1 1a 18 ee 3e-b3 c9 fe 6b 61 00 26 b1   Y.6....>...ka.&.
+    0090 - 5d ab e3 0e d0 a7 61 a7-35 48 7d 9a 31 11 55 25   ].....a.5H}.1.U%
+    00a0 - 6e 6c 53 57 42 ad 47 c6-27 76 70 63 23 23 0a 6f   nlSWB.G.'vpc##.o
+
+    Start Time: 1472787896
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

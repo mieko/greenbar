@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=*.woot.com/O=Woot, Inc./L=Carrollton/ST=Texas/C=US
+   i:/C=US/ST=Illinois/L=Chicago/O=Trustwave Holdings, Inc./CN=Trustwave Organization Validation SHA256 CA, Level 1/emailAddress=ca@trustwave.com
+ 1 s:/C=US/ST=Illinois/L=Chicago/O=Trustwave Holdings, Inc./CN=Trustwave Organization Validation SHA256 CA, Level 1/emailAddress=ca@trustwave.com
+   i:/C=US/O=SecureTrust Corporation/CN=SecureTrust CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNTCCBB2gAwIBAgITBova+LOXMua/qpVG8ukSXIBurjANBgkqhkiG9w0BAQsF
+ADCBtTELMAkGA1UEBhMCVVMxETAPBgNVBAgTCElsbGlub2lzMRAwDgYDVQQHEwdD
+aGljYWdvMSEwHwYDVQQKExhUcnVzdHdhdmUgSG9sZGluZ3MsIEluYy4xPTA7BgNV
+BAMTNFRydXN0d2F2ZSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTSEEyNTYgQ0Es
+IExldmVsIDExHzAdBgkqhkiG9w0BCQEWEGNhQHRydXN0d2F2ZS5jb20wHhcNMTYw
+NDA1MTEwNTEwWhcNMTcwNDA1MTcwNTEwWjBcMRMwEQYDVQQDDAoqLndvb3QuY29t
+MRMwEQYDVQQKEwpXb290LCBJbmMuMRMwEQYDVQQHEwpDYXJyb2xsdG9uMQ4wDAYD
+VQQIEwVUZXhhczELMAkGA1UEBhMCVVMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCvLaUKNkmSzRh8OKrunyCWfuDYXg5Rxqj1WEHE/MhyD41SQXIpiMXS
+APbLdwRlcPs1tEqF8xIb1NKjXhhEaPOSsLPpmodtbWeyAkY2aSA/Ma8p6TVlnCPg
+2idhpEXrokfIZLLpv05+eobISmFu8DRlZohL8l+xVE/Q6ipJHigVWQK76/kOLhJh
+QPndtZqsj69Ecm9J22bxLSN1y/DU2naLYCec6++VbQZSD2p6V91hAhbpINe0/XUy
+lqL3npz+v+6yp47KkiNyU0nCaaziqJcR1uCAyXF8Kro4YsmMPobzFHFeaRdwN/+R
+pn6cI2mr0tV9kwo9Kwp55j1JOADcUfjfAgMBAAGjggGUMIIBkDAMBgNVHRMBAf8E
+AjAAMAsGA1UdDwQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEw
+HQYDVR0OBBYEFNe2ttETlsjL5P7ddPBXmfoQ2cHJMB8GA1UdIwQYMBaAFMrOHRgD
+dx4c83xYsppwqAiAFvSuMEgGA1UdIARBMD8wPQYPKwYBBAGB7RgDAwMDBAQDMCow
+KAYIKwYBBQUHAgEWHGh0dHBzOi8vc3NsLnRydXN0d2F2ZS5jb20vQ0EwHwYDVR0R
+BBgwFoIKKi53b290LmNvbYIId29vdC5jb20wNgYDVR0fBC8wLTAroCmgJ4YlaHR0
+cDovL2NybC50cnVzdHdhdmUuY29tL09WQ0EyX0wxLmNybDBxBggrBgEFBQcBAQRl
+MGMwJgYIKwYBBQUHMAGGGmh0dHA6Ly9vY3NwLnRydXN0d2F2ZS5jb20vMDkGCCsG
+AQUFBzAChi1odHRwOi8vc3NsLnRydXN0d2F2ZS5jb20vaXNzdWVycy9PVkNBMl9M
+MS5jcnQwDQYJKoZIhvcNAQELBQADggEBACtF2TZypwdYM+iqvl7UueWGOII9OJux
+P9OUdqHbqfmZ1a9zz6FLJ82Dg0j0zAFMB2hAkag4JSAdzPKjEEX9EG9jdHOuXr+A
+wq8xD24GAe1K2c+3aLGaCrDul0zxO9izpI/r8giyseTuECv6SV5QHegal7qc0wLa
+oNUEly3uj8IEN9mhTiCvvQ/AK6Ep2C6foj/BqlQp09CF+zj31xhRXhejucsJoPCH
+7heFdrCsZ8D/fIPF3xtHC95RrKMFAOTnBGWFkjjvpR7iT1bq4DHEW/x7NpMpP30y
+VJi+KeDmfwRoZi+ASSkQEZBUpSPiGrfj2BgSgYtwqZPQdKUEYCA6qgA=
+-----END CERTIFICATE-----
+subject=/CN=*.woot.com/O=Woot, Inc./L=Carrollton/ST=Texas/C=US
+issuer=/C=US/ST=Illinois/L=Chicago/O=Trustwave Holdings, Inc./CN=Trustwave Organization Validation SHA256 CA, Level 1/emailAddress=ca@trustwave.com
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3275 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B1BAB79C9C6B53FF2890F3A0B23FBD712504C7483F3221B2584EA1030A689D5F
+    Session-ID-ctx: 
+    Master-Key: 74275498089D1E3F6B99CFC7763CDE17A795B2611EC8E00525B342B9BABB0E89EE0E5395E65B66887F140190D1CB1400
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 47 76 57 54 57 79 a0 58-db e5 ab 90 7b 41 7c d8   GvWTWy.X....{A|.
+    0010 - 8a c5 b7 97 71 72 0f a4-f6 df de 1f 81 19 be 25   ....qr.........%
+    0020 - e9 48 02 48 13 01 e8 3c-45 8e 0f f5 00 67 1e a0   .H.H...<E....g..
+    0030 - 9c 2b d8 f2 ef 0a 4d df-d8 59 24 c2 58 bc d2 0b   .+....M..Y$.X...
+    0040 - e5 d5 e4 81 7e a9 80 d7-0d 72 d3 64 ff e7 52 11   ....~....r.d..R.
+    0050 - a4 0d 2a b7 03 7d d8 90-8e 23 f5 6a a1 ee a3 eb   ..*..}...#.j....
+    0060 - 81 35 7e 4a 18 e7 a6 56-2c 0c 36 8a 54 55 d1 fb   .5~J...V,.6.TU..
+    0070 - d9 ef 5f eb dc 1a be a1-3e 89 02 51 b1 f5 09 d7   .._.....>..Q....
+    0080 - 70 db e2 e1 90 f0 83 63-53 d4 46 89 f8 ec bd 06   p......cS.F.....
+    0090 - 78 8f 25 1c 51 3b cc c4-a3 af 80 b9 aa 20 20 7c   x.%.Q;.......  |
+
+    Start Time: 1472788654
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

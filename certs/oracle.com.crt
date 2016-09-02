@@ -1,0 +1,67 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=Redwood Shores/O=Oracle Corporation/OU=Global IT/CN=*.oracle.com
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+zCCA+OgAwIBAgIQAKsvlJKa9J5DiXXp7ixPFTANBgkqhkiG9w0BAQsFADB+
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
+IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDcwNjAwMDAwMFoX
+DTE2MTAwNDIzNTk1OVowgYMxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9y
+bmlhMRcwFQYDVQQHFA5SZWR3b29kIFNob3JlczEbMBkGA1UEChQST3JhY2xlIENv
+cnBvcmF0aW9uMRIwEAYDVQQLFAlHbG9iYWwgSVQxFTATBgNVBAMUDCoub3JhY2xl
+LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM7HqjPlyI9lYKlR
+61sisV2+HY3JMj8/wPluhx0YlTJnOB2F/CEcA5e8XcPV/Ksq78jGkd+ED/OHEbOP
+YciDL6aXSqcse7FDi1Nxs6GPuYZ+SmhgEph2ECu2j6qAm1aGSdisOs4mJR0lag/c
+IKGc9KqhgweFVtKw+DJJepN4J6azAIGtMQbt7zoV8C6U2S6LQZ8UJ4ta69EedoUo
+SVtszOiW/TjrPXwH9KwoG1eLhEpiVXM2H6LkO4LSPT8c33oCI3hYDrBMntVEmTld
+ud1fetHb0nsvgdJKJ2gG3fvBIFgMeT/wmEJi7yN5y8Co+LndBDWIoCuYbRSYcUkR
+v66CSHMCAwEAAaOCAW0wggFpMCMGA1UdEQQcMBqCDCoub3JhY2xlLmNvbYIKb3Jh
+Y2xlLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIFoDArBgNVHR8EJDAiMCCg
+HqAchhpodHRwOi8vc3Muc3ltY2IuY29tL3NzLmNybDBhBgNVHSAEWjBYMFYGBmeB
+DAECAjBMMCMGCCsGAQUFBwIBFhdodHRwczovL2Quc3ltY2IuY29tL2NwczAlBggr
+BgEFBQcCAjAZDBdodHRwczovL2Quc3ltY2IuY29tL3JwYTAdBgNVHSUEFjAUBggr
+BgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAUX2DPYZBV34RDFIpgKrL1evRD
+GO8wVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vc3Muc3ltY2Qu
+Y29tMCYGCCsGAQUFBzAChhpodHRwOi8vc3Muc3ltY2IuY29tL3NzLmNydDANBgkq
+hkiG9w0BAQsFAAOCAQEAlUCoSyWulZfjEi+3EHVGY1xOi3nEc1Fu66rKe/mmbFxx
+2SpeyuD0wnROP86iWo/ZjM2kO9FXvZjwL7HfqQxy9NXGndYPmqC9EQkGY0H0iSNX
+tOs27QXgm0lL9Bv32yb7UO/ENMHaxswYgSGcZacHuw0QTUTkfyzbPgN4WTUzhee8
+lTzaVdmkyujRpKt3yq8p4XYMXlz2VfQxX7ZdCGy8sjFaGDrzjBFstiIdt1SV9KkB
+X5WGbkOXtmQP7tW0pxN+Dl7Ng0dhS3pQzgJeytkBKEOAtTFkr19WCDImCpqN+2Bo
+s3Y6lZNX8XImIp/tWB+YoneWqtrETBE+WCYwyJuhwg==
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=Redwood Shores/O=Oracle Corporation/OU=Global IT/CN=*.oracle.com
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+---
+No client certificate CA names sent
+Peer signing digest: SHA1
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3159 bytes and written 458 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-SHA
+    Session-ID: 94EB2B3F4F76ACE30F8D8406313978932730B843423AA97A99D3C16766E6CA97
+    Session-ID-ctx: 
+    Master-Key: 682895AE1BE07C46BFAE0DA7BFE35DC54C6EC394176185CE8B2B4135C48CF664E9AF6DF58535082D83A34054F7306620
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472788177
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

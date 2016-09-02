@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=drupal.infusionsoft.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFEjCCA/qgAwIBAgISA8QQDhFtjBnKUEEzH+YdNQCdMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xNjA4MTUwODMwMDBaFw0x
+NjExMTMwODMwMDBaMCIxIDAeBgNVBAMTF2RydXBhbC5pbmZ1c2lvbnNvZnQuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq/GLXYe/CkYK8iHX+Xui
+EdOFAyQ3Q9xLOsAmXfhgssIKuP583P59hl90HFf4KqyUOevQ+xddSDQGp8LAMHGd
+KEyXWP0NJ7qi2oJuwMlv7cRZHJEQirrQ8WeTa2RaNgOxqagKaaDN403jhUypftxi
+AuQIBpxyrjXgRV24QTmLGVGAcszUFNfVtF6/RxvUIXdNNuSzM0eAjq9NmyzfdpOn
+XvR6xOUOCt2WXszSEZvvc+ylfsCK4hV65GEP9lTy8AXajw3go9+bVLVrz+Sv+Op3
+nQ9AmMyYIY3szJBAiv4tPZz6dnSlew+gRz0eonuU8beFUrVO2t0sqKV0NpJRdNvQ
+QQIDAQABo4ICGDCCAhQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSGStO7FPcS2L2s
+BjmPlki5rOAQODAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBwBggr
+BgEFBQcBAQRkMGIwLwYIKwYBBQUHMAGGI2h0dHA6Ly9vY3NwLmludC14My5sZXRz
+ZW5jcnlwdC5vcmcvMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0
+c2VuY3J5cHQub3JnLzAiBgNVHREEGzAZghdkcnVwYWwuaW5mdXNpb25zb2Z0LmNv
+bTCB/gYDVR0gBIH2MIHzMAgGBmeBDAECATCB5gYLKwYBBAGC3xMBAQEwgdYwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIGrBggrBgEFBQcC
+AjCBngyBm1RoaXMgQ2VydGlmaWNhdGUgbWF5IG9ubHkgYmUgcmVsaWVkIHVwb24g
+YnkgUmVseWluZyBQYXJ0aWVzIGFuZCBvbmx5IGluIGFjY29yZGFuY2Ugd2l0aCB0
+aGUgQ2VydGlmaWNhdGUgUG9saWN5IGZvdW5kIGF0IGh0dHBzOi8vbGV0c2VuY3J5
+cHQub3JnL3JlcG9zaXRvcnkvMA0GCSqGSIb3DQEBCwUAA4IBAQBZmdoU6ZuadYvx
+u3DfXH/5izALX2s+2T4TPc4/IG5XRjiULckM0Itwc1yJ+ZoCgcB5RYjPV4ig4f7F
+Mw9ODCKWPlOCLHTTLsb9mbBrBMR6w3vwGG0mTGyXJiCkJ7dibi1186o92QuZRnUN
+3Tj40A33CtDc+avtENnlHeOjaUEE8NN0OqlD+MY9UDv9iOVtjpZjOjEsJHdNDdFC
+8gOa6z0Qq7RQpb1pkEyUPqo/+c6VXDGt6pg8jggRYnMfDtzI0pbErObtS8SXqnq0
+3soSrso3ESjVJAL799hk7S/mlHxccAojHNvmci5pTNW7JRBbiM6P2NHqFxg1EjUe
+ZFk7q7CR
+-----END CERTIFICATE-----
+subject=/CN=drupal.infusionsoft.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3154 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 0D978034740AA5C9840FFC75749131A3706E7AB6A5DFF6E85ED11DC8343F45CB
+    Session-ID-ctx: 
+    Master-Key: 85597C7EF2F8BE294E2CBCD82C8D98D3A98B85E39B57805E041ADE626678166FD40950F7717082EE7ECF2DFCCF38A79B
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 77 d9 bb 84 ea 37 83 a9-c4 e6 f6 63 29 9f 73 a3   w....7.....c).s.
+    0010 - 1f 4d 0b 7b 1e 6e 05 e6-b2 79 b1 28 a7 7f b6 fa   .M.{.n...y.(....
+    0020 - 5b 05 cc 89 54 c8 86 f9-c5 b9 91 22 e1 a6 28 06   [...T......"..(.
+    0030 - e4 93 9d 2f 1a b4 a6 a2-bb 4f 5d 47 2c 79 e9 a1   .../.....O]G,y..
+    0040 - fa 9e 5f 0e 42 05 ab cb-1e df 17 ce c3 b0 38 33   .._.B.........83
+    0050 - d8 e0 8c cc 8f ee e5 03-a6 4d 71 0e f2 ec 6b 65   .........Mq...ke
+    0060 - 92 6e 10 ed 86 8a 0c 97-08 76 b8 a0 1c 5a 0f 77   .n.......v...Z.w
+    0070 - c4 b7 10 84 0b c7 4c cf-ea 21 5a e1 14 54 cd c4   ......L..!Z..T..
+    0080 - 9e 3f a4 ec 10 9d 4f 46-36 ef 12 b5 6e 65 95 03   .?....OF6...ne..
+    0090 - 45 34 f1 d5 7c 5e a7 1e-3d 22 24 f7 59 1d bd cd   E4..|^..="$.Y...
+    00a0 - ca 85 09 4f 61 15 e7 1a-69 ed 38 48 e8 bc ce b2   ...Oa...i.8H....
+
+    Start Time: 1472788390
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

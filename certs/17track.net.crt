@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=CN/ST=GuangDong/L=ShanTou/O=ShanTou Demon Network Tech Co., Ltd./CN=*.17track.net
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE9jCCA96gAwIBAgIQfPIl4hw8n6ypdwqGYsesQjANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwOTI5MDAwMDAwWhcNMTcwOTI0MjM1
+OTU5WjB6MQswCQYDVQQGEwJDTjESMBAGA1UECAwJR3VhbmdEb25nMRAwDgYDVQQH
+DAdTaGFuVG91MS0wKwYDVQQKDCRTaGFuVG91IERlbW9uIE5ldHdvcmsgVGVjaCBD
+by4sIEx0ZC4xFjAUBgNVBAMMDSouMTd0cmFjay5uZXQwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQClwe0vju6K6Z+MmowFLQQpZShLg07e7/Po8wYg6489
+zFkwF0s4a0En6pFTGIX0UNQqQID6kU1jMJwrxjKzvn1LErEmXheu7eWE30f8bfS5
+d3jTp/iBUmnfHmobazZQNlpJ9m11A/7lFhaAUpvvxoL7rFFxBmI7DwQc8Xxe+kzd
+RxcyW+W0+ucJU4EN4eNQ7pRsI9nvihsUJc1rHYHAJXwgZGHZzRGpc7X+oVKw+i9n
+naJRBeflOj1o5uMaqR47F/GsEYVjDQydPbcuKMiF0Wp1JwVy4pgpmyy7qns/JdEp
+ypVXZ7wgQlETxs8c91gWkYLrYbv0z+kE8oYpeBBcIpldAgMBAAGjggGsMIIBqDAl
+BgNVHREEHjAcgg0qLjE3dHJhY2submV0ggsxN3RyYWNrLm5ldDAJBgNVHRMEAjAA
+MA4GA1UdDwEB/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3lt
+Y2IuY29tL2duLmNybDCBnQYDVR0gBIGVMIGSMIGPBgZngQwBAgIwgYQwPwYIKwYB
+BQUHAgEWM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3Np
+dG9yeS9sZWdhbDBBBggrBgEFBQcCAjA1DDNodHRwczovL3d3dy5nZW90cnVzdC5j
+b20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVnYWwwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFNJv95b0hT9yPDB9I9qFeJujfFp8MFcG
+CCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2duLnN5bWNkLmNvbTAm
+BggrBgEFBQcwAoYaaHR0cDovL2duLnN5bWNiLmNvbS9nbi5jcnQwDQYJKoZIhvcN
+AQELBQADggEBANWdNNJbbXXS5QqXRsCOrGOTTlt4VRbPn45vCAal9INEMgHL8Et+
+tJMlPG96LiHe9GTXIkuqHXUofk7t4NPzd/zwMe88yUvEwyOvOlTmzPLKO9ACCjv2
+qCSX4QosMVkhxG7bkFx/5QzBxXERzRAk/6zuVM7X8/gezNYaLGMqKPGFQnTw1N3N
+/U109kQ0lqEf5gVCuQWJsuMVT9u8LXtZUhqPlsYm6/8xov4li8wHYUEZA2kTJTSu
+1Ko5HS4pJbzKrx6buJU7dOAo9oY5SNt0sRZR9YwZrfssKGYkYDH9tw8yXD8MtZco
+JwwkclE7VURo6+b2GjLCac6JInfbgbk8tj0=
+-----END CERTIFICATE-----
+subject=/C=CN/ST=GuangDong/L=ShanTou/O=ShanTou Demon Network Tech Co., Ltd./CN=*.17track.net
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3043 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 7F567D878509A6A4B35538A73E7D08A2AB3E50034CA87F81BFEBC13FAD0DDD1E
+    Session-ID-ctx: 
+    Master-Key: D9046036BE5D754553A13B153E4D201A10F46AFF8DD9EA6439BF4588EC1B1277B673B2F5D383C4DDD9A79C2272127292
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 27 bb a9 00 68 3b af 86-df b1 4f f2 03 4b ba 95   '...h;....O..K..
+    0010 - 07 1a 56 8e 74 51 87 e4-c8 ea 4a 4a fb 49 2a 5d   ..V.tQ....JJ.I*]
+    0020 - 92 05 0a 3c 6f 70 75 2a-18 27 2d e2 b3 5a 4a 42   ...<opu*.'-..ZJB
+    0030 - 8e 30 e6 71 d5 3d 03 c6-7d 36 db 70 8b 0e 78 95   .0.q.=..}6.p..x.
+    0040 - ed dc 51 cf 86 8f 0f da-f8 03 1a 35 11 27 6d 32   ..Q........5.'m2
+    0050 - 47 28 28 e9 0d fe bc 7b-8f dc 42 41 a8 0f 1f d6   G((....{..BA....
+    0060 - 49 4d 6f a8 b2 0a b1 22-31 c6 09 5d 7f b5 58 be   IMo...."1..]..X.
+    0070 - 2a 27 26 0a 92 65 91 53-92 c4 f9 36 d0 09 0e d3   *'&..e.S...6....
+    0080 - c0 81 0b 8a 81 23 db 3a-13 b1 77 89 22 6d 09 15   .....#.:..w."m..
+    0090 - df 21 c0 ae 23 39 a2 98-81 bd c7 8d 41 a3 da cb   .!..#9......A...
+
+    Start Time: 1472790197
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

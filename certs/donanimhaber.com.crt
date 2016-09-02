@@ -1,0 +1,77 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=*.donanimhaber.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEPzCCAyegAwIBAgIDCkpgMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
+NTYgQ0EgLSBHMzAeFw0xNjAyMTUyMjQwMDFaFw0xNzAyMTcwMDUwNTRaMB0xGzAZ
+BgNVBAMMEiouZG9uYW5pbWhhYmVyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAL9mURUdVm4p7pCxBDjbjhOSUErLmYZbNXVvEMrOnXvoFvQB+ahe
+i1OoVb+vNUbOD08x9DIl0VBJuF215s5ptUrgkj1OkOZjbrxKhJtTzCpQAByTGEZ2
+QCAdQcgQFwBdJ+qjZZJFXtNW2bHh9h71/QzVS1PyKyl48dx1C6Sr4JiawdYSpfzn
+hnsbpTukjnOzDr7tYNnitDiQbOhGOmsQnYuZPE8KER8BB3vYupyFM5u3FI5+DpUr
+jeoAMVUc1OsK/LBrQLhR8GlpI3CDVqXCBYEoMVhaq83UGZw19Qd20y7Gc/dF/jtd
+bZsCOipgTX34h6o365Xf7BXmSRLoIsM1itECAwEAAaOCAVwwggFYMB8GA1UdIwQY
+MBaAFMOc8/zTRgg0u85Gf6B8W/PiCMtZMFcGCCsGAQUFBwEBBEswSTAfBggrBgEF
+BQcwAYYTaHR0cDovL2d2LnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL2d2
+LnN5bWNiLmNvbS9ndi5jcnQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjAvBgNVHREEKDAmghIqLmRvbmFuaW1oYWJlci5jb22C
+EGRvbmFuaW1oYWJlci5jb20wKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2d2LnN5
+bWNiLmNvbS9ndi5jcmwwDAYDVR0TAQH/BAIwADBBBgNVHSAEOjA4MDYGBmeBDAEC
+ATAsMCoGCCsGAQUFBwIBFh5odHRwczovL3d3dy5yYXBpZHNzbC5jb20vbGVnYWww
+DQYJKoZIhvcNAQELBQADggEBAArIIoSpW2fcpgFvW/+Q/zCibtTTgT1mN/Xho+yN
+U/UNxKhzNptrqB77ktVPB5Uah19l35XrBSDVFQG1Dj88jHZxPONsERl1UMazOXFF
+JLIfMHP15im8H+SIFg/ie7BTO2iAGbMIt9S4I3Gh7ZMA2F8sNn+miTwm9Pn0a9G1
+d64F2JbfxPvEBHeiP6IPx2EFzAaAz/4OwDGWJAO6oadmeEwa8c9gy0fOQ0uDHF3U
+ToCa7RboAeS3i8xhuEe4BxiGI9jLf4vPV7DoXoeGyIwhkARO70McvQkfqjmvlax7
+YSPemKVbswWFgSzLA3AjAaFHasO9IVqvVs7xo4dW++q16h8=
+-----END CERTIFICATE-----
+subject=/CN=*.donanimhaber.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2834 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: E5DC7D4C6ECD2E21783103CE8D742E171199270DF6F8E4E318DA4B0CBEA958B6
+    Session-ID-ctx: 
+    Master-Key: 10B340BF4968460EB97E774ECAC7E7FFE41472B386EB6C7F7FB1A3DD6EA10213EFEB6DE01E7E2B2FCFEDC371F598D75E
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 42 f0 69 77 53 d0 8e b3-0c 62 3c 94 e6 6a 4d 06   B.iwS....b<..jM.
+    0010 - 54 ac 14 87 97 b0 f0 09-e1 72 8b d3 8e af cb a2   T........r......
+    0020 - 26 40 73 cd ac d0 e2 7e-1c 6b 04 58 ff 31 50 72   &@s....~.k.X.1Pr
+    0030 - 3f 69 7e 43 55 33 28 18-f8 0b 49 60 d8 5e 35 c4   ?i~CU3(...I`.^5.
+    0040 - 59 27 94 d7 8a 8d a0 ab-56 f5 8c ba 12 b6 8f 30   Y'......V......0
+    0050 - 2e ee 0b de 31 e3 f2 8c-4f 79 f7 29 d8 58 3c ce   ....1...Oy.).X<.
+    0060 - 22 59 66 cd 53 75 87 f9-d0 19 95 6d 18 85 48 14   "Yf.Su.....m..H.
+    0070 - 49 c6 cd f7 b2 21 f3 92-fb c3 50 d6 1c 4d bf 6b   I....!....P..M.k
+    0080 - 75 ee a2 2f 54 e2 b9 ab-df 38 9c 4f 9d dd 69 41   u../T....8.O..iA
+    0090 - 44 53 3c ab 1e e1 7b 7c-45 04 e5 95 e8 73 4e aa   DS<...{|E....sN.
+    00a0 - eb c9 f3 d1 bf 06 3b e2-9a 8c bd 4d dc ec 5d 30   ......;....M..]0
+
+    Start Time: 1472790225
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

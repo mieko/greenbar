@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=Domain Control Validated/CN=*.danawa.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE8jCCA9qgAwIBAgISESFRwrxp2DxideLz1QCZWbPfMA0GCSqGSIb3DQEBCwUA
+MGAxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTYwNAYD
+VQQDEy1HbG9iYWxTaWduIERvbWFpbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTUxMTE5MDYyODE0WhcNMTYxMTE5MDYyODE0WjA6MSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxFTATBgNVBAMMDCouZGFuYXdhLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOTEzW+wH4PD8vIX5MtwaIIR
+OMbyR49d8hjUy4CGknjeWLYkj611483Vb3WGJ2wLcq4eoN9GkREIxXtPT1PZUNmT
+cwZ2e/oiv5XuH/4K0hBTHs2j8kV/hHjikSZalEiCw+kvrIh7we++gfuIbGGVy+nt
+dhwTEcKyV3aM6iUAgjFU4uBQM8gdWgPxfD6u6r3Gi/dvor8oBd7KdB/WRAtYgjVc
+0vEnNOiSqtZT+hRlYmXX+S3fclbqFhJxsy4s4YsFyVKF90NSU/3aDu96doWO8ZFz
+/1l6b6c99R311T+BkiByeurAjbSHtCzPc4w78aMSpn2vsKh62ZoRqQDMTzDaViMC
+AwEAAaOCAcowggHGMA4GA1UdDwEB/wQEAwIFoDBJBgNVHSAEQjBAMD4GBmeBDAEC
+ATA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBv
+c2l0b3J5LzAjBgNVHREEHDAaggwqLmRhbmF3YS5jb22CCmRhbmF3YS5jb20wCQYD
+VR0TBAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwQwYDVR0fBDww
+OjA4oDagNIYyaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9ncy9nc2RvbWFpbnZh
+bHNoYTJnMi5jcmwwgZQGCCsGAQUFBwEBBIGHMIGEMEcGCCsGAQUFBzAChjtodHRw
+Oi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc2RvbWFpbnZhbHNoYTJn
+MnIxLmNydDA5BggrBgEFBQcwAYYtaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29t
+L2dzZG9tYWludmFsc2hhMmcyMB0GA1UdDgQWBBSAEe7QIRjG/A0SbkFpcl8MO7rT
+/DAfBgNVHSMEGDAWgBTqTnzUgC3lFYGGJoyCbcCYpM+XDzANBgkqhkiG9w0BAQsF
+AAOCAQEAe/t2mSGxZQfjD8Qfut55YwQE/ZyRZ+2r/7R1dkrnEDDXcnG7lrbECcTG
+AHAbwWU/FbvNfi7m4LrtM9Ftj3E4fJRfXlRh329THTnnp6pmgvlMMGyGmLrWNJfK
+azwMrbxFP0ahPImP4dAQj/6NXBn+etvDRAew+v9MiAME22l5XPmkN7sIdF068oLv
+tim7DrYOUoPdJR0+qnqctMIe8fpGWHzHC6ferLI7ntrUcydAJKXL4tIz3fxLN04Y
+NbQWMzzT9U611LSi+UsaPejZGTvcR3pZz5xJNLc3PDnjT9/8QTjIH3wHLFBV+r7M
+Kx+ybQ3qbyo+HFeV4XacDgeow5/tsg==
+-----END CERTIFICATE-----
+subject=/OU=Domain Control Validated/CN=*.danawa.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+---
+No client certificate CA names sent
+---
+SSL handshake has read 2748 bytes and written 634 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: zlib compression
+Expansion: zlib compression
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : AES256-SHA
+    Session-ID: EA81AA7CE08724EB6ECF655EFAA15DDB0528DBB225BA782718EF21EAE1E857D6
+    Session-ID-ctx: 
+    Master-Key: 9762ADD15B0596403E3935C7D5A70EA883A01D81BE213D79CF9D666EEEB4275E6CBC3D690B1445D1F327F81C3B7EDD85
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket:
+    0000 - b2 30 f9 d4 ad 05 d5 d4-35 22 32 f5 4d 7f af 5a   .0......5"2.M..Z
+    0010 - 27 9d 4c 6f 43 63 c3 3e-25 86 5b c4 ad 2f a7 f1   '.LoCc.>%.[../..
+    0020 - c2 8c 09 c0 fe 5f 89 8c-cc 7b d0 9b d1 a7 62 12   ....._...{....b.
+    0030 - 85 93 91 cf 9e 74 ec 25-96 c7 67 85 c8 36 14 5d   .....t.%..g..6.]
+    0040 - 63 08 79 bd 3d c0 52 60-6e 26 8a b9 cf e2 08 74   c.y.=.R`n&.....t
+    0050 - 9c 7b aa 1b 8a 8d 89 63-12 25 5b c9 0b 64 89 f3   .{.....c.%[..d..
+    0060 - 01 77 43 8a 00 3d e6 76-88 b7 c9 f9 37 42 a7 3e   .wC..=.v....7B.>
+    0070 - 1b 3e 8e cd 21 ec a7 04-ee 9c 96 9e 0e 2a 34 ff   .>..!........*4.
+    0080 - c8 f1 a9 cb 9d 25 8e 22-5c c4 72 20 4b c4 9d a4   .....%."\.r K...
+    0090 - 14 ac a2 d7 02 ef ef 59-64 f8 48 ac cf 09 ab 6d   .......Yd.H....m
+    00a0 - 4a a0 80 07 ee 0d 3f fa-90 7b 5a a2 d5 84 4c 74   J.....?..{Z...Lt
+    00b0 - 9c 35 ad f9 60 09 87 18-7e b4 b7 a9 3a 67 bc 3b   .5..`...~...:g.;
+
+    Compression: 1 (zlib compression)
+    Start Time: 1472790121
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

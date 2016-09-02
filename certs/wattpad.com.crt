@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=CA/L=Toronto/ST=Ontario/O=WP Technology Inc./CN=*.wattpad.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFFjCCA/6gAwIBAgIQARfacSZHJm8gKLqOqLKRtDANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTUwMjI2MDAwMDAwWhcN
+MTgwMzI2MTIwMDAwWjBmMQswCQYDVQQGEwJDQTEQMA4GA1UEBxMHVG9yb250bzEQ
+MA4GA1UECBMHT250YXJpbzEbMBkGA1UEChMSV1AgVGVjaG5vbG9neSBJbmMuMRYw
+FAYDVQQDDA0qLndhdHRwYWQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA0Q0erDKcJWdqMv5rMfWF0J5XRlOeKloUBA66nyOJheBeClO1Jy7aR3th
+hDHVLejKfdySAXKqSs7d3id0wc6Wr3yalpQl6EwZhTTj47tUAIl+GP/hLBeNMTNa
+TrDHYS7mSHDwCdXzfPps9/4QKxUYW318KmhGaDR3InWJgEvy3+nWrXey505YPQEH
+dcWbXehGT3VWMj9pFrLHoLlq4F6D+uSMY73l4R04FAR2v1MfsgA8P1xROTOVcBQ0
+YxMp8x+o0bizcGCiQll+Kflr79DRQXu4Ao3iQaXliKUpfdBFC4K/ddGqaW0OdYZU
+oy2Zq0hhVn0JKGelKqjBAFDzi8uBiQIDAQABo4IB1zCCAdMwHwYDVR0jBBgwFoAU
+D4BhHIIxYdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFB2iKWcDBs9nsJhyLWJPhllE
+VbJOMCUGA1UdEQQeMByCDSoud2F0dHBhZC5jb22CC3dhdHRwYWQuY29tMA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0f
+BGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1n
+My5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTIt
+ZzMuY3JsMEIGA1UdIAQ7MDkwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0
+dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwfAYIKwYBBQUHAQEEcDBuMCQGCCsG
+AQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0
+dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2
+ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEASNH10Ont
+94X2hp4udCpiotdLl+b6hLPDVLCbAKuvJcdvVwhUUEsXJr90UNZISF2BZqnmA8+g
+pe7QvcOd5F3xvSOJVWrvgYCgxvRffIFoGFcXr4rd7X33oKdeebT12xjM6JYiHERn
+LfnGsvRlL66CWYE2/ecLZ25mz4OUCRzr39kww2YmA9gCI6NaDzCxy5zskN4CJBvB
+zZsVPmWdWI8/3U+0cAamnr9TdckAT9jqfaWbLOO8WGupTn4jYDsuAYTqu/mjY50b
+NvnOGBfS8/xZxXzI5f+UYmBo7fnCp5ySRc1uS0I/DpjzGVgeKvLkPfFfVY4T6/oc
+H82VLJnud99aSg==
+-----END CERTIFICATE-----
+subject=/C=CA/L=Toronto/ST=Ontario/O=WP Technology Inc./CN=*.wattpad.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3160 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: A632E20289F2508FE20F81E39E32D10FE7602A5F2422921F57E4EFC1BE3ED92B
+    Session-ID-ctx: 
+    Master-Key: 0517FEA703078151B74E9366724928BA363A0F19BB6B5801DCD89E4459B8589D50AE191962FA72F4560EE6259ECA27B2
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 3c 06 d5 03 3a f2 b7 63-55 95 e8 9d d7 0c d2 46   <...:..cU......F
+    0010 - c7 9d b8 79 82 5b f6 f5-dc cd 3d 56 d6 b9 c8 7b   ...y.[....=V...{
+    0020 - 19 94 bf 47 81 82 77 d1-1c 74 54 47 db b5 f5 49   ...G..w..tTG...I
+    0030 - 14 b2 69 30 61 c4 cb d3-fe c0 a0 55 55 0a 3b 5a   ..i0a......UU.;Z
+    0040 - 7d 3c 12 57 85 b1 b6 85-b5 f2 5f fc 6c 4e 6e 84   }<.W......_.lNn.
+    0050 - 83 1c 8b 77 b1 66 17 78-87 10 67 4a 22 2e 71 6d   ...w.f.x..gJ".qm
+    0060 - ce 10 3e e6 59 72 17 83-65 1a e4 1a ef 93 a6 e0   ..>.Yr..e.......
+    0070 - ab ef 20 f7 ce 0b 03 12-41 d9 95 8d fc 4f 3d 00   .. .....A....O=.
+    0080 - b3 be 8f aa 5e 98 29 7e-f8 1a bd eb a1 b4 e1 96   ....^.)~........
+    0090 - 0f 38 8c 37 20 b6 73 20-b0 11 37 4c 6e 6a 97 cc   .8.7 .s ..7Lnj..
+    00a0 - c3 af dd c9 c4 04 08 37-39 b0 62 70 0f d4 ba cf   .......79.bp....
+
+    Start Time: 1472788715
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

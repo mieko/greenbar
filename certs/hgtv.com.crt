@@ -1,0 +1,56 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Tennessee/L=Knoxville/O=Scripps Networks, LLC./OU=IT Operations/CN=myscripps.scrippsnetworks.com
+   i:/C=US/ST=Tennessee/L=Knoxville/O=Scripps Networks, LLC./OU=IT Operations/CN=myscripps.scrippsnetworks.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDqDCCApCgAwIBAgICByYwDQYJKoZIhvcNAQEFBQAwgZYxCzAJBgNVBAYTAlVT
+MRIwEAYDVQQIEwlUZW5uZXNzZWUxEjAQBgNVBAcTCUtub3h2aWxsZTEfMB0GA1UE
+ChMWU2NyaXBwcyBOZXR3b3JrcywgTExDLjEWMBQGA1UECxMNSVQgT3BlcmF0aW9u
+czEmMCQGA1UEAxMdbXlzY3JpcHBzLnNjcmlwcHNuZXR3b3Jrcy5jb20wHhcNMTUw
+MTA1MTUyOTIyWhcNMTYwMTA1MTUyOTIyWjCBljELMAkGA1UEBhMCVVMxEjAQBgNV
+BAgTCVRlbm5lc3NlZTESMBAGA1UEBxMJS25veHZpbGxlMR8wHQYDVQQKExZTY3Jp
+cHBzIE5ldHdvcmtzLCBMTEMuMRYwFAYDVQQLEw1JVCBPcGVyYXRpb25zMSYwJAYD
+VQQDEx1teXNjcmlwcHMuc2NyaXBwc25ldHdvcmtzLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBANRKGR2/9FGJfT2hS377VyCxU7xPwTNtxniyXlUa
+uTeYYX91oq9fG8F6R37kys9V3+LRlhpp/6A6hxs4NZDCtHd/72l6v2DTjwnjRQlc
+vjt59hPAwj42qYcXNC/YDq/6ItnYxS8VCcdw3ZESiTAawcaNVk2aFbh4hGbfcTVB
+zmJ5pr0ABQ3sgVzx5kGNcQejVyTzVRqmfSl8ea/TL5h1xfDAI+kLFY7YvVNFlytc
+wF52up0kizGFiNtmcQM7Zmz8tffbGKFNk+DkaIMkHULqz7hBLkEXT0kdjvMIEt81
+oVpMyFjCBxi7OxI5r6fhYIrB7WcblXdj6TrCocJez352nacCAwEAATANBgkqhkiG
+9w0BAQUFAAOCAQEALboB+RxD+uzKBDzQCTF80ugiyJnHHtGSHelUXn6UFBqc01py
+gdY3vhyOaRfLAD80Mub4Me1NeDz4P6Qwug4EQB9weiZixyMnfg7V3RJcOgb25MTl
+abvPImwKAQrp1JlrfMpo+Fwjtm/5fh93J/IxUUck21GJa/jCZyFpzEFc4PQeT5S4
+xmX6Tm5jdVkPcxKTq9ZLCkn1iYpUbyuQamX6Nn2QQw97FHPL8Eh6enI/KuqPFKhj
+dBrKu9r6XDF3Beewkg1bB5h0JRlYybHaJYqXai3W06kJBpMcJz6jDUJp4f3jTxKn
+gGOVxVm3IItKa1hNCajoSM+pGdEsxGVeig7v5A==
+-----END CERTIFICATE-----
+subject=/C=US/ST=Tennessee/L=Knoxville/O=Scripps Networks, LLC./OU=IT Operations/CN=myscripps.scrippsnetworks.com
+issuer=/C=US/ST=Tennessee/L=Knoxville/O=Scripps Networks, LLC./OU=IT Operations/CN=myscripps.scrippsnetworks.com
+---
+No client certificate CA names sent
+---
+SSL handshake has read 1097 bytes and written 622 bytes
+---
+New, TLSv1/SSLv3, Cipher is RC4-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : RC4-SHA
+    Session-ID: 674A4EF11F3E0E63CCDF73E2181B54ED956372CE751103A99538DD644E774AB4
+    Session-ID-ctx: 
+    Master-Key: 7C16920CA6DE93908628494B51B050202A1F01A2BD806D93E4B0323E5A10ED10D6C74A8A8BAE37F7EBC8194D844D481A
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790543
+    Timeout   : 300 (sec)
+    Verify return code: 10 (certificate has expired)
+---

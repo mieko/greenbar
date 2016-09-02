@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=San Francisco/O=Slack Technologies, Inc/CN=*.slack.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE7jCCA9agAwIBAgIQJ85dBpYNN5a56Pa7AA0t6TANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwMTI2MDAwMDAwWhcNMTcwMjE4MjM1
+OTU5WjByMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UE
+BwwNU2FuIEZyYW5jaXNjbzEgMB4GA1UECgwXU2xhY2sgVGVjaG5vbG9naWVzLCBJ
+bmMxFDASBgNVBAMMCyouc2xhY2suY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEA34++uRDAttV+Kk7pQyryqQDBFBh3jqiqK+sXWj22peZJpuXXuIvf
+9/sZykydlypTjipopgJqiyK0ui+Rrc05uhlFg8NfUxu5uibG1J02N1oA7gDJmB9V
+ijAYFixQXG6iMjrskp6PLdqGEPVELMDQvbNKwllKzN+gx0DW5F+HSTN7jviVThB8
+PgxZ0XPjQbbx63Ttc1XbPHsOiQvJGWuDxf2ZRN9tT7UZguriRtB5ieDrxvupX7Pp
+oWmchVqubWI3BnhgQl4H2Yu5kZb5LhieudDic0lag3dtrT1xdTwxt+pOjBA3c71j
+4+K+0DwXNfPb4x5mCsisRkYguwU76I6DewIDAQABo4IBrDCCAagwIQYDVR0RBBow
+GIILKi5zbGFjay5jb22CCXNsYWNrLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQE
+AwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNy
+bDCBoQYDVR0gBIGZMIGWMIGTBgpghkgBhvhFAQc2MIGEMD8GCCsGAQUFBwIBFjNo
+dHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVn
+YWwwQQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291
+cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xafDBXBggrBgEFBQcB
+AQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5jb20wJgYIKwYBBQUH
+MAKGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MA0GCSqGSIb3DQEBCwUAA4IB
+AQCwg6K1Ro+cEyd37PK6Tz8Lq8eVypxT7oG/v1qMC8XXkmadZqI+LVxjltsn/sB1
+PgJzUeRbVZVYXUtsmFVhmSYStmXdK0xG4Vdkvu0eHpRvAp7hBRelCSMANd/l5k/z
+FCj6kVTnIej3zqT6yKHxxCb+alB2og18+yj3vUScUOPqJN8eeo3MYrT1RgbGu+dl
+vlK2bdxLFvvMQlj70d+qUwrm7Ayt0fMDqYoVah1XUDGFLfPZkHy8LG9V0qWuf+fQ
+f3+XJH9AuevP3QlfkyTFow3BtKkCbwkcToSA4p1kHm/N6tcQL8FsXdKQybZgqLzF
+ggLk2IYTdtzZsxYK96maAwmg
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=San Francisco/O=Slack Technologies, Inc/CN=*.slack.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3030 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 9D4E7010CC494E830AB5B2EE29985BAFAD028C1E4CCEAFB0BC84A67EF1D6C3D7
+    Session-ID-ctx: 
+    Master-Key: 86825883D1F4707B65BB2412745AD66D9F983C7B3441C3D69FA80B782DF2EEF534661B26016DE0C104AA107986E717A2
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 10800 (seconds)
+    TLS session ticket:
+    0000 - a3 f8 35 21 1e 85 c3 5e-bd 0b e9 90 95 a7 6c 04   ..5!...^......l.
+    0010 - 5d 57 f6 49 bd 36 64 17-54 94 c2 0a 47 ec ff 75   ]W.I.6d.T...G..u
+    0020 - 03 bb bd 2e 81 4a d3 97-7c eb 0d 58 b4 6c c1 d2   .....J..|..X.l..
+    0030 - 5b 46 09 34 e0 7c 12 63-d3 4d a4 86 27 23 9d 1d   [F.4.|.c.M..'#..
+    0040 - bf a3 7c 85 b2 08 77 7b-b4 e4 c3 8d 05 d4 41 e1   ..|...w{......A.
+    0050 - 70 59 69 b5 44 d8 64 9a-da 0d a6 90 67 2c 50 fe   pYi.D.d.....g,P.
+    0060 - 13 5c ed d8 23 cf 3b 99-6b 18 ab 55 a0 03 5c 5f   .\..#.;.k..U..\_
+    0070 - f2 2b f4 e2 9c a9 cf 09-bd 79 5f a4 58 60 5d ec   .+.......y_.X`].
+    0080 - 63 97 54 4c 12 13 48 2a-f8 37 0b 44 66 df 02 e7   c.TL..H*.7.Df...
+    0090 - 32 83 d4 b1 47 48 9f 86-e6 b3 6e 25 cf 8a a3 f5   2...GH....n%....
+
+    Start Time: 1472788145
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

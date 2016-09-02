@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=GT95520182/OU=See www.rapidssl.com/resources/cps (c)13/OU=Domain Control Validated - RapidSSL(R)/CN=www.clixsense.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEtDCCA5ygAwIBAgIDA78SMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
+NTYgQ0EgLSBHMzAeFw0xNTA0MTYwNzUwMzNaFw0xNzA3MjQwMTE4NDhaMIGVMRMw
+EQYDVQQLEwpHVDk1NTIwMTgyMTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
+bS9yZXNvdXJjZXMvY3BzIChjKTEzMS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
+YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEaMBgGA1UEAxMRd3d3LmNsaXhzZW5zZS5j
+b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDAzStDlPMoMxr6ty6k
+pwL8KlTIIZAC+jRpLKNDH1FYiMkYGd/yPu4mzS1DvVVrIh5IC75qseciyGSKQEGr
+uYhQH0KXU0EUHjrnDzHTCG47flLCNQ5HgxedMFO92BDK4ERTvX4sEcTZ0m7Z0zQt
+RA9N248Zzy2vi7KhSY4cdr3kgkfHJ3eMMOmS5eA7BAcPKI6E3EvDozjENXb7SZs+
+ihY2cz9U+RFBdt/peCl3MxSQn/dXXwrypPg6TO18GTYStJLHSy9+PScsy3TtTyVI
+exTglWZC//dysQ9eSv32b7pM5MSan7pB1ZqgCGP77big6kX6ZGQLiCU6mFVnPkLN
+nMHJAgMBAAGjggFYMIIBVDAfBgNVHSMEGDAWgBTDnPP800YINLvORn+gfFvz4gjL
+WTBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9ndi5zeW1jZC5j
+b20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9ndi5zeW1jYi5jb20vZ3YuY3J0MA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwKwYDVR0R
+BCQwIoIRd3d3LmNsaXhzZW5zZS5jb22CDWNsaXhzZW5zZS5jb20wKwYDVR0fBCQw
+IjAgoB6gHIYaaHR0cDovL2d2LnN5bWNiLmNvbS9ndi5jcmwwDAYDVR0TAQH/BAIw
+ADBBBgNVHSAEOjA4MDYGBmeBDAECATAsMCoGCCsGAQUFBwIBFh5odHRwczovL3d3
+dy5yYXBpZHNzbC5jb20vbGVnYWwwDQYJKoZIhvcNAQELBQADggEBADPEi/atPJoV
+CplpMG5dLATeZBavKCAMeTyQWR0FgOdIBYvLTore2mTIq694y9pml/Q7Hga6vkdZ
+wiYQb1Is/LMkxqmXYz6YgiYC+B+BvDy9i75J2LnBuE2RM1LjPduyVbCRmBOs72VS
+RjPeRNUMWPJr+C5oNkLeWQ4ZAoEJ9XG9BsHPDNap7HVdn4eBBODIf3juSzQsaIdr
+o5K2+QcXwYNZh7ia2Ua6PDn1PqDTOEJBk/HmJ+u+9a9Plukoahxn0SnLASE/LiNQ
+5I6WAbXH3HDOG6jt3lXCjdt7ZAJ+2nzBkCpjg0tXrEQYfxrKdeiYAALslymwHOK/
+m4PkufSpl7M=
+-----END CERTIFICATE-----
+subject=/OU=GT95520182/OU=See www.rapidssl.com/resources/cps (c)13/OU=Domain Control Validated - RapidSSL(R)/CN=www.clixsense.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3846 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 1B2E076606F8DB93E191891EB12845886F35CB5734F079015EFFA7E6D7BF67F7
+    Session-ID-ctx: 
+    Master-Key: 8C6C1E50BC3ACD76408BF8F8140484EA1DB8DA4140E1B9C52DB0BD2C719724CBFE6AF1C13F9F014F6AC45CCBDA539F8D
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 67 3e 33 d7 cc 57 79 4c-b2 85 a3 1c c8 1b 69 31   g>3..WyL......i1
+    0010 - 22 e3 2e 72 12 db e7 7b-00 44 2d fb d5 fb c0 21   "..r...{.D-....!
+    0020 - 71 3b e8 20 10 6d 0b 97-bf 62 96 e2 45 56 a8 92   q;. .m...b..EV..
+    0030 - 0f a0 a5 ba be ec ac 76-d3 01 43 26 2e d1 4b 46   .......v..C&..KF
+    0040 - 4f c7 67 70 ba 34 a0 31-ee 46 38 f0 3f 2a 62 9e   O.gp.4.1.F8.?*b.
+    0050 - 78 2f e5 0e 41 8d 85 02-fc 3c 46 bd 85 93 5f c5   x/..A....<F..._.
+    0060 - 50 75 b6 44 e7 4c 68 d0-43 12 19 c1 2b 77 28 0f   Pu.D.Lh.C...+w(.
+    0070 - 97 57 a4 22 cb d9 e5 30-5b 25 5c 7b 28 8b fa cf   .W."...0[%\{(...
+    0080 - b5 e2 54 2b 26 94 52 c5-2a 35 4d f2 ef d2 87 72   ..T+&.R.*5M....r
+    0090 - ff cb 41 de b9 5a db 06-f3 02 e8 39 16 c7 82 5f   ..A..Z.....9..._
+    00a0 - 95 f9 d6 1f 4f e7 5b ec-ee a0 f9 a6 18 0d 44 e1   ....O.[.......D.
+
+    Start Time: 1472789843
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

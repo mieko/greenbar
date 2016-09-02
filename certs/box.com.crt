@@ -1,0 +1,77 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=Los Altos/O=Box, Inc./CN=box.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G4
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G4
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEdjCCA16gAwIBAgICAlgwDQYJKoZIhvcNAQELBQAwRDELMAkGA1UEBhMCVVMx
+FjAUBgNVBAoTDUdlb1RydXN0IEluYy4xHTAbBgNVBAMTFEdlb1RydXN0IFNTTCBD
+QSAtIEc0MB4XDTE0MTExMzAzMDgwMVoXDTE3MDgxODEwNTMyNFowXDELMAkGA1UE
+BhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExEjAQBgNVBAcTCUxvcyBBbHRvczES
+MBAGA1UEChMJQm94LCBJbmMuMRAwDgYDVQQDEwdib3guY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlg0IxQwfNHej9uVrcxqTKPlKvpz31qPLPeGs
+82DYGJfSjBgUsr3GT5tV43eQ2mBFM8efs8XAVtnOFlIFvpjMfTUuJzdVVGpzMyRE
+y7b3Py7xn8ja4w5of+GxdQOty+mX4k1In+zxuiQ7fm3EvGaMXLW1+pswFn7xsw6G
+Xcwy9Szo0rGqxqFkYeugo6NSZ8gFEeZkcRnsyK3a1ONPI0aJx2RUbO88vb/mvauJ
+QUwvq/KSFfmqERz8/x5gt/7F234aVh9GHO5zZzEHIZFbufzvibUvP1l9FjC+hWIg
+XcHJ6IdHtbiE+o4nnYuYAESNK0EblI29sXv6QSpmErXFC30OFwIDAQABo4IBWDCC
+AVQwHwYDVR0jBBgwFoAUrDLtWsng3jCckFhVJmP2cqZUX+MwVwYIKwYBBQUHAQEE
+SzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ3cuc3ltY2QuY29tMCYGCCsGAQUFBzAC
+hhpodHRwOi8vZ3cuc3ltY2IuY29tL2d3LmNydDAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMBIGA1UdEQQLMAmCB2JveC5jb20w
+KwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2d3LnN5bWNiLmNvbS9ndy5jcmwwDAYD
+VR0TAQH/BAIwADBaBgNVHSAEUzBRME8GCmCGSAGG+EUBBzYwQTA/BggrBgEFBQcC
+ARYzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5
+L2xlZ2FsMA0GCSqGSIb3DQEBCwUAA4IBAQA47Tgm0lQPltl7j3tuFt88z3+autkx
+UGHHgUEcZnjnmcIN0viphuwiEOCCawXpqD+uUcJO+dZG/z8tlEH6jKWBUx4RiaKi
+hur7ipoeXOL5nepUY4E7xHwwhcxbZpfJTS6mux2136yUfpA3gx4TO9fvUN9vb/1r
+nLHJqzZpLtlkhEmo0kprBSXBZpCaTuacBxbnUDsMEzIXSZEPO0AmRw48u91W2uMB
+0B1VtmHiHHXYIlXb+IdF+DyacreMzwoFSbp4FkuX5Kw67ryqD320q0aVeQtmRfrV
+T53v2cYol9+Ma4WaFbp7gsGpGeEZ4fbTglUM52F0Rvlmu9drV+p027sq
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=Los Altos/O=Box, Inc./CN=box.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G4
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2870 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 002D91E2CE7CA84CB8B1C9529053F8BA9F563E12A35D51A03BF5F5AE64A78880
+    Session-ID-ctx: 
+    Master-Key: DA31D483C9A006EB742A2E7D0AEB2CD9DCF2F20EBC62666516E457875A43BB3419018C059D22298D70525637430A07A7
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 1c 5e 00 ab 92 dd c5 09-96 d3 78 ea 20 c2 39 12   .^........x. .9.
+    0010 - 1f 18 2e c1 26 99 b0 f8-bc c2 f9 22 40 d7 f8 18   ....&......"@...
+    0020 - 67 68 0c 47 b2 2b c4 5c-b3 d9 8e a6 40 70 c8 45   gh.G.+.\....@p.E
+    0030 - b2 e5 06 1f 18 af 5d 32-f4 0a d3 35 e8 82 4d e2   ......]2...5..M.
+    0040 - 2b c4 b9 42 08 a9 4f 87-7b 21 90 4d 64 0f 35 da   +..B..O.{!.Md.5.
+    0050 - d0 f4 75 d7 ed ca 3c bb-7f fe 4a 62 e3 01 2c b7   ..u...<...Jb..,.
+    0060 - 51 d9 03 52 7c 97 45 0b-65 e5 9d 67 25 59 16 8b   Q..R|.E.e..g%Y..
+    0070 - 08 c8 5b 75 77 f4 ef ed-98 0f 80 23 46 50 3e 53   ..[uw......#FP>S
+    0080 - 2b 6a 4f a0 44 35 a0 e7-ef 39 6f 64 3e 5c 8c 3d   +jO.D5...9od>\.=
+    0090 - 24 59 58 08 ac 76 88 dd-40 1e 72 4d 41 8f 98 06   $YX..v..@.rMA...
+
+    Start Time: 1472788303
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

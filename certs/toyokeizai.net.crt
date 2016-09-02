@@ -1,0 +1,69 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=JP/ST=TOKYO/L=CHUO-KU/OU=Digital Media Bureau/O=TOYO KEIZAI INC./CN=*.toyokeizai.net
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXTCCBEWgAwIBAgISESFRBSsBGvw0XQ4JqrjIrWMRMA0GCSqGSIb3DQEBCwUA
+MGYxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYD
+VQQDEzNHbG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hB
+MjU2IC0gRzIwHhcNMTYwMTA0MDcyNzE5WhcNMTcwNDAyMTQ1OTU5WjCBhDELMAkG
+A1UEBhMCSlAxDjAMBgNVBAgTBVRPS1lPMRAwDgYDVQQHEwdDSFVPLUtVMR0wGwYD
+VQQLExREaWdpdGFsIE1lZGlhIEJ1cmVhdTEZMBcGA1UEChMQVE9ZTyBLRUlaQUkg
+SU5DLjEZMBcGA1UEAwwQKi50b3lva2VpemFpLm5ldDCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAJrNTU+coyzeh+KKZXDgj3LnwUzgoPpNeSBqGus4dooN
+meEhOG8jZkBX9m0R13VhvlpGrYsFafNEsBCAY+Ly+I24uOEpnMieQk8YEmMZNkRg
+O1K2HWhsCGSbJEXDh1bouTciDyLotlOlo5izsSJDyzeI9qAXt6wefpNdsNPSdlJL
+yPeGxsfl8zoKExwo64te9rI4fHxUNVR5z+96vtcQD56hHo7jBAtFS36kcdakXUSp
+hL5VRFkpOudZ9xaElhcNNkXrUcjBQZZ3rC7wrrlCgwBHCsgLLJ/3Z8x+eZ7ZCMD7
+exUwOuHlxlNNX3/mShnqWiKdU+qU/at1nBgxAZNrnnsCAwEAAaOCAeQwggHgMA4G
+A1UdDwEB/wQEAwIFoDBJBgNVHSAEQjBAMD4GBmeBDAECAjA0MDIGCCsGAQUFBwIB
+FiZodHRwczovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzArBgNVHREE
+JDAighAqLnRveW9rZWl6YWkubmV0gg50b3lva2VpemFpLm5ldDAJBgNVHRMEAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHR8EQjBAMD6gPKA6
+hjhodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29tL2dzL2dzb3JnYW5pemF0aW9udmFs
+c2hhMmcyLmNybDCBoAYIKwYBBQUHAQEEgZMwgZAwTQYIKwYBBQUHMAKGQWh0dHA6
+Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzb3JnYW5pemF0aW9udmFs
+c2hhMmcycjEuY3J0MD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDIuZ2xvYmFsc2ln
+bi5jb20vZ3Nvcmdhbml6YXRpb252YWxzaGEyZzIwHQYDVR0OBBYEFKjg27chnUtl
+x5Z06+0oi+veDX1iMB8GA1UdIwQYMBaAFJbeYfG9HBYpUxzAzH07gwBA5hp8MA0G
+CSqGSIb3DQEBCwUAA4IBAQCefNfXhwU8TeV16DgCjSjCUEEW+dIuNzC+bSn6vfO0
+l+kKEk1JbGFnFnR/muRvakvEXBnv4WhICmBoqAtcvL+bbpcesHlf9MZ+f4rCEiqM
+OoIcPc3af0dLSGz+qXB7+aN53PZubsNmYbKKJmEsU7gjKkxdOKsTsKNeh9OgmERJ
+vDDtn9UWDThdxBdyJWxB4nx0iv6gUK4o1QF9RU5mhI7KDNlmnv7wvXRPN2S3uX1e
+qnk1A1nK/oGKk79+qHPBUU8K/Sd4S1+asm1Vz2q1G+kRuunwD+135AyEOw4KnCEs
+wX0PhavNu9PicNOewZE46xIfJ9O/Nnvz9zFgJLVYnPq6
+-----END CERTIFICATE-----
+subject=/C=JP/ST=TOKYO/L=CHUO-KU/OU=Digital Media Bureau/O=TOYO KEIZAI INC./CN=*.toyokeizai.net
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA1
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3050 bytes and written 458 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-SHA
+    Session-ID: 42A7EEEB200AEA6515529A4A4D9A5E76B6ACEBA8D73E5C11BD88CA97E92809DF
+    Session-ID-ctx: 
+    Master-Key: FEAC0B0D3FFC1E0F2923B03E4BD18674B311FA2B4F59316BAAB3E6775F3F046B17D9B96F01D138DCEFD24EC4EAAB11BD
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790524
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=SE/ST=Stockholm/L=Stockholm/O=Spotify AB/CN=*.spotify.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFEjCCA/qgAwIBAgIQDFMYzv30iP9dpA13e+TpEzANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTQwNDE1MDAwMDAwWhcN
+MTcwNjIxMTIwMDAwWjBiMQswCQYDVQQGEwJTRTESMBAGA1UECBMJU3RvY2tob2xt
+MRIwEAYDVQQHEwlTdG9ja2hvbG0xEzARBgNVBAoTClNwb3RpZnkgQUIxFjAUBgNV
+BAMMDSouc3BvdGlmeS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDAFO1/7ifGmWr0cgK4dmDP0IikDF4wZOvsATiodXXHxipVnL/q6jJ7laB3nBxQ
+VjC3WwgDydyyTlUnBerHh/mfsGUA4YgPn7bnktpF53P0XUdmCTugu9PmjXZljVM3
+a0HcSHcqY1Atp6AEyBegNbbD60KyaUlFiRtaSGwa69I/p3aKgilKiz4efNeaTYf+
+tPMltbxE3iuZvxyBmw9YPZjP7SmU329rIqWrMKdVQnKAJUwUQwzYdbojX9FfvsIm
+qxrVJpxcd8NbeBDQYnZVJVOzrlHE3/Uwxj6WOlXvG5NWHf04NHwetl0vnmypY/fq
+EaM+su+k4Y01XB6DdJrIRp75AgMBAAGjggHXMIIB0zAfBgNVHSMEGDAWgBQPgGEc
+gjFh1S8o541GOLQs4cbZ4jAdBgNVHQ4EFgQUYvYxxOse9pafxo9FYs45DiErG1Qw
+JQYDVR0RBB4wHIINKi5zcG90aWZ5LmNvbYILc3BvdGlmeS5jb20wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBrBgNVHR8EZDBi
+MC+gLaArhilodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWcxLmNy
+bDAvoC2gK4YpaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nMS5j
+cmwwQgYDVR0gBDswOTA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6
+Ly93d3cuZGlnaWNlcnQuY29tL0NQUzB8BggrBgEFBQcBAQRwMG4wJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEFBQcwAoY6aHR0cDov
+L2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNlY3VyZVNlcnZlckNB
+LmNydDAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQClD9ke4Lf0YvIA
+wMIRIFlAuoohU3r23NUnad3tHqaRQqVCFa+nQbIO49Gfg5wcAaW+NI61NMhegfwS
+/OeXJ0xiElMTQ83W+GQvrXuUoRUqX0t+yFK4tj6LJcGW8hJJKdNaKtZGF2xaTveE
+JW6DJEFs7hm2wbi5dmMrP6KEP+oyhgUzX3Olb31dSNbRFiFNLJ4FN4GhoUQpO7yI
+FQfSR/h/SeEW40FsZ83sSie5Zfduz6l/l+Pmm0IWhAEHzPgvKfFvyfVHY7Zg3O7r
+Muc1yVmfIf5bjRrEFGpknKffwIuw/d9zJU2ad78dh4FWDHnoo5CRv9MVtJ+5fqL0
+FOTpdYzr
+-----END CERTIFICATE-----
+subject=/C=SE/ST=Stockholm/L=Stockholm/O=Spotify AB/CN=*.spotify.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3156 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 8E884E25130DB11BAFFEDE47D08C293F618B411CD75A84DE2407B449AA7B297C
+    Session-ID-ctx: 
+    Master-Key: 6943A9C2911341D8E27B0CC4999B76E6E82C053A6B767C568542D848165F7B16309F9FF79AA12527DB91EAFE2BCB740A
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 90 a1 21 27 90 c8 7d 87-42 69 93 f3 6c 62 66 d5   ..!'..}.Bi..lbf.
+    0010 - 3e c6 75 cb a2 f4 e3 51-51 60 1d 03 74 90 7c 1f   >.u....QQ`..t.|.
+    0020 - af 19 d7 d8 cf 2f 72 a4-94 2c cf 8c 62 9d 45 42   ...../r..,..b.EB
+    0030 - 31 1f f8 fb 15 95 c0 be-93 41 41 67 45 ff 2f 8d   1........AAgE./.
+    0040 - a4 be f9 29 85 d1 63 0b-21 e0 11 c9 23 cb 10 b5   ...)..c.!...#...
+    0050 - a6 14 02 d6 d6 e6 53 d9-49 73 88 86 0f 86 c3 4d   ......S.Is.....M
+    0060 - a5 b6 c3 8e 0e 41 42 2b-e1 56 02 91 f8 57 a7 86   .....AB+.V...W..
+    0070 - 01 2a 77 20 e9 f2 c3 4e-fc 6b 88 7d 65 43 98 41   .*w ...N.k.}eC.A
+    0080 - 78 2f 9b d8 38 83 c2 e8-32 a2 7c b6 b5 a2 2d da   x/..8...2.|...-.
+    0090 - 67 60 68 56 5f 44 b8 58-f8 e3 da 56 28 d3 9d a2   g`hV_D.X...V(...
+    00a0 - e6 2d c6 e4 19 3c 80 45-78 17 92 8d e7 f4 77 ab   .-...<.Ex.....w.
+
+    Start Time: 1472788077
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

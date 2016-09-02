@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=www.dpreview.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEkjCCA3qgAwIBAgIQA4wXMj/8QTnTZvATKU8pzTANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xNjAzMjIwMDAwMDBaFw0xNzA0MjIx
+MjAwMDBaMBsxGTAXBgNVBAMTEHd3dy5kcHJldmlldy5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQCXs9S+zSRta4+GU2+0FRDzhYGXvFVkstYiByji
+EU5qc3ktWHqImBbtQy7X9JR3bEy6+VrVQeqZuzgXfZ1lJrRDy7wRvfAUuJgRbTS7
+M2gVWqXrUOYeVH+GH9rpZX75iruOnSKPllI3UzLrhcgkoi9AxgQ0QmIdC+2rnw9h
+hx328rY2kqapKc8HH/U838d9YWrYPD0q/pYqipBWvtDEFSc5z7M1aKYoMHaYGOQw
+NsJB+Qb2IRmtiAwn1B5fxisrDy9Vn4kS6rPfPI4t5QZGerN25wg5gP562d1vfdVV
+ZOkKJgd1SC+tQ2+GxGIzHnjiNcuX10iA99KWjuLW8WHUuKyJAgMBAAGjggGlMIIB
+oTAfBgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUnJ1C
+Pyug3Y4J3JGQBNwWaf4AGeIwWQYDVR0RBFIwUIIQd3d3LmRwcmV2aWV3LmNvbYIO
+bS5kcHJldmlldy5jb22CFGNvbm5lY3QuZHByZXZpZXcuY29tghZtLmNvbm5lY3Qu
+ZHByZXZpZXcuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5zY2ExYi5h
+bWF6b250cnVzdC5jb20vc2NhMWIuY3JsMBMGA1UdIAQMMAowCAYGZ4EMAQIBMHUG
+CCsGAQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3Auc2NhMWIuYW1h
+em9udHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnNjYTFiLmFtYXpv
+bnRydXN0LmNvbS9zY2ExYi5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsF
+AAOCAQEAqwpLFkluAQy6Vo4EwLzgKw4xxH69+f+F2UfA+eAYT8F5SCbnV4tIw0X2
+SIwlY+2wuYEI1buqXVlC8x6A4vuCdtBxt1ATPoJJa9QTlMCJt53hnDUcWKCbhoOP
+3j/P2LjVOWwp5iTgJeTLSDcW6h1hC6CXn6BauaJKK27sFXvlH3Z31QRzAhM7W+oK
+EZQxg3CUBZMUcCg/qN/dti8ITiNnWcFC9RBPOvaCCl3tQVWHoB5YCSv+N1rNzDkS
+8xOOkA59R0dgouTpKAvQJngoKx8ipTmFBWOdCtfSfA4PZf24QekfMizeB/PM0aGO
+zSd5xzxJAFfS9B4oBVhP7HlfSdAJzg==
+-----END CERTIFICATE-----
+subject=/CN=www.dpreview.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5257 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 46DCD99C894974A1D13FBC78861A66A7BFB4508690A7CB466FBA3F3E464D12AD
+    Session-ID-ctx: 
+    Master-Key: 935FFF60E2A2AEDC23E211F855363520BB9728BCECD4167C032F57537161264D43C3A17C334682D9DB27F9EE18FB3511
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - fe 07 f2 3f ea 07 0c 58-39 0b a9 2d 33 82 36 2c   ...?...X9..-3.6,
+    0010 - a6 61 54 bc fd 23 0d db-40 d2 bf 44 30 75 c5 61   .aT..#..@..D0u.a
+    0020 - c8 37 32 db 0e c1 35 19-08 8e 62 8f 5a 25 81 58   .72...5...b.Z%.X
+    0030 - a9 47 59 dd 0d 31 e7 7a-b3 b1 44 a0 dd 4f 15 3f   .GY..1.z..D..O.?
+    0040 - a5 ac 14 d9 46 7f f9 4e-9b 39 e8 d1 36 6b 25 0c   ....F..N.9..6k%.
+    0050 - 5c 21 79 06 f6 04 12 d7-dc 9d 25 c0 90 1c df d7   \!y.......%.....
+    0060 - 6b 11 0c 97 eb 38 67 f2-9d 1b 88 65 e2 47 9a 08   k....8g....e.G..
+    0070 - 41 41 51 f3 68 ea 29 8c-06 9b 1d 01 87 96 e7 2e   AAQ.h.).........
+    0080 - 6f 8b b6 fd 52 38 a3 8f-21 11 11 d6 28 3a 53 c5   o...R8..!...(:S.
+    0090 - cd 0b 63 8b 30 26 16 4a-2c 0c f6 a9 ce aa 86 09   ..c.0&.J,.......
+
+    Start Time: 1472790421
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

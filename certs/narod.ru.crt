@@ -1,0 +1,83 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=*.ucoz.net
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYjCCBEqgAwIBAgIQYAJm5sO23QQQUXxrjrDrAjANBgkqhkiG9w0BAQsFADBC
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEbMBkGA1UEAxMS
+UmFwaWRTU0wgU0hBMjU2IENBMB4XDTE2MDMxODAwMDAwMFoXDTE3MDMxODIzNTk1
+OVowFTETMBEGA1UEAwwKKi51Y296Lm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAMLAvJCgVyuzY/t8+4GyOzVyLNhv/G9rVdo0bilYbm68SKGbbusT
+52/AGMAxsi3Viab6SkYn1CgdP8VcymWmfm4P65LCy0kzZaCbwuzZb9ag0SZsWcZo
+5ExExspMaK3rQo5uRIoRbJokskf93znGJC/2sliqrdxzbaUsU7OXI6DWvkGG4yFX
+MX7bongVU9kXZGtHFig3tm+9HPURzmB2BT3X7iFG3sPq2G1D4jCum/mjdG3JYEYC
+N1GWEqhxjeKkCzLOyVaKqbGE3LHYPqK5MLi3sQDSQJYA0IS0PbGySz2846sm+HIC
+unfQ7SUfnq0WmqesC95zaBXjHTcHpnITE/MCAwEAAaOCAn8wggJ7MB8GA1UdEQQY
+MBaCCioudWNvei5uZXSCCHVjb3oubmV0MAkGA1UdEwQCMAAwKwYDVR0fBCQwIjAg
+oB6gHIYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcmwwbwYDVR0gBGgwZjBkBgZn
+gQwBAgEwWjAqBggrBgEFBQcCARYeaHR0cHM6Ly93d3cucmFwaWRzc2wuY29tL2xl
+Z2FsMCwGCCsGAQUFBwICMCAMHmh0dHBzOi8vd3d3LnJhcGlkc3NsLmNvbS9sZWdh
+bDAfBgNVHSMEGDAWgBSXwidQnsLJ7AyIMsh8reKmAU/abzAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsGAQUFBwEBBEsw
+STAfBggrBgEFBQcwAYYTaHR0cDovL2dwLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYa
+aHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcnQwggEEBgorBgEEAdZ5AgQCBIH1BIHy
+APAAdgDd6x0reg1PpiCLga2BaHB+Lo6dAdVciI09EcTNtuy+zAAAAVOKiRCqAAAE
+AwBHMEUCIQDToG21KnrnSDovodiwPygmaP3y3Ta7AK05BQWs/ViZBQIgVjpRRFp/
+zJ2uQcyyr0R5r96C2npRXY5QY//VrA8Coe0AdgCkuQmQtBhYFIe7E6LMZ3AKPDWY
+BPkb37jjd80OyA3cEAAAAVOKiRDdAAAEAwBHMEUCIQDzbuZhJWJQG7QlmA9IFRVV
+bx2HhuGGKlURG/G9kUvP8wIgHzXkZ1m0/kCDLGcUlF6DXXZefgPgi7W2dafzQUa2
+3wswDQYJKoZIhvcNAQELBQADggEBAAjfyPHfqxxt9BUvEn++YVUQuPVqDmDMoWXF
+6/dQVOrxqM2qqkqcQ1QOLxpfn193kSIzrBWsIbFQ4LJUBVEmz4+wJKMiRGEgztiW
+gVAkvE2pLu84NKSgJ2NpE5iNgYIGKLxcmd9RQPGB49F9lK+wm+IdtUfzt6dj/ZeG
+uYA73EeKtwkwrkJv2P0ClePnhUuDLeFpRQWmouUgTWfD6zcSZMp8h89DFwGIB2FB
+pZqQtn06GECoY6TbJXtM3QMEHzM2CDMDggCBL1GxCmdsoNNtwQu1wuv2WhenWYJZ
+o0y6ABqRyMPVDcFgeaknz19ELAhaw+W+9i0gGBo9J4d4WZxnTvc=
+-----END CERTIFICATE-----
+subject=/CN=*.ucoz.net
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+---
+No client certificate CA names sent
+Server Temp Key: DH, 1024 bits
+---
+SSL handshake has read 4211 bytes and written 506 bytes
+---
+New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : DHE-RSA-AES256-SHA
+    Session-ID: 5E3FB3546737DBAEF5006CE193978B3B75CF3CEEF732A57235E22CA887E32AB9
+    Session-ID-ctx: 
+    Master-Key: E7DE5DD79CD57AA2F5CA856A507575016708B1780AB5997372DE8EE6D72DE3D9EFA0875E262F498C033C4728138BAAC3
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket:
+    0000 - 03 01 ce 0d 20 f0 34 ba-11 10 6e 36 d9 ca e7 b0   .... .4...n6....
+    0010 - 0f 21 31 0d f3 88 e6 a5-43 eb cb b7 ef d6 3a 3b   .!1.....C.....:;
+    0020 - e7 1a b1 f0 b7 60 f8 b5-dc 1b c5 e2 3a 97 ee dd   .....`......:...
+    0030 - ac f8 98 50 77 18 1f fe-0c 30 4e 3d 81 3a 00 ed   ...Pw....0N=.:..
+    0040 - 16 91 31 5f 54 db e7 03-56 34 88 f2 2d ed f4 c6   ..1_T...V4..-...
+    0050 - 2c b0 a6 ca 4a 7a e0 43-1e 5d 0e 45 86 e2 09 1e   ,...Jz.C.].E....
+    0060 - b8 d5 ff d2 49 a1 86 c7-ad a4 a0 45 12 ec 93 0b   ....I......E....
+    0070 - c1 a2 0d 80 ef 59 22 61-b1 83 cf 89 d5 4e 5e 15   .....Y"a.....N^.
+    0080 - ae 9a 77 ad 6e c4 e5 f5-3b f9 24 db f9 db 86 0c   ..w.n...;.$.....
+    0090 - 26 09 f1 cb cd 38 d5 b7-e1 c8 f1 78 af 94 95 9d   &....8.....x....
+    00a0 - 37 7a 12 34 fd 5b 18 0c-18 e5 3f 47 0f 11 b3 62   7z.4.[....?G...b
+
+    Start Time: 1472790031
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

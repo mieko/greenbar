@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=San Francisco/O=Imgur, Inc./CN=*.imgur.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFHDCCBASgAwIBAgIQB2F9xG+jsAduXDaIhVFTijANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTMxMDIyMTIwMDAwWhcN
+MTYxMTEwMTIwMDAwWjBmMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+YTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEUMBIGA1UEChMLSW1ndXIsIEluYy4x
+FDASBgNVBAMMCyouaW1ndXIuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAw2+YtU+2m0YoCOU/EQwm7h71CiBAYEBN1e6qTxs70g0huXyjkKVQtVcb
+0JT+F8fuUDg5SqLRykrB8xQOS80lQf6htwyPlmJ5MRPTB79vu9AlxpjUMQQn0fcD
+Hc9Ww99ZXB1g4fKv9VDOu2EOFqnBjriKAKlxXpcKcjdfgK6vDlhpgBPjNf8Kqcdi
+LxR4g985I65cSGmKnvxUrhgDLyIgYGenIB3mq60qhnmF6dSPOoxSTFKVZoFLyKO+
+esXRojk2b79YXm9FKoPdOIKWaS7+xnGsT5i1oRNjkvWssFjnVWT0qk6s0qbM1Pb3
+Tyuz32/NC363IkibLAgdDpf+gRHgOQIDAQABo4IB3TCCAdkwHwYDVR0jBBgwFoAU
+D4BhHIIxYdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFAzv6bYsEuspQlAtLRHaIdck
+ysngMCEGA1UdEQQaMBiCCyouaW1ndXIuY29tgglpbWd1ci5jb20wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBrBgNVHR8EZDBi
+MC+gLaArhilodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc1LmNy
+bDAvoC2gK4YpaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nNS5j
+cmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6
+Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwfAYIKwYBBQUHAQEEcDBu
+MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYBBQUH
+MAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJTZWN1
+cmVTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEA
+zb9/WKXK65o8tRVeEfjVe4QoegdGFoK6TdCBX+cJ7tgH72G96zkdtmNnOXfPzeiX
+JhAdenlx3huC797SeCLaIXA5WqRVrTs+6gGtrN7XvoD3BdrZlIUGTc1rYaZqK3bj
+J56WaCv1G2Mst6Q8CzoPtQvwPeqFwNV+hSPoM0PEX1BCbk9GPahKGBajB3Fb6Hrh
+7vr/STMiVN0O+/PEGugRnvLVAOs1Pvwbgr1co1JRml5gF5Tk0UU1relUtN6DI/ol
+1+AA0FEdtYpf4EEf5BcBKFBCWdzULo9WZL5spOOGoO/Vtd2Uaxm0WoofAYJr+Pyg
+DQc/yX/cbdf1u/erjc9DEA==
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=San Francisco/O=Imgur, Inc./CN=*.imgur.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3150 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 6FC3E5CF9F13160C7AD6116850ED34F0AAC19FEA5EE3F374E86EE80DAB76D5B1
+    Session-ID-ctx: 
+    Master-Key: DA5F0F5328FA6828039C59360441D5C1C5F6B2B6065712A598061AFC20AA0331C21890361A2AB631DB8AA2AAB7D2AF3F
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 1200 (seconds)
+    TLS session ticket:
+    0000 - 63 cc 77 4a 00 db 2c 42-2e 8f 76 23 dd a9 ae 53   c.wJ..,B..v#...S
+    0010 - fc 65 be e5 a2 bc 7e 82-84 6e 6f 7b a3 da 54 00   .e....~..no{..T.
+    0020 - af c4 c0 30 90 dc 32 61-59 90 bb b8 33 a0 1d 35   ...0..2aY...3..5
+    0030 - e5 c8 91 5c 8b c5 db 18-b6 bf a8 a8 71 74 22 64   ...\........qt"d
+    0040 - f5 43 47 e5 01 42 52 70-38 b7 b0 07 a6 67 36 ca   .CG..BRp8....g6.
+    0050 - 4d 8c fa 43 59 ad bf f5-74 0c 79 3d a2 0b c7 be   M..CY...t.y=....
+    0060 - e6 f8 b8 dc 2b ae d3 60-68 79 fe 6a 28 44 1f 14   ....+..`hy.j(D..
+    0070 - c6 00 58 04 c5 b5 77 7a-aa 7d 64 77 76 45 26 e5   ..X...wz.}dwvE&.
+    0080 - ce af 7e c3 4f 74 37 bc-5c 91 ee ac 66 79 8f 28   ..~.Ot7.\...fy.(
+    0090 - 21 41 13 b6 be 55 74 28-dd 42 31 08 08 a4 ed 11   !A...Ut(.B1.....
+
+    Start Time: 1472787860
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

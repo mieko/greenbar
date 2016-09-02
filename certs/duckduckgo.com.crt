@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Pennsylvania/L=Paoli/O=Duck Duck Go, Inc./CN=*.duckduckgo.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLDCCBBSgAwIBAgIQB2Iv6dCP5WCX3FlDtnPLAjANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTYwNTI1MDAwMDAwWhcN
+MTcwNzI2MTIwMDAwWjBsMQswCQYDVQQGEwJVUzEVMBMGA1UECBMMUGVubnN5bHZh
+bmlhMQ4wDAYDVQQHEwVQYW9saTEbMBkGA1UEChMSRHVjayBEdWNrIEdvLCBJbmMu
+MRkwFwYDVQQDDBAqLmR1Y2tkdWNrZ28uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA8kXCvP/4ZG+KRA5uVDx11W/yH4dump9ZmMAadRAarh7mc2Ys
+4SWoU2+S8lInXgB0QZsFDi/Ncx8dyuVDAv3QnAM6jx6ip7m1/Dwhn1rfInTBn3sS
+G4WrLNSXaPcXiTBeFLFb5Q682oR7zOLVXifaRRcoyZ5+OiEdSaYniaahn5sirT84
+z1xcMxOBdVrJnE+m9ja01B+cJOEto201D9nyL2IJBMemK7vj5F5BucjsY07uj4MV
+YAYpHS6PnYAgci1+pcUFCSFlgDtSiVVatbU8uCAGsuHhX8SH0wpp8Cjuee5Ce5dK
+3ZjXQsFtUn2SEBUiWZ3ETCAmpdvz00O5Hvui+QIDAQABo4IB5zCCAeMwHwYDVR0j
+BBgwFoAUD4BhHIIxYdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFJimHVf78kx6h0xa
+4PGLV7CAtyATMCsGA1UdEQQkMCKCECouZHVja2R1Y2tnby5jb22CDmR1Y2tkdWNr
+Z28uY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29t
+L3NzY2Etc2hhMi1nNS5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNv
+bS9zc2NhLXNoYTItZzUuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYI
+KwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQIC
+MHwGCCsGAQUFBwEBBHAwbjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNl
+cnQuY29tMEYGCCsGAQUFBzAChjpodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20v
+RGlnaUNlcnRTSEEyU2VjdXJlU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwDQYJ
+KoZIhvcNAQELBQADggEBAIRVPd8qI+MJoyUKz8WoUr830oFWTsUF6qblMi8EIHtE
+14RsuhdALbnF7fISKn8M7QN02eQYHHC7It/4otyc0slU8tgHEkdz/hiy84wCvToK
+e+9aTfhwIUN3uifvyUu6I/33E0m3xtiz5S7oFlbn24Ilw4Piu2G8us7NJqrjKrIn
+A38g5DMAlEBQqjPpoagM3ee+dNO/pWVgwGQbfEQTUBKcNbJUX231wDhsEiV7Sb5s
+wBTUpO5/mqggeY1FYUUoYyqiVfDpr6KmQ2jkdTCx4IxE0LiqlYP/oFbJ9N1xMpX4
+ZcYH8JFDxZc3ZhDMQ8YEkJbap1YGACx/465BGx8uWrU=
+-----END CERTIFICATE-----
+subject=/C=US/ST=Pennsylvania/L=Paoli/O=Duck Duck Go, Inc./CN=*.duckduckgo.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3182 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: E7037EFF633507089F3D6CD7B0367FF6D75A163CA836D595A37E81A52B21C00F
+    Session-ID-ctx: 
+    Master-Key: C497BEB06380062D25F30EF2DFE5D35CCE548943DEBC1440D068EDBCF92AB987D956CAE9FC51731A770784BF0E197E91
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 1200 (seconds)
+    TLS session ticket:
+    0000 - 19 4a e6 79 d0 6d 9d f8-93 de d8 38 e1 ac e8 d1   .J.y.m.....8....
+    0010 - 2c 4c 76 93 69 07 bd c1-b0 62 79 87 8e 62 1d 57   ,Lv.i....by..b.W
+    0020 - 8c 2c 86 2d 5a e3 b6 3e-f4 bd 75 60 c4 64 23 ca   .,.-Z..>..u`.d#.
+    0030 - 6c 52 20 fb 69 b9 1c 0c-33 0d 68 22 81 6e c5 08   lR .i...3.h".n..
+    0040 - c9 4b 05 1c 20 05 29 14-2d 45 b4 c7 2d 1f 3c c3   .K.. .).-E..-.<.
+    0050 - 08 db 1e c9 b2 f6 9d 91-f3 6e 77 34 3e d4 a1 27   .........nw4>..'
+    0060 - f4 64 b7 1e 74 5c f6 d1-16 da c6 f1 15 66 3f 22   .d..t\.......f?"
+    0070 - c4 1c 43 ed b8 06 86 2c-f7 16 71 29 81 7f 2b 03   ..C....,..q)..+.
+    0080 - 0a 25 3f 31 5e 00 f7 8a-dc e3 41 d0 4a 1f 93 b6   .%?1^.....A.J...
+    0090 - b8 96 08 be d4 ab e5 97-9e c5 f2 e0 2b 2a 2d a4   ............+*-.
+    00a0 - 68 b6 a2 71 1e 8f 16 5b-ba 8b b3 b8 9e 8b 04 e9   h..q...[........
+
+    Start Time: 1472788583
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

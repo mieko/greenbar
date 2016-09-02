@@ -1,0 +1,68 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=MA/L=Woburn/O=Acquia Inc/OU=Acquia Hosting/CN=*.acquia-sites.com/emailAddress=ssl@acquia.com
+   i:/C=US/ST=MA/O=Acquia Inc/OU=Hosting/CN=acquia.com/emailAddress=ssl@acquia.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIC/DCCAmWgAwIBAgIBBjANBgkqhkiG9w0BAQUFADB1MQswCQYDVQQGEwJVUzEL
+MAkGA1UECBMCTUExEzARBgNVBAoTCkFjcXVpYSBJbmMxEDAOBgNVBAsTB0hvc3Rp
+bmcxEzARBgNVBAMTCmFjcXVpYS5jb20xHTAbBgkqhkiG9w0BCQEWDnNzbEBhY3F1
+aWEuY29tMB4XDTA5MDkwMjIxMDIwMFoXDTEwMDkwMjIxMDIwMFowgZUxCzAJBgNV
+BAYTAlVTMQswCQYDVQQIEwJNQTEPMA0GA1UEBxMGV29idXJuMRMwEQYDVQQKEwpB
+Y3F1aWEgSW5jMRcwFQYDVQQLEw5BY3F1aWEgSG9zdGluZzEbMBkGA1UEAxQSKi5h
+Y3F1aWEtc2l0ZXMuY29tMR0wGwYJKoZIhvcNAQkBFg5zc2xAYWNxdWlhLmNvbTCB
+nzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzFWggr3W7HPdoR1P6ljwiOiuYxeT
+YRy1qETt8eYszUdAdRt58FnNa0OF73kaw3KFO71zBvfZrI0DRhLqwpRrQMfYHCDs
+zNybRoCN1j36b0vDXB6mzn4p2IHC2lYCR1/LZw6MIgeOZkbplEKhu8V9RHWWckr5
+FqLltdCq9zbqL5UCAwEAAaN7MHkwCQYDVR0TBAIwADAsBglghkgBhvhCAQ0EHxYd
+T3BlblNTTCBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFCa/f76YGWHg
+rnImM/qXvic/amZtMB8GA1UdIwQYMBaAFGklkSi71ZHhzJiiHPu2/0WJRjhIMA0G
+CSqGSIb3DQEBBQUAA4GBALVy/EZRrf2Lqxm69ulcBYDcA71G5Eem7Oh04c8gj2Cs
+nV55lF3aAOLk8Nv+zFQUIAbDOujrvz4ByFUMPJFxLguJ6VkcvcTE+raBiu4811ha
+Ypc0RTs3HCGtNIZt/xUSn7UjlQr6asixGNsmJB0RsgDsdbGVZD2m8QcJ3tMIxgZI
+-----END CERTIFICATE-----
+subject=/C=US/ST=MA/L=Woburn/O=Acquia Inc/OU=Acquia Hosting/CN=*.acquia-sites.com/emailAddress=ssl@acquia.com
+issuer=/C=US/ST=MA/O=Acquia Inc/OU=Hosting/CN=acquia.com/emailAddress=ssl@acquia.com
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1315 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 1024 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 688E7C91FB865FC8CD121318BE29D0B2866853815FDCBFFE5CC95256E5299B9F
+    Session-ID-ctx: 
+    Master-Key: 8C9103821F42E837A1125FFC254D410107A5C068CEC4A739EA410719CAE204ED0FA2B63701E08B413F8B14575DB39A08
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - ad d6 93 da 40 48 56 14-c3 8d 96 0a c0 31 0a 05   ....@HV......1..
+    0010 - 93 1e 02 a3 70 0f 45 60-11 98 55 f8 43 8f a6 97   ....p.E`..U.C...
+    0020 - 47 3e 16 3b 16 ae 31 fa-e2 93 fe b9 20 99 73 50   G>.;..1..... .sP
+    0030 - 65 11 93 05 6e 3d 53 52-6a 99 9b 4c c1 3a 66 9a   e...n=SRj..L.:f.
+    0040 - c5 67 16 88 fc a7 31 51-a3 7c 56 a8 2c e6 eb 08   .g....1Q.|V.,...
+    0050 - 86 d9 17 a1 13 33 89 6c-67 f9 f2 e9 f2 6d 3f 5a   .....3.lg....m?Z
+    0060 - 3c e4 76 a7 08 36 c9 40-6d 0d f1 20 30 d5 cf c6   <.v..6.@m.. 0...
+    0070 - 60 bb 42 83 fb 97 87 6d-de 65 57 ee 68 83 f0 ab   `.B....m.eW.h...
+    0080 - cc d8 0d 3d dd e7 1c 11-eb 4f 22 2d 4a 3f 79 f4   ...=.....O"-J?y.
+    0090 - 09 b2 e7 dc ae 59 54 f2-52 2c 09 1d 15 17 98 e8   .....YT.R,......
+    00a0 - c0 a8 fb 3a 6c 83 1c 14-fa fe f5 ed c8 db 07 aa   ...:l...........
+
+    Start Time: 1472789880
+    Timeout   : 300 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

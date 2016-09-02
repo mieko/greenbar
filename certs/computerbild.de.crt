@@ -1,0 +1,64 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=DE/ST=Hamburg/L=Hamburg/O=COMPUTER BILD Digital GmbH/CN=*.computerbild.de
+   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEwzCCA6ugAwIBAgIQFkOk2vDcVAuZCLVCDAI9QjANBgkqhkiG9w0BAQsFADBB
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
+aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUwMzA2MDAwMDAwWhcNMTYwOTIyMjM1OTU5
+WjByMQswCQYDVQQGEwJERTEQMA4GA1UECBMHSGFtYnVyZzEQMA4GA1UEBxQHSGFt
+YnVyZzEjMCEGA1UEChQaQ09NUFVURVIgQklMRCBEaWdpdGFsIEdtYkgxGjAYBgNV
+BAMUESouY29tcHV0ZXJiaWxkLmRlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAlCuma2hr3Y7iTFLj0wqouuOKFt3l5lWyBoBeFh9JcrnmmHT/Q+4jTXhk
+rZnbN+Vm+hekcR+KDbFiCphkLx6vEfHi+oE8/ZBkcnCCt9BuApo1jmpyc6q+Njtl
+aJEVELx0yarMolj+fuN6e8wJzGVDU9od+2DszsVCASqTMI55OIp2ZbFur4M8ztx2
+L8mKwbtIV2N+KPwzwPamJo4ghPRtztCjmIYeT6U8mt9bq3mnT9XYonfhzN7G/LCv
+1xBoVfCq4B0d1uSTHYrW4X9Gz/hDQ4Qq3+pcUvwtZamiqUZRVjamwUUqOPSUmClc
+Jo6sn5jj0lwtWic231cVeTRC25A55wIDAQABo4IBhDCCAYAwLQYDVR0RBCYwJIIR
+Ki5jb21wdXRlcmJpbGQuZGWCD2NvbXB1dGVyYmlsZC5kZTAJBgNVHRMEAjAAMG4G
+A1UdIARnMGUwYwYGZ4EMAQICMFkwJgYIKwYBBQUHAgEWGmh0dHBzOi8vd3d3LnRo
+YXd0ZS5jb20vY3BzMC8GCCsGAQUFBwICMCMMIWh0dHBzOi8vd3d3LnRoYXd0ZS5j
+b20vcmVwb3NpdG9yeTAOBgNVHQ8BAf8EBAMCBaAwHwYDVR0jBBgwFoAUwk9IV/zR
+T5rAXTh9DgXb2S61UmAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL3RqLnN5bWNi
+LmNvbS90ai5jcmwwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsG
+AQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3RqLnN5bWNkLmNvbTAmBggr
+BgEFBQcwAoYaaHR0cDovL3RqLnN5bWNiLmNvbS90ai5jcnQwDQYJKoZIhvcNAQEL
+BQADggEBADNGEbaGHuEfPhSUjccO/Pq2hhdXqtqGnv0EmX68ZnCDWjjiHrjYC0n0
+/jgUldQDJkTFuRzBVUjIRHC4f+qS3qYLiRI9VdEcL9DzV9QPSwbW8srz2ixn/vnX
+vR7JwhP/gDRR0cvehd2JeSu2VsVTP2AXmcASmDS8Qi88seQDhEXQ4082+YQkit5V
+qUC/FDda8BTuWAAvD6cvbVZdmyOlYU8UYXiK7ezUIQdAaZTk8EQr2l5ijv1rkyo8
+DDllK5BzcpVfDH+w0kygNENL7hQyW3Vw4Sr3qlNuMFX9RIr3i1eqB0UhY/D3LVde
+2gyAnDoT2QnchkJGEu5XsmbHPCElYOw=
+-----END CERTIFICATE-----
+subject=/C=DE/ST=Hamburg/L=Hamburg/O=COMPUTER BILD Digital GmbH/CN=*.computerbild.de
+issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+---
+No client certificate CA names sent
+---
+SSL handshake has read 2633 bytes and written 666 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES256-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-SHA256
+    Session-ID: 57F828D31709A6F1F84C09B8DF9031FACDCBBD45A2DC075B7E33F83C05B7F6B4
+    Session-ID-ctx: 
+    Master-Key: 8C4537A8E0676AAC8377C86006BA5B078EBC5790617AF3AA263D9BB837A816C95A4E3903BB57846167A1169D1406D8AF
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790493
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

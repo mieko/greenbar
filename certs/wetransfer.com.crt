@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=NL/L=Amsterdam/O=WeTransfer BV/CN=*.wetransfer.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFCjCCA/KgAwIBAgIQCyxOJAGue+G/USIR1wRFcDANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTQwNDEwMDAwMDAwWhcN
+MTcwNjEzMTIwMDAwWjBUMQswCQYDVQQGEwJOTDESMBAGA1UEBxMJQW1zdGVyZGFt
+MRYwFAYDVQQKEw1XZVRyYW5zZmVyIEJWMRkwFwYDVQQDDBAqLndldHJhbnNmZXIu
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtkS17d4xbtguivpJ
++QyWicwgOBJvgnhuMtXPfx+BZv94pCTA8dda6TxhgGtZqNfTWo0hZ+G3ajIaptpr
+By/i7nfYPirbnRjrhTK/TVV292ifGK4IZAeiBA4fmQHoK9kK4Ii7Ee1TFZhhz2yc
+8pDZWWE0DUcOjDBdOwFQGAJbq/CNVcqZI3WCpL2yi98BSZCWu2arwRq9Ar4OVF8b
+LdPft+sZ2t/5GlGm7ZfSorVBWAjIi2sxSfYCu6alXDJhx8CBZqgojo8d732d4LT8
+xef7k+A2GhvFvGVUd725WO93fjyltYtqDkZq+Ge14EZkuQdmHOQmy0vMjTi/+UwW
+PYPaQQIDAQABo4IB3TCCAdkwHwYDVR0jBBgwFoAUD4BhHIIxYdUvKOeNRji0LOHG
+2eIwHQYDVR0OBBYEFOHvAccOXLKAfqGGLVkfu2WnINfvMCsGA1UdEQQkMCKCECou
+d2V0cmFuc2Zlci5jb22CDndldHJhbnNmZXIuY29tMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4Yp
+aHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nMS5jcmwwL6AtoCuG
+KWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzEuY3JsMEIGA1Ud
+IAQ7MDkwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRp
+Z2ljZXJ0LmNvbS9DUFMwfAYIKwYBBQUHAQEEcDBuMCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRz
+LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQwDAYD
+VR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAs6a1KmQDyi11LsJUPG04d57y
+xsFncjTWRta3hQl1OvgaNRS1b6qUy4SriBzEM/uWSG4PvVt8dGEdil+0IFY2cqMY
+rx7K6nz4ge4RsYbtCBTnp+mhgV3gh7DpjmWiArdlTXQgh8kmwf41kr44NydcGDCD
+yU8g6zhP4ptcgSTruIgEebs7BXhT1eh8XUFxx8UtC0loDNc+yxv5VfHQtU6JHiHL
+J8c2k6A2hsl5N0EjAHoW20LULUX+9juSlTa7+B+5Rz2rmsbAMS70kbdVddkmWeGp
+cm50LHs71su+tDmiOK56SO84HKw9LQzzO3uUnR1uqWVgNS643pEK5COKWpLNZg==
+-----END CERTIFICATE-----
+subject=/C=NL/L=Amsterdam/O=WeTransfer BV/CN=*.wetransfer.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3127 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 61FFE4BF3A226C7F4C877F80EAC4FFAA47F7B2D9727C68BD09BF0FDA8CFB267A
+    Session-ID-ctx: 
+    Master-Key: EBD53FE14FB991F357A8B39FB80C46176D739F8B49B9CCA4F6FBFBD54F6D249AE6AB5344B1A660231ADE774E64CEAA84
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 1c 1c 01 ec 9c 32 1e 8a-37 5e bd 20 e6 c5 7c 76   .....2..7^. ..|v
+    0010 - a2 ae ec ce a6 a0 bf 29-99 d7 a8 98 b0 1e 91 13   .......)........
+    0020 - 2c de 9a ac 16 0b 18 84-6e 1f 92 20 bd f6 c8 52   ,.......n.. ...R
+    0030 - db b5 55 ff 6d fb 88 5e-a8 01 1e 4e 72 8a 57 66   ..U.m..^...Nr.Wf
+    0040 - bb 01 5e 35 90 59 26 6d-eb 74 24 9d 93 33 ca 54   ..^5.Y&m.t$..3.T
+    0050 - d8 e3 74 e5 7d 58 93 f1-ea 78 56 8b fc e9 7e 9a   ..t.}X...xV...~.
+    0060 - e2 48 5c aa 55 9b 90 57-c3 35 44 ef 75 de 1a 84   .H\.U..W.5D.u...
+    0070 - bc db 60 24 ae bd 8f 77-f7 c8 29 93 21 8a 53 08   ..`$...w..).!.S.
+    0080 - bb cc aa 6e d5 e0 8a 6f-c3 83 7e 12 13 30 15 68   ...n...o..~..0.h
+    0090 - 97 8b fb ac b2 9e 39 b7-ac 56 2d 86 1a b0 40 0a   ......9..V-...@.
+
+    Start Time: 1472788246
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

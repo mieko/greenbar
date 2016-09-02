@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Georgia/L=Atlanta/O=The Rocket Science Group, LLC/CN=*.us1.list-manage.com
+   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+ 2 s:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+   i:/C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEvTCCA6WgAwIBAgIQZCD9tBBZvJixsMTDwi/WxzANBgkqhkiG9w0BAQsFADBB
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
+aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUwMzMxMDAwMDAwWhcNMTgwNDI4MjM1OTU5
+WjB5MQswCQYDVQQGEwJVUzEQMA4GA1UECAwHR2VvcmdpYTEQMA4GA1UEBwwHQXRs
+YW50YTEmMCQGA1UECgwdVGhlIFJvY2tldCBTY2llbmNlIEdyb3VwLCBMTEMxHjAc
+BgNVBAMMFSoudXMxLmxpc3QtbWFuYWdlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAMV6fSj3VIfIiv2Hag+mVIR3vALuw+7SGo4coMGIo3Qkjecm
+omednw74+nnbq5ZIh4Dbpr4tntqK9T2/wP+v1hXuD6rQc/jrPN0ZkAg9q3Rfis2o
+zUfjv4HHwGUqtaOM83gnFtGaJ12dSxJm9NIkqglVgBQO0LgQM3KexKcV/b6oCF6K
+UHFYpJW/byglDnNlfkjXuyHSR5dFfkMsklwzkpXfHXHF+qL4E/z7WQ1r0lof/h2h
+nZ5+VuGk70Q7GnYTHkPkXIFUAvxVtyyHZ6Pqm9mpRQ7inqWQ7lBEbA5yo4oCOWtu
+6RMarobwm8GzQlUnB91cJebpjyMFDqiPExnomHsCAwEAAaOCAXcwggFzMCAGA1Ud
+EQQZMBeCFSoudXMxLmxpc3QtbWFuYWdlLmNvbTAJBgNVHRMEAjAAMG4GA1UdIARn
+MGUwYwYGZ4EMAQICMFkwJgYIKwYBBQUHAgEWGmh0dHBzOi8vd3d3LnRoYXd0ZS5j
+b20vY3BzMC8GCCsGAQUFBwICMCMMIWh0dHBzOi8vd3d3LnRoYXd0ZS5jb20vcmVw
+b3NpdG9yeTAOBgNVHQ8BAf8EBAMCBaAwHwYDVR0jBBgwFoAUwk9IV/zRT5rAXTh9
+DgXb2S61UmAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL3RqLnN5bWNiLmNvbS90
+ai5jcmwwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsGAQUFBwEB
+BEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3RqLnN5bWNkLmNvbTAmBggrBgEFBQcw
+AoYaaHR0cDovL3RqLnN5bWNiLmNvbS90ai5jcnQwDQYJKoZIhvcNAQELBQADggEB
+ACvdJXdTdlJiTmC6/Y2jX4n/1DLb/KcIvMfwcor1PeWsQCfRkgSRw8h4KEVMnzqI
+zoOW5yk+bjCFWhtCpno4cczFOpHMDEqZkE2tG7Lyc7fROIZNZTU82utIkoKxctDR
+s/USwGWpF14OAm1nBpKjzO1VnrJevfHRRIKv1sjAVz3wcSR1ZS0ISeVgoieBKoFZ
+nofxsikRer3srviQZDKAzQUJ2gYHHL8WpjajQ4V4iHpcO7PwcDNRj2QilDX/2Iu9
+SYQPWUuZXGrnfN+CJsXIoPNPdFBf25r1QLToSoarkeMlQoQcZVgd0bXUZ3c+5XR+
+lKX6RJPmsGP4JPfi40actW8=
+-----END CERTIFICATE-----
+subject=/C=US/ST=Georgia/L=Atlanta/O=The Rocket Science Group, LLC/CN=*.us1.list-manage.com
+issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4185 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 16E75CD7A904844C3F2919D23E45D3C5704D1CC97A9A88CEE16027899A9BB4B7
+    Session-ID-ctx: 
+    Master-Key: 6B31530F93938B5D0E73B3085E9D01A5DE2DB6AEAA72F27933DFFEA1BEBB14D98905D3010F4B897D70AC1C6E3919C6B2
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 40 9a 23 4e 76 84 cb 6d-f2 cd c8 44 3e 2e bd e4   @.#Nv..m...D>...
+    0010 - d9 6f e8 6d 12 02 ff 88-64 db 79 b9 7e 54 4a 85   .o.m....d.y.~TJ.
+    0020 - 37 2d ef 18 ed 71 4a 12-44 82 63 5a 52 f8 05 a8   7-...qJ.D.cZR...
+    0030 - b4 bd 07 07 d7 92 9a 6d-55 5d cd 4e 04 93 97 5a   .......mU].N...Z
+    0040 - b2 d5 93 1c 04 a3 d3 1d-12 44 48 7b f5 7a e4 ad   .........DH{.z..
+    0050 - 35 ee 35 16 41 de e4 ae-07 58 d8 13 70 dc 7a c1   5.5.A....X..p.z.
+    0060 - 83 dd be a3 4f 5b e0 0a-9b e6 73 c2 0b 70 35 bc   ....O[....s..p5.
+    0070 - 1b ee 8f b9 f5 1f de b1-49 70 14 c7 15 ec 30 12   ........Ip....0.
+    0080 - 51 96 26 97 36 0c 5d 14-55 c6 a7 5b 8f 0f 63 8c   Q.&.6.].U..[..c.
+    0090 - 3a 80 6d 36 4c c5 9f cb-7a a7 1e f3 25 78 a1 a8   :.m6L...z...%x..
+
+    Start Time: 1472788329
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

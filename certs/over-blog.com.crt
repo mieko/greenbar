@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.over-blog.com
+   i:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+ 1 s:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE/zCCA+egAwIBAgIQXMoGBNIJmVb5XX09mCbNXzANBgkqhkiG9w0BAQsFADBf
+MQswCQYDVQQGEwJGUjEOMAwGA1UECBMFUGFyaXMxDjAMBgNVBAcTBVBhcmlzMQ4w
+DAYDVQQKEwVHYW5kaTEgMB4GA1UEAxMXR2FuZGkgU3RhbmRhcmQgU1NMIENBIDIw
+HhcNMTUxMTI5MDAwMDAwWhcNMTYxMTI5MjM1OTU5WjBjMSEwHwYDVQQLExhEb21h
+aW4gQ29udHJvbCBWYWxpZGF0ZWQxJDAiBgNVBAsTG0dhbmRpIFN0YW5kYXJkIFdp
+bGRjYXJkIFNTTDEYMBYGA1UEAwwPKi5vdmVyLWJsb2cuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEApM3ThmHU1AfCX7Z70zs10FQRuYjD7gRIj0EU
+R5JOkDc5kSYFu/nxcs0Ikh016t8k4AKGnA1+Eszf3hUvFXYmIELBz3ebKV9mYgN8
+MuKrxbujmUdAWxfV+jdJrjbK+z6lt0ntZ9ynUSvSDXq2OnOfg0GHFWkL5EsxNgt/
+XYw25Ji2hT67eULfOdbOxn2y7PkNCG5z3LDXW1PjVGH7ziqTWn6Mk3vY3ayKvQ91
+j8qdmD/StMuw2onNqifSdBS/MlO2FTzrQOA6oY63vp4hJZWMt2jydxBpUaC3uenk
+zK9yyoLJRtkGY5NBu5dVu9oVKlDj+XZ3ya7126jSvzZXdGBZPQIDAQABo4IBsTCC
+Aa0wHwYDVR0jBBgwFoAUs5Cn2MmvTs1hPJ98rV1/Qf1pMOowHQYDVR0OBBYEFCJF
+SgJ9sX8h+iS3+lZ30CtkdwF+MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBLBgNVHSAERDBCMDYGCysG
+AQQBsjEBAgIaMCcwJQYIKwYBBQUHAgEWGWh0dHBzOi8vY3BzLnVzZXJ0cnVzdC5j
+b20wCAYGZ4EMAQIBMEEGA1UdHwQ6MDgwNqA0oDKGMGh0dHA6Ly9jcmwudXNlcnRy
+dXN0LmNvbS9HYW5kaVN0YW5kYXJkU1NMQ0EyLmNybDBzBggrBgEFBQcBAQRnMGUw
+PAYIKwYBBQUHMAKGMGh0dHA6Ly9jcnQudXNlcnRydXN0LmNvbS9HYW5kaVN0YW5k
+YXJkU1NMQ0EyLmNydDAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudXNlcnRydXN0
+LmNvbTApBgNVHREEIjAggg8qLm92ZXItYmxvZy5jb22CDW92ZXItYmxvZy5jb20w
+DQYJKoZIhvcNAQELBQADggEBABkw0YOLhX5prSIY36reXJ72VeaVM9bYT08uT2hB
+uDZ73sSMjjFAdO0mLCaFGUBr00zoIDVV3CAoIkNskNrzwHYGb91EF3tYDy4yRgTf
+N3CcmWJx+kxYuMbSleLhNg4pmF6nhNnU7XJYcf1kcc/jbMSXgRtK8ggSH61f9Bry
+fyAsV3I6bhanl+bVA2VEqNGL3+VKXneCliecFZkjed/HXs8+4IRooch2hQxgK1PA
+74Z/vN6E7/PEIw9o7cXvBehK5G7x4lw4EsgNN9zMWL8IFTGgrZ1mJmDGEBTMflfJ
+4fcIx/b3hqsPrBcVYFSW39uk4654wEFJjHj9dY36fSUvCZY=
+-----END CERTIFICATE-----
+subject=/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.over-blog.com
+issuer=/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+---
+No client certificate CA names sent
+Server Temp Key: DH, 2048 bits
+---
+SSL handshake has read 5311 bytes and written 634 bytes
+---
+New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : DHE-RSA-AES256-SHA
+    Session-ID: BCAD296C67BD18F760A2113B412884B12BD67C9AB3A5B731538242D3AA0FB007
+    Session-ID-ctx: 
+    Master-Key: A1A55D323C510520FBBA4D3912877304E0272A4D2C71DB53FAA4F1119741AF50B53729CF0FC0F8B7FD0D52FF65A14E9C
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket:
+    0000 - 12 ca 22 e5 89 98 9e 71-79 00 f3 91 cc 3c c4 7e   .."....qy....<.~
+    0010 - 45 ed 76 a0 77 fa 1b e3-ca e8 63 5d 6f 78 b1 3f   E.v.w.....c]ox.?
+    0020 - 02 1d 8f ae 6f 75 be 43-a4 ac 49 19 45 cf 59 d9   ....ou.C..I.E.Y.
+    0030 - 49 d6 84 32 c0 aa 8d 84-c0 ee 8c 6a 92 1e 72 e3   I..2.......j..r.
+    0040 - 79 1c 63 29 5a ce dd f4-26 52 2a 03 7b 36 41 f5   y.c)Z...&R*.{6A.
+    0050 - 4c d8 04 ae 2e 7e 77 3d-d4 da 35 11 22 47 49 5d   L....~w=..5."GI]
+    0060 - 98 b1 f4 3a 24 90 21 cd-73 94 e7 10 a7 0e 6e db   ...:$.!.s.....n.
+    0070 - 43 18 02 47 a4 3a e2 64-75 23 ef ba 5e b1 56 43   C..G.:.du#..^.VC
+    0080 - a2 27 e1 1f ac ee ce 36-65 c0 99 54 30 b2 e8 bd   .'.....6e..T0...
+    0090 - 38 e9 fd bf b9 b8 32 8f-6b be 49 5c b8 dd d7 14   8.....2.k.I\....
+
+    Start Time: 1472790463
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

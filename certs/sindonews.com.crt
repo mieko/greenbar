@@ -1,0 +1,84 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=*.sindonews.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFczCCBFugAwIBAgIQVtJ7ESSctScIdOg8IQK6OjANBgkqhkiG9w0BAQsFADBC
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEbMBkGA1UEAxMS
+UmFwaWRTU0wgU0hBMjU2IENBMB4XDTE2MDgxOTAwMDAwMFoXDTE3MTAxODIzNTk1
+OVowGjEYMBYGA1UEAwwPKi5zaW5kb25ld3MuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAzDjoVfrY2orpiIo+KN1k8zZHqMuDd0F+QJR/jwjLLpPN
+kEh/ubUUhBvBKWeSNoHn6Klz8xAftrsvoSu05FvgGm2rG/xSbWNlcneUpC2AL1/n
+Cq2baweoqs65E/O5AGm9PGXJoVEU7eki4Bgzxe96FwP6kDhEzGeeBR5r43Wj99kT
+oIU8b21kdmfFoQUMuPOTu14Ia1yvZ9NTImYNLAs9yUvLgSLDe7hDT5flpfzmQN/C
+LDmsbuqzj9mAl6NlAaZ6Hx/xlHG4cFNSlqa1fbVCEoXiu9jjWbd2UsrKauIVFQaH
+FRtnT5ZgiNIGWnxVWMf6AgxQnEjhHNFzkWyBIGlpcwIDAQABo4ICizCCAocwKQYD
+VR0RBCIwIIIPKi5zaW5kb25ld3MuY29tgg1zaW5kb25ld3MuY29tMAkGA1UdEwQC
+MAAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcmww
+bwYDVR0gBGgwZjBkBgZngQwBAgEwWjAqBggrBgEFBQcCARYeaHR0cHM6Ly93d3cu
+cmFwaWRzc2wuY29tL2xlZ2FsMCwGCCsGAQUFBwICMCAMHmh0dHBzOi8vd3d3LnJh
+cGlkc3NsLmNvbS9sZWdhbDAfBgNVHSMEGDAWgBSXwidQnsLJ7AyIMsh8reKmAU/a
+bzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2dwLnN5bWNkLmNv
+bTAmBggrBgEFBQcwAoYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcnQwggEGBgor
+BgEEAdZ5AgQCBIH3BIH0APIAdwDd6x0reg1PpiCLga2BaHB+Lo6dAdVciI09EcTN
+tuy+zAAAAVaiG6j0AAAEAwBIMEYCIQCEMK6j9GwvVOHthbpQ/RjFKd2cRb5SYxUO
+RJTr90mUDAIhAJhLxzIHgYJ3xxCi/6McsnsKGe5tAHkwBcubsiagGjo8AHcApLkJ
+kLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFWohuqawAABAMASDBGAiEA
+vv5CMkMOepstLTLk5wZIWxV2jxY43HoFNFPqVnjTTB8CIQD5hzH61mqxH/crrz/N
+BQpYl8W6LFSF4uzHao4DM8+cyTANBgkqhkiG9w0BAQsFAAOCAQEACz9Yqn2aOBlD
+VF93SpTRd42ZdgcenzJGZcP79Vf+lyviZOU1m7YOjDo2mvb4jr5002WnSHwO/qje
+zTFtgwQxY6WRp7XnQMh97BFzDL39v0Q+WFhEPt7FsUc8x08u0kTRIWRB2ZUoCCJb
+NridcQIvN3Izi2KAOMy8YMJII3f+j8ZFzrPLB4E13UjwRH3MXNa87shbRJXH7Vg6
+GDTO5j4u8ZIxZ9Le0Xz/VXjf25Wb/JfwKAv4LhTQMl04REhHT/VLqy0n5g2jlLgC
+Y3p/tV9ImXnGHIpamR2OVgBk6s7rrOCQYEgOcIO9ztbD3CVspweaYepfsDXSyU1S
+j5zuDdai1Q==
+-----END CERTIFICATE-----
+subject=/CN=*.sindonews.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3182 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: B2BC212A81ED02E900CE198051F2484BC41BFF1056FE36DAC4C5A0044F2B7FF8
+    Session-ID-ctx: 
+    Master-Key: 9732F5D0A7E851CF908387D30E35E6F8108DB9BF9390DB62C2C63F85C6925DE7CA2F19F2E78A4761824F394FC157B85D
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 4e fc fd 74 88 53 f2 85-22 65 44 57 e4 7a 52 98   N..t.S.."eDW.zR.
+    0010 - 98 97 9d 7f f0 9a d5 d4-27 5b 25 31 64 b6 01 78   ........'[%1d..x
+    0020 - bd 2e 75 05 16 4b 69 a9-1f f6 aa 3e fd 8c 6d 83   ..u..Ki....>..m.
+    0030 - fa 7b 90 09 4f d6 4d 09-71 09 cf 67 a3 01 1c f7   .{..O.M.q..g....
+    0040 - c2 0a f5 2f a1 95 5c d0-eb a8 60 12 e9 fe ac a2   .../..\...`.....
+    0050 - 4c 74 a8 60 33 fb ff 56-de 87 65 f5 a5 e0 19 48   Lt.`3..V..e....H
+    0060 - e5 86 69 04 0b ef 5b 8b-f0 a6 9d 4c 09 84 ff 28   ..i...[....L...(
+    0070 - 85 bd 2e 18 1b 56 e5 0d-03 70 b9 b5 6e e0 9f d4   .....V...p..n...
+    0080 - 14 f6 4f f1 c6 27 58 6e-fb f0 a1 3f 2b ee 6c 4d   ..O..'Xn...?+.lM
+    0090 - fc 1b 50 0b bd 05 e1 b4-7d c1 9a cf 41 20 2a d7   ..P.....}...A *.
+    00a0 - 35 15 01 3e 9d ed 83 fb-09 98 b2 6d 5d c5 a7 54   5..>.......m]..T
+
+    Start Time: 1472790097
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

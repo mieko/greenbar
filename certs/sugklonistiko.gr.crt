@@ -1,0 +1,73 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=*.mail.virtualservers.gr/emailAddress=virtualservers@kammenoi.virtualservers.gr
+   i:/CN=*.mail.virtualservers.gr/emailAddress=virtualservers@kammenoi.virtualservers.gr
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDjTCCAnWgAwIBAgIJAKlw9Kmig20gMA0GCSqGSIb3DQEBBQUAMF0xITAfBgNV
+BAMMGCoubWFpbC52aXJ0dWFsc2VydmVycy5ncjE4MDYGCSqGSIb3DQEJARYpdmly
+dHVhbHNlcnZlcnNAa2FtbWVub2kudmlydHVhbHNlcnZlcnMuZ3IwHhcNMTUxMjIy
+MTExOTA0WhcNMjAxMjIwMTExOTA0WjBdMSEwHwYDVQQDDBgqLm1haWwudmlydHVh
+bHNlcnZlcnMuZ3IxODA2BgkqhkiG9w0BCQEWKXZpcnR1YWxzZXJ2ZXJzQGthbW1l
+bm9pLnZpcnR1YWxzZXJ2ZXJzLmdyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA0H+c5qNcN2gL/jqwz3hta3ldYMC+QRcd2oScvkm1KV5q3jf8fLuZrqHV
+nnVTYLX1iQm0nbAeytkySw22p4XI6fVwftbVW+daNqkOs9HMCJJUxRGQl0mgk7e1
+jc0g4MmhAQtirzkBoUbMETsDadTJf3R/T/Z/esq9snVcHue4hJgY46oFvCcdOvR8
+Ff1+u4ErfWBMrk3yL50cVohCrtA8R0UhTA9rLkelsiCDylCL2nplNqpFUvSNfpUQ
+iqJG1T16MwKvJqeOzuGQdj4NeAfNH1XvQfEV+3DsUFggVMcrhGYM7f9/n0oPZn3e
+jwdZ1rgGBahRJ/WQgsIz5DKwknH5rQIDAQABo1AwTjAdBgNVHQ4EFgQUaXTdVy69
+4PKi+fFYyc6ima+2q3cwHwYDVR0jBBgwFoAUaXTdVy694PKi+fFYyc6ima+2q3cw
+DAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOCAQEAdzQnLrd+OiS4P23BaXLD
+qWLdRGSVAF8dvlv8xoolUnYiHTZraH9onAE77lH6VM6M2zAth8FeRo50SbfHe0hE
+Y60KSOSaI5p20CUjr72XL5WTrYZXpzeDZxAIg7oUxevFLmG47mZUQJIRDCT9lI78
+BE9uIbnDO0UdanKhWuGQqFPxCTJO2Rsz0v6ZK8nOTqO9BEH0dFqzxQlezAhvgjWV
+dZfkrlOu8I6h4tDi4rxcz/PizcU+jvbHQ3uc5ta+D567nxNlUHX8aXE8qX1/ctUh
+uakS2F/1fED751HGi42yPgeisNja3puLlIXVfenQxlrjd5KHNgoqa6NYz2vhpdJ3
+0A==
+-----END CERTIFICATE-----
+subject=/CN=*.mail.virtualservers.gr/emailAddress=virtualservers@kammenoi.virtualservers.gr
+issuer=/CN=*.mail.virtualservers.gr/emailAddress=virtualservers@kammenoi.virtualservers.gr
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1604 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DC00E1A7C76F3628DAABD53F67697CC2BEA30D179DF6BD7D6A2750B5EDA70360
+    Session-ID-ctx: 
+    Master-Key: 765712A02AE487681975DB5804A8BFBA1AD8C4417A9271AA984277364FAF383A20715DE929B1BB0A281479F4E0CDD18A
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ad 4a 89 9e 72 75 8d 6e-22 65 cd aa 2b 8b bd dc   .J..ru.n"e..+...
+    0010 - ea ef a4 04 96 de b5 50-66 b9 83 c8 fb 8a e1 33   .......Pf......3
+    0020 - 40 3a 3a 48 c7 b3 90 52-29 18 d4 6a f7 54 a2 5d   @::H...R)..j.T.]
+    0030 - 12 5c e1 28 a8 ac f6 d4-25 48 7d ef 59 cf 58 20   .\.(....%H}.Y.X 
+    0040 - 1b d1 e5 9a 64 37 80 09-1b 36 cd 0a 7d 2c 7c 9f   ....d7...6..},|.
+    0050 - 4d e0 cb 23 33 f0 e4 d4-40 d5 27 4c 66 d3 b4 e3   M..#3...@.'Lf...
+    0060 - a0 76 47 8c 77 d4 b8 86-cc 8b 29 2d 3a 95 2a e0   .vG.w.....)-:.*.
+    0070 - ba 23 b1 11 3a 37 68 a5-c9 71 c0 93 8a a0 8e a7   .#..:7h..q......
+    0080 - 58 f9 7d 84 53 69 42 90-fa 99 50 d5 24 0b 74 9b   X.}.SiB...P.$.t.
+    0090 - a1 65 f2 4e b3 cc c5 3e-d2 a9 dc 4b c0 69 ae 2d   .e.N...>...K.i.-
+    00a0 - 16 2f 2e 1e 9a 9c 45 3d-b1 bb ef 00 ab 89 f4 c7   ./....E=........
+    00b0 - a2 e7 ba a5 87 9b 56 2f-02 b3 15 be 09 f2 a3 e9   ......V/........
+
+    Start Time: 1472790267
+    Timeout   : 300 (sec)
+    Verify return code: 18 (self signed certificate)
+---

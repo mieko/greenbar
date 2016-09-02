@@ -1,0 +1,84 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=*.adsb4all.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFbjCCBFagAwIBAgIQDocUaZS89ru7ew+5hJHgbTANBgkqhkiG9w0BAQsFADBC
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEbMBkGA1UEAxMS
+UmFwaWRTU0wgU0hBMjU2IENBMB4XDTE2MDYwMzAwMDAwMFoXDTE3MDgwMjIzNTk1
+OVowGTEXMBUGA1UEAwwOKi5hZHNiNGFsbC5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDJJQkc4ldTv2dThNbdm5Yv7t8JlBZlgBC9NrDRp3oNR4Oy
+ZozHCqicm2xHQZFJA0abcYE1lAfPzrJIZ/6D/EXMZwOnZ0HL5WaDkTghLiTOKLGZ
+TWYDuUAssj2uKGDuwZkvKIpvkv4+Tb05KIdF9PUGzlD0hsxBWG1zbWkt/eywg+CC
+c4mZfK2JL8l53h29hujQo8T9KKebaKOVy/RcovXcLwquOM2YjmeakESWRqELG8Ud
+1Me+1Ilq9etU/XNaiZeGSKFwIPiOUdH6s/OgR11TpeaRTEiKPQKY5afefJLYP+fB
+9iVyQiJ2FZRUjnSkAwK9E2qnGApLO/q/s+kCNtgJAgMBAAGjggKHMIICgzAnBgNV
+HREEIDAegg4qLmFkc2I0YWxsLmNvbYIMYWRzYjRhbGwuY29tMAkGA1UdEwQCMAAw
+KwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcmwwbwYD
+VR0gBGgwZjBkBgZngQwBAgEwWjAqBggrBgEFBQcCARYeaHR0cHM6Ly93d3cucmFw
+aWRzc2wuY29tL2xlZ2FsMCwGCCsGAQUFBwICMCAMHmh0dHBzOi8vd3d3LnJhcGlk
+c3NsLmNvbS9sZWdhbDAfBgNVHSMEGDAWgBSXwidQnsLJ7AyIMsh8reKmAU/abzAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcG
+CCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2dwLnN5bWNkLmNvbTAm
+BggrBgEFBQcwAoYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcnQwggEEBgorBgEE
+AdZ5AgQCBIH1BIHyAPAAdgDd6x0reg1PpiCLga2BaHB+Lo6dAdVciI09EcTNtuy+
+zAAAAVUV7cFgAAAEAwBHMEUCIFtfWy2IgeS3WNMAjpMu1AtVzFRt/SBQigtqgiEH
+PBiSAiEAtHWPwH08gWNhXHUkM4P3dlVL6q5aodb7Ortg1hQfqdIAdgCkuQmQtBhY
+FIe7E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAVUV7cF8AAAEAwBHMEUCIQCYg92/
+Fa56yIbiES0EvTFctrO+2hsAAMznUNWg9euPNgIgEr3Vigbg+l6w6OBx1lR8uIzw
+46tWENHtdcaHlSHL+3swDQYJKoZIhvcNAQELBQADggEBADYNbPH70JOdZf2tCwkL
++vr6Ji28V8liqNyVmT+2D0ZmZXg76c2NJmOgmbaFWGYzZka9Pd68r9U9XhYldcpv
+1DZAFxQ/o2YNK0VlGSQjUdZSY7CFuwovTawSVzLpr2TuYbYdcR8xcB34JxEr9L1L
+aLp5Re61TtvIaGtiFDzR6SmDNcZjZJhrrI3+Xap9KWt23BDKe7ktprEKFJjDN6Rf
+q8KxZ2ImVlXU1YAL5urKoBznWL2rc5JG6q7OESKynbxjhE+7TP6q/Is/wSXiugoV
+noqnMt4vUhC0rl9MpyLJXET2h/bmr81EK3MBGt3znH1P9lzLCWRebL5wtcLKRMx7
+/yM=
+-----END CERTIFICATE-----
+subject=/CN=*.adsb4all.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3177 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DCF5C0EACB9D53847770BC0BF40154915C5718CAB1D2A72432835B4F301DA665
+    Session-ID-ctx: 
+    Master-Key: 1D2719918210AF6A40F0A6744A28ADACEBD1EA07FA3C353793CF83D2B85FC2657EFEF582A2A9A5A9D5B7FCFBFEB1A6FE
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 69 df c5 31 73 e0 22 03-ce 5f e2 e4 4a 09 e4 63   i..1s.".._..J..c
+    0010 - 26 5c 84 ac 63 0b 8d 71-a8 33 27 01 b9 4e 02 81   &\..c..q.3'..N..
+    0020 - 7a 03 73 62 3c 38 23 30-e4 cf b5 1f b5 1e 05 7a   z.sb<8#0.......z
+    0030 - 35 5a b1 5d b7 61 09 6b-49 fc a3 c3 ff 63 00 79   5Z.].a.kI....c.y
+    0040 - 20 9b 2f 6a 97 dc 2d 02-2b 80 03 c3 27 a9 4b e2    ./j..-.+...'.K.
+    0050 - 9b 87 d7 e9 42 9b 6d 16-e2 6a 41 bb 8f 2b eb 6f   ....B.m..jA..+.o
+    0060 - 91 3c ae 34 ca 32 80 b8-e3 f9 a2 5c 32 96 16 1d   .<.4.2.....\2...
+    0070 - 3e 2b c9 4b 8f 8c 9f 32-bb c4 d1 41 2b 52 96 50   >+.K...2...A+R.P
+    0080 - 87 16 a6 04 f1 21 5a f9-5e 0d 4d 0b 83 1b ba 48   .....!Z.^.M....H
+    0090 - 81 d9 94 45 4f 96 02 ac-82 39 6a cc 30 94 3d 32   ...EO....9j.0.=2
+    00a0 - 18 dd 87 91 f1 0c 0b fd-21 9d 2e b0 7d bb 02 fc   ........!...}...
+
+    Start Time: 1472788435
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

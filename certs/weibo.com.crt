@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=CN/ST=Beijing/L=Beijing/O=Sina.com Technology(China)Co.,ltd/CN=*.weibo.com
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6DCCA9CgAwIBAgIQKxO/evFOsX9AbX7gQPGt9zANBgkqhkiG9w0BAQsFADB+
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
+IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDgwNDAwMDAwMFoX
+DTE3MDgwOTIzNTk1OVowczELMAkGA1UEBhMCQ04xEDAOBgNVBAgTB0JlaWppbmcx
+EDAOBgNVBAcUB0JlaWppbmcxKjAoBgNVBAoUIVNpbmEuY29tIFRlY2hub2xvZ3ko
+Q2hpbmEpQ28uLGx0ZDEUMBIGA1UEAxQLKi53ZWliby5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDdSO1TuXdZSiY15ExhCjevY07pHMJAs1UhcHV6
+YUP+AuhfItMPNH6fgQoFX3kUcQBLfh7Yut/RagCmYMkKF1l96V3MqBU1ZiT7CfGc
+gNYAxPp4/bhq5yP0muQoteh1J8uRXcJszH1d/LmlP6mQwQdxsX/UMLaxItMnmb9b
+3BdTlRKINFyUhhQ9z8BA+VT4Fcwlh5uI1akL7c0bKlZOmpkzGg2bEQc+gh7vDOOS
+eLOaBZ/E2PN5cKYoratp9GZCbD55Oz8g64OmZ+VD0frXgqauzOkg4+GqNqOq6j1H
+ZZZ4k7eHZuefyxabEkRsoNSXN2cf1dmfUXLjqdBPZBBbYdSpAgMBAAGjggFrMIIB
+ZzAhBgNVHREEGjAYggsqLndlaWJvLmNvbYIJd2VpYm8uY29tMAkGA1UdEwQCMAAw
+DgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9zcy5zeW1j
+Yi5jb20vc3MuY3JsMGEGA1UdIARaMFgwVgYGZ4EMAQICMEwwIwYIKwYBBQUHAgEW
+F2h0dHBzOi8vZC5zeW1jYi5jb20vY3BzMCUGCCsGAQUFBwICMBkMF2h0dHBzOi8v
+ZC5zeW1jYi5jb20vcnBhMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAf
+BgNVHSMEGDAWgBRfYM9hkFXfhEMUimAqsvV69EMY7zBXBggrBgEFBQcBAQRLMEkw
+HwYIKwYBBQUHMAGGE2h0dHA6Ly9zcy5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0
+dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3J0MA0GCSqGSIb3DQEBCwUAA4IBAQBf9FHQ
+8rXbCX3QGtxgg0MwUmJd6rYb6uhtkHrMetk+zyWGncYf1wwlvzaJ94pXZ9Fgr6xP
+sxvAVzHy/qjodRhPn9ptB5ofn5OhWiig2dLs+MOaHS9D+KB7PNWLq7bc4VX1F5oj
+3KQTMyj7Q6tttYrDaytZwAibzdj5bSOhSrhMZeHw3khfvveLCivGgvC0ht7xHMhk
+RIdpgJG1Z55Car2ISxvkHfYeXgtW5px/SRVyq3wdF1WylpfR0Ww11tJwKPNDJg7S
+qxcFgRWq9GB1F5S0xhnqTekymOoed4dNyBG6BoMNw+wFgP+V6q5GPKTkpsgTt220
+JU6rJb4YXRXrJpaV
+-----END CERTIFICATE-----
+subject=/C=CN/ST=Beijing/L=Beijing/O=Sina.com Technology(China)Co.,ltd/CN=*.weibo.com
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+---
+No client certificate CA names sent
+---
+SSL handshake has read 4151 bytes and written 622 bytes
+---
+New, TLSv1/SSLv3, Cipher is RC4-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : RC4-SHA
+    Session-ID: 1B219F2224A6CEF0D80A758E19DAF881993B239398AE915E4547DC12D60019CF
+    Session-ID-ctx: 
+    Master-Key: 86F3FE3994B707995BE7A18EB5C379010AAAEC0619DF17EBADAD0FD3521AA2D6F8364E779B6D98DA2D627061EAB39667
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7d a1 23 05 6f a5 46 3a-4b 4b 07 60 b7 4f 0e ee   }.#.o.F:KK.`.O..
+    0010 - 81 8b 0b bc 3c a5 d2 33-0c c2 8d 1f 24 db 86 63   ....<..3....$..c
+    0020 - 62 a5 80 8c 37 09 48 f3-d9 b7 0d 36 66 b4 74 20   b...7.H....6f.t 
+    0030 - 3a e9 ef f7 1c 77 6c 06-e4 48 57 bc b2 1b 2d c4   :....wl..HW...-.
+    0040 - c8 a0 61 b2 d1 1e 58 53-79 14 08 2b 2f 1a cb 6d   ..a...XSy..+/..m
+    0050 - fc f8 be 4c ce e9 f1 f7-2d a5 f0 e8 97 de f4 cd   ...L....-.......
+    0060 - 92 e5 fe 3f 86 55 e8 b9-10 06 4e 24 6e bb bb c0   ...?.U....N$n...
+    0070 - f1 80 c7 12 51 ee d7 6a-e2 df 3b 2d f1 93 67 a0   ....Q..j..;-..g.
+    0080 - f5 a6 ce af fb e1 58 2f-df 62 47 56 bc aa cf 5a   ......X/.bGV...Z
+    0090 - 7c c8 5d 1d ba 67 7f f7-d5 57 52 1f c7 e7 62 05   |.]..g...WR...b.
+
+    Start Time: 1472787827
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

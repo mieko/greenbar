@@ -1,0 +1,77 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=www.aparat.com
+   i:/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G4
+ 1 s:/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G4
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEZTCCA02gAwIBAgIDAuQNMA0GCSqGSIb3DQEBCwUAMGYxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMR0wGwYDVQQLExREb21haW4gVmFsaWRh
+dGVkIFNTTDEgMB4GA1UEAxMXR2VvVHJ1c3QgRFYgU1NMIENBIC0gRzQwHhcNMTUx
+MjI1MDYzNTUyWhcNMTcwMTI1MjExNjA5WjAZMRcwFQYDVQQDEw53d3cuYXBhcmF0
+LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMNhqMjHFerbb428
+qdA4Dt8UlOzwD4iQ4nKSlryxf/1m2BatHc6yMTw5REI+Ttm+04ZzFcyEN4RUKs3b
+aAFLnU9yld33slfvbg4PayoUwlbrHLIfis1Y1ymeQ2+8+zpZAhdU88s1kxYuvEvt
+fVl5hOy2YRCU8NIedJJsENcZuROn0RqygwNmiYiOJx7VzO9BVS3Lrn9cnS+sxKvd
+Oc1WUfFxHNgsBW6F04xbUuFfdxXhHlqGVv7eZ267EQFQRj1dyxffBGMNCJqxVkgw
+Qv0H/XNm0TdvQdTLdMvQ8RNCPOgKQVuMfe4U7u6PiRws/Zeu/RYZ15G/dednTbEs
+VQnVc98CAwEAAaOCAWcwggFjMB8GA1UdIwQYMBaAFAtQ7HfvKpv/7AOhCv+txuQq
+GMc+MFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2d1LnN5bWNk
+LmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL2d1LnN5bWNiLmNvbS9ndS5jcnQwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAlBgNV
+HREEHjAcgg53d3cuYXBhcmF0LmNvbYIKYXBhcmF0LmNvbTArBgNVHR8EJDAiMCCg
+HqAchhpodHRwOi8vZ3Uuc3ltY2IuY29tL2d1LmNybDAMBgNVHRMBAf8EAjAAMFYG
+A1UdIARPME0wSwYGZ4EMAQIBMEEwPwYIKwYBBQUHAgEWM2h0dHBzOi8vd3d3Lmdl
+b3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDANBgkqhkiG9w0B
+AQsFAAOCAQEAOs79Tn9SRbF7Oe1Zjn45BUu1eu7Hg3xY56kjuBDaSUsyRqrXgT08
+MuUhHzuB26qSC1RInCeGvI2Y81icNgc8lpbrDOVChFh1gmIGeu1SziQ4QgxWzE5J
+kPEDfXa0gqmgQd5rFpOvSAv3TpKF8mfGIAUspFUiylriF4E9/qr35ZdS/LiKhDLL
+gc8swguUSXzGnTFkSrDeuJ0qXsInVACHbkXFk6VeGtvaGS4gf2Mw98n9Ruwhqz2M
+ajHhMYHOr/nc/wUzEGFY92dMsfvF0dajkKppXygOfyMo3jk9zlEkbGYPfeV44KWj
+6roB58KNE+gTj5bAF7upzmSGND9vo+dcPg==
+-----END CERTIFICATE-----
+subject=/CN=www.aparat.com
+issuer=/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G4
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2887 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2C10F02F571E9E136F6A690315B65C0C21A90D02763B29FD5B90FD8A830564B6
+    Session-ID-ctx: 
+    Master-Key: 1307BDCF8E166D70CE34A9C4C60FDF640A9A8445B94451D43BDC71F02690052485B58F2028F4ED0AB0A2171992A949C5
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 68 36 c1 e7 a8 a9 46 83-ba fe 20 f0 11 64 c8 55   h6....F... ..d.U
+    0010 - d6 06 17 06 e1 08 2f 41-f0 48 ba 54 c7 9c cb 95   ....../A.H.T....
+    0020 - 16 35 ee 04 8f 06 93 67-3e a7 13 c7 97 c4 dd 45   .5.....g>......E
+    0030 - 2c 04 39 d7 f9 a6 c0 c7-11 e8 a1 0b 48 da fe 44   ,.9.........H..D
+    0040 - 20 b2 37 d6 db 0f 0c 47-40 64 d4 3f 61 b3 39 e1    .7....G@d.?a.9.
+    0050 - 0c bd 4a 9b ca 35 cb 21-62 4b 8c 4b 16 67 62 85   ..J..5.!bK.K.gb.
+    0060 - a2 e5 46 88 a7 fa 1e 17-7a 21 d8 50 b9 2c 8d fa   ..F.....z!.P.,..
+    0070 - 09 37 61 88 dd f3 d1 fe-c8 b9 63 df 2d 85 9c ec   .7a.......c.-...
+    0080 - 33 8f 48 0c 90 9e 5a 78-c4 50 d0 af f3 25 2d a7   3.H...Zx.P...%-.
+    0090 - 1b e1 c1 1f 25 e9 9f 31-31 f3 2f b0 de 69 9f 61   ....%..11./..i.a
+
+    Start Time: 1472788414
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

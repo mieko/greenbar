@@ -1,0 +1,79 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=GT91339487/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.1fichier.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G4
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G4
+   i:/C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIErDCCA5SgAwIBAgICCRAwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCVVMx
+FjAUBgNVBAoTDUdlb1RydXN0IEluYy4xIDAeBgNVBAMTF1JhcGlkU1NMIFNIQTI1
+NiBDQSAtIEc0MB4XDTE1MDgxNzAxNDEyOVoXDTE3MDUyNTEwMjI0NlowgZIxEzAR
+BgNVBAsTCkdUOTEzMzk0ODcxMTAvBgNVBAsTKFNlZSB3d3cucmFwaWRzc2wuY29t
+L3Jlc291cmNlcy9jcHMgKGMpMTUxLzAtBgNVBAsTJkRvbWFpbiBDb250cm9sIFZh
+bGlkYXRlZCAtIFJhcGlkU1NMKFIpMRcwFQYDVQQDDA4qLjFmaWNoaWVyLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALFaL2qh+Cygjikx7ZKd8o3O
+ZS8dgn8xKFFZElKLjEMmlvBCwOWer+2QKv3mya2U5/P1o6Wb7aMqAlAlpAmwSGee
+DWM9rk4ptnfp/RUfqYxl8MjSz1WbthhR9gvpNlKxKZp5j+RNjLcdXMtIlOlAvr2T
+dY4kH3tds+VrVQiJStQOCXqNss4oJWLXEErcKCqPr07cgDMm8GRurm3FLOek3QN5
+fI/Jby1uGCfw+KfgRyRGi3YmktmYBYEOJkemjmh5jy05MyNccQ6dQrSXS6BTAJHB
+8EsPOCABXpQ8CfO/O/qT1ns5dnu8kekgNhioPPYth/oDFYVVaSApgrl9LQfMxKkC
+AwEAAaOCAVQwggFQMB8GA1UdIwQYMBaAFPO1VgzECbC0zx+q+d0jVvB36KH5MFcG
+CCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2d6LnN5bWNkLmNvbTAm
+BggrBgEFBQcwAoYaaHR0cDovL2d6LnN5bWNiLmNvbS9nei5jcnQwDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAnBgNVHREEIDAe
+gg4qLjFmaWNoaWVyLmNvbYIMMWZpY2hpZXIuY29tMCsGA1UdHwQkMCIwIKAeoByG
+Gmh0dHA6Ly9nei5zeW1jYi5jb20vZ3ouY3JsMAwGA1UdEwEB/wQCMAAwQQYDVR0g
+BDowODA2BgZngQwBAgEwLDAqBggrBgEFBQcCARYeaHR0cHM6Ly93d3cucmFwaWRz
+c2wuY29tL2xlZ2FsMA0GCSqGSIb3DQEBCwUAA4IBAQB8QDBoju4yF2PbGpUhvbAu
+hJ/KWLO+wKo3fNCNbUtdKQHMD03E6l69VMLey/pBEj/WoZeA81ytAkfxWeI2rYzf
+IgPjCIRmOD5GZ/kOBR2S6woUEC++xM8y+KMYFBwde7s2Pm8uzC3fkCODEXwGRXBG
+TPkan4JXSAStQbGk9ZE9/qGFCuFscVt422z3wVo7VjRv/bSImx6/hMOx/C9j2LeH
+3h9svyitWkK3i6K1Erg8843SwjAanc3GalItgXy03B+AXpk3F2im7lBQrY9BKIsn
+RsJ5UgfAiK6PIxXQ3vafu4n2n9EK5sT2D/u1vhQPN+sbrpwFVyFh7G/+l+emE7aS
+-----END CERTIFICATE-----
+subject=/OU=GT91339487/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.1fichier.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G4
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3072 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: B013CBAC90CCAC2BA3607B1BB1166A9F3BFDB1CA276E4989E763B71F52676375
+    Session-ID-ctx: 
+    Master-Key: CF60923C6122B7C1A5D5DBF021673125A20E2130C4C4920A8C27C80B3177061B014D81839528C87318DCCDF04B8B5A1E
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d3 4e 36 5a 54 ab e2 dc-48 cd c6 4e 8d 77 79 92   .N6ZT...H..N.wy.
+    0010 - c1 3c 9e 52 0d 8e 8d f6-9d 4b 5e c7 69 3a a3 32   .<.R.....K^.i:.2
+    0020 - 0f e5 56 38 fe 67 17 b4-d1 95 aa fb d9 24 b1 a4   ..V8.g.......$..
+    0030 - 2f 1c 3b cc 89 fa 59 b1-d3 5e d6 7c 13 5b 2e b8   /.;...Y..^.|.[..
+    0040 - 59 ba f6 60 d3 4b a0 8f-99 f0 4a 1a c1 03 e7 fa   Y..`.K....J.....
+    0050 - af 80 42 38 31 3d 4e 83-70 1e f0 9a bd b7 d4 87   ..B81=N.p.......
+    0060 - c7 9e 38 62 74 90 96 48-82 af 69 80 82 86 bd f8   ..8bt..H..i.....
+    0070 - 86 17 bc 70 de b5 30 ec-ba f3 65 dc 66 4b 12 07   ...p..0...e.fK..
+    0080 - 24 5b f5 32 a6 16 04 d0-ab 37 dc e2 69 a2 ad c2   $[.2.....7..i...
+    0090 - 10 a0 30 e2 a9 fb a4 42-f7 5c e6 43 f8 ad 7d e4   ..0....B.\.C..}.
+    00a0 - eb 7c 79 58 89 83 65 c9-c0 da 85 7e 12 aa 2a f7   .|yX..e....~..*.
+
+    Start Time: 1472789812
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

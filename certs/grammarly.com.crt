@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=CA/L=San Francisco/O=Grammarly, Inc./CN=*.grammarly.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJDCCBAygAwIBAgIQDO6Qf+2UmhNJ3x0/IlSBrDANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTYwNzE1MDAwMDAwWhcN
+MTgxMTE0MTIwMDAwWjBmMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNV
+BAcTDVNhbiBGcmFuY2lzY28xGDAWBgNVBAoTD0dyYW1tYXJseSwgSW5jLjEYMBYG
+A1UEAwwPKi5ncmFtbWFybHkuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA6xQ6YicAVlBJuYdsD/HbHoLpc3ZrtGqiL2suujjnQ/osNMon4wKhQ3n+
+Ida40BNoZP3yQffo4KtH/Gf08Z8Gpo2cE6Wt7oW3iCTzgl4M9VrndtG+MirYOSB6
+/F+X2YDkF5vhVXtUsgNtPrE8lX4ubHvc+r+cVnmtZ6vE0m2eoRJ4mmBqWqU0qWXo
+Xlml62TwQgrSfZFAzROP91h3KXgssIe+sJXhBB4o3gdJ2C+K5x0cdVmMn5sXcWHL
+FbxWGWahYsKNK2QwQN3ws5e44R6Y/HwH1XXyv3ZrlslVWq4OSHv7TUsfsw8deKwV
+Y3j+1+eo/06wa6Jt6IvMDIftQ5eC3wIDAQABo4IB5TCCAeEwHwYDVR0jBBgwFoAU
+D4BhHIIxYdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFF7XVBVXv3edzbHpnKarFoGW
+U/2kMCkGA1UdEQQiMCCCDyouZ3JhbW1hcmx5LmNvbYINZ3JhbW1hcmx5LmNvbTAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsG
+A1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNo
+YTItZzUuY3JsMC+gLaArhilodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc3NjYS1z
+aGEyLWc1LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIB
+FhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB8BggrBgEF
+BQcBAQRwMG4wJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBG
+BggrBgEFBQcwAoY6aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0
+U0hBMlNlY3VyZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEB
+CwUAA4IBAQAh9uwEwuf/gyGUWTLokqOQhdUGmgNbh49KJM7rjXh80Kg2g9wVYnfL
+Nzkb4q7FEyKRB0CjbnWHH0b5CpswrQBRDh+mhV4LdwfUBvxyTGDYDVm35FQAXsjN
+SfkR7eJMS0xbbfFxNf6FtCYzecx2ZWXjRY2xjyBC+QukSDVI1iGqCO9oPxOiXcUR
+n586H5ubFG2a5WXf+rlCaYC5nqot0cEJNmxSM1v5FHHR659crrhRh2Fc4+eFKs3E
+QTqlqQ3FxVJoJXX2BBRLPQPv3frJwIzWXlc8ji88IdX5gObi9zXnzhDz/wBaDYIc
+U0Qdh4y1cxZZfWq56u2w+M+6p7JMGmyi
+-----END CERTIFICATE-----
+subject=/C=US/ST=CA/L=San Francisco/O=Grammarly, Inc./CN=*.grammarly.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3170 bytes and written 430 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-RC4-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-RC4-SHA
+    Session-ID: 1DDBC03B343CE7838C4112BC7EBFA1C0D5DF3CE7F78FD8CB79327C6CA71F37D1
+    Session-ID-ctx: 
+    Master-Key: 4334D0F553022A46A0E941F176C244D67BDA8B070A5567C5C7E7575C64088E04BEAA4E8FAEB37CB3A3EF4E66E891BC15
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - f0 ff 49 5c 20 f9 54 5a-c0 61 f8 3d 0a 56 aa 43   ..I\ .TZ.a.=.V.C
+    0010 - 1f da f2 97 9f d0 8b a7-4a ca 8b 1e 9c 8a 1b a6   ........J.......
+    0020 - 16 0d 72 84 44 42 98 53-47 37 fa 41 9c 1c 9f 0d   ..r.DB.SG7.A....
+    0030 - 72 7e 08 de 14 69 68 a1-0b 62 66 f4 f6 db 7e 71   r~...ih..bf...~q
+    0040 - e5 d7 90 fa e2 a1 d5 c1-e5 93 55 f7 de 6e 01 83   ..........U..n..
+    0050 - 85 ab f4 84 47 2d 7c 4c-68 58 ad 17 27 f6 77 40   ....G-|LhX..'.w@
+    0060 - 3a 3e 73 d5 e0 98 eb 91-4d 6c 8b 20 21 ad 0a 0e   :>s.....Ml. !...
+    0070 - 3f bc cb 75 53 cf ce 2b-18 6e 4b b8 a8 62 1a 92   ?..uS..+.nK..b..
+    0080 - 5b a5 27 fa d5 c0 61 ef-aa 28 85 de f0 af 2b 8b   [.'...a..(....+.
+    0090 - bd 54 63 a2 e8 09 59 eb-f4 e5 bc e7 e3 bf 1e 0d   .Tc...Y.........
+    00a0 - f5 be 6b 70 8d 14 3e 8d-b0 9c 11 bb 36 cb d0 e9   ..kp..>.....6...
+
+    Start Time: 1472789705
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

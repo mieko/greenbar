@@ -1,0 +1,85 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=voc.com.cn
+   i:/C=CN/O=WoSign CA Limited/CN=WoSign CA Free SSL Certificate
+ 1 s:/C=CN/O=WoSign CA Limited/CN=WoSign CA Free SSL Certificate
+   i:/C=CN/O=WoSign CA Limited/CN=Certification Authority of WoSign
+ 2 s:/C=CN/O=WoSign CA Limited/CN=Certification Authority of WoSign
+   i:/C=IL/O=StartCom Ltd./OU=Secure Digital Certificate Signing/CN=StartCom Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFajCCBFKgAwIBAgIQP2EhcV5G2PIsWsbDSSkpZTANBgkqhkiG9w0BAQUFADBS
+MQswCQYDVQQGEwJDTjEaMBgGA1UEChMRV29TaWduIENBIExpbWl0ZWQxJzAlBgNV
+BAMTHldvU2lnbiBDQSBGcmVlIFNTTCBDZXJ0aWZpY2F0ZTAeFw0xNTA4MTkwMjM5
+MjRaFw0xNjA4MTkwMjM5MjRaMBUxEzARBgNVBAMMCnZvYy5jb20uY24wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDLwL7RdCBPGT+Vwh6N+Echp70ntC5l
+qxRA//YHAm5gJM5/DNaI/7V51cQ0AKFutf1IKddiJoCOiY1uDN9IwDKek6Ra9bgH
+WJ9EI05qUQMtbRo/9PfOoRsOVu83haQszTjYwGNmnNhP0fD16W83eppdD1Oghjf2
+wkJpEZ1eh8NysqseuUz9AXDl8gG5pmACHhSVlfuTLXbq9JGF9eXBu0puXXV0vBcm
+5RspuyUlRqdBlGMlgfp6eRFLkOx1ce73GfezcuIX604tfrGWEMDFWXR0znRVQsIM
+IYAEWD0p68L6jfhA0wAYEcZW/9mALsRqwoH6GWgiECpjfw20fmk8YlQdAgMBAAGj
+ggJ3MIICczALBgNVHQ8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMBMAkGA1UdEwQCMAAwHQYDVR0OBBYEFGIzdeH7CwgHlaO8Yoc9Jhm8RilxMB8G
+A1UdIwQYMBaAFLUoKnniNw4FoUEKzGz2Y3Gx2fk9MH0GCCsGAQUFBwEBBHEwbzA0
+BggrBgEFBQcwAYYoaHR0cDovL29jc3AxLndvc2lnbi5jb20vY2ExL3NlcnZlcjEv
+ZnJlZTA3BggrBgEFBQcwAoYraHR0cDovL2FpYTEud29zaWduLmNvbS9jYTEuc2Vy
+dmVyMS5mcmVlLmNlcjA9BgNVHR8ENjA0MDKgMKAuhixodHRwOi8vY3JsczEud29z
+aWduLmNvbS9jYTEtc2VydmVyMS1mcmVlLmNybDCB6QYDVR0RBIHhMIHeggp2b2Mu
+Y29tLmNugg53d3cudm9jLmNvbS5jboIPbWFpbC52b2MuY29tLmNugg1vYS52b2Mu
+Y29tLmNughNwYXNzcG9ydC52b2MuY29tLmNugg5yZWcudm9jLmNvbS5jboIOc3Nv
+LnZvYy5jb20uY26CDXRzLnZvYy5jb20uY26CDmNtcy52b2MuY29tLmNugg5iYnMu
+dm9jLmNvbS5jboIXbW9uaXRvci5jb3JwLnZvYy5jb20uY26CE2Rldi5jb3JwLnZv
+Yy5jb20uY26CDmNnaS52b2MuY29tLmNuMFAGA1UdIARJMEcwCAYGZ4EMAQIBMDsG
+DCsGAQQBgptRAQECBjArMCkGCCsGAQUFBwIBFh1odHRwOi8vd3d3Lndvc2lnbi5j
+b20vcG9saWN5LzANBgkqhkiG9w0BAQUFAAOCAQEAoaZY5zUWbeiZ6cWcAmYwvIgb
+oKlEsRQ3nfbiUopl/EK6WiD/bB5tIPIxdhT5yqTIT2Ji36oEjFDwl+7rT2SDEXH7
+z3VBPiugY7+Fhxbppr4Fth9G+uhfObqxPGfJthIfjmGuMTh3xMvcTSLTQaIF+B1y
+/2ps/mhOImFB5WhgyDNZhmHZ9bD6n+idPXgSrtzzckp+Eexw/27/4d5amYjqFqva
+TyECne5bzdmbZJCdK55581wbhi3YwpzCAsEzXX2IDxbMXB8qpGvNZR4GzrZy7GG1
+BtpJJ4OZ43gc7j6v9Aprwrq6d52Dfg99+zjn6r7p7VG5PX8I4W1VbWKf5x6jtw==
+-----END CERTIFICATE-----
+subject=/CN=voc.com.cn
+issuer=/C=CN/O=WoSign CA Limited/CN=WoSign CA Free SSL Certificate
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5209 bytes and written 490 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-SHA384
+    Session-ID: EFFC2B89AB2DCB65F4FC7812E0507E39A7BC95BD178D5DA9BA0F95D25543805E
+    Session-ID-ctx: 
+    Master-Key: 517B4A4C273E3C04930CF583E344DE36BD30B4443DC2B167CE38786F9F601F13292B91C74E122323E7EACAA16EA07ACB
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - be 39 41 4b e7 f2 ca af-40 29 ac e8 a1 5f b0 cf   .9AK....@)..._..
+    0010 - 30 2a 70 a3 c7 4f b1 66-e0 a8 2f e0 76 c4 af 7f   0*p..O.f../.v...
+    0020 - 16 f7 6c dd 38 3c ac f0-67 f8 09 dc 64 c6 ab ec   ..l.8<..g...d...
+    0030 - 70 da 8c c5 09 33 62 99-9b d0 2a 71 df 04 6c 8e   p....3b...*q..l.
+    0040 - e8 70 3c 88 9b 76 1c a5-1b 88 26 7f bb a9 41 08   .p<..v....&...A.
+    0050 - 2f 22 f5 ec a2 cf 08 52-a3 7f f4 72 f1 1a 83 d0   /".....R...r....
+    0060 - 37 a0 34 c4 de 03 0c 10-3d 5d 23 18 3d 2f 44 53   7.4.....=]#.=/DS
+    0070 - 3f 0b 26 b6 42 06 4a 5a-40 98 b7 01 30 cc d7 e1   ?.&.B.JZ@...0...
+    0080 - 6a 81 56 02 0e bd d6 0a-1b 69 b3 c2 86 af d5 5f   j.V......i....._
+    0090 - b1 25 42 c6 fc 7e e0 91-6f 11 8c 5a 72 7c e4 08   .%B..~..o..Zr|..
+    00a0 - 3a 22 10 b6 3a 23 18 68-cb 9d ad 08 8f 79 29 8f   :"..:#.h.....y).
+
+    Start Time: 1472789219
+    Timeout   : 300 (sec)
+    Verify return code: 10 (certificate has expired)
+---

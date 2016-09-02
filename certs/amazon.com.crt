@@ -1,0 +1,70 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Washington/L=Seattle/O=Amazon.com, Inc./CN=www.amazon.com
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFejCCBGKgAwIBAgIQfkmWRZCbTGK0b6jFJo0YnjANBgkqhkiG9w0BAQsFADB+
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
+IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE2MDUxODAwMDAwMFoX
+DTE2MTIzMDIzNTk1OVowaDELMAkGA1UEBhMCVVMxEzARBgNVBAgMCldhc2hpbmd0
+b24xEDAOBgNVBAcMB1NlYXR0bGUxGTAXBgNVBAoMEEFtYXpvbi5jb20sIEluYy4x
+FzAVBgNVBAMMDnd3dy5hbWF6b24uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAuwQMfKRRZpql3WBS0uo4DfMrrkAEX9+6UD2fVSmV21i9iqCecmHa
+4z9LNzeKqpGNkpTbXMaJfLxy0ehoQp7vyVIit6l+VZ9L+VTiL0+v8MjG+Kl6Sg4J
+6ozV+EHck91Id8zCUyLHLcmJ5f60kazJJC1zGKlTkZR6Of0SzcLrje0T3Pqmdybj
+AjFoBMdk0G1rKctxds1UnywI4pIONzsmozzPjk8Up5NA1s3bo9ubCQUcPSEm1TDJ
+4TDdQVL8WsDNjY0SwTiVmJ+vo4TVIhRlfGv+xzHe8JXFYxsVJZ/FP70uFRH5+Uku
+4yaGYFZYt71V3kOTzM3FvRlHb93jANoAHwIDAQABo4ICCDCCAgQwgb0GA1UdEQSB
+tTCBsoIKYW1hem9uLmNvbYIIYW16bi5jb22CEXVlZGF0YS5hbWF6b24uY29tgg11
+cy5hbWF6b24uY29tgg53d3cuYW1hem9uLmNvbYIMd3d3LmFtem4uY29tghRjb3Jw
+b3JhdGUuYW1hem9uLmNvbYIRYnV5Ym94LmFtYXpvbi5jb22CEWlwaG9uZS5hbWF6
+b24uY29tgg15cC5hbWF6b24uY29tgg9ob21lLmFtYXpvbi5jb20wCQYDVR0TBAIw
+ADAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MGEGA1UdIARaMFgwVgYGZ4EMAQICMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5z
+eW1jYi5jb20vY3BzMCUGCCsGAQUFBwICMBkMF2h0dHBzOi8vZC5zeW1jYi5jb20v
+cnBhMB8GA1UdIwQYMBaAFF9gz2GQVd+EQxSKYCqy9Xr0QxjvMCsGA1UdHwQkMCIw
+IKAeoByGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3JsMFcGCCsGAQUFBwEBBEsw
+STAfBggrBgEFBQcwAYYTaHR0cDovL3NzLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYa
+aHR0cDovL3NzLnN5bWNiLmNvbS9zcy5jcnQwDQYJKoZIhvcNAQELBQADggEBAKeH
+/SiREeFlL0ce/UDYoPDU/91x8XsbJuLRqxm1zEBzq/07/Fnd4nL/rayEEFIEubRS
+IL9Ewi+htMz2nLrR0BMu3ilqWGhpOEvkcgT9uh/CjhPhVMse0lpHYSn62ZvUWTwn
+vG0ardOd5MuE2NiveZxl3/o2cLcyiySxtX7N3yADchGP27iOkjXocdpZwtjIa7EB
+pp3GojEbWRbGxtLC7SO3vY4a0N2bb5b9J7y5OtSKjInRJaMs19pFwlHMOMZR0y70
+rHaz9eRB++LuEI2B90Mqr33NMysb1enMo61Dt16Ki3yT1zVBHp1vbqM6gX2UeEMA
+A+HEDpMefyQVspV7twA=
+-----END CERTIFICATE-----
+subject=/C=US/ST=Washington/L=Seattle/O=Amazon.com, Inc./CN=www.amazon.com
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3256 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 7F122C92CA39256CBBB2ECA9C49376AE8F1FE1502F7C1BC3DF5B13B71A84BB12
+    Session-ID-ctx: 
+    Master-Key: A6D7C0E375725E7FB7F3BDBA110391479673E7F36C96A310757AD2EE4E1323E753544385454B3EA6F1AC15F5A0EB14AD
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472787820
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

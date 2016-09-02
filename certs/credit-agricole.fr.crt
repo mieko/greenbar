@@ -1,0 +1,85 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=FR/ST=HAUTS-DE-SEINE/L=MONTROUGE/OU=ADS Administration/O=Credit Agricole SA/CN=www.credit-agricole.fr
+   i:/C=FR/O=KEYNECTIS/CN=CLASS 2 KEYNECTIS CA
+ 1 s:/C=FR/O=KEYNECTIS/CN=CLASS 2 KEYNECTIS CA
+   i:/C=FR/O=Certplus/CN=Class 2 Primary CA
+ 2 s:/C=FR/O=Certplus/CN=Class 2 Primary CA
+   i:/C=FR/O=Certplus/CN=Class 2 Primary CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFDzCCA/egAwIBAgISESFKtcnxCpyBRDklBmrlJjvrMA0GCSqGSIb3DQEBCwUA
+MEAxCzAJBgNVBAYTAkZSMRIwEAYDVQQKEwlLRVlORUNUSVMxHTAbBgNVBAMTFENM
+QVNTIDIgS0VZTkVDVElTIENBMB4XDTE2MDEwODE0MjY0MFoXDTE3MDEwODE0MjY0
+MFowgZUxCzAJBgNVBAYTAkZSMRcwFQYDVQQIFA5IQVVUUy1ERS1TRUlORTESMBAG
+A1UEBxQJTU9OVFJPVUdFMRswGQYDVQQLFBJBRFMgQWRtaW5pc3RyYXRpb24xGzAZ
+BgNVBAoUEkNyZWRpdCBBZ3JpY29sZSBTQTEfMB0GA1UEAxMWd3d3LmNyZWRpdC1h
+Z3JpY29sZS5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMzjZEpP
+Fvg5sRiQE/lqt5aTInlgUFpkmcOHwc/465hRGh5dCq+qMhPYelkjJ2z9sWWvgjZ0
+UYFee1DeOumKTMs+YrxX9eK1QWv/MvIbON+3qOY4kUK03kRSsZdDeEbBsdXs0X9k
+4oAZ9k9lTDhDo4wmLP+HlfbChdEUF+Xbq39xuxctcKeGuqmZ72JR3QqARZ/c6QLY
+WQW9kKditFqUAk5RJEpiT1NTF6AQ7VQKy6innbloDMo5W4TjyoEJrbTRj1Ou9qNF
+6ku6ViQmE5MgLRm+qoalABvEDcEwsciL7wVtf5HHfT8L0XDpI8RWuzHlKK0DMTfB
+09Dauto5iomJWf0CAwEAAaOCAaswggGnMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBNBgNVHREERjBEghZ3
+d3cuY3JlZGl0LWFncmljb2xlLmZyghZ3d3cuY3JlZGl0LWFncmljb2xlLmZyghJj
+cmVkaXQtYWdyaWNvbGUuZnIwTwYDVR0fBEgwRjBEoEKgQIY+aHR0cDovL2NybC1z
+c2wuY2VydGlmaWNhdDIuY29tL2tleW5lY3Rpcy9jbGFzczJrZXluZWN0aXNjYS5j
+cmwwRAYIKwYBBQUHAQEEODA2MDQGCCsGAQUFBzABhihodHRwOi8vb2NzcC1zc2wu
+Y2VydGlmaWNhdDIuY29tL3NzbC1vY3NwMEUGA1UdIAQ+MDwwOgYNKwYBBAGBrVoC
+BQIFATApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3Lm9wZW50cnVzdC5jb20vUEMw
+HQYDVR0OBBYEFB10ny3kHWLIwwZsVcvCyzCqgIE5MB8GA1UdIwQYMBaAFAARQd87
+nTvLuKLBM5KogczlfeeZMA0GCSqGSIb3DQEBCwUAA4IBAQBZXycqPrJ6NgqNkn6C
+Lxb7z9Ot6rBZTY+PCfhZQgDvhy/V7x5g5+6hTuTSbfN8eL5xeCI1oHK5R+NtGx6U
+cQRyqPqYtVb9OcCnYsOAonC5qNMBMc+lkKwoYDISVDYhG8JZGqY8F+ptG2tb8kHp
+JjqVyePIeNRwdJDpdp1I2ciMwIBzvOOt2I0i8Bo6asWivJZKP1MzVU8mQczj/KU8
+ZjEk+7aSBV3iDb9HxSA/XmN5lVYJLyWQ2Z+M0jG3rYK7GH+u9BlY1LDj1Z5s31Se
+bnbmpwgApxsTUWcbysmua9uuBxj1sDwVS6c2Bg4kzXU61XxJ2PEvtCk5On39ZlEh
+PdRk
+-----END CERTIFICATE-----
+subject=/C=FR/ST=HAUTS-DE-SEINE/L=MONTROUGE/OU=ADS Administration/O=Credit Agricole SA/CN=www.credit-agricole.fr
+issuer=/C=FR/O=KEYNECTIS/CN=CLASS 2 KEYNECTIS CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3953 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: AA012CD0AAA9F3D9879519ED1A568C029091597B5E5DE40075F4F778882A3500
+    Session-ID-ctx: 
+    Master-Key: A6C9C056567EAF4C2E9E716708E788D3B6DB8755074E9637526EC89A8798F881C6A511D1FADBD275D79193B9E4B0A2F6
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6c 68 a1 3d aa 59 0d ca-71 8e 4d 0f 06 f5 7b ef   lh.=.Y..q.M...{.
+    0010 - 98 f1 ef 57 9b 8b 42 cb-cc ac b8 2c 7c fe 1d 24   ...W..B....,|..$
+    0020 - 05 62 0e d6 29 c3 fc 36-ab eb 32 71 35 38 8d 84   .b..)..6..2q58..
+    0030 - 47 9c 60 c9 59 42 a2 69-ac 0d 52 89 b5 51 94 33   G.`.YB.i..R..Q.3
+    0040 - 12 50 c7 0d 4f fd da a6-12 aa ad a7 45 18 ea c2   .P..O.......E...
+    0050 - 84 40 d4 0d 4b a6 96 82-0b 53 6a c4 46 5a f3 66   .@..K....Sj.FZ.f
+    0060 - 28 11 ee 5b 5d 68 f1 17-c0 12 de 78 a7 7d ce 14   (..[]h.....x.}..
+    0070 - 2b 5d 4b f4 0f b0 2b 5b-00 6d 9e cf 95 e8 b9 05   +]K...+[.m......
+    0080 - 07 e8 ae 35 af f1 e5 e3-a0 eb 6f 7d e4 48 43 33   ...5......o}.HC3
+    0090 - 61 c8 c6 e9 3d 51 4c 95-35 7a 0e fa 7b 28 42 47   a...=QL.5z..{(BG
+    00a0 - 03 7e 4f bb 09 1d c5 3e-9b 3a 8d f3 12 31 72 00   .~O....>.:...1r.
+    00b0 - 67 02 a0 97 5d 03 cb c1-61 5c 57 32 88 87 1e b0   g...]...a\W2....
+
+    Start Time: 1472789865
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

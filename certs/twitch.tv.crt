@@ -1,0 +1,84 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=San Francisco/O=Twitch Interactive, Inc./CN=*.twitch.tv
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFHzCCBAegAwIBAgIQB5jmzXEexaHNRnkXQLmPwzANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTUwMzA2MDAwMDAwWhcN
+MTgwMzE0MTIwMDAwWjBzMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+YTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEhMB8GA1UEChMYVHdpdGNoIEludGVy
+YWN0aXZlLCBJbmMuMRQwEgYDVQQDDAsqLnR3aXRjaC50djCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBANF1f4A0UjV1/qhgo6dkalgwGP/SNA6/RcgPjUI9
+6pGHcARHzB6UhYLCQonSZq/3DMHhL1pYp9U4u8VZwxW6CBnuvmNDAROqxdwGlfcJ
+0UYqWagYDmHHk+rlsg6JQd4zoSS3B4lVwHV479x+Qygkn1xOsYBcR6CZKlbaCgPd
+I0F8b6o/U4fUcc5YH9BhPVSLBbbgKqwUlRyeVUG9RAsipLSZirTZ7EIwUr0k5K5C
+E5/lzRTHP4t4ijmujDK6eALCX37vI0ELmFHvWjFe5CaDtxcHMXSTK2ZueYXFsooW
+uuw0GGLnflEyYB0h84G413X4rRvlKOPciFdyLjxNA+6kTPECAwEAAaOCAdMwggHP
+MB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBRe4ZTb
+YUIeDnrqZU78gPOtoFPfjzAhBgNVHREEGjAYggsqLnR3aXRjaC50doIJdHdpdGNo
+LnR2MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3Nz
+Y2Etc2hhMi1nMy5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9z
+c2NhLXNoYTItZzMuY3JsMEIGA1UdIAQ7MDkwNwYJYIZIAYb9bAEBMCowKAYIKwYB
+BQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwfAYIKwYBBQUHAQEE
+cDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYB
+BQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJT
+ZWN1cmVTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOC
+AQEA2AghOlwDdwe4qOBopscicYRsmAHzR67enub4MUsPxwOancGp4YidJfIB7nB1
+Bltqwynv4xIcalwJ/ynnbAgZfO8P19iLOgN7oRcedTtzF9qiuH2e5g+xERwon79Y
+C8BjFh1M868XXfElIDkl5HTeM4xMsb3Bt8odS3zT+RgqfuFdXHFHa7Q4Hc4aaCkI
+gD4nfPOYMJbVyq0pe0NtLcUrq+bKBUvLczeJRK68djYKewhznkQs3Gif263dtqBe
+KcEtZ5PsZ/0AXTaeumefDcBp5b0tzy5G8GkkZ6Rv9IbG7zz5atnjVznDxP3ufzyp
+PtO6qnyqWQhWUd7NnyOaHMLHBA==
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=San Francisco/O=Twitch Interactive, Inc./CN=*.twitch.tv
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4119 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1E71CDE168D2828DAFC39D575043AFCE5ED30968465DD03FF7399ADED9AA298A
+    Session-ID-ctx: 
+    Master-Key: 5177F44BF20023B74A3FA43EA8EBD8BEAD9F0A08731EF0CADE770281F96AAE4AB4117EABA2AC1EFDD91C37B6CFEBC9CA
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - cc ee 5e cb 9e 65 ff 2b-34 9a 91 ae 97 29 b3 88   ..^..e.+4....)..
+    0010 - 36 34 dc e3 54 6c 9c fa-7f 05 31 56 a9 21 85 e8   64..Tl....1V.!..
+    0020 - 1d ad 1f 93 c2 95 90 f3-c1 55 06 57 fe 22 3c 94   .........U.W."<.
+    0030 - 79 38 4c 45 4e 5d 8f 58-d4 e0 8f 02 04 fe ab 7f   y8LEN].X........
+    0040 - 38 62 cb 66 a2 4d 18 0b-75 37 57 4b 6a 2d 51 54   8b.f.M..u7WKj-QT
+    0050 - ef ee 9b 66 73 28 84 11-79 f3 3a 42 2d d7 64 f2   ...fs(..y.:B-.d.
+    0060 - 99 70 94 f2 ed 7f 84 66-7a f8 ba ed c6 0a 6d b5   .p.....fz.....m.
+    0070 - a4 3f 72 36 0e 78 31 57-c9 bf e6 f2 a1 1d 9b 30   .?r6.x1W.......0
+    0080 - 06 07 8e c1 e5 75 2b 91-4a 1d 3b 6f f1 6d 07 1f   .....u+.J.;o.m..
+    0090 - 06 5b 3c 14 50 b7 76 f9-13 5b b8 08 c6 52 6a 8f   .[<.P.v..[...Rj.
+    00a0 - 42 45 9a b7 4c 08 cd b3-cc 49 90 7b ba 30 5e 61   BE..L....I.{.0^a
+
+    Start Time: 1472787935
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,67 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=San Jose/O=Adobe Systems Incorporated/OU=Behance/CN=*.behance.net
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFAjCCA+qgAwIBAgIQYAkOmH1lFDZjUfBhAoTQ9jANBgkqhkiG9w0BAQsFADB+
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
+IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDIxNzAwMDAwMFoX
+DTE4MDEyOTIzNTk1OVowgYQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9y
+bmlhMREwDwYDVQQHDAhTYW4gSm9zZTEjMCEGA1UECgwaQWRvYmUgU3lzdGVtcyBJ
+bmNvcnBvcmF0ZWQxEDAOBgNVBAsMB0JlaGFuY2UxFjAUBgNVBAMMDSouYmVoYW5j
+ZS5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDiOiTAEShaT0H1
+1XI0xcY+lDRrkus/dmgbePemyXwHBmNB5f9fxs1N5fx5u036B5h14WI7fua6jiWL
+huTWCbIcZpNm0dHbNVZOXA81Fy9j16IUW9znu8MAlpheGxZOz/5dUxBLxCBN2DVN
+zNMRFe5+k/mCgYLpWAeDIuu47nGkwaIGRkd8NFwillNYzjzEtcXKEkxBc2T8Ay1s
+dJgGWzKkr1DWkAuORM361EZHhXIDWRNrMlyFMVoTESIEn/WT76hvI3hIg0k5vaD/
+9Ht6lLRb/U+fyeCLQrNk5zLHsB46w7R1VCSH/tUn4Qp5+DJmYyX/w+WwccE+Ecqf
+H0M0rq4vAgMBAAGjggFzMIIBbzAlBgNVHREEHjAcgg0qLmJlaGFuY2UubmV0ggti
+ZWhhbmNlLm5ldDAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwZQYDVR0gBF4wXDBaBgpghkgBhvhFAQc2MEww
+IwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1jYi5jb20vY3BzMCUGCCsGAQUFBwIC
+MBkaF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBhMB8GA1UdIwQYMBaAFF9gz2GQVd+E
+QxSKYCqy9Xr0QxjvMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9zcy5zeW1jYi5j
+b20vc3MuY3JsMFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3Nz
+LnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3NzLnN5bWNiLmNvbS9zcy5j
+cnQwDQYJKoZIhvcNAQELBQADggEBAE2NY9SYF77GdBGqrupFSICrovQU6631rQT2
+/DmsrYg1pq7WlY6OfhDCVqv8Mh8Ym4KBAInglfJ0F7KuOdqas9kaPRE5Ragc3KSY
+MdYBrzgyKXvX7w2MrXfrdAXBcBTRVSDTi6XZ5O/AB7LebRhQ9VqsRF0h+9z42FO0
+LwqhEBpo0jKig7eyzMYKsj2DAY+WsPKbqFBZ/dAmqM5RGBqVLAJG50FLPBCXAFsK
+9a4MqyKmn3v2I+9lQJwjrdZyP3F31/XL9xTw3g8WVmNGSw5Z1TgEiqGd/yFtxTxE
+XaQb/0PIkZRswX8Ou58UnFTh3rOGUthMGqmZqRZUt/Vnip6bp2g=
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=San Jose/O=Adobe Systems Incorporated/OU=Behance/CN=*.behance.net
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+---
+No client certificate CA names sent
+Peer signing digest: SHA1
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3134 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: E32233F061D70F54B3202743EC7EFC0912ED6704A5448F48357B1A0427C4D0A0
+    Session-ID-ctx: 
+    Master-Key: 85E26342CE5793D85D19A16131187EBDA618B3239EF7A419B46A58C1BF0ABA8931B0487C1D4C8B56C769CDF46BC24C8A
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472788357
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

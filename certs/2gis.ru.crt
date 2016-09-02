@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=2gis.ae
+   i:/C=CN/O=WoSign CA Limited/CN=WoSign CA Free SSL Certificate G2
+ 1 s:/C=CN/O=WoSign CA Limited/CN=WoSign CA Free SSL Certificate G2
+   i:/C=CN/O=WoSign CA Limited/CN=Certification Authority of WoSign
+ 2 s:/C=CN/O=WoSign CA Limited/CN=Certification Authority of WoSign
+   i:/C=IL/O=StartCom Ltd./OU=Secure Digital Certificate Signing/CN=StartCom Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEozCCA4ugAwIBAgIQUIzLtL0jzHvR1wz0vSvsQDANBgkqhkiG9w0BAQsFADBV
+MQswCQYDVQQGEwJDTjEaMBgGA1UEChMRV29TaWduIENBIExpbWl0ZWQxKjAoBgNV
+BAMTIVdvU2lnbiBDQSBGcmVlIFNTTCBDZXJ0aWZpY2F0ZSBHMjAeFw0xNjAyMjUw
+NTQzMjVaFw0xOTAyMjUwNTQzMjVaMBIxEDAOBgNVBAMMBzJnaXMuYWUwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDrsYOytJsl794aARbfdUJwT0sZg0gu
+gwq7kOxW7peOqCvRWpjqfh/U3s7880XZpZEPt6VljKryUIN80XeeTTXmJqu0XGiK
+1DFBpuFWNc/830ubG+3gqAGLuukjKsI6TtKEEJ5f8+F/nLM3ShCx1OJYt6Ll9Op3
+HHqPU9TMDefDrd6vykV95I2OI/mccnKHMjgfF3iv+J/fJ8eLFybl0WCeo9xrCEFs
+bOvccxWgZtu12XyrN5mCaCepXLR9Wiqv3fzA/ZPAQFvyg1ioLLqA4mGVPMhnWkGy
+7sJGP6agHkhjCSBU44jkE7g81dhGEMViEh3/FUUWlU88qA45O2DZbNwjAgMBAAGj
+ggGwMIIBrDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsG
+AQUFBwMBMAkGA1UdEwQCMAAwHQYDVR0OBBYEFPU2SMg97r8bejsfaOVN63jM6kcG
+MB8GA1UdIwQYMBaAFNKnFiB8r9mVnutDChny4Ll0DqjHMH0GCCsGAQUFBwEBBHEw
+bzA0BggrBgEFBQcwAYYoaHR0cDovL29jc3AxLndvc2lnbi5jb20vY2E2L3NlcnZl
+cjEvZnJlZTA3BggrBgEFBQcwAoYraHR0cDovL2FpYTEud29zaWduLmNvbS9jYTYu
+c2VydmVyMS5mcmVlLmNlcjA9BgNVHR8ENjA0MDKgMKAuhixodHRwOi8vY3JsczEu
+d29zaWduLmNvbS9jYTYtc2VydmVyMS1mcmVlLmNybDAfBgNVHREEGDAWggcyZ2lz
+LmFlggt3d3cuMmdpcy5hZTBRBgNVHSAESjBIMAgGBmeBDAECATA8Bg0rBgEEAYKb
+UQYBAgIBMCswKQYIKwYBBQUHAgEWHWh0dHA6Ly93d3cud29zaWduLmNvbS9wb2xp
+Y3kvMA0GCSqGSIb3DQEBCwUAA4IBAQDg6MJPllq6jSCf99aZRYqTS4pxj/mtllBb
+odISso1neGdLRATRaGMHD7WWuyhJdYw4dD4EwDW6E+XCjvJUl0jIo78kFrsnpabE
+VKBSwn2e4tZhr9xUuh3D+WOuKIEPfyQhkU7lXKEhDa3mIKFP15+Jmez311uFGANs
+BjME0U5dZsnX4y4wEI8CLYL+qHqgmYB81YUT/1VpQtTEk2K3gYMGxLfW8IQORnF0
+RmeQHwhdVyjnvBW054182tBxeG3bnCoZpU1cAEGUwsmnJo1yt6yte0XS0VHE+T70
+V10pP1SGDzXwBTprBFi+FFUXJU2N0m03IBKU10wkX34UDiR1kH0n
+-----END CERTIFICATE-----
+subject=/CN=2gis.ae
+issuer=/C=CN/O=WoSign CA Limited/CN=WoSign CA Free SSL Certificate G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4960 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 371CD0F31DA0A3C67BF4AD064A1D5193961C5C316E9FA594473F71F0A67F63BF
+    Session-ID-ctx: 
+    Master-Key: 8EA1CB0E982785286B56646A4BB529FDA19AE7DAD6B626CD7B998F896B73ED2D8934A10A9AC3E3B9BC2EB30050EE868A
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 1800 (seconds)
+    TLS session ticket:
+    0000 - db 23 2a cc 51 65 d9 1d-b1 e2 9e 22 58 98 fc 06   .#*.Qe....."X...
+    0010 - b5 18 88 b0 5b 3d f0 01-82 b6 44 f3 e8 57 79 f1   ....[=....D..Wy.
+    0020 - 3b 2d 1f dc d9 d8 c5 58-7d e5 17 77 95 77 9f 17   ;-.....X}..w.w..
+    0030 - 1e d9 94 dd fa a0 c3 56-8e 11 a8 6f 11 ac 1e db   .......V...o....
+    0040 - e8 77 3b 1f 38 fc 77 89-7f f2 12 5b fb 95 3a a8   .w;.8.w....[..:.
+    0050 - 39 b6 55 6d ac 12 b6 22-78 a9 46 ef 3e 69 88 f1   9.Um..."x.F.>i..
+    0060 - ef a7 19 d5 2f 73 82 6a-d5 26 1b d9 50 1f 06 d5   ..../s.j.&..P...
+    0070 - f5 bc a5 0b 79 f2 90 83-f0 b5 8e b4 06 5b 14 e5   ....y........[..
+    0080 - bd b1 8e 65 0c 1a dc 63-69 43 75 f3 7f e4 dc 34   ...e...ciCu....4
+    0090 - 3d 9d ca b4 f5 e3 5f 05-35 d5 e7 80 9b 0f d2 78   =....._.5......x
+    00a0 - f1 47 73 dd f1 1a a2 98-bc a2 6d 4a ae dd 5c 46   .Gs.......mJ..\F
+
+    Start Time: 1472790290
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

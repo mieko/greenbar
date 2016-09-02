@@ -1,0 +1,67 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Pennsylvania/L=Chalfont/O=AWeber Systems, Inc./CN=*.aweber.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SHA256 SSL CA
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SHA256 SSL CA
+   i:/C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE7TCCA9WgAwIBAgIQLaVubqKl0REzCO5tmozr6DANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEfMB0GA1UEAxMW
+R2VvVHJ1c3QgU0hBMjU2IFNTTCBDQTAeFw0xNDEyMjMwMDAwMDBaFw0xNjExMDIy
+MzU5NTlaMG0xCzAJBgNVBAYTAlVTMRUwEwYDVQQIDAxQZW5uc3lsdmFuaWExETAP
+BgNVBAcMCENoYWxmb250MR0wGwYDVQQKDBRBV2ViZXIgU3lzdGVtcywgSW5jLjEV
+MBMGA1UEAwwMKi5hd2ViZXIuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA06SHtaoFdD2j1SuPftuQaFJxWjn5Apq6CfD21qQdSlxZw5eD/AZPbry9
+Bs9XUFx6OSBfeTjOIPMWrw8RoUTbRVLTX3dg0EFF0e7cZE5JlfkvhgpfmYdKxynd
+7ubsGSty/fmikr8xRFYZ1rkBSqDO8WNyIpzK5N6HZK0J/NGMAHwDdk80QdzXq3dz
+ZKIGZ5XLNED7BON1ulOm6yj1Xh9bwwb35T7ki/hfdLyjtV9AGRJq1n7MoOVmcyNj
+GTCxK5svEgSvZkp/KVA7C//jyb7iQqqeraNinY9wKQUNH/fna5i4b5bxpphDJ2+z
+xLpgeNa+vsCToXttw5FJqbivVby91wIDAQABo4IBrjCCAaowIwYDVR0RBBwwGoIM
+Ki5hd2ViZXIuY29tggphd2ViZXIuY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQD
+AgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9nai5zeW1jYi5jb20vZ2ouY3Js
+MIGhBgNVHSAEgZkwgZYwgZMGCmCGSAGG+EUBBzYwgYQwPwYIKwYBBQUHAgEWM2h0
+dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdh
+bDBBBggrBgEFBQcCAjA1DDNodHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3Vy
+Y2VzL3JlcG9zaXRvcnkvbGVnYWwwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMB8GA1UdIwQYMBaAFBRnju2DT9YenUAEDARGoXA0sg9yMFcGCCsGAQUFBwEB
+BEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2dqLnN5bWNkLmNvbTAmBggrBgEFBQcw
+AoYaaHR0cDovL2dqLnN5bWNiLmNvbS9nai5jcnQwDQYJKoZIhvcNAQELBQADggEB
+ADuA5JvImryHKmGSyKNcnDwdShjbma/pijvUkCKtsto+2MsIYxKjXaluVXcqvJ8C
+EwjLZuFwjzmplT98oVi2fSIbaFiiwde8PiBemRhxm7rZnCGtQ3wDRgN22Qdja1Dm
+EVMqwrpmAiojvqWOo7qj9ZPB0ZxqUZccwj4cR5K+N8UhWzH2bol7i6jqwUIzxFjO
+UVzh63qeCBPknQ/5IhYq10BbSAUAsWsejie/Aby9Z2s35yW5t8iOMIV9Zm7I7Zxd
+C3h+z3GVbgLL6vunPvJMxlSeule3Addhpiuvf2+pkL6rdDmK9CGTQxwtjFm49F4X
+/hGv27KxEz+0kqktB7K/hXc=
+-----END CERTIFICATE-----
+subject=/C=US/ST=Pennsylvania/L=Chalfont/O=AWeber Systems, Inc./CN=*.aweber.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SHA256 SSL CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3064 bytes and written 490 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-SHA384
+    Session-ID: EA1F736F6572D4845319FEC9C682AEE4B172E091FA4C55853B1E759EEC01158B
+    Session-ID-ctx: 
+    Master-Key: 82DDB6A90D724F6D216573361B239C258AE37B7CA35A6002161FDD61B2B2FE8E00B25211C5196671EAA882398C66D551
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472789926
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

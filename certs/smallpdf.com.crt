@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=smallpdf.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIETDCCAzSgAwIBAgIQA8zPgWznfaOoyMGti8wNnjANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xNjA3MjEwMDAwMDBaFw0xNzA4MjEx
+MjAwMDBaMBcxFTATBgNVBAMTDHNtYWxscGRmLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAI2CtDWH5L03qxUBxBWehuEL44fDh/GSxUVa1CVzvYmi
+MO2e6PoDAcSrF9W/h3n5IK2qR1cMFYFNc1CrsggVH5nQB4J8b/AUnMQZDDNN5S99
+yqorr5GqSLTa1C1e16ntEAX4sqAZ7g8alzMrS/6pjU6vsRKxrHGCGWRxJfx9BDFA
+eKJW008KEbwypvWwIl8b1E8ky7Wl7E3uExEJlsS24hG4wHnRgIyiTrGlTuX+b/8c
+ucuFOoEGXPZjBNwgYollhBKYjNgkMe1pqm72WaBIgTtqRu5qMpiwEbt5jDB1VykH
+CWgms7WpvTjKBvAOBqvwLn0Cb5fanNss8id/+K7iA20CAwEAAaOCAWMwggFfMB8G
+A1UdIwQYMBaAFFmkZgZSoHuVkjyjlAcnlnRb+T3QMB0GA1UdDgQWBBRigExnNWJL
+hTQk8gxbsF3IJLa47DAXBgNVHREEEDAOggxzbWFsbHBkZi5jb20wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAy
+MDCgLqAshipodHRwOi8vY3JsLnNjYTFiLmFtYXpvbnRydXN0LmNvbS9zY2ExYi5j
+cmwwEwYDVR0gBAwwCjAIBgZngQwBAgEwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUF
+BzABhiFodHRwOi8vb2NzcC5zY2ExYi5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUH
+MAKGKmh0dHA6Ly9jcnQuc2NhMWIuYW1hem9udHJ1c3QuY29tL3NjYTFiLmNydDAM
+BgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQAxtdG0EAIT64NuFWvslQoq
++yoPMW5piNlzN2G6PZgZ7LE2Hbq9mImwhYyujiklzJiBbYAbK54w9GqkfCaOclcR
+d+oAvfQYjYE7yyk3DwssKlYRh60MNHZWg7+t9mAEK7IfgL0ZSu6w4SZIBxXxgxoE
+M5AGYwgQBrdk66ZavU8so4OrX6fO20PyCUzhrCLThikzJpH8KuTAnQ74ELpD+VbM
+DlS+94XqcEZVwWihS4aUdkl3VGY+pLo9BOFtqF2XBcUgkN9YddXzAOBxyQFkU2Cc
+xjzrMXaXl+honCx98feE21x+Npzr4P/ha/hGh/P8OdHjK6TwNYQ6/tpq1f/cgQ0o
+-----END CERTIFICATE-----
+subject=/CN=smallpdf.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5187 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 093BBC38314E55B89FE6E0607D4E5BC805163A3658F2C3D4FC7284A0AE6511E5
+    Session-ID-ctx: 
+    Master-Key: 3C9569CE88946BB65AA4E9D552BB7B9C37ABCB10ED531F8C3528C9C62989ACB310747C8708A48B024EBE1CADF8F03F76
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 10800 (seconds)
+    TLS session ticket:
+    0000 - a3 f8 35 21 1e 85 c3 5e-bd 0b e9 90 95 a7 6c 04   ..5!...^......l.
+    0010 - 80 af 13 fa 23 e1 7e 16-37 f1 6f 1c 07 f9 93 88   ....#.~.7.o.....
+    0020 - 88 22 21 26 53 9a fa 31-1f 2c 2d d4 72 4b 2f 2b   ."!&S..1.,-.rK/+
+    0030 - f5 e9 1f b3 57 22 ad 4e-69 51 26 d7 7f 08 d2 41   ....W".NiQ&....A
+    0040 - d9 2c bc f8 93 18 2d 31-4d c7 1e a7 63 3d ca c0   .,....-1M...c=..
+    0050 - b4 a8 97 e9 be 69 e9 4f-2c 9d ee d1 84 e8 46 db   .....i.O,.....F.
+    0060 - 7f a4 b9 f1 c9 ee 1a 38-30 04 2b a6 f9 66 b7 8d   .......80.+..f..
+    0070 - d5 ad 52 86 4e 83 d6 30-cc 19 86 94 e0 42 f5 f1   ..R.N..0.....B..
+    0080 - 3a c6 dc 6a 97 49 a2 85-df 68 a4 87 9e 26 25 c3   :..j.I...h...&%.
+    0090 - 6a b4 24 65 aa 55 22 6e-d8 87 d1 de 3c 6d 72 67   j.$e.U"n....<mrg
+
+    Start Time: 1472790567
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,58 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=KS/O=Garmin International/CN=mapkey.garmin.com
+   i:/C=US/ST=KS/L=Olathe/O=Garmin International/CN=Garmin Cartography
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDbDCCAtWgAwIBAgIBBTANBgkqhkiG9w0BAQUFADBnMQswCQYDVQQGEwJVUzEL
+MAkGA1UECBMCS1MxDzANBgNVBAcTBk9sYXRoZTEdMBsGA1UEChMUR2FybWluIElu
+dGVybmF0aW9uYWwxGzAZBgNVBAMTEkdhcm1pbiBDYXJ0b2dyYXBoeTAeFw0xMDAx
+MDQxNDMwNDZaFw0yMDAxMDIxNDMwNDZaMFUxCzAJBgNVBAYTAlVTMQswCQYDVQQI
+EwJLUzEdMBsGA1UEChMUR2FybWluIEludGVybmF0aW9uYWwxGjAYBgNVBAMTEW1h
+cGtleS5nYXJtaW4uY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDS6TI6
+xDzOLw1ENC9R8QrdSjRbR3vMctbosozgtKYUzW1t2OHE82QLYyz3+RFzKE9O5Tud
+XRCGLz01Hn/sQ8Y7FBOBt9k7fy71orewT0alnCijxLS79HkYWB4OyOQNN2QMTH3/
+f5UTk7Y4YGLs6ILCU3Axu14tB4yzWF58EVtLGwIDAQABo4IBODCCATQwCQYDVR0T
+BAIwADARBglghkgBhvhCAQEEBAMCBaAwJQYJYIZIAYb4QgENBBgWFkdlbmVyYXRl
+ZCBieSBHYXJtaW4gQ0EwHQYDVR0OBBYEFB6ZFrtW/7N0tHYKMv6rwDeo7Vm2MIGZ
+BgNVHSMEgZEwgY6AFHYLEW4S98V2JyL47afClH6MhbJQoWukaTBnMQswCQYDVQQG
+EwJVUzELMAkGA1UECBMCS1MxDzANBgNVBAcTBk9sYXRoZTEdMBsGA1UEChMUR2Fy
+bWluIEludGVybmF0aW9uYWwxGzAZBgNVBAMTEkdhcm1pbiBDYXJ0b2dyYXBoeYIJ
+AKZw775vKxGQMDIGCWCGSAGG+EIBBAQlFiNodHRwOi8vY2EuZ2FybWluLmRvbS9j
+YXJ0Y2EtY3JsLnBlbTANBgkqhkiG9w0BAQUFAAOBgQAPf/iHV3+lyCiWLMCEYgbo
+kbWen4WuhQUBoZQ/dd+S4AaTVu7qAX/qi+ckeWRHyMpEewo8ijqopnPkL+sgBnOu
+5beWyGRnF/lyYUAoNv8ANuTo585Ly+IDV31VivGwwyeb9iX3dOSrC+eTtHrLTNvh
+lMX3SYWUukJqPIhm6R7Anw==
+-----END CERTIFICATE-----
+subject=/C=US/ST=KS/O=Garmin International/CN=mapkey.garmin.com
+issuer=/C=US/ST=KS/L=Olathe/O=Garmin International/CN=Garmin Cartography
+---
+No client certificate CA names sent
+Client Certificate Types: RSA sign, DSA sign, ECDSA sign
+Requested Signature Algorithms: RSA+SHA1:DSA+SHA1:ECDSA+SHA1:RSA+SHA256:DSA+SHA256:ECDSA+SHA256:RSA+SHA384:DSA+SHA384:ECDSA+SHA384
+Shared Requested Signature Algorithms: RSA+SHA1:DSA+SHA1:ECDSA+SHA1:RSA+SHA256:DSA+SHA256:ECDSA+SHA256:RSA+SHA384:DSA+SHA384:ECDSA+SHA384
+---
+SSL handshake has read 1032 bytes and written 242 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES256-SHA256
+Server public key is 1024 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-SHA256
+    Session-ID: D65E2F53B0D03D886FF093FB8D76DF2EA0676264066164F3262B77DACD72ED0D
+    Session-ID-ctx: 
+    Master-Key: 3BA2525F88F8DDE9493F5BB975CB4C430F0F190DAE9BE8FD37B19E27C79CE93BD392A4946E8A48AF283C645C9EBC3D42
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472789327
+    Timeout   : 300 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

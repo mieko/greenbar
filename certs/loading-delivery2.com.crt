@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=CZ/ST=Praha/L=Praha/O=TrafficF, s.r.o./CN=*.trafficfactory.biz
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE8TCCA9mgAwIBAgIQEBTnDzysWGG+ivphjP6cPDANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwODI3MDAwMDAwWhcNMTYwODI1MjM1
+OTU5WjBnMQswCQYDVQQGEwJDWjEOMAwGA1UECBMFUHJhaGExDjAMBgNVBAcUBVBy
+YWhhMRkwFwYDVQQKFBBUcmFmZmljRiwgcy5yLm8uMR0wGwYDVQQDFBQqLnRyYWZm
+aWNmYWN0b3J5LmJpejCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMfx
+W7/oNv4WzhbOd6k+uz151TACsEzVQwN5Aw9p85mWwEgl5YDNxfyzaxUwKmcc2Lxa
+fiq5UjfWzRUoohrodefAjxnuYgGGXbkS2XLKlJKXfuNyyu1iGBt9P62XZKIfeAvw
+0AFknfrTn/ZYs4zfYRXM30gG22ZFtFWn9nJRNZaRzWkCYLvwBLXRuuHhciZBe0+C
+1oWlA3YH1bUHDW3JAT5oKizHYlycfyofJl+sedp9s8RB6PYIxXi76RLzZkg1IdHv
+oFYDe9+Jx6irI+HDUuGDnmBDiEqahbTiCXgEsBxdxoYXs4AhpsoPQY/7JIZl1K8n
+Zx8zJ1V+HGo8uQIO2sECAwEAAaOCAbowggG2MDMGA1UdEQQsMCqCFCoudHJhZmZp
+Y2ZhY3RvcnkuYml6ghJ0cmFmZmljZmFjdG9yeS5iaXowCQYDVR0TBAIwADAOBgNV
+HQ8BAf8EBAMCBaAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2duLnN5bWNiLmNv
+bS9nbi5jcmwwgZ0GA1UdIASBlTCBkjCBjwYGZ4EMAQICMIGEMD8GCCsGAQUFBwIB
+FjNodHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkv
+bGVnYWwwQQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jl
+c291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xafDBXBggrBgEF
+BQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5jb20wJgYIKwYB
+BQUHMAKGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MA0GCSqGSIb3DQEBCwUA
+A4IBAQCUL4vOw/sGQwqEXusCQKUM8g0FbJuRUDNQ4mx2rLnqedvkmulnquQZevJM
+1JI6URPfZtCLNr2FdwcQ/s6bLgsgVmoxxL+a1DB0IrbTRjEBP1ls/M8WCrK3gggs
+PDZSVnZtEw3aDoDn63OswumwZJch4CSNIHS34FKP0Iv0d5MSYlrgsjjscsNiRnk/
+MQ8W1zzdiULUff+FMKQ1bhzAtCWIqGZghltMhTxYBLGDcNgs0kGSx3ToLT9t0ci4
+ap7jEfd6hgkIN4bR2VWRIcXc19gKVGNPY+LvHAutb+YKKH6LlBUAvwRv1bUu27yx
+UPlc7P/x9ucXpI0jSzvEGTkIAjC5
+-----END CERTIFICATE-----
+subject=/C=CZ/ST=Praha/L=Praha/O=TrafficF, s.r.o./CN=*.trafficfactory.biz
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3897 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B1DC96FE593210FC71678B77A9E9C6F0CF8D963B15D00478F17B325ECF9DEE45
+    Session-ID-ctx: 
+    Master-Key: 05C0837971EEFEEA85EAF657FB3A443D0C4323FA3A93D83FCBC668CE3AF94B9EC46D624C500BA77B59570A08AB29D8DA
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 5b 76 53 e0 cd ba 83 7f-3d 30 26 4f d1 ab ac 5b   [vS.....=0&O...[
+    0010 - ac 8b 7b 56 a9 e5 26 25-b8 70 55 a9 5f 3b ad 6b   ..{V..&%.pU._;.k
+    0020 - 8f 57 b5 fc 07 4b e5 6e-e6 bb 4c b6 b9 a5 a7 58   .W...K.n..L....X
+    0030 - 53 9b 31 1e d4 e2 de 53-d7 05 ef 8e e5 82 aa 9f   S.1....S........
+    0040 - b5 e8 59 53 a1 27 9d f5-b0 47 f8 90 d5 87 d1 36   ..YS.'...G.....6
+    0050 - 20 38 0a 80 d6 f5 75 16-98 ff a7 d3 66 3f ba 06    8....u.....f?..
+    0060 - 80 30 a9 7c a5 df 3d 3c-09 f7 eb 7d 62 48 35 47   .0.|..=<...}bH5G
+    0070 - 49 a2 73 e5 ee c6 54 77-c2 98 cf 69 88 c1 f7 0c   I.s...Tw...i....
+    0080 - 2e d9 26 db b6 e3 36 fa-ac ae 28 98 fc 53 11 98   ..&...6...(..S..
+    0090 - 3c b7 69 76 e8 2d a7 90-11 15 c3 02 53 a3 f3 38   <.iv.-......S..8
+
+    Start Time: 1472788545
+    Timeout   : 300 (sec)
+    Verify return code: 10 (certificate has expired)
+---

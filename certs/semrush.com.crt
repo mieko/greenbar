@@ -1,0 +1,85 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=*.semrush.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+ 2 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFbDCCBFSgAwIBAgIQNkDFPDFOcgRaybDv0mGt0TANBgkqhkiG9w0BAQsFADBC
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEbMBkGA1UEAxMS
+UmFwaWRTU0wgU0hBMjU2IENBMB4XDTE2MDUyNTAwMDAwMFoXDTE3MDYyNDIzNTk1
+OVowGDEWMBQGA1UEAwwNKi5zZW1ydXNoLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAN6CTKkMxJFQ/nVejc7Bh2aQLJmaF0tkwEitm1PdxYyABPwD
+q9Kk62unAi5dPolnLQNR2q4IMlXCZS/6GT0/hCD2yHLZUwTsGFUKCX42ShL8OUjr
+1E32nJNQVmMNeemX0cd73phQWOqoRc0gSN2SZ8lHf/qD3+JRht/KUr+1KUdvhElf
+lU281aasgddotLrFrrMO3SgM3wxDpfa0trpYJCT1FoQT1eHPMAiLpBDk5IauIO/G
+sG8eZj13xed3+cCqm3Yi6Aj62Il1hfPGBR9yRnzYtZPDXrbi9bcdDWmZnA+6xR5M
+g25YHj7jlnqR5I0sZ3puaYl+CB/m0JSLDv0LLisCAwEAAaOCAoYwggKCMCUGA1Ud
+EQQeMByCDSouc2VtcnVzaC5jb22CC3NlbXJ1c2guY29tMAkGA1UdEwQCMAAwKwYD
+VR0fBCQwIjAgoB6gHIYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcmwwbwYDVR0g
+BGgwZjBkBgZngQwBAgEwWjAqBggrBgEFBQcCARYeaHR0cHM6Ly93d3cucmFwaWRz
+c2wuY29tL2xlZ2FsMCwGCCsGAQUFBwICMCAMHmh0dHBzOi8vd3d3LnJhcGlkc3Ns
+LmNvbS9sZWdhbDAfBgNVHSMEGDAWgBSXwidQnsLJ7AyIMsh8reKmAU/abzAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsG
+AQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2dwLnN5bWNkLmNvbTAmBggr
+BgEFBQcwAoYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcnQwggEFBgorBgEEAdZ5
+AgQCBIH2BIHzAPEAdgDd6x0reg1PpiCLga2BaHB+Lo6dAdVciI09EcTNtuy+zAAA
+AVTnRGNwAAAEAwBHMEUCIQC6yXlN4GdcUWanGZtzuBwPaa40wCeuc+P/ZNDRKRv7
+OwIgCERjMZIMsungZi+0SsYpEH1Jg4PFJrIVTpm4MYn4NecAdwCkuQmQtBhYFIe7
+E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAVTnRGOnAAAEAwBIMEYCIQDhGP0y4GFH
+G5IHRXytL6Mo1EJqm8XEpdtMptaIKTQZfQIhAKNbRv/25GkU0A+V36VoauMTCbQX
+CFCqm2CcuU7uKmZpMA0GCSqGSIb3DQEBCwUAA4IBAQBEf8yO/pkzuLaB6ik0WbyK
+rDfbO6QOEcZrcO4/9CzlaRN35f6sFXbBlCKXda2lBOvd1Nh3bVDZOkAeG1ZZU/1x
+xM2evevsgkHSqCIx/V7Lp9GmOPi6poN5bGznCyT2220OTQDCIw7oUg1hsNNLu0+s
+xgBiF4/sLS3EZGFAOsQuke3+l0fotWn9GJvoK0HUfB72/y0X9DjcmkrsHDuHY4wU
+8SmLreM3jg67L5ADhI/pzjY73vlczM97NzDbQBsa6aogsFoxdc85uK0pTkej2R3D
+3twmhAHsYrJiEGIBz5lTK6Sl200xes3PCwWjdNSfTOwGkOkFp1JriG+HWmWwBFzQ
+-----END CERTIFICATE-----
+subject=/CN=*.semrush.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4075 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A53109CA40308C52994FD5B8C76CAA4AF067D4A904801C98B600673F62209B17
+    Session-ID-ctx: 
+    Master-Key: CBEC59F3C0A59D7EC232549654D006236F62D66B48476208051194DDAB1CF7C3B09BA0BE9EE52CFEC0B27558FCD0CE17
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 88 1c f8 af e0 5a e4 95-7e 27 08 8b a6 52 6a ea   .....Z..~'...Rj.
+    0010 - ca d5 69 48 84 d3 c6 ab-47 63 42 ed 56 d7 00 e1   ..iH....GcB.V...
+    0020 - 9b d0 d7 9b 86 71 fc 00-e2 a0 27 1b 75 de 72 fd   .....q....'.u.r.
+    0030 - 71 4e 37 0e cc a3 63 06-c3 b6 a8 40 14 9d d7 0d   qN7...c....@....
+    0040 - 95 07 75 a5 57 6a 58 2d-d5 8f f0 21 14 60 65 75   ..u.WjX-...!.`eu
+    0050 - e0 55 97 b1 9d 99 51 e8-a9 fb ae ad 6a 77 7d 9f   .U....Q.....jw}.
+    0060 - ad 06 04 36 42 19 35 9c-42 ee 47 1a af 4f 63 33   ...6B.5.B.G..Oc3
+    0070 - a6 12 e4 95 f0 84 8b 2f-fc 40 ed c5 f9 1d b8 c5   ......./.@......
+    0080 - 7c b6 bc 95 ba dd b4 e0-00 53 2f 85 76 40 b0 b3   |........S/.v@..
+    0090 - bf bd d4 95 31 bc 7f 38-32 08 47 33 66 72 4c 16   ....1..82.G3frL.
+    00a0 - a4 ca 7e 61 5b 54 f6 b4-fb 15 1b af 64 33 2e b7   ..~a[T......d3..
+
+    Start Time: 1472790500
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

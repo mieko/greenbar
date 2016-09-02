@@ -1,0 +1,65 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=IN/ST=Haryana/L=Gurgaon/O=MakeMyTrip (India) Pvt Ltd/CN=*.makemytrip.com
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE8DCCA9igAwIBAgIQW6ZCGUD90ChVIHjNTRJVPjANBgkqhkiG9w0BAQsFADB+
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
+IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE2MDEwNzAwMDAwMFoX
+DTE3MDEwMTIzNTk1OVowcTELMAkGA1UEBhMCSU4xEDAOBgNVBAgTB0hhcnlhbmEx
+EDAOBgNVBAcUB0d1cmdhb24xIzAhBgNVBAoUGk1ha2VNeVRyaXAgKEluZGlhKSBQ
+dnQgTHRkMRkwFwYDVQQDFBAqLm1ha2VteXRyaXAuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAxp2iP/97icwvlTi68Me+F60mK/Z9mjiWy6cfItLf
+ks5nsJfJZl53v4ua81wgDX8dNcmkm2qL1J5uszaVAGVM8KTOLuRAFJNPJe8J028D
+LuDibUHotI93ogmXi1L7gH8xixoEQ/3Ay1aNnldNWRloH4B1ZQZaeGPpogEV41dR
+zDv42AWzhZ4xOco90VJ7N+d5GP+x4joPOYLbQW1gKhT7P9pPW3/YDwkSpVc47xM6
+WGW2SfCst1frFROqcE5RyJS3yqc9uUugXGA+uOP+DldkGYzQqBU3NYnlb3Tczdqu
+Q1jZPMOW8ExANAh/lVGgX8WNIUNxsoXoaMcXcGMWOl0urwIDAQABo4IBdTCCAXEw
+KwYDVR0RBCQwIoIQKi5tYWtlbXl0cmlwLmNvbYIObWFrZW15dHJpcC5jb20wCQYD
+VR0TBAIwADAOBgNVHQ8BAf8EBAMCBaAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDov
+L3NzLnN5bWNiLmNvbS9zcy5jcmwwYQYDVR0gBFowWDBWBgZngQwBAgIwTDAjBggr
+BgEFBQcCARYXaHR0cHM6Ly9kLnN5bWNiLmNvbS9jcHMwJQYIKwYBBQUHAgIwGQwX
+aHR0cHM6Ly9kLnN5bWNiLmNvbS9ycGEwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMB8GA1UdIwQYMBaAFF9gz2GQVd+EQxSKYCqy9Xr0QxjvMFcGCCsGAQUF
+BwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3NzLnN5bWNkLmNvbTAmBggrBgEF
+BQcwAoYaaHR0cDovL3NzLnN5bWNiLmNvbS9zcy5jcnQwDQYJKoZIhvcNAQELBQAD
+ggEBADKUdXOOEkFCezTeM73ibZxEhwxUVm4687j9kSYWDev/Sq7J7j5P9hFT2z1m
+8XVkfAFHjpoNNmebdWLz+wzREq+2FXnOKbfM4CjK+znfRMOvEIxl5H0RI+mKNvRg
+qIS+MGurVZj5apVDCzH6FQEm0jTVkHJ+Rq9KqQzzYa9d/dO6InxLPz1qq0inloyv
+9skY8HoXfPMkL5cIjLja0JbXFUKOopFvpczH3A3+p/7+ihaw8WXqBBzzvefg4wis
+S7GcEWBLzyjoiB/HN1EtVOxwpSkAtKLsX6C9LAfpYOfHWNJ3xXslohNQC1S/XCIG
+XhfttMijV4vm4hk4ugE4hWbgeUE=
+-----END CERTIFICATE-----
+subject=/C=IN/ST=Haryana/L=Gurgaon/O=MakeMyTrip (India) Pvt Ltd/CN=*.makemytrip.com
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+---
+No client certificate CA names sent
+---
+SSL handshake has read 2772 bytes and written 626 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-GCM-SHA384
+    Session-ID: C2339023E8FC9EBAD5108B8EEC90F740D9563E4AA291067BD1B72FEBAB13794B
+    Session-ID-ctx: 
+    Master-Key: 614C41E30964E6ED3D9C04D79D6AAA67FB52A97F63907F6E941605A94A53E09ED22D071D4798DF28FF4A11D49F19D07C
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472788724
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

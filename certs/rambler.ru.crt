@@ -1,0 +1,83 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=*.rambler.ru
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFaDCCBFCgAwIBAgIQDursVd4XYaenjRwb4Zd8CzANBgkqhkiG9w0BAQsFADBC
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEbMBkGA1UEAxMS
+UmFwaWRTU0wgU0hBMjU2IENBMB4XDTE2MDMyNDAwMDAwMFoXDTE3MDMyNDIzNTk1
+OVowFzEVMBMGA1UEAwwMKi5yYW1ibGVyLnJ1MIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAmJ2EY68wPtMbt1K+wcJq8WKcCUCKvsLh9WnQqVZ0NyTy9lmP
+uhvX72JEC+T/JH/zaQfIrjHj+rZQfEh0gN91Lcyt29aSqmaxPiTwNWjlWcvXC9wM
+KvRC72jS3YLNqjiNtKDDXybQKAtCpZy/Q8uzyvzZfaMyeH6Q3lruEssIuwWglQr8
+qyZQ7lX6r/f+ldQYkf6MTapdXnk+5a9BD8T1B3ldwXGC2T2NXay7m561FJN8qNuq
+s9im1vjdxZrL6G/mFQFGT2kUbCvU3pR6njgw4d91juiOhmfTopH4xtLQRudzajYA
+QlD6NWDXcXCe7aPI+jdu+qfRXt8maWfdxarnlwIDAQABo4ICgzCCAn8wIwYDVR0R
+BBwwGoIMKi5yYW1ibGVyLnJ1ggpyYW1ibGVyLnJ1MAkGA1UdEwQCMAAwKwYDVR0f
+BCQwIjAgoB6gHIYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcmwwbwYDVR0gBGgw
+ZjBkBgZngQwBAgEwWjAqBggrBgEFBQcCARYeaHR0cHM6Ly93d3cucmFwaWRzc2wu
+Y29tL2xlZ2FsMCwGCCsGAQUFBwICMCAMHmh0dHBzOi8vd3d3LnJhcGlkc3NsLmNv
+bS9sZWdhbDAfBgNVHSMEGDAWgBSXwidQnsLJ7AyIMsh8reKmAU/abzAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsGAQUF
+BwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2dwLnN5bWNkLmNvbTAmBggrBgEF
+BQcwAoYaaHR0cDovL2dwLnN5bWNiLmNvbS9ncC5jcnQwggEEBgorBgEEAdZ5AgQC
+BIH1BIHyAPAAdQDd6x0reg1PpiCLga2BaHB+Lo6dAdVciI09EcTNtuy+zAAAAVOp
+CkYLAAAEAwBGMEQCIE+raTypsVGBbK+jCLt36MeA2/EWp8q4JqbIRwrgebW4AiB+
+mXCVrQ/AHdX+xNL172gw1zLCUDQ+y83RrtUxc+zViwB3AKS5CZC0GFgUh7sTosxn
+cAo8NZgE+RvfuON3zQ7IDdwQAAABU6kKRj8AAAQDAEgwRgIhAIypNeaFezhAdhMo
+GsMyrQC/MZce7L3yAHZC7e06fVW9AiEAgaBUQ3Gw8kabLl1U9wFfLxWkeCb5VZX9
+xcrYdQzgStswDQYJKoZIhvcNAQELBQADggEBAGFnWTWyNngpITS7abrXnxSIkY3V
+xlt59vWwDSstV+XEzNJ81dtFohRqBQU/qivWaU0l+B7j8cVIGRUDTIuungDBnanq
+/2r9kMQ1XUUpd57LCjALO5BxvL4zYW/bSgP/ZDGuy9tJ2c8Bg5QOm0kc5rKzgG62
+DasT+mOeCJRgRhR+JuuX9DTQ5Kxyh7R92ccHDu8Ii66GhT7KzIklTfDrU+DQd0/w
+k19eWHpqIBwprhqv+khme99ssw4S/sUm7/eeAFHTuEKD/aXXNdPSnJIIiV/qn10H
+tt1R2wscycBH0B63GqebEdjzPtSbU2nY64B+La52ohuc/x9Aw5n+/h2f/54=
+-----END CERTIFICATE-----
+subject=/CN=*.rambler.ru
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3171 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DAE28F90A4E7BC80AA7583289DB0C6D0605CE87034B76AA856BA6FFF118FE237
+    Session-ID-ctx: 
+    Master-Key: 79A92508C720032B8420CFF8716C505EC5101924E25FB916CB2DAACE1B79D4A795B35D352916ECD3F45E2785CAF2ED70
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 42 93 b1 a3 b6 e3 3e 24-9f 0a 1a e4 86 69 2e 6b   B.....>$.....i.k
+    0010 - 8f 60 47 2c d3 d4 b2 f5-13 ca 3e 17 d1 05 20 6b   .`G,......>... k
+    0020 - b5 32 a5 91 90 a3 14 fe-66 e6 29 07 2b d9 ff 81   .2......f.).+...
+    0030 - 48 c7 86 b0 9f 65 4b a5-da a2 a5 69 b2 48 4b 79   H....eK....i.HKy
+    0040 - 24 4b 7c de b3 96 16 b4-65 83 19 2d 4a c1 00 40   $K|.....e..-J..@
+    0050 - de 5f 26 21 03 ca bc 9e-98 58 34 f8 f4 e7 9b 4f   ._&!.....X4....O
+    0060 - 9a 78 cd c7 c7 7a 4a d7-50 1e b3 b3 fb 3d 1e 3c   .x...zJ.P....=.<
+    0070 - 1b c8 3c b2 6e 7b dc 24-70 35 44 81 a6 ff 8c 4c   ..<.n{.$p5D....L
+    0080 - ed d1 7e b6 07 f8 4e dd-44 79 f1 70 46 62 23 c3   ..~...N.Dy.pFb#.
+    0090 - 8b 16 21 ce f7 5e ba 1d-d1 ca 0a 23 6f 12 4f e7   ..!..^.....#o.O.
+    00a0 - 23 24 1f 14 40 da 46 8e-da 4e e1 3d 33 8d b7 91   #$..@.F..N.=3...
+
+    Start Time: 1472788182
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

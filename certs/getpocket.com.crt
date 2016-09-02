@@ -1,0 +1,84 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=getpocket.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5zCCA8+gAwIBAgIQAW7Au2OOGaXiq9FrO52m6TANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xNjA3MzAwMDAwMDBaFw0xNzA4MzAx
+MjAwMDBaMBgxFjAUBgNVBAMTDWdldHBvY2tldC5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC688Oyt6/UkFJ6cAufTa6ufALJqoDvJXZlxPrQstrg
+Fol/9ePFlnh3IBJPDbwWy56M275hAWraiIsCoDzDGAmo/2tpuf+FCW3yH54cJ1K/
+4lJHZavjle7s5fHXRhIP11N+7Wgzt7P/NFkG4AmsE92Z8PyXoU4pZ6L9x1u/fzxN
+vls6B8yfxB6aKBGdcezlQhfB3uENYgml5dX8ddRfFApctmuRqR6GAXJHECsszN/u
+FGHfYdf8mNeqrLbzggD9MoXbYzrqD8+i4rEKyZnji89sGhcUoqgU0MMRfxQ3Kn/w
+NxTkYG3KKl2fmCakGqhgMsIOPSPzUu9vx0Vq2Qk5dJrLAgMBAAGjggH9MIIB+TAf
+BgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUtgJuv194
+3FQ2ubQWnAW5reZy85gwgbAGA1UdEQSBqDCBpYINZ2V0cG9ja2V0LmNvbYIRd3d3
+LmdldHBvY2tldC5jb22CD3JlYWRpdGxhdGVyLmNvbYITd3d3LnJlYWRpdGxhdGVy
+LmNvbYITcmVhZGl0bGF0ZXJsaXN0LmNvbYIXd3d3LnJlYWRpdGxhdGVybGlzdC5j
+b22CCXBvY2tldC5jb4IRYXBpLmdldHBvY2tldC5jb22CD2wuZ2V0cG9ja2V0LmNv
+bTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwuc2NhMWIuYW1hem9udHJ1c3Qu
+Y29tL3NjYTFiLmNybDATBgNVHSAEDDAKMAgGBmeBDAECATB1BggrBgEFBQcBAQRp
+MGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnNjYTFiLmFtYXpvbnRydXN0LmNv
+bTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5zY2ExYi5hbWF6b250cnVzdC5jb20v
+c2NhMWIuY3J0MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQELBQADggEBAFawMa5Z
+5yJtynVFYfYvRuRttVvOaAkt6BEgrTIWr3OAN++VkbuMBpUd1gJlDtW1v046qvl4
+8NmJD1VM499eMRt/vahfgYSiAMb38gDIn64ErvZcpK/e0kHePmq18suSmVH+rbQi
+PzsT+iYq/4KUy0UtMWxu/Nwt+2gNytofthcZC92vmEBpPR5crnv6NlYywXUW2BuU
+WyRSBNWHRapWLk4aa+YO1IntSO6eyDi6KiRkDPfNt8MNQxP8mZofwdjMXupA6ITD
+2ezyhKsX0zDdIvDfZSTRol7BScTMPne2hQhLiVwU1THomyQlRRlC6NdezTApw1tU
+bdIvPUx1ms1zGPg=
+-----END CERTIFICATE-----
+subject=/CN=getpocket.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5342 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: D1D3DDAE67FDFB3DC948185555017FD9C1C2BF7A52A1CF4A8E8791748E11D3F4
+    Session-ID-ctx: 
+    Master-Key: FA8DBB7EC85DF6693062EF8AF8475950BC8E4F5A2C265517D3EFC14C705E1CCEDCB4B1E5E2AC20DF492750E6671A55E3
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7a c6 21 36 e5 39 60 69-0b ff b6 a1 7a 8d 9a 92   z.!6.9`i....z...
+    0010 - 7c 62 a4 64 11 63 de 5d-fb 53 55 73 0d e1 4b 6d   |b.d.c.].SUs..Km
+    0020 - bd 13 68 ff 17 a6 dd ca-e6 38 35 59 d9 0f 5e 79   ..h......85Y..^y
+    0030 - 94 ca fe ca e4 11 be 69-0b 03 04 9b 8c d2 b4 fb   .......i........
+    0040 - 61 d9 02 5e bf 7c 62 33-29 7a 37 3a 74 32 fa 41   a..^.|b3)z7:t2.A
+    0050 - d6 ef 26 e9 d9 da 65 db-3e 48 01 7f 3e 3a 99 b6   ..&...e.>H..>:..
+    0060 - bf 12 ce 9a ad 4d 0d 77-da 4d d2 cf fa be 66 3f   .....M.w.M....f?
+    0070 - c8 1b 2e ce 89 d7 1b c1-59 bc 99 fd 92 89 34 38   ........Y.....48
+    0080 - 09 e7 ac 67 38 05 99 70-91 c6 57 ad 52 09 19 1f   ...g8..p..W.R...
+    0090 - 70 c1 2a f7 26 53 aa 99-74 d6 bf 61 1b f0 fa 9c   p.*.&S..t..a....
+
+    Start Time: 1472788652
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

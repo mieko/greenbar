@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=New York/L=New York/O=Vimeo, LLC/CN=*.vimeo.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFCjCCA/KgAwIBAgIQAcTDD6h8aIOAEPuqUY5BGDANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTQwMjA1MDAwMDAwWhcN
+MTcwMjA4MTIwMDAwWjBeMQswCQYDVQQGEwJVUzERMA8GA1UECBMITmV3IFlvcmsx
+ETAPBgNVBAcTCE5ldyBZb3JrMRMwEQYDVQQKEwpWaW1lbywgTExDMRQwEgYDVQQD
+DAsqLnZpbWVvLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMWL
+d3wIW5KX0HUhBlf8Gw8bRchUzQQXXfZJ5LBBf7lnrKv0FAXIbtikgz9q51avobhq
+xB+w9gXUf/+nnccLdikk5gukXSbQFCcC7grn1zhSSeIVomZiHCWceLG5UQ+NCZpz
+g+e6ILUeNiYJSnQw18kMVhyYZRX6rI2Qstttvf+wQo7f8zsqDJIyLvoUg6OM9dsd
+LyMQzQPjE6hLsv1RnipzvsFkYWwgI/4LXzfOZCg2Fh5VMJ/Bd0hwZpRmbQ8mVNsn
+bQjwy6iJZvKmhytOaqUXn3kx2lsGin7h3/giCZ8RrgFESaYV02mzOoS/gNrAlQYQ
+wPfbvV5ZrtDDhvc8b1kCAwEAAaOCAdMwggHPMB8GA1UdIwQYMBaAFA+AYRyCMWHV
+LyjnjUY4tCzhxtniMB0GA1UdDgQWBBQOgcVO/po2+xJjBO0EoI3lXmhzdzAhBgNV
+HREEGjAYggsqLnZpbWVvLmNvbYIJdmltZW8uY29tMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4Yp
+aHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nNC5jcmwwL6AtoCuG
+KWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzQuY3JsMEIGA1Ud
+IAQ7MDkwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRp
+Z2ljZXJ0LmNvbS9DUFMwfAYIKwYBBQUHAQEEcDBuMCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRz
+LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQwDAYD
+VR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEA00fmStuQF2Gdmq6Mc0vJ5Oak
+PVx+zaQ1iKwVbgRVJjibyD6mUXbxXEF+v9nqMi4SZVFKwcFV1Ah55IwOu891R8/w
+dIALcxIQtviZvea4LNPeF3RD0S/LN2QRirNCkH9w2uA/rUWK900lK13sD4GeINcr
+8xLbh80Ixz7zOC3zIQV2Nn1FM0EGZwMAMISs4nJnVQJRfO1NIRLSsTYF/A4Zabdo
+ImZFHw/hUmoNJaRXrLK8srXC/BwfP5jg1b0ORwAB8muKe7/WTaITtP9/w5FeyXT1
+Xw9VYSxzisRAL3sAdJppQqllXTAxn9LCDO5FssW1rC1EvtUX42E1v1N5tWhk5w==
+-----END CERTIFICATE-----
+subject=/C=US/ST=New York/L=New York/O=Vimeo, LLC/CN=*.vimeo.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3132 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 3E95DA9DE94E8C5CDAFB87A6D9C2B26A6A82BE07B15ECEDDEFD3B5451C91FDA5
+    Session-ID-ctx: 
+    Master-Key: 9F2B36D8FBF6064FBD74CFEC1756810B390DF792ED9EF0918A1A93B7987017B541AB99B3CE35D80BC3D1EA1CCAAB49B5
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 1200 (seconds)
+    TLS session ticket:
+    0000 - 63 cc 77 4a 00 db 2c 42-2e 8f 76 23 dd a9 ae 53   c.wJ..,B..v#...S
+    0010 - 74 d4 e3 b0 7a 7d 2d a5-0b 43 33 ef 0e 86 0c a0   t...z}-..C3.....
+    0020 - e1 7f 3a 61 b6 6c 57 17-c1 c0 d2 43 58 83 2d e6   ..:a.lW....CX.-.
+    0030 - f4 bf 1e dd c8 77 d7 21-b8 a5 42 d8 e2 73 06 e6   .....w.!..B..s..
+    0040 - f8 e8 9e d0 0c d3 ff e3-a6 4b 4e 57 84 29 17 76   .........KNW.).v
+    0050 - 8a b9 03 bb 10 17 b2 07-6d 82 de 44 30 3c 63 d4   ........m..D0<c.
+    0060 - a8 70 dd e0 62 08 76 cd-14 6b 49 98 bd 6b 18 7a   .p..b.v..kI..k.z
+    0070 - 44 0f 02 3e 32 eb 18 f8-14 11 ec 3f b4 a9 89 ae   D..>2......?....
+    0080 - ae fb ff ee 8b b7 b6 6c-96 20 05 fa 7a f0 bd e3   .......l. ..z...
+    0090 - 32 99 95 98 1f 02 3e 55-da a0 bf 1b a6 7a 00 c8   2.....>U.....z..
+
+    Start Time: 1472787983
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,83 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=RU/ST=Moscow/L=Moscow/O=Limited Liability Company KEH eCommerce/OU=ITO/CN=*.avito.ru
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+zCCA+OgAwIBAgIQLO8FGn8Xxai9jLEkif5OTDANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMjE1MDAwMDAwWhcNMTcwMjEyMjM1
+OTU5WjCBhDELMAkGA1UEBhMCUlUxDzANBgNVBAgTBk1vc2NvdzEPMA0GA1UEBxQG
+TW9zY293MTAwLgYDVQQKFCdMaW1pdGVkIExpYWJpbGl0eSBDb21wYW55IEtFSCBl
+Q29tbWVyY2UxDDAKBgNVBAsUA0lUTzETMBEGA1UEAxQKKi5hdml0by5ydTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKVL4BEm3yew8XTBoogzgEK0dmGF
+HqA7nlg1qnevPII+v5iCDhB2ReR/oJl21K2Ao8dpOuqb528rucJn8Umw+HBQMIRl
+nEr6wqpOY5V5GgMKaWwIRFNaVqIiUAa6/EZ/hjDeAwT/ROD+kSKbMw1je71LKeYo
+cMVf0bdES3yY+t08kQyb6NEcEVv6I22YGeeXZ1S7wpK/4rS+F6XWDbRasWAKH/lY
+gyR6wvyQkpdq73TP74MmdYFRpfc6HBz6k9E+EyQLPFmgxS6lZ/lHeWAMJQ6SDgBb
+dHxDzyFygSh/KFTPXwRN7r44bX+hw+cWdWr22MeLfBoHxvCjcAobTcSbLDECAwEA
+AaOCAaYwggGiMB8GA1UdEQQYMBaCCiouYXZpdG8ucnWCCGF2aXRvLnJ1MAkGA1Ud
+EwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9n
+bi5zeW1jYi5jb20vZ24uY3JsMIGdBgNVHSAEgZUwgZIwgY8GBmeBDAECAjCBhDA/
+BggrBgEFBQcCARYzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291cmNlcy9y
+ZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUFBwICMDUMM2h0dHBzOi8vd3d3Lmdlb3Ry
+dXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDAdBgNVHSUEFjAUBggr
+BgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU0m/3lvSFP3I8MH0j2oV4m6N8
+WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ24uc3ltY2Qu
+Y29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNydDANBgkq
+hkiG9w0BAQsFAAOCAQEAMxEUOXgmCE/HuQjJNQzW0PTR5bJE3leI4KRdUOnh4cp1
+47YNEfOOetUs4D6Le+MjOS20L5vty63wUZ7stnQxPYSnrh9WADseCOkxzYwF1UIC
+uf0tVLGQPUYdGiVXAC9dFaN3fYrze1Q5e5jCfNfcfxwsLEhw7AM+f11ezuKCioCQ
+Kimy7u8LwjSugz7Kyi6ZKsyZRofPoccQXR/Fe6FqVXNLag63VmniswsoHYeGRbz2
+6wkstzrCAc1yimGPxixiYBKMJ3MXebV6v4zAavXo0BIzwjV9Cu55vw0HKoNKGdBM
+t/fK7WPpsstaDUR01sRq2Di6doba7TjtZAB2+6ofvA==
+-----END CERTIFICATE-----
+subject=/C=RU/ST=Moscow/L=Moscow/O=Limited Liability Company KEH eCommerce/OU=ITO/CN=*.avito.ru
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3923 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 645DAD2014A3A41A5491C748FAEDD48D381BF8FD9B0BA3DE902FC1C82C0ADD56
+    Session-ID-ctx: 
+    Master-Key: D78BC3E76637F0F23E8473998D059CDE1B520FE7742B80A00CB7E7519D3045DE7A7D1A8D750D9E061DBC6BA680F2C492
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - e9 b6 20 16 c5 e2 df f4-d2 bf c0 db c7 fb 5f cd   .. ..........._.
+    0010 - 42 ae e6 41 4a b8 e0 37-0d ca a0 b7 72 e2 10 c1   B..AJ..7....r...
+    0020 - 99 e3 49 5b dd 37 0f 48-bc 98 8b e2 17 01 33 b6   ..I[.7.H......3.
+    0030 - 9f 2e c6 d1 69 ac 58 93-da 9d 3f 2c 06 0a 68 0e   ....i.X...?,..h.
+    0040 - aa 9c a8 79 51 8b 3f 85-77 5e 55 56 b6 74 c3 88   ...yQ.?.w^UV.t..
+    0050 - 22 e2 97 ff 96 3e 38 1f-91 20 2e b4 69 cd fe 4c   "....>8.. ..i..L
+    0060 - 0b 9a e9 34 af ef 16 bf-e0 e4 f7 0f fc 45 a5 fc   ...4.........E..
+    0070 - 28 a2 45 a6 b3 e5 91 53-f5 ab 11 d5 3f da 15 ec   (.E....S....?...
+    0080 - fe ac 70 c9 dd 19 82 c8-76 9e a1 ea bc 33 77 4b   ..p.....v....3wK
+    0090 - 3d 79 06 fd c9 60 19 8e-b7 50 60 7d f0 34 4a e6   =y...`...P`}.4J.
+    00a0 - 07 7d 2a 17 78 4c 6a b8-bb ac 83 fe d9 6a 98 7d   .}*.xLj......j.}
+
+    Start Time: 1472788002
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

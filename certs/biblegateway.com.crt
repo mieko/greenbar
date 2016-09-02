@@ -1,0 +1,84 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Michigan/L=Grand Rapids/O=The Zondervan Corporation LLC/CN=*.biblegateway.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNjCCBB6gAwIBAgIQAVK+BiaDUzdbjdy3T9JUoDANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTQwNTE1MDAwMDAwWhcN
+MTcwODA0MTIwMDAwWjB8MQswCQYDVQQGEwJVUzERMA8GA1UECBMITWljaGlnYW4x
+FTATBgNVBAcTDEdyYW5kIFJhcGlkczEmMCQGA1UEChMdVGhlIFpvbmRlcnZhbiBD
+b3Jwb3JhdGlvbiBMTEMxGzAZBgNVBAMMEiouYmlibGVnYXRld2F5LmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMrIdjGJdK07rvVTmT2LSSVQtuIM
++msZL1IF01wGvc3Kqr8z245cqhxp2Y7qtv+nVy+Qpt9ZtxRQhXpS/L8iwj0aWG8W
+8spmv64410YAul3IoSb5MGiCw9IQ0qSYKkisXevmgmsWy9o+oLma8UL90adMLVtA
+/ZNNzrOgscEaFIww+smvm1BRZE3qh5bhN7I7b6sAmRKnbwOpfqgAFPe5+ojxrHuT
+r/b6yxKbb0x0YVXa7WAiY5ouN/bOxQJKODTYIux9n1y6RAtT2khh1Joyl1dZ3Gsw
+NQIJtp3aB6gbgZNfMwphG+OkizkV8m/tJvmgI2rUbqMbdC0iT3o3nmRekrECAwEA
+AaOCAeEwggHdMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1Ud
+DgQWBBQ0h0B8h5yOuwoxbKkiiUKAD6IrkzAvBgNVHREEKDAmghIqLmJpYmxlZ2F0
+ZXdheS5jb22CEGJpYmxlZ2F0ZXdheS5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBrBgNVHR8EZDBiMC+gLaArhilodHRw
+Oi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWcyLmNybDAvoC2gK4YpaHR0
+cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nMi5jcmwwQgYDVR0gBDsw
+OTA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNl
+cnQuY29tL0NQUzB8BggrBgEFBQcBAQRwMG4wJAYIKwYBBQUHMAGGGGh0dHA6Ly9v
+Y3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEFBQcwAoY6aHR0cDovL2NhY2VydHMuZGln
+aWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNlY3VyZVNlcnZlckNBLmNydDAMBgNVHRMB
+Af8EAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQCAlKxrmCEkZfp1OalCyXd7/KuTLg0P
+RuvX/28SDy2QU8qWcQaNOzF8yKf0R8PHZFUuY+ACzTXOZBIq5CtJL4pv2uyMaGJ1
+IljfU0A6NMzdbv6dA7pRuE9uHDGtPzeZ9G5ps5B1k7FaCCG0mnXFIEcr6UXhLFdn
+UcBbuWbf9ZeCenkTExXRNgTlboP4bO90q3eFusGVxUHDcdi7uYk7ayGV8sYAbDQH
+bbB9KCULCyWA8S+7dHvIhjbKOZLSzU3ILRTSaEJW/L6T0sOWADWkEAZ5jDtuQr0t
+4sESMq2wl8oHKv/tohrYZ26/FeobCinmWi/qihPYC15VHpbo9ehTrvyN
+-----END CERTIFICATE-----
+subject=/C=US/ST=Michigan/L=Grand Rapids/O=The Zondervan Corporation LLC/CN=*.biblegateway.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4142 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: BB0AA2A88FF67F442EF751675DC58935D45FEDD52E78586F654693D83DF7EDDD
+    Session-ID-ctx: 
+    Master-Key: B0F6880131F48649F33DC9A2B34FE761909C7840352F85E11EA0EB526D5D0E8C1FBB625594F054B3929BB275BFFF38E5
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 5d 14 23 f5 0c 6e 27 36-0d 4e 64 81 fd 5a c8 59   ].#..n'6.Nd..Z.Y
+    0010 - 0e 3a 30 d0 c4 23 fe 8b-8d d4 d3 51 d6 5e c0 bb   .:0..#.....Q.^..
+    0020 - f0 83 18 d2 6c 65 4e 4b-2a 28 55 13 5d 36 53 8c   ....leNK*(U.]6S.
+    0030 - be 55 2d 79 31 8d 4d 27-24 dc 7e 47 dd 10 55 8d   .U-y1.M'$.~G..U.
+    0040 - 32 e7 3c ee e5 ca 77 cf-bf 47 d1 83 89 af 3a 6d   2.<...w..G....:m
+    0050 - f8 de 6b 04 04 c5 5c 88-58 a7 57 37 ec 26 23 17   ..k...\.X.W7.&#.
+    0060 - ad c5 58 52 7a 02 dd 90-19 16 ec 2e cd b4 59 28   ..XRz.........Y(
+    0070 - 33 23 98 a1 e0 d4 fc 19-df d0 4a 28 70 be 90 2e   3#........J(p...
+    0080 - 79 84 68 91 19 b1 63 21-98 a9 26 69 11 a0 9c 51   y.h...c!..&i...Q
+    0090 - 2f cc e7 83 64 f5 ee 71-0d e1 b1 ed 32 76 4d 19   /...d..q....2vM.
+    00a0 - 87 5b 79 4e e6 28 ea 86-ae 0f 16 9e 50 97 56 85   .[yN.(......P.V.
+
+    Start Time: 1472789643
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

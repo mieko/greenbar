@@ -1,0 +1,78 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=BR/ST=Sao Paulo/L=Sao Paulo/O=OLX ATIVIDADES DE INTERNET LTDA/OU=Infrastructure/CN=*.olx.com.br
+   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE1zCCA7+gAwIBAgIQKX/W14jerA38/dyKLJ+mvzANBgkqhkiG9w0BAQsFADBB
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
+aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUxMjE3MDAwMDAwWhcNMTcwMjE0MjM1OTU5
+WjCBjzELMAkGA1UEBhMCQlIxEjAQBgNVBAgTCVNhbyBQYXVsbzESMBAGA1UEBxQJ
+U2FvIFBhdWxvMSgwJgYDVQQKFB9PTFggQVRJVklEQURFUyBERSBJTlRFUk5FVCBM
+VERBMRcwFQYDVQQLFA5JbmZyYXN0cnVjdHVyZTEVMBMGA1UEAxQMKi5vbHguY29t
+LmJyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8gNDKEfufg2xAnui
+8UXdJeJKkP4OxUfn0RP5u3uVSMJ+1ABGol6sy50I42MHF+uUayU1TlKKPMgRXAzg
+eDiPG/9zA1dacx9j6rf39bZZ6FaHaXUU5ffv9pRJnZ0bQG3c3SYIIrckauGOq38B
+faxnWIuYxzm6oYR045Zh8HaEnseI651MBIZF/hT/VdpGa11DmwlcFPYJYFSvg6OU
+lku2U2L7B2LR0U5uOr9e6VdSGddFevLDqo+1qoe1xEAnUnfXFpp//9+UAtGQ6nIE
+piIvmNAFA7izfeD6dRGMrc4bAKQkvHa+CEakunCl6oZuNr60gU3hOgvjlaGMYysr
+iojGhwIDAQABo4IBejCCAXYwIwYDVR0RBBwwGoIMKi5vbHguY29tLmJyggpvbHgu
+Y29tLmJyMAkGA1UdEwQCMAAwbgYDVR0gBGcwZTBjBgZngQwBAgIwWTAmBggrBgEF
+BQcCARYaaHR0cHM6Ly93d3cudGhhd3RlLmNvbS9jcHMwLwYIKwYBBQUHAgIwIwwh
+aHR0cHM6Ly93d3cudGhhd3RlLmNvbS9yZXBvc2l0b3J5MA4GA1UdDwEB/wQEAwIF
+oDAfBgNVHSMEGDAWgBTCT0hX/NFPmsBdOH0OBdvZLrVSYDArBgNVHR8EJDAiMCCg
+HqAchhpodHRwOi8vdGouc3ltY2IuY29tL3RqLmNybDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRw
+Oi8vdGouc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vdGouc3ltY2IuY29t
+L3RqLmNydDANBgkqhkiG9w0BAQsFAAOCAQEARaQvEhH5p8arD2rSqViebBPTHwHD
+lNFynoxwPtm7L1bF0npA1tPfbLZ2QSG6TCUTGyyMnLf9ejtNSOHykc1H/kkaXfkp
+Cowqq38r7A7/f6yhb1NICIU8hyr9uFtQ44wt3f+ExqI+bk9BlE59q24t9Y4IIAUf
+2UK2av1p0+qlPi8tDsnEuqssMzcMwuSOojx+9vBOyK7vCyy3yXD1AAzAUNOHbVt3
+lYHLTGZamq1J5K9huiRERwmtNMkGnYllDUaLQzaIab/PV+oV4Z8N/IqGFDz11hJT
+oQUcxT8dyxZC17Z3zSSjEjheF1UOPgTlLlRjEgeitXgn74cJbokS7aUuaw==
+-----END CERTIFICATE-----
+subject=/C=BR/ST=Sao Paulo/L=Sao Paulo/O=OLX ATIVIDADES DE INTERNET LTDA/OU=Infrastructure/CN=*.olx.com.br
+issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+---
+No client certificate CA names sent
+---
+SSL handshake has read 2777 bytes and written 622 bytes
+---
+New, TLSv1/SSLv3, Cipher is RC4-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : RC4-SHA
+    Session-ID: E3EDCCF09A501EC0456F059F26EA88453F8730BF2CDBF71BE1A6D6E8E3CCE1A5
+    Session-ID-ctx: 
+    Master-Key: 6FBF6E400B11A3C9C9B8EF2C610C4402792B9E1E138943E4156FC75D7CDB215055558793B5D4F69F0B2F1A202AC42C01
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 50 fe 6c e8 6f cf d8 2c-d0 c7 f7 f5 8b 85 02 a0   P.l.o..,........
+    0010 - e5 07 b2 20 d0 b9 ed 77-b5 dd a1 40 93 5c b6 59   ... ...w...@.\.Y
+    0020 - 4e 87 41 29 1b 6c e9 27-b3 15 ed e3 78 db d7 24   N.A).l.'....x..$
+    0030 - bf 80 54 52 fa e0 ee f2-30 a9 8d 6c 7d 62 17 34   ..TR....0..l}b.4
+    0040 - fa 96 fc 88 63 3f a7 db-97 d8 81 45 d3 7c a3 6e   ....c?.....E.|.n
+    0050 - a6 74 47 d5 45 b3 8e bf-14 94 70 05 ff d9 b0 27   .tG.E.....p....'
+    0060 - 73 93 24 33 72 a6 40 d7-c0 f9 d1 fc a5 17 ff eb   s.$3r.@.........
+    0070 - 8d 55 bd 42 37 06 f6 5a-ab 2b d9 ff 18 b6 db 8a   .U.B7..Z.+......
+    0080 - 5b 03 83 f1 95 bf 83 32-a4 ca 68 c4 ea 9a e0 be   [......2..h.....
+    0090 - 1a 6b e2 91 f4 67 86 01-cb f1 80 b3 80 47 44 52   .k...g.......GDR
+    00a0 - 86 59 cc 7a 56 5e 49 99-e7 e8 49 8b de d0 b7 be   .Y.zV^I...I.....
+
+    Start Time: 1472788780
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

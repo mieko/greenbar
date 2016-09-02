@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl370007.cloudflaressl.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEgjCCBCmgAwIBAgIQMcUsmQhkNvuNHY+hwANGEDAKBggqhkjOPQQDAjCBkjEL
+MAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UE
+BxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxODA2BgNVBAMT
+L0NPTU9ETyBFQ0MgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQSAy
+MB4XDTE2MDgxODAwMDAwMFoXDTE3MDIxOTIzNTk1OVowbDEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMSEwHwYDVQQLExhQb3NpdGl2ZVNTTCBNdWx0
+aS1Eb21haW4xJDAiBgNVBAMTG3NzbDM3MDAwNy5jbG91ZGZsYXJlc3NsLmNvbTBZ
+MBMGByqGSM49AgEGCCqGSM49AwEHA0IABC+sfxXvdhmrAKkOOzW5JldQkh9OopaN
+chydATvvjULQdeTAv/7ZzyoBs73n0NwTqFbTPYHMugoSNUkaXFTM8WujggKEMIIC
+gDAfBgNVHSMEGDAWgBRACWFn8LyDcU/eEggsb9TUK3Y9ljAdBgNVHQ4EFgQU76yw
+RskIfziZmQghmignnrTV9WUwDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYB
+BAGyMQECAgcwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNv
+bS9DUFMwCAYGZ4EMAQIBMFYGA1UdHwRPME0wS6BJoEeGRWh0dHA6Ly9jcmwuY29t
+b2RvY2E0LmNvbS9DT01PRE9FQ0NEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVy
+Q0EyLmNybDCBiAYIKwYBBQUHAQEEfDB6MFEGCCsGAQUFBzAChkVodHRwOi8vY3J0
+LmNvbW9kb2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNl
+cnZlckNBMi5jcnQwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmNvbW9kb2NhNC5j
+b20wgcwGA1UdEQSBxDCBwYIbc3NsMzcwMDA3LmNsb3VkZmxhcmVzc2wuY29tghAq
+LmhvcG1hbnNjZG4ubmV0ggsqLm5taXNyLmNvbYIPKi5zbGF2YW1vdXIuYml6ghAq
+LnNsYXZhbW91ci5pbmZvghMqLnNvbGlkc2VvdG9vbHMuY29tgg5ob3BtYW5zY2Ru
+Lm5ldIIJbm1pc3IuY29tgg1zbGF2YW1vdXIuYml6gg5zbGF2YW1vdXIuaW5mb4IR
+c29saWRzZW90b29scy5jb20wCgYIKoZIzj0EAwIDRwAwRAIgW8tKkyEVaxWLts6n
+YK1sxU+a+Ifbg2hgkCFLN2JHmVICICYxybfrUPJf0pnGpDItcYco5uthYxIYmp3A
++Rb5HzXa
+-----END CERTIFICATE-----
+subject=/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl370007.cloudflaressl.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3560 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: E121F509175A90B031EAE195251C8C06BC2179872FEC12C15508A08F4E09CB15
+    Session-ID-ctx: 
+    Master-Key: CD393697B2D887E797595CB27EA47A84D74980EA1EE7885399DDF545C3E270E464F41697BC167849A61702A7852D9BEB
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 67 3e 33 d7 cc 57 79 4c-b2 85 a3 1c c8 1b 69 31   g>3..WyL......i1
+    0010 - 12 b0 05 50 8f 8c 8f 30-9f c0 fe 24 fd f9 3e 26   ...P...0...$..>&
+    0020 - 33 eb 2e f7 f7 c8 83 c5-95 59 10 8e 93 18 54 49   3........Y....TI
+    0030 - e3 80 bf c5 d4 56 a2 af-3d 1a 2a 0c 73 48 83 63   .....V..=.*.sH.c
+    0040 - 03 7c 62 a4 c4 e3 84 85-c0 58 7c 75 7d de 1b b7   .|b......X|u}...
+    0050 - d2 c4 ee 3f d5 91 c2 4b-3a ec b5 4b 34 f8 d9 13   ...?...K:..K4...
+    0060 - f4 50 38 49 8d 7a 92 f1-91 33 cc 0e a5 f0 9a 9d   .P8I.z...3......
+    0070 - e9 79 1f 5b 06 eb 5e 7b-a9 9d 2c 06 d8 cf 5c 95   .y.[..^{..,...\.
+    0080 - a2 ed bc d9 a7 a0 fd ad-95 2f 80 bd 98 68 53 49   ........./...hSI
+    0090 - ac 61 70 1a 4e 70 e5 93-af 84 a9 8c 30 8c e2 c9   .ap.Np......0...
+    00a0 - d6 63 b6 39 a8 bf 7f 7b-74 3f 66 9b 9c 41 a3 cd   .c.9...{t?f..A..
+
+    Start Time: 1472790368
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

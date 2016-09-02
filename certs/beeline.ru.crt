@@ -1,0 +1,67 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=RU/ST=Moscow/L=Moscow/O=Vimpel-Communications Open Joint Stock Company/OU=IT/CN=*.beeline.ru
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFBzCCA++gAwIBAgIQEcc42O81cDmYVAw6Abtz0TANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwMzA5MDAwMDAwWhcNMTkwNDA3MjM1
+OTU5WjCBjDELMAkGA1UEBhMCUlUxDzANBgNVBAgTBk1vc2NvdzEPMA0GA1UEBxQG
+TW9zY293MTcwNQYDVQQKFC5WaW1wZWwtQ29tbXVuaWNhdGlvbnMgT3BlbiBKb2lu
+dCBTdG9jayBDb21wYW55MQswCQYDVQQLFAJJVDEVMBMGA1UEAxQMKi5iZWVsaW5l
+LnJ1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtnYQ8LEi+sD7I/Qy
+vTYlo1sebdlZx3JvnMwT+jbw68ohNaQ5umFIN8BwsdhWAk3spYzSILGfkKrji19p
+re10czlkSMY8gWdq9bxfrqmT6gROmToPrCjLJgAtK//8i6p3NPmy5ue+KrvzIs4y
+asGwgJs9H5nCPYmO/iwrGgdhddkcupfJU37gpf2biOjEXo1QN/OcZ8cnzOEZoQu5
+1aO5/stWwyct6nfGhVV57v0rAO+hVcegvm0WdWs2MUIIWCQvK2cX/X6T/ya7L/e/
++cZAc6GhMjNk4xnqiJVa0HQwdA8VNuEl9djSrtNDjozz8Hv3EVaJBi2jex4ww/pn
+soZxswIDAQABo4IBqjCCAaYwIwYDVR0RBBwwGoIMKi5iZWVsaW5lLnJ1ggpiZWVs
+aW5lLnJ1MAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAe
+oByGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3JsMIGdBgNVHSAEgZUwgZIwgY8G
+BmeBDAECAjCBhDA/BggrBgEFBQcCARYzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29t
+L3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUFBwICMDUMM2h0dHBz
+Oi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU0m/3lvSF
+P3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRw
+Oi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ24uc3ltY2IuY29t
+L2duLmNydDANBgkqhkiG9w0BAQsFAAOCAQEAlDn/DT9PnRlxwWTkSVELYDZzglgR
+pqpuznKBryeJ9lwUePVPEbzbrBPRL2RN8FJeF64A90ZYC2yS2MIZLSH7A1/9Kgst
+HEG+pOuZgaGdTQg4KZrjNMxnLoTQDmw1XI6IdCBkKPSnDevQa570fM+e//jMB27T
+phAb93hvd2kMS2whtTTtyL1XCWiIq/hK9Q+Tzs1uFuwRLcBKeO8Qv3Akm4oCLJAw
++Ugj+15NbDSoB/wAzbGVLMvwMNQ96vsYaTGkIogMKnshE+8nG4th3/RAPVlrqiHy
+kt3vYHNdWLQkiwPMsYzDVze7FBj5n8M6p76ujPoiYVRGIGCS0SkH871RyQ==
+-----END CERTIFICATE-----
+subject=/C=RU/ST=Moscow/L=Moscow/O=Vimpel-Communications Open Joint Stock Company/OU=IT/CN=*.beeline.ru
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA1
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2941 bytes and written 490 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-SHA384
+    Session-ID: AA210000A4CFF0180CD7CE656B75FF561DD881036843CAFF92111B8277DC1DD9
+    Session-ID-ctx: 
+    Master-Key: 81A2061D4B44868D914706A6B7C2171F26248E4EBD84EA2B5F0DFBA8729CA7E20BAA9B9BB667C0DCBC0CE916AC979B4C
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790766
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

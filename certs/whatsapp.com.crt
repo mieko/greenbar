@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=Santa Clara/O=WhatsApp, Inc./CN=*.whatsapp.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJjCCBA6gAwIBAgIQBVDDa7GxLjszOo2izKc2FjANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTYwNjE2MDAwMDAwWhcN
+MTkwOTA5MTIwMDAwWjBqMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+YTEUMBIGA1UEBxMLU2FudGEgQ2xhcmExFzAVBgNVBAoTDldoYXRzQXBwLCBJbmMu
+MRcwFQYDVQQDDA4qLndoYXRzYXBwLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBANNq/Wj47PE6K20BfJL3mDf2/DoZkUoZqH+Fp2tGsuGjZvZjT+eQ
+g88AAKd6aEg4BArnw9WW9CqVIbUE5MMjzVaBks00DzJnfmTZQVIILkMtKtPClXr2
+IDYQ+jbyGC7l8WpAea44XRokjmShhaLE392Jm6kC6cykXEq8olqJxXRtFOV+cbiX
++dDRBvDMpMtm1aiM4SUnSz+A2xwUyuy4NYn25i424zuanAOUGOLpHWZNT3TSWBab
+RM2dglOthRC/czq/HJ5FzKeKwD6rxzHO72CsGZ4Dvat9TAi20ooLOoTPUKhpoNcp
+BGVfjmVPPaRcZI2BD+Nh4LBrny0plM50/XMCAwEAAaOCAeMwggHfMB8GA1UdIwQY
+MBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBQz+s7vmZYP3Vw6l6wq
+2tZlKOp/mDAnBgNVHREEIDAegg4qLndoYXRzYXBwLmNvbYIMd2hhdHNhcHAuY29t
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+awYDVR0fBGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Et
+c2hhMi1nNS5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2Nh
+LXNoYTItZzUuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUH
+AgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMHwGCCsG
+AQUFBwEBBHAwbjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29t
+MEYGCCsGAQUFBzAChjpodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNl
+cnRTSEEyU2VjdXJlU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcN
+AQELBQADggEBAGLNjnV3CIW7xT0OhLQQdGVeMnlqTPnsXjVZlP6fKDB1T0uDoRpS
+HpvZdN8G0U1HFeqcuFAn+U4iLhMwhqOKwHZc6kyMzIgF8t/HnnPgbwPWSDA1GL5m
+lg+GN16aJK/NOFBmr2PYV6m0O3flVii+VL9H91pGuT6SMfgaLQOuGU92iKcs2EO0
+gPOu3EautX+MGKxerD9hV4QSLhNt386SY5BE7ssu368XFI1woHZpUTzSR44jmNqZ
+VkZKwxI56W1pMtoCtJz0nV3CURAsm5eD/VP3PdmqcrRWCL5fRx/gVfOPxTR3huyL
+Ek0LpFD0WPyCpZe1NYF20SFhP4jPinwA2xA=
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=Santa Clara/O=WhatsApp, Inc./CN=*.whatsapp.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3160 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 0EED6CB6F5844EB2C1EB71D5884DA563D079F0518FF1AB06DEE19DDAAC40A5FF
+    Session-ID-ctx: 
+    Master-Key: D6109C2EB7638B52009B099824FE5A4ACAF0E84A20A551CAD8449C6C915B075D3204AD504AD01D69324F3DF9918BA020
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - cf 9f 9d 02 94 f8 64 4d-be ff 8c 3b 98 c5 b5 9f   ......dM...;....
+    0010 - fc c6 ac 04 64 ca 90 c2-37 e8 17 56 93 d1 af fd   ....d...7..V....
+    0020 - 1c 22 f9 06 21 1c 35 15-46 fb e2 2a 58 bd 9d 20   ."..!.5.F..*X.. 
+    0030 - 57 ec 55 36 40 f8 c8 be-5d cd c4 80 01 b8 54 a9   W.U6@...].....T.
+    0040 - 8c 2f ea 08 44 3d 95 5f-e1 8c 45 77 89 45 8a 62   ./..D=._..Ew.E.b
+    0050 - 4d ab e9 69 c8 44 73 75-a7 87 cd 5c 50 1a af 0d   M..i.Dsu...\P...
+    0060 - 5f 25 8d 58 c8 9d e2 27-50 b8 63 ec 44 29 b9 c9   _%.X...'P.c.D)..
+    0070 - 9d 55 35 32 1b a0 2f ec-1f 3f 22 bd a7 1f b4 d4   .U52../..?".....
+    0080 - cd 27 9c 0c 16 e3 80 d3-c7 76 37 5e 08 7d 59 4a   .'.......v7^.}YJ
+    0090 - 3b 9e 01 96 7b ba e7 66-12 9e 00 c9 de 2f fb 7a   ;...{..f...../.z
+
+    Start Time: 1472787879
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

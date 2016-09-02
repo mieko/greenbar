@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Virginia/L=Arlington/O=iRides, LLC/CN=*.politicopro.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G2
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEwjCCA6qgAwIBAgIQLw36eHylwcsKzY5Cy+/D5DANBgkqhkiG9w0BAQUFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzIwHhcNMTMxMjExMDAwMDAwWhcNMTcwMjA4MjM1
+OTU5WjBmMQswCQYDVQQGEwJVUzERMA8GA1UECBMIVmlyZ2luaWExEjAQBgNVBAcU
+CUFybGluZ3RvbjEUMBIGA1UEChQLaVJpZGVzLCBMTEMxGjAYBgNVBAMUESoucG9s
+aXRpY29wcm8uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu+27
+4dbrtHnuvj6mdRtQy08r2IiZtLzvvm7qofcj3uBp7CnoWS4ClCliNpTa4m9XCOVY
+TFY6SUvbvIyJRZl1mD9rUFspH+byBeSDzACw6YWoeS7m6ov8Aeoanu1lYTD3WPeG
+8b95J3V6NCJnL4me92FuSnTVvwPDqq9RnNF/2ktwUgmPqw6OoDnt8o5kUcrnv853
+s5a+uQH/M9yjls2Uq+MHtdJuNmJryQnngMyKty+Xyzbb+ZojFHrNxXtPWnjJ7EZX
+fuFCgQcji7gBiqCax6YgTxkutGyvpzfNQe5WAj4dzHGkgkLpOa58yRPQTiXes9PN
+SsMJ4uo1hss24jb1wwIDAQABo4IBjDCCAYgwLQYDVR0RBCYwJIIRKi5wb2xpdGlj
+b3Byby5jb22CD3BvbGl0aWNvcHJvLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQE
+AwIFoDA6BgNVHR8EMzAxMC+gLaArhilodHRwOi8vZ3Rzc2wyLWNybC5nZW90cnVz
+dC5jb20vZ3Rzc2wyLmNybDBMBgNVHSAERTBDMEEGCmCGSAGG+EUBBzYwMzAxBggr
+BgEFBQcCARYlaHR0cDovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL2NwczAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAUEUrQcznV
+W2kIXLo9v2SaqIscVbwwcgYIKwYBBQUHAQEEZjBkMCsGCCsGAQUFBzABhh9odHRw
+Oi8vZ3Rzc2wyLW9jc3AuZ2VvdHJ1c3QuY29tMDUGCCsGAQUFBzAChilodHRwOi8v
+Z3Rzc2wyLWFpYS5nZW90cnVzdC5jb20vZ3Rzc2wyLmNlcjANBgkqhkiG9w0BAQUF
+AAOCAQEAFiMXtuOm0SwiTMs+dKu2nlJmxCiEzkM+bFPRUaz6uGEsXo4zZ2d8oKdn
+Xx/g1HLgSyjT1kOoKBwItIvG2yqlrWxqsp2thzr0zCJ7c+zrcxz7OngxgXlJoYWA
+pXR+pldU8RgPOpc3aeIzX81R0w13j2Iymw5iIRh+yCCuRAttLmLpVmVmCZploUW6
+JJ28UlK2iADVvHpVVuf7hi85P799hMGQuTSSMTg6oNeikscju4MUAAhhbbElUhJ4
+YZfnF5SqL5W0gLb9nZCZ2bLpF5XcHVaVpMIRTgCrdGHI3ESzcjPZxdBghvYLkK3Y
+vVmuwkHs77ZL3/odyogiDN0oPXoUAA==
+-----END CERTIFICATE-----
+subject=/C=US/ST=Virginia/L=Arlington/O=iRides, LLC/CN=*.politicopro.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G2
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3029 bytes and written 442 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : ECDHE-RSA-AES128-SHA
+    Session-ID: 76A8C559036A0A60E5484496516501EBE91AA6423384B2306C43A829390CF287
+    Session-ID-ctx: 
+    Master-Key: 8CB326AED1C2FBCF9F450F95AE4A792790B250A30F4AA8A1DD12EEDAF85462B188990957243B0304401E9A7DFEF1939F
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 18 7e 9c 25 a9 07 5a 3b-b4 16 33 49 3b 61 e7 df   .~.%..Z;..3I;a..
+    0010 - 16 03 3d 98 70 96 8d 21-71 58 43 33 0b a7 97 8e   ..=.p..!qXC3....
+    0020 - 50 ed 64 4c 5c 7f d3 d7-6c 63 ad 63 e9 ab 30 ec   P.dL\...lc.c..0.
+    0030 - 8f 91 36 34 f1 36 07 73-f6 44 f8 af 01 f2 1d 33   ..64.6.s.D.....3
+    0040 - 50 84 d0 0e b0 7d 53 22-c4 31 65 33 0e f2 85 66   P....}S".1e3...f
+    0050 - e2 a7 85 38 50 db 53 05-05 b8 92 83 10 cb 00 22   ...8P.S........"
+    0060 - 06 04 0a a5 38 4e 8f 38-02 71 0d da 5e 0a d4 be   ....8N.8.q..^...
+    0070 - bc fc 15 71 99 0f 4e f0-c3 99 3d 98 5e 91 40 06   ...q..N...=.^.@.
+    0080 - 92 fd 92 a5 2d 93 bf b5-41 42 69 e2 f8 99 3c 0b   ....-...ABi...<.
+    0090 - 4c 20 7a b9 93 0a 5d 5c-2b 21 c0 24 ba ad 05 77   L z...]\+!.$...w
+    00a0 - 5b 93 99 85 2f e9 eb 33-c6 8a 4a 30 ab 02 5d 4a   [.../..3..J0..]J
+    00b0 - 24 c9 dc ea 74 db 4a 58-9d be 1d 9a 52 d3 98 c3   $...t.JX....R...
+
+    Start Time: 1472788546
+    Timeout   : 300 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

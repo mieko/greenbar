@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=San Mateo/O=Sony Computer Entertainment America LLC/OU=MARKETING/CN=www.playstation.com
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFHjCCBAagAwIBAgIQRKE7yQ1LJGvjaeKtp8CPJDANBgkqhkiG9w0BAQsFADB+
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
+IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MTEyMzAwMDAwMFoX
+DTE2MTEyNTIzNTk1OVowgZoxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9y
+bmlhMRIwEAYDVQQHDAlTYW4gTWF0ZW8xMDAuBgNVBAoMJ1NvbnkgQ29tcHV0ZXIg
+RW50ZXJ0YWlubWVudCBBbWVyaWNhIExMQzESMBAGA1UECwwJTUFSS0VUSU5HMRww
+GgYDVQQDDBN3d3cucGxheXN0YXRpb24uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAp6Fvt16NBW0ZJBF+RX1QGew72bVaeC6cAfK0507qtDr2c2JB
+Hzl69PCkJoO942kRyHUpsegL505qDaJIgZbWCZ2UjCOFabrDYWxF3KQsV2qc9j+o
+KEWWUGSUYUXtuKw7f4eAfjmNbEmdzDGvw/sgJMIYBlr8+UuH0nBZ0o+xhPTsW21C
+iWkh8kqtbriohjTI2eAWWtkoTYT88Kq665b2OdVETlCRMe1f1+PeCgLU/LblKCY2
+1UA/mqjpPG9LZdHf2JAZ992HJOoCtEbqspKkxn+eLNhPM0RP1v/ZNJlXi0+8902w
+Y9bFUIi0gelYvkTvSx3hKBQPmHkpf/7W0M0wBwIDAQABo4IBeTCCAXUwLwYDVR0R
+BCgwJoIPcGxheXN0YXRpb24uY29tghN3d3cucGxheXN0YXRpb24uY29tMAkGA1Ud
+EwQCMAAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjBhBgNVHSAEWjBYMFYGBmeBDAECAjBMMCMGCCsGAQUFBwIBFhdodHRwczov
+L2Quc3ltY2IuY29tL2NwczAlBggrBgEFBQcCAjAZGhdodHRwczovL2Quc3ltY2Iu
+Y29tL3JwYTAfBgNVHSMEGDAWgBRfYM9hkFXfhEMUimAqsvV69EMY7zArBgNVHR8E
+JDAiMCCgHqAchhpodHRwOi8vc3Muc3ltY2IuY29tL3NzLmNybDBXBggrBgEFBQcB
+AQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9zcy5zeW1jZC5jb20wJgYIKwYBBQUH
+MAKGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3J0MA0GCSqGSIb3DQEBCwUAA4IB
+AQBI9nw6KED0IGg4yusWJtnkjDTFj9fnVu0qdJ+Kh6kwRBSNrM6Z/TY5eIRGYQG+
+BRkrv1MTxw2MazmhGCXKlX3ci5+CivkrMZAk1pPwoZjaHoIXsyFJfeWgXS0idfTE
+npSZykkM6OKKNu+Kc0wEB2rm6vjGPxh5+QId8g8SvK/qpOnft1BiZPI7FtdwE5ef
+9JXjsIRW6yOkq54bA1sOD2R5S0n3dVGV1cniGOUDO+lyI5ik+P8xnz3nsBf/Qo2B
+5gO7q2o/WkSEsPtRsqcYpyLL+MoHdI5ySTLJ3NkFp7QZSm+IRWYsC0BJRf//dtPx
+eozNcfQjO5ec3qhUCwO31GCj
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=San Mateo/O=Sony Computer Entertainment America LLC/OU=MARKETING/CN=www.playstation.com
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3311 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 3F39C6FA89A8FC5C430D5CC37B1060BC779783F4591234E170A37079EF5E8E40
+    Session-ID-ctx: 
+    Master-Key: C78EC6FE13870A1E22E6D94B1CF29ED7A6B92BAA5AC191382FDAAC37CAC8B8A33479FD68AE92D1043CA939DC914536DF
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 25 8d 7c 1f f6 33 c7 b5-25 0f e5 c0 d9 58 66 9e   %.|..3..%....Xf.
+    0010 - 32 c2 2f ec 23 53 34 85-80 50 82 9f f3 06 a8 7a   2./.#S4..P.....z
+    0020 - 6d fc b9 8d c3 e5 b8 a8-4e da c5 7f ba c2 13 b9   m.......N.......
+    0030 - d7 72 41 45 45 b6 dd 81-45 6d 27 98 4d ba 35 df   .rAEE...Em'.M.5.
+    0040 - 97 1e 75 2c 3f c2 ec 59-78 da 56 9b 10 e9 5e c2   ..u,?..Yx.V...^.
+    0050 - 9b 00 b6 61 83 61 a9 35-3c bb 13 16 fe e0 02 4e   ...a.a.5<......N
+    0060 - 3f 28 d8 e6 81 5e e9 1d-bf a0 94 a7 ad 96 1e 4b   ?(...^.........K
+    0070 - cd 1e 3a e4 4f 3e a9 67-cf d8 6a b8 c8 46 49 f0   ..:.O>.g..j..FI.
+    0080 - e7 ab 14 56 1e b6 4b bd-c1 55 a9 ee 57 2a 7a d3   ...V..K..U..W*z.
+    0090 - ff f9 b2 c4 66 8e c7 3c-82 ae 70 ff 0b f1 f7 11   ....f..<..p.....
+
+    Start Time: 1472788398
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

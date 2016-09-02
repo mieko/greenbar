@@ -1,0 +1,68 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=Palo Alto/O=TuneIn Inc./CN=*.tunein.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFETCCA/mgAwIBAgIQAxymEO3RTTDHlBoMry8ptzANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTQwMTI5MDAwMDAwWhcN
+MTcwNTMxMTIwMDAwWjBjMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+YTESMBAGA1UEBxMJUGFsbyBBbHRvMRQwEgYDVQQKEwtUdW5lSW4gSW5jLjEVMBMG
+A1UEAwwMKi50dW5laW4uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAuwSL086WlSoHHCx/CVug8Z+jimozUPksmbf29PT7hCT2AGgh3qG5ecWtjAbe
+32YaFClvG3mTLwLZDj3VQayyuZyEoA12r0ktUZIimP/r9bAkv8pOGoV+p4OS6E64
+vWFeM6NVuLdB6odIRwn2kNP22Qg0dHuQ/LtdMUKwYElqECbPZHu8P7agGqjPLb6f
+yCfcTGqpCmGHZe9nE9u+oKJGd12bK134aWnw4FTrtJHeh8mhgu7AIP906UwuQdXF
+1KV2BSDJB5G6DTrXKMbQXtHZndVSIEVfbxcp0lOYghU4AE/BfqY0fWkOh5IKHZH1
+6qo0YpiFpaOMwSFun9dkzH410QIDAQABo4IB1TCCAdEwHwYDVR0jBBgwFoAUD4Bh
+HIIxYdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFKblOna7Fp0R2dFNAI8oFlIor+3x
+MCMGA1UdEQQcMBqCDCoudHVuZWluLmNvbYIKdHVuZWluLmNvbTAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRkMGIw
+L6AtoCuGKWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzQuY3Js
+MC+gLaArhilodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc0LmNy
+bDBCBgNVHSAEOzA5MDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMHwGCCsGAQUFBwEBBHAwbjAkBggrBgEFBQcw
+AYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEYGCCsGAQUFBzAChjpodHRwOi8v
+Y2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyU2VjdXJlU2VydmVyQ0Eu
+Y3J0MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQELBQADggEBAER/PkJ79KgQsrcv
+m1j2QfPushISGyAbdwIlhlUH7U1gfEltXWBxJmIYwLhupS52zvmWBugMzYhEuyUG
+F8GWZhD1atKxgyDdMhJ0S9D2ZpgPJ023IO+Ze3DppSiGnr1JXp0CiMi+xgKfckUL
+Gd+n4kYv2H/Ntx1/tng3A4yGnMg8tdlQ8hQvrvTCy2WdWmNP4D3Su3ek7ZoW5tyz
+Nr6fsD7pOjRX18CB7ijaaUje0PjgrE4dSkLkWsYMsPDL9jGEdJdnEvTvStGtrm+H
+89Q5Gavhm4mM8EqeN8MkCcuJsjfhYXwKSa1mUBfgKuWaTIEYHM2qhDZMfdayfxji
+8Q3yjhw=
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=Palo Alto/O=TuneIn Inc./CN=*.tunein.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2985 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 32E83402862CA8E61BB02D8BEE75506D0264FABDA596A8A5E74C654CBE05A07F
+    Session-ID-ctx: 
+    Master-Key: 4BE42968E1E81F15B5ACACB8FAAA5893B4B50DBE07E20EEBE68F92D450192054AF575BB7615FEA1273D073A58315246C
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790269
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

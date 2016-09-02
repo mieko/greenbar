@@ -1,0 +1,66 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=RU/ST=RUSSIAN FEDERATION/L=Moscow/O=Mobile TeleSystems Public Joint Stock Company/CN=*.ssl.mts.ru
+   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIExjCCA66gAwIBAgIQf0zOvKdTcmhm8TXaj7xMnTANBgkqhkiG9w0BAQsFADBB
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
+aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUxMTI0MDAwMDAwWhcNMTcxMjIzMjM1OTU5
+WjCBijELMAkGA1UEBhMCUlUxGzAZBgNVBAgTElJVU1NJQU4gRkVERVJBVElPTjEP
+MA0GA1UEBxQGTW9zY293MTYwNAYDVQQKFC1Nb2JpbGUgVGVsZVN5c3RlbXMgUHVi
+bGljIEpvaW50IFN0b2NrIENvbXBhbnkxFTATBgNVBAMUDCouc3NsLm10cy5ydTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMNiTflRHTuJjyK17LUnDewR
+FvnLXKzMGodR5UE6sW92k9605Gya3uXJMS6sfNOBKyl7N2rEIpH6VuYBAcMaG/RW
+iXQipbPuBn6kj+jaeeNaC4hmteU20/mlv45Gd/teiwHoPjvE3v2RUaTk0qgb79y7
+ZOs+ogZTykpHLp9iOiebVA+kluc2VpKMq0v5C094p3ethbhJCoMB2rPRBfNqb4zF
+Sox+gpB6gqngV19CgswzTcnsJQvhUcrMkgii+hp0PnTRu9nSBigOs7Y86xrOLvGR
+Uac+SXUMMD5XkD74yzIvzK+g+wuEMf81BwKBbhpshKKDQB6MRZwMUeangK3JXx8C
+AwEAAaOCAW4wggFqMBcGA1UdEQQQMA6CDCouc3NsLm10cy5ydTAJBgNVHRMEAjAA
+MG4GA1UdIARnMGUwYwYGZ4EMAQICMFkwJgYIKwYBBQUHAgEWGmh0dHBzOi8vd3d3
+LnRoYXd0ZS5jb20vY3BzMC8GCCsGAQUFBwICMCMMIWh0dHBzOi8vd3d3LnRoYXd0
+ZS5jb20vcmVwb3NpdG9yeTAOBgNVHQ8BAf8EBAMCBaAwHwYDVR0jBBgwFoAUwk9I
+V/zRT5rAXTh9DgXb2S61UmAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL3RqLnN5
+bWNiLmNvbS90ai5jcmwwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcG
+CCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3RqLnN5bWNkLmNvbTAm
+BggrBgEFBQcwAoYaaHR0cDovL3RqLnN5bWNiLmNvbS90ai5jcnQwDQYJKoZIhvcN
+AQELBQADggEBAEPD/G28h7epVI9Pb8ofRBgfPNHdsbb4wudgZK8v9UdpsfyTe6aL
+QaSuXY+aKmuwV76JsF6ipNOtAc4V/rspm2qpcg4LrvJ9SiYXxmRd9BYAcIfjvhjI
+TLuyeWsIZpI2cMdtRpUku0JREJRL2zWp5EAOgFqcrwqS57AxtK1Z0Xe3h9KqxnDv
+sD/0xBIpON6OIIN3vZTSKoRVaCbF0Fo3rvG/Z0pNDgP+Nvpvkb4GNLaUfEHponqK
+zd1mNivxAq953dWI27p4Zn6/9FslTQTQbw1R4Q0hx0/kPEeARNhBi141hNEQj511
+IRvE47ESapd1KSQC3/ukGVFuheu8uQjKK3k=
+-----END CERTIFICATE-----
+subject=/C=RU/ST=RUSSIAN FEDERATION/L=Moscow/O=Mobile TeleSystems Public Joint Stock Company/CN=*.ssl.mts.ru
+issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA1
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2975 bytes and written 490 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-SHA384
+    Session-ID: D1170000A1877A93AB0A2127E2227DDADCCF1725297790FA14F7509488FABEBD
+    Session-ID-ctx: 
+    Master-Key: CEEC420281B687890F4DFF8B7217873CDDCE0B53B1AE4F62289B0C2C84DB04924CFB9C674E30782E5223A2641A31EC7F
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790199
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=GT30661140/OU=See www.rapidssl.com/resources/cps (c)14/OU=Domain Control Validated - RapidSSL(R)/CN=*.gameforge.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEszCCA5ugAwIBAgICclAwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCVVMx
+FjAUBgNVBAoTDUdlb1RydXN0IEluYy4xIDAeBgNVBAMTF1JhcGlkU1NMIFNIQTI1
+NiBDQSAtIEczMB4XDTE0MTEwNDIyMjIzNVoXDTE3MTAxMTE0MTE1NlowgZMxEzAR
+BgNVBAsTCkdUMzA2NjExNDAxMTAvBgNVBAsTKFNlZSB3d3cucmFwaWRzc2wuY29t
+L3Jlc291cmNlcy9jcHMgKGMpMTQxLzAtBgNVBAsTJkRvbWFpbiBDb250cm9sIFZh
+bGlkYXRlZCAtIFJhcGlkU1NMKFIpMRgwFgYDVQQDDA8qLmdhbWVmb3JnZS5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3Ml/CwZzBsH/IK/z5td+4
+u2iTqWAhy2mpUaj6XHNKsFofrfhCcd1xpQsAZOuuHFu0yid9IMKMRDPejrlsgoec
+krwTyiFJlJptM7Q/ypDtLhdAvpcjAM37J6nqW6lP3AIwwn48OaxaVhZdBA1bGLSm
+KCbMpieyyunibweIGdppKjwHUadCVFjR3smqdFIxxPZ6PdtlNVaCy3S6xfRQFJse
+nLbJB1zkLSd0KKsFWA4CXpkHREFtmgRLgi1d5BUjkjmSZcuDsfkjRj5bX95nK02g
+J2N6oR9HXopOVw6hG402RMPXL6kmYsRCH6T/7WJXRZOh3RajIjfkQWiyTdX8Sr9N
+AgMBAAGjggFaMIIBVjAfBgNVHSMEGDAWgBTDnPP800YINLvORn+gfFvz4gjLWTBX
+BggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9ndi5zeW1jZC5jb20w
+JgYIKwYBBQUHMAKGGmh0dHA6Ly9ndi5zeW1jYi5jb20vZ3YuY3J0MA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwKQYDVR0RBCIw
+IIIPKi5nYW1lZm9yZ2UuY29tgg1nYW1lZm9yZ2UuY29tMCsGA1UdHwQkMCIwIKAe
+oByGGmh0dHA6Ly9ndi5zeW1jYi5jb20vZ3YuY3JsMAwGA1UdEwEB/wQCMAAwRQYD
+VR0gBD4wPDA6BgpghkgBhvhFAQc2MCwwKgYIKwYBBQUHAgEWHmh0dHBzOi8vd3d3
+LnJhcGlkc3NsLmNvbS9sZWdhbDANBgkqhkiG9w0BAQsFAAOCAQEAJMH4HHaFGCJP
+acVh/LhPoHoTAiXEVd2V9p0ABDgpDJs9dnI41lojouiP9tgn2TW9ctPxkb6lm98T
+jToh1rJQiyXDT+8r8TwZsFgdJTP6CDKiGdTYUmqD13cIrYzHKcL5xLObBs2WKHll
+QjfTxIuMDMSbwkaoc36abNbOtD/oCV4jnWTZJlu7TQJt88iVPAbWDrriwFdMDjH9
+RzAFAcSku9xLjzWjhfMcFZaK3a7bcaTv1w4j1rL4ZsRNnn2SkU/uisvQFr7a4IEM
+HiC8/jJ4mtYKKhFy4eUJcHealQsh+Gdog7OcX8wpyFC6fkB0dpaRcED+OJIe1A2E
+vb2N9nBMuQ==
+-----END CERTIFICATE-----
+subject=/OU=GT30661140/OU=See www.rapidssl.com/resources/cps (c)14/OU=Domain Control Validated - RapidSSL(R)/CN=*.gameforge.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3850 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B30DA7F4E96BB0674E3CE2F69AFAED92CD307A623433DAD7CA259886023631F1
+    Session-ID-ctx: 
+    Master-Key: 23E7126FB9A0BCE60A0F493E4106F5DFF7666120961A5F28F53CFC133074274AB9513959B6D5E2789E5DB7CD8133A88B
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 10800 (seconds)
+    TLS session ticket:
+    0000 - f8 00 c7 97 dc 86 46 6b-2d a4 07 1f 65 db 84 7c   ......Fk-...e..|
+    0010 - c0 78 58 40 89 07 35 c3-ad 2a 26 c2 58 98 d0 05   .xX@..5..*&.X...
+    0020 - 57 f6 56 ab 38 23 54 ee-4d 47 9b de 6c f2 f9 29   W.V.8#T.MG..l..)
+    0030 - 7b c6 2b 18 4a 60 c4 aa-85 07 d5 52 01 17 26 20   {.+.J`.....R..& 
+    0040 - b5 0f 36 de de ce 48 74-f0 af 30 31 3c 44 ca ea   ..6...Ht..01<D..
+    0050 - d2 e5 f2 3a 14 78 bb 13-91 e5 c2 14 a5 42 54 ef   ...:.x.......BT.
+    0060 - 9d 88 57 1c 9d cf cb 90-c3 15 4f be c0 a3 d4 f2   ..W.......O.....
+    0070 - 57 7c ba b7 cf 27 05 7f-c0 4c 51 ca f1 c7 37 c1   W|...'...LQ...7.
+    0080 - 24 5d 90 f3 17 6a fa a2-e3 89 89 3b 0b 8d b6 7e   $]...j.....;...~
+    0090 - 68 3a 36 cb fc 96 0d c1-9a e4 b3 40 f5 e4 9e fb   h:6........@....
+    00a0 - f7 e4 bf a4 1c 35 07 45-91 d2 6a b4 df ab 69 ad   .....5.E..j...i.
+
+    Start Time: 1472789243
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

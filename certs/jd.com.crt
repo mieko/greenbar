@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=CN/ST=Beijing/L=Beijing/O=Beijing Jingdong Century Trading Co.,Ltd/OU=Operation Department/CN=*.jd.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFDTCCA/WgAwIBAgIQQW3qy1YKwJly0zzHPRpeAjANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwMTIzMDAwMDAwWhcNMTcwMTIyMjM1
+OTU5WjCBljELMAkGA1UEBhMCQ04xEDAOBgNVBAgTB0JlaWppbmcxEDAOBgNVBAcU
+B0JlaWppbmcxMTAvBgNVBAoUKEJlaWppbmcgSmluZ2RvbmcgQ2VudHVyeSBUcmFk
+aW5nIENvLixMdGQxHTAbBgNVBAsUFE9wZXJhdGlvbiBEZXBhcnRtZW50MREwDwYD
+VQQDFAgqLmpkLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMZf
+JBDqpIbtUBpcIGO3d84mzrR6XpEUD9JQ4lz4+dEL/NIhNUjAJLgtSNrtdCAEnJYj
+t6JBMcZPY7VAmg4YxWqbRSBpgeVQPlihNuHH7c7+QuEHts3VqY5RmMJ3I2MI2V/e
+cK25/VKofClnDFoOODSfJNKxrf/dD+yDo39pIR8NaSfS1G/LIqwekDZ15YSgbnk3
+8gVAt8KKe6NpFRqxLIxJLZnrq6TBjLdek6Ze0hAVasGmiSI5I+I7bMf8mDJQTuTK
+JGmfKAc/t8L9mE7UHfLAJs2XgKDobiu7tYPiQ77on+DagOQYKRLYyz69ptc02bn0
+42eH6jgTgEddNMWJfRsCAwEAAaOCAaYwggGiMBsGA1UdEQQUMBKCCCouamQuY29t
+ggZqZC5jb20wCQYDVR0TBAIwADAOBgNVHQ8BAf8EBAMCBaAwKwYDVR0fBCQwIjAg
+oB6gHIYaaHR0cDovL2duLnN5bWNiLmNvbS9nbi5jcmwwgaEGA1UdIASBmTCBljCB
+kwYKYIZIAYb4RQEHNjCBhDA/BggrBgEFBQcCARYzaHR0cHM6Ly93d3cuZ2VvdHJ1
+c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUFBwICMDUM
+M2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9s
+ZWdhbDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU
+0m/3lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzAB
+hhNodHRwOi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ24uc3lt
+Y2IuY29tL2duLmNydDANBgkqhkiG9w0BAQsFAAOCAQEATl9/AnkGS/GhAe9SwUcp
+ZUbs/FWJ289ltglNRRo8zDI3fmAU2kl9SbpJRSrk9zUwaBUG16VK6ZfOXrqaSuX7
+DjVAJ7SFKCJsqDT9DYUDDZJ5UmdW97Zw+3VQ2mclDvx3Zb78EZ1RaUuTRV/MJqS0
+uVipOjy2NC+CiWwr5txfPdQDsqthyp4As/wpCK5ZZmrS5QhouQJTh5Z+1ovwp5so
+LHLMNDsJa9DJwGw9gSvgjQU0UhS3G+JOp9cnN19zbGZihZYsP1eTssxjc+Gzxhpy
+S0IONeegTqO9x03o23zhYgnPSxtj6seMt4LQVJGSwAFOi04gm1xtp37FDzEhD+a5
+1g==
+-----END CERTIFICATE-----
+subject=/C=CN/ST=Beijing/L=Beijing/O=Beijing Jingdong Century Trading Co.,Ltd/OU=Operation Department/CN=*.jd.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+---
+SSL handshake has read 3620 bytes and written 626 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES128-GCM-SHA256
+    Session-ID: 9738DC7C0D0A4EE322B6BCA3A9509F15B4EB3FD1707E5F2230411189CC7FF06B
+    Session-ID-ctx: 
+    Master-Key: 2D489E7860C12A60FB84B34A1C8AC78CFA9042226D9412170717F944FB6142210CF720947E94B648C72C91476B3C5237
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 5f da c6 b7 5f a3 8a cb-b1 af e4 27 7e a4 cd da   _..._......'~...
+    0010 - 20 ba 62 de ae 08 e8 74-cd 9f 99 ed 99 c6 b2 3d    .b....t.......=
+    0020 - 5c 24 b7 dc 71 bf 5c 32-4d fa 83 43 45 b1 8b d4   \$..q.\2M..CE...
+    0030 - 37 b9 35 dd 7a 75 0b f7-78 1e 6f 00 25 48 66 81   7.5.zu..x.o.%Hf.
+    0040 - 0b 90 fa f0 99 0a 4d fc-38 33 8e 79 e2 9b e9 5e   ......M.83.y...^
+    0050 - 97 45 ac f1 87 c2 b1 8d-f5 1a b0 45 94 e7 c5 8e   .E.........E....
+    0060 - 00 53 2f ad 55 c1 87 fb-4f 28 2b 59 99 69 46 49   .S/.U...O(+Y.iFI
+    0070 - 08 80 1b a4 43 55 46 57-96 20 a4 43 31 ca 6b 82   ....CUFW. .C1.k.
+    0080 - 44 03 b7 5e 12 3f b3 78-fc 8d 4a ec f4 84 a1 7d   D..^.?.x..J....}
+    0090 - ad 7f c1 2b a1 25 03 ba-da bb 08 e3 f2 e9 25 94   ...+.%........%.
+
+    Start Time: 1472787874
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

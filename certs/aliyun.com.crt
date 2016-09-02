@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=CN/ST=ZheJiang/L=HangZhou/O=Alibaba (China) Technology Co., Ltd./CN=*.aliyun.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE3zCCA8egAwIBAgIMabaaLBaFY+ATiV9FMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
+bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTYwODEwMDkwMjAxWhcNMTcwNTE0MDcwNjEzWjB5MQswCQYDVQQGEwJD
+TjERMA8GA1UECBMIWmhlSmlhbmcxETAPBgNVBAcTCEhhbmdaaG91MS0wKwYDVQQK
+EyRBbGliYWJhIChDaGluYSkgVGVjaG5vbG9neSBDby4sIEx0ZC4xFTATBgNVBAMM
+DCouYWxpeXVuLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABHWkq2RtphNw
+6OIEdhc85haijI4jQw3u5Uh4orsL0cZM0HxWt1JcDoJ/24ulqxSaFNrX7N08KksV
+NQCpIR/twZ+jggJDMIICPzAOBgNVHQ8BAf8EBAMCA4gwgaAGCCsGAQUFBwEBBIGT
+MIGQME0GCCsGAQUFBzAChkFodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2Nh
+Y2VydC9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMnIxLmNydDA/BggrBgEFBQcwAYYz
+aHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2dzb3JnYW5pemF0aW9udmFsc2hh
+MmcyMFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBz
+Oi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECAjAJBgNV
+HRMEAjAAMEkGA1UdHwRCMEAwPqA8oDqGOGh0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5j
+b20vZ3MvZ3Nvcmdhbml6YXRpb252YWxzaGEyZzIuY3JsMH0GA1UdEQR2MHSCDCou
+YWxpeXVuLmNvbYIOKi5hbGl5dW5jcy5jb22CFCouY29uc29sZS5hbGl5dW4uY29t
+ghAqLm9zZS5hbGl5dW4uY29tghIqLnNodWp1LmFsaXl1bi5jb22CDGFsaXl1bmNz
+LmNvbYIKYWxpeXVuLmNvbTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+HQYDVR0OBBYEFOwURWQ9Kwo6g7I2MMJgVFcnsItNMB8GA1UdIwQYMBaAFJbeYfG9
+HBYpUxzAzH07gwBA5hp8MA0GCSqGSIb3DQEBCwUAA4IBAQCIuWNIbLAH/BgYWnAq
+bcYCaDc8+702Jn7OjOvEiRos1WyRyZdyP0PFF9/bGfXPMnHv29CV0lCvlitjyjYr
+nP9YaTwEsPsO9f2U63wMIGciut82CuJdnSHWxMbnqIF2QfiHiC0hBHoY8bHMayzM
+K73TE7Lw4NCUoG6ePx5KRlHRoip0LX8AWXiN1hIKkL55gM7Fw5nqQBHDVQNJxlO+
+3XAqAnp3Bn1gKDRS0Dk0POfmzcAkCVKH742CrAM4vXI6kFssslxv+9aKey+axBzT
+LNS7HAuQWWSEUlSwQX66VIEWQmAVL/JHlbvP/72Kumhg6qEFBoZ24K6KjXrWZOOB
+xk+J
+-----END CERTIFICATE-----
+subject=/C=CN/ST=ZheJiang/L=HangZhou/O=Alibaba (China) Technology Co., Ltd./CN=*.aliyun.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2877 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: CB37D8CC368E232C422CA62458B4299D1481DA7DC72BBC0D9A08B7D7883CDEE4
+    Session-ID-ctx: 
+    Master-Key: 63BFB4EAD41F89C1E972067A08C4EEBDBAC220D7A1705B1D452E112116A2396573174F7A0614FA14DA53D3F5072DEE8A
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 28800 (seconds)
+    TLS session ticket:
+    0000 - b6 93 10 8b ff a7 0b 8a-45 24 ff f1 bb 48 00 c7   ........E$...H..
+    0010 - 74 ea 29 6d 7a fb 12 53-4f 91 59 84 63 da e2 14   t.)mz..SO.Y.c...
+    0020 - f9 4e 34 c1 01 79 df 19-ff c1 4f 5b 41 0c c9 c3   .N4..y....O[A...
+    0030 - 89 90 fc 5f 2e a3 e1 17-ab ce 33 d9 4d 87 a7 4f   ..._......3.M..O
+    0040 - 17 5a 97 be 98 7d 4a 40-00 88 31 99 1d a2 a6 c4   .Z...}J@..1.....
+    0050 - 67 09 e6 53 44 42 b3 40-1b 68 f5 ee 2e ad 24 65   g..SDB.@.h....$e
+    0060 - 51 c4 d4 f2 5d f1 2d 02-1d b2 f2 c9 4a 91 d1 b9   Q...].-.....J...
+    0070 - 06 01 92 d9 e9 31 d0 20-bf 2b c4 c0 b7 f1 47 2d   .....1. .+....G-
+    0080 - f8 bb c3 5d b0 e2 b1 30-9a f6 d7 c5 a5 b8 88 5b   ...]...0.......[
+    0090 - b7 60 48 aa 1d af db ee-4d 8f 9b 34 32 e0 1b 16   .`H.....M..42...
+    00a0 - 12 ec 01 3f 8f 50 36 46-41 1f d5 62 2d 23 1a eb   ...?.P6FA..b-#..
+
+    Start Time: 1472788400
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

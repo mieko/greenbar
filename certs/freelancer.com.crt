@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=GT15331554/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.freelancer.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEszCCA5ugAwIBAgIDBEVAMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
+NTYgQ0EgLSBHMzAeFw0xNTA1MTAwNzU4MjhaFw0xNzA1MTExNDE4NDNaMIGUMRMw
+EQYDVQQLEwpHVDE1MzMxNTU0MTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
+bS9yZXNvdXJjZXMvY3BzIChjKTE1MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
+YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEZMBcGA1UEAwwQKi5mcmVlbGFuY2VyLmNv
+bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL8A1rOKr0JiN1evUbs2
+M8RhQro7oKhFV194x+4MUAiVvy4hK5qmsOqLXF1osXLRwOeUyi4i7Sk1DxPV2mGk
+n6NOmE4AJwZwIOeLBNTJdbkalEFveQYSrdbBlDlmBgLxlg/d82DYuBZyBV6L6OBi
+jqNxTh0BWZOr4ZAknBEkp8hHYxIPTiZEnRSKIvBMPb2S5zFKrDh1GhHjb1izBNDF
+B/3pHTQyhl7FflS/HdKn8tjN31uVVBn28NPxi3BEsSxpchfrtgQJYDQy610nRAC3
+/jqTvWAOcoWDXfipioAX/ZmA9OLVweVKLJCyI/ybJYUFVpNgmdP4v3gFLMcA9pPR
+li8CAwEAAaOCAVgwggFUMB8GA1UdIwQYMBaAFMOc8/zTRgg0u85Gf6B8W/PiCMtZ
+MFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2d2LnN5bWNkLmNv
+bTAmBggrBgEFBQcwAoYaaHR0cDovL2d2LnN5bWNiLmNvbS9ndi5jcnQwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjArBgNVHREE
+JDAighAqLmZyZWVsYW5jZXIuY29tgg5mcmVlbGFuY2VyLmNvbTArBgNVHR8EJDAi
+MCCgHqAchhpodHRwOi8vZ3Yuc3ltY2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAA
+MEEGA1UdIAQ6MDgwNgYGZ4EMAQIBMCwwKgYIKwYBBQUHAgEWHmh0dHBzOi8vd3d3
+LnJhcGlkc3NsLmNvbS9sZWdhbDANBgkqhkiG9w0BAQsFAAOCAQEAS91HgVAl9XDU
+7kghuUfWFXe3F9Yv9sfeMy/uN8O7CMp8uhCPTxs4eidnZFW1gQlEl2NiJdm71nT4
+u7OU3RWZ47s/mgsL7jzY8igVngAjnWDIZev8RUZtErBEtI64yOFRAbPLjZyzQhaC
+rTXNt0z58b3ijJEL8xakgmrh8vRshcJJfWu2dpaIcXnbqYdIig5LjxoC3UJKA2Ly
+FHQYY7Q7PjECVrUpVwZNmKU8mcdJ7+fq9uxB7pLY3VDEL+t8VQY8gy+nFdc0ogd8
+dGGGW6ratA0a/GqfIyBfWN02FaKZGJbpVG5MbNt9bCCjueo9yq6vGHCNrGTYlukG
+GRiwJvL+YA==
+-----END CERTIFICATE-----
+subject=/OU=GT15331554/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.freelancer.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3846 bytes and written 430 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-RC4-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-RC4-SHA
+    Session-ID: 51D606F1B8B483F899EFEF0021C4B638CCF8CF71B6CE9A0F9CAA365314D9023E
+    Session-ID-ctx: 
+    Master-Key: 22D203CAA3F9CD6E636DB1BC267909BB8313AEB81905C714A2BF944AEE4DB71660A4F7E90C7E273D18CB161B8AD2D1C0
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 8f a0 02 e3 fc ca 2a 33-80 c0 dd bb dd 9f 44 33   ......*3......D3
+    0010 - dc 03 9f 70 a5 22 0a 1f-14 e9 e1 73 e4 53 dd 9f   ...p.".....s.S..
+    0020 - f7 c0 a0 ad 04 44 84 a4-34 6d c6 66 3b 2f d0 a6   .....D..4m.f;/..
+    0030 - 71 cc 4f af 6b 31 02 6d-bd 02 00 7d 0e d1 96 ff   q.O.k1.m...}....
+    0040 - e2 9f c8 ac 62 85 0e 27-16 de 9a 9d e0 5d f1 db   ....b..'.....]..
+    0050 - 0d 46 2e 8e 36 18 82 6a-ac ad 27 7c c6 46 7b c8   .F..6..j..'|.F{.
+    0060 - bb f1 1e ab fc f0 38 ff-ad 63 2f 9d 20 12 95 8c   ......8..c/. ...
+    0070 - b5 7a 9f 2c 9f d1 56 71-a5 98 f0 13 59 95 35 7d   .z.,..Vq....Y.5}
+    0080 - e1 eb 77 8c d8 e6 79 9a-8e 58 6f 59 39 ec c6 16   ..w...y..XoY9...
+    0090 - 6e 5a b7 10 1d 49 96 d5-67 ff 9a 2b 06 13 66 b1   nZ...I..g..+..f.
+    00a0 - af ca 55 82 f9 be 58 a8-f7 f5 6c 33 96 e9 69 a0   ..U...X...l3..i.
+
+    Start Time: 1472789956
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

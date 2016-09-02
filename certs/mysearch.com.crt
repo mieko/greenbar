@@ -1,0 +1,64 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=New York/L=Yonkers/O=Mindspark Interactive Network/CN=www.mysearch.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNzCCBB+gAwIBAgIQCylXMdEqkD0iaGGmgAKmpTANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwOTE3MDAwMDAwWhcNMTgwOTE2MjM1
+OTU5WjB1MQswCQYDVQQGEwJVUzERMA8GA1UECBMITmV3IFlvcmsxEDAOBgNVBAcU
+B1lvbmtlcnMxJjAkBgNVBAoUHU1pbmRzcGFyayBJbnRlcmFjdGl2ZSBOZXR3b3Jr
+MRkwFwYDVQQDFBB3d3cubXlzZWFyY2guY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAubzroXWGvbpVqkVLXYPLLrOgB3ipXrryZN87ESqlYF4s5MIu
+eQwzZvLxhSZpAYqPLAERfUNj76lsEehnqhYw/fI2DN+GdJQNu5N5HPpXzMiKB6X9
+YpbTvmXB1hZGg62yLFo1TGEU6S2Z7/Vogz9ytm8pu3NrkvKfFJaFCvc3wYhJCgYu
+vwC7du3/sI0/vYblU1JeHOfGgIWMkERY+IJFAMojrfHd4PessGahkUsVi1AGTzmz
+hXaa3guuUPUSToAUL87Ow7zzCt2QL16jeHZWPlggdQ4dd8CPEHqrSYGj2d1viWWn
+y3s++6YA6qpaZbYGFsdlDuADXjpdPiOKe81dMQIDAQABo4IB8jCCAe4wawYDVR0R
+BGQwYoIfbW9iaWxlLnVzLm9yaWdpbi5zZWFyY2guYXNrLmNvbYIfbW9iaWxlLmV1
+Lm9yaWdpbi5zZWFyY2guYXNrLmNvbYIQd3d3Lm15c2VhcmNoLmNvbYIMbXlzZWFy
+Y2guY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAe
+oByGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3JsMIGdBgNVHSAEgZUwgZIwgY8G
+BmeBDAECAjCBhDA/BggrBgEFBQcCARYzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29t
+L3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUFBwICMDUMM2h0dHBz
+Oi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU0m/3lvSF
+P3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRw
+Oi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ24uc3ltY2IuY29t
+L2duLmNydDANBgkqhkiG9w0BAQsFAAOCAQEAh+U2393UFdR7OJw9auaSkPQJvO3v
+Rf1oSTqEFJnQ0HMGdNnZCKAepK8FbQu7hyWONvKDtPESs8ieXn8xqEdnlzwqD/2e
+3CeYElTLyHJm6xC0HUA5l6yWl8o2I8XMSjDdhTG/KUIi9qycES6bXGtdQK/Df/Fj
+8Ln3yA0wHGEh5zbh8P7HUa4W8IKHDqhCZqea+gXPQ2M7u35wWWPsdseLWkiQ7pMO
+et9p/mVSFwF8DgIBW23lRDpgSywGVtVJgXmglNzqo/Lql0p05HN20YHZTspyWWll
+xjfspVyJBWvMtyFNryqpVeB4LkNxVPiuuGnxuourjIZ8+zFgZU8n7ZcyLQ==
+-----END CERTIFICATE-----
+subject=/C=US/ST=New York/L=Yonkers/O=Mindspark Interactive Network/CN=www.mysearch.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+---
+SSL handshake has read 1540 bytes and written 666 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES256-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-SHA256
+    Session-ID: 306BDC7BE51DAE0B90CF650ED41097BFFAE71846814E66B4DD780002D17920DA
+    Session-ID-ctx: 
+    Master-Key: E2C52E668655826CA0F1CDCA8AAC06BE80AF08654A548971E78F265C80C53F965D1E838BD42639E66E08A41EFB180E5E
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790231
+    Timeout   : 300 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=www.leo.org
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFFzCCA/+gAwIBAgISA4gB0ZwLGxZ5uh0wdEOk313wMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xNjA3MTQxMzIyMDBaFw0x
+NjEwMTIxMzIyMDBaMBYxFDASBgNVBAMTC3d3dy5sZW8ub3JnMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu6mglSkRWN5YdKsuAWBugsK8B3Dbmso+2ylI
+gNpfmQHE/0CQUVakQrmFV5qYXvbI+8iSAEAJEM6a+DR9ZBmm0G2cFBQBA9s/MFzU
+hy4IdorPR6rmi9Br2diw05qJkBnesDh/eB/oofHCHsWFLyXMslEyCZFwtig3Wje+
+BQIU9/UB6NfbYhznZ8khL7eWzUynzvGuN/Trd+v2Zds77p5YxdOBmmkPxIis5VlH
+KoRzVRQNAdpCUSDGl2jPI9ZNirMBCxkiF2cTvkanDDZ+xyN9Gmh6yRWMw7+oQ38I
+nWyrrJcA6Gp1F+gGufVitmB02mRdmbqLM/BBALwRB2kpbrHNqwIDAQABo4ICKTCC
+AiUwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSY+HAIhWnYrUGnuh8stu2lnw4cKTAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBwBggrBgEFBQcBAQRkMGIw
+LwYIKwYBBQUHMAGGI2h0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzAzBgNVHREELDAqggZsZW8uZGWCB2xlby5vcmeCCnd3dy5sZW8uZGWCC3d3dy5s
+ZW8ub3JnMIH+BgNVHSAEgfYwgfMwCAYGZ4EMAQIBMIHmBgsrBgEEAYLfEwEBATCB
+1jAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwgasGCCsG
+AQUFBwICMIGeDIGbVGhpcyBDZXJ0aWZpY2F0ZSBtYXkgb25seSBiZSByZWxpZWQg
+dXBvbiBieSBSZWx5aW5nIFBhcnRpZXMgYW5kIG9ubHkgaW4gYWNjb3JkYW5jZSB3
+aXRoIHRoZSBDZXJ0aWZpY2F0ZSBQb2xpY3kgZm91bmQgYXQgaHR0cHM6Ly9sZXRz
+ZW5jcnlwdC5vcmcvcmVwb3NpdG9yeS8wDQYJKoZIhvcNAQELBQADggEBAHu+9IvR
+mh8QYlcIN9gv10bedkSTVdGOT/MaxGlAhI1NdO2dEiorAQZjs+XEzxMnCaX/jKhC
+PO1X0+f/vvWQvigK7LnIZ/d/Yygzb459Q5PNbh9yHyv/calNREPW6FHQRAiwz6Mc
+nqN1ZTbeBKmYQOrE4aIWNTS4sCWYk5b615TsbtcSbUkAIGKkKSYwdsrG6EJJZVUY
+Ypnlwyk7zy0Q7Hl1DC3QA8HBmjysTIuRJH4cch9MpLmz6Mpn5nJQiVZV/f8vSqyR
+hLB21b9+B6fXAIjXHv+nNAQ6WW6Hx8VFxJ5T8ZbvgKfhBrGmmvVYx95axOH8hOeZ
+VWBOU9iTVxsfsA4=
+-----END CERTIFICATE-----
+subject=/CN=www.leo.org
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3159 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 41D7FD779170E254E46868EC9DE7E248E82432AD8733FA5CCC7FDAC4BEA9DA2C
+    Session-ID-ctx: 
+    Master-Key: CFA6FCC84A02ACB46DA6E80197545CAD4AC7EAF16DA10A75CFCD60695F64F4625C691D0ED6A9F467FB55A6E6FD8A4C12
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 24 21 fa 80 45 c8 a3 1b-f9 91 1d dd 99 21 58 41   $!..E........!XA
+    0010 - 5d ef fe 0d 3d 67 cb 8d-27 23 11 bd 59 a1 62 a0   ]...=g..'#..Y.b.
+    0020 - e9 9a 83 d7 9e 03 49 3e-a4 2f 22 ec 6f 4c b7 e6   ......I>./".oL..
+    0030 - c3 86 55 f7 f8 e0 ef 48-40 c8 6e 5b f4 bd 5e 30   ..U....H@.n[..^0
+    0040 - 8f 9c 1a c2 0f 62 aa ff-f0 11 85 5e 92 7f 58 9a   .....b.....^..X.
+    0050 - ae bb 2f c3 91 74 58 cd-b8 ee 98 72 aa 89 6d 74   ../..tX....r..mt
+    0060 - 8f 01 d3 52 fc 2f d5 64-f0 c6 26 b3 15 1f a5 fc   ...R./.d..&.....
+    0070 - 51 aa b1 b7 fc b4 16 c5-f4 0b 69 14 90 fc ac 35   Q.........i....5
+    0080 - a5 7d fa 7d e7 47 49 aa-22 6b d7 2e 11 91 16 50   .}.}.GI."k.....P
+    0090 - c9 7d 24 d9 e8 d0 34 49-8c ef 0b c9 d1 83 d4 b3   .}$...4I........
+    00a0 - f4 0a 84 65 ef 94 26 f1-9b ee fc c8 b8 3e c9 2c   ...e..&......>.,
+
+    Start Time: 1472790043
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

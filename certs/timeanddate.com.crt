@@ -1,0 +1,83 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=NO/ST=Norway/L=Stavanger/O=Time and Date AS/CN=*.timeanddate.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G2
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G2
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEtDCCA5ygAwIBAgIQe1Mk6SCLitAO0jkqDV/XXjANBgkqhkiG9w0BAQUFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzIwHhcNMTQwNzI4MDAwMDAwWhcNMTYwOTI1MjM1
+OTU5WjBpMQswCQYDVQQGEwJOTzEPMA0GA1UECBMGTm9yd2F5MRIwEAYDVQQHFAlT
+dGF2YW5nZXIxGTAXBgNVBAoUEFRpbWUgYW5kIERhdGUgQVMxGjAYBgNVBAMUESou
+dGltZWFuZGRhdGUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+yIStZUmvp0PUFyRXYr6pmn0Jo8970pxZ3azZxPieStpf2wX8h54lWUXTFOedEhy/
+n9VzGHkB6CvPr+DwfMjvPEIrjMPAaeDU8/1f2Zs04U6vxTfqACFQdOMBU1J8XBsZ
+HOOPIecOPo5yDI5A5zDrTOMajuZ7wCG9guLUJqzlo1wrsRnrIts+hWH9zSUCl6pn
+ppMkiTsWprUy/+khMC/8edVvffVA1FEqZ68L4gMyO9FNY5ekoZ6I2E3Ocp6/VdGI
+d7yzul3C/+jhVWgNRkDgqhpN+Jz5hKf3+5RdnbP/AGQaBqF/+ucoLRQSYWRYTrhR
+E8f2hlRRF5hBru+eL1GJywIDAQABo4IBezCCAXcwLQYDVR0RBCYwJIIRKi50aW1l
+YW5kZGF0ZS5jb22CD3RpbWVhbmRkYXRlLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB
+/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ2Iuc3ltY2IuY29tL2di
+LmNybDBlBgNVHSAEXjBcMFoGCmCGSAGG+EUBBzYwTDAjBggrBgEFBQcCARYXaHR0
+cHM6Ly9kLnN5bWNiLmNvbS9jcHMwJQYIKwYBBQUHAgIwGRYXaHR0cHM6Ly9kLnN5
+bWNiLmNvbS9ycGEwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1Ud
+IwQYMBaAFBFK0HM51VtpCFy6Pb9kmqiLHFW8MFcGCCsGAQUFBwEBBEswSTAfBggr
+BgEFBQcwAYYTaHR0cDovL2diLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDov
+L2diLnN5bWNiLmNvbS9nYi5jcnQwDQYJKoZIhvcNAQEFBQADggEBAIcDCnmkhQGv
+BnCFzfVpySklKK+rTNRrhTjsYsCm7LXyHVWERyMPdR/pv+PU1O4SvqIUnvcOLEyo
+8o0tfl8laHctv3/GCpXU7sYxIQFxshLca8dyrJ9BxGXTE7dP87wLy5xe7Ct9QJ39
+6BACoJ7lkXhED6jCid+dlLP0tVHOAcPU4t2xUhqhVL7vZibW2nCrHtkTni46zQH2
+Qqn3x1gb0pLQPieKHik5n5zD0jB40tSsrL2c8EfaqCrav7A4obWhr6FHXfLTLjIy
+w65w9evk2MhD19bxPH+uqgVfnoswvo94ijgM1mX4yan+vnJ7qYhKBOFxZ6bwfQA2
+mD6Zxjo7A7s=
+-----END CERTIFICATE-----
+subject=/C=NO/ST=Norway/L=Stavanger/O=Time and Date AS/CN=*.timeanddate.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3919 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 19967BC2A4BD8D9CF76A50868B1E2A733D7AC6FB822CB187C3B0D38A4F7719AF
+    Session-ID-ctx: 
+    Master-Key: 1C6AE18A0B80021517C199851FF097F1864F200CC1187B93472614385051A0E90B1A05BE71978A85E7FDEC47A657B410
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 2e 20 cc 44 ce 70 60 d8-59 f3 04 87 93 2e b9 04   . .D.p`.Y.......
+    0010 - c4 c2 da 75 26 cf 58 14-68 75 09 08 d0 cf 1c df   ...u&.X.hu......
+    0020 - d7 36 1b e9 32 16 d2 8b-64 b2 d1 93 50 cd bc c9   .6..2...d...P...
+    0030 - 25 b4 e0 5e 78 6a 6f cf-9c 9e 28 8a 74 4a 6b 4f   %..^xjo...(.tJkO
+    0040 - 25 16 81 b2 be 6e 28 52-13 2f 5c 4a a1 e8 1a 5f   %....n(R./\J..._
+    0050 - 52 32 0d a9 c9 fe 1c 3b-7b 72 ea 56 29 6e 15 b9   R2.....;{r.V)n..
+    0060 - d1 99 af d7 51 a1 34 80-e3 e2 94 d5 d8 05 50 b4   ....Q.4.......P.
+    0070 - 5f 13 bf 6a b1 bd d3 e1-b4 ca f8 d9 14 27 6d 48   _..j.........'mH
+    0080 - 3e 22 36 31 1b 15 36 b5-6c 63 19 ca fe 26 a7 27   >"61..6.lc...&.'
+    0090 - ae a6 ac ec 53 45 15 92-97 10 37 c4 7d e5 39 78   ....SE....7.}.9x
+    00a0 - bd e6 bb 94 dd b4 98 a8-28 f0 80 b5 17 74 81 97   ........(....t..
+    00b0 - b5 fc 06 ac 87 45 19 fb-a4 45 06 6d ec 59 f5 66   .....E...E.m.Y.f
+
+    Start Time: 1472788735
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,83 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=IN/ST=Tamil Nadu/L=Chennai/O=Sify Technologies Ltd.,/OU=Application Integration Services/CN=*.sifyitest.com
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFHDCCBASgAwIBAgIQGltb7Y0nMs/hMagZTmAqxjANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMDA2MDAwMDAwWhcNMTYxMDA1MjM1
+OTU5WjCBmzELMAkGA1UEBhMCSU4xEzARBgNVBAgTClRhbWlsIE5hZHUxEDAOBgNV
+BAcUB0NoZW5uYWkxIDAeBgNVBAoUF1NpZnkgVGVjaG5vbG9naWVzIEx0ZC4sMSkw
+JwYDVQQLFCBBcHBsaWNhdGlvbiBJbnRlZ3JhdGlvbiBTZXJ2aWNlczEYMBYGA1UE
+AxQPKi5zaWZ5aXRlc3QuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAwoy33uSFdOnyyRKCGYt5lX2lIBEFCGam9hF6uvqt8kKJSFIHvj+MK6NXst65
+4L0YPEkVy2QMIzVCPBw0gwrJFBfB1B2rtUOCR7/oKYM9uiMdRMa7KWUYJbkQRg+s
+yXSstIMBjbaFtg7I2C1dYOUF3phAFeLkrtQXF0j6T8Ftb1R7UzMYt62qnFYU09Xx
+M+IKjzSuaAnm/0I69wA8FKQ1Xxvdb72qHXOTmFT5EKjFiFt//pjQk7yFrVnabqdf
+ZK0aJi9Js3Xvx/bEAFn9k0M6IM0Q0zgOqiN1MZaQzyORP3HMSirlntcpA0NHyasa
+2C1EM6glzDbeD8xQwJ3D5IxoGwIDAQABo4IBsDCCAawwKQYDVR0RBCIwIIIPKi5z
+aWZ5aXRlc3QuY29tgg1zaWZ5aXRlc3QuY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/
+BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24u
+Y3JsMIGdBgNVHSAEgZUwgZIwgY8GBmeBDAECAjCBhDA/BggrBgEFBQcCARYzaHR0
+cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2Fs
+MEEGCCsGAQUFBwICMDUMM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJj
+ZXMvcmVwb3NpdG9yeS9sZWdhbDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwHwYDVR0jBBgwFoAU0m/3lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEE
+SzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAC
+hhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNydDANBgkqhkiG9w0BAQsFAAOCAQEA
+arkEqJAvivC7kIl8lxe0oEH9WUWzmse3yezGwAbpSdmlC3XD547qkK2h2Jj3jslR
+8asfR7I0yP/H9b5jelWqnE+q8GwjDav6m9jzWVqele3z/Q1nkFTuqaUDTZYLGnkm
+Wv0t0am3Yau4ON9RXyrzHyjngaydO0yLg2+bKsjzFdv1n5cgwdUKwJYlEzUOYD7y
+m7n8H1VZ1c8Zd+ZAYJEV4Mw4U1dK3CL5E4e/+yQOC3mCTkaefQxOPb3NmU1bEa+8
+ce8CqVntBecWnRqyIGT8u4jofMexQ9HvMkq7e8NaAlKjaKzdyU9qIei2ZtKVNFre
+bmImHe4L1wwzYTfzMmTtcg==
+-----END CERTIFICATE-----
+subject=/C=IN/ST=Tamil Nadu/L=Chennai/O=Sify Technologies Ltd.,/OU=Application Integration Services/CN=*.sifyitest.com
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: DH, 1024 bits
+---
+SSL handshake has read 3048 bytes and written 498 bytes
+---
+New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : DHE-RSA-AES256-GCM-SHA384
+    Session-ID: 8F4A881E8B140D64A1F4FE26D9C3615DAED355BEF98F764E41E34A2F6BCEF35E
+    Session-ID-ctx: 
+    Master-Key: 5A1C946E9CE90BFBC96D9283ABE89CF3D3055C41E2F997738ADA801C6359A261DD7C1A4CAE0D18A56F7EF2CA8B15A6BF
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 51 29 c7 9e 05 f7 15 1a-4d 8e e0 b4 fb 6f de 8e   Q)......M....o..
+    0010 - bc d3 48 c7 3a 05 e7 23-ed 42 b1 33 b7 20 4b 3c   ..H.:..#.B.3. K<
+    0020 - 84 cc 56 65 25 ae ec b1-b5 51 dd 0e 3d 06 3e 3e   ..Ve%....Q..=.>>
+    0030 - cf 3c 48 14 e5 bb c3 03-f3 54 98 37 67 bc 8f 2c   .<H......T.7g..,
+    0040 - 24 01 6b 11 e8 d9 33 d0-36 e6 e4 d1 2e 08 23 83   $.k...3.6.....#.
+    0050 - fc e5 9e 3b 34 69 b8 25-7b f1 07 9a d3 28 54 2c   ...;4i.%{....(T,
+    0060 - be c5 95 77 fe c4 f3 b0-c9 5b cc 17 04 fe ed 91   ...w.....[......
+    0070 - 01 05 83 2e 28 7e ee 88-3e aa 63 c6 bc 7c c3 cf   ....(~..>.c..|..
+    0080 - ad de ef 5f 23 23 b5 52-a9 e8 cf 8d 2e aa 3f af   ..._##.R......?.
+    0090 - d8 a3 6f 29 c7 24 da a3-b9 76 dd 2d 22 ee bc 0f   ..o).$...v.-"...
+    00a0 - ae 58 f2 b7 3f c7 35 8e-4e 53 4c 6d 03 0a c5 00   .X..?.5.NSLm....
+    00b0 - 80 d8 06 10 ff 31 d4 bf-05 ae 4a 90 58 fe 78 87   .....1....J.X.x.
+
+    Start Time: 1472790425
+    Timeout   : 300 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

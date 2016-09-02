@@ -1,0 +1,69 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=DZ/ST=Algiers/L=Kouba/O=Ouedkniss
+   i:/C=DZ/ST=Algiers/L=Kouba/O=Ouedkniss
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDWTCCAkGgAwIBAgIJAIa7tdvZP/AtMA0GCSqGSIb3DQEBBQUAMEMxCzAJBgNV
+BAYTAkRaMRAwDgYDVQQIDAdBbGdpZXJzMQ4wDAYDVQQHDAVLb3ViYTESMBAGA1UE
+CgwJT3VlZGtuaXNzMB4XDTE2MDcyMDEwNTYyNVoXDTE3MDcyMDEwNTYyNVowQzEL
+MAkGA1UEBhMCRFoxEDAOBgNVBAgMB0FsZ2llcnMxDjAMBgNVBAcMBUtvdWJhMRIw
+EAYDVQQKDAlPdWVka25pc3MwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCf8sXdp3EzHmhLKsx0YqvtTRz3o7qPcPN34xVHdsfILqOGB5hVQQP84EeOmcpk
++Y6kx0wqUFlGAOzoGMGH/ABFlG/lnwQwj7cybmcOrnbe76nkPUq8XjKS0WmYb4ts
+okjHWlvboLznKZIMNopU4RhzyWwlQ0eq1FoyWdTXDnv652q1+Br8wzg3WRoSs3H+
+QmO16SWTZDIamJO6ZrQ9iroWmS4ENLDaTviO8bhBxgx0siy6QbkTtpyoiPzXJGvs
+b2+5GFBtdEzOjZVyWrbqX7/6FnKDD7NU77vb6022K+dALtpIW3fZTeNwW2Ne4ZtB
++TfcmsajyzZE/DPUeqBcI53LAgMBAAGjUDBOMB0GA1UdDgQWBBT8OhHEwWh4Ktq/
+kfqDaOM31+kFATAfBgNVHSMEGDAWgBT8OhHEwWh4Ktq/kfqDaOM31+kFATAMBgNV
+HRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4IBAQAwmXWEwkMyXUV6Tc84Uoi7QHJx
+C+e56VzTNFCw+mirnGMZQBEdQp2fywj6rrMQVTSFFBP1uTOXFEmD0ixxlg461DRq
+2Lr+Ba05Bw9vRjXg7bKFAgvyrBAWvWsFF4RKk6q6p7Wc/hM4U/lt4wM7zPWsJF5V
+dDmpVb9h7lJj7nhI4ZVKWyYR0UZDXWjGzx6WZa6/oqpQd9q09GfKgQDkWxOYtge4
+4bwv+CG+U/EZTyHSkRz3GYnZWP0ftV3Kt7088HN0YkxrpXiiA8y2IzoYa5XJ/SJf
+ZoIUf2zTOEtcW+1GYyDB5HtnT5zFVS7BnljDM+sylA02JXJpFrheAhLqhhPa
+-----END CERTIFICATE-----
+subject=/C=DZ/ST=Algiers/L=Kouba/O=Ouedkniss
+issuer=/C=DZ/ST=Algiers/L=Kouba/O=Ouedkniss
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1542 bytes and written 442 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : ECDHE-RSA-AES256-SHA
+    Session-ID: 6E5465935C59D081BF1A540171474680C7F80158FD000B3DC7542B386D3FA4B9
+    Session-ID-ctx: 
+    Master-Key: 90CBE653DA64DE81AD29811B7C59782293D042A0BE03A14FCD6F90999FA57DE586158CFAC14ACA2EB31409388DC84BA9
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - b8 a6 fe 97 94 55 ed 6e-6e 22 b3 15 20 53 6d ea   .....U.nn".. Sm.
+    0010 - 12 3e c3 14 e1 1c 4d 31-66 de 3b 34 08 37 5b a4   .>....M1f.;4.7[.
+    0020 - 81 8c 4d 82 de 1a 9a 34-f2 ce 9b 3f f9 df 14 01   ..M....4...?....
+    0030 - c3 76 ed b8 cc 4a 1a 21-b0 ff 58 d1 d6 f4 92 53   .v...J.!..X....S
+    0040 - 0a 3c 2a 63 6a d8 42 42-c7 9b e0 33 bd 68 6f da   .<*cj.BB...3.ho.
+    0050 - 31 ee f9 7c 3a 26 e8 32-8a ed a8 6f 25 20 19 d4   1..|:&.2...o% ..
+    0060 - 39 88 86 a7 f8 74 59 fc-6a ce 7e cf 89 b1 6e 54   9....tY.j.~...nT
+    0070 - 70 70 f9 cd 7b c8 04 74-35 c8 e7 c0 f5 4d 80 97   pp..{..t5....M..
+    0080 - ce 9e 1a 1a 6b 24 7f 62-60 10 c6 a9 cc b1 db 26   ....k$.b`......&
+    0090 - 35 d3 71 13 07 25 42 79-1f b4 e5 81 27 a0 e7 58   5.q..%By....'..X
+    00a0 - c2 7f 3d c1 9c 09 c5 6f-50 e3 85 29 77 e3 75 dc   ..=....oP..)w.u.
+
+    Start Time: 1472788650
+    Timeout   : 300 (sec)
+    Verify return code: 18 (self signed certificate)
+---

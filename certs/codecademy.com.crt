@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.codecademy.com
+   i:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+ 1 s:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFAzCCA+ugAwIBAgIRAKG4uTt4o1Qk/TkGbf/6SS8wDQYJKoZIhvcNAQELBQAw
+XzELMAkGA1UEBhMCRlIxDjAMBgNVBAgTBVBhcmlzMQ4wDAYDVQQHEwVQYXJpczEO
+MAwGA1UEChMFR2FuZGkxIDAeBgNVBAMTF0dhbmRpIFN0YW5kYXJkIFNTTCBDQSAy
+MB4XDTE1MTIwMjAwMDAwMFoXDTE3MDExMDIzNTk1OVowZDEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMSQwIgYDVQQLExtHYW5kaSBTdGFuZGFyZCBX
+aWxkY2FyZCBTU0wxGTAXBgNVBAMMECouY29kZWNhZGVteS5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDMKavOf5CnQxDSNE8DdtOoKb7QD71Ej/uq
+N8Jj3hkVRRpEBEHIQEbJLCnZ2h9sJmYpDssOBz0Nu7J2FF57Ibv0pj6Na/881Is3
++wqqVOWgRkBzdvScbD8fKs7xjGdDOk65AuZvkBLzTUQ0QHWShmYZkyPEMHH1LEae
+WrgSpCpLuIAwu++vk88ExKMdLJTl6KfAkBux+6x39LCE5P08HKRmmZg5O1efz2mc
+eIvm0nyAT4QAEG6aelQ7QnzaJEB2HsZ8D0VQqLEcW+21K0Milg0xJM7r/ufZBkNM
+Dl5q3mCM0MfTzZ6I/GcpD4/+dhpciurEO2DIRT07obJMOTtb1o3fAgMBAAGjggGz
+MIIBrzAfBgNVHSMEGDAWgBSzkKfYya9OzWE8n3ytXX9B/Wkw6jAdBgNVHQ4EFgQU
+JiokzYzM5MqHUFQGFBzUMhFf15AwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEsGA1UdIAREMEIwNgYL
+KwYBBAGyMQECAhowJzAlBggrBgEFBQcCARYZaHR0cHM6Ly9jcHMudXNlcnRydXN0
+LmNvbTAIBgZngQwBAgEwQQYDVR0fBDowODA2oDSgMoYwaHR0cDovL2NybC51c2Vy
+dHJ1c3QuY29tL0dhbmRpU3RhbmRhcmRTU0xDQTIuY3JsMHMGCCsGAQUFBwEBBGcw
+ZTA8BggrBgEFBQcwAoYwaHR0cDovL2NydC51c2VydHJ1c3QuY29tL0dhbmRpU3Rh
+bmRhcmRTU0xDQTIuY3J0MCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC51c2VydHJ1
+c3QuY29tMCsGA1UdEQQkMCKCECouY29kZWNhZGVteS5jb22CDmNvZGVjYWRlbXku
+Y29tMA0GCSqGSIb3DQEBCwUAA4IBAQCO+rHhGcvmsNYRAm3bBEzF+gA2GsJvnoRO
+ejvLHswFEBpYc6wVL2lwsyJyjFH5SvnmB02cMde4H199dXA5+zRiqqbYJ+aptzxL
+ylSyn6Gs9XRaTx1cJ3BMP2JlUGvfL81kPShFjx4EaMFXR/HFx7XvrZ0zhT2/+YHa
+BbHrA0HCmhaUA9a3Of26QUABLxtIT+tzLXHyMD22JdgiCHPZuo5fbv96Rwdc1KVX
+P4KF0iSdjVJHaPH8L7u3hl9Rd8gParHxY/6uDH+WhfZ4NKO5GeMXYYGMk+JBt0Ce
+UwYAule06aFsZpy9yUyxcdgreYxuFVXW7nPE1ST8lhjJpsa4FQQt
+-----END CERTIFICATE-----
+subject=/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.codecademy.com
+issuer=/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4867 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 571F6F08C3E17C22724BE71C8B9B932176B5922BCF15AE2EB073A7CFF8BE35BF
+    Session-ID-ctx: 
+    Master-Key: 973DA818F05FFE7E0F8DF7B20FF1191C8D297A4C656FD7E04E819F2FA3AD519D404BB19D1DBDF83DB21C46A2AD7F347F
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a0 c4 3a 58 2a 73 b3 04-56 01 03 09 6d e5 b0 b3   ..:X*s..V...m...
+    0010 - d7 ca ff b5 66 48 7c 4c-7c c0 58 03 fb c3 43 cf   ....fH|L|.X...C.
+    0020 - be f3 d4 e0 92 4a 50 8c-1f b3 71 d9 71 23 aa 2b   .....JP...q.q#.+
+    0030 - c4 bb c3 08 1d 49 4c ad-96 9f ca c3 b7 d2 a4 27   .....IL........'
+    0040 - f0 7a b2 fd a4 68 8a 52-54 d3 dc c2 6f ee f6 df   .z...h.RT...o...
+    0050 - 9e 7a d4 31 a5 13 e0 59-02 a3 4f 33 52 01 f2 5a   .z.1...Y..O3R..Z
+    0060 - 01 fb a7 54 59 2b 5e 86-a5 d1 79 98 18 2b 5f 4d   ...TY+^...y..+_M
+    0070 - 88 dc fe 94 60 58 c5 73-bb 54 01 5b 00 1f d3 8d   ....`X.s.T.[....
+    0080 - 69 ca 9f 77 69 c2 0c 54-ea 00 16 65 93 55 4a d6   i..wi..T...e.UJ.
+    0090 - e0 60 96 22 9c 73 5d b4-37 2f 44 92 66 98 54 0f   .`.".s].7/D.f.T.
+
+    Start Time: 1472790239
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

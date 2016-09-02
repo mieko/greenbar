@@ -1,0 +1,63 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=GT83904847/OU=See www.rapidssl.com/resources/cps (c)14/OU=Domain Control Validated - RapidSSL(R)/CN=*.mynet.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEpDCCA4ygAwIBAgIDBdU9MA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
+NTYgQ0EgLSBHMzAeFw0xNTA3MjEwMDQ0MDdaFw0xNzExMjgyMjAxMTlaMIGPMRMw
+EQYDVQQLEwpHVDgzOTA0ODQ3MTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
+bS9yZXNvdXJjZXMvY3BzIChjKTE0MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
+YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEUMBIGA1UEAwwLKi5teW5ldC5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDT1gY6cO8YAPn9p0PRYCloGn6J
+L93uQOaxS6m9rd4yjFEB4DSdAsvuCLa4fScfj7AtCAnrGGP8ZZ2/3HB6pkJ4cTVd
+/aiJnYtrQISOE0g2vohg8CLttoHa6YpPxRBB3UgN5Gf/n38fneiuhi+g/pvF5rG1
+kPITxfUW4hIB8MN7mwky32MhMfowGqd6S8l3ghoYA9vnuuEutnwFCtAvXUyTy4BK
+GKukGy85wkA8COTOn1+hw63yZO9snMbUMR3dHyuq7kTHLm0OrHDf3WBqugwozhEq
+/opjOyGxJJHjfme65a2U00w2FHroxTsnqKhrIryhRRMcit7OoC5l/MRpb8mVAgMB
+AAGjggFOMIIBSjAfBgNVHSMEGDAWgBTDnPP800YINLvORn+gfFvz4gjLWTBXBggr
+BgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9ndi5zeW1jZC5jb20wJgYI
+KwYBBQUHMAKGGmh0dHA6Ly9ndi5zeW1jYi5jb20vZ3YuY3J0MA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwIQYDVR0RBBowGIIL
+Ki5teW5ldC5jb22CCW15bmV0LmNvbTArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8v
+Z3Yuc3ltY2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAAMEEGA1UdIAQ6MDgwNgYG
+Z4EMAQIBMCwwKgYIKwYBBQUHAgEWHmh0dHBzOi8vd3d3LnJhcGlkc3NsLmNvbS9s
+ZWdhbDANBgkqhkiG9w0BAQsFAAOCAQEANcbeLkYnr7jArqdq1U6tccwnGqUXOqMO
+jkTEj8h7d2FA8ZsZaum37/LFXM2ISWPKNFGPb4MyVMmZ67oT4HBkpubpMwxZg1HF
+RW7Ap7iRjs9iQVrx6H5m8tOfLEF5jbJkjBiA1zO5hCuNNmkdz56I6d3b69ndmPbP
+ysZzWaVHOx18gUHx7NgUCujhsig3UJjgF/RuCBlaMf+6K8OIHR1En8Ta6Pak1tSC
+0fZoSlgPoEKI3qVrvDmkxctD3ZdfK23ZiqggblKwUBzW5pWfpTNfXWIPmo3SIuhQ
+O0fp9VTZwVfmIFk1nE3JXm69PTyizyqqgJgsFPNFLvk8x6CUCJlK1A==
+-----END CERTIFICATE-----
+subject=/OU=GT83904847/OU=See www.rapidssl.com/resources/cps (c)14/OU=Domain Control Validated - RapidSSL(R)/CN=*.mynet.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+---
+No client certificate CA names sent
+---
+SSL handshake has read 2396 bytes and written 618 bytes
+---
+New, TLSv1/SSLv3, Cipher is RC4-MD5
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : RC4-MD5
+    Session-ID: 31E43262E23915DA6C4530708DA8703DDA29DEEBA3D11F424E622A703EB48A0C
+    Session-ID-ctx: 
+    Master-Key: CB6257875781AEF0F05087A8E63430178D255773280907439E263555DE7A1AA0DCCC3A72BD36D9BD8C4F876D3337856F
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472789460
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,78 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=NL/ST=Amsterdam/L=Amsterdam/O=PlanetRomeo B.V./CN=*.planetromeo.com
+   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEsDCCA5igAwIBAgIQaoo5t8UjytVWuKujkfedSzANBgkqhkiG9w0BAQsFADBB
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
+aGF3dGUgU1NMIENBIC0gRzIwHhcNMTQxMDIyMDAwMDAwWhcNMTYxMjIwMjM1OTU5
+WjBsMQswCQYDVQQGEwJOTDESMBAGA1UECBMJQW1zdGVyZGFtMRIwEAYDVQQHFAlB
+bXN0ZXJkYW0xGTAXBgNVBAoUEFBsYW5ldFJvbWVvIEIuVi4xGjAYBgNVBAMUESou
+cGxhbmV0cm9tZW8uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+13BMn9HmcK4arKAiWKD1qrN951oGM0icwLeBkNukoM6luDnxhgeITJnyIDP1EAH2
+ywURUjrYOAWN097w7GZ8JJRTfdzErTxhxKPOy8ye6nLMh5w5hbUxirTc9rh+QIPG
+CAu9OJvnx/+/3tc/zTMTEFDc6dUOtfiaMvqjZzGQtYb2tHVEdbrnKk8QWkxlA1it
+h5+1Nqp0wcQAJv2gOSWQbNKF//FO13vmIypFxxn86Rb52t4E7nqzLmJWbxN3cUWd
+pr1s4PVOfP7fys9iJkj5fhYsOQVIkAzHZvfX1HHGAraHd5cbA0LeIbxNSh1om24k
+iom1iHe3JyiLtwubvuzLnwIDAQABo4IBdzCCAXMwHAYDVR0RBBUwE4IRKi5wbGFu
+ZXRyb21lby5jb20wCQYDVR0TBAIwADByBgNVHSAEazBpMGcGCmCGSAGG+EUBBzYw
+WTAmBggrBgEFBQcCARYaaHR0cHM6Ly93d3cudGhhd3RlLmNvbS9jcHMwLwYIKwYB
+BQUHAgIwIwwhaHR0cHM6Ly93d3cudGhhd3RlLmNvbS9yZXBvc2l0b3J5MA4GA1Ud
+DwEB/wQEAwIFoDAfBgNVHSMEGDAWgBTCT0hX/NFPmsBdOH0OBdvZLrVSYDArBgNV
+HR8EJDAiMCCgHqAchhpodHRwOi8vdGouc3ltY2IuY29tL3RqLmNybDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUF
+BzABhhNodHRwOi8vdGouc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vdGou
+c3ltY2IuY29tL3RqLmNydDANBgkqhkiG9w0BAQsFAAOCAQEATNDM7bUNrc7QciaU
+8/1AuY8kukH/nHdL32IjWgFC2Ex6q9m6xgjG1X0i3zljle+KuCYPIbtnowadAbXr
+JfMpWbUZBJ3OfbdeX8IvdgZEgTRcNhifAnKx2BW5U7sFpsOiJurHy/GALFXuc9pE
+5l0doAsRQD65njc9U/SNy/kabtCuu0F5ze3ojPiErJgdRQHRznXj7xhyljqDdaWH
+y1JICXSAyddw+2DlZ3HoEplnt9An0CnorT8vNuNMXcrFdAXKjYtBOPPknDMzL/cl
+Tq9D20tvR6aFqtojSfOGSUifqAE/14MUxp6sUBI2bQQK6yeMg0fMO7FgifrdWaJS
+a4n6fw==
+-----END CERTIFICATE-----
+subject=/C=NL/ST=Amsterdam/L=Amsterdam/O=PlanetRomeo B.V./CN=*.planetromeo.com
+issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1879 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: AEE3CE52D0191CC7E8A6C8FE7A4B4C9897165DEDDDFFFAE2601BFFB1FAD5012D
+    Session-ID-ctx: 
+    Master-Key: 611DD5F5CAA31D50C2A70868607D5A725794DD88310DB650B0A614B1B332C62367AE5C3B77CAC3ED41F8EED7CF30CC16
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 13 1e 6d ba cb 2d 17 de-71 3b 8b 5a 5b 0a 2f a8   ..m..-..q;.Z[./.
+    0010 - 6e 60 29 c3 44 a2 80 7d-e1 31 3c 46 d6 b5 5d d3   n`).D..}.1<F..].
+    0020 - 71 51 01 2a 1e 43 e3 66-eb 01 02 d7 27 10 56 15   qQ.*.C.f....'.V.
+    0030 - 66 4f e7 76 04 d1 3e 6f-2c 3b dd 16 35 01 2d ac   fO.v..>o,;..5.-.
+    0040 - b5 a9 9e 06 e0 bb f2 c2-3f ad 03 fb bf b3 8d b3   ........?.......
+    0050 - 1c 8f cc 21 3b 68 98 8a-5d 5e 6f 41 5a 41 5c f4   ...!;h..]^oAZA\.
+    0060 - d2 a4 06 44 bb ff 68 90-53 e3 48 e4 3c e9 cd 8c   ...D..h.S.H.<...
+    0070 - a4 e4 8a fd bf 85 38 c0-2b cd 48 95 dc ee 1a bb   ......8.+.H.....
+    0080 - 06 59 0e 0e b4 a5 fe 6e-7b 60 c5 24 df 99 67 c9   .Y.....n{`.$..g.
+    0090 - 63 85 d4 7a 0e 34 3f 59-98 9c 1b a2 c4 ec 7d 20   c..z.4?Y......} 
+    00a0 - 62 25 42 c1 b3 86 9c a3-1f 9c 3b 8d 7e 3f 05 91   b%B.......;.~?..
+
+    Start Time: 1472790479
+    Timeout   : 300 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

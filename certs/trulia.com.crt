@@ -1,0 +1,65 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/OU=GT10302566/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.trulia.com
+   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEpzCCA4+gAwIBAgIDBcCqMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
+NTYgQ0EgLSBHMzAeFw0xNTA3MTYwOTQ0NDZaFw0xNzEwMTcwMzExNDZaMIGQMRMw
+EQYDVQQLEwpHVDEwMzAyNTY2MTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
+bS9yZXNvdXJjZXMvY3BzIChjKTE1MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
+YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEVMBMGA1UEAwwMKi50cnVsaWEuY29tMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6ILXqrENzWp9ScpU2Xuvdkkk
+EQfmJvnyeiaagqE0ERfdQCM8+fJwQNJdcHgbL7x2JNt5G+WpZzYCQMqFfBdbFtKJ
+DcGw9v5aCcNgjaMNVclCBhvYiHGhuLz0+gMrmjZJMCNyTItxVZq6zWD/I+LrqDXm
+snvby71m5vut4BXLLOI583nwu5oYYb0Uo4lC1f5tIILOysOixwMhO7G/oeKCThRc
+lGLuYxURYoPlX7Yv2ccJ8h3vgxcJBTaJufL3AiWaM6L3tNJQdiYC5N1M4LhjKnaL
+dlSTeqsyx2GzM1kq+xVYG837zYI6boCPuXipjlnNnKEfrPetAyl7L98claZaRwID
+AQABo4IBUDCCAUwwHwYDVR0jBBgwFoAUw5zz/NNGCDS7zkZ/oHxb8+IIy1kwVwYI
+KwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ3Yuc3ltY2QuY29tMCYG
+CCsGAQUFBzAChhpodHRwOi8vZ3Yuc3ltY2IuY29tL2d2LmNydDAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMCMGA1UdEQQcMBqC
+DCoudHJ1bGlhLmNvbYIKdHJ1bGlhLmNvbTArBgNVHR8EJDAiMCCgHqAchhpodHRw
+Oi8vZ3Yuc3ltY2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAAMEEGA1UdIAQ6MDgw
+NgYGZ4EMAQIBMCwwKgYIKwYBBQUHAgEWHmh0dHBzOi8vd3d3LnJhcGlkc3NsLmNv
+bS9sZWdhbDANBgkqhkiG9w0BAQsFAAOCAQEApVkmBJXDZc1LKgaMFQF2CySvNOwC
+LNx0vpbqmjWrYuxEps4vh72PKhy9K7Bzs/z9iRlMwQhYXLb8Cjy8AFGyVZHIcu+f
+WLfyujJsCcll2/5c5dqb739nbLIDoeLeo+CF9vrfplUQwk1TUZCkVaIZqGVPpU7S
+aKu+bNz/IcXC14oo9K886snCIIIi0ejoHVxaHcLeRgSbL0VOmNcbL7VT6KimFbDK
+lGkTeKW752YkMWdXca2i/kVG98AybwxlwYgZGpQucr2zA+BzlE4+/F2DYVeX+0XX
+JTNJRNkQtDLsiVF3dSabqZwRxKWfsUVNBGNFxewpyhP6s4aO5JX8+VWHWw==
+-----END CERTIFICATE-----
+subject=/OU=GT10302566/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.trulia.com
+issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2775 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 5569C5DAD7A4CFB33D58B1E9B954BBF06ED5EEE83E285305E1153EEADD6CEE2C
+    Session-ID-ctx: 
+    Master-Key: 95FB986703668D8E2718954AFB56FFFCE58514657BA1B37F40021D2652DB9F80D92E855BBED2F85D72EDEC7F485B0A53
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472788519
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

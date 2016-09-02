@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Washington/L=Seattle/O=Amazon.com, Inc./CN=*.cloudfront.net
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6TCCA9GgAwIBAgIQda4+BvJnDaiKn2CAMJPnfTANBgkqhkiG9w0BAQsFADB+
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
+IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDkxNzAwMDAwMFoX
+DTE2MTIxNTIzNTk1OVowajELMAkGA1UEBhMCVVMxEzARBgNVBAgMCldhc2hpbmd0
+b24xEDAOBgNVBAcMB1NlYXR0bGUxGTAXBgNVBAoMEEFtYXpvbi5jb20sIEluYy4x
+GTAXBgNVBAMMECouY2xvdWRmcm9udC5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCDrJ0Z2KMhNFvi0Ugsb2PafdUkq5xQSr+LN9j3iyVm3RrsLGDQ
+DE/pn/Xu2wHLMHhEh9XqeNhH/k2sMCjLb/YWJ+Ko17cWSV/PyjarTcG7c7w9NyYL
+SIbdWBdWYxgrbQH78haPQRYvvkRavuuzfr8jPAwEMadHpFC7pzPzkBomAKTKCN6X
+wm5TQpT9BIKqEIepwh17Q0BZoa0ptqxEU1hGtl6JGwyRGA9H0gMBjwgTUJeHOeX5
+Qrdh0pc5CLjZivmvSc/4MldGvbkvBAXeFli8ag833KtN5c+yDtegynjpQFWZ6Gzw
+vJxeUZLpxgKAuuVwcNf170VuqCBnaOEiwm/TAgMBAAGjggF1MIIBcTArBgNVHREE
+JDAigg5jbG91ZGZyb250Lm5ldIIQKi5jbG91ZGZyb250Lm5ldDAJBgNVHRMEAjAA
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+YQYDVR0gBFowWDBWBgZngQwBAgIwTDAjBggrBgEFBQcCARYXaHR0cHM6Ly9kLnN5
+bWNiLmNvbS9jcHMwJQYIKwYBBQUHAgIwGRoXaHR0cHM6Ly9kLnN5bWNiLmNvbS9y
+cGEwHwYDVR0jBBgwFoAUX2DPYZBV34RDFIpgKrL1evRDGO8wKwYDVR0fBCQwIjAg
+oB6gHIYaaHR0cDovL3NzLnN5bWNiLmNvbS9zcy5jcmwwVwYIKwYBBQUHAQEESzBJ
+MB8GCCsGAQUFBzABhhNodHRwOi8vc3Muc3ltY2QuY29tMCYGCCsGAQUFBzAChhpo
+dHRwOi8vc3Muc3ltY2IuY29tL3NzLmNydDANBgkqhkiG9w0BAQsFAAOCAQEANKKz
+U35E8ayXRcwY8N7KjpiDSfryEuUXw3wiOBrH0IoHbaQcdfqmwe4EmGOPrz6l+FKw
+97Qv4BiwNYBW/Vp3H4oeikx7Tc0iYkLKarfjufykAm8DaWwcbe2Q540bZP1tIBTE
+RzkMmbBI0fgTUAgM1/ts7upvwJTTOIvpypQRN+M1S/iELdK7bNUxX8wT2lDAdT3O
+scE5btZGhLPCNE7fOCfGxfGE8GHD26+lTcWdAa7cqskIVWBEMttpb9rzm00uzBbx
+Q5VxsnxdDxywkmTah0Zprw/J68y4O1rhsluDQoBHfkd8ggk1pOQay/9TuqSRO/b7
+uVRSvs/HJXLwRXiJKA==
+-----END CERTIFICATE-----
+subject=/C=US/ST=Washington/L=Seattle/O=Amazon.com, Inc./CN=*.cloudfront.net
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3258 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 732B887B5CD701B7F05D4E40E171284D48E3AE92645810113930B8A52B9F2010
+    Session-ID-ctx: 
+    Master-Key: C6C0482D9CB59EC8C9AAF5408D4BA753BBDAF6CEB5594D5A8B56C445C34B37A8BEAAA5E354F1D614C406184D33B9E0F1
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 10800 (seconds)
+    TLS session ticket:
+    0000 - a3 f8 35 21 1e 85 c3 5e-bd 0b e9 90 95 a7 6c 04   ..5!...^......l.
+    0010 - 45 ea ce 1f 18 ec 7f cb-ef 63 70 d5 15 8d 81 c2   E........cp.....
+    0020 - e3 91 94 28 65 bf 0c 0b-d8 5a d2 64 85 ae b6 b4   ...(e....Z.d....
+    0030 - bc eb ce ac 1b 75 9b af-bc 8f ae b0 75 23 8f cd   .....u......u#..
+    0040 - 61 93 a0 50 36 cd 1b f4-0e da d4 41 cd 76 04 5a   a..P6......A.v.Z
+    0050 - 5a 0a 31 a2 d2 48 19 54-e1 7b 64 48 3f 20 a4 29   Z.1..H.T.{dH? .)
+    0060 - 16 89 7b 5c bb 97 c7 d4-8f 08 48 d4 4c 7a 5e 3e   ..{\......H.Lz^>
+    0070 - 4a e8 43 d0 c9 25 93 96-3e 1f 91 49 66 e1 e3 b0   J.C..%..>..If...
+    0080 - 24 d2 d3 76 f9 80 64 4a-31 53 03 44 38 8a c8 9f   $..v..dJ1S.D8...
+    0090 - 7a b5 32 72 41 6a aa 0a-14 e8 76 81 f3 fa c4 a8   z.2rAj....v.....
+
+    Start Time: 1472789745
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

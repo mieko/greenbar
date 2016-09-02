@@ -1,0 +1,80 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=JP/ST=Aichi/L=Nagoya/O=Worksjapan Co.,Ltd./OU=13/CN=www.cityheaven.net
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE9zCCA9+gAwIBAgIQYSjRskOwlYruHBa/9TmUEDANBgkqhkiG9w0BAQsFADB+
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
+IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE2MDIxODAwMDAwMFoX
+DTE3MDMxMzIzNTk1OVowdjELMAkGA1UEBhMCSlAxDjAMBgNVBAgTBUFpY2hpMQ8w
+DQYDVQQHFAZOYWdveWExHDAaBgNVBAoUE1dvcmtzamFwYW4gQ28uLEx0ZC4xCzAJ
+BgNVBAsUAjEzMRswGQYDVQQDFBJ3d3cuY2l0eWhlYXZlbi5uZXQwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCzGp7wv6Bdr0TGW4piDE+TY+CXFrttitaF
+4EJmlow9N/Nk/K5+o+ZOy3eZXfXIT7+Nb/vrlhHxpUaxkx+RRtyg+K5ryXozjZxL
+iwOwsP9XrxRyBC2o3LmuybVxQ8Woxpa9w4p94ApvvBU3V74ZnonX0NrJDQStqWHf
+Sl7EvfCaetTsJv/20vxuCDrdVTl7Hziflh/EvF6lJdK3V7wu0GmhhMLAQDWULSNk
+IWb9tULjdxibtoF2KqUNJPRR0DubDFZ7Ka7x/AB9QAZTJuA4EoltWHu0zTpveqj5
+FoI9hoIq1PRb75sci/MjCIOLW9AQ5/LAv01TO93KThIG2zqGU1V3AgMBAAGjggF3
+MIIBczAtBgNVHREEJjAkghJ3d3cuY2l0eWhlYXZlbi5uZXSCDmNpdHloZWF2ZW4u
+bmV0MAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByG
+Gmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3JsMGEGA1UdIARaMFgwVgYGZ4EMAQIC
+MEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1jYi5jb20vY3BzMCUGCCsGAQUF
+BwICMBkMF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBhMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBRfYM9hkFXfhEMUimAqsvV69EMY7zBX
+BggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9zcy5zeW1jZC5jb20w
+JgYIKwYBBQUHMAKGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3J0MA0GCSqGSIb3
+DQEBCwUAA4IBAQAZRCDN/O6n5uYGznHVwZX3Ao2VKiv1a/LKJTRQ6pkD9zwW+vbc
+1+zLMWDJtrlxr53TnzFh846Z73BPQKBQRmBjF8zU+ciuN0izPV/v2UdzZtz3k/3b
+eGj4OIsG+QKWHbB1nrbH99KLK3/sYRMOuSz2VyzYVhzDJ7F8lJ9Ox9TnCcy57jt0
+Per+GDCKLBiuxvPbpkc9/F3JKNzaD0etJFFAgfhwQatPqFS22mwgr/XxpqBj0mTI
+4E1zOKIe45P2cKgaedvvrXcXChqk8PUE7NFuc640Zyfzu+Fg1LHWcIRd/Y2m8Lp5
+OOgbMadpvrO2M//RXF3+wvXOSWOTRdYhW5qB
+-----END CERTIFICATE-----
+subject=/C=JP/ST=Aichi/L=Nagoya/O=Worksjapan Co.,Ltd./OU=13/CN=www.cityheaven.net
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+---
+No client certificate CA names sent
+Server Temp Key: DH, 1024 bits
+---
+SSL handshake has read 3496 bytes and written 506 bytes
+---
+New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : DHE-RSA-AES256-SHA
+    Session-ID: 44E27396AD9AA5B1BAC214E4EC4F5DB464CB4121591EBBEF9F6852BE53A062C4
+    Session-ID-ctx: 
+    Master-Key: 99E1FCEB35EE04B46EB1F256D04FE0419A5716A4F878ACDDBF174459F5F58B2ECA300EF85E393CD4F74401BAA5ADD0F1
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket:
+    0000 - c8 f2 f1 d2 7c ec 28 6a-15 bd 7f c8 a4 ed 34 c1   ....|.(j......4.
+    0010 - d2 04 da 4f e9 2d ec 7a-f3 46 00 6e c7 73 79 07   ...O.-.z.F.n.sy.
+    0020 - 75 e5 b1 24 10 16 36 97-50 7f f2 25 0a 3e d6 2d   u..$..6.P..%.>.-
+    0030 - ed 32 35 2b 94 46 3f 1c-e9 f6 c7 c9 a7 64 97 08   .25+.F?......d..
+    0040 - 40 60 c4 f4 84 4f b2 67-e3 3a a6 0a 7c df 9f 05   @`...O.g.:..|...
+    0050 - bf 81 4f 5f 60 d7 ec 81-c9 59 66 60 34 4a d1 79   ..O_`....Yf`4J.y
+    0060 - 25 d3 d8 c1 df 45 92 33-94 c9 5d d8 fa e2 c6 7d   %....E.3..]....}
+    0070 - bb 3d 75 bb 72 16 56 c6-1e e6 30 86 72 5c 99 59   .=u.r.V...0.r\.Y
+    0080 - 84 f9 27 a4 96 a2 9a 84-0d a7 b6 2f a3 57 28 cf   ..'......../.W(.
+    0090 - c0 5c cb 85 7f b2 4e b8-6b d0 38 04 88 c2 24 01   .\....N.k.8...$.
+    00a0 - c0 8f da 75 8b 4c 2b 77-fd 03 83 80 41 cb d3 31   ...u.L+w....A..1
+    00b0 - 5c 56 bc 07 ab 0b 41 c1-59 6c f9 1e 05 7f 3e be   \V....A.Yl....>.
+
+    Start Time: 1472790424
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

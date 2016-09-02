@@ -1,0 +1,83 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=GB/L=London/O=Wargaming.net LLP/CN=*.wargaming.net
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRzCCBC+gAwIBAgIQA/boGqHBw9AVrt9jgT64ezANBgkqhkiG9w0BAQsFADBw
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xNDA0MDEwMDAwMDBaFw0xNzA2MjExMjAwMDBa
+MFQxCzAJBgNVBAYTAkdCMQ8wDQYDVQQHEwZMb25kb24xGjAYBgNVBAoTEVdhcmdh
+bWluZy5uZXQgTExQMRgwFgYDVQQDDA8qLndhcmdhbWluZy5uZXQwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDKQZfSgVnCvr1xnxoqYvkfvGdN1OBZ7T/S
+bkzGeXYdQ2UOsyHTQ/neyyvua/8FHb5B60aD2OGLHIvwirgmIB/l+c462ygLfZPT
+QRd05D148Qu2m0ak/JIdz3xcqjRhRaKsrYTbkjNMvOJX8SdhduKvmIvC2Smv2QVz
+vd7SoajKqF4E2hbifPUrB05Fxy7+JA2JG59/u2eL8VQZNH8IO+2qpbXxPgrPXNHl
+K5fvmz8Obz/1TwH6PolQLiROwade8Wc2m2QgkjibIJcssY2X31s65UcDJtnC5AAz
+C5QIcywiylZi9cvQe5gKOkpAgdnBCqkHTO8Ijd5UcrO/vaXgGid1AgMBAAGjggH3
+MIIB8zAfBgNVHSMEGDAWgBRRaP+QrwIHdTzM2WVkYqISuFlyOzAdBgNVHQ4EFgQU
+LZuo7JiOSbNqes1dDpgXwuPiW8YwKQYDVR0RBCIwIIIPKi53YXJnYW1pbmcubmV0
+gg13YXJnYW1pbmcubmV0MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwdQYDVR0fBG4wbDA0oDKgMIYuaHR0cDovL2NybDMuZGln
+aWNlcnQuY29tL3NoYTItaGEtc2VydmVyLWc1LmNybDA0oDKgMIYuaHR0cDovL2Ny
+bDQuZGlnaWNlcnQuY29tL3NoYTItaGEtc2VydmVyLWc1LmNybDBMBgNVHSAERTBD
+MDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2Vy
+dC5jb20vQ1BTMAgGBmeBDAECAjCBgwYIKwYBBQUHAQEEdzB1MCQGCCsGAQUFBzAB
+hhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wTQYIKwYBBQUHMAKGQWh0dHA6Ly9j
+YWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJIaWdoQXNzdXJhbmNlU2Vy
+dmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQELBQADggEBAD7O7ctk
+lmoYNduF9ANnqu8PRNxIHgh78hfzIb9DKxZ4S3DBU+yt5mh9gefOp8JumXr/GPxd
+vvPU9WK2mGvOxc5QUqPk+OHNP6w7PA2EPkrY0P88IIU5UbVCJCxLAq/1y+JSrlfP
+7XQ66nUx8W4eXL93BJyGdcPxghML9irytEYe2YGZKJIcwYCtBZZZeExRRg2TyU+m
+cJ2BaaI34J0Zh+AwiYY00xrEzIvQksx7Tn0yaPl9EDDBohZdNDarDNKvvvPcXwZ6
+ONI9A0E/7/xcpC7YBEEwE8Bn1AOJBEhidxL3OsOnnbMA7EpzpWwaXdwkeuaowQUU
+7i3QtN0plw6B2+Q=
+-----END CERTIFICATE-----
+subject=/C=GB/L=London/O=Wargaming.net LLP/CN=*.wargaming.net
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3238 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 0BAB198B2231F795D2F7A8EB7123356F8E4ED918B4548A899054313D98E84473
+    Session-ID-ctx: 
+    Master-Key: FA549F206B5256501B02D4E1B2097040B941281CD7359ECCC0CDFE46FE2DEB5996AC1C848407C8F11C1404B9EC8EA811
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 60 (seconds)
+    TLS session ticket:
+    0000 - c8 30 33 15 f1 cc ce 1b-04 e7 e1 ac c2 07 46 f3   .03...........F.
+    0010 - c7 20 27 ea 3a d3 aa 6c-89 4d d6 8f d8 50 97 5b   . '.:..l.M...P.[
+    0020 - a4 c9 cb 4e 1c f8 77 07-29 94 fb e9 d5 bf cb 35   ...N..w.)......5
+    0030 - 83 0f 3b a6 09 28 f1 5f-ed 22 c0 c2 db be f5 09   ..;..(._."......
+    0040 - 4b 2c 5e bb ef 18 21 e0-16 94 96 dc 4c 36 bd b0   K,^...!.....L6..
+    0050 - a9 83 8a d1 fd b7 4e 72-d5 b8 a1 b2 96 65 6e 39   ......Nr.....en9
+    0060 - 52 ad cb 27 7e 59 71 97-34 05 b7 32 fb cf 25 5c   R..'~Yq.4..2..%\
+    0070 - e2 7c ef 29 ed a8 f1 fb-ac 35 28 45 b1 42 65 01   .|.).....5(E.Be.
+    0080 - 56 08 09 35 51 a2 8f 05-cf bc d7 f4 1e 24 97 89   V..5Q........$..
+    0090 - 44 dd 0b b9 f9 d4 a6 66-0f 83 97 4a 1f a0 89 75   D......f...J...u
+    00a0 - 90 5d 43 7a b3 c2 02 9e-1e 39 6e da 9c 42 d5 13   .]Cz.....9n..B..
+
+    Start Time: 1472789302
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

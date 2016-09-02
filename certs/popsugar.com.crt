@@ -1,0 +1,84 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=*.popsugar.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+zCCA+OgAwIBAgIQCsOGTgaeEjSydHQNgIgVCDANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xNjAzMDgwMDAwMDBaFw0xNzA0MDgx
+MjAwMDBaMBkxFzAVBgNVBAMMDioucG9wc3VnYXIuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAwtAjsHAZswunCIFjPoXS1gJRQpIZtwgpMndwD9ID
+ZMSX3ELTMJHENvlRSIAJfbvKdxBLzmQLLP8JJ9vMXu3IljiULUEpwF1JgVGZeWST
+H/MHYksNDgg3LesnOpobL5Rw6RI1b0ZLye/C1XCyPwKSbdtYHDzB0oyJBjyyu98/
+Kvb41P6HjVq65q66+yH8NDjkmnha0dyWmSWgUwjZw2rs9ldNGfjIweG8W+YEqgsu
+lgZbUXMm3v5f0BqepckzKAa92TihJGLkWFvziI6ElMaQiYhsMpZa7o/fgbJki1Xi
+Kdmzap0BpvRaLk0OxI4hw8NsQLZuiZiUKS4tCgAkqEniEQIDAQABo4ICEDCCAgww
+HwYDVR0jBBgwFoAUWaRmBlKge5WSPKOUByeWdFv5PdAwHQYDVR0OBBYEFHHezBaY
+UkMnJp8ux7A2ef00hz+JMIHDBgNVHREEgbswgbiCDioucG9wc3VnYXIuY29tggxw
+b3BzdWdhci5jb22CECoucG9wc3VnYXIuY28udWuCDnBvcHN1Z2FyLmNvLnVrghEq
+LnBvcHN1Z2FyLmNvbS5hdYIPcG9wc3VnYXIuY29tLmF1gg0qLnBvcHN1Z2FyLmZy
+ggtwb3BzdWdhci5mcoINKi5wb3BzdWdhci5kZYILcG9wc3VnYXIuZGWCDSoucG9w
+c3VnYXIudHaCC3BvcHN1Z2FyLnR2MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2Ny
+bC5zY2ExYi5hbWF6b250cnVzdC5jb20vc2NhMWIuY3JsMBMGA1UdIAQMMAowCAYG
+Z4EMAQIBMHUGCCsGAQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3Au
+c2NhMWIuYW1hem9udHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnNj
+YTFiLmFtYXpvbnRydXN0LmNvbS9zY2ExYi5jcnQwDAYDVR0TAQH/BAIwADANBgkq
+hkiG9w0BAQsFAAOCAQEAea9N+RUq4sn7PhfEV2f9efg5hMRklT4C5HR5Iwek5lXd
+/wB5YExaPw9Xc9g2Zya/7YlfIPR1hMVwLnf7hLkJuQVR9Y2ameo1zub1bfRBJAll
+EHLuP/H2ylRAWokq5EaStMTTCUHpm+rP7AF3aXhRTYwt0f3VbpKsBH4eOCgMTJLq
+UHfbSHC09q77rQfy9dwZYADKIEM2KGajvYvu/kWekivSPObVUhddmU3zDIK6/7Ak
+pZ/6WKhPv7pbia+gO+yURERMMGnWmtLXtZLvxTgv6Yg4PFX91/f2FhCqzPKBuhip
+0bOvXpsWwZYFvJwZJKhXJcdg58TUZdTrEOV+o4sP9Q==
+-----END CERTIFICATE-----
+subject=/CN=*.popsugar.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5362 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 0AF13D1857125C54358D21442C4C179A4426AB215FE056F4640CED0FDFD3B025
+    Session-ID-ctx: 
+    Master-Key: 33D244CCA57F130E10A51D974A3E965574E5588D9E8CD29DA961AF905592C3973C09671FB34BFEC0D3E7922CB7D75EF3
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 97 81 0e d8 a7 16 54 ce-ed d1 aa 13 56 71 4a 2b   ......T.....VqJ+
+    0010 - 21 b4 bb e1 39 7d 99 27-0b e6 21 35 04 40 83 77   !...9}.'..!5.@.w
+    0020 - 63 b8 3f 35 2e be 10 5e-e6 30 7c df d8 ee af 9c   c.?5...^.0|.....
+    0030 - 4a 07 da f0 e0 ab 50 aa-0f bc b4 ee eb 15 71 e2   J.....P.......q.
+    0040 - 2c 78 15 09 22 20 8d 2b-e8 e7 08 d4 29 5f ea 4e   ,x.." .+....)_.N
+    0050 - 2a 2d f1 64 61 a2 bf 17-08 e4 e9 00 4b 3a 89 38   *-.da.......K:.8
+    0060 - 20 2d f2 65 9f 52 ed b7-e3 ea 05 0b 7d 4d 74 3d    -.e.R......}Mt=
+    0070 - 00 22 1a cb 8b d8 4c cd-59 90 11 7a 97 16 bb 3c   ."....L.Y..z...<
+    0080 - ae 68 8f fe 9f df d7 0b-c6 1e 0e 3a 04 8c 32 e2   .h.........:..2.
+    0090 - f9 0c 53 52 dc 44 74 1b-b9 2c cc 1f 86 35 a3 e2   ..SR.Dt..,...5..
+
+    Start Time: 1472789216
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

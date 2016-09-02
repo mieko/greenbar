@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=JP/ST=Tokyo/L=Shibuya-ku/O=LINE Corporation/OU=System Operation Team/CN=*.line.me
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+jCCA+KgAwIBAgIQT+BVpSsRw+hrDQWw2oOcaDANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTQxMDI4MDAwMDAwWhcNMTgwODI1MjM1
+OTU5WjCBgTELMAkGA1UEBhMCSlAxDjAMBgNVBAgTBVRva3lvMRMwEQYDVQQHFApT
+aGlidXlhLWt1MRkwFwYDVQQKFBBMSU5FIENvcnBvcmF0aW9uMR4wHAYDVQQLFBVT
+eXN0ZW0gT3BlcmF0aW9uIFRlYW0xEjAQBgNVBAMUCSoubGluZS5tZTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAN4HfFL4D/oWZZ0Jezp7Y/HWlygVEqQC
++3wZxhsFG1Co6NK45+1CZDP/8/Sc7PCKPNu36qHPXuGIzFhFm5hZ4kstyjdBegug
+LuESkACXwptYmhGoUECDf9xXGw5cZ47QYkzQhUXuM7RQSmcQ04w+t/enEscsARQ7
+3t6xa9S1FbDV1eGnJpolEqH9U/1Qhkfipyj+KWidgpAjpHOmJDgLjJYN/+SuzqUn
+8rC8vdBB0SxG8iOtp9B5PTytooqOb/WsJjbtZuXXU4h/bzdAj4RsXaxTLYLRGfSA
+UfHTx3pCkdB8UQFnxcanaWm71BR6M17J+ccGxgji9nEmAqe/ehuMMDECAwEAAaOC
+AagwggGkMB0GA1UdEQQWMBSCCSoubGluZS5tZYIHbGluZS5tZTAJBgNVHRMEAjAA
+MA4GA1UdDwEB/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3lt
+Y2IuY29tL2duLmNybDCBoQYDVR0gBIGZMIGWMIGTBgpghkgBhvhFAQc2MIGEMD8G
+CCsGAQUFBwIBFjNodHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3Jl
+cG9zaXRvcnkvbGVnYWwwQQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1
+c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xa
+fDBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5j
+b20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MA0GCSqG
+SIb3DQEBCwUAA4IBAQACFmRMvPXqgMDDdk7oZQIaleqvSpG91hYvEQ3hq8jz+xHE
+cKYhOUkiPDSNJeHJNzOai9Gwm5/270HEQ/1xlC9KozHXa9L87DkgU1f07UhvvBUE
+jTeWo9kq/TbtG9iYh01vB0OZmGmIXRgnficCBsybZ5K7vif9D641Mzrb8HsSndVK
+JqEPh8rY2l5zE81BA5jrm/FUQE00xPs5Yh39GNiWrk7DClLbnGq8tKa6pWR035jA
+o/jPkfmgqjxw373HJPrH4F+vzOiLaYAxSL9hxdx6d/4bzjeVDJd9qyPZ7k0rAtQh
++MZQF6PMnytMaxPuDAFJCTuHJygu6Nzv1E5leUON
+-----END CERTIFICATE-----
+subject=/C=JP/ST=Tokyo/L=Shibuya-ku/O=LINE Corporation/OU=System Operation Team/CN=*.line.me
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3953 bytes and written 442 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : ECDHE-RSA-AES256-SHA
+    Session-ID: 14C6C0F9339DD2756E1FCB04FA4A77F45049EC77D56540BA6DEFC491E5651DF0
+    Session-ID-ctx: 
+    Master-Key: 198A5322C95B9B38274678E52D190F6FF0618F8D276102C11F35CC7C2515E7B986D5B8408E4CAF4F6B518541CCE3595A
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d0 6c 50 65 65 69 3f 3d-92 37 e6 3c 77 c8 99 69   .lPeei?=.7.<w..i
+    0010 - 59 38 a0 5c e4 60 a4 46-4d ac f8 b5 dc 9c 67 90   Y8.\.`.FM.....g.
+    0020 - 80 d4 be d6 fa 21 c6 2a-c1 32 4a b4 34 5b 32 f3   .....!.*.2J.4[2.
+    0030 - b6 1c 66 db 9c 79 c0 3d-de 05 13 2f e3 05 ca 0b   ..f..y.=.../....
+    0040 - 97 be ca 1c 61 1a 14 ab-ed d3 a7 5a f1 80 43 50   ....a......Z..CP
+    0050 - 42 31 37 c8 f5 ee a4 d6-d9 f1 24 d9 fc 35 32 d6   B17.......$..52.
+    0060 - c7 5d 12 63 bc 21 17 2a-28 7a ed 70 ef 58 f0 99   .].c.!.*(z.p.X..
+    0070 - 96 a6 b8 bc 78 31 ed 19-fe fb 5f 6a 58 ea f5 21   ....x1...._jX..!
+    0080 - e2 c2 33 38 ef 0e 98 2c-7d c9 dc 44 7e 23 76 0e   ..38...,}..D~#v.
+    0090 - c2 aa 07 85 e4 d0 b3 6f-98 83 79 f7 7b ee 35 6e   .......o..y.{.5n
+
+    Start Time: 1472788655
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

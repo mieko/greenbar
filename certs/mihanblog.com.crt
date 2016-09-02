@@ -1,0 +1,64 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=IR/ST=Tehran/L=Tehran/O=Saba Idea Technology/OU=Mihanblog/CN=file.mihanblog.com/emailAddress=info@mihanblog.com
+   i:/C=IR/ST=Tehran/L=Tehran/O=Saba Idea Technology/OU=Mihanblog/CN=file.mihanblog.com/emailAddress=info@mihanblog.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIICvTCCAiYCCQCi3q2ft0e2dzANBgkqhkiG9w0BAQUFADCBojELMAkGA1UEBhMC
+SVIxDzANBgNVBAgTBlRlaHJhbjEPMA0GA1UEBxMGVGVocmFuMR0wGwYDVQQKExRT
+YWJhIElkZWEgVGVjaG5vbG9neTESMBAGA1UECxMJTWloYW5ibG9nMRswGQYDVQQD
+ExJmaWxlLm1paGFuYmxvZy5jb20xITAfBgkqhkiG9w0BCQEWEmluZm9AbWloYW5i
+bG9nLmNvbTAeFw0xNjA3MjcxNDI3MjZaFw0xNzA3MjcxNDI3MjZaMIGiMQswCQYD
+VQQGEwJJUjEPMA0GA1UECBMGVGVocmFuMQ8wDQYDVQQHEwZUZWhyYW4xHTAbBgNV
+BAoTFFNhYmEgSWRlYSBUZWNobm9sb2d5MRIwEAYDVQQLEwlNaWhhbmJsb2cxGzAZ
+BgNVBAMTEmZpbGUubWloYW5ibG9nLmNvbTEhMB8GCSqGSIb3DQEJARYSaW5mb0Bt
+aWhhbmJsb2cuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDWQiEAQ242
+8M9dv/nJzr70OPNYXz9duKGRzd8fuInMN4undOLktLVo1AEASUUpJVAAHAcIDzKy
+bfqotyp7TEUAJTZ9RA2LsAkLbsdipNLQ9Bu9FVQKPjdqIYSlhC73M+BtlzO8pGai
+U7MDV+XxkTwoUeKUYlaN62/d2YiF4J5ryQIDAQABMA0GCSqGSIb3DQEBBQUAA4GB
+ACf/vDFpK99xPFCRj0Nu6nqpPb/jo9Ck5uT2jubJgCZKmiPtWbOHv1VOhR7QOFc4
+1dA7NeDdUEVHsb7zOF38vQsRzIltSPkquX9J9sqO+a7O1unaykUp59jkwqaaXEVD
+43RnD6E53R+z61F6mIujrOH4xuLmbOQD2ywXnWQdeT5K
+-----END CERTIFICATE-----
+subject=/C=IR/ST=Tehran/L=Tehran/O=Saba Idea Technology/OU=Mihanblog/CN=file.mihanblog.com/emailAddress=info@mihanblog.com
+issuer=/C=IR/ST=Tehran/L=Tehran/O=Saba Idea Technology/OU=Mihanblog/CN=file.mihanblog.com/emailAddress=info@mihanblog.com
+---
+No client certificate CA names sent
+Server Temp Key: DH, 1024 bits
+---
+SSL handshake has read 1423 bytes and written 506 bytes
+---
+New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
+Server public key is 1024 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : DHE-RSA-AES256-SHA
+    Session-ID: B346EA48BE802773B6467FAA4359D3A36D2CCD064C6A22B6220C6FF3F78169F9
+    Session-ID-ctx: 
+    Master-Key: 037674E42E09319F6B5F60919E2A14EB7872C3B208FDFE8B84E67D1D52BFE82058F3C3151D58A00EA2DC64BEAB8C218B
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket:
+    0000 - ed 65 7b f6 99 13 1c 2b-a1 ef 4d dc c2 86 0f 7b   .e{....+..M....{
+    0010 - 30 c4 d4 a5 96 e0 a7 de-58 e8 84 fa bd fe 1b 6b   0.......X......k
+    0020 - 1a 0a b5 09 71 0a 6f c0-11 fe e0 cb ee 6a bf 9e   ....q.o......j..
+    0030 - 14 61 24 b7 a7 54 ac c9-6e 8f 12 f2 8b 56 a0 97   .a$..T..n....V..
+    0040 - 36 e1 50 ae a9 93 ba a6-41 9a 06 29 35 1d 92 2e   6.P.....A..)5...
+    0050 - e8 4b 66 db db 2f 4b ac-e5 1e 9b 1b f5 7d 1a e4   .Kf../K......}..
+    0060 - dc 58 da 47 b5 b1 ed cd-71 ab 53 e2 4c 31 58 25   .X.G....q.S.L1X%
+    0070 - 63 18 07 70 cb d2 91 3d-1c a4 3c 62 75 fd 25 13   c..p...=..<bu.%.
+    0080 - 57 0e 67 ae ec 71 58 6a-b3 fe 00 9f c2 80 ca d7   W.g..qXj........
+    0090 - cf 3b a1 44 fa d6 0d 57-34 dc 09 e4 84 91 a9 c8   .;.D...W4.......
+
+    Start Time: 1472790202
+    Timeout   : 300 (sec)
+    Verify return code: 18 (self signed certificate)
+---

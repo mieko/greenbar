@@ -1,0 +1,74 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=ma25560.psmanaged.com/emailAddress=root@ma25560.psmanaged.com
+   i:/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=ma25560.psmanaged.com/emailAddress=root@ma25560.psmanaged.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEDjCCAvagAwIBAgICZAEwDQYJKoZIhvcNAQELBQAwgbsxCzAJBgNVBAYTAi0t
+MRIwEAYDVQQIDAlTb21lU3RhdGUxETAPBgNVBAcMCFNvbWVDaXR5MRkwFwYDVQQK
+DBBTb21lT3JnYW5pemF0aW9uMR8wHQYDVQQLDBZTb21lT3JnYW5pemF0aW9uYWxV
+bml0MR4wHAYDVQQDDBVtYTI1NTYwLnBzbWFuYWdlZC5jb20xKTAnBgkqhkiG9w0B
+CQEWGnJvb3RAbWEyNTU2MC5wc21hbmFnZWQuY29tMB4XDTE1MTEwMzExMjkyMloX
+DTE2MTEwMjExMjkyMlowgbsxCzAJBgNVBAYTAi0tMRIwEAYDVQQIDAlTb21lU3Rh
+dGUxETAPBgNVBAcMCFNvbWVDaXR5MRkwFwYDVQQKDBBTb21lT3JnYW5pemF0aW9u
+MR8wHQYDVQQLDBZTb21lT3JnYW5pemF0aW9uYWxVbml0MR4wHAYDVQQDDBVtYTI1
+NTYwLnBzbWFuYWdlZC5jb20xKTAnBgkqhkiG9w0BCQEWGnJvb3RAbWEyNTU2MC5w
+c21hbmFnZWQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI18
+Bz07dYRXQt5O2KYaHpFodvSmZ5WXTHmmlGAZDDp0oVGGE/u9ngElzkaLmxWpCIGX
+owGhTbZuvOkuUKT2IgNb/m4qZ6f05JRs9utxpqqE2H/R3n9mOVgUsfxwFKKBa7I/
+YvbPyGYh0qjYjh8ChdRCVUlTnnXNlhKQ2TBjjkdCH+bFY8vG8WGvX7TBayBxAnxD
+zqzVEjpzGbqvYsOR303eODk6o59GakjXOkPd2EGH3Dm39lZ8zN25l4b5NhqMnHxe
+6oz3vQFrg/xEa+K8kYPhpD4N1Ij7z6NjY3FlsthYVWCkPKH4yBWMYehlA5A/LmHK
+vHBVDp052VV9zBvnTQIDAQABoxowGDAJBgNVHRMEAjAAMAsGA1UdDwQEAwIF4DAN
+BgkqhkiG9w0BAQsFAAOCAQEARyooD9yVg0+uR9zj0c9Z5vk9Hh8IhFikSJ1XfDhe
+yS8C1Rm70MKRT52klJmFkKq4UQgfKpDGVNjETlHxgzo+NGmufyCQmAuwmSV1sM1h
+47Hi4L68FHlnjN69TZLykyYqAqF+0rEVHyiX4cuMHg7IdqH6DFRDlEamh95O5XCK
+eEOnPPYfG5UGj5IkMmJr6PblJSXE9jN5IMKrTZRW+M7omOM3fbpbRYJxGlZkMJyZ
+khK1ZRs98gwog7Cqb73PS4DqD5VLEA6QP+R8CJ3UuzH4SuPXFvPmEc6OZlHqr82s
+G+VY/5MALphsuorKvHMyQfAHa61Xh6bH9RynasVLVMAaIw==
+-----END CERTIFICATE-----
+subject=/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=ma25560.psmanaged.com/emailAddress=root@ma25560.psmanaged.com
+issuer=/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=ma25560.psmanaged.com/emailAddress=root@ma25560.psmanaged.com
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1739 bytes and written 442 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : ECDHE-RSA-AES256-SHA
+    Session-ID: 5E7A76C685587FF4DD517E99CB8E05BC206F4427D329D26EEF392273E66E5C53
+    Session-ID-ctx: 
+    Master-Key: 776C71FC017AC7EB0506D5B4375DB26957B7E96F3C3392120487F1FA0D2396B2202285891BF6FEE845E7627A00243FB9
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - dc 8a 34 cf 23 67 8e 95-c1 91 65 ba 08 39 21 32   ..4.#g....e..9!2
+    0010 - 03 50 9f 41 95 04 97 96-66 4f bd ab 61 28 44 10   .P.A....fO..a(D.
+    0020 - 8c 58 25 f2 cc 7c 96 24-9e b6 96 84 6c c5 7a 9b   .X%..|.$....l.z.
+    0030 - e0 13 85 31 cf 24 2c 65-1e f0 61 b8 e2 06 ff df   ...1.$,e..a.....
+    0040 - 2b f0 ee 80 7d 5c 5c 0d-4e c8 4e 3d c0 5f d0 a2   +...}\\.N.N=._..
+    0050 - 62 d2 9e 62 88 b2 f1 a2-3f d6 3d 0a c3 5c d2 78   b..b....?.=..\.x
+    0060 - c4 4b 52 22 a9 cc 67 88-f1 a6 12 c4 64 74 29 a2   .KR"..g.....dt).
+    0070 - 97 f3 78 e1 1d f9 2d 37-84 e7 33 f2 bd 69 46 3a   ..x...-7..3..iF:
+    0080 - ad 40 c4 20 ad c7 5f 72-57 11 51 19 a8 83 07 57   .@. .._rW.Q....W
+    0090 - 2a b6 68 c5 ab 39 7b 9d-b9 01 0f 8e c5 3b f7 9c   *.h..9{......;..
+    00a0 - e7 df 0e 0e 0f c7 1d 01-1c f5 3e d3 cf d3 37 59   ..........>...7Y
+    00b0 - f1 d7 39 2f e4 a0 78 68-88 64 bd dd 80 ff dc e3   ..9/..xh.d......
+
+    Start Time: 1472790379
+    Timeout   : 300 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

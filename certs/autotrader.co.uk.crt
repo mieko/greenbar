@@ -1,0 +1,67 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=GB/ST=Berkshire/L=Reading/O=Auto Trader Ltd/CN=*.autotrader.co.uk
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE3zCCA8egAwIBAgIQPxrmRlyXrle/YO8+LIUREDANBgkqhkiG9w0BAQsFADB+
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
+IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE0MTExMzAwMDAwMFoX
+DTE4MDExMTIzNTk1OVowajELMAkGA1UEBhMCR0IxEjAQBgNVBAgTCUJlcmtzaGly
+ZTEQMA4GA1UEBxQHUmVhZGluZzEYMBYGA1UEChQPQXV0byBUcmFkZXIgTHRkMRsw
+GQYDVQQDFBIqLmF1dG90cmFkZXIuY28udWswggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDNKib2HEcBxRqNwQnCkXmGs787luN5Pmh+TV+jtdCuo2R+G6Wo
+ZbBYZ7q1qRh7GH0oGz/Ey9WbCamtFVrzuQYWiCAKIUCx0ogR0A0BYIKgykjH0Dqo
++bLGUFPcEytJPFi5NvLAq9oO1sqiEI2gsPuL1ZEL5DK6kAJbORJm/RgBzeqU0Fdg
+UUsTPeLKv7Ko1ho2jWxsGIXD3n1DE4I2jjx216mueR6ulyNLqR/QMy4bfUU8Ca8W
+eyVT6X1pwmIpVKkZOQHCZo0bHPEtvW/j7ogt5f8ePmVW1QL19HfTyM6r1b2aNop8
+PBhDDThGENR9L+XHCO6pBt9cmmWt4rYGHFj3AgMBAAGjggFrMIIBZzAdBgNVHREE
+FjAUghIqLmF1dG90cmFkZXIuY28udWswCQYDVR0TBAIwADAOBgNVHQ8BAf8EBAMC
+BaAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL3NzLnN5bWNiLmNvbS9zcy5jcmww
+ZQYDVR0gBF4wXDBaBgpghkgBhvhFAQc2MEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8v
+ZC5zeW1jYi5jb20vY3BzMCUGCCsGAQUFBwICMBkMF2h0dHBzOi8vZC5zeW1jYi5j
+b20vcnBhMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAW
+gBRfYM9hkFXfhEMUimAqsvV69EMY7zBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUH
+MAGGE2h0dHA6Ly9zcy5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9zcy5z
+eW1jYi5jb20vc3MuY3J0MA0GCSqGSIb3DQEBCwUAA4IBAQCd1kgXq5Z5WTs9Ntxz
+swNXVfYNEmtIUjLT5rp/o9YPTxgKzROStObPnvBbIg6wUZFsZW2zpWShzWjGiiSK
+sSh4DNA3Ko2P/7bt/1wrwxPtJzL2t1mDEmIJhpzpbkTsgtPFnyvvNxoAO6LUDro4
+nKmZVdor6d2EPqeaZBxqdi4jTsrsC8CM2mym337u2C1vUDRYKSGHaHMFL3CUCLAe
+dE6bvsks7BFytDmoSjeO8jwbfEptnuN15DLk08CS/hD+Z8HArCdgVRtKdG1WhhlQ
+RXsr66MhNqk0agLxmdzzdm/+GdorKlNz0A4lqD47r0UHYESR6ByyN3Q56K1i9boa
+xw/N
+-----END CERTIFICATE-----
+subject=/C=GB/ST=Berkshire/L=Reading/O=Auto Trader Ltd/CN=*.autotrader.co.uk
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+---
+No client certificate CA names sent
+Peer signing digest: SHA1
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3099 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DFEE1ED97D92DCC2557C05E554476DE1D42589EDBBFE795667103ECE8AE28F0F
+    Session-ID-ctx: 
+    Master-Key: 6FDD38A03AD6D8D565F8A5571F9487649DBB4911BAFE98BB6DA0E6CA195F3D4B2AADB1E75DDA2D2A6C02B9B8DACD7197
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790537
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

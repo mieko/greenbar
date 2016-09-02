@@ -1,0 +1,71 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=*.sciencedirect.com/O=Elsevier/L=Kidlington/ST=Oxford/C=UK
+   i:/C=US/ST=Illinois/L=Chicago/O=Trustwave Holdings, Inc./CN=Trustwave Organization Validation SHA256 CA, Level 1/emailAddress=ca@trustwave.com
+ 1 s:/C=US/ST=Illinois/L=Chicago/O=Trustwave Holdings, Inc./CN=Trustwave Organization Validation SHA256 CA, Level 1/emailAddress=ca@trustwave.com
+   i:/C=US/O=SecureTrust Corporation/CN=SecureTrust CA
+ 2 s:/C=US/O=SecureTrust Corporation/CN=SecureTrust CA
+   i:/C=US/O=SecureTrust Corporation/CN=SecureTrust CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQTCCBCmgAwIBAgITBlqNV6x5uS+74e7aSl8bz9QmdDANBgkqhkiG9w0BAQsF
+ADCBtTELMAkGA1UEBhMCVVMxETAPBgNVBAgTCElsbGlub2lzMRAwDgYDVQQHEwdD
+aGljYWdvMSEwHwYDVQQKExhUcnVzdHdhdmUgSG9sZGluZ3MsIEluYy4xPTA7BgNV
+BAMTNFRydXN0d2F2ZSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTSEEyNTYgQ0Es
+IExldmVsIDExHzAdBgkqhkiG9w0BCQEWEGNhQHRydXN0d2F2ZS5jb20wHhcNMTQx
+MTI1MDg0NTMyWhcNMTcwMjI3MTQ0NTMyWjBkMRwwGgYDVQQDDBMqLnNjaWVuY2Vk
+aXJlY3QuY29tMREwDwYDVQQKDAhFbHNldmllcjETMBEGA1UEBwwKS2lkbGluZ3Rv
+bjEPMA0GA1UECAwGT3hmb3JkMQswCQYDVQQGEwJVSzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAMqHbzE0DLrzR6eHk3MT7xgQhPCR5DNOiAb5QYtjMUYi
+w+OGWcXDev3MopOQIUpSi9LVA1al65dQ9lZ9JA3ReB1i3HXuUbMKhFIpJjgOQB6/
+k2VPYO9oj/jZnvpXTM3DC6+i5vEyHSCCNKEylxFcQSx+OsotuCT0Kq5VjgMS92Kv
+li38koBQHmglhCXVbmGAWEh32AwQ1OL8yCvZO2u8gGXqZpyb0+y8Vx/vP6aaPsNW
+IA2jA1mwY+d9A3vhJnx55DbC1hZ8VCZHJRUuwn2SGOZsgPJYE4xBBX994lmMrsEK
+3mKidHy6xqAk3xcAolhVBh2YTegAvNlLybGuV7p6x18CAwEAAaOCAZgwggGUMAsG
+A1UdDwQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwHQYDVR0O
+BBYEFKu/omKBu+w6IfwOwQqI6f8H65hEMB8GA1UdIwQYMBaAFMrOHRgDdx4c83xY
+sppwqAiAFvSuMEgGA1UdIARBMD8wPQYPKwYBBAGB7RgDAwMDBAQDMCowKAYIKwYB
+BQUHAgEWHGh0dHBzOi8vc3NsLnRydXN0d2F2ZS5jb20vQ0EwMQYDVR0RBCowKIIT
+Ki5zY2llbmNlZGlyZWN0LmNvbYIRc2NpZW5jZWRpcmVjdC5jb20wNgYDVR0fBC8w
+LTAroCmgJ4YlaHR0cDovL2NybC50cnVzdHdhdmUuY29tL09WQ0EyX0wxLmNybDBx
+BggrBgEFBQcBAQRlMGMwJgYIKwYBBQUHMAGGGmh0dHA6Ly9vY3NwLnRydXN0d2F2
+ZS5jb20vMDkGCCsGAQUFBzAChi1odHRwOi8vc3NsLnRydXN0d2F2ZS5jb20vaXNz
+dWVycy9PVkNBMl9MMS5jcnQwDQYJKoZIhvcNAQELBQADggEBAKqCvK1I8GoZf/J5
+wzAjg14/SIgONtCqM4m0y1tsSrf2dVAC81D/ztZneDefGgRzsc32F51iwo3M2gy1
+CpgJmtLBCai+nWkrOrR3ZU+V5CmcALxdA8OlbzPgnJ/qsCqB1Ni4lmjcXuHYh8dJ
+o41CAB5fO0PXNVL18+Qmdkct1iVAAcg2SqCU6iyPu6gnIjI5+paFTA3cBvttcFpR
+RXIdO+mcgeDnJoFPEEwTTEa9hXOQvSkxLR16pX4uwAhDOwEZx1c/2MVjutXzkaWw
+A8i1fW3FC89KBHaEtYueJSSNA1wxK0kb79qAfAAY9fp8HSzkvFo9Ph5gswy4O8kR
+46eNDT8=
+-----END CERTIFICATE-----
+subject=/CN=*.sciencedirect.com/O=Elsevier/L=Kidlington/ST=Oxford/C=UK
+issuer=/C=US/ST=Illinois/L=Chicago/O=Trustwave Holdings, Inc./CN=Trustwave Organization Validation SHA256 CA, Level 1/emailAddress=ca@trustwave.com
+---
+No client certificate CA names sent
+Peer signing digest: SHA1
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4105 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 19C789A998BB9B6D77965CF0AB52CFBBCAB401DD82027B34E449F7CE91F0FC91
+    Session-ID-ctx: 
+    Master-Key: 672FF3C2EEFE98D8A5DF1A62554DD8C293DAC84217FF8EC96DF4E3FD2E10E7B2BE66AE1E61C0D6056EEF3472F492FF79
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472788567
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

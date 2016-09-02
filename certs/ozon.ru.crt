@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=RU/ST=Moscow/L=Moscow/O=OOO Internet Resheniya/OU=IT Department/CN=www.ozon.ru
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE9DCCA9ygAwIBAgIQUSYyGpezF0QkuT1uosRgXDANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMjA3MDAwMDAwWhcNMTYxMjA2MjM1
+OTU5WjB+MQswCQYDVQQGEwJSVTEPMA0GA1UECBMGTW9zY293MQ8wDQYDVQQHFAZN
+b3Njb3cxHzAdBgNVBAoUFk9PTyBJbnRlcm5ldCBSZXNoZW5peWExFjAUBgNVBAsU
+DUlUIERlcGFydG1lbnQxFDASBgNVBAMUC3d3dy5vem9uLnJ1MIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuL7O7tiltlmBfra/INBCJ7NwL2l8JonAxjHx
+lWeLsPzHr2yAx6ahZWvK7+SCag6CEquosTnliYu75sqMZtC61xNvG5GnvUq/ZjqU
+QQwg4UGGSPN4QEtM8FLcOnoNT27V8Rs7MxTgjwyBK5Y/nwi3/5VHTOxTywcij2uc
+gevgNBUhEXXofzzSUR5dRk5x4uZdH23kgzBhInHF3Xgmf/WWLILRNb1c+SJjTP3U
+vVi3f33o1izp9u4AwGWLzRjVIsVgreoWSVoqfXHDf8u5wmr6iYsXtAF+Ov0cfUPp
+Vll8ZXhNiASSq+PYw7nPTOK0ALu046sb0Znfq+ITbC4BbGK78wIDAQABo4IBpjCC
+AaIwHwYDVR0RBBgwFoILd3d3Lm96b24ucnWCB296b24ucnUwCQYDVR0TBAIwADAO
+BgNVHQ8BAf8EBAMCBaAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2duLnN5bWNi
+LmNvbS9nbi5jcmwwgZ0GA1UdIASBlTCBkjCBjwYGZ4EMAQICMIGEMD8GCCsGAQUF
+BwIBFjNodHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRv
+cnkvbGVnYWwwQQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29t
+L3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xafDBXBggr
+BgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5jb20wJgYI
+KwYBBQUHMAKGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MA0GCSqGSIb3DQEB
+CwUAA4IBAQCpqFyRxBtQKQKFWKfm3A1BK0HcynhEl2JFaBfHFeq1So1FXO9h0Y+m
+HSwEByG0Z3ucgn+JxW2N0sZ6CSS55W3JlzqARa+kVbtkixx3/yN824PPph1aEy9I
+Wh99HrxTEJqp6UAuuBlT+n+wkoEfjcxQtlaiENJ+2eYfvD/meAVULe5s1tTnLDCJ
+fcsttihMODTV58fZPUYbkxJh8eNsFCdVAMZarHxJrc7613JLBH0qwKRQQlPjileB
+dGwYdHq64YYTcCUlAJcb3yw3Sk401eSXc3Qa0tGCrw6fgIFRvKPmgrjFJUVV1D/c
+wZwR9ZtTYdDbCRaaHlpKVdaeqAvk5q0s
+-----END CERTIFICATE-----
+subject=/C=RU/ST=Moscow/L=Moscow/O=OOO Internet Resheniya/OU=IT Department/CN=www.ozon.ru
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3895 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 771647E842DB8C34A64F78820E9F5830B5BD48377CF586EEE4A796BB9A8BA358
+    Session-ID-ctx: 
+    Master-Key: 466D855AB54D1BC847BAE0A29387F026112F3B0E8ED852D982E45414277697D7CB97AF6FEF01E35A1CEDF77F2AF06CB6
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 1e 30 10 e9 bf d9 d3 20-1b 34 3d 23 ee 74 d0 3b   .0..... .4=#.t.;
+    0010 - 01 bf cc b1 de 75 b8 03-a3 3d 30 88 e0 29 cc e5   .....u...=0..)..
+    0020 - c7 27 0e d0 76 96 5a ff-c0 80 84 7f e6 f3 f8 f8   .'..v.Z.........
+    0030 - 6d e3 fe 10 98 1b 5f d9-b4 85 db cb 55 17 e7 56   m....._.....U..V
+    0040 - 0d 0d c2 64 ca 02 43 fe-a0 b3 e6 c1 31 40 4d 16   ...d..C.....1@M.
+    0050 - 3f 7a 1e 37 9c ec da f1-9c 7e a2 4d de 7e 35 86   ?z.7.....~.M.~5.
+    0060 - ee 22 32 4f ed 80 71 a0-06 be c4 09 71 a9 0d d1   ."2O..q.....q...
+    0070 - c0 d1 8e 1e e8 13 a7 1a-35 41 85 13 b7 6f 62 a6   ........5A...ob.
+    0080 - 9a d0 9b 82 e1 84 b1 33-7c 29 42 22 97 af ca 9b   .......3|)B"....
+    0090 - a3 e8 fb 1a fd 37 52 b9-a3 71 0b 52 c7 ea 8f 2e   .....7R..q.R....
+
+    Start Time: 1472790433
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

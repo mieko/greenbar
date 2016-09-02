@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=JP/ST=Tokyo/L=Chiyoda-ku/O=The Mainichi Newspapers/OU=Digital Media Division/CN=*.mainichi.jp
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFCjCCA/KgAwIBAgIQV/Xb3NK/989wQ1fyaJ2SSjANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMjA0MDAwMDAwWhcNMTkwMzA0MjM1
+OTU5WjCBjTELMAkGA1UEBhMCSlAxDjAMBgNVBAgTBVRva3lvMRMwEQYDVQQHFApD
+aGl5b2RhLWt1MSAwHgYDVQQKFBdUaGUgTWFpbmljaGkgTmV3c3BhcGVyczEfMB0G
+A1UECxQWRGlnaXRhbCBNZWRpYSBEaXZpc2lvbjEWMBQGA1UEAxQNKi5tYWluaWNo
+aS5qcDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANMdWPuTnIXG7Qqa
+EJRBPS80ZjBxBlr7DYSSGe8D1jDbgEJ6XASY+hqF/FoxFpNMBubUlek7TVR6zSvZ
+BkTjPwlemzFvp4DNEhjk1pqucRdHheeTnT5t/VOMhZYZ6nZm1jl0IduEZWojpTtK
+lYyFmwGiVfCl06xehT7ue/pP37Xa+yHOB0LedznlR5MHc/d+5+maO+m+EHzp9To2
+4iLtwJKBpU+kX2UkensB5HZX46pV9C7AXZsMrFrwRsl+KGXa9RHW+4mYHzbCJTp1
+piKbAaAP6Z8UOktdrpUJ6PqGRvaI416atZ1cW9xXACzSeVnlZ+fqvPzVqx0G/ROi
++ZXKZBsCAwEAAaOCAawwggGoMCUGA1UdEQQeMByCDSoubWFpbmljaGkuanCCC21h
+aW5pY2hpLmpwMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIw
+IKAeoByGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3JsMIGdBgNVHSAEgZUwgZIw
+gY8GBmeBDAECAjCBhDA/BggrBgEFBQcCARYzaHR0cHM6Ly93d3cuZ2VvdHJ1c3Qu
+Y29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUFBwICMDUMM2h0
+dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdh
+bDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU0m/3
+lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNo
+dHRwOi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ24uc3ltY2Iu
+Y29tL2duLmNydDANBgkqhkiG9w0BAQsFAAOCAQEAg7XqTZObJvQnjM66m569YHRT
+y0hPQ3DWgudRJhc1NRJ+M9ihE1R3BML+FQwi08CnQknuyBcwUW3ITYBkDLfMTn1/
+AXmtWcnFywmkrMztmD2nfspey2CQ3+OJCgoAGqFcYGkGm31pSWU0A3+NCUHjIpo6
+LNJMNVonqJjDjphy4tAnK4HfgR1zhEq45xKc3WkZEdZCNpxcXBGlrLJ4k7YuZLV4
++FUXxkA+C/jq4Lj4U9DRMfIbYjIaOt+ZXGn6G0Zq2T+mjiougfRyo1LkiLiKl127
+jqO+IUXohBAxC6dBQptRkN658PZ2NBunJVL+t9s60meMiIGx3lcpFYNOTzEsZQ==
+-----END CERTIFICATE-----
+subject=/C=JP/ST=Tokyo/L=Chiyoda-ku/O=The Mainichi Newspapers/OU=Digital Media Division/CN=*.mainichi.jp
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3958 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 63CC1038CBC57523BF6DF11E1D3D5A648D9531234CBEB131EE2B2E4666A11D96
+    Session-ID-ctx: 
+    Master-Key: 5B214C642702B828D48A3F4C4ACF5A1CC057FEAED3D28746576D60E6EE51A8DF5F82435855BF4622C074EDDCF5742CBA
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 43 c8 e8 04 8e b6 c2 2e-f3 44 8f 39 64 fb f5 2e   C........D.9d...
+    0010 - f4 07 88 a3 8c c8 08 29-ba bf d6 41 2c 4b f3 c7   .......)...A,K..
+    0020 - fe 11 52 6b 9a ff 55 7a-a5 7e 16 cc d5 74 15 d3   ..Rk..Uz.~...t..
+    0030 - 88 f3 e0 25 bf eb a0 88-9f e7 c0 0e 7e c3 c6 ea   ...%........~...
+    0040 - e8 c1 56 8b 5e 0c c7 8f-a8 b0 62 62 2e 00 91 26   ..V.^.....bb...&
+    0050 - 67 c2 1e 31 70 6d 40 c9-19 33 41 94 77 88 5a 44   g..1pm@..3A.w.ZD
+    0060 - 4c 50 ed 70 5a 6a cb fa-0d 3e 95 54 70 5d 41 1b   LP.pZj...>.Tp]A.
+    0070 - 9e f6 ee 3f 7f 35 4a 4b-af b5 06 67 e5 ae 39 1a   ...?.5JK...g..9.
+    0080 - 74 d1 12 5a 12 1c 54 f2-06 cf d8 d7 b8 d6 e6 64   t..Z..T........d
+    0090 - dd ab 46 cf fc 47 ae e5-66 bc 8d af 45 62 7e 81   ..F..G..f...Eb~.
+
+    Start Time: 1472789822
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

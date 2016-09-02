@@ -1,0 +1,83 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=DE/ST=Rheinland-Pfalz/L=Mainz/O=Zweites Deutsches Fernsehen Anstalt des \xC3\xB6ffentlichen Rechts/CN=*.zdf.de
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFCDCCA/CgAwIBAgIQPQDLnE+ngT+vNmx3kKjQSTANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTQxMTEwMDAwMDAwWhcNMTcwMTA4MjM1
+OTU5WjCBkTELMAkGA1UEBhMCREUxGDAWBgNVBAgMD1JoZWlubGFuZC1QZmFsejEO
+MAwGA1UEBwwFTWFpbnoxRTBDBgNVBAoMPFp3ZWl0ZXMgRGV1dHNjaGVzIEZlcm5z
+ZWhlbiBBbnN0YWx0IGRlcyDDtmZmZW50bGljaGVuIFJlY2h0czERMA8GA1UEAwwI
+Ki56ZGYuZGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCeedheU1fc
+2oYj2GZrg415DFCWhxgL5uaXyqJ+aMRV+YSZcjYo0qdlf51WIxbWM0lGdUd9kaeR
+pFHXyLOvaUXg4S5uYVefxRKYAR4mEF7Eywu4EULT6yB8/Mki33834bOP3JEG6X9M
+YK+2ERmphX+rvZmth/GrAzt/WchB/JCfvmPF/cug8pJN77cDunjS+rVVr2P7bH0T
+qjzOvFTpaN84TUjljnY9PvbQ0BY6XRgKBM1bn3rvpipLp85PFBhZEi0uZnnh2UUx
+euXHMdKmrR/d7hCCxhVhnq64Ot++pj9loz478Nr3/cFvKYWaKApnr1EMFgMMXmKv
+yF7Kb3UgX+lhAgMBAAGjggGmMIIBojAbBgNVHREEFDASgggqLnpkZi5kZYIGemRm
+LmRlMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByG
+Gmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3JsMIGhBgNVHSAEgZkwgZYwgZMGCmCG
+SAGG+EUBBzYwgYQwPwYIKwYBBQUHAgEWM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNv
+bS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDBBBggrBgEFBQcCAjA1DDNodHRw
+czovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVnYWww
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFNJv95b0
+hT9yPDB9I9qFeJujfFp8MFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0
+cDovL2duLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL2duLnN5bWNiLmNv
+bS9nbi5jcnQwDQYJKoZIhvcNAQELBQADggEBALMaB0eCSVl/j+hCTl0u1z1BiNcu
+pwrOUic5r7yTHcU5jbnjbxAtJL/m4n77+Bz+xaiM8m+eGfRPWtTthBkkJp5iR0KV
+c3765r9CFFu7bAbevLf1SL7ca1E/OJMYXQ03t0wLwX6tJpOGBIBrRSk2ubgIAUuL
+rV32f9CrlzK7rUaoKaIOxg36P/vcwZsY8e4FBHPrvKqV3eflkjwTTIc4Vit7FUUq
+x/t/5PNQJ3WBbeNt0M/V+0hi0mYEV30hoyJyLo7u9+zltOUr8uqIz7S+jAhq3iTC
+VrWaKYxGSscYmZGH7mTJ3yuJ+ZHoB5iBQWzXslEdLXXqggs8Y8sT5qqWyjM=
+-----END CERTIFICATE-----
+subject=/C=DE/ST=Rheinland-Pfalz/L=Mainz/O=Zweites Deutsches Fernsehen Anstalt des \xC3\xB6ffentlichen Rechts/CN=*.zdf.de
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3977 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 308789B50C80F9BFCC4C6E3B3E827FF9DD19A3FCBEA9464F84B59E0CB350DBE9
+    Session-ID-ctx: 
+    Master-Key: 3C9B15DDE528BD8B6AC677F820D60AB68A63EB050AC98DDE6E113A22C15D195E7403058868141989C7E1F8F4447FA69E
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 0d 8d 97 d0 50 cc 74 a6-2a f3 3f b2 5e 73 ac e3   ....P.t.*.?.^s..
+    0010 - b3 45 a8 96 c5 c0 7e fd-9b b3 9e 80 0a f7 2e 83   .E....~.........
+    0020 - 7c ad 11 21 6d 19 af 97-45 6e a2 cf 7b f6 49 43   |..!m...En..{.IC
+    0030 - 0c 67 24 ae da 5e 08 a7-80 83 09 7e b7 1e 79 af   .g$..^.....~..y.
+    0040 - eb b8 29 bc 62 a3 5e 47-32 69 50 81 77 70 2f a5   ..).b.^G2iP.wp/.
+    0050 - 0e 2a ac bf 98 bf f0 0e-eb 74 9e 2b 18 1d cb a5   .*.......t.+....
+    0060 - 94 90 1b 90 58 75 a4 50-49 17 ae 6a 3f 04 24 e1   ....Xu.PI..j?.$.
+    0070 - 47 4b 36 f1 94 6b a6 04-71 80 21 8a d3 ad 1b 0d   GK6..k..q.!.....
+    0080 - a4 44 eb 59 01 c7 51 c8-7e af 37 60 ab be 8a 92   .D.Y..Q.~.7`....
+    0090 - 70 60 e0 2f 46 35 c4 96-9c 1d fb 0a 2a 46 f8 47   p`./F5......*F.G
+    00a0 - 5c af 71 7b 59 8f ab 81-ef 5d 40 80 ea 43 e6 ea   \.q{Y....]@..C..
+
+    Start Time: 1472790490
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,81 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=CN/ST=Guangdong/L=Guangzhou/O=Guangzhou Netease Interactive Entertainment Co.,Ltd/CN=*.battlenet.com.cn
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+ 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFFzCCA/+gAwIBAgIQOBpz6/JbDUO+CEfm4hCSXzANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwODI0MDAwMDAwWhcNMTgwODIzMjM1
+OTU5WjCBkDELMAkGA1UEBhMCQ04xEjAQBgNVBAgTCUd1YW5nZG9uZzESMBAGA1UE
+BxQJR3Vhbmd6aG91MTwwOgYDVQQKFDNHdWFuZ3pob3UgTmV0ZWFzZSBJbnRlcmFj
+dGl2ZSBFbnRlcnRhaW5tZW50IENvLixMdGQxGzAZBgNVBAMUEiouYmF0dGxlbmV0
+LmNvbS5jbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALVEqdREV3jn
+uMW43vSBKK+hdgxiGOOAkHkrOB7MAwqJy41EAuokU5UVD8LeIeBSTQsM+K0nKGIU
+6PCtojsOUThcigp4C7eQ172MLFAjzRZ24M23yb5ZK6oT07rIQ/M+O0sTEo2h5wDv
+/NKRRvnGF2J06GrBsSng4FOURXgVNLNEA5CColFQab3XCi6iwwwKVvFT2p0NekSo
+YniT1osPj95rgoJPcM7/xal9d9i8LOJ6YfBOLh+f/Bv7IodxaSNbzxsytdeAeK7T
+/wYpM4Lj5Kb+uMun2OigDcvOl2xBg+Hhk5rt5JoKEMAZDgGG989N14O1RnTwBwKQ
+Wm/KlqFTov8CAwEAAaOCAbYwggGyMC8GA1UdEQQoMCaCEiouYmF0dGxlbmV0LmNv
+bS5jboIQYmF0dGxlbmV0LmNvbS5jbjAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIF
+oDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNybDCB
+nQYDVR0gBIGVMIGSMIGPBgZngQwBAgIwgYQwPwYIKwYBBQUHAgEWM2h0dHBzOi8v
+d3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDBBBggr
+BgEFBQcCAjA1DDNodHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3Jl
+cG9zaXRvcnkvbGVnYWwwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8G
+A1UdIwQYMBaAFNJv95b0hT9yPDB9I9qFeJujfFp8MFcGCCsGAQUFBwEBBEswSTAf
+BggrBgEFBQcwAYYTaHR0cDovL2duLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0
+cDovL2duLnN5bWNiLmNvbS9nbi5jcnQwDQYJKoZIhvcNAQELBQADggEBANCKsKJs
+AIy8u8zw8IOhB0efritJkzh1aoEkz+VmqWGGk0epGoGALQt9kLEMeSHQs398+NvH
+FxlyExgUa3KWXJXBnY+Xa3v+/OTmpJNGl/PwI+9YhJypLtFlTPDA9lOb4lU+8i13
+XJ78LPNiIO31sPHbmyvHBoIhHWHhWFFVtKCv1Ky6nmYIcITvFggDP+EnM+P/i9Xr
+F+heMddkj9yz3Mwpb8tekAgyNXNDOL50tm8DPwmZtPI9YazDPI0n8OTDeNlJ9zBH
+X3ywzwrWjaD5IAZqs/FxgeQwFZuwRbbSGpxmYKMVV0XeWt00WowT5hcNVG+Fxmil
+Xk7+q9Mn7/1ioaU=
+-----END CERTIFICATE-----
+subject=/C=CN/ST=Guangdong/L=Guangzhou/O=Guangzhou Netease Interactive Entertainment Co.,Ltd/CN=*.battlenet.com.cn
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+---
+No client certificate CA names sent
+---
+SSL handshake has read 2762 bytes and written 626 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-GCM-SHA384
+    Session-ID: 712F178416297AB42770E70406F6E0B32740FB083EE210D2236734937C7AC387
+    Session-ID-ctx: 
+    Master-Key: 09729CC83D52B49B4748EEF3AF4BDD7901E824D10159CEADB882B7620322111D9753073F65887103464CC1FA9AA0331D
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - cc 26 55 f5 8a 0e 17 7b-6d bb 89 ee cd be b6 3f   .&U....{m......?
+    0010 - ff 12 e2 a2 1f ec 79 05-e9 de a1 dc ab bc 5b ba   ......y.......[.
+    0020 - 7b f1 1f 4c 68 39 ed 38-bb 81 c8 29 27 30 5b 3d   {..Lh9.8...)'0[=
+    0030 - 6f 74 15 1a 48 1f 20 5c-d1 96 da d3 ae 87 ec 18   ot..H. \........
+    0040 - 1c c9 10 bd ae 22 7f 4f-c5 c6 49 eb 94 bc 46 b6   .....".O..I...F.
+    0050 - c9 81 b1 06 1d e6 2d 6b-a7 59 a2 49 f2 5f b3 2e   ......-k.Y.I._..
+    0060 - 1b 60 5f fc 89 ed e2 df-d0 b0 43 13 31 65 d2 6f   .`_.......C.1e.o
+    0070 - 09 5c 46 2d 28 22 27 67-12 c4 82 1f fc cd 00 7c   .\F-("'g.......|
+    0080 - 97 e8 dc 95 99 0e f5 87-82 d9 e6 9b 7c 90 b6 0e   ............|...
+    0090 - fe b8 b5 dd bd 5b f7 cc-e0 32 69 4e 47 3e d2 04   .....[...2iNG>..
+    00a0 - 52 5c 17 f1 84 04 77 99-11 48 01 24 a3 16 00 1c   R\....w..H.$....
+    00b0 - 05 82 52 86 25 e0 80 9d-4f 8c 05 d0 b3 0e 80 1d   ..R.%...O.......
+
+    Start Time: 1472789258
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

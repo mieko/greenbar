@@ -1,0 +1,77 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=www.liveinternet.ru
+   i:/C=US/O=thawte, Inc./OU=Domain Validated SSL/CN=thawte DV SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./OU=Domain Validated SSL/CN=thawte DV SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEkzCCA3ugAwIBAgIQeWiwSeeOT1Vy9spAVEPOjDANBgkqhkiG9w0BAQsFADBj
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMR0wGwYDVQQLExRE
+b21haW4gVmFsaWRhdGVkIFNTTDEeMBwGA1UEAxMVdGhhd3RlIERWIFNTTCBDQSAt
+IEcyMB4XDTE1MDUwNjAwMDAwMFoXDTE2MTIyODIzNTk1OVowHjEcMBoGA1UEAxQT
+d3d3LmxpdmVpbnRlcm5ldC5ydTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAMN/Mz9XxfHlr2dZh6gWFWKYfLghN6Iiwh684nEs1vSKrJRkqp9nEiO3b8TP
+6j01wgjbiab/Tk32wf97HK5mo1L+BmC+tNIBs2Pew+iyZ9JEUfcGIwCbRmZjh3Iy
+JlSCiRQrpMbQIHrGl+GYUNB2I+PV+h41n3/VymQrEv5zL2c/p28hUyoyt7ytW6I3
+aVvVIPv7mctD01IqvubeGsm9qpdc9CLvNKrlwHHqFu5AGXf5gxPCu9RybrfqO8oC
+phqciRlGWt7ua3NsbSJPUOtlGFONDYmlg+noa0JOLaLv2hVF+8E6NOf4C79hED4Y
+aMiUtJ47d0aGK5fX9KgkfNQCHS0CAwEAAaOCAYYwggGCMC8GA1UdEQQoMCaCE3d3
+dy5saXZlaW50ZXJuZXQucnWCD2xpdmVpbnRlcm5ldC5ydTAJBgNVHRMEAjAAMCsG
+A1UdHwQkMCIwIKAeoByGGmh0dHA6Ly90bi5zeW1jYi5jb20vdG4uY3JsMG4GA1Ud
+IARnMGUwYwYGZ4EMAQIBMFkwJgYIKwYBBQUHAgEWGmh0dHBzOi8vd3d3LnRoYXd0
+ZS5jb20vY3BzMC8GCCsGAQUFBwICMCMMIWh0dHBzOi8vd3d3LnRoYXd0ZS5jb20v
+cmVwb3NpdG9yeTAfBgNVHSMEGDAWgBSfuMGpbPL1wCIqlO1cmazU7NfGBzAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsG
+AQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3RuLnN5bWNkLmNvbTAmBggr
+BgEFBQcwAoYaaHR0cDovL3RuLnN5bWNiLmNvbS90bi5jcnQwDQYJKoZIhvcNAQEL
+BQADggEBAOA4rFTi5akGsehsBlx1Zo6f1BQYmtTPl17xTqCJ9cjWUpAmFW+TulBa
+woho254cPeYxFtcNaz7BLiyYbNUIAWvtlemKYlRq91qedMM5mF+OKyqvkvMm04vV
+YVUhCiF/8K3N7Agj2lz1pYwkDl2h+qrkwm6Q9SUSzuqwHWm2QAMI7I0C2nMci8hF
+BdbvUszYCkUUmZoYmpvkJ/abnqk9EL3Iu1K8qHUKjz/O94VM75p9Wf0F0Ngj+EyP
+uIqVemEng0+1gWs58GBHa6xkApfkxzhkvG1v/oCRosBZLUdeHAZ876LlB4Ea9TH0
+GoZvIzqpX3O0BP/1tq8yyGV72YzZGKI=
+-----END CERTIFICATE-----
+subject=/CN=www.liveinternet.ru
+issuer=/C=US/O=thawte, Inc./OU=Domain Validated SSL/CN=thawte DV SSL CA - G2
+---
+No client certificate CA names sent
+---
+SSL handshake has read 2769 bytes and written 650 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES128-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES128-SHA
+    Session-ID: A04AF051FC14E38811C12DC6DDA3642AF0A9FA2C4D0405AC5AA51C827E2D26AC
+    Session-ID-ctx: 
+    Master-Key: 53471A36A8342297FECF1CD73563D75A2E5D2E738C35FB649A6B61FA2902C95CF99AD6F7C681D6ACE16AEAD355B17BBA
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 40 c6 02 dd 82 af 4e e5-9f 37 33 30 e1 5c e1 89   @.....N..730.\..
+    0010 - e0 3d 8e cf e5 30 56 1e-a6 4a 06 dd 40 cc 92 3d   .=...0V..J..@..=
+    0020 - e9 ad 3f 93 32 7a 6f cb-52 77 a1 3c b8 a3 10 85   ..?.2zo.Rw.<....
+    0030 - b7 d5 59 20 2a 2e 13 24-4f 3e 67 d3 a8 c5 dc f3   ..Y *..$O>g.....
+    0040 - 61 72 a6 f4 1d f0 64 5b-da 2c e5 64 02 27 b6 d1   ar....d[.,.d.'..
+    0050 - 4c 7f fb de 60 06 55 28-26 bf 91 79 3b 0a db 8f   L...`.U(&..y;...
+    0060 - ba d5 16 c7 d6 75 7b cc-3c 78 47 7a dc 6d 5e e5   .....u{.<xGz.m^.
+    0070 - 10 86 67 51 22 aa 48 02-95 b2 b3 37 2e f1 84 66   ..gQ".H....7...f
+    0080 - 76 41 e2 a1 d7 79 52 56-3e 9d 12 96 b1 1f e4 7e   vA...yRV>......~
+    0090 - 40 62 1b d6 14 37 63 be-10 ec bf db f1 16 0f e7   @b...7c.........
+    00a0 - 31 d1 1d 6c bb 19 8f 65-5a 93 8b 02 66 fa d1 8b   1..l...eZ...f...
+
+    Start Time: 1472789055
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

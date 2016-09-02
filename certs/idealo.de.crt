@@ -1,0 +1,66 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=DE/ST=Berlin/L=Berlin/O=Idealo Internet GmbH/OU=Operations/CN=*.idealo.de
+   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+ 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEvjCCA6agAwIBAgIQKIzL31TEVRlPL/bnKG4kyjANBgkqhkiG9w0BAQsFADBB
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
+aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUwNTI4MDAwMDAwWhcNMTcwNzI2MjM1OTU5
+WjB5MQswCQYDVQQGEwJERTEPMA0GA1UECBMGQmVybGluMQ8wDQYDVQQHFAZCZXJs
+aW4xHTAbBgNVBAoUFElkZWFsbyBJbnRlcm5ldCBHbWJIMRMwEQYDVQQLFApPcGVy
+YXRpb25zMRQwEgYDVQQDFAsqLmlkZWFsby5kZTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAJxaEtO0YVgOB85Nt4/IY4RbR8nZcml89IAXQ4nK7Ihk8wvx
+m80X4ZP8+NOnLXD2tgK47UpC4c2lwitKH+lKpgL4cLXworESS15cikQjc17v64RB
+fHizKcQ4Eu5kvgpmnPcNwdmQOLVumnw2QMPVNv1VaOp/WOAazvB9pSLVOAc/Hojw
+mvAl/LluQjAo71wSYnRFX3qkICn9GNhWW6dECN8hn3OmrgzZEQKK0IPCyqGhRjY4
+hCl1kmVrTuJR+V1tMc+6nda4SV2tqMBPuvqSaH+g0IRcSq2XpMOm8NhCxAWcRKcj
+Ht/Ay8FMSXMd7B1P64TTrZaBT6unN9AVD6zu5VUCAwEAAaOCAXgwggF0MCEGA1Ud
+EQQaMBiCCyouaWRlYWxvLmRlgglpZGVhbG8uZGUwCQYDVR0TBAIwADBuBgNVHSAE
+ZzBlMGMGBmeBDAECAjBZMCYGCCsGAQUFBwIBFhpodHRwczovL3d3dy50aGF3dGUu
+Y29tL2NwczAvBggrBgEFBQcCAjAjDCFodHRwczovL3d3dy50aGF3dGUuY29tL3Jl
+cG9zaXRvcnkwDgYDVR0PAQH/BAQDAgWgMB8GA1UdIwQYMBaAFMJPSFf80U+awF04
+fQ4F29kutVJgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly90ai5zeW1jYi5jb20v
+dGouY3JsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBXBggrBgEFBQcB
+AQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly90ai5zeW1jZC5jb20wJgYIKwYBBQUH
+MAKGGmh0dHA6Ly90ai5zeW1jYi5jb20vdGouY3J0MA0GCSqGSIb3DQEBCwUAA4IB
+AQBdSiNkzRPClq8Z8RkSeySGPuteZmlGNOp9ghKEUZ9jeLms4c31vzCZmGyuFQGt
+/q2nr8bvS2ZOIbxsw0SB8MAJIBIrOskoSaUaYghYY2jvnPHOkzdPKKbjyGInTM8X
+2tRDGXzY+RCnGQfYYbkvdPN03uTl978NK/4moxwF0cWkld2Qy4260cHScCTHEMb1
+/tQKeRF9WE/ObHUKMPjoe9YAt0o1SAPAFlK37A0gMHegBHXIPWE4Roy+WEAwi4+V
+XymO6IyGCC0uZbejmSP2WEzNkacN78Sa3k7ppH3d3CACmUfRDjvlD0J7QYAArF42
+grAe2reJr7ThiAJfxgS26nlR
+-----END CERTIFICATE-----
+subject=/C=DE/ST=Berlin/L=Berlin/O=Idealo Internet GmbH/OU=Operations/CN=*.idealo.de
+issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA1
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2932 bytes and written 434 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: D97DE6559D95B4B7EE04B85BE9D78A8E8F89591DB40C606FC27B86A944B78DBC
+    Session-ID-ctx: 
+    Master-Key: ABE4AAE2886AAA51757B4E780CBB82558E2F849F86C6C0E82835F519C052A2CDD64F526445C2CB1292F64418FD05E278
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1472790229
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---
