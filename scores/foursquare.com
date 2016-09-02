@@ -1,0 +1,2 @@
+"foursquare.com": "A+"
+

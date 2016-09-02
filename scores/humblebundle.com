@@ -1,0 +1,2 @@
+"humblebundle.com": "A"
+

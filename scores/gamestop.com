@@ -1,0 +1,2 @@
+"gamestop.com": "A-"
+

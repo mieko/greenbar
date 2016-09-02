@@ -1,0 +1,2 @@
+"mysmartprice.com": "F"
+
