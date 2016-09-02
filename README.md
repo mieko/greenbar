@@ -9,8 +9,8 @@ Of the Top 2000 sites on the Web:
   * 122 sites serve EV Certificates.  That's 6.1% of the top 2000, or 9.1% of
     sites that presented a certificate.
 
-  * A few sites use EV certificates to do stupid things.  bedbathbeyond.com has
-    an EV cert signed only for 'www'.bedbathbeyond.com, and if accessed, uses
+  * A few sites use EV certificates to do stupid things.  bedbathandbeyond.com has
+    an EV cert signed only for 'www'.bedbathandbeyond.com, and if accessed, uses
     it to redirect the client to plain-HTTP.  Presumably this is so he or she
     can be SSL-stripped before they reach the authentication or checkout
     process, where the EV cert is utilized.
