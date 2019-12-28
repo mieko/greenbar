@@ -1,81 +1,78 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=Sausalito/O=Glassdoor, Inc./CN=*.glassdoor.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl446938.cloudflaressl.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE7jCCA9agAwIBAgIQCLT4hl7pM7bqGKN0H/MNwzANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTQxMDAxMDAwMDAwWhcNMTgwMjIzMjM1
-OTU5WjBqMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTESMBAGA1UE
-BwwJU2F1c2FsaXRvMRgwFgYDVQQKDA9HbGFzc2Rvb3IsIEluYy4xGDAWBgNVBAMM
-DyouZ2xhc3Nkb29yLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
-AKFR9Ge3xPH+rqDv+oCMNeVlQQDVt57FoKRCwn3bwS4byy5yyMETw2a4LO1WcLsW
-hEMca7WoIsLZHbDBizY3sUHsFvINhuEF2wNAyyewpKLBcZVefDeSQzhCz5a7r/sV
-iaIbOj/YMyQkn7TQidTFCHP2wecNNw7NuimaganQvOW40TSDuJJevD3udu7/sylR
-CJ0Qu9UdPDGQmvASHPuRViRMugMxf/50lqZTHvBKF99WbgwhxtyhA33CX7+NRDgK
-+1rC0lEuyUpxMEBw3tJyR4DW5ggrZXx8MHr6MkW3kt9RKpt8X3kVE4tPEQqUyH8l
-RvK83hHkPH/rPxiwldTLN/MCAwEAAaOCAbQwggGwMCkGA1UdEQQiMCCCDyouZ2xh
-c3Nkb29yLmNvbYINZ2xhc3Nkb29yLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQE
-AwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNy
-bDCBoQYDVR0gBIGZMIGWMIGTBgpghkgBhvhFAQc2MIGEMD8GCCsGAQUFBwIBFjNo
-dHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVn
-YWwwQQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291
-cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
-BQcDAjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xafDBXBggrBgEFBQcB
-AQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5jb20wJgYIKwYBBQUH
-MAKGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MA0GCSqGSIb3DQEBCwUAA4IB
-AQBRUw5c1ojalNhOuRjYoMCneUyh/8gKE68UcJn7gaAWJ3Z0Z9HGp6KQaoB+4fy+
-wtZO4O4mm7Vc0DP4Z+1SrC8MH0RW3HFgONKO73VHDyevmqJiVb8h3jIe2msqwexT
-1ou17KVAQIg7W1z4r9/9CsTiyOu1I6ezfC1JJ4FBthAJzshJ5BxEC7SRG8OK0L93
-VNN8xHohu+kP4z/oXDZZ5vEpEt9nNwBnVba8UkYPvLoyfcb3LzaebYoARJVaKgVy
-UPuRA/fas2JV/46bMnffNuO6azzREG5rtq0mc5S+0cAQFnZdUttDQedP8B3YMuau
-ETqPdynR8Y2hGK0GM8/6b7N0
+MIIFAzCCBKqgAwIBAgIRANDXTDj5xkDJPaHX5l1Ny3UwCgYIKoZIzj0EAwIwgZIx
+CzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAOBgNV
+BAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTgwNgYDVQQD
+Ey9DT01PRE8gRUNDIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIgQ0Eg
+MjAeFw0xOTA5MTMwMDAwMDBaFw0yMDAzMjEyMzU5NTlaMGwxITAfBgNVBAsTGERv
+bWFpbiBDb250cm9sIFZhbGlkYXRlZDEhMB8GA1UECxMYUG9zaXRpdmVTU0wgTXVs
+dGktRG9tYWluMSQwIgYDVQQDExtzc2w0NDY5MzguY2xvdWRmbGFyZXNzbC5jb20w
+WTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARktOP0l5kij7N7z8yaO19HD+dcv23s
+VysdcNXJYTR+TGPQmV76t4kDGPorvqVT33YJNJ1iRGpBAWBNpfXg9smSo4IDBDCC
+AwAwHwYDVR0jBBgwFoAUQAlhZ/C8g3FP3hIILG/U1Ct2PZYwHQYDVR0OBBYEFM1a
+S/+ybyq5/L9V115ZsPAbvvvwMA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysG
+AQQBsjEBAgIHMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5j
+b20vQ1BTMAgGBmeBDAECATBWBgNVHR8ETzBNMEugSaBHhkVodHRwOi8vY3JsLmNv
+bW9kb2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZl
+ckNBMi5jcmwwgYgGCCsGAQUFBwEBBHwwejBRBggrBgEFBQcwAoZFaHR0cDovL2Ny
+dC5jb21vZG9jYTQuY29tL0NPTU9ET0VDQ0RvbWFpblZhbGlkYXRpb25TZWN1cmVT
+ZXJ2ZXJDQTIuY3J0MCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC5jb21vZG9jYTQu
+Y29tMEYGA1UdEQQ/MD2CG3NzbDQ0NjkzOC5jbG91ZGZsYXJlc3NsLmNvbYIPKi5n
+bGFzc2Rvb3IuY29tgg1nbGFzc2Rvb3IuY29tMIIBAwYKKwYBBAHWeQIEAgSB9ASB
+8QDvAHYAsh4FzIuizYogTodm+Su5iiUgZ2va+nDnsklTLe+LkF4AAAFtKAzwigAA
+BAMARzBFAiA6ZOkq9oCqGuTNbbbycnNGI8fcsOZCDzbzkI5KESlyBgIhANsPd0hY
+esByl877f65Y6nokLRB2YoQP6sWYC7Sjii3vAHUAXqdz+d9WwOe1Nkh90EngMnqR
+mgyEoRIShBh1loFxRVgAAAFtKAzwqgAABAMARjBEAiAZW4p3R4jTxSbfGL1xJusX
+AFRI90pE5lLdW5yo4eMcmQIgMBL1So6NHwkNLToGA6THFyN2Zg+Chtapj8kv1NtN
+mzYwCgYIKoZIzj0EAwIDRwAwRAIgZtt+Y5VU7QxNeY8iYoq07fdGw01lsUVrvfOG
+KPcYCfACIBSJwBRBprSekTDRPZrcPR+Gr6Wuy+uOm9KkppzSMUTF
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=Sausalito/O=Glassdoor, Inc./CN=*.glassdoor.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl446938.cloudflaressl.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3046 bytes and written 434 bytes
+SSL handshake has read 3645 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Server public key is 2048 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
+Server public key is 256 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: DA6BB5986326032302258309445D4472D666CF6694AE03807918604692E0ABFD
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: 05F48CA023D29FA7712D205ABF39998DDC7608E658CAC3980070A1A9A020F7C4
     Session-ID-ctx: 
-    Master-Key: 58FBEB5C4331AE2AFFFC8523CF494416F7A7947708A82B495EC62E54F5AAF55FC9467008F2E27E1441FECA9AF16C6243
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 1A64C810CD39A654741222AC16C387700F7A6C155B2BD753B5D3D8A79E75C89B96AEEE88335A03F103375AD0E3C599A1
     TLS session ticket lifetime hint: 64800 (seconds)
     TLS session ticket:
-    0000 - 49 4e 50 e3 c7 f1 4e 89-ef 15 99 ce 26 c1 51 8f   INP...N.....&.Q.
-    0010 - 36 49 c0 03 cd c9 da fe-6f 11 7d d4 ba 72 d0 98   6I......o.}..r..
-    0020 - 17 90 60 c4 58 2a 13 a4-af ae 87 05 39 61 ce 8f   ..`.X*......9a..
-    0030 - ec bc ba d2 bb 92 af 72-0c 01 b5 07 40 65 5f a4   .......r....@e_.
-    0040 - 87 4f 53 e4 48 c7 13 de-e4 c0 4d c8 8d 4c f1 61   .OS.H.....M..L.a
-    0050 - 98 5f 48 92 2d 7a f9 d4-b7 c2 2a 3b 3e c8 69 22   ._H.-z....*;>.i"
-    0060 - 3f ed 00 ce 47 72 6f 77-ab 3c 31 5e c0 a4 53 81   ?...Grow.<1^..S.
-    0070 - 6a 1e db fa 3a 30 23 68-ac 0c d5 2d 2e 8a 68 f1   j...:0#h...-..h.
-    0080 - 37 b8 3d 14 e5 19 8c a1-82 6d 63 99 93 b4 dc ef   7.=......mc.....
-    0090 - 22 5c 2c 9f e3 03 7f d7-41 8c f7 55 d8 b6 bb 95   "\,.....A..U....
-    00a0 - df 92 88 d9 ad 90 7b 6a-3d 5f d4 ec 6c 35 dc 2a   ......{j=_..l5.*
+    0000 - 83 6e 63 1d 7d 95 1c 0e-08 cb ad 33 31 20 7e 0c   .nc.}......31 ~.
+    0010 - 81 08 77 48 64 62 b2 85-2a e2 35 d4 3f da 0a 44   ..wHdb..*.5.?..D
+    0020 - 3f 46 bb 5b 66 a0 dc 37-ff 3a 24 26 75 60 ec cc   ?F.[f..7.:$&u`..
+    0030 - c9 eb 85 10 9a 54 8b aa-10 1a 31 15 e2 51 19 cc   .....T....1..Q..
+    0040 - 54 4f d2 de 89 0f f1 20-3e b8 37 55 7a 54 cd fa   TO..... >.7UzT..
+    0050 - 7b 21 02 5d b5 3b 5c c0-c7 4c 3a a6 fd 90 9b fe   {!.].;\..L:.....
+    0060 - c3 f0 24 f1 1d 7d 4a 91-aa b4 04 8b fb 31 07 b8   ..$..}J......1..
+    0070 - 2a 5e 47 60 4c 7a 5c b9-46 27 0b 57 6d df f1 10   *^G`Lz\.F'.Wm...
+    0080 - b0 f3 8a 32 35 e0 d7 8c-a4 ce 23 10 4b 48 3d a8   ...25.....#.KH=.
+    0090 - 34 33 54 c5 7f 0f 53 c0-45 4f 74 23 3a fb fa f3   43T...S.EOt#:...
+    00a0 - 6a 2f e1 ab 27 55 b1 4d-2b 3b b9 8a 86 e6 17 27   j/..'U.M+;.....'
 
-    Start Time: 1472788575
-    Timeout   : 300 (sec)
+    Start Time: 1577475528
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

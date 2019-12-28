@@ -1,53 +1,61 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=New York/L=Albany/O=NYS Office for Technology/CN=origin-static-assets.ny.gov
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/C=US/ST=Massachusetts/L=Boston/O=Acquia Inc/OU=Acquia Hosting/CN=*.prod.acquia-sites.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFYTCCBEmgAwIBAgIQT7xVL6DxuedRD5zfakuDzzANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDkyODAwMDAwMFoX
-DTE3MDkyODIzNTk1OVowezELMAkGA1UEBhMCVVMxETAPBgNVBAgMCE5ldyBZb3Jr
-MQ8wDQYDVQQHDAZBbGJhbnkxIjAgBgNVBAoMGU5ZUyBPZmZpY2UgZm9yIFRlY2hu
-b2xvZ3kxJDAiBgNVBAMMG29yaWdpbi1zdGF0aWMtYXNzZXRzLm55LmdvdjCCASIw
-DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJT+BFJKPgKSHOvxet8Di+l6MRJF
-QT9a+q5tk6ocxh35j88TIhAW4Bthu/lf7eJkj9OIU5JYfw0bt70ZmG0KquDnOhKc
-LCxSzDE+1AklD5VvFlMY/yrbNRwJrvu5RG+K7Gsu5O70248CqrQcvJMH/AOg8iOZ
-vvPkmA9xJEDzezETsjdcFnF2Z4HHvH/cnpiatY3KkZY+j7cVkS3uRWWc/kZXWoGD
-Ha+NPIDfV/GdyIGS1IVDErNCNzdz1YM2JKnOvvjIwAwkMvZ9KPMLzTERX19Ram+U
-lLyedGFu20HbNKRPrKktXMLFd5hWjyW4BId3DUxbk5xLDjdUaTct/DNw7xcCAwEA
-AaOCAdwwggHYMIGRBgNVHREEgYkwgYaCG29yaWdpbi1zdGF0aWMtYXNzZXRzLm55
-LmdvdoIUc3RhdGljLWFzc2V0cy5ueS5nb3aCBk55LmdvdoIKd3d3Lm55LmdvdoIP
-Z292ZXJub3IubnkuZ292ghdhcmNoaXZlLmdvdmVybm9yLm55LmdvdoITd3d3Lmdv
-dmVybm9yLm55LmdvdjAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUE
-FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwYQYDVR0gBFowWDBWBgZngQwBAgIwTDAj
-BggrBgEFBQcCARYXaHR0cHM6Ly9kLnN5bWNiLmNvbS9jcHMwJQYIKwYBBQUHAgIw
-GRoXaHR0cHM6Ly9kLnN5bWNiLmNvbS9ycGEwHwYDVR0jBBgwFoAUX2DPYZBV34RD
-FIpgKrL1evRDGO8wKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL3NzLnN5bWNiLmNv
-bS9zcy5jcmwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vc3Mu
-c3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vc3Muc3ltY2IuY29tL3NzLmNy
-dDANBgkqhkiG9w0BAQsFAAOCAQEAocwYPrqiYqY7VMaJwTUBgp3ckqMSacXS/e2+
-aAswE9ATumKjpZ8IqJ8fZHYvA/A9r4QQ+XJ8oRwCnGzGJ8qUJpvAI5HFpcIL60au
-vBsigNeyFxG6QILbMPL1APw1H5t5dgr5IUZNF0m3aQxmhwMkiHawRsG/ZefRVYtc
-1vShPOvEMfLdbXk6X3rnQpZfU9d0+EldJ6T9fPnZjLfUY8KBNJzdUmBenzUTkhh9
-FT8mYkFG/nJ/pjG2uBR5KZirybg7HrdPyW3hkx7jq/i0ydK3Ob8kmlV9JI1nihLa
-ULZEsKevwmzkeMrSRY5PtTBesUK1yLRsJmDggpgjEhQNvb3jmA==
+MIIHDjCCBfagAwIBAgIQBqSYf5kwmIFhABhyWLiGjzANBgkqhkiG9w0BAQsFADBw
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xOTA2MTAwMDAwMDBaFw0yMDEwMTQxMjAwMDBa
+MIGGMQswCQYDVQQGEwJVUzEWMBQGA1UECBMNTWFzc2FjaHVzZXR0czEPMA0GA1UE
+BxMGQm9zdG9uMRMwEQYDVQQKEwpBY3F1aWEgSW5jMRcwFQYDVQQLEw5BY3F1aWEg
+SG9zdGluZzEgMB4GA1UEAwwXKi5wcm9kLmFjcXVpYS1zaXRlcy5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDyXLzTetV/rFrBTrrriUlUcPlROSqo
+bXxMBDd3WkcbuEko7FXAfEU2+aFhvdnmEBMi+v6j1dJabQ3ViniQ/YTmK9BXewq9
+YGQcbu7WqAHKcknfsOwNusUyDHdBtckPRzwfra1fNPD0yrLn8HNWmWwkSPFJr+rG
+ay8OEcfXqE92lUue45btgj1/bMtDJWBBx93K9S+2wlKxizhA0XXH4CklQRVYVi/3
+MPKouwCil4FE4QL9XyT996YkhB6A976n9OP3VFTdB8mwaxNtbTPIxMjJaIrDtYt2
+P2EUXVouXQwVIP4VYJKt8P5h9/Z0uNPzSkMtCe6qiuyGBZUU4e/pWcxXAgMBAAGj
+ggOLMIIDhzAfBgNVHSMEGDAWgBRRaP+QrwIHdTzM2WVkYqISuFlyOzAdBgNVHQ4E
+FgQUhKkNzBSWSS/zs3NEEv/G085gncEwOQYDVR0RBDIwMIIXKi5wcm9kLmFjcXVp
+YS1zaXRlcy5jb22CFXByb2QuYWNxdWlhLXNpdGVzLmNvbTAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAy
+oDCGLmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nNi5j
+cmwwNKAyoDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZl
+ci1nNi5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYc
+aHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwgYMGCCsGAQUF
+BwEBBHcwdTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tME0G
+CCsGAQUFBzAChkFodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRT
+SEEySGlnaEFzc3VyYW5jZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMIIBgAYK
+KwYBBAHWeQIEAgSCAXAEggFsAWoAdwCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jj
+d80OyA3cEAAAAWtDjkDDAAAEAwBIMEYCIQDwk4ln31QlHbcezLQ+r1rRCOOFlrZ4
+qzt11XWvCpXVCwIhAIE8YpDtM7dtVZOe8o91Uw5b9rZHCOBFSpdKxclpb/HeAHYA
+h3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFrQ45BdwAABAMARzBF
+AiBkU59ch95aaVAwk7d4mySXq6TS88zskZAkM/sy+jkhzQIhAI1FMQa2lyP+KZwd
+2PiT8uk2vBGvhbyxHh7vC2P1RJFmAHcAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIS
+hBh1loFxRVgAAAFrQ45ARgAABAMASDBGAiEAi5anXhHMQLD6q0X17x88s8zDDU8K
+MPm08NqCT/B+KLwCIQDjXGgwjX9n4WEhcG/zTuiCimGv1pnKWTlj08lhGTZPDjAN
+BgkqhkiG9w0BAQsFAAOCAQEAl0cqI7tjmvzhX75fqeF2xBaWjrT+uJLLbP4hVnG0
+usXliOX8wW4txrezst84XRK2Js6cQhWJ+RDiiqa8M4S3rD9AE3zLzqzvoqqukhi0
+XOYkEUKDWQei1HLz8vX/EHFeer49N61jHzyImVvYFm6ONw7zUL3KQZjvnrfnQt39
+yj3V2sgptPAU12HUQL4VgyD399bvrE/vWny4tkC4QOz20EBDk+UIwbgDwCylGvOe
+1zMzZd8xupkDVEpb3kATNp5dJAElDpMH3rdJ8s88Gymcd/6Q1aDnqI5Zce6T/MS5
+O2Z7YHHe0+8mPAFflaxwW5diSOj9r2ySrGWJwH842Y7HTg==
 -----END CERTIFICATE-----
-subject=/C=US/ST=New York/L=Albany/O=NYS Office for Technology/CN=origin-static-assets.ny.gov
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/C=US/ST=Massachusetts/L=Boston/O=Acquia Inc/OU=Acquia Hosting/CN=*.prod.acquia-sites.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4641 bytes and written 434 bytes
+SSL handshake has read 4660 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -58,28 +66,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 735B8309E8C25A208B7A6625F0CACB4C898EC59763F651B24E8E1CCD63DD815D
+    Session-ID: CF30BA0D993385EFA35F72BABCE5F416ECDED3A7164CC3A1AE0EEA5F21E112F9
     Session-ID-ctx: 
-    Master-Key: DD9B9E21ADB0C9932F70FEAE7E8C10BB6C30ABBC8E7E6EDB2807A160C90D7F49FA9DBE91E8BD02EF50658A907BC1FC6D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 4AD724A42FE94676DA4124C3FEA5D888ADBA5D89DD0061FCE00D0CE453E9BE0612E622BA4C6D19B763BAEFCECEB552E0
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - f1 b7 04 dc a6 af 94 a8-85 8e 24 b7 74 09 7e d3   ..........$.t.~.
-    0010 - fd 10 cc 29 f8 3d e5 d5-87 5e 1f 69 91 86 c0 5b   ...).=...^.i...[
-    0020 - 01 ba 90 af 80 3f 62 b0-af 52 ef 18 78 88 1f 0e   .....?b..R..x...
-    0030 - 1e 00 54 ec e0 4a c4 2b-81 2b e1 df a0 f7 51 65   ..T..J.+.+....Qe
-    0040 - c2 60 3d d2 3c a2 ec 99-a7 f1 59 17 f8 67 d6 f9   .`=.<.....Y..g..
-    0050 - ee 9b be 43 a0 b7 5a b7-e8 b1 90 83 68 54 4c 55   ...C..Z.....hTLU
-    0060 - 1b ee d1 5f 12 9e f1 76-2c 28 83 3f cf 27 a0 9c   ..._...v,(.?.'..
-    0070 - 1b 1a 91 13 99 69 fd 01-4f 7b c6 cf a4 85 51 eb   .....i..O{....Q.
-    0080 - 0b 72 23 cd 5d 0d c9 ce-bc a5 e7 10 14 56 c3 34   .r#.]........V.4
-    0090 - 65 d4 5c e5 e4 8d 9c 27-7f 7c 12 47 23 05 51 2b   e.\....'.|.G#.Q+
-    00a0 - 82 13 d7 90 fe 8e 4f 9a-41 df e6 8f 3c c8 a6 5e   ......O.A...<..^
+    0000 - 28 07 7f 97 f2 19 71 04-e3 ec d2 52 b5 30 45 b0   (.....q....R.0E.
+    0010 - 25 1a e0 ca 7d 8b 59 7c-7a 1b 82 21 53 0b a8 d9   %...}.Y|z..!S...
+    0020 - 93 3e e7 18 98 5b b2 c4-3e fa b5 2f 8e 5a c9 de   .>...[..>../.Z..
+    0030 - c9 03 29 2c 74 60 8e a8-4b eb 3b 03 e1 9d e8 12   ..),t`..K.;.....
+    0040 - 5a c2 4d d6 0f e4 60 15-46 32 ec f3 bc 9a 43 2e   Z.M...`.F2....C.
+    0050 - 3d 42 56 f9 a8 38 4f c9-30 d3 52 ad d4 14 ba 66   =BV..8O.0.R....f
+    0060 - 57 69 4f a8 3c e6 d9 22-31 a0 37 db 0e e0 9a e1   WiO.<.."1.7.....
+    0070 - 29 9a 4b 41 3d 48 58 85-30 dd 03 72 d4 bc 06 74   ).KA=HX.0..r...t
+    0080 - ba b8 d4 0c 80 db db 53-81 a6 de 20 e3 9e cb 70   .......S... ...p
+    0090 - 17 16 de 53 cf bd cf 50-0e ce 05 e7 73 f5 46 32   ...S...P....s.F2
+    00a0 - c0 ef da e5 63 52 97 5c-ce 08 2a dd e5 57 f3 07   ....cR.\..*..W..
 
-    Start Time: 1472790488
-    Timeout   : 300 (sec)
+    Start Time: 1577475890
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

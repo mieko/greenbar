@@ -1,80 +1,23 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
-Certificate chain
- 0 s:/OU=Domain Control Validated/CN=*.soundcloud.com
-   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
- 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
-   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
----
-Server certificate
------BEGIN CERTIFICATE-----
-MIIE/jCCA+agAwIBAgISESHCb+r/819O0qEF6ITKH3hkMA0GCSqGSIb3DQEBCwUA
-MGAxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTYwNAYD
-VQQDEy1HbG9iYWxTaWduIERvbWFpbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
-RzIwHhcNMTYwMjEwMTAxOTI1WhcNMTgwNTA5MTAwODQ4WjA+MSEwHwYDVQQLExhE
-b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxGTAXBgNVBAMMECouc291bmRjbG91ZC5j
-b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDMjYw8PMx3/lQpNaJI
-ewJDgjGDp+gTFmuvIKjwsmiGvlyFozjbGVT3Aa7k8UhRe0EpjI0IOr6ATjQkNjZt
-2LJzBrsLLoT+dNJsoIUN2Q7ZsrYZEnhZq1xYj5xUcipnhjFV21lAKYhRdoCea92S
-Ekf4CZLb2uT1xljBe0ZLqYYKIRNhRn3XVCCWEFyYUYI3oM4pA4dl3fwrFC46WciE
-1Yc1T8ot7z2Ucrgrr+7pRSJQ+f5SUg6lCFl1H9tO4HNYdczDObXQ4A8iDEYv90V+
-zRV9dULJi5Aq9St3SV6AVWUTZfVknuHVpXU3GR051/SlWj4nsfBqGvSk72EksvBQ
-+5EZAgMBAAGjggHSMIIBzjAOBgNVHQ8BAf8EBAMCBaAwSQYDVR0gBEIwQDA+BgZn
-gQwBAgEwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20v
-cmVwb3NpdG9yeS8wKwYDVR0RBCQwIoIQKi5zb3VuZGNsb3VkLmNvbYIOc291bmRj
-bG91ZC5jb20wCQYDVR0TBAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
-AwIwQwYDVR0fBDwwOjA4oDagNIYyaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9n
-cy9nc2RvbWFpbnZhbHNoYTJnMi5jcmwwgZQGCCsGAQUFBwEBBIGHMIGEMEcGCCsG
-AQUFBzAChjtodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc2Rv
-bWFpbnZhbHNoYTJnMnIxLmNydDA5BggrBgEFBQcwAYYtaHR0cDovL29jc3AyLmds
-b2JhbHNpZ24uY29tL2dzZG9tYWludmFsc2hhMmcyMB0GA1UdDgQWBBTsKmv+hul1
-hWZOpRL7VTT7ghervjAfBgNVHSMEGDAWgBTqTnzUgC3lFYGGJoyCbcCYpM+XDzAN
-BgkqhkiG9w0BAQsFAAOCAQEAAM51rGQ8Dn15yKjgzMz7h0VF+Sd0hqg8W2PMT8hl
-uY9oQkOHzPkWCsFzIUO1eAOktvvUY3Up9WQ2iBF/BzqCmpRLQyyzQovWVbJJH07p
-wjOngORjdu5OcMEj/P7F2/u4rhl2mqXo7CnzeFBhSm09ULQnTrPQ7QFuCFTZCJ/z
-69laHES0UVucQHVimYNuBo+dN+6VyyxRl5l2a/NCdCgbNwd4v+mCMzyKeS2+zSWU
-gllfBdd+FRoGcCP7FmNAIO4qhvqgDQ6P/SYYhPayyrI8VBq33tqsSN8QsYzBPoDo
-233PL+KGrrkyJDFApSHm+H6Zd0Xgbaj9g4LWk74av2J7dw==
------END CERTIFICATE-----
-subject=/OU=Domain Control Validated/CN=*.soundcloud.com
-issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+no peer certificate available
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3071 bytes and written 434 bytes
+SSL handshake has read 7 bytes and written 0 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Server public key is 2048 bit
-Secure Renegotiation IS supported
+New, (NONE), Cipher is (NONE)
+Secure Renegotiation IS NOT supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 8889BA3D773C75F97989294B7E0757E2C3905407E1246BA9B1ED14A4EAA6B3D2
+    Cipher    : 0000
+    Session-ID: 
     Session-ID-ctx: 
-    Master-Key: A4F9D71B7ED92DBEBC319E9285680CA46FD0DFE90F445F181634E981E7A3A4A9A262F2D3065867F555190FC4CE1B0B0D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
-    TLS session ticket:
-    0000 - 49 ef 6f 00 26 22 ca 4d-ef fe 4f ac 75 55 46 2a   I.o.&".M..O.uUF*
-    0010 - 0e 68 92 a3 ca 4e db d0-56 ba 78 fb 2b ae 51 c4   .h...N..V.x.+.Q.
-    0020 - 3f de 43 5b 07 9a 77 27-e7 fc 79 f0 f4 39 e8 34   ?.C[..w'..y..9.4
-    0030 - 57 79 67 fc 9e e6 c3 8d-86 80 cd 7e dd b6 35 1c   Wyg........~..5.
-    0040 - 46 94 a9 36 f0 93 53 cd-b3 66 df 38 ba 66 83 4d   F..6..S..f.8.f.M
-    0050 - 15 e9 77 e2 58 0a 3b 9e-06 65 92 fc 8d 30 cb 96   ..w.X.;..e...0..
-    0060 - cc 0b f0 42 dc f1 89 a4-67 23 2f 31 78 65 1e 3a   ...B....g#/1xe.:
-    0070 - d9 c2 47 f9 9d 3b c8 88-6f bb f4 c5 8b fb 71 b9   ..G..;..o.....q.
-    0080 - 00 b1 a5 e0 d2 f1 63 d7-bb 80 48 e4 1f 43 26 d8   ......c...H..C&.
-    0090 - e2 75 93 f9 5e 70 89 2c-72 08 99 88 31 aa 19 c1   .u..^p.,r...1...
-
-    Start Time: 1472787977
-    Timeout   : 300 (sec)
+    Master-Key: 
+    Start Time: 1577474838
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

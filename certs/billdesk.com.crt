@@ -1,67 +1,76 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=IN/ST=Maharashtra/L=Mumbai/O=IndiaIdeas.com Limited/OU=IT/CN=www.billdesk.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 0 s:/C=IN/ST=Maharashtra/L=Mumbai/O=Indiaideas.com Limited/CN=www.billdesk.com
+   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
+ 1 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
+   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
+ 2 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
+   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE+jCCA+KgAwIBAgIQC+NMWZRIY9C4UUivgEWchzANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDMwOTAwMDAwMFoX
-DTE3MDUwNzIzNTk1OVowfTELMAkGA1UEBhMCSU4xFDASBgNVBAgTC01haGFyYXNo
-dHJhMQ8wDQYDVQQHFAZNdW1iYWkxHzAdBgNVBAoUFkluZGlhSWRlYXMuY29tIExp
-bWl0ZWQxCzAJBgNVBAsUAklUMRkwFwYDVQQDFBB3d3cuYmlsbGRlc2suY29tMIIB
-IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhox3/WIqF1wab2HfKpRtxTU3
-3igxZmbc0HlTjYFSjGEzJV37GW1pvzAJH3tfW4oR9XFhqnnljbNjEvPU5jStVYqW
-boloZy0AqYCL9dW1JhfrTkkdtiRPSB5yLyfDqbKvxqd13/a2BBrVC97Thco1hM7Z
-SypZVcAkT0LWY10qFK1mOdAY58PlEZBK2HFHq4gwX22WH5IZypM7nOoSUqvu2Ju7
-sxthFnDQeiPGZ5yDf3n13U6qZ47z1GNwCtHJivTvpOCR6g4IgQBn0SZAmUWdUme/
-iW5AaT+JkOpcbVhhBG5oawJRXeHENT8OfLHydcXUfyEjX4W99h5cV/LN1f9OOwID
-AQABo4IBczCCAW8wKQYDVR0RBCIwIIIQd3d3LmJpbGxkZXNrLmNvbYIMYmlsbGRl
-c2suY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMGEGA1UdIARaMFgwVgYG
-Z4EMAQICMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1jYi5jb20vY3BzMCUG
-CCsGAQUFBwICMBkMF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBhMCsGA1UdHwQkMCIw
-IKAeoByGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3JsMB0GA1UdJQQWMBQGCCsG
-AQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBRfYM9hkFXfhEMUimAqsvV69EMY
-7zBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9zcy5zeW1jZC5j
-b20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3J0MA0GCSqG
-SIb3DQEBCwUAA4IBAQAoJM38qimP4QGZsbazyRb5sThos2ssuDHGLqWc4BnO6Hno
-FHloCKVsZcDqXGc0SLXNcd+eZK9BdY8T1MmhRVonrcgSDdYjsJwZdhbnjhBr5uun
-unB1dm17+1VYxHyb93lMIUG/U/EBAC8jpQ0NKpubDmZjPWzbhzwd4HOKv45hZW89
-Gf5apbMgtCGk757fRN8xi+3lwBwnyj7FYVkdHFLG93hwa7WOViqdYZM/YHvb3U5g
-E2L6Dy7YIM1amiuJ3brtpwF0zveGTGyG6VCmWYvuwEjT1yE/exjQKUEPm06s0X9H
-WzZPQpMnQ7z8wI207RAY7y3aTOpdEFNrmO1SKlhY
+MIIHRTCCBi2gAwIBAgIRAOoeD+/CQNlQAAAAAFDxjJYwDQYJKoZIhvcNAQELBQAw
+gboxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1FbnRydXN0LCBJbmMuMSgwJgYDVQQL
+Ex9TZWUgd3d3LmVudHJ1c3QubmV0L2xlZ2FsLXRlcm1zMTkwNwYDVQQLEzAoYykg
+MjAxMiBFbnRydXN0LCBJbmMuIC0gZm9yIGF1dGhvcml6ZWQgdXNlIG9ubHkxLjAs
+BgNVBAMTJUVudHJ1c3QgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkgLSBMMUswHhcN
+MTkwNTEzMDYzNzUxWhcNMjEwNTEzMDcwNzUwWjBwMQswCQYDVQQGEwJJTjEUMBIG
+A1UECBMLTWFoYXJhc2h0cmExDzANBgNVBAcTBk11bWJhaTEfMB0GA1UEChMWSW5k
+aWFpZGVhcy5jb20gTGltaXRlZDEZMBcGA1UEAxMQd3d3LmJpbGxkZXNrLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALrYj/6NwjDoDrG3KnudrhlQ
+O2UYcgNbl/OSaUJ2lZoWP2a0O/WxXp3hDLGIZek5Y9kdoezfnKx2zmyvZOH5fNlz
+B2k5+9xbvFKqKfgFABwau1c0hwT61Hfhw5TucxHpL3wg/gNwERcqYy/NabFhyv8o
+F8zOr+3VWXUpH5a083Pb/e1LPGh11DYXbgRaVWKRJYtlqjg6tKglvPQFuPzTMInM
+6UXKeQNFHQLQamdoVlUl1/oxdJY/TxQE9XZj30q2pwJE6QXgx2CSsFAYvRr9HwkO
+ByxaF50VPyliiUTXwf18PMEsNvs1khJZBzzTsVNYcJ57tokwsWzwTJPfnaU5g3EC
+AwEAAaOCA40wggOJMCkGA1UdEQQiMCCCEHd3dy5iaWxsZGVzay5jb22CDGJpbGxk
+ZXNrLmNvbTCCAfQGCisGAQQB1nkCBAIEggHkBIIB4AHeAHYAVYHUwhaQNgFK6gub
+VzxT8MDkOHhwJQgXL6OqHQcT0wwAAAFqsAToVgAABAMARzBFAiA4hMZx3i6UblY7
+vu23Lu2Q3nJrxMJduaYq1BQr4kEdUAIhAJruZXsq85hE5a8ph0gdaofkziRUP8bL
+SvceFrUL1cVrAHUARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAFq
+sAToWAAABAMARjBEAiBUP9amcpK3ymQ+em6aD1BNAI5/h3AuTycgH6n6iijghwIg
+cZJLnmPtxyfSknW2AEQWKNbnLh39WE5/q/Urk7RVs0gAdQCHdb/nWXz4jEOZX73z
+bv9WjUdWNv9KtWDBtOr/XqCDDwAAAWqwBOlIAAAEAwBGMEQCIDSVHjA4yuADihp6
+cYVZg/csrCTfVBetDtWcFV8iXa3cAiBMAO6tMEKb4jP1lx/1ci8fymFUlCsXl34O
+omx6/wXTuwB2ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABarAE
+6E0AAAQDAEcwRQIgGOSHQQDKtHxmWvo97ZV8EzkOnnd34fkODZ0DmaC57tUCIQDj
+pis2WFfwnDNDWZqGIqepPUdHqfYP22mGHi+76mdexzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDMGA1UdHwQsMCowKKAmoCSG
+Imh0dHA6Ly9jcmwuZW50cnVzdC5uZXQvbGV2ZWwxay5jcmwwSwYDVR0gBEQwQjA2
+BgpghkgBhvpsCgEFMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly93d3cuZW50cnVzdC5u
+ZXQvcnBhMAgGBmeBDAECAjBoBggrBgEFBQcBAQRcMFowIwYIKwYBBQUHMAGGF2h0
+dHA6Ly9vY3NwLmVudHJ1c3QubmV0MDMGCCsGAQUFBzAChidodHRwOi8vYWlhLmVu
+dHJ1c3QubmV0L2wxay1jaGFpbjI1Ni5jZXIwHwYDVR0jBBgwFoAUgqJwdN28Uz/P
+e9T3zX+nYMYKTL8wHQYDVR0OBBYEFJmm01+TjbSotR1uoBy2qT+BG7znMAkGA1Ud
+EwQCMAAwDQYJKoZIhvcNAQELBQADggEBAIagrqqjWMSrtgrjWQfPYJkT0KByMPPW
+ON5fExAffSlvozrRRrs0JCDVDDVR+qPgaTonVXwQbKft4fK6iLNK+vUwdjSiE6Vl
+XRtJtXq5YG9lFT8IGpR60Inexxyv+V9UVqBjeiDxTxHtKzsw96GcFvPY+D/FQlrQ
+5cYzrX93vkj2v/MikZsIgL7/sHojJYKvXRypuZOjz5VKK3V2enZkvvxfutZJ0KhL
+iP9RcghwTxa8h7WNlWD0nw4jcTFXnKtAkfWdJk/ryqJ2FBguIjKoYBRpbofvOhQd
+ZfHmyvBtLi39PMsvJhci4vlQUYQeLmNv4W+BcmRlSY07tcGwHY75jrs=
 -----END CERTIFICATE-----
-subject=/C=IN/ST=Maharashtra/L=Mumbai/O=IndiaIdeas.com Limited/OU=IT/CN=www.billdesk.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/C=IN/ST=Maharashtra/L=Mumbai/O=Indiaideas.com Limited/CN=www.billdesk.com
+issuer=/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4006 bytes and written 618 bytes
+SSL handshake has read 4764 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is RC4-MD5
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
-Secure Renegotiation IS NOT supported
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : RC4-MD5
-    Session-ID: CDA055C2CC244629E2E491271C53C3732BC37CB0E85D021048000491992210E0
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1BC6661587964F14E9E53642644960ABC033933B124298B83477DA7CDBCB5F2F
     Session-ID-ctx: 
-    Master-Key: AAC3398AB2CB90E34162395EEB87BFE07F94718910111E50314BB81F3461D917CF98C1F7AFB03236293D7A37854D6B7B
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788257
-    Timeout   : 300 (sec)
+    Master-Key: A7F4D5C543A6D5144751F5228BDD5A0C9EA72EF263A0531ED360C557BD9C0B9F3ADAB0AC79CCB2C58EBEA2E29DEBC8D7
+    Start Time: 1577475224
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

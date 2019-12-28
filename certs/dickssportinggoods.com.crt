@@ -1,51 +1,61 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/OU=1719288940/OU=See www.geotrust.com/resources/cps (c)14/OU=Domain Control Validated - QuickSSL(R) Premium/CN=www.dickssportinggoods.com
-   i:/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G4
- 1 s:/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G4
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+ 0 s:/C=US/postalCode=15108/ST=Pennsylvania/L=Coraopolis/street=345 Court Street/O=Dick's Sporting Goods, Inc./OU=IT/OU=Enterprise SSL Pro Wildcard/CN=*.dickssportinggoods.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFCzCCA/OgAwIBAgIDAUpvMA0GCSqGSIb3DQEBCwUAMGYxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMR0wGwYDVQQLExREb21haW4gVmFsaWRh
-dGVkIFNTTDEgMB4GA1UEAxMXR2VvVHJ1c3QgRFYgU1NMIENBIC0gRzQwHhcNMTUw
-NTEwMDI1MTQ1WhcNMTgwODA4MTE1OTUzWjCBpjETMBEGA1UECxMKMTcxOTI4ODk0
-MDExMC8GA1UECxMoU2VlIHd3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL2NwcyAo
-YykxNDE3MDUGA1UECxMuRG9tYWluIENvbnRyb2wgVmFsaWRhdGVkIC0gUXVpY2tT
-U0woUikgUHJlbWl1bTEjMCEGA1UEAxMad3d3LmRpY2tzc3BvcnRpbmdnb29kcy5j
-b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC8TcXO2au6fTdRvyD+
-QARc1WpY70lc4zdcZhIL8iF6GjHXnciM+WVtFjS6gA2YAa6UgYsYwRJf2AQAav8f
-86Q38mcBYQQo9NlCURW+Z+VumYgg1H159nWeMKdEARmJI4rPXmQBCOKvGhe3/dwP
-bJOA9fk0ifwHhtPR+HKbo4BIBqXwXmDfKoSPmAi5ZetlvSVbZt5l+NREaTHtFI9m
-rtFNIw4WyigGcR6kzrXDW5/xvN6yGH1miAQffyks0iFxFMWiya5HPyxIJG4xZMqZ
-m/WkqNs/3LyG8J1o70RCeH5bpN7LRxwaWfDIZSzzNffiFDhe2qTQBEwjVoQ1kBov
-UfN/AgMBAAGjggF/MIIBezAfBgNVHSMEGDAWgBQLUOx37yqb/+wDoQr/rcbkKhjH
-PjBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9ndS5zeW1jZC5j
-b20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9ndS5zeW1jYi5jb20vZ3UuY3J0MA4GA1Ud
-DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwPQYDVR0R
-BDYwNIIad3d3LmRpY2tzc3BvcnRpbmdnb29kcy5jb22CFmRpY2tzc3BvcnRpbmdn
-b29kcy5jb20wKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2d1LnN5bWNiLmNvbS9n
-dS5jcmwwDAYDVR0TAQH/BAIwADBWBgNVHSAETzBNMEsGBmeBDAECATBBMD8GCCsG
-AQUFBwIBFjNodHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9z
-aXRvcnkvbGVnYWwwDQYJKoZIhvcNAQELBQADggEBAG5Jqp5MHGDmPPwy2JGY4JS7
-7zhJizRZmR58psB6peXif8YLQHOvG0w1hsEzEm7+cCMo0gHSJaLhMYIVGqXagJJx
-0IIMOEe6cybYZlKC/vPRF7O+5sQH5/Qc0/K6aASsOD3UbpfI3tyTeSmxjk7NFAZQ
-lKVm0ptS/XUxoWm5l6wAIMP0EpKKk5Jdhx9gl84dWm3WPEVj8oSYJepJAllVGISq
-fxaKJ7OKn50bjcui37NHXkGJ7M86ovP0KxpvW+yknx/duZrCnJhU9V90YjKy+zXa
-gc8SykUlknKJCvzlEHlWpJXnzsizrjDC6IiQM9URW8lwTagG2cGOx6q7EZAXqDQ=
+MIIG/TCCBeWgAwIBAgIQQqdet0P1NE7P6zD4/svOrTANBgkqhkiG9w0BAQsFADCB
+lTELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMT0wOwYDVQQD
+EzRTZWN0aWdvIFJTQSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTZWN1cmUgU2Vy
+dmVyIENBMB4XDTE5MDkyNzAwMDAwMFoXDTIwMDkxNzIzNTk1OVowgeAxCzAJBgNV
+BAYTAlVTMQ4wDAYDVQQREwUxNTEwODEVMBMGA1UECBMMUGVubnN5bHZhbmlhMRMw
+EQYDVQQHEwpDb3Jhb3BvbGlzMRkwFwYDVQQJExAzNDUgQ291cnQgU3RyZWV0MSQw
+IgYDVQQKExtEaWNrJ3MgU3BvcnRpbmcgR29vZHMsIEluYy4xCzAJBgNVBAsTAklU
+MSQwIgYDVQQLExtFbnRlcnByaXNlIFNTTCBQcm8gV2lsZGNhcmQxITAfBgNVBAMM
+GCouZGlja3NzcG9ydGluZ2dvb2RzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAIuOxAwdycHHeCViS8oaI2VqGeyrVxfPRpPl0+53sGQ+uTqTOyZg
+wqC/HXF9V5ESPDbsgOj9pWjM0p6cfxOqP57IXGD0o5S4FoqV801EnsUx5UIrSsL3
+FItf26r3JyRjU/U1qM/7NiPOQmkLSA9kEK8Q4VSzg4SyT7ZumtcNvrDmL/MkjCJN
+NVRAD3TQCc2i7UwTLZrh3e10RjXLxJsj6VM94VpCEixRIQ4sPR98rkIiUsiHZ4D7
+T+ie3O6JQLPRk/fhWnmRhIgDjr2tRXn3k8S/9fK3rO2zsicZN8L4CvB3/wqwwkVz
++u0UzPNSltWdSDOu+YIsR0tbPfW0LCzJJ8UCAwEAAaOCAvowggL2MB8GA1UdIwQY
+MBaAFBfZ1iUnZ/kxwklD2TA2RIxsqU/rMB0GA1UdDgQWBBR31cIpvyoGXcPNVsOe
+RQhkj9UnCTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwSgYDVR0gBEMwQTA1BgwrBgEEAbIxAQIBAwQw
+JTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIC
+MFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuc2VjdGlnby5jb20vU2VjdGln
+b1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcmwwgYoG
+CCsGAQUFBwEBBH4wfDBVBggrBgEFBQcwAoZJaHR0cDovL2NydC5zZWN0aWdvLmNv
+bS9TZWN0aWdvUlNBT3JnYW5pemF0aW9uVmFsaWRhdGlvblNlY3VyZVNlcnZlckNB
+LmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wOwYDVR0R
+BDQwMoIYKi5kaWNrc3Nwb3J0aW5nZ29vZHMuY29tghZkaWNrc3Nwb3J0aW5nZ29v
+ZHMuY29tMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAsh4FzIuizYogTodm+Su5
+iiUgZ2va+nDnsklTLe+LkF4AAAFtc3wRiwAABAMARzBFAiEA0mmMzVwaYBQ+4be3
+1GS35dfWI+pgYEn+rJFqGgVvTcwCID2uK25YC5UPQBH4igvhic0GgjPYGjfNS+Su
+G7wVlNlWAHUAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVgAAAFtc3wR
+qAAABAMARjBEAiAgFl75FMiCw/b5lNiWPcIN8MYj8seoS4XTtelFUbdKoQIgGqdM
+cDxv8kHwgK2W8v2evpWo5CEduTEDi0FZtxbR2eowDQYJKoZIhvcNAQELBQADggEB
+ABGv1VM/rS8t2mtxFekk4ZEnpnLMZbGo8QxJIOqaoeNVxZ4vNGGOKFSws9tY9n+x
+ULkq7BaaomDxHoPVhKr0ivOQsBfnx+4Xb0qKVmlcD5D/a2eyEwkieMiyrziDb8/E
+++CR6jrl1Y7IV/owTwI+q/lE0lNzGEd42Ze6+8wgn8LrOk3yaEZ9K9Jmw/dyaW7O
+eV2dYD8w3JxCS6kw+WxVWGEjzGY4+roE1a/DHb/AZhTHedpFQlgQYIpUQNrv9SDB
+D748gVxR8Id2YgYYm/bjNI/AvzAC1qhlcu3dh2w8zMpKbCm8eFyq7Cl1IJzZimbr
+mwaGv+I7L3jQZ5Fz+HPsKH4=
 -----END CERTIFICATE-----
-subject=/OU=1719288940/OU=See www.geotrust.com/resources/cps (c)14/OU=Domain Control Validated - QuickSSL(R) Premium/CN=www.dickssportinggoods.com
-issuer=/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G4
+subject=/C=US/postalCode=15108/ST=Pennsylvania/L=Coraopolis/street=345 Court Street/O=Dick's Sporting Goods, Inc./OU=IT/OU=Enterprise SSL Pro Wildcard/CN=*.dickssportinggoods.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
 ---
 No client certificate CA names sent
+Server Temp Key: DH, 1024 bits
 ---
-SSL handshake has read 3479 bytes and written 650 bytes
+SSL handshake has read 4054 bytes and written 386 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES128-SHA
+New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -53,15 +63,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES128-SHA
-    Session-ID: 7518C2744F66F96D424562A26F4FC46B187227C862DAF3F55DEC375C0928BDF2
+    Cipher    : DHE-RSA-AES256-GCM-SHA384
+    Session-ID: BAD0FC2B8E94F18EA29860C7F5DD98167821B4286EAEB78C2644721DC66DE827
     Session-ID-ctx: 
-    Master-Key: 5EA383871EACBB0F30C9D224A00F32B775A7ED8503BEC0D8BA19C10A3698B6B0A4DF17C13C9AD1BF501BFE32AD19F844
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472790478
-    Timeout   : 300 (sec)
+    Master-Key: 28B3F135803E91E957DEB7AF7A35095F3796AD3DD9976B05DC93F5E7AB664DE4DAB4A71BD5F6C0B9998C03A1DEBA7F69
+    Start Time: 1577475908
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

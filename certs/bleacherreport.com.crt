@@ -1,50 +1,76 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/L=San Francisco/ST=California/O=Bleacher Report, Inc./CN=*.bleacherreport.com
-   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
- 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 0 s:/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=n.ssl.fastly.net
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFNzCCBB+gAwIBAgIQDiC7ODPEDGh5rXE7VnvgnjANBgkqhkiG9w0BAQsFADBN
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTUwMTEzMDAwMDAwWhcN
-MTgwNDIzMTIwMDAwWjB5MQswCQYDVQQGEwJVUzEWMBQGA1UEBxMNU2FuIEZyYW5j
-aXNjbzETMBEGA1UECBMKQ2FsaWZvcm5pYTEeMBwGA1UEChMVQmxlYWNoZXIgUmVw
-b3J0LCBJbmMuMR0wGwYDVQQDDBQqLmJsZWFjaGVycmVwb3J0LmNvbTCCASIwDQYJ
-KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMaOxE17JjRtArhUKWF4K+FzE3IznD6Z
-S3s7uWchQoboNfwqovrEdMPUJPTh9IHy4tKDBlwfYEu/e+Gopo+1/2MF2naq8Pt+
-JYndV22wgWN4MTYO/KrceeX2hK7tntRe/k8w4S6kLYr/kYfSOlPEji+rsgTzGU4O
-lG5zPONQeiSP/z/XceBxtDMLUQb6nsmCDlmKPt3PXPNi7U4fNQXD1//c/npjfMHu
-eMak1U4aYQGRUW6/in9qpY0Gs7Xvxr34YGwAfpt9MZ0jWi38DytleWRvzVlDaK9q
-giSn5DyXv2DRxmsfXWQrFgScpKoVuvxq90SVbUp96i9Ciqs9mXID97UCAwEAAaOC
-AeUwggHhMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQW
-BBQHfchVtdAvh2x3UvuOpE07cvgX4jAzBgNVHREELDAqghQqLmJsZWFjaGVycmVw
-b3J0LmNvbYISYmxlYWNoZXJyZXBvcnQuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNV
-HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0
-cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nMy5jcmwwL6AtoCuGKWh0
-dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzMuY3JsMEIGA1UdIAQ7
-MDkwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2lj
-ZXJ0LmNvbS9DUFMwfAYIKwYBBQUHAQEEcDBuMCQGCCsGAQUFBzABhhhodHRwOi8v
-b2NzcC5kaWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRp
-Z2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQwDAYDVR0T
-AQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEALZYxsWMvrf4wmG3gj4qD9NL7hUl/
-pXVvhD03+xfrwWcECB03rMsgiHiu7SuFQEtAOuR89SJJtvzmxZaYbWBZe3tZupbF
-EmanV7XxZF/RdM26n/6ISnUHnvBO3A2zl1zNnD/h3XJjPn0riDm/X7mOnj3JbFrP
-i/eMp/W/5tm7hhptOU+hcL0pWP/hToihyprmpoAIZkZaP4b3npZdpR3HA4hT1Fxi
-edhi4WmMGbswj4NhHKA0ENHuX31KdDzhwtv+CNhVUJKRhR33rAZqesCFzDT6nykt
-KENCf/Y0bTC9+K3RBdH6zqjxq5QaGszmFYIHx5kM9a/8k3Z7FTboaPQEeA==
+MIIKJTCCCQ2gAwIBAgIMDimDJFbGkh/LMaliMA0GCSqGSIb3DQEBCwUAMFcxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMS0wKwYDVQQDEyRH
+bG9iYWxTaWduIENsb3VkU1NMIENBIC0gU0hBMjU2IC0gRzMwHhcNMTkxMTA3MjI1
+NzEwWhcNMjEwMzAzMTc0NDAzWjBsMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2Fs
+aWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzEVMBMGA1UECgwMRmFzdGx5
+LCBJbmMuMRkwFwYDVQQDDBBuLnNzbC5mYXN0bHkubmV0MIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA3CrjluacNC+t+7djrR/Yip//RauzR/8e/emiPqNI
+pg+svdE1/k7SsB//9BClXa1nVj2qGglxDW5jczOZPmIt/Nf1otEGSq1zmqLRvt8Z
+JY5xEtKd8Gz7wRh5GUN2upYi5ZRdoVyGMGeGkuwIjfgyWVHIuaG7cGUtEAme55mn
+2GRvfIpB+rbKbSEj02HJeUHpMkE7FHpG7NU3ipsXelZjhyESa84llw8+1V0Qq+3k
+VlvGBT4nn5kTY0Cffbw/6X85TLcIqE2LqUKfNCrBpX0K6diqIlDbmgzCGY80wiFq
+s6FoTeXPOB0ikHl+JThL/UU3jItyp/z793eikr4SV1IjYwIDAQABo4IG2jCCBtYw
+DgYDVR0PAQH/BAQDAgWgMIGKBggrBgEFBQcBAQR+MHwwQgYIKwYBBQUHMAKGNmh0
+dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2Nsb3Vkc3Nsc2hhMmcz
+LmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2Ns
+b3Vkc3Nsc2hhMmczMFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYIKwYBBQUH
+AgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeB
+DAECAjAJBgNVHRMEAjAAMIID8QYDVR0RBIID6DCCA+SCEG4uc3NsLmZhc3RseS5u
+ZXSCFSouMWJsZWFjaGVycmVwb3J0LmNvbYIUKi5hbnl3aGVyZWJlbGl6ZS5jb22C
+FyouYW55d2hlcmVjb3N0YXJpY2EuY29tghIqLmFueXdoZXJlY3ViYS5jb22CFSou
+YW55d2hlcmVlY3VhZG9yLmNvbYIXKi5hbnl3aGVyZWd1YXRlbWFsYS5jb22CFCou
+YW55d2hlcmVwYW5hbWEuY29tghIqLmFueXdoZXJlcGVydS5jb22CDyouYXBpLmFw
+cGJveS5ldYILKi5hcHBib3kuZXWCDiouYmFuZGNhbXAuY29tggwqLmJjYml0cy5j
+b22CECouYmV0dGVydGVhbS5jb22CFCouYmxlYWNoZXJyZXBvcnQuY29tghQqLmJs
+ZWFjaGVycmVwb3J0Lm5ldIIKKi5jc2lzLm9yZ4IeKi5nbG9iYWxpbm5vdmF0aW9u
+ZXhjaGFuZ2Uub3Jngg8qLmlkZWFsaXN0YS5jb22CDiouaWRlYWxpc3RhLml0gg4q
+LmlkZWFsaXN0YS5wdIIfKi5rYXRob2xpZWtvbmRlcndpanMudmxhYW5kZXJlboIL
+Ki5saW51eC5jb22CFSoubGludXhmb3VuZGF0aW9uLm9yZ4IJKi5sc3N0Lmlvgg0q
+LnBoaGhvdG8uY29tgg8qLnIyOXN0YXRpYy5jb22CECoucm9iYnJlcG9ydC5jb22C
+ESoudGFnZGVsaXZlcnkuY29tghMqLnZvbHRhdGhsZXRpY3MuY29tghMxYmxlYWNo
+ZXJyZXBvcnQuY29tggc5dngub3JnghxhY2NlcHRhbmNlLmdyZWF0Ymlnc3Rvcnku
+Y29tghFhcGkuYnV0dGVyY21zLmNvbYIVYXBpLmdyZWF0Ymlnc3RvcnkuY29tghdi
+YW5rLWRldi5iYW5rc2ltcGxlLmNvbYIOYmV0dGVydGVhbS5jb22CEmJsZWFjaGVy
+cmVwb3J0LmNvbYIPY2RuLmJ1bmNoYm94LmNvghVjZG4ucHJpY2VzZWdtZW50cy5j
+b22CDWNkbi5zZWFtbHkuaW+CCGNzaXMub3JngglsaW51eC5jb22CDm1hcnNib3Rh
+cHAuY29tggtwaGhob3RvLmNvbYIOcm9iYnJlcG9ydC5jb22CGHN0YWdpbmcuc2Vl
+a2luZ2FscGhhLmNvbYILd3d3Ljl2eC5vcmeCEXd3dy5kcmF2ZXRlY2guY29tghV3
+d3cuZ3JlYXRiaWdzdG9yeS5jb22CE3d3dy5tZWRpY2FsamFuZS5jb22CGXd3dy5v
+YXNpc2RlbnRhbGNhcmUuY28udWswHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMB8GA1UdIwQYMBaAFKkrh+HOJEc7G7/PhTcCVZ0NlFjmMB0GA1UdDgQWBBR0
+6H0bpiKhg5p3qQn9S9WlXQa+sjCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHUA
+u9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFuSBYFKgAABAMARjBE
+AiAtmdg4PIWpJi7D6nK7XToio7+Q9mspkanfXy60UMqfAQIgZyWxIzproKXymEiN
+OLuBkvW7xzvbDUaqT06rT49o8OEAdwBc3EOS/uarRUSxXprUVuYQN/vV+kfcoXOU
+sl7m9scOygAAAW5IFgenAAAEAwBIMEYCIQC0kppsl9k6SXK06njrRl2HY+d3sNP1
+1pDm+W7FDt1CggIhAIRh1FyENdXjSNN8j4HVzzbW4XmH3rOgJ0CyeYguNNGUAHYA
+7sCV7o1yZA+S48O5G8cSo2lqCXtLahoUOOZHssvtxfkAAAFuSBYICAAABAMARzBF
+AiEAhowchulZxCBT86+zfH+alI7oEVqvktvxDEbOC99bd9kCIFkcyf+NGoKBie2y
+idevZt2Wf3JYTvsnAf5GQ5Q/c8ucMA0GCSqGSIb3DQEBCwUAA4IBAQBwNrRCG7fS
+mWbaEmdTObj1B+nScPcS2jHCord/IWMf9I/nq+CKiVXU9+lu894QjXFjszgjEzVn
+A01Apt3di31NoZeInr5ZGvcqS/msnzol13lEg0U9RFKofdl0L02rzjxtP/1XYIGr
+s8i697sHHaIGB6OlbJHakyMRae8lyb+IXP2RpVH0kZjWVzSeqBjNDBxypg/Ve+QU
+lwbAzq3zFCqB9Sey0w7CRK8s7brAa724IzWgoJ6XAIk/zHQXSTrov67XeXrmpHzS
+0wAPCHWPAzp8FWV2jgcGteGtlKaoSWiH6qiMJctT/W05k27tPkIkKGIjIg6NlN28
+/xeFUWhxeMgI
 -----END CERTIFICATE-----
-subject=/C=US/L=San Francisco/ST=California/O=Bleacher Report, Inc./CN=*.bleacherreport.com
-issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+subject=/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=n.ssl.fastly.net
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3172 bytes and written 434 bytes
+SSL handshake has read 4392 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -55,27 +81,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 1225AD50F9FB0C829D3D216B0C408DAD43F26C1E27A1CEEC65E10BEE19945683
+    Session-ID: 625E78EA2F003200EB4054268B78A0ECDDEA201B2ABCB66986DC8DC8BA1BE115
     Session-ID-ctx: 
-    Master-Key: 888B3A6C5B37B88685E73B66599CB82D95A214D550E2C651971E01CF41C6563DA39EA899BBD0B605556CB29A9D90ACD0
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: B4F94175089F3145A0FE65134308803CE60742CA4485E094CA09E8836B0BDA4B8B2E99E50FFC34C3C69CA3C500760F23
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 9d 45 33 df b5 56 7c 2b-d1 5c 28 f9 22 97 25 6d   .E3..V|+.\(.".%m
-    0010 - 52 53 4a c6 16 bc 52 e1-c1 21 1b b3 ab 5a 00 d3   RSJ...R..!...Z..
-    0020 - fc 57 5d 7c d6 50 05 79-a1 4c d3 7f e5 86 8e dd   .W]|.P.y.L......
-    0030 - 64 93 9d 59 01 c8 0c a9-53 67 a9 84 ec db 3f 0e   d..Y....Sg....?.
-    0040 - 71 cd 75 92 e0 c7 77 7f-50 c0 9a 9a 34 e4 d0 b8   q.u...w.P...4...
-    0050 - a9 29 74 a0 06 13 6b 2f-be 76 c4 a4 ce d0 16 26   .)t...k/.v.....&
-    0060 - bb 59 f6 f2 49 5a a0 82-d2 a6 90 5d 87 ea ae de   .Y..IZ.....]....
-    0070 - 11 e7 bb 15 15 24 8c 5d-c7 38 9c ba 4b f7 1a 5e   .....$.].8..K..^
-    0080 - 69 ad 6b f9 a2 df bf ef-a7 ba 9c e3 dd c6 31 86   i.k...........1.
-    0090 - 3c 48 b1 40 3d 06 5a bd-9c b0 7f 16 f8 f1 d6 69   <H.@=.Z........i
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - 9c 4d d4 db 53 30 b7 1e-af 25 14 0e e3 93 fd 4a   .M..S0...%.....J
+    0020 - e3 74 32 df 85 49 c8 c4-de ff 47 fd 7d 77 2f df   .t2..I....G.}w/.
+    0030 - 07 b1 4d d7 dd ad 05 15-6e 97 7d 1a a0 0b 87 8a   ..M.....n.}.....
+    0040 - 82 a4 52 07 75 c1 e0 a6-64 a7 93 23 76 30 c8 8c   ..R.u...d..#v0..
+    0050 - 4b 91 fb 7e 1d 62 72 09-b1 ce ec ca bd 8a 71 b5   K..~.br.......q.
+    0060 - 00 9f 62 6f 36 c1 b2 0f-93 27 b0 b5 59 60 f7 ea   ..bo6....'..Y`..
+    0070 - 1a 0e e2 33 e7 ed e1 f7-8f 34 55 d8 1f 1d d5 25   ...3.....4U....%
+    0080 - 89 fd 1d 60 91 2a 4c 32-58 22 75 13 bd e9 32 5c   ...`.*L2X"u...2\
+    0090 - 53 b0 9c 34 e5 6b 42 a9-49 6a fe 7d 2d 04 55 79   S..4.kB.Ij.}-.Uy
 
-    Start Time: 1472788698
-    Timeout   : 300 (sec)
+    Start Time: 1577475582
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

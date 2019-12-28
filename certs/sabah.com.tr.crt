@@ -1,63 +1,70 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/jurisdictionC=KR/businessCategory=Private Organization/serialNumber=110111-1981649/C=KR/ST=Seoul/L=Gangnam Gu/O=CDNETWORKS CO., LTD./OU=Product Management/CN=sgssl.cdngc.net
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 0 s:/OU=Domain Control Validated/CN=www.sabah.com.tr
+   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+ 1 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+ 2 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+   i:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+ 3 s:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+   i:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIG1DCCBbygAwIBAgIQHdbEYa0Rl9RdFaz/H79L2jANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTUwOTE3MDAwMDAwWhcNMTcwOTE2
-MjM1OTU5WjCB1TETMBEGCysGAQQBgjc8AgEDEwJLUjEdMBsGA1UEDxMUUHJpdmF0
-ZSBPcmdhbml6YXRpb24xFzAVBgNVBAUTDjExMDExMS0xOTgxNjQ5MQswCQYDVQQG
-EwJLUjEOMAwGA1UECAwFU2VvdWwxEzARBgNVBAcMCkdhbmduYW0gR3UxHTAbBgNV
-BAoMFENETkVUV09SS1MgQ08uLCBMVEQuMRswGQYDVQQLDBJQcm9kdWN0IE1hbmFn
-ZW1lbnQxGDAWBgNVBAMMD3Nnc3NsLmNkbmdjLm5ldDCCASIwDQYJKoZIhvcNAQEB
-BQADggEPADCCAQoCggEBALyTb6Irc4QNngEQXyrvIL/7tV2NATWQESiWa3EfdilR
-I6Hl+7Qz9HawMlH4DDf4p4Q4/0gmMyF/5WYD6jexb5oDnzpLw/RHHVfxms+PBrro
-CkvZLc56s+GyReLp+dJ3WHdlU1i1fk+9l5+PCJmj7apWWSrAVJKX9mJNcbfkUDoV
-IR68GCxl1C2k9aFa69I8RWgEKhTWXPzs01ffbTrY8TXcB0kvc0osilJSDXsqFqxa
-E3wfVmwOsobxZfwPcQU428pKR9qnqCmJhGq46ievnmy7JJIMsR2Nj0Sa6A832D93
-LChNCy1hC3ZAB/W77lXF5U3BvJKc8PidShM7swomhLkCAwEAAaOCAvswggL3MCsG
-A1UdEQQkMCKCD2Nuc3NsLmNkbmdjLm5ldIIPc2dzc2wuY2RuZ2MubmV0MAkGA1Ud
-EwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9z
-ci5zeW1jYi5jb20vc3IuY3JsMGYGA1UdIARfMF0wWwYLYIZIAYb4RQEHFwYwTDAj
-BggrBgEFBQcCARYXaHR0cHM6Ly9kLnN5bWNiLmNvbS9jcHMwJQYIKwYBBQUHAgIw
-GQwXaHR0cHM6Ly9kLnN5bWNiLmNvbS9ycGEwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
-CCsGAQUFBwMCMB8GA1UdIwQYMBaAFAFZq+fdOgtZpmRj1s8gB1fVkedqMFcGCCsG
-AQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3NyLnN5bWNkLmNvbTAmBggr
-BgEFBQcwAoYaaHR0cDovL3NyLnN5bWNiLmNvbS9zci5jcnQwggF9BgorBgEEAdZ5
-AgQCBIIBbQSCAWkBZwB2AN3rHSt6DU+mIIuBrYFocH4ujp0B1VyIjT0RxM227L7M
-AAABT9kDE1YAAAQDAEcwRQIhAIqzkgoyr1hZ9ShgJmjBHBPrIJ2qdA9kTDfutSlh
-PCkwAiBHgOzjX/JpMc4q3DyCAOPKT1tEl4oEGjpGJ0s3p+PrugB2AKS5CZC0GFgU
-h7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABT9kDE5QAAAQDAEcwRQIgWid/Esvd
-IM6PIpHZCMipcr18dji5acxaeCDWZNhTlSoCIQChDhAeITrDIFCyha8gGt2QZlQY
-B4ormgGpo6DD/AdvmgB1AGj2mPgfZIK+OozuuSgdTPxxUV1nk9RE0QpnrLtPT/vE
-AAABT9kDE5MAAAQDAEYwRAIgFz2BEbdU4cmOUyDVA/u7om8vSDaM6hqcGnwxhsLo
-3K0CIG6DHd40hCKhynW85PXJKdH7Z/8xjLKUZWBSz/ZTrx5HMA0GCSqGSIb3DQEB
-CwUAA4IBAQA7Mbg97Gj4bKd7vbeSnbtgjvRpf90g6+eE4fICY/7HE6Mqozml3VlN
-qfc9UWYGyNQFxfcZwtOzf/w6jDuX/mTKLAfDYV8DpxZlVBRBILYwxpluoFaADHk7
-WeQYt5chDygHMNbCU2ZNLOKcnHNE0Q8xm+4PrYa4EqI5ZpzGU9LXEHSHCuS9+J9K
-+4HH2idFQds4SE4MmGRlIsxxRfrkQ7kix4JcQtPibgCE9TmfU0DTVfwwsjoCsANd
-pzZv7jPCW4pTiOffiu1GoQv3MRMbCr1GGb9rWzUc269pvNQjFtmJMt+2R4rjZhrB
-DCLHc66pwsKzncFOvvd1xOs82cbSqglG
+MIIH+TCCBuGgAwIBAgIJAKWiUaW9C9iFMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTE5MDMyODE0NTI1N1oX
+DTIxMDUwNDE2NDYwMlowPjEhMB8GA1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRh
+dGVkMRkwFwYDVQQDExB3d3cuc2FiYWguY29tLnRyMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAlk0NRkp6gsnV+GbGpO1BB3uU14e7ui+lcRKEFxEDGuDi
+jCXruLY8hKPQyfa4W8E5ARR/bl/I1MkgS5gU+5xh9E0cXiFZwNHkWwBqEqHR4OLb
+HWWZRhQOnoyWY6+F3Mdva9ACqwSa2kwFRrzPc/idEDyqYvtf3AzB62W8mF5rxM4Z
+d6qVoHwh3aw52lG5wyHXoe5NJdIXZdzvwU2iKJEs9I0mzd6bXo8U/atB0s1ws6Vk
+9C0o2NRI9ZJykAG0F7FZrnxYKqy7mPsL8ZlKyMK+VsvMvIlUaJ1agGQzU2b0ygCd
+iyBTX2OYHQ0VVrlQV2w0GAsJJW+NlhxmrXOhe4PogwIDAQABo4IEgTCCBH0wDAYD
+VR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDgYDVR0P
+AQH/BAQDAgWgMDgGA1UdHwQxMC8wLaAroCmGJ2h0dHA6Ly9jcmwuZ29kYWRkeS5j
+b20vZ2RpZzJzMS0xMDE4LmNybDBdBgNVHSAEVjBUMEgGC2CGSAGG/W0BBxcBMDkw
+NwYIKwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRkeS5jb20vcmVw
+b3NpdG9yeS8wCAYGZ4EMAQIBMHYGCCsGAQUFBwEBBGowaDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuZ29kYWRkeS5jb20vMEAGCCsGAQUFBzAChjRodHRwOi8vY2Vy
+dGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvZ2RpZzIuY3J0MB8GA1Ud
+IwQYMBaAFEDCvSeOzDSDMKIz1/tss/C0LIDOMIIBaQYDVR0RBIIBYDCCAVyCEHd3
+dy5zYWJhaC5jb20udHKCDHNhYmFoLmNvbS50coISd3d3LmZvdG9tYWMuY29tLnRy
+gg1haGFiZXIuY29tLnRygg5mb3RvbWFjLmNvbS50coIRd3d3LmFoYWJlci5jb20u
+dHKCD20uYWhhYmVyLmNvbS50coIQbS5kYWlseXNhYmFoLmNvbYIRd3d3LnRha3Zp
+bS5jb20udHKCEnd3dy5kYWlseXNhYmFoLmNvbYIKYXR2LmNvbS50coIQbS5mb3Rv
+bWFjLmNvbS50coIObS5hc3Bvci5jb20udHKCDXRha3ZpbS5jb20udHKCDG0uYXR2
+LmNvbS50coIObS5zYWJhaC5jb20udHKCEHd3dy5hc3Bvci5jb20udHKCD20udGFr
+dmltLmNvbS50coIOZGFpbHlzYWJhaC5jb22CDGFzcG9yLmNvbS50coIOd3d3LmF0
+di5jb20udHIwHQYDVR0OBBYEFK1O9HOQDc+nXxoxFOYiMun1sanaMIIBfgYKKwYB
+BAHWeQIEAgSCAW4EggFqAWgAdgCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80O
+yA3cEAAAAWnEyi8YAAAEAwBHMEUCIGtsRJOjloYSQqoFGmzSph0eDt1T4G7ureUt
+jE5uoZpUAiEAutiXjfUQPYcJQsSxsSUxaIhaKjGfmI7G+WDLlNfvLOQAdgDuS723
+dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9ywAAAWnEyjTyAAAEAwBHMEUCIQD0
+gBNwaZ8VXlMYvtWSHz0dltaH+bb1gDdo81xJDAtTLQIgZO37S95jwpTb1TjBwF0J
+aTB6SVWkCbddcHFF/eamf1MAdgBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOW
+tbaBqAAAAWnEyjnkAAAEAwBHMEUCICB/m6MxD661urid7n0MRW+z+vcm42W20aG4
+neXUMXqhAiEAk9kitE0CURRspFNBshLegiRhlTMnR2TktaMmnXSLSHAwDQYJKoZI
+hvcNAQELBQADggEBACeUbm3RQXFhmuMISt36gaxNF8XfRk+iW+k6sb3qQ/cgAz4p
+0ChS7nu0AEiEVEXafRF7JUMe8/sh7YseJW8Tsr6adQIhw3lc+7CpPoe8cGUKkap5
+UBixh3q8yU1mxluNl9tY1JRHdxMscW77GJd5LHww/6YzvM7YJFYZDvZaAYihz1no
+oWRVhzJV7GLgMbOEQk8mMA2BFAKg3rQkvNCGdj5o1fEKkOLASp7I6oJn92G0U+43
+9Ki93I+wGrDblrsIbmsZpMKlZ19q4ad5crN5F966GtqERNkzeXHMylT6/GvE9Neq
+8Fd1rU4aOfjAfcRhzqnPHKzmGiOnTxgfHxtvhNI=
 -----END CERTIFICATE-----
-subject=/jurisdictionC=KR/businessCategory=Private Organization/serialNumber=110111-1981649/C=KR/ST=Seoul/L=Gangnam Gu/O=CDNETWORKS CO., LTD./OU=Product Management/CN=sgssl.cdngc.net
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/OU=Domain Control Validated/CN=www.sabah.com.tr
+issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, P-384, 384 bits
 ---
-SSL handshake has read 4861 bytes and written 490 bytes
+SSL handshake has read 6010 bytes and written 354 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -65,15 +72,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-SHA384
-    Session-ID: 57C8F6B05C1683FE020FD769A81271A198AA6454BA503CD43B0A7A20ECAEFD22
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 4A4902E25CB0C8BD3739A5D2F1EC0B7A2F673A8E68BFFAED03FDE1F8A5DB8198
     Session-ID-ctx: 
-    Master-Key: 3FC298F0D987D6720C8B0916309F10CE26BFEC58B3345ACF372DFFCE7295E95E3BDBDB93772E39465F172D0AD9E7B5CE
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788143
-    Timeout   : 300 (sec)
+    Master-Key: 548F1085590828D4AEDB4F85E91219D28532B852017B997AD20BF8AD38E9534C0B0D10284E2607FB873F45B5F2BB4E8C
+    Start Time: 1577475266
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

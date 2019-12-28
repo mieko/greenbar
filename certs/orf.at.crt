@@ -1,7 +1,7 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=AT/L=Wien/O=\xD6sterreichischer Rundfunk/OU=IT/CN=*.orf.at
+ 0 s:/C=AT/ST=Vienna/L=Vienna/O=Oesterreichischer Rundfunk/CN=*.orf.at
    i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
  1 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
    i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
@@ -10,74 +10,71 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFHzCCBAegAwIBAgIEUNNRqjANBgkqhkiG9w0BAQsFADCBujELMAkGA1UEBhMC
-VVMxFjAUBgNVBAoTDUVudHJ1c3QsIEluYy4xKDAmBgNVBAsTH1NlZSB3d3cuZW50
-cnVzdC5uZXQvbGVnYWwtdGVybXMxOTA3BgNVBAsTMChjKSAyMDEyIEVudHJ1c3Qs
-IEluYy4gLSBmb3IgYXV0aG9yaXplZCB1c2Ugb25seTEuMCwGA1UEAxMlRW50cnVz
-dCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAtIEwxSzAeFw0xNTAyMTgxOTU2MDla
-Fw0xODAyMTkwMDQ1MjZaMGAxCzAJBgNVBAYTAkFUMQ0wCwYDVQQHEwRXaWVuMSIw
-IAYDVQQKFBnWc3RlcnJlaWNoaXNjaGVyIFJ1bmRmdW5rMQswCQYDVQQLEwJJVDER
-MA8GA1UEAxQIKi5vcmYuYXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
-AQDIvAddthGsQIV+s946iU8Xl7OIcQln7zTgpNDj22xsDxU4XFI921WFW+YpesvE
-tL+jRq2gplbbAuXOOl5RFiBawSyzvx2rkD3dRtFEVW2H3WNfyWuQ1I2NLnfcCroA
-Nt5dVRUeKMBQG+J9988fzvL9lKJb7otpMXv9PI+9R+HvLxZRvUT5TdYbI7f6BSCM
-mSc27qs7CVmPGo6OpjC9qcxefkuEwEINxSAy5rq7aFB2CQls1Ukx0oAXnJ1tCEef
-GAcvp+VTo1V0rhM8p91Gq1fhSCtBnxJIPRHQ815NOWzBQnrJ1TBZUNZlQjaZCd7o
-j1W3uKle3qkUwe7J33K5KtmzAgMBAAGjggGEMIIBgDALBgNVHQ8EBAMCBaAwHQYD
-VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDMGA1UdHwQsMCowKKAmoCSGImh0
-dHA6Ly9jcmwuZW50cnVzdC5uZXQvbGV2ZWwxay5jcmwwSwYDVR0gBEQwQjA2Bgpg
-hkgBhvpsCgEFMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly93d3cuZW50cnVzdC5uZXQv
-cnBhMAgGBmeBDAECAjBoBggrBgEFBQcBAQRcMFowIwYIKwYBBQUHMAGGF2h0dHA6
-Ly9vY3NwLmVudHJ1c3QubmV0MDMGCCsGAQUFBzAChidodHRwOi8vYWlhLmVudHJ1
-c3QubmV0L2wxay1jaGFpbjI1Ni5jZXIwGwYDVR0RBBQwEoIIKi5vcmYuYXSCBm9y
-Zi5hdDAfBgNVHSMEGDAWgBSConB03bxTP8971PfNf6dgxgpMvzAdBgNVHQ4EFgQU
-Gh1jr7jyKVZBGYquuvr4HMfOlzswCQYDVR0TBAIwADANBgkqhkiG9w0BAQsFAAOC
-AQEAzrYJpNa2Phc0VQoHPNDHUOz01h8JJ0iDl0at6o8CKZWBanP+oZkXoQu5ooFI
-B/+8R+gTmq5YLmjSG+1KL1CSZ3F3TDwVBR7EWl5exCJj3W6i2ZpeOVWzynoA9AfN
-2BeO/DRNYqcZXL9tClNGjgEINrqEVgNcCf+x768MZ6GFLvXqEcDf6MLnX3TBCnwL
-1CBNOiO8IkaOfIU9fcIvTk+xbgennOKIAiM3eFGlS3HnUSZymZ4H4C2pGSJoF27g
-qQv6I4U4Ey9oTxZjhbWFCQp9SyCoFwLLnvvmQn+UN+nWM5h4c6QhQrevu/UaGZO1
-4xD9mOtfWKGuDJQnXAXHTti4nA==
+MIIFNTCCBB2gAwIBAgIQYk+UY7o8JiEAAAAAUN9lIDANBgkqhkiG9w0BAQsFADCB
+ujELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUVudHJ1c3QsIEluYy4xKDAmBgNVBAsT
+H1NlZSB3d3cuZW50cnVzdC5uZXQvbGVnYWwtdGVybXMxOTA3BgNVBAsTMChjKSAy
+MDEyIEVudHJ1c3QsIEluYy4gLSBmb3IgYXV0aG9yaXplZCB1c2Ugb25seTEuMCwG
+A1UEAxMlRW50cnVzdCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAtIEwxSzAeFw0x
+NzEyMTMwODQ2MTRaFw0yMDAzMTIwOTE2MTNaMGcxCzAJBgNVBAYTAkFUMQ8wDQYD
+VQQIEwZWaWVubmExDzANBgNVBAcTBlZpZW5uYTEjMCEGA1UEChMaT2VzdGVycmVp
+Y2hpc2NoZXIgUnVuZGZ1bmsxETAPBgNVBAMMCCoub3JmLmF0MIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvHfoIEw1/epeKIpCtAoWe1NuaDK/5e6Dh+4b
+OOgOKT4N5YVF9i+t1NknlPKHofN0BeJGCsfLGJ09TvZZtQREUPpvQ54dI22E0Cub
+5W2rfWzsE8ZtAIMgReJxVDG1hniUflx1b7YjjFX+JHnUhv0VZp2MyDK7c5Y7StHD
+L7E/R3RnUSS5PfFWkQmQ1cDaYNSjolW0urvn60aIrIYxfvGqNyy8qmZLLM0YuAMr
+3UvRfpzVf3m8Va61GYTCbGiVtR1pb2fXRvfKw9Qn666nyVIpoy6s/CqnuVLEiACt
+Fb3TofI2LW7xyT97I+4jhMRuywMu6mzTTLQdltI01QGsxVTGjQIDAQABo4IBhzCC
+AYMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAzBgNVHR8ELDAqMCigJqAkhiJodHRwOi8vY3JsLmVudHJ1c3QubmV0L2xldmVs
+MWsuY3JsMEsGA1UdIAREMEIwNgYKYIZIAYb6bAoBBTAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vd3d3LmVudHJ1c3QubmV0L3JwYTAIBgZngQwBAgIwaAYIKwYBBQUHAQEE
+XDBaMCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5lbnRydXN0Lm5ldDAzBggrBgEF
+BQcwAoYnaHR0cDovL2FpYS5lbnRydXN0Lm5ldC9sMWstY2hhaW4yNTYuY2VyMBsG
+A1UdEQQUMBKCCCoub3JmLmF0ggZvcmYuYXQwHwYDVR0jBBgwFoAUgqJwdN28Uz/P
+e9T3zX+nYMYKTL8wHQYDVR0OBBYEFMYa/lOT6iEBZMucdlL9TXy2AvU6MAkGA1Ud
+EwQCMAAwDQYJKoZIhvcNAQELBQADggEBAGyLjvx8bj01FPTG8KaDbcjXheTh+svi
+E03HGUQGUnpuLxOVsvMljaHVC7Ys3mqJ1q51LyosT886AziMT/VzXdyO2y0IQJ2+
+0eKJ16RV0lLJE8I8DN+NaAs2/eDmnOSIu21Jzv+QpaUvB2SKocYmznuuTKLNqp2M
+i58LPMApdy5QCXtvqF4s3P789ymj3Tp/y+fujJ8syWjVi0COqjFbRo6CUduukFJh
+GBPC/j36TsiVidXlGh65eTxAlxSnf1NjGNOQC/raPWXw8Hyfa9VkaBGCw2PuTVHg
+Hp9J16dSf3+4XJAGEyGIoumbGm/Z7mXe9ziooAilAB1r3WfrD6AxQcA=
 -----END CERTIFICATE-----
-subject=/C=AT/L=Wien/O=\xD6sterreichischer Rundfunk/OU=IT/CN=*.orf.at
+subject=/C=AT/ST=Vienna/L=Vienna/O=Oesterreichischer Rundfunk/CN=*.orf.at
 issuer=/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
 ---
 No client certificate CA names sent
-Server Temp Key: DH, 1024 bits
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4780 bytes and written 506 bytes
+SSL handshake has read 4599 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES128-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : DHE-RSA-AES128-SHA
-    Session-ID: 078C077DA38F0D9B5A20892C442D561005C56B4F6F98CC864A1ED73517083986
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 773EF5F4C9B09BEE05262CFA5A1C88C12909894F4414404DA88FC962C0AFF8E2
     Session-ID-ctx: 
-    Master-Key: 0378BE11C722938F3ADABBD97CF2C3816EE028C32BEBFB9254B0F30E12C4A655A23FC85623CFBF94F6E1100CB2A0E1B4
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 0DBBE276DF4E36E730D9F440E9D0733AF63431383DE0D266AB077844C8B0F87A63C045E61ED8C480C56FC5E044B09FBA
+    TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 7d 24 45 7b a5 28 7a a2-d8 ad 8f ff 94 7f 47 dc   }$E{.(z.......G.
-    0010 - 6c 20 3e 3c a5 a8 17 b8-5f 65 e4 f6 21 20 14 da   l ><...._e..! ..
-    0020 - 9d bd 5e 66 04 19 8a 6d-be 5e c2 27 48 90 ad 23   ..^f...m.^.'H..#
-    0030 - af 01 c2 80 82 bc f0 64-2a 60 54 9e d1 97 f6 58   .......d*`T....X
-    0040 - 0a d9 15 1a 32 4a 87 08-a7 db b8 8d b5 59 b5 1c   ....2J.......Y..
-    0050 - 27 ac 6b f7 3d cb 1b ec-71 ee 2d 9c 39 8e d5 5b   '.k.=...q.-.9..[
-    0060 - b3 46 65 35 27 5a f3 eb-47 9a 80 9a 04 46 8d 87   .Fe5'Z..G....F..
-    0070 - 99 5a 53 76 f4 31 9b 66-ac 17 d5 1b 27 b2 cc a5   .ZSv.1.f....'...
-    0080 - cb e1 86 f1 6c f8 de b5-de ff f4 9a 07 f9 a0 89   ....l...........
-    0090 - b6 27 30 6e 6a 27 83 aa-db 5a 95 6e 7e 26 71 74   .'0nj'...Z.n~&qt
-    00a0 - 56 e9 60 0b e9 f3 e7 4d-33 2c d6 91 45 e6 0e 37   V.`....M3,..E..7
-    00b0 - 84 0f 02 c5 db 97 60 06-c8 3c 8d a4 25 ee bb cb   ......`..<..%...
+    0000 - 1e 68 ae cb 09 1f 0f 19-27 81 27 72 d5 c7 2f 07   .h......'.'r../.
+    0010 - 9f 51 24 81 73 08 02 6c-cf d5 6b 48 19 c8 af 5e   .Q$.s..l..kH...^
+    0020 - 00 22 32 33 2f cf 4b 1e-b5 16 16 0a 81 4a 13 b4   ."23/.K......J..
+    0030 - 8d 62 00 27 6c 1e 84 fc-23 30 38 82 6b 26 10 9b   .b.'l...#08.k&..
+    0040 - bd 3f 29 a5 fe 54 70 af-64 a2 3b cd c7 6b 04 dc   .?)..Tp.d.;..k..
+    0050 - 35 99 ba bf 3a 36 fe 0c-cb c8 58 48 f7 d3 33 6b   5...:6....XH..3k
+    0060 - dd e2 04 1f 96 1e 5f 42-7a ac df 90 dc 9b 59 72   ......_Bz.....Yr
+    0070 - cf c1 6a 71 48 49 40 6f-a6 02 ff 43 04 94 27 1f   ..jqHI@o...C..'.
+    0080 - f9 cd 94 34 c5 1e 61 15-ba f7 bf 4e 36 07 b0 7f   ...4..a....N6...
+    0090 - 89 71 42 80 21 36 48 e6-7a 5c ce 84 0a 1c 00 20   .qB.!6H.z\..... 
+    00a0 - f3 d7 24 a5 f2 a2 88 5e-47 b2 9f 13 2c b3 ec 84   ..$....^G...,...
+    00b0 - 59 2c 8b 12 fd ee 00 5f-cc c0 aa af 1c ee d6 57   Y,....._.......W
 
-    Start Time: 1472790247
-    Timeout   : 300 (sec)
+    Start Time: 1577475995
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

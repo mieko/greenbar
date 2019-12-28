@@ -1,52 +1,59 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/CN=*.whitepages.com
-   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
- 1 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
-   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+ 0 s:/C=US/ST=Washington/L=Seattle/O=Whitepages Inc/OU=Infrastructure/CN=*.whitepages.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFLDCCBBSgAwIBAgIHS2pQgrm//zANBgkqhkiG9w0BAQsFADCBtDELMAkGA1UE
-BhMCVVMxEDAOBgNVBAgTB0FyaXpvbmExEzARBgNVBAcTClNjb3R0c2RhbGUxGjAY
-BgNVBAoTEUdvRGFkZHkuY29tLCBJbmMuMS0wKwYDVQQLEyRodHRwOi8vY2VydHMu
-Z29kYWRkeS5jb20vcmVwb3NpdG9yeS8xMzAxBgNVBAMTKkdvIERhZGR5IFNlY3Vy
-ZSBDZXJ0aWZpY2F0ZSBBdXRob3JpdHkgLSBHMjAeFw0xNDA0MDgwMDE1MjRaFw0x
-OTA0MDgwMDE1MjRaMD4xITAfBgNVBAsTGERvbWFpbiBDb250cm9sIFZhbGlkYXRl
-ZDEZMBcGA1UEAwwQKi53aGl0ZXBhZ2VzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
-ggEPADCCAQoCggEBAOmtkdQrKuhU23m4kJOHe0dhu/RCeDMcN4+ob4m5g9rUlp86
-Q37Gsa8oHos1qfJqAp5bmF/KtYWYmIUGEhYJ5j/wMKjyIt4b7YI+aP1RjLgb2Ff6
-9TcT0RAo+MDAdOLZUz+uVm1K9hPKUifX+xhgugQjN2EQ7ucHFjTuR3W5Zf6ljwq2
-HnE+nqiU/wlez3dRq6xWqVCpR5E3P8TC2+Xxe6PGn77Q0LLTBOY8+he8BtDSyn7D
-vlQFifrAAZVZjv5G7x3UpivfGworEjQFyHAKsklTwL25GC7Bxfj2+boOAhQbAzDA
-ivsx1lBxawuFuNuHyhryfA0PlwL330LW+FIj1ycCAwEAAaOCAbYwggGyMA8GA1Ud
-EwEB/wQFMAMBAQAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMA4GA1Ud
-DwEB/wQEAwIFoDA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vY3JsLmdvZGFkZHku
-Y29tL2dkaWcyczEtMzcuY3JsMFMGA1UdIARMMEowSAYLYIZIAYb9bQEHFwEwOTA3
-BggrBgEFBQcCARYraHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBv
-c2l0b3J5LzB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw
-LmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0aHR0cDovL2NlcnRpZmljYXRlcy5n
-b2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNydDAfBgNVHSMEGDAWgBRAwr0n
-jsw0gzCiM9f7bLPwtCyAzjArBgNVHREEJDAighAqLndoaXRlcGFnZXMuY29tgg53
-aGl0ZXBhZ2VzLmNvbTAdBgNVHQ4EFgQU4yoDIhqf/5QSkAITPQsoPFihgeUwDQYJ
-KoZIhvcNAQELBQADggEBAKfCRPI/I83eJeSDbdRSm0jMFN1jhykpPcvVk3CYSNI/
-p+nRioyE1IC4kXYIyZLfHtd3DNdnHAst2Lbp+xM4u8yvGC95oiB7JlFULhQqdW6d
-WzA8K51XwkAbKjBMmDqReCgARWunntqErwSBem20zHMAsZdYcroukM4XtyMTvSB0
-w2b5FrE+3OZ3MPENw+CycPxUFnhOualSTK4r9fBFeXK0bubFjne2aI8cLplygLg3
-rCTsVo9VMoj1oatw9rtm5aArR49CGNRAmWwHbd/ZQWAzuK4q9bdawY3XJU392SSV
-2PMrYTdSirbEIg9/JUWlRsHSklas4S/oo36CW1LScGk=
+MIIGkjCCBXqgAwIBAgIQCcfJC4toZrmg9bySXKtUPDANBgkqhkiG9w0BAQsFADBc
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMRswGQYDVQQDExJUaGF3dGUgUlNBIENBIDIwMTgwHhcN
+MTgwMzMwMDAwMDAwWhcNMjAwMzI5MTIwMDAwWjCBgTELMAkGA1UEBhMCVVMxEzAR
+BgNVBAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1NlYXR0bGUxFzAVBgNVBAoTDldo
+aXRlcGFnZXMgSW5jMRcwFQYDVQQLEw5JbmZyYXN0cnVjdHVyZTEZMBcGA1UEAwwQ
+Ki53aGl0ZXBhZ2VzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AMYq6kHAMj6RknhXWvmjtyudbjQbLaQRzZV/aXAAu5XFK4bvPKQsWv+2jymFR9Li
+FKznd2Ghbn/VL0NQii1A1FBLjJkqe9jtV3idR1okyGhCIFAiyfs5jBHrba3vdWCd
+ZTeHQTop8lppBce/kCgr1OjCZQJumn4372BsT6gZL3jbqqLb6rSv+TbqvvvQZnzf
+etvAmmzS5U0CPckzYLyYWFEHSiHiG8V35EgE2XQJ2aD4B5xWzrl+2EuSH67oCUWg
+pYT2mNSRXVl3gnPM4MY6Iw/5FG4GQqovjyJhiXTGsluYV48DYCTpwOuCxkYnZ+a/
+1UnCF32oZGRsgF02i6dIpTsCAwEAAaOCAygwggMkMB8GA1UdIwQYMBaAFKPIXmVU
+5TB4wQXqBwpqWcy5/t5aMB0GA1UdDgQWBBRymnMhW4QJI9Q3d/bwyOqogY9RjjAr
+BgNVHREEJDAighAqLndoaXRlcGFnZXMuY29tgg53aGl0ZXBhZ2VzLmNvbTAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDoGA1Ud
+HwQzMDEwL6AtoCuGKWh0dHA6Ly9jZHAudGhhd3RlLmNvbS9UaGF3dGVSU0FDQTIw
+MTguY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0
+dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMG8GCCsGAQUFBwEB
+BGMwYTAkBggrBgEFBQcwAYYYaHR0cDovL3N0YXR1cy50aGF3dGUuY29tMDkGCCsG
+AQUFBzAChi1odHRwOi8vY2FjZXJ0cy50aGF3dGUuY29tL1RoYXd0ZVJTQUNBMjAx
+OC5jcnQwCQYDVR0TBAIwADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHYApLkJ
+kLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFid/cGKAAABAMARzBFAiAO
+gPtcjWzd7QXKywijQWBksDICswEzsiVEnDzjVjR5kQIhAOD0b40UY4DAMqw5CQVv
+7PSoDt/IqO7phrqQRHaEvs/WAHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2y
+CJo32RMAAAFid/cHlwAABAMASDBGAiEAv8klVkxFj/EcKGJh/NaHJDl9dzK2MAgN
+xoh/YQBe30kCIQDDAq6W9x6uPsyc4t4ebwS4C8ufirXCeHZ/ypvAUrRT3wB1ALvZ
+37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABYnf3Bx0AAAQDAEYwRAIg
+Z9uEJJlbfQYnhN5T+Akc2qV9mZlweVZurBj9lhQiq7UCIGe0icxhvBdmUUt8udfR
+8Gl0htRrRaImZxQXQI3U0SkWMA0GCSqGSIb3DQEBCwUAA4IBAQAWJ5mWrMZiZ9Bj
+VhNfeWrYNnleq8fnoFbWr0UBRgd30Z7xOOCWUwLKfBGoShxb6T0ceYc6sxE/I1T+
+yTndf9B8s6tACrXaisftahQ/7bXTtdUMUqmVyegNG1IbNRNT1uGdsq4Asu0CV9oe
+VXH+jsTsdVuv/DK9KmM2dOLAqeOSFbHk83SMeNuaF5SJKK1aEM6P8Cvzqrs9ZLvn
+UHJuy8DLYxMmoRAPjfbgjvgJeVc1FO/613S+kgehaMw1AbY4i+AUCQ6XpOTuISEP
+6jAVf8fV/wM9L+ieduIwyCYjJgCk9Vn/1PMsoQRMvC/IKrKicuDiViUM0+ZK+5i8
++GgiMyOz
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/CN=*.whitepages.com
-issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+subject=/C=US/ST=Washington/L=Seattle/O=Whitepages Inc/OU=Infrastructure/CN=*.whitepages.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3242 bytes and written 434 bytes
+SSL handshake has read 3524 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -54,29 +61,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 68A0CDEE569E01E51777A08289D2D8685660FB60F1C84FE3628C746F0E9F7CE6
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: D2FAD056434F9A4A1B12496DAE6EF30D1A23619C0DA423AC4550DA04D91F783C
     Session-ID-ctx: 
-    Master-Key: 44D9A7A834C3C7CCF8D93D230D613F38306D1FE396FC1B66FBA457C8319FCBF15C7E08E9EE6F86468D3C38C31364C585
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 1800 (seconds)
+    Master-Key: F988A230F67A71288FAD1BFCF44D1F3265A2EC5D0653489CA9285B488E60D6405B382B13223BF2E2AE2B904DE0CF8F0E
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - 28 10 6d 79 6d 8a 97 aa-98 60 0c 4b 03 2d 16 3f   (.mym....`.K.-.?
-    0010 - a9 b4 ba cc 3c 24 12 b4-b7 a5 5d 13 c1 11 dd 80   ....<$....].....
-    0020 - 89 0a 7f e4 fd 7e 14 c2-a9 93 d9 05 b4 94 9e 14   .....~..........
-    0030 - b8 34 75 13 49 52 75 65-be 6d a9 9d 3f 64 e0 28   .4u.IRue.m..?d.(
-    0040 - 68 90 35 9b 0d 8a 0c 61-57 28 24 c4 df b8 0a 03   h.5....aW($.....
-    0050 - f3 af 6d d5 2f b1 5a 73-a8 24 64 7b b0 3f ee d0   ..m./.Zs.$d{.?..
-    0060 - f0 a7 5e de 53 87 bd 4b-3c 23 f9 10 db ab d8 c5   ..^.S..K<#......
-    0070 - 1f d7 04 bc 76 e7 e6 76-60 a2 4d ab 18 51 4f 50   ....v..v`.M..QOP
-    0080 - ad 2a a3 f5 12 be d8 dd-68 6a 33 7a 42 f6 28 0c   .*......hj3zB.(.
-    0090 - 5a 6d c2 a3 6f c1 47 e4-81 a1 7b b6 b9 63 9c f6   Zm..o.G...{..c..
-    00a0 - 99 b2 89 8d 76 d7 28 59-f0 6e 4a 56 21 0d bd d2   ....v.(Y.nJV!...
+    0000 - 46 ef f3 58 f8 b5 a8 b4-b3 60 ac aa 8c 8f 6d d1   F..X.....`....m.
+    0010 - 53 6a f3 b0 30 b8 25 8e-fe d7 fa 98 da d1 7c ac   Sj..0.%.......|.
+    0020 - 36 0a 49 54 b1 f1 f7 a5-4c 94 a4 69 49 f0 b5 ec   6.IT....L..iI...
+    0030 - 0a 72 49 65 66 7b 05 58-72 4b 13 6e 76 fd 6e 42   .rIef{.XrK.nv.nB
+    0040 - 25 46 3d 09 29 62 e0 86-4d 6f 7b 3c 1c 9d 3d fb   %F=.)b..Mo{<..=.
+    0050 - 05 cd cd 31 6e e3 1a 34-c1 01 42 8a 2a 42 81 47   ...1n..4..B.*B.G
+    0060 - ba 5d a5 89 ee 58 09 f9-d7 5d cf 3b 7d e1 30 c1   .]...X...].;}.0.
+    0070 - a1 e0 95 b2 5b dc f8 53-46 65 55 08 8b 72 d7 43   ....[..SFeU..r.C
+    0080 - 9f 97 46 2d 66 c3 9e 49-e3 0b bc 0a 2b 8a 9c 07   ..F-f..I....+...
+    0090 - 55 d7 b3 04 5a 29 2f c5-b4 cf 50 39 6e 74 1e 57   U...Z)/...P9nt.W
+    00a0 - 95 2f f6 3c eb 77 4a b1-37 5f 0a 6d e3 35 8d 70   ./.<.wJ.7_.m.5.p
 
-    Start Time: 1472789399
-    Timeout   : 300 (sec)
+    Start Time: 1577476031
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

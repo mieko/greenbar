@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=3dfetishtube.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFbzCCBFegAwIBAgISA74wWnQTLjon7uhknaEEni85MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMjYxODU1MTlaFw0y
+MDAxMjQxODU1MTlaMBsxGTAXBgNVBAMTEDNkZmV0aXNodHViZS5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDBKETSDkTpPcFhHXwRVCpXuq0E4PYI
+mMxKVtHVpODCm72rgqGi+xdtBaMWyE4UXn24iV4qQCBVJxnZu8lDilECwUbdFpzV
+irfOl/XrKEdjER742Ps72T6vGPQ3u8AzMO+mSWf+CNe7OClVxilhp95UX2vzlkrK
+f+s693vVUPF44IYeTllNSn9EtTDFHYLdrIxVMA/JXeRV1JN5G8DnDrX+2DbDpfMf
+FO1R63ZaG8rm6os6Us1yetWZ3NOitfcu8kIfO8+TcQKgC4UZolaOh8LcZT8GnmX9
+zf1fVP1/riDfcEVIjGm6Pw5VcqhcvR6aHUBXwO5q81rzp3FFZXyGBppPAgMBAAGj
+ggJ8MIICeDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFLleQ2bn7aSG5IvvnEeFKQ/8
+t97nMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wMQYDVR0RBCowKIIQM2RmZXRpc2h0dWJlLmNvbYIUd3d3LjNkZmV0aXNo
+dHViZS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAm
+BggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEE
+AdZ5AgQCBIH2BIHzAPEAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZ
+EwAAAW4Joy+YAAAEAwBHMEUCIQDA11gPltqA50yWa32qrijXL4x2a/dTem8aV20D
+nhVnqAIgHv6sUNEpig0AdaMsTlR7n2ZzQ98p9H7hogZYZnc9SIUAdwCyHgXMi6LN
+iiBOh2b5K7mKJSBna9r6cOeySVMt74uQXgAAAW4JozFfAAAEAwBIMEYCIQDzkaPk
+zoEsJBdkKuAwsFQeQvZHzsUrOyiH/Zma0fWXPgIhALp8kjrR2M6Hb8so1wuzDNjU
+JVr3kAL8oM+msUuATMXlMA0GCSqGSIb3DQEBCwUAA4IBAQBGQ8CnN+c6SjWxuMJ6
+BcTxq1hs466a56WX6xotMx3nXzHvfNf9Udot6XfpVoVqtL2/tdlqZi5828u/0dkc
+fc4D1kxCGHuxBbO8Org/7xyzcKdikLRjLeUDrR5vWoKE0UJqutRkeioEQqe7GV34
+FCRK7oL6g31v6WmlaXsNrOO1h0QZu+9XaW0sQaZJ67X+uN+KgMOn5JVyYr3A67sV
+/7aK/dvx0+rFHK2dvVZI+qQw9R+Cw9qoCppfquh/iS0ZRRw84vrNST6eVcQ18Bzp
+qW3DTzZJ1rSvifDkkOOkJQih5XKcjnjhDQQqyuS1/0vAj4HYOxgJP4AHF3ebTPEM
+9uio
+-----END CERTIFICATE-----
+subject=/CN=3dfetishtube.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3242 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 72AFACD762AAD8B84663A89382537EDCE37F7071326354D5C31D8DF9C911FE9C
+    Session-ID-ctx: 
+    Master-Key: 825570CA7272A0987DD8B22F69113390C2D37F9FEFF84A62FE41208FF1D14AC8BBF74E13864DC7A5A6D1FD5BFD5BD734
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 5f 6e 14 d0 1c 4a 8b d7-b1 cc 18 39 23 08 41 12   _n...J.....9#.A.
+    0010 - 5d 36 b7 ef 1a 41 e1 87-03 e0 bd 22 2d d8 eb 3f   ]6...A....."-..?
+    0020 - f7 8b c6 39 a1 6d 3a 48-e0 bc 28 f3 fe da eb 3a   ...9.m:H..(....:
+    0030 - 1f ed a9 41 8f de a0 c8-d0 89 e8 4c 64 34 02 84   ...A.......Ld4..
+    0040 - e5 f0 c7 57 2e 90 e4 27-95 46 43 f8 8a 14 63 24   ...W...'.FC...c$
+    0050 - 8b 05 32 e4 0e db 74 9c-3f 1d cb d4 b6 dd b3 bd   ..2...t.?.......
+    0060 - d2 60 ac 91 03 61 6e 85-1f c5 67 04 d8 1c a5 ce   .`...an...g.....
+    0070 - 6b 25 a8 96 85 a8 8e e9-72 0f 3e b9 55 8c a0 56   k%......r.>.U..V
+    0080 - 8f 21 3b 93 3f 4b 5b 4d-04 41 ca 62 a6 5a 35 21   .!;.?K[M.A.b.Z5!
+    0090 - 76 3f f6 6a 48 80 79 ff-95 12 bc 22 1a 8c e8 aa   v?.jH.y...."....
+    00a0 - 60 6e 80 b4 ad 06 4e e4-62 d9 2b 75 ae ef 9a d1   `n....N.b.+u....
+
+    Start Time: 1577475835
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

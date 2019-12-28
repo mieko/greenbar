@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=ashemaletube.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFazCCBFOgAwIBAgISA9U0jzO1c+puVjOy1K3nht9HMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMTAwMTI4MThaFw0y
+MDAzMDkwMTI4MThaMBsxGTAXBgNVBAMTEGFzaGVtYWxldHViZS5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC24PQ4dOpxj5u3NQLV587z2x0O+LD/
+G48dnc+e+vIDh8CUU/eQFn97eB4EQIcB4JSWwuVvmJLr2iQfvtmhHl4F1/PeWcrU
+WfU6JOxAP9SGpwn4hdFMBhEvH/136deVdELAEQWEvwfxm3ZHCcyStWm+wG+zaFdA
+G6ehtcOaNvOKzUzBmWODL2iVlv3rR5fmLqELmYOd2nmw7/UVJgQsOx02H0nDcdB/
+3ub14pckLmsUxIqKh068HsolDYXBGmgqjwZGovVcjpso5QC2peQMIQCmURufvmD7
+vXm7inOyVBx4sULHxbl0F5tIYKnOPzAmQzsEGhvXYxvyf5CWfG4qjBVdAgMBAAGj
+ggJ4MIICdDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFI7czrT+IijR9WJsvuCTqKid
+rbKPMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wLwYDVR0RBCgwJoISKi5hc2hlbWFsZXR1YmUuY29tghBhc2hlbWFsZXR1
+YmUuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHW
+eQIEAgSB9ASB8QDvAHYAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVgA
+AAFu7aLHZAAABAMARzBFAiEAkBUjRvDhFrXY+eWrqsXoKEtyekhmYkmZ2Nui2BQu
+0qICIB8qSf29HG1mWT1CbgioI5JnoFT5S7n5Im605fU0850PAHUAsh4FzIuizYog
+Todm+Su5iiUgZ2va+nDnsklTLe+LkF4AAAFu7aLHUwAABAMARjBEAiArEh1qwnKd
+50iw65+8B0zSchCIVENtu6cV0n1SVEf4ZgIgCj/UaqzG7PRapDh8LRFc4tQCmc1c
+9hoNaRimrm4vJGIwDQYJKoZIhvcNAQELBQADggEBAF0Wwx6uuaEmV6257Ts7w1Ad
+eLRNVh1WN2gAoUv5BkQtBRU67H07LIpBZiy7BmPLwub2KusDqTcBflG/3az5FS1c
+6K5B6G+qCQs19FDcwG4xYUjuUsNO7W81MPF/qPaRdamozeWRAJXdj8tCLZJVgN9H
+nUfQfaYDhExoKMLsdPkc0eIy6dpqg24qHsSuWeaKrMgslgnVOlXxP8EgG3RDyam+
+AqHKKvGVN13D9oyGokCEsx0srutlfVy5r+VhMRFFgWyLXS6+vEYPj37KYWKRbeTC
+JHeGlxdwL/P2YrRGB75F6bCE9uus/S+mBgCmDRkDjek3hh3Aj6iLQYz3ihNKGac=
+-----END CERTIFICATE-----
+subject=/CN=ashemaletube.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 3197 bytes and written 281 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 024C0E2CCD05799252DABEA615F57DEB48AD963B5BED0A9C230E6CB3724BD0E3
+    Session-ID-ctx: 
+    Master-Key: F938725261E870785D5307F1175F47729B6F99CBA49FFDE60433221D33984D98FD248A553AC451E398B8CCFFDBCB3CA4
+    TLS session ticket lifetime hint: 3600 (seconds)
+    TLS session ticket:
+    0000 - 1f 3e 9e d6 b7 51 59 99-d6 ac 60 b3 3a 46 86 b3   .>...QY...`.:F..
+    0010 - 06 5b 3d c3 fa 05 e9 0d-cb a0 f4 48 63 65 eb e3   .[=........Hce..
+    0020 - e6 b2 34 5e f5 45 b0 3a-69 bf e3 d9 11 54 d0 f3   ..4^.E.:i....T..
+    0030 - bd 47 5c f6 50 fa e5 14-ac 05 23 c6 2f ae 7e b8   .G\.P.....#./.~.
+    0040 - 0a 48 00 05 ad 4b eb e0-f5 14 90 84 72 bb ff aa   .H...K......r...
+    0050 - 85 1d f1 f9 2d 9c 0c cf-53 73 64 24 d6 42 ab 47   ....-...Ssd$.B.G
+    0060 - cb fd af 52 70 56 3d 1b-ba 99 98 d6 e5 6b 94 b2   ...RpV=......k..
+    0070 - a7 06 b3 ac 1c 55 67 55-50 b3 15 e1 0e 09 80 44   .....UgUP......D
+    0080 - b3 16 0e 0c ca 90 fa a2-5b a4 4e a4 6f ed 22 ec   ........[.N.o.".
+    0090 - 20 7e f5 4a c4 b4 a0 42-dd 2d 11 23 ef db 83 b2    ~.J...B.-.#....
+    00a0 - 66 71 88 2e 90 1b 71 d2-37 8f 23 8c c6 5f 0c b0   fq....q.7.#.._..
+
+    Start Time: 1577475803
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

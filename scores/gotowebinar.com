@@ -1,2 +1,0 @@
-"gotowebinar.com": "C"
-

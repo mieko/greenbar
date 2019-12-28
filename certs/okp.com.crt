@@ -1,0 +1,75 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=*.myshopify.com
+   i:/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2
+ 1 s:/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2
+   i:/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEyzCCBHGgAwIBAgIQBWbzisAl3x73h180Fs8a8DAKBggqhkjOPQQDAjBvMQsw
+CQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDVNhbiBGcmFuY2lzY28x
+GTAXBgNVBAoTEENsb3VkRmxhcmUsIEluYy4xIDAeBgNVBAMTF0Nsb3VkRmxhcmUg
+SW5jIEVDQyBDQS0yMB4XDTE5MDUwMjAwMDAwMFoXDTIwMDUwMjEyMDAwMFowZzEL
+MAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2Nv
+MRkwFwYDVQQKExBDbG91ZEZsYXJlLCBJbmMuMRgwFgYDVQQDDA8qLm15c2hvcGlm
+eS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASAa7r97lRsbTTfWZtb9eSY
+0PBRlhd/Ag4adpvRM1knrZqVMLS8W9nEuEJvFJ0syreB37choA32QKp+r923Nw9L
+o4IC9TCCAvEwHwYDVR0jBBgwFoAUPnQtH89FdQR+P8Cihz5MQ4NRE8YwHQYDVR0O
+BBYEFJmOKOc/lehBH1n5tiQkiABl+xM7MCkGA1UdEQQiMCCCDW15c2hvcGlmeS5j
+b22CDyoubXlzaG9waWZ5LmNvbTAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMHkGA1UdHwRyMHAwNqA0oDKGMGh0dHA6Ly9jcmwz
+LmRpZ2ljZXJ0LmNvbS9DbG91ZEZsYXJlSW5jRUNDQ0EyLmNybDA2oDSgMoYwaHR0
+cDovL2NybDQuZGlnaWNlcnQuY29tL0Nsb3VkRmxhcmVJbmNFQ0NDQTIuY3JsMEwG
+A1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3
+LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMHYGCCsGAQUFBwEBBGowaDAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEAGCCsGAQUFBzAChjRo
+dHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vQ2xvdWRGbGFyZUluY0VDQ0NBLTIu
+Y3J0MAwGA1UdEwEB/wQCMAAwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDuS723
+dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9ywAAAWp5u2UXAAAEAwBHMEUCIDwG
+wgBZAjqULICisLG7tH6ouXmX+2QE6l+O2r9U78voAiEAxWYenA2T078LhqsDu+ku
+V9OgO5pQW1/1dWgZjZppv98AdgBep3P531bA57U2SH3QSeAyepGaDIShEhKEGHWW
+gXFFWAAAAWp5u2SxAAAEAwBHMEUCIG2PX9ifti283AKjvM+OOnzeijYPUBt4CloO
++TloarSAAiEA5glmOSHutqS1zKywqsCg5USj5c8CqFZ0/+CXnFW+y7UwCgYIKoZI
+zj0EAwIDSAAwRQIhAILPPIFZBnwI4dYymrmQvlUEvv1ZbL+BxcL6GRYOtjgIAiAk
+hiWitfZScjHl/bioD7uQzuUAlg9gWaC1fQnmOGG5/Q==
+-----END CERTIFICATE-----
+subject=/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=*.myshopify.com
+issuer=/C=US/ST=CA/L=San Francisco/O=CloudFlare, Inc./CN=CloudFlare Inc ECC CA-2
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 2611 bytes and written 281 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: 35F4E2350E46387B5B7A56BA61BBDD80A586B5D3D3288BBEAF0D86F06FF37769
+    Session-ID-ctx: 
+    Master-Key: 5B3AC435C5C4428B496065E57EE6E4C4AE2A8DCFE34D2F2DD6642CFE258D95162C2271D62AE5945079B606914EB58B1C
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 35 7d e3 3b 61 c1 ba 91-9d 1b af c8 e3 29 99 51   5}.;a........).Q
+    0010 - 8c 5b cf 62 24 53 d2 cd-3c 4d ad 99 82 41 07 f5   .[.b$S..<M...A..
+    0020 - 47 f9 df 20 08 07 a3 18-0f 29 bd 4b 94 2d 6a 5a   G.. .....).K.-jZ
+    0030 - cc 44 a9 78 50 63 e1 20-a7 aa d6 f6 7e c8 86 8a   .D.xPc. ....~...
+    0040 - 9d a3 f7 44 59 b6 f7 bc-49 e9 02 66 1c 38 c7 ea   ...DY...I..f.8..
+    0050 - 7a e4 a2 c9 1f 5e e9 2d-e3 ac c0 af b8 4d ce 29   z....^.-.....M.)
+    0060 - 7e 6b 81 bd 5f bf cc 74-7d 46 54 61 66 61 6a 09   ~k.._..t}FTafaj.
+    0070 - 25 39 9e f0 cc 18 b6 e2-08 67 62 b0 fb 10 18 cb   %9.......gb.....
+    0080 - 2e 65 0a 24 36 41 5a 83-58 6b 02 f9 49 9f a7 b6   .e.$6AZ.Xk..I...
+    0090 - 9d 54 95 7d 46 a3 1a 99-2b cb 48 7c b2 bd fa 8b   .T.}F...+.H|....
+    00a0 - 58 87 ef 02 72 df b7 44-9a bc 57 89 95 17 14 f7   X...r..D..W.....
+
+    Start Time: 1577475893
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,52 +1,58 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=Delaware/L=Dover/O=Incapsula Inc/CN=incapsula.com
-   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
- 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
-   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+ 0 s:/CN=*.wix.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFOTCCBCGgAwIBAgISESHo2ABPA6QvRtP3TeJWkdoDMA0GCSqGSIb3DQEBCwUA
-MGYxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYD
-VQQDEzNHbG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hB
-MjU2IC0gRzIwHhcNMTYwMjA4MDkzMjA0WhcNMTcwMjA1MTEzNjUyWjBgMQswCQYD
-VQQGEwJVUzERMA8GA1UECBMIRGVsYXdhcmUxDjAMBgNVBAcTBURvdmVyMRYwFAYD
-VQQKEw1JbmNhcHN1bGEgSW5jMRYwFAYDVQQDEw1pbmNhcHN1bGEuY29tMIIBIjAN
-BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyN5xiOWEpOdWZX4Rr5+dUmmLWYku
-yT7OmIcWQ0d+k/wm4pnb41HX5Q7MZA94fQp9n42Xk4V5TMdPenpiWucirNjf2o8s
-bpO051PyhweBdJ9zVZ2+2gXGC2+ZiXc5Avqv3Y8PTy/ff+DOrTcMfVL4ZHYZeqIv
-Fh3293LTO2e33MHPGDBdeXEImP7v6yg/QWnhBMQlhxuQ45DavdiwQR9otItonXKT
-QU+d75M4Ph6kvwkd+snAfZdnpiuVIBE5Hnjf9tpucGTr6wP5ZPnDn5PP3Os3H+Fa
-GShheLvgTdUmTdZAigQ1w1PFLb0jd8pkjhzsh7S1ovErV4XgY5g6OWr0DwIDAQAB
-o4IB5TCCAeEwDgYDVR0PAQH/BAQDAgWgMEkGA1UdIARCMEAwPgYGZ4EMAQICMDQw
-MgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRv
-cnkvMCwGA1UdEQQlMCOCDWluY2Fwc3VsYS5jb22CCSoud2l4LmNvbYIHd2l4LmNv
-bTAJBgNVHRMEAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNV
-HR8EQjBAMD6gPKA6hjhodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29tL2dzL2dzb3Jn
-YW5pemF0aW9udmFsc2hhMmcyLmNybDCBoAYIKwYBBQUHAQEEgZMwgZAwTQYIKwYB
-BQUHMAKGQWh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzb3Jn
-YW5pemF0aW9udmFsc2hhMmcycjEuY3J0MD8GCCsGAQUFBzABhjNodHRwOi8vb2Nz
-cDIuZ2xvYmFsc2lnbi5jb20vZ3Nvcmdhbml6YXRpb252YWxzaGEyZzIwHQYDVR0O
-BBYEFBd9MpgJCm26ikKfUygwJiF5qbBkMB8GA1UdIwQYMBaAFJbeYfG9HBYpUxzA
-zH07gwBA5hp8MA0GCSqGSIb3DQEBCwUAA4IBAQCvtuSVv/E/hWFamBzquQwJwljZ
-4D0NnN8IV/GiSIHCCcGttznHac1B/JgE9KWaE1/+OfHsP6KSti89pgJJ3fkKuCWK
-WmQb3dA2FB4g7HOJSFqHZNcqtoI1aJ9BWFRJdM97RDBu+id4dlXhS55Tirl2a85o
-oZHQJ/hvCPD2dWWRHFh/lOAq5wTS6H4HPbCVVdX6aEFsQClUuXn1nDk3UktoF2AU
-zlXLmtz3d5jOC2QId4noCRaQDTfsCF+FxVYywlUegwpbpJmcLMqgwcKmmvVQDp2c
-/ryJpyrTcAv6EqsTXUc3qzwOPWiSrJPRyrCMTGmfVoWfVc4weCUNk1h1l59O
+MIIFxzCCBK+gAwIBAgIQGeI7NCbj4GzyCnCLs8p3njANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTE5MTEyMDAwMDAwMFoXDTIwMDUxODIzNTk1OVowFDESMBAGA1UEAwwJKi53
+aXguY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5J+s8ZLwSEFR
+ZC8himGoAHq+FxtH4F0A2G6kfzA966iN+VpzvqYKH6oeGEZuSvSKdsxP9tNbe2WE
+++twppJoznNPZwAMXCcddccSBDS6AsfMiWc8Z4egKDHJQhn4ybodeUBoU4yBc7lN
+4d9q3OZBxmyeiI4JpQI2LzLC8GOJ1YU7n5pDbvdrmpNmXar3hmpKwF4tFQt++j7L
+6lcI2YFC06ZJVwJlWM6o6JGadQgTmdepyXhC1pjRmpxeq4C0xbPK2CBWkYRC4K8e
+fhZilPiq9hM1cGeOBcJR8qQwHLkGJr/kFPA0mDmx61eOu2XephDwAdK5UlQhPWG+
+dsI2HrPF7QIDAQABo4IClzCCApMwHwYDVR0jBBgwFoAUjYxexFStiuF36Zv5mwXh
+uAGNYeEwHQYDVR0OBBYEFPyyliKNqqYT5gC8jfDaKLNQOUfmMA4GA1UdDwEB/wQE
+AwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYBBQUHAgEWF2h0dHBz
+Oi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYBBQUHAQEEeDB2ME8G
+CCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29SU0FEb21h
+aW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsGAQUFBzABhhdodHRw
+Oi8vb2NzcC5zZWN0aWdvLmNvbTA5BgNVHREEMjAwggkqLndpeC5jb22CDSoud2l4
+c2l0ZS5jb22CB3dpeC5jb22CC3dpeHNpdGUuY29tMIIBBQYKKwYBBAHWeQIEAgSB
+9gSB8wDxAHYAB7dcG+V9aP/xsMYdIxXHuuZXfFeUt2ruvGE6GmnTohwAAAFuhh8g
+1gAABAMARzBFAiEA/RTREsHmmicclfjqeRAeTN3EYWy8rmvxsQJUrXe7FiECIG4o
+k3iIY9JSTfsrt3xPWKqdZBX5BVInMm7aCRAXydT5AHcAXqdz+d9WwOe1Nkh90Eng
+MnqRmgyEoRIShBh1loFxRVgAAAFuhh8gxQAABAMASDBGAiEAvtsJ3qBoNSAlCHfI
+riBwfzEVpGo4J5Rfb/RtJxCUD3kCIQCeOxFPXJc84uFucddRqnxKhjHqVCC1+Riy
+rObV7hNF7jANBgkqhkiG9w0BAQsFAAOCAQEAip9zEz8/57EWikH95XONk8Z4W0MJ
+g6KbfI4yHLNjIBWD+xo0fjw+Fnku/1zhU7tZp/hCTrS7B2Zix9K7S1gbmUdXyI83
+15wLD4eblY4FhgDsbs09nTb4gQ9ayanTToG1VlYtHqjbPk/KxXtddzr7seitciWn
+morDBVdThmp4Guu7pmSYzGBf6dDiGhSLIbTVyroIC5WMvkR0WNLtY/UpfvIq/q17
+sniCbKfWYC5+bd3QStnYSlJ7FC6kChUc3YaBtSYTswKeINZk0Qr3+pJxlNA1w0cj
+c89JLbiYo1emtdcEvk1joCgiHymurf1lYcoHprKcxgZD3FNwbCbjH8ZHtA==
 -----END CERTIFICATE-----
-subject=/C=US/ST=Delaware/L=Dover/O=Incapsula Inc/CN=incapsula.com
-issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+subject=/CN=*.wix.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3136 bytes and written 434 bytes
+SSL handshake has read 6041 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -54,28 +60,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: FAD0A4235BE0AEADFA2A8452A56DBE8B5DFBD7E6EB8F9D4E7DDA439DB760AEE5
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 361CD956CAA18D7A9E658D08B069B483F29772F3BB109F00399ED6B182F90493
     Session-ID-ctx: 
-    Master-Key: 6D79B62D2F4AB3B6BF5490E3FA61CEFA59159E2DFB0D63337E153369959773B8A2F8429889DFFC0B9E170C3AFC8326E7
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
-    TLS session ticket:
-    0000 - a3 e6 4f ae 48 1c b2 88-27 69 67 a3 f3 f8 c6 0f   ..O.H...'ig.....
-    0010 - 23 89 22 03 57 11 09 b1-3d 50 ed be 84 2e b4 95   #.".W...=P......
-    0020 - ea fb c1 0b 60 c5 47 f5-13 01 26 79 c0 0e ca da   ....`.G...&y....
-    0030 - e9 17 df cd b9 a9 15 f6-61 a6 22 4e d1 db 8e ad   ........a."N....
-    0040 - 29 12 9b 1a d3 b2 ef 4c-65 b5 fe 5e 72 95 3e d9   )......Le..^r.>.
-    0050 - cf b7 da 43 45 f6 1c 80-d9 c0 73 f7 ed 45 42 7c   ...CE.....s..EB|
-    0060 - 86 26 88 18 26 d9 7c a1-dd 28 c4 fd 06 18 e0 70   .&..&.|..(.....p
-    0070 - 13 22 32 ee 17 c6 14 e9-e3 b3 2a ce ea cb 97 10   ."2.......*.....
-    0080 - fc e4 8c 3f 66 d8 ea b8-3d 4e 1f 0b b3 87 2e 6d   ...?f...=N.....m
-    0090 - 77 01 b6 c9 d5 5d d0 d7-f4 60 91 70 0b 91 51 7f   w....]...`.p..Q.
-
-    Start Time: 1472790248
-    Timeout   : 300 (sec)
+    Master-Key: E3E79433679860408091F65A12EBC139CED0FB922F2C977F3BF8DF996262255FA5C8F60683676C6551ED6953213280A5
+    Start Time: 1577475399
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

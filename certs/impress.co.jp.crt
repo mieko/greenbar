@@ -1,53 +1,62 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:/C=JP/ST=Tokyo/L=Chiyoda-ku/O=Impress Corporation/CN=*.impress.co.jp
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=JP/O=Cybertrust Japan Co., Ltd./CN=Cybertrust Japan Public CA G3
+ 1 s:/C=JP/O=Cybertrust Japan Co., Ltd./CN=Cybertrust Japan Public CA G3
+   i:/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE7jCCA9agAwIBAgIQONzT3cprKsobGfuehGqnhjANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwMjAzMDAwMDAwWhcNMTgwOTExMjM1
-OTU5WjBqMQswCQYDVQQGEwJKUDEOMAwGA1UECBMFVG9reW8xEzARBgNVBAcUCkNo
-aXlvZGEta3UxHDAaBgNVBAoUE0ltcHJlc3MgQ29ycG9yYXRpb24xGDAWBgNVBAMU
-DyouaW1wcmVzcy5jby5qcDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
-AOKdIiw9+ZRr9TihoKUTXUYl5Zl+8kKHo+rFOYeR7Y16rZBXrcGr9IfVwzT4yIDl
-iYcrgX9F+b35yT3cMTvxYywZl5gkSD+d8bAQuJPpvgGr/TaJ5Tfr+fQv4v34ocDE
-HA+CrSjD0Y7yQSohpfOVilqHX6+ff0QvItJQ0RrTqvSeeUDB9kqRf6c4+dlSzMBZ
-kTjSm7Rd5wAEk0YEXX2DVBl/5ArGKxQVICZ8YiJHJOnJyxfSCoMI4bvV6Amuimkm
-AXOgprnXhiCvS3fZuXmSv108z80ov7t+SdB9sAsy1BDO14Y01Dl/a9TJUFX7RWKA
-vJyr5g1PajoCFvt+H3/NXcsCAwEAAaOCAbQwggGwMCkGA1UdEQQiMCCCDyouaW1w
-cmVzcy5jby5qcIINaW1wcmVzcy5jby5qcDAJBgNVHRMEAjAAMA4GA1UdDwEB/wQE
-AwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNy
-bDCBoQYDVR0gBIGZMIGWMIGTBgpghkgBhvhFAQc2MIGEMD8GCCsGAQUFBwIBFjNo
-dHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVn
-YWwwQQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291
-cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
-BQcDAjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xafDBXBggrBgEFBQcB
-AQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5jb20wJgYIKwYBBQUH
-MAKGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MA0GCSqGSIb3DQEBCwUAA4IB
-AQAwsJqHZwHQXa0jG8W6fnyKKLmz49w5D48CzCyvlhAVjyfDe6GzP+u2Z3ZlGWDh
-fpHEApPZkMYqFKQLl50pPo2YCC4Y0HduGziX1CoRRGg6ea76NjhiLVaZP+0/qod+
-DB23HcLL0oZO3HrvJUshOBdaonil2nX5yOaflzO4WKux3dg3SkzopVYRG+X89cDK
-S3OaQCNv0BnrRV3lfRrCdYD9x5oqvX1BlPSRsMhAZPwbTkCHgI2Vfc/BH2D2eou5
-V44BkiYXXu37TaUnmDSk/UmZLlPJDf3DZh5+NMFpoqaXmrrCqwEpUCZ4dXtjqA+C
-2gpaRmZ6T5ZeCtOgl6jBBdQO
+MIIHYTCCBkmgAwIBAgIUNh+PCej1W3S3XRqnMEG2M9dz1H0wDQYJKoZIhvcNAQEL
+BQAwWjELMAkGA1UEBhMCSlAxIzAhBgNVBAoTGkN5YmVydHJ1c3QgSmFwYW4gQ28u
+LCBMdGQuMSYwJAYDVQQDEx1DeWJlcnRydXN0IEphcGFuIFB1YmxpYyBDQSBHMzAe
+Fw0xODA3MTcwMjM3MDNaFw0yMDA5MzAxNDU5MDBaMGoxCzAJBgNVBAYTAkpQMQ4w
+DAYDVQQIEwVUb2t5bzETMBEGA1UEBxMKQ2hpeW9kYS1rdTEcMBoGA1UEChMTSW1w
+cmVzcyBDb3Jwb3JhdGlvbjEYMBYGA1UEAwwPKi5pbXByZXNzLmNvLmpwMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArqo4FLRFqV0ur5Rf+SkFRn8si1Am
+lMwXmDEBl2yqq9Q0LL0dybAQUBD3lRxg+1ISaec6rtKc8WQY4nnhb63WGaOdCmsc
+ks7qBWZE5gDkQkShYQeior5B9kq7jq7F58DkNtpiwJyTV0H+idYIJv9+3i1/GB1g
+4PWqTqKC15tWoj+Br99VykhmQ0mT8uYXxQfK4LfIQDtLpO1NXnBPdaas/Ao9oWED
+a931+Z/DNV3xxS1OXYV2jnY50ms0szHtpezE+kNri+h9au5MlXPyhC5IKoTKixGb
+8zFnVr7KjCsuWVgSuTRq1bQebbiOwqbv/XhA/pW5/omGRrf5Uo4/d5148QIDAQAB
+o4IEDTCCBAkwDAYDVR0TAQH/BAIwADBlBgNVHSAEXjBcMFAGCCqDCIybEQEBMEQw
+QgYIKwYBBQUHAgEWNmh0dHBzOi8vd3d3LmN5YmVydHJ1c3QubmUuanAvc3NsL3Jl
+cG9zaXRvcnkvaW5kZXguaHRtbDAIBgZngQwBAgIwKQYDVR0RBCIwIIIPKi5pbXBy
+ZXNzLmNvLmpwgg1pbXByZXNzLmNvLmpwMIGlBggrBgEFBQcBAQSBmDCBlTAzBggr
+BgEFBQcwAYYnaHR0cDovL29jc3AuY3liZXJ0cnVzdC5uZS5qcC9PY3NwU2VydmVy
+MF4GCCsGAQUFBzAChlJodHRwOi8vc3VyZXNlcmllcy1jcmwuY3liZXJ0cnVzdC5u
+ZS5qcC9TdXJlU2VydmVyL2N0anB1YmNhZzMvY3RqcHViY2FnM19zaGEyNTYuY3J0
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+HwYDVR0jBBgwFoAUc6gIUym4FfuZgOXFN9j4OXukEwYwVQYDVR0fBE4wTDBKoEig
+RoZEaHR0cDovL3N1cmVzZXJpZXMtY3JsLmN5YmVydHJ1c3QubmUuanAvU3VyZVNl
+cnZlci9jdGpwdWJjYWczL2NkcC5jcmwwHQYDVR0OBBYEFAkg0dzSua7o9b10w7wH
+cEGtvLibMIIB9wYKKwYBBAHWeQIEAgSCAecEggHjAeEAdwCkuQmQtBhYFIe7E6LM
+Z3AKPDWYBPkb37jjd80OyA3cEAAAAWSmVAWZAAAEAwBIMEYCIQCIowz/Tfvx3+W3
+l1DB4JmOf8/BPiGIdv87IWvsCPO6xAIhAOMjpw1w64yiR3CBXQy0z+KY0uCbFpGA
+N4Zxe/DXyZlFAHYA7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo/csAAAFk
+plQPngAABAMARzBFAiBhlxjoqCMkg6VUL9wkGyoiLktFFcJbGEbJPMcXR8tLSwIh
+AIp+tKGpJ9hRFbuo7zR8TNCo8wbBc6Iqu7j3PNmoZ1ENAHYAu9nfvB+KcbWTlCOX
+qpJ7RzhXlQqrUugakJZkNo4e0YUAAAFkplQVfgAABAMARzBFAiAozb0Mn0kew1hX
+Z+IkFdtRHAiWl+KWA9PREgJtJv2a6AIhAM9YIJcYTLkG+bd9sEHH00Rjqw2NmrO3
+Gskc6iRmi5YWAHYAVhQGmi/XwuzT9eG9RLI+x0Z2ubyZEVzA75SYVdaJ0N0AAAFk
+plQZ7AAABAMARzBFAiEAi24nrjjOYxv7lCmVyM5ebCrbcdka5N6PjlUVpDMzxH4C
+IDZLQ7zWxTxaa1kIDYK40kKW3rQ/fdbfbXI35hYHUyg3MA0GCSqGSIb3DQEBCwUA
+A4IBAQCBYTuMJ7ii0QNyCX5qRAAyGtjeWPHVwzk7sMzG1I5aLVJjM7vaMiivXdlk
+zpVlnctgCHvwdofDGaF3OYog4AgkfaimjXCNCLEP95d/E1+E7Rey8iOKon0l0L2f
+q1VV67NOjjfmYVN4mbidvG2VNL7sWbGUshq3Et2H1pKWaWNmrRqx6SvPwLiwwi12
+PuBWf2x23fbCvNYPtkEDwpuOpxfo7FV3dvKBpbMWesagl+Wr6/1XfKGRB+yFTXUA
+PKZtrRwyDqMnyT5qpJCo0YB317onBTX68tlwJTcG8GXPZMM12ifcdBQW9aotiJ9E
+x9t34wPtf1KDGasONTbw1opwdzl5
 -----END CERTIFICATE-----
 subject=/C=JP/ST=Tokyo/L=Chiyoda-ku/O=Impress Corporation/CN=*.impress.co.jp
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+issuer=/C=JP/O=Cybertrust Japan Co., Ltd./CN=Cybertrust Japan Public CA G3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: DH, 1024 bits
 ---
-SSL handshake has read 4153 bytes and written 498 bytes
+SSL handshake has read 3354 bytes and written 514 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -55,30 +64,26 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : DHE-RSA-AES256-GCM-SHA384
-    Session-ID: F830CB00B3E00B1E01BFEA904238622AE9158CB1A44783A67935946A884BE023
+    Cipher    : AES128-GCM-SHA256
+    Session-ID: 78B7C08F33CD5B9C6B329F638D187E56E710C3662509D99768D440BEE6FF66B8
     Session-ID-ctx: 
-    Master-Key: 15CEC264D044A73260A05E6ECFF3D5A5E6ABE6677EAA0C62D21A88D73B51D407887443FB70171F4B6E251EEB51BE7BA3
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: F253302FF68ACA0359C348B00B28D63B4C34261A08B7ECC1D439F3A8D3FC38C2F5A2E4F15B23A46DBF942BEC60069E88
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - fa cd 82 21 91 f0 ee a1-8d c7 74 05 56 2c 0b 30   ...!......t.V,.0
-    0010 - 68 d7 d7 55 c4 01 62 29-32 a4 b7 3a 95 b2 b6 5b   h..U..b)2..:...[
-    0020 - 1d 81 a6 c7 fe 7d a1 eb-5a f3 0f 17 0a 25 41 1e   .....}..Z....%A.
-    0030 - 44 66 21 07 df 7b 40 7e-e5 87 fc 0b 2b ca e3 fb   Df!..{@~....+...
-    0040 - 54 a8 c0 92 7f 45 4a 0c-08 45 e7 c0 75 24 b9 54   T....EJ..E..u$.T
-    0050 - a4 b9 e6 38 c7 e7 9b 0e-33 db a4 93 61 f3 a6 37   ...8....3...a..7
-    0060 - b5 ac dc b8 cf 44 15 ca-05 4b b5 81 26 f6 08 39   .....D...K..&..9
-    0070 - 1c 16 d5 35 2b 62 d2 e3-5c 4b 3f c7 fc 69 ea 97   ...5+b..\K?..i..
-    0080 - f3 e9 46 9d e5 28 68 c0-82 f7 74 01 54 5e ce 4d   ..F..(h...t.T^.M
-    0090 - 50 8f c3 d2 1e 93 d0 c4-0a 27 2d 5d d4 17 40 cc   P........'-]..@.
-    00a0 - 3a 4d f4 3b 5a 65 ff 2c-d1 93 bc 5a 9d 3b 16 9a   :M.;Ze.,...Z.;..
-    00b0 - ef e5 a2 13 4c fc 06 a9-59 f8 52 72 38 35 10 dc   ....L...Y.Rr85..
+    0000 - 46 d5 07 6c 94 50 7e 53-d8 4e e8 ad 6d 64 1c 03   F..l.P~S.N..md..
+    0010 - 39 39 00 c3 1e 9e 73 cf-1b 6a d9 8e 00 df 6a 17   99....s..j....j.
+    0020 - 2e d9 6c 01 4f a3 54 4f-e0 4e e2 76 f4 da 32 c8   ..l.O.TO.N.v..2.
+    0030 - be 61 34 64 6e 9a 5c 5d-16 f0 ba 23 81 bb 69 4c   .a4dn.\]...#..iL
+    0040 - e0 0a 72 b9 28 cd eb e8-e4 7c 9d ec 5b aa 05 4e   ..r.(....|..[..N
+    0050 - e0 dd dc 0a d4 a8 c1 ed-8b be b4 31 10 27 57 25   ...........1.'W%
+    0060 - 42 a4 43 24 d3 84 d3 e0-b1 9c 19 05 5c e5 38 67   B.C$........\.8g
+    0070 - c7 84 0f 88 07 89 16 47-cc 8a c7 e9 25 a7 2e 49   .......G....%..I
+    0080 - f5 a7 de 65 dc 9f c6 5f-29 06 1a ef eb 6b ac 19   ...e..._)....k..
+    0090 - 23 1e 95 3f bd 08 97 e4-8f d7 59 8d 27 ff f9 61   #..?......Y.'..a
+    00a0 - d2 29 29 e8 fe 14 49 9a-51 94 66 9d 50 f2 9b ee   .))...I.Q.f.P...
+    00b0 - cf 57 11 87 a7 5c f6 a8-91 06 e1 f3 86 d6 5f 6e   .W...\........_n
 
-    Start Time: 1472788402
-    Timeout   : 300 (sec)
+    Start Time: 1577475145
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

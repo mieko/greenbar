@@ -1,51 +1,63 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=Georgia/L=Atlanta/O=The Weather Channel LLC/CN=*.wunderground.com
-   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
- 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
-   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+ 0 s:/C=US/ST=Georgia/L=Atlanta/O=TWC Product and Technology, LLC/OU=Digital/CN=www.weather.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFTDCCBDSgAwIBAgISESHm/ixAdXVLlUq/8IY1gNQZMA0GCSqGSIb3DQEBCwUA
-MGYxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYD
-VQQDEzNHbG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hB
-MjU2IC0gRzIwHhcNMTQxMDI4MTgwNjAzWhcNMTkwOTE1MTgyNTE4WjBwMQswCQYD
-VQQGEwJVUzEQMA4GA1UECBMHR2VvcmdpYTEQMA4GA1UEBxMHQXRsYW50YTEgMB4G
-A1UEChMXVGhlIFdlYXRoZXIgQ2hhbm5lbCBMTEMxGzAZBgNVBAMMEioud3VuZGVy
-Z3JvdW5kLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMNaNXgL
-U2YT9QoVtfbHGY3/HGb1difAH0/E3MnfUfn0W+umjm+OU1b/3yC8Awt8UdyTb4BG
-PLSmUa0kGsVOMR8Ljfe0LdOJFLcy7wajhaFOpAIxdu8ScdFOWTPA2Phsd0oI45v5
-4wF1e0EMteH25oaqCLZC7391YBIkDdvUooJv4rDUHA+GtCffKF4tzMGsWr/V5Vt0
-8gd5ONnPSbtgPRafUtzNPlA08UoIDs8Mz77ZLkLV3YjGAp8OPHysvxMdv+7WIa6R
-cm5m5M3xvqXoLUV/3TjHAAkZJXXeLJ9czElXiHYSCUw2giCHIgWfaPh+vnzYV7en
-cHxJVxvtoUq0s90CAwEAAaOCAegwggHkMA4GA1UdDwEB/wQEAwIFoDBJBgNVHSAE
-QjBAMD4GBmeBDAECAjA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5nbG9iYWxz
-aWduLmNvbS9yZXBvc2l0b3J5LzAvBgNVHREEKDAmghIqLnd1bmRlcmdyb3VuZC5j
-b22CEHd1bmRlcmdyb3VuZC5jb20wCQYDVR0TBAIwADAdBgNVHSUEFjAUBggrBgEF
-BQcDAQYIKwYBBQUHAwIwSQYDVR0fBEIwQDA+oDygOoY4aHR0cDovL2NybC5nbG9i
-YWxzaWduLmNvbS9ncy9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMi5jcmwwgaAGCCsG
-AQUFBwEBBIGTMIGQME0GCCsGAQUFBzAChkFodHRwOi8vc2VjdXJlLmdsb2JhbHNp
-Z24uY29tL2NhY2VydC9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMnIxLmNydDA/Bggr
-BgEFBQcwAYYzaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2dzb3JnYW5pemF0
-aW9udmFsc2hhMmcyMB0GA1UdDgQWBBRdsVUruPAPpEFDqCPlrt7IqUmRoTAfBgNV
-HSMEGDAWgBSW3mHxvRwWKVMcwMx9O4MAQOYafDANBgkqhkiG9w0BAQsFAAOCAQEA
-RSrWT597CZKiXa9ZkOc9wflKPZy/fdqihA+euuuGRnkvcKwLnb6SklUCuWG3Cmv7
-64cbyYP+WGYn3qPjYsfQLL+jwNTQzl3+Chn6QPtyjRCqZO6wXqABsxggAEdaSrCi
-hgQdiCzFaTA2rR9ppMrwzXxR8DPuxGBSPomA0jZEJ/fnLzu5dAgWmdYDqRQ/UC+9
-Yb76f7AfqLHcXvN+RpVaVhAHqqdVV2ao/qOTUeMffhaiWpF/V5kpi0Q5Zzhiw8/d
-q/rg/IDn2ckQaW6DXA+Q5S1dAExz0Bbo/AdgMypwIYr3u7aiP5dsQF9Q3q6AIhT1
-KLzIBEwLu/V0WOT9ifht6g==
+MIIH1DCCBrygAwIBAgIQCwfq53n01InBrCb2iQ/N7TANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkxMDAyMDAwMDAwWhcN
+MjAxMjMxMTIwMDAwWjCBhzELMAkGA1UEBhMCVVMxEDAOBgNVBAgTB0dlb3JnaWEx
+EDAOBgNVBAcTB0F0bGFudGExKDAmBgNVBAoTH1RXQyBQcm9kdWN0IGFuZCBUZWNo
+bm9sb2d5LCBMTEMxEDAOBgNVBAsTB0RpZ2l0YWwxGDAWBgNVBAMTD3d3dy53ZWF0
+aGVyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOL/ptWqEOcM
+KLQ6tEN+4vmQwuNxohmTMDYQtsJU9DwSDETEMXx4BNdSwk8zXqZ855DxAG5hrLkv
+R/kleDq8BTP2/qZecoSGPrGwlvwS2K6s3wyJgPVXs2ja9YANXpVWcxRFXJP6gtd9
+tenVKrdkr4Gy/lPz3s9/tjkXBxhJTWLAbTLTylKY1DsMaJ4Sjfpmp3jzZijOJXdE
+usmcjRcCcWlUu+Y20Zm8pUvys0ofSB867LGZkFSKm6fkjsKrsCwwFaJPr300xocM
+4FzKo5HYzhmH0CUxFbzxnRYO4Dp+AOiuFbW5jd/rhoEA8T4DCQDX4tV+Kb567C2K
+tfrG1vXgoRMCAwEAAaOCBHMwggRvMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4
+tCzhxtniMB0GA1UdDgQWBBT0xOo6Joo5xyBxRyQA/ha2A0vGGjCCAbEGA1UdEQSC
+AagwggGkgg93d3cud2VhdGhlci5jb22CC3dlYXRoZXIuY29tggoqLmltd3guY29t
+ghAqLmFndGVjaC5pYm0uY29tggkqLndzaS5jb22CEXN0Zy5jcmF6aW1hbHMuY29t
+ghl3YXRzb25hZHZlcnRpc2luZy5pYm0uY29tgiJycXRjbG91ZC13ZWItcHJvZC5t
+YXhjbG91ZC53c2kuY29tggZ3LXguY2+CEXd3dy5jcmF6aW1hbHMuY29tghEqLndm
+eHRyaWdnZXJzLmNvbYIYd3d3LmJ1c2luZXNzLndlYXRoZXIuY29tggh3eHVnLmNv
+bYIHd3NpLmNvbYIQd3VuZGVyZ3JvdW5kLmNvbYINKi53ZWF0aGVyLmNvbYIhcnF0
+Y2xvdWQtd2ViLWRldi5tYXhjbG91ZC53c2kuY29tghIqLmZhc3RkYXRhLmlibS5j
+b22CCGltd3guY29tgggqLncteC5jb4ISKi53dW5kZXJncm91bmQuY29tggoqLnd4
+dWcuY29tgg1jcmF6aW1hbHMuY29tghMqLm1lZGlhLndlYXRoZXIuY29tMA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0f
+BGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1n
+Ni5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTIt
+ZzYuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0
+dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMHwGCCsGAQUFBwEB
+BHAwbjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEYGCCsG
+AQUFBzAChjpodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEy
+U2VjdXJlU2VydmVyQ0EuY3J0MAkGA1UdEwQCMAAwggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdgC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAW2NYtG7
+AAAEAwBHMEUCICDEBQeVvGAkGdmoFK2CHDrvVWPs4ngNUG9iYhkReanJAiEArt2f
+Gqu2dPQ30x4CzWaqQL4W4GJB4Fv/i2zMD3xHBeAAdQCHdb/nWXz4jEOZX73zbv9W
+jUdWNv9KtWDBtOr/XqCDDwAAAW2NYtImAAAEAwBGMEQCIBg2hRAhypTxCD/3Ytre
+v+7NwyP6zxArDX8aQ8LLe043AiAh/iKIAlTvhxM2CaqmpFWpByZWiIoO2V1a+geV
+uPs7fTANBgkqhkiG9w0BAQsFAAOCAQEAnTaIjTruzCTWVY8ZmBF27iZ+oPequpY5
+uXsJjsjjrkOtnphuPjDgQOxrRNSRR39t5Lrqcg8qb8/fpdFS8RQZqSKogWx4CVS7
+MSC310sVefQBLXO0K89ZgDt7Y2/0uleGKZnLSfOXTOmg4UG+3jo5Cmy/z0JtmGK+
+wc4H7iEgCfO3tgVixYWpZ7mZwbTpowhMK4h302jtBd/1sIgrc7/n1FtsFy0g3mk9
+b5Bxw+YLf/clH0se0pKKMMROvGLd+d2p9UGKoDUIwYRMCQ/2RkIkeDq5N859Ff3P
+o+4KkSjFkun/d9SAEdhvUKeIsugkTQG3cT7hhNC7KAgcZ6vEJTQYhA==
 -----END CERTIFICATE-----
-subject=/C=US/ST=Georgia/L=Atlanta/O=The Weather Channel LLC/CN=*.wunderground.com
-issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+subject=/C=US/ST=Georgia/L=Atlanta/O=TWC Product and Technology, LLC/OU=Digital/CN=www.weather.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3187 bytes and written 434 bytes
+SSL handshake has read 3841 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -56,29 +68,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 8E0DC5D5C103896CAE9EA409F9BFA2DC04E22E4CE5CD8424928A247906F0D513
+    Session-ID: BE3964C7ACEBA68AA2C296178DFBBADF9BEEB21D6CFB9795A295303529EF1766
     Session-ID-ctx: 
-    Master-Key: 22B24BFB2BD77211CDCA841F614EED21E5358E6B39ED66BD0261DFCDE526036273AD6942FC692A32310058DD1C0CBD40
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: D03FCF21A5B958DA5597607949A311BB623C624B3B419E42376135781778E2AA8FDE17A4CF04DBC3664E023CCBFBF938
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - ea d5 0d ba ec 29 9e 5b-04 fb a7 f0 22 91 da ed   .....).[...."...
-    0010 - f3 3a 53 59 c6 4e 3f 0d-fa ae aa b0 0e 7c 7d 66   .:SY.N?......|}f
-    0020 - 96 90 55 cf 9b 9d a9 0b-89 d6 84 0f 2b b6 34 63   ..U.........+.4c
-    0030 - f7 58 2c 0a 9f fd aa 8a-60 a2 b9 20 4e 73 1d 6e   .X,.....`.. Ns.n
-    0040 - 9e c3 5d 8f 94 4d cf 86-92 2f cb f2 34 32 6b 36   ..]..M.../..42k6
-    0050 - f8 0b 87 5c ad 08 70 5e-a0 0c 02 8e 23 33 f2 dd   ...\..p^....#3..
-    0060 - a0 e5 8b 20 80 55 7e 7b-f5 25 0e 76 9c 33 59 27   ... .U~{.%.v.3Y'
-    0070 - 39 6e 78 c3 fb 8c 0b 05-46 9f 51 ad 2c e9 37 44   9nx.....F.Q.,.7D
-    0080 - f5 72 d0 60 da 71 c2 5f-35 3f 63 25 77 62 fd ab   .r.`.q._5?c%wb..
-    0090 - d0 31 ee 42 69 c2 f2 2f-a3 a7 e8 fe 6e 72 e1 b6   .1.Bi../....nr..
-    00a0 - 8e c3 2f a6 26 6d c5 a9-e0 73 bb cd 16 df 75 07   ../.&m...s....u.
-    00b0 - 44 67 43 23 b4 a9 a0 2e-3b f2 d0 67 f9 39 fc 4b   DgC#....;..g.9.K
+    0000 - 00 00 32 82 bb 92 15 b3-eb f2 b0 09 b4 09 02 e3   ..2.............
+    0010 - 67 43 58 45 d0 58 22 66-dd fd d0 a2 55 0d 85 4a   gCXE.X"f....U..J
+    0020 - b4 02 d0 e6 c3 b3 2e 49-89 1f bf 60 da 67 52 a5   .......I...`.gR.
+    0030 - af 0f ec 54 d4 18 a9 89-8b 03 a8 72 3e fc e4 44   ...T.......r>..D
+    0040 - 6a 63 47 d6 39 9c 20 8e-40 45 b7 63 70 5a 20 69   jcG.9. .@E.cpZ i
+    0050 - fc b4 46 6f b1 36 17 dd-db ff f9 bd 10 0d 78 97   ..Fo.6........x.
+    0060 - 51 06 01 d6 e7 aa 7f 68-59 01 25 e0 f7 be 0b ae   Q......hY.%.....
+    0070 - 1c e7 8d 6c 74 c7 56 fa-01 fe 65 d5 40 7c c3 70   ...lt.V...e.@|.p
+    0080 - 97 66 57 1d 35 c4 d2 60-5f 7a 61 61 26 f9 b1 0b   .fW.5..`_zaa&...
+    0090 - 74 bf d3 1a 02 ad 10 20-e6 7c 6d 42 a0 34 b3 ed   t...... .|mB.4..
 
-    Start Time: 1472788405
-    Timeout   : 300 (sec)
+    Start Time: 1577475486
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

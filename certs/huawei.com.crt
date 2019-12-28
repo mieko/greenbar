@@ -1,55 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=CN/ST=Guangdong/L=ShenZhen/O=Huawei Technologies Co., Ltd./CN=webaccount.huawei.com
-   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
- 1 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
-   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
- 2 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
-   i:/C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
+ 0 s:/C=CN/ST=Guangdong/L=Shenzhen/O=Huawei Technologies Co., Ltd/OU=Security Engineering Dept/CN=*.huawei.com
+   i:/C=IT/ST=Bergamo/L=Ponte San Pietro/O=Actalis S.p.A./03358520967/CN=Actalis Organization Validated Server CA G2
+ 1 s:/C=IT/ST=Bergamo/L=Ponte San Pietro/O=Actalis S.p.A./03358520967/CN=Actalis Organization Validated Server CA G2
+   i:/C=IT/L=Milan/O=Actalis S.p.A./03358520967/CN=Actalis Authentication Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFYTCCBEmgAwIBAgIRALG2p+6aCdT3AAAAAFDZOYMwDQYJKoZIhvcNAQELBQAw
-gboxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1FbnRydXN0LCBJbmMuMSgwJgYDVQQL
-Ex9TZWUgd3d3LmVudHJ1c3QubmV0L2xlZ2FsLXRlcm1zMTkwNwYDVQQLEzAoYykg
-MjAxMiBFbnRydXN0LCBJbmMuIC0gZm9yIGF1dGhvcml6ZWQgdXNlIG9ubHkxLjAs
-BgNVBAMTJUVudHJ1c3QgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkgLSBMMUswHhcN
-MTYwODE2MDMyOTI4WhcNMTgwODE2MDM1OTI2WjB8MQswCQYDVQQGEwJDTjESMBAG
-A1UECBMJR3Vhbmdkb25nMREwDwYDVQQHEwhTaGVuWmhlbjEmMCQGA1UEChMdSHVh
-d2VpIFRlY2hub2xvZ2llcyBDby4sIEx0ZC4xHjAcBgNVBAMTFXdlYmFjY291bnQu
-aHVhd2VpLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALfb0vyf
-u3XJcGl2/VphHEXI6oAVkqMx4T27XSTfifcwyHZPJ/FMGXkS4Xe9s3eL7CrVGAn7
-FF9GtpvX0pHclKenIzGSVoyNkuIit1xDlk3Q6fD90laTJfi32znceIVlr8rmFvPL
-Zck1+yUwge12HrrWJalZntVG7hSS9BWIjtLJwSWxFal6IC0HN7sIkqKbUBXU6oP/
-uCj2peeo3P05BwX+A4/rSXtOELRrB819QNuZQZzUYMfT6EV5d9swaeVeeiisqtNj
-UqM5LbwGqkaFYWvOP2+Ywr9rCtFwpVvDJeb/z7+5lzH6MIIvlMJkm90EGs+xqVeN
-6OK8+bi193L/ZqECAwEAAaOCAZ0wggGZMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUE
-DDAKBggrBgEFBQcDATAzBgNVHR8ELDAqMCigJqAkhiJodHRwOi8vY3JsLmVudHJ1
-c3QubmV0L2xldmVsMWsuY3JsMEsGA1UdIAREMEIwNgYKYIZIAYb6bAoBBTAoMCYG
-CCsGAQUFBwIBFhpodHRwOi8vd3d3LmVudHJ1c3QubmV0L3JwYTAIBgZngQwBAgIw
-aAYIKwYBBQUHAQEEXDBaMCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5lbnRydXN0
-Lm5ldDAzBggrBgEFBQcwAoYnaHR0cDovL2FpYS5lbnRydXN0Lm5ldC9sMWstY2hh
-aW4yNTYuY2VyMDsGA1UdEQQ0MDKCFXdlYmFjY291bnQuaHVhd2VpLmNvbYIZd3d3
-LndlYmFjY291bnQuaHVhd2VpLmNvbTAfBgNVHSMEGDAWgBSConB03bxTP8971PfN
-f6dgxgpMvzAdBgNVHQ4EFgQUjhfmwmYGpJGb9xqA3wyMTojOPQswCQYDVR0TBAIw
-ADANBgkqhkiG9w0BAQsFAAOCAQEACMBTcHLGq1jPJBqFmgbCdYnRKAXpWvmfl02E
-ChDD6dGV9DEDmVV7pM6JHXP3aGP4Q64cDGtpTaP9qqMBG0eMVlWQ7rwOw6XDS9pd
-ckQ4w9sTiAAHd9+otJ0ykcheVYyzKi7bGgabEMwQGTabvwLosewqslhwDQQIAec6
-jb/Z4ZQO1uTCas4xixjgITovUeDNFvxInloiLY0yOp+1SHtIviWablkDdIGqSZ9D
-DB4JAvBKwCLZIJ8v1Fe8L2OK43AfK0bklsOZbQlJ2sQVCvTUU/oC9NulfF+pbxra
-II55NT2f4JzLQjpww0iLmK/fvSR+7HMyj/5OHnz6lXu+o8S8+A==
+MIIG/jCCBeagAwIBAgIQYKJRZP8XmSa8szQycE8LqzANBgkqhkiG9w0BAQsFADCB
+lTELMAkGA1UEBhMCSVQxEDAOBgNVBAgMB0JlcmdhbW8xGTAXBgNVBAcMEFBvbnRl
+IFNhbiBQaWV0cm8xIzAhBgNVBAoMGkFjdGFsaXMgUy5wLkEuLzAzMzU4NTIwOTY3
+MTQwMgYDVQQDDCtBY3RhbGlzIE9yZ2FuaXphdGlvbiBWYWxpZGF0ZWQgU2VydmVy
+IENBIEcyMB4XDTE5MDYwNDEwMTk1MVoXDTIxMDYwNDEwMTk1MVowgZYxCzAJBgNV
+BAYTAkNOMRIwEAYDVQQIDAlHdWFuZ2RvbmcxETAPBgNVBAcMCFNoZW56aGVuMSUw
+IwYDVQQKDBxIdWF3ZWkgVGVjaG5vbG9naWVzIENvLiwgTHRkMSIwIAYDVQQLDBlT
+ZWN1cml0eSBFbmdpbmVlcmluZyBEZXB0MRUwEwYDVQQDDAwqLmh1YXdlaS5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDNnJdX0ANjblDCxn5S8/IT
+6EQIDyz8W5+Zx4cXS9bpm/1KWGw74FLnWkwJgtwVGKp8PHcoq9vh1QIl4eTHFKH+
+9MqswsYVv8ee0uwdKfpyTrYTpSfXbDTWrP8Zyaxj2MeIurrqws7JTDADNMb5qVly
+yypBKrbb/sdIyw4uANFt/L61C7oM3iLLYI+gINsT/cqi3HSYGkJze91taZuLySoj
+N7iIR+Sh/YdyFdheRzh9973+28ngTEg8ItE7DI+wkoobfiuFvujgymsMwhQYRoAd
+HZ2YCdbAp1WNpEbxOzkkykxlmrn+tKQE7NFZVM0XeTk3g2+hsze+3HQBfs6MFte1
+AgMBAAGjggNFMIIDQTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFGL+uyeKZETt
+aJZaWHmh21omrf+7MH4GCCsGAQUFBwEBBHIwcDA7BggrBgEFBQcwAoYvaHR0cDov
+L2NhY2VydC5hY3RhbGlzLml0L2NlcnRzL2FjdGFsaXMtYXV0aG92ZzIwMQYIKwYB
+BQUHMAGGJWh0dHA6Ly9vY3NwMDkuYWN0YWxpcy5pdC9WQS9BVVRIT1YtRzIwIwYD
+VR0RBBwwGoIKaHVhd2VpLmNvbYIMKi5odWF3ZWkuY29tMFEGA1UdIARKMEgwPAYG
+K4EfARMBMDIwMAYIKwYBBQUHAgEWJGh0dHBzOi8vd3d3LmFjdGFsaXMuaXQvYXJl
+YS1kb3dubG9hZDAIBgZngQwBAgIwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMBMEgGA1UdHwRBMD8wPaA7oDmGN2h0dHA6Ly9jcmwwOS5hY3RhbGlzLml0L1Jl
+cG9zaXRvcnkvQVVUSE9WLUcyL2dldExhc3RDUkwwHQYDVR0OBBYEFDVPUVcERFn/
+Ryc35St5qhpj8U9bMA4GA1UdDwEB/wQEAwIFoDCCAX4GCisGAQQB1nkCBAIEggFu
+BIIBagFoAHYApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFrIgm6
+dAAABAMARzBFAiEAkKdY1s98BccYBT8S8FM3UyMVwEp2jpGOgCbeaOsY37cCICL0
+LHGynPkqTySiaRRxE6786ipwHmvSI/JCMnDkk/zRAHYARJRlLrDuzq/EQAfYqP4o
+wNrmgr7YyzG1P9MzlrW2gagAAAFrIgm7pQAABAMARzBFAiEAlAD9TqVKJQkz15cx
+RhgZzZquU/6AGpnI+/448O/SjMsCIGPHaDGLGIaFTH9RNWNaukMdrPIlfzazvtWX
+YZjuc3bVAHYAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFrIgm7
+7AAABAMARzBFAiBHvlt+K+Y4V6aB7jO4kKMDhtL1DPXQft0MAiMtX/TfAgIhANmd
+zr11dVFCIXeHVCQF800/MzI9a7ju9RW3wY92Jkp2MA0GCSqGSIb3DQEBCwUAA4IB
+AQBmOQYSZOPxvfDd9hBT6b1YdbQnOAprPdopVv9p51vVjqsdPth5EOXqtznOB9Qm
+kCnR3TFM7T2PTkVf7tHEIfI62qSbPjqCMxy+RrCzKTTsQC90MClU2C2UWTmbvTxP
+YfKvkF1rFWDVqTC7N6RYkQSqOX1k67obPvX+EZY7EHdz50FzhqTbeBe5x5ocbO0P
+d3+igd7UpeJk6L4qtWLq0CxPo7xweyrhABVVZY9ov3xV4OF3UyMs+YseqwkwWAr6
+OAWldOKEL56SAyGtRLPq7A1i01g2s01G3gRj9X0ODf9epoRiRGqT7dKUqKsY51TX
+WT/CH/HBKzwvvgfTbncbh8zq
 -----END CERTIFICATE-----
-subject=/C=CN/ST=Guangdong/L=ShenZhen/O=Huawei Technologies Co., Ltd./CN=webaccount.huawei.com
-issuer=/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
+subject=/C=CN/ST=Guangdong/L=Shenzhen/O=Huawei Technologies Co., Ltd/OU=Security Engineering Dept/CN=*.huawei.com
+issuer=/C=IT/ST=Bergamo/L=Ponte San Pietro/O=Actalis S.p.A./03358520967/CN=Actalis Organization Validated Server CA G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4643 bytes and written 434 bytes
+SSL handshake has read 3840 bytes and written 554 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is AES256-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -57,29 +62,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 4652198D378EACEA5CEE712F48E4697D8D38F74C519C4DCC42806AD52B4F8C8A
+    Cipher    : AES256-SHA256
+    Session-ID: F06F41468FD25E6B1E32DAC3BABADF9FC099D689CE44ED80A70B3B136797FC39
     Session-ID-ctx: 
-    Master-Key: 3FDDB65DB3C6FBEB7C2E45896BA763E3DE59CC3BC39BE3911C195CC9B812CC056CB5294DF24DF223EF05D90532A62909
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: AA7EBD2B639EE512A6995DFF56BD6B104BE5199E103CC2B2823A8500932150202ABBEFCCBBE063F2E2D6EF149E08A478
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - 0d 99 77 21 57 fa 25 3b-cf 80 dc 91 ae 84 b9 ab   ..w!W.%;........
-    0010 - c5 0a 25 ea 8d e2 de 2f-62 7c 0a 36 6b 38 93 7e   ..%..../b|.6k8.~
-    0020 - e7 95 93 8a fb 92 92 92-b6 ea d7 e6 a6 3e 19 db   .............>..
-    0030 - 0f 37 01 26 0b 54 35 e2-47 e4 d0 11 c1 55 b6 93   .7.&.T5.G....U..
-    0040 - 15 fa 39 2d f4 8b a9 6d-aa ee a2 a4 d8 5f c0 fa   ..9-...m....._..
-    0050 - d5 38 0b 7b 04 1a ec 30-e5 02 ba fa 6d 9d ec 14   .8.{...0....m...
-    0060 - 78 ba a0 fb db 11 26 8c-e4 3e 28 b3 ea 89 bf 00   x.....&..>(.....
-    0070 - 01 06 e9 33 35 b6 00 2f-c4 09 df f2 08 2f 4e ac   ...35../...../N.
-    0080 - 95 16 4f fc 99 8d 96 dc-75 f1 a9 28 36 10 da 05   ..O.....u..(6...
-    0090 - 1a e4 fe 37 84 12 45 25-e6 70 27 1b f2 ea 69 97   ...7..E%.p'...i.
-    00a0 - 11 ee 8b d4 28 d2 8a 19-6c 65 c2 e2 f4 54 65 c8   ....(...le...Te.
+    0000 - 8b f2 80 4c 22 b7 ca e7-81 70 6b 56 4d 00 ab a2   ...L"....pkVM...
+    0010 - 29 6e 2d 1b f2 7c 91 70-bf 82 1b f1 14 3a 21 a3   )n-..|.p.....:!.
+    0020 - c5 67 c9 b2 f8 ec a1 14-2d ea ac 3d 3b 7f a1 3f   .g......-..=;..?
+    0030 - 10 57 66 2b 02 ef a4 11-80 83 ff 6e b4 2e 4e 46   .Wf+.......n..NF
+    0040 - ff 18 f8 b3 a4 b8 31 8d-42 49 1d e3 8a b5 3a 8c   ......1.BI....:.
+    0050 - 8c 36 7c 41 2a 18 e8 0b-3e 7a 1e 33 9f 90 1a 9f   .6|A*...>z.3....
+    0060 - 5e c4 77 6a 04 fd a8 1d-a3 fe eb be 99 26 57 be   ^.wj.........&W.
+    0070 - d3 d5 68 ab dd c6 d8 87-90 6c 98 d9 68 52 e2 ad   ..h......l..hR..
+    0080 - 15 7e 6a 20 25 99 1f fe-b2 e2 e5 45 7f 93 c3 ec   .~j %......E....
+    0090 - 7c 93 ba 52 d6 d7 90 c9-0b 7f 33 30 13 fc 8c 88   |..R......30....
+    00a0 - 22 45 4d 98 83 ef 24 a3-34 8d c4 6f f2 83 81 34   "EM...$.4..o...4
 
-    Start Time: 1472789345
-    Timeout   : 300 (sec)
+    Start Time: 1577475363
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

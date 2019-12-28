@@ -1,64 +1,69 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/postalCode=55905/ST=MN/L=Rochester/street=200 1st Street SW/O=Mayo Foundation for Medical Education and Research/OU=GPS/OU=Hosted by Mayo Foundation for Medical Education and Research/OU=Unified Communications/CN=mayoclinic.org
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 0 s:/C=US/postalCode=55905/ST=Minnesota/L=Rochester/street=200 1st Street SW/O=Mayo Foundation for Medical Education and Research/OU=Data Center Services - ADC/CN=mwredirects5.mayo.edu
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
    i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
  3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
    i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGlTCCBX2gAwIBAgIRAIC5Hp/VgobzU9Sjav8AxaEwDQYJKoZIhvcNAQELBQAw
-gZYxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
-BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTwwOgYD
-VQQDEzNDT01PRE8gUlNBIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIFNlY3VyZSBT
-ZXJ2ZXIgQ0EwHhcNMTYwODI5MDAwMDAwWhcNMTkwODI5MjM1OTU5WjCCASYxCzAJ
-BgNVBAYTAlVTMQ4wDAYDVQQREwU1NTkwNTELMAkGA1UECBMCTU4xEjAQBgNVBAcT
-CVJvY2hlc3RlcjEaMBgGA1UECRMRMjAwIDFzdCBTdHJlZXQgU1cxOzA5BgNVBAoT
-Mk1heW8gRm91bmRhdGlvbiBmb3IgTWVkaWNhbCBFZHVjYXRpb24gYW5kIFJlc2Vh
-cmNoMQwwCgYDVQQLEwNHUFMxRTBDBgNVBAsTPEhvc3RlZCBieSBNYXlvIEZvdW5k
-YXRpb24gZm9yIE1lZGljYWwgRWR1Y2F0aW9uIGFuZCBSZXNlYXJjaDEfMB0GA1UE
-CxMWVW5pZmllZCBDb21tdW5pY2F0aW9uczEXMBUGA1UEAxMObWF5b2NsaW5pYy5v
-cmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCaoTFlVHzt74yZgYDw
-DSf4dtmLOzKxL5xre3g+Nm0sS8Ot5Avgl/RAQbXSdFk4i44kGIsGG2R+RSkYcBIr
-rNAhFUEBqETVDVJbNKj9zODn8kKOprHrkhkvPnWlu/iP8rbtQj0kZAJ6y1w6M5eq
-YMdkQkCWuGzGXbsJdDzl3SreOf1vz3sFaF6wkw61AJJbxJELzXQ3X+mpxSeDdc5Q
-iOUxKtmJK/f7juVtvRYe3DjKdqivsZmMSeKt8Si7nE1sdgTa4b8/S3ZOVxktJPLO
-dvOuMlXNd8w0noekaKt9bq906+KDfaFHwbXDfbDKx1NldKgMdLhBMjkV9bxvJ45S
-DMBRAgMBAAGjggJJMIICRTAfBgNVHSMEGDAWgBSa8yvaz61Pti+7KkhIKhK3G0LB
-JDAdBgNVHQ4EFgQUE6C12ipqVFWsun6PBf8t8SA/aZcwDgYDVR0PAQH/BAQDAgWg
-MAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFAG
-A1UdIARJMEcwOwYMKwYBBAGyMQECAQMEMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8v
-c2VjdXJlLmNvbW9kby5jb20vQ1BTMAgGBmeBDAECAjBaBgNVHR8EUzBRME+gTaBL
-hklodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9DT01PRE9SU0FPcmdhbml6YXRpb25W
-YWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3JsMIGLBggrBgEFBQcBAQR/MH0wVQYI
-KwYBBQUHMAKGSWh0dHA6Ly9jcnQuY29tb2RvY2EuY29tL0NPTU9ET1JTQU9yZ2Fu
-aXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwJAYIKwYBBQUHMAGG
-GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCBiQYDVR0RBIGBMH+CDm1heW9jbGlu
-aWMub3JnghFtYXlvZW1wbG95ZWVzLm9yZ4IZb3JpZ2luLXd3dy5tYXlvY2xpbmlj
-Lm9yZ4ISd3d3Lm1heW9jbGluaWMub3JnghV3d3cubWF5b2VtcGxveWVlcy5vcmeC
-FHd3dzIxLm1heW9jbGluaWMub3JnMA0GCSqGSIb3DQEBCwUAA4IBAQCQd0v2mniT
-SSeVmox6VHFMHhRZMlow2R3TA55lw5b259fq7LYrRh43bOxx4aitC4CPhhasKdY6
-V46MI5o8NLXagqcJZSGqrgCq8lbYdrVLLNH5IoK7lnWk8+w+6EtcKcigzu+Jj3EZ
-dswCxdVLyZY5XDMOXIuMYqYmCWh59acWsd2qUSRlo08n2zZcgrqTLpUOPa0ykA1j
-7qnAsQdmJlH00fVDz20L6PU7UU+AUQjsbmB4CKRqBtE9gpp9zorqCsZP5/uz8f1M
-k5k/R6+NBudCitt0GwbhNNMXvqW8hg7BNXIIH0rpm0A5nP+ShdsDqmDMYGSEHhAI
-U+CeYj1ly44J
+MIIH0zCCBrugAwIBAgIQA95NeFvXTejs5Tse7LV1KTANBgkqhkiG9w0BAQsFADCB
+lTELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMT0wOwYDVQQD
+EzRTZWN0aWdvIFJTQSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTZWN1cmUgU2Vy
+dmVyIENBMB4XDTE5MTIyMzAwMDAwMFoXDTIxMTIyMjIzNTk1OVowgeMxCzAJBgNV
+BAYTAlVTMQ4wDAYDVQQREwU1NTkwNTESMBAGA1UECBMJTWlubmVzb3RhMRIwEAYD
+VQQHEwlSb2NoZXN0ZXIxGjAYBgNVBAkTETIwMCAxc3QgU3RyZWV0IFNXMTswOQYD
+VQQKEzJNYXlvIEZvdW5kYXRpb24gZm9yIE1lZGljYWwgRWR1Y2F0aW9uIGFuZCBS
+ZXNlYXJjaDEjMCEGA1UECxMaRGF0YSBDZW50ZXIgU2VydmljZXMgLSBBREMxHjAc
+BgNVBAMTFW13cmVkaXJlY3RzNS5tYXlvLmVkdTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBANa9wcVm52R4gLZ9ssxDoHB8q5CaMpqgdK1dFG5xnoyaLZLE
+D2DbY6LAmV1jptOu0rXJpka4EzChUP+lyHgvQoDN7g7cEoa1kVVvsarQHc/OE2PN
+HX4uamMyPt2RvtczA6pYS8bXEKT/tiPaPgmzDdO3kL2XoT92fjAYuw2fKa0IXaDn
+h2hL2Dyb/A6AkXP3A9rhwHh2tFAIlTAgzi3DZg4UFER9KXyCCxTg2AOydDQH9v3I
+dqyLcSgFPGI17+3thGww1AR0rNlrzBQ1KniMHLAL6SfkeE4V3PpotmlJpVV2xNsR
+zLdKBjSaXESn/wudX2ODKzgVkMdTFys0DO6PAOUCAwEAAaOCA80wggPJMB8GA1Ud
+IwQYMBaAFBfZ1iUnZ/kxwklD2TA2RIxsqU/rMB0GA1UdDgQWBBQ+r1+8WoS94fH6
+i26pw7h5sYbulDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSgYDVR0gBEMwQTA1BgwrBgEEAbIxAQIB
+AwQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EM
+AQICMFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuc2VjdGlnby5jb20vU2Vj
+dGlnb1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcmww
+gYoGCCsGAQUFBwEBBH4wfDBVBggrBgEFBQcwAoZJaHR0cDovL2NydC5zZWN0aWdv
+LmNvbS9TZWN0aWdvUlNBT3JnYW5pemF0aW9uVmFsaWRhdGlvblNlY3VyZVNlcnZl
+ckNBLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wgZMG
+A1UdEQSBizCBiIIVbXdyZWRpcmVjdHM1Lm1heW8uZWR1ghVhcmFiaWMubWF5b2Ns
+aW5pYy5vcmeCCG1heW8uZWR1gg5tYXlvY2xpbmljLmNvbYIObWF5b2NsaW5pYy5v
+cmeCGm1heW9jbGluaWNoZWFsdGhzeXN0ZW0ub3JnghJ3d3cubWF5b2NsaW5pYy5j
+b20wggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2AH0+8viP/4hVaCTCwMqeUol5
+K8UOeAl/LmqXaJl+IvDXAAABbzN6QawAAAQDAEcwRQIgMS2IRr4VPdv4G/pA3+lU
+CCW/f1A9Tc3gORXB6q5do7kCIQCd4jZSfjb75L6TfDh2UA7iMsPU8jaUYiJOXmL1
+Pcm+RwB1AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABbzN6QZYA
+AAQDAEYwRAIgUqjZoBSuVoyGmvhPXPxK+qiFg5LyNcQEQgeNGgFoYsICIGB7bt3/
+LPutCa1k36GF2FTz7me7G3ucJgdknWiQ5WJnAHYAb1N2rDHwMRnYmQCkURX/dxUc
+EdkCwQApBo2yCJo32RMAAAFvM3pB4wAABAMARzBFAiEAk16Ex8jTk//eiUSCAItn
+GYjEMYSEkdFR276fpRc9cHsCIGkPVY1yio0U58zAOz69m500rUKJWbShmGE3StS8
+AY0jMA0GCSqGSIb3DQEBCwUAA4IBAQCNDGVOCXasAOKVAZGp1OFgs0kkntqXS30z
+JkKjPYgq3jnV14koWlEFMHxGI1VxGbI81+cX5y6aBQ2SBaUzy1arTlAYbGzrVQKG
+zwxTMekXJRZO9SBDjo8jA7ioQAWXjEF7SAoPMUX7c5aC637VAAHlhtApUc0dnZOg
++sMUFoWZK19t3y5evG/x4Lm3stZj2Dwx6FARGD8ld+5aXRiuZMnNATHJ6hntbZ7C
+OHN9WSRNvJ9Ma5ASA/8Vf5SeL1RKej+dap2BZT/O7yN0FZLKi1XfiUxHgdDf3JDA
+Fr1nSf6YBoMjqi5zkWnl6Nj92325G+D4rx4pNpub2a18pNJ6Dz6A
 -----END CERTIFICATE-----
-subject=/C=US/postalCode=55905/ST=MN/L=Rochester/street=200 1st Street SW/O=Mayo Foundation for Medical Education and Research/OU=GPS/OU=Hosted by Mayo Foundation for Medical Education and Research/OU=Unified Communications/CN=mayoclinic.org
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
+subject=/C=US/postalCode=55905/ST=Minnesota/L=Rochester/street=200 1st Street SW/O=Mayo Foundation for Medical Education and Research/OU=Data Center Services - ADC/CN=mwredirects5.mayo.edu
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA1
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 6239 bytes and written 434 bytes
+SSL handshake has read 6571 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -66,15 +71,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 54C5180737586E8AAF81CAB78666248B0B1AC2BC5C1761834EF5B466B05ACEB8
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 63668C8946FA113C6BCF9A4DCDE2D965941996F55C54C0A11AF563DEDFB269B4
     Session-ID-ctx: 
-    Master-Key: 1D703C3F41E132711AB151737709C1C1A88ED657D93ABDA94CED4EFBF545C6BC44AB3F2951226D339CC89C9193B871F1
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472789586
-    Timeout   : 300 (sec)
+    Master-Key: 0D483FA63796ECF36B150564E36D2D089811B96D51B8F76C428D4B4EB0F97318659AAC08B2C9D7FFDD26F7C4DE1AD52A
+    Start Time: 1577475409
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

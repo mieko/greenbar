@@ -1,63 +1,65 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=2927442/C=US/postalCode=60603/ST=Illinois/L=Chicago/street=135 S La Salle St/O=Bank of America Corporation/OU=AIT 59915 - Network Infrastructure/CN=bankofamerica.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/C=US/ST=Illinois/L=Chicago/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Delaware/O=Bank of America Corporation/businessCategory=Private Organization/OU=Network Infrastructure/serialNumber=2927442/CN=bankofamerica.com
+   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2014 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1M
+ 1 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2014 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1M
+   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
+ 2 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
+   i:/C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
+ 3 s:/C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
+   i:/C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHITCCBgmgAwIBAgIQc91ZfYM6VxGbS5VzeTxFpzANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTUwNjE4MDAwMDAwWhcNMTYwOTE1
-MjM1OTU5WjCCAS4xEzARBgsrBgEEAYI3PAIBAxMCVVMxGTAXBgsrBgEEAYI3PAIB
-AgwIRGVsYXdhcmUxHTAbBgNVBA8TFFByaXZhdGUgT3JnYW5pemF0aW9uMRAwDgYD
-VQQFEwcyOTI3NDQyMQswCQYDVQQGEwJVUzEOMAwGA1UEEQwFNjA2MDMxETAPBgNV
-BAgMCElsbGlub2lzMRAwDgYDVQQHDAdDaGljYWdvMRowGAYDVQQJDBExMzUgUyBM
-YSBTYWxsZSBTdDEkMCIGA1UECgwbQmFuayBvZiBBbWVyaWNhIENvcnBvcmF0aW9u
-MSswKQYDVQQLDCJBSVQgNTk5MTUgLSBOZXR3b3JrIEluZnJhc3RydWN0dXJlMRow
-GAYDVQQDDBFiYW5rb2ZhbWVyaWNhLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
-ADCCAQoCggEBAK26IIf2Flxx1IV32Tz3IOFHqw8qVe6S5QJg0XwX/VUGMZMmyGfD
-wvHBItfSR6XLyepiX6hBrKXjHjmKR2M+Vg8yRNh5Ffq2Ro0APz6pevTXTsC3I/dH
-mW00OYrZCHIyh0XABXrIN8E+H9BooHiMGErfQ81WlEagCs6/orKLWPBRks0Bufz3
-Ch9QqO9l3Am1dZY0KhnzAccvGI/cKVHsgK7MWffOe2wbO5mUs5PpELB7uPQiABKe
-yieSWIOcpF803m7jm3b6550kV07gGGgUiWc27sJgZtDK2oa628zEAoUl7DZcGiyA
-ibeS1u7TgIIjLPXEGTLv6a7W17GQrpPPScMCAwEAAaOCAu4wggLqMBwGA1UdEQQV
-MBOCEWJhbmtvZmFtZXJpY2EuY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWg
-MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBmBgNVHSAEXzBdMFsGC2CG
-SAGG+EUBBxcGMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1jYi5jb20vY3Bz
-MCUGCCsGAQUFBwICMBkaF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBhMB8GA1UdIwQY
-MBaAFAFZq+fdOgtZpmRj1s8gB1fVkedqMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6
-Ly9zci5zeW1jYi5jb20vc3IuY3JsMFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcw
-AYYTaHR0cDovL3NyLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3NyLnN5
-bWNiLmNvbS9zci5jcnQwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB3AKS5CZC0
-GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABTgdjlTMAAAQDAEgwRgIhANBw
-Hlqf6ayL9GSm23SDMsz8+WVDit60EZIwRLOXmoJUAiEA8vfmttIBNQJx1fHspNtn
-7cHU1H6Z0QfRZykO3v9Xo0MAdgBWFAaaL9fC7NP14b1Esj7HRna5vJkRXMDvlJhV
-1onQ3QAAAU4HY5YPAAAEAwBHMEUCIQDliS8UVrsrnlnFyqgpYvCQ1OwugkwIxrHb
-Yry67dxlHgIgfPZY+qFv5ygpQCl4OAnfk6Vf9BU1Rin/21dm36f32GwAdgBo9pj4
-H2SCvjqM7rkoHUz8cVFdZ5PURNEKZ6y7T0/7xAAAAU4HY5U8AAAEAwBHMEUCIHuV
-QRXqdfV46qsLgeGu91Dc1sgvmoKNieFG1AMe67qvAiEAqZH4Bvpzg/+LF5A7qkmi
-NeE6WbBZet5fHrmbKEXtdcEwDQYJKoZIhvcNAQELBQADggEBAFBG1dvfT28SrS3x
-LIHuQZPpqVsMkn+bFVIX283YI7dNGoIZabQ+P9Xo0pMO8ZlxzNdT1OdD6PudqFlf
-Lph/0KUqA6lNb4vAs7uiA7sH7/+HVhEyDAzUnsptHQEbpZSoGV2GkPvzjZq6QV1B
-zT4VoK7WYU3VE0XCtzTGf2s1aKtCJxKjIt1+xc9SZsyYqi9ZNdaeHzFgF0lwg8QP
-uvoG82p+xwkeW7EVZNqe7D3pa373XVUkpr3VmffeaWBPtMvcQ0Fcu+WnvZSyyFVJ
-XEDc62Cv4YKWHDB+cCe5mI7EAi5hQRBnr4vKFl6/41teRqqnhLcjclmb7e3J1PnB
-ApHpSR8=
+MIIHRzCCBi+gAwIBAgIRAIYbEoKTF6OfAAAAAFTQC7wwDQYJKoZIhvcNAQELBQAw
+gboxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1FbnRydXN0LCBJbmMuMSgwJgYDVQQL
+Ex9TZWUgd3d3LmVudHJ1c3QubmV0L2xlZ2FsLXRlcm1zMTkwNwYDVQQLEzAoYykg
+MjAxNCBFbnRydXN0LCBJbmMuIC0gZm9yIGF1dGhvcml6ZWQgdXNlIG9ubHkxLjAs
+BgNVBAMTJUVudHJ1c3QgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkgLSBMMU0wHhcN
+MTkwNzE5MTYwNjQ0WhcNMjAwNzE3MTYzNjQyWjCB9jELMAkGA1UEBhMCVVMxETAP
+BgNVBAgTCElsbGlub2lzMRAwDgYDVQQHEwdDaGljYWdvMRMwEQYLKwYBBAGCNzwC
+AQMTAlVTMRkwFwYLKwYBBAGCNzwCAQITCERlbGF3YXJlMSQwIgYDVQQKExtCYW5r
+IG9mIEFtZXJpY2EgQ29ycG9yYXRpb24xHTAbBgNVBA8TFFByaXZhdGUgT3JnYW5p
+emF0aW9uMR8wHQYDVQQLExZOZXR3b3JrIEluZnJhc3RydWN0dXJlMRAwDgYDVQQF
+EwcyOTI3NDQyMRowGAYDVQQDExFiYW5rb2ZhbWVyaWNhLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAMGRRd/h3p7tzZAANMJrJ4o2vaBpFYKtWFh7
+0Mwh1T1fq4AuZR0vDkcuk838jQdcUwk+0A3htRqdmJB8CEYrkBTP+Qeuk861fNwU
+bohUGLWfMfyqv1XORREVQ8nYC3Vz88cJajxZimnU2fZEAJzU4yvq5NdsjlgGIGIZ
+Tv63R/ZvMe8nr1NUj+fLzZTHNyHi7I0t3QB4eSdOaCmTXEp3BvZis89KWK015RAU
+JPf8T8LOfBqM5l7Law09YRRzUbkytsuzo38AFqo89V4w/OLVIO0ssCxs732Y54bV
+v3X/n3kN+r/E34evyoCDxWBz27J6MZ5f7pRb0+2OWhOJxW35xDECAwEAAaOCAwgw
+ggMEMBwGA1UdEQQVMBOCEWJhbmtvZmFtZXJpY2EuY29tMIIBfQYKKwYBBAHWeQIE
+AgSCAW0EggFpAWcAdgCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAA
+AWwLF844AAAEAwBHMEUCIDg8r1+Xs5qv792qun+oisJUGigU2E1rBZxjGZdiSOPm
+AiEA4uO1l5sLbtTdGJSuUIxnXcAE8EG0P6xv7H4+byeQZF4AdgBVgdTCFpA2AUrq
+C5tXPFPwwOQ4eHAlCBcvo6odBxPTDAAAAWwLF85eAAAEAwBHMEUCIQD7Gagtdh0X
+5V3wWoWCesAIWHfA09miOJ++fo/f+WUrjQIgM3BywCtel8CXZXfQDdSVxDZdpvaJ
+y2pCCB/Z0uminE4AdQCyHgXMi6LNiiBOh2b5K7mKJSBna9r6cOeySVMt74uQXgAA
+AWwLF85BAAAEAwBGMEQCIBVs9i6cbNjUsAzA4KgbgROJ7R6dTz+zzuNz81ca4JrS
+AiBOPd/NTwdalruexusprWygCK7K0Ym5TacZXw2ApGh7XTAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGgGCCsGAQUFBwEBBFww
+WjAjBggrBgEFBQcwAYYXaHR0cDovL29jc3AuZW50cnVzdC5uZXQwMwYIKwYBBQUH
+MAKGJ2h0dHA6Ly9haWEuZW50cnVzdC5uZXQvbDFtLWNoYWluMjU2LmNlcjAzBgNV
+HR8ELDAqMCigJqAkhiJodHRwOi8vY3JsLmVudHJ1c3QubmV0L2xldmVsMW0uY3Js
+MEoGA1UdIARDMEEwNgYKYIZIAYb6bAoBAjAoMCYGCCsGAQUFBwIBFhpodHRwOi8v
+d3d3LmVudHJ1c3QubmV0L3JwYTAHBgVngQwBATAfBgNVHSMEGDAWgBTD99C1KjCt
+rw2RIXA5VN28iXDHOjAdBgNVHQ4EFgQU8aM7bCsbep0gAzeJbz3TKJQAcu4wCQYD
+VR0TBAIwADANBgkqhkiG9w0BAQsFAAOCAQEAu5fIuxBrM4v++96mLxjfOhE+DgKD
+Vd/aF9J8OdJZUqtAVTLkRBs45OiLhIreqhzk8xoyS/uuknT7QF15lDM0oNpDKlhR
+7J9YOeKAFjXwfKPgtLZ5fkaW186IhtKrVXmd/RzSN/fHyKnE+JOixKdEb0E8HFJt
+FdsnIshO6S6+Z/aVGDdAxzjJ/hh7jJjVc+bM5cvgWJLInSRYfQHv/zp+rAeRbAh1
+40oQEXdnbeLr4khBT/GiUshoLdVaIJqn9LEQ5P/EaOOLNmPK98PfnvEWeABLbzon
+PEk9zZVgWwM9unq8mxBlzfoLxyzeJmMR8t9GadfJ//pk+/INvL8ixKGj+w==
 -----END CERTIFICATE-----
-subject=/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=2927442/C=US/postalCode=60603/ST=Illinois/L=Chicago/street=135 S La Salle St/O=Bank of America Corporation/OU=AIT 59915 - Network Infrastructure/CN=bankofamerica.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/C=US/ST=Illinois/L=Chicago/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Delaware/O=Bank of America Corporation/businessCategory=Private Organization/OU=Network Infrastructure/serialNumber=2927442/CN=bankofamerica.com
+issuer=/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2014 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1M
 ---
 No client certificate CA names sent
 ---
-SSL handshake has read 4562 bytes and written 626 bytes
+SSL handshake has read 5822 bytes and written 514 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -65,15 +67,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-GCM-SHA384
-    Session-ID: A5DABF2540AC473E54CC65115D8710862DE1F784C1CD651BA70584B75C35A811
+    Cipher    : AES128-GCM-SHA256
+    Session-ID: 361CD956CAA18D7A9F642755B069B483FA8600D7945EA824F19CD6B182F90493
     Session-ID-ctx: 
-    Master-Key: E3F1F7E14194C80CB8E666EA43397C54FC66175715536828F29DF807EA070601830782DC9DBB91D5D9B10F099763B5EA
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472787964
-    Timeout   : 300 (sec)
+    Master-Key: 346590D8B7E8D00F4B4636B44F69BE3F2959EF267A3B901894E26B6506FCFEA8EC6BE8ACB0ADE0179B71EE487ED38129
+    Start Time: 1577474959
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

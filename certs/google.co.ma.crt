@@ -1,0 +1,82 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=Mountain View/O=Google LLC/CN=www.google.com
+   i:/C=US/O=Google Trust Services/CN=GTS CA 1O1
+ 1 s:/C=US/O=Google Trust Services/CN=GTS CA 1O1
+   i:/OU=GlobalSign Root CA - R2/O=GlobalSign/CN=GlobalSign
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFiTCCBHGgAwIBAgIRAKj4thVDQxK2BQAAAAA8NKYwDQYJKoZIhvcNAQELBQAw
+QjELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczET
+MBEGA1UEAxMKR1RTIENBIDFPMTAeFw0xOTEyMDMxNDQ5MjZaFw0yMDAyMjUxNDQ5
+MjZaMGgxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQH
+Ew1Nb3VudGFpbiBWaWV3MRMwEQYDVQQKEwpHb29nbGUgTExDMRcwFQYDVQQDEw53
+d3cuZ29vZ2xlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO36
+tsAv/tMgd2dinrPjFxZ6DOoyqOwmStpYcotUQsghup/MeQFFXzOaHoqckM8AlVHw
+pMa950VlRAPfQEBEvPOYEV6Tx2u9EnS0wkeVB4XCZz59ouRNjO3g05vhk0mns6ap
+G9mS0LGR6YsLyiXLY0DopDfmS1NmSR6y+buca5+JUdhr3DaTVMnoXwRBQRM77fET
+4ut0sKLTLWc+y0rcLg2+5rfL0Q5yjRJij/fmeqzY0kAwO++dTM061iODXd/d/DPv
+2puPDJulaJ5Cse3JpNLcV8xFVPuH3GlxKCx2pHluux44eI1tnPMCBb6aWX9Je00t
+u/8vveiHBxJAHNhsPpkCAwEAAaOCAlIwggJOMA4GA1UdDwEB/wQEAwIFoDATBgNV
+HSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSbs3/h/Rb2
+EYn6AVVF2dOiukykpDAfBgNVHSMEGDAWgBSY0fhuEOvPm+xgnxiQG6DrfQn9KzBk
+BggrBgEFBQcBAQRYMFYwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vY3NwLnBraS5nb29n
+L2d0czFvMTArBggrBgEFBQcwAoYfaHR0cDovL3BraS5nb29nL2dzcjIvR1RTMU8x
+LmNydDAZBgNVHREEEjAQgg53d3cuZ29vZ2xlLmNvbTAhBgNVHSAEGjAYMAgGBmeB
+DAECAjAMBgorBgEEAdZ5AgUDMC8GA1UdHwQoMCYwJKAioCCGHmh0dHA6Ly9jcmwu
+cGtpLmdvb2cvR1RTMU8xLmNybDCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1ALIe
+BcyLos2KIE6HZvkruYolIGdr2vpw57JJUy3vi5BeAAABbsxzumEAAAQDAEYwRAIg
+Su7oB9Porkhn9N15k0Dvse9hfWebbejbZ9KkF2wzeiwCIB1sUMYSufXjU1PGipbT
+qdsB3zrrJNTWyx2qcltESJ1FAHUAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1
+loFxRVgAAAFuzHO6iQAABAMARjBEAiAR4P2K+GqSRqtlH+MRo4ow4EOHHFlYpIDi
+y+eyJbz+PQIgDqPqvMoCCXLokU9IfOYRIIm1NBaLVayBIGMMQXjCIyEwDQYJKoZI
+hvcNAQELBQADggEBACOaCeoNX9rqlOyXEwscdMiXZCJgZbvmFNp/ufhRvnvqvV+O
+zksGyEyL9JFi4skU/IyLa9mLntCG+zvbf3T8UHVCRUH8iRHGyHlT1Td9OP/5TssM
+uGAY0/AMWh1BjPnmXhndVqlHrjAfxz/8nVE+zmDoU3OkQI9pWKRm5BBEo7kk0+hc
+Tqavqoayz+OI9whz2FE8HBDfZczf2wDL19el8I3H8+X0C1AKx5E3lt0Rpx2IqvU/
+coqxWEuA6n4y43hnmyRyl997VisI79Slbhhh9B3NHRfVjhAVqMXFgIYhZ+iEh2zn
+L/U56Npzl72GzKQqwCV2t3itSpaUPGrhsz8nqN0=
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=Mountain View/O=Google LLC/CN=www.google.com
+issuer=/C=US/O=Google Trust Services/CN=GTS CA 1O1
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 3190 bytes and written 281 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: F757038B32F0A52B6DDF16A6EE1D9ADFCF1C822037F94FAC8F9594817A00E1C7
+    Session-ID-ctx: 
+    Master-Key: A4E6386707454AF3984DD01049BC389A39BEFD79692AF8CDAA3094B1502AD72E8C278F123E50939E31AA1A3989E3694D
+    TLS session ticket lifetime hint: 100800 (seconds)
+    TLS session ticket:
+    0000 - 00 6c 3f f8 bb 37 03 74-3a 29 71 d1 47 4e 7b b9   .l?..7.t:)q.GN{.
+    0010 - 9c 8d c8 73 6e 63 58 dd-7b 7a 32 4b 32 fa c5 8d   ...sncX.{z2K2...
+    0020 - ca ea 7f 45 64 7d 70 ef-01 a8 70 96 9b c4 42 27   ...Ed}p...p...B'
+    0030 - 0b bb cd 7b c0 09 cf 91-12 46 7f a3 1b 38 4e c4   ...{.....F...8N.
+    0040 - d3 66 e0 a3 eb 11 7c c0-b4 6e 16 eb 67 17 76 23   .f....|..n..g.v#
+    0050 - 1c d2 8a 83 5a 01 be 13-6b 50 ac d9 65 71 90 72   ....Z...kP..eq.r
+    0060 - 1a 9d ac ea d9 2d 2b d8-94 4c 97 a1 0e 80 85 ac   .....-+..L......
+    0070 - 7a 1f 7e c3 76 2b e3 b9-cf e8 45 c5 06 2b 9d 40   z.~.v+....E..+.@
+    0080 - 87 29 1f bf 4d ac a5 31-02 6d 49 25 9b 32 e4 93   .)..M..1.mI%.2..
+    0090 - df 6b 8a 71 ca e7 40 2b-18 1f 62 8f fe 66 e1 96   .k.q..@+..b..f..
+    00a0 - 0b 0c 3c cb 38 01 3e ab-8b 27 92 2d c9 7a 4b c0   ..<.8.>..'.-.zK.
+    00b0 - cb f1 3d 42 d2 37 e3 77-e8 56 a2 db cd a2 02 de   ..=B.7.w.V......
+    00c0 - dd 4b 6c 3f 67 c9 da c5-00 47 89 15 7d 09 f1 06   .Kl?g....G..}...
+    00d0 - 2f 78 d0 c9 5c                                    /x..\
+
+    Start Time: 1577475624
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,56 +1,58 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=FR/ST=Ile-de-France/L=Paris/O=Schibsted France SASU/CN=leboncoin.fr
-   i:/C=IL/O=StartCom Ltd./OU=StartCom Certification Authority/CN=StartCom Class 3 OV Server CA
- 1 s:/C=IL/O=StartCom Ltd./OU=StartCom Certification Authority/CN=StartCom Class 3 OV Server CA
-   i:/C=IL/O=StartCom Ltd./OU=Secure Digital Certificate Signing/CN=StartCom Certification Authority
+ 0 s:/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.leboncoin.fr
+   i:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+ 1 s:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGQjCCBSqgAwIBAgIQItKkyIsen++c8mORVC7UODANBgkqhkiG9w0BAQsFADB4
-MQswCQYDVQQGEwJJTDEWMBQGA1UEChMNU3RhcnRDb20gTHRkLjEpMCcGA1UECxMg
-U3RhcnRDb20gQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkxJjAkBgNVBAMTHVN0YXJ0
-Q29tIENsYXNzIDMgT1YgU2VydmVyIENBMB4XDTE2MDYwODIyMDM1MFoXDTE5MDYw
-ODIyMDM1MFowbDELMAkGA1UEBhMCRlIxFjAUBgNVBAgMDUlsZS1kZS1GcmFuY2Ux
-DjAMBgNVBAcMBVBhcmlzMR4wHAYDVQQKDBVTY2hpYnN0ZWQgRnJhbmNlIFNBU1Ux
-FTATBgNVBAMMDGxlYm9uY29pbi5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
-AQoCggEBAPas5eiMHsx7lhrJwtWG/B3ciQ+zeyjG2eefXvlFlmFGv7PvFqxUTNOM
-+lwKBpe9dbpV2gO7X2HCr/xVtSxsb1EUyexIexzk1ykICZXGhmSzEO5oG2nNsLfD
-W2zbgWIUTNREX1kEdu1X2UVlzkJ+Xe7lWb5egv4caxLQ81mfNxbhnXHKtWkBt99M
-4EvpwL90ZfButV7gwIPLgTnNTR8AYS6jAJ8JCxgWWQQYfU/UOZefenq1hwgiWHUX
-F7sbKkbZAe6FLOXkUPeJuUIVSFqJvqxNNtTEZQgXQwuEYqv7cmriKiEwNtb05zBC
-6Kfcs1uBJ+JpayDLwHGbVvaxoxPq42cCAwEAAaOCAtIwggLOMA4GA1UdDwEB/wQE
-AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwCQYDVR0TBAIwADAd
-BgNVHQ4EFgQUzF56FeYx8qwf1yenWAwra28DDNUwHwYDVR0jBBgwFoAUsT8cknuS
-sFolszj7nAekJlAy41EwbwYIKwYBBQUHAQEEYzBhMCQGCCsGAQUFBzABhhhodHRw
-Oi8vb2NzcC5zdGFydHNzbC5jb20wOQYIKwYBBQUHMAKGLWh0dHA6Ly9haWEuc3Rh
-cnRzc2wuY29tL2NlcnRzL3NjYS5zZXJ2ZXIzLmNydDA4BgNVHR8EMTAvMC2gK6Ap
-hidodHRwOi8vY3JsLnN0YXJ0c3NsLmNvbS9zY2Etc2VydmVyMy5jcmwwJwYDVR0R
-BCAwHoIMbGVib25jb2luLmZygg4qLmxlYm9uY29pbi5mcjAjBgNVHRIEHDAahhho
-dHRwOi8vd3d3LnN0YXJ0c3NsLmNvbS8wUQYDVR0gBEowSDAIBgZngQwBAgIwPAYL
-KwYBBAGBtTcBAgUwLTArBggrBgEFBQcCARYfaHR0cHM6Ly93d3cuc3RhcnRzc2wu
-Y29tL3BvbGljeTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AGj2mPgfZIK+Oozu
-uSgdTPxxUV1nk9RE0QpnrLtPT/vEAAABVTImO8QAAAQDAEcwRQIgJ276fKdOfsB8
-URSCC1c7Zp1TmMRb/s/KfaP+c599nakCIQDmBqdalWoo8+7y7TQ7El4MtFp9ktZ9
-8BizOHsZS00kZAB2AO5Lvbd1zmC64UJpH6vhnmajD35fsHLYgwDEe4l6qP3LAAAB
-VTImPacAAAQDAEcwRQIgRQe5XAo9LPbbSD8JKrhvXJ0zmDd1dxifSzc6TdDnFDYC
-IQDa6+83Al9kHQcqOIk14OPxGEowVT7ys1PaHGOAVZscFDANBgkqhkiG9w0BAQsF
-AAOCAQEAcbKKLYRTj4AnCdCvJw9c12HEynLqh46MqBB4ACEw066oNJfUWH+yZTyl
-uzxi6Ewrs//y494qztOQG9W2xRSiKmdoVzXDZvrpJXqLG1wpdUFPM/C3w/HC8cYF
-RDfW8paVv0FbjFlDCJwC8834DdWjnD1FlmJs6OxZ6JQg62vXMTlhAnrGI3oRHv5l
-PpfnlTe30Bi20uzmT+MAcggb4VVJHwzJcPFCeBcIUwPrYzsrElwVsBRHhJCYV8H2
-JFf6pQ3NtTXTgbaT3tczW2xxWUvdJwg7/q28YaBvD+fPcRjL2jG+j937IIvjkOdR
-HpdYtT48hlrw+ItZH4b88BFm8HvKlg==
+MIIGfjCCBWagAwIBAgIRAKY52XALuIL9UEHVRlBZPoUwDQYJKoZIhvcNAQELBQAw
+XzELMAkGA1UEBhMCRlIxDjAMBgNVBAgTBVBhcmlzMQ4wDAYDVQQHEwVQYXJpczEO
+MAwGA1UEChMFR2FuZGkxIDAeBgNVBAMTF0dhbmRpIFN0YW5kYXJkIFNTTCBDQSAy
+MB4XDTE5MDMyODAwMDAwMFoXDTIxMDQxODIzNTk1OVowYjEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMSQwIgYDVQQLExtHYW5kaSBTdGFuZGFyZCBX
+aWxkY2FyZCBTU0wxFzAVBgNVBAMMDioubGVib25jb2luLmZyMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuE9LKCyHUd9Vv8OoOHrfFj5sU4mL2jKpH2yb
+A3Av9FCXvGsKxT1DKDHgidkDREsy+vJZmYHkcwQqEou3N83MsOaL3P9XHmK1bmkr
+Inp3REKe2YCeOBiJ4lOk0BUfAvL8ArwTmKOKblnyFEZuwIsP8CLdrT5UivVutuoe
+wQkvnkxpbGqV15ELn3RjwJEJFLb+vdKCuYf4Ksw7vV5/GRqdRPJHabm/g1QZhyow
+V0ppyQyav47Zn1kti7ibDtGrYB+Ur2avXoe8t5bVhI9cgL+rv8uiXThTQG1c+7Mp
+i9j8O3S07FvlA6eEGmSwKbF8i5o8jlvxkI9j52j5QMfSqGG7cQIDAQABo4IDMDCC
+AywwHwYDVR0jBBgwFoAUs5Cn2MmvTs1hPJ98rV1/Qf1pMOowHQYDVR0OBBYEFKUk
+BC5E+1qFUutQpU+FAUmaYGnlMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBLBgNVHSAERDBCMDYGCysG
+AQQBsjEBAgIaMCcwJQYIKwYBBQUHAgEWGWh0dHBzOi8vY3BzLnVzZXJ0cnVzdC5j
+b20wCAYGZ4EMAQIBMEEGA1UdHwQ6MDgwNqA0oDKGMGh0dHA6Ly9jcmwudXNlcnRy
+dXN0LmNvbS9HYW5kaVN0YW5kYXJkU1NMQ0EyLmNybDBzBggrBgEFBQcBAQRnMGUw
+PAYIKwYBBQUHMAKGMGh0dHA6Ly9jcnQudXNlcnRydXN0LmNvbS9HYW5kaVN0YW5k
+YXJkU1NMQ0EyLmNydDAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudXNlcnRydXN0
+LmNvbTAnBgNVHREEIDAegg4qLmxlYm9uY29pbi5mcoIMbGVib25jb2luLmZyMIIB
+fQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdQC72d+8H4pxtZOUI5eqkntHOFeVCqtS
+6BqQlmQ2jh7RhQAAAWnD+qMtAAAEAwBGMEQCIAyJRoGTkzQ9M1h0r32x/tew0Cex
+Yz4GlJufuNJyZl6aAiBD9NUtu4ohqfBG9AZKaIpqtnYaXTGzp9Mx2mSntxDRqwB3
+AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABacP6o4IAAAQDAEgw
+RgIhAPGCkKInihtthx/Wlzlq9O6yC+cMFKWVxKYhTHL0EvG5AiEAxvV8cBKZmu/M
+iZQHoGdBCXIwZ/f+66R8oJTP5l5oyKIAdQBc3EOS/uarRUSxXprUVuYQN/vV+kfc
+oXOUsl7m9scOygAAAWnD+qNxAAAEAwBGMEQCIHtVG3rWFR/qk5KGE+rSX+C1RBH8
+JYXcWPSFX/5pQVcZAiA2Q+BUF71XXVtnHzqYpg2WU7SSpQSCUu6XkqgCA4G1HzAN
+BgkqhkiG9w0BAQsFAAOCAQEAEphKDIA0chly/qJZt3pI6vqddzGpncZr3zpAd1tL
+RczdUm8xyCYxf8Fwof5KpbbGBXy/xiIgeFHHcifJ5N0PLW7I9dnoBc48gvEpwWsl
+N52jOpw+myzuGKDdtQkFFP0hyoqxx8Po8fw7FGg/0LtNocusG3FMIgGIBKS+YqhB
+Qr9FU7/QXTHEzV2gu0H4fpIyACR69uDIkTiMAcyomS1FY6FpTgqQmsNOMWLMCVZ8
+4ecre56f45fxs3Nds/4vy8Qxua56FfUssmQ0KKqzotTltJGBURawV/Ts8qbjeV+5
+L+3jIs33wpKm0EMVWVkPVglpiDZerL8ff8OpX3gfX9LZhg==
 -----END CERTIFICATE-----
-subject=/C=FR/ST=Ile-de-France/L=Paris/O=Schibsted France SASU/CN=leboncoin.fr
-issuer=/C=IL/O=StartCom Ltd./OU=StartCom Certification Authority/CN=StartCom Class 3 OV Server CA
+subject=/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.leboncoin.fr
+issuer=/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3781 bytes and written 434 bytes
+SSL handshake has read 5246 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -61,27 +63,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: B68101C5A4F6021CAD1CB8BF80EA98EE0500F110988E1EACDE09BD207B3170B9
+    Session-ID: 7CCF09DCA3D17A5AAF482AF3DA6B48FC6456DDE9B298CDD62AFAAA65A44C1924
     Session-ID-ctx: 
-    Master-Key: 29401032DB0839EA3E9983512444AB8FD0B19066334518C182809F3FF51B4CFE0A29099D7A262517F57331C8379C5BB5
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: AD64C11AB29A9926F5ACB131A0AB94684C9C4351247EAE24C9F9737F29963C30E534BB4FB68276650E092F9A88DF86FA
     TLS session ticket lifetime hint: 1800 (seconds)
     TLS session ticket:
-    0000 - 31 18 49 5a 05 92 ab b5-60 71 b3 63 a5 79 8a 20   1.IZ....`q.c.y. 
-    0010 - 04 2e a7 23 af ef ee e7-9d bb e0 8d d2 54 3a f1   ...#.........T:.
-    0020 - 62 13 43 05 48 ce e0 55-af ac ef 81 6c 94 de b1   b.C.H..U....l...
-    0030 - 39 cd 25 56 95 66 f6 1b-88 11 fb 04 3c 31 36 57   9.%V.f......<16W
-    0040 - 0e 49 ee fc b1 f6 f2 93-da cd 57 fe 6e 5f 9b 2c   .I........W.n_.,
-    0050 - a4 db 0a fe 09 6c 68 fb-85 fc 2f a4 68 ec a1 ed   .....lh.../.h...
-    0060 - ac 47 c1 d4 fe 8d 32 fa-c1 df e1 b3 84 65 23 fa   .G....2......e#.
-    0070 - a3 e3 d2 7f 0e db 5f f4-b7 b7 f9 f2 db 1b cd 86   ......_.........
-    0080 - 0c d1 8c 49 bb d4 1b 8c-2b af c6 94 4b 28 ea 7a   ...I....+...K(.z
-    0090 - ff 11 9a fd b0 5c df bb-8f 81 08 34 b9 70 75 82   .....\.....4.pu.
+    0000 - 75 07 42 12 e2 4e 96 d7-53 0b 13 e4 e1 80 93 1c   u.B..N..S.......
+    0010 - 94 e8 a8 c7 37 b8 97 de-6d e9 fb 7d e5 b1 6c e2   ....7...m..}..l.
+    0020 - 6e 61 14 4e ff 6e 8e 41-44 c6 1b 60 d5 8a 6a 77   na.N.n.AD..`..jw
+    0030 - 62 30 5a 0e 19 73 4a e9-52 63 97 3f 68 33 3e 70   b0Z..sJ.Rc.?h3>p
+    0040 - 26 8b 1c 00 89 5a 46 63-1f 18 73 70 d7 84 98 40   &....ZFc..sp...@
+    0050 - 24 ba f8 ad dc 05 e7 69-3f 31 d3 e8 fe 46 22 51   $......i?1...F"Q
+    0060 - 18 ad 64 39 9c e8 81 4b-5a 29 be f5 be c7 d9 63   ..d9...KZ).....c
+    0070 - 87 24 4e 45 0e 08 7d 4a-af 2d eb a6 10 8e 0b ac   .$NE..}J.-......
+    0080 - 47 fe 1b 41 73 8e 1c b6-ad 7b 05 3b bb e6 55 e8   G..As....{.;..U.
+    0090 - 2a c4 fc 1b f1 94 25 e3-5f fa 30 9f ff f8 ef 60   *.....%._.0....`
 
-    Start Time: 1472788090
-    Timeout   : 300 (sec)
+    Start Time: 1577475067
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

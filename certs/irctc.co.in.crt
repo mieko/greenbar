@@ -1,75 +1,74 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/jurisdictionC=IN/businessCategory=Private Organization/serialNumber=101707/C=IN/ST=Delhi/L=New Delhi/O=Indian Railway Catering and Tourism Corporation Ltd/OU=ITC 22.8/CN=www.irctc.co.in
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust EV SSL CA - G4
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust EV SSL CA - G4
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Primary Certification Authority
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Primary Certification Authority
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=IN/jurisdictionStateOrProvinceName=Delhi/serialNumber=101707/C=IN/ST=Delhi/L=New Delhi/O=Indian Railway Catering and Tourism Corporation Ltd/CN=www.irctc.co.in
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust EV RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust EV RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-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
-x+hQ+JO0Cubw5mrHbSZTQhqb
+MIIHBzCCBe+gAwIBAgIQB9VIIQu0dOnpG8Nfi3m78jANBgkqhkiG9w0BAQsFADBh
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdHZW9UcnVzdCBFViBSU0EgQ0EgMjAx
+ODAeFw0xOTAzMTgwMDAwMDBaFw0yMTA1MTYxMjAwMDBaMIHmMR0wGwYDVQQPDBRQ
+cml2YXRlIE9yZ2FuaXphdGlvbjETMBEGCysGAQQBgjc8AgEDEwJJTjEWMBQGCysG
+AQQBgjc8AgECEwVEZWxoaTEPMA0GA1UEBRMGMTAxNzA3MQswCQYDVQQGEwJJTjEO
+MAwGA1UECBMFRGVsaGkxEjAQBgNVBAcTCU5ldyBEZWxoaTE8MDoGA1UEChMzSW5k
+aWFuIFJhaWx3YXkgQ2F0ZXJpbmcgYW5kIFRvdXJpc20gQ29ycG9yYXRpb24gTHRk
+MRgwFgYDVQQDEw93d3cuaXJjdGMuY28uaW4wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCmrlMdJzhydmQhtljdwzzPeODwEbC+HqF9/Dj50t7WOyupoIvG
+L8lMCJSG7P912vzkyZJHT+MtZdsqlp1RE0Hdv55mPIh9z62EC3zXKXSHI09OFZh2
+zYj+rnK3qPeVWHpbXOWli1nzIl61YOuzFKhDXy2wVROoDkScWIe4I9DZ1CR6Ta0x
+gTGr7ogynzoquSdJ6lOxrHNQDs1c9niAQEBu9DvWk9LAYBnhuPNffCOtD57W7lYN
+qDuoU8SJB3AWvuxb88cNGREJeRQgeFJ3dozqglHwz2haez9OCicUVDNw8AsTPDu7
+1+r0wOE5lIG4btP95sKiKTq13OdPhhVyB7exAgMBAAGjggMzMIIDLzAfBgNVHSME
+GDAWgBTKkmdSYd6u/LoiK38ch0wl+2+ZWDAdBgNVHQ4EFgQUHEzFxNk/s2lOZHYG
+YwXJwKLszC8wJwYDVR0RBCAwHoIPd3d3LmlyY3RjLmNvLmluggtpcmN0Yy5jby5p
+bjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MEAGA1UdHwQ5MDcwNaAzoDGGL2h0dHA6Ly9jZHAuZ2VvdHJ1c3QuY29tL0dlb1Ry
+dXN0RVZSU0FDQTIwMTguY3JsMEsGA1UdIAREMEIwNwYJYIZIAYb9bAIBMCowKAYI
+KwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwBwYFZ4EMAQEw
+dwYIKwYBBQUHAQEEazBpMCYGCCsGAQUFBzABhhpodHRwOi8vc3RhdHVzLmdlb3Ry
+dXN0LmNvbTA/BggrBgEFBQcwAoYzaHR0cDovL2NhY2VydHMuZ2VvdHJ1c3QuY29t
+L0dlb1RydXN0RVZSU0FDQTIwMTguY3J0MAkGA1UdEwQCMAAwggGABgorBgEEAdZ5
+AgQCBIIBcASCAWwBagB3ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGF
+AAABaY+AjIYAAAQDAEgwRgIhAP+rgb/WMryC9TzQn/COqePPuPGxZNLsb0u7akWQ
+Sn+hAiEA4qbDoLc8kjim2HS86aaWHofBHhVTgFo2wUenFhi5oksAdwBWFAaaL9fC
+7NP14b1Esj7HRna5vJkRXMDvlJhV1onQ3QAAAWmPgI0rAAAEAwBIMEYCIQCxG3Ub
+sOVEkC53jLO5252FAcGH2fH7TRcDHtrFVr+K/gIhANzCGSPO7TGAASvHWwQApfq8
+jwVZn7R+JwLb/Gbm64xBAHYAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16g
+gw8AAAFpj4CO/gAABAMARzBFAiEAykFRLx39MuTwo/Pl4Eql9mMoIeFeZAjRojnC
+XW1xEbUCICJAz9Z9VFcTEkcdGCI08l2qhyk1OOD9tvOOVk6uS4s1MA0GCSqGSIb3
+DQEBCwUAA4IBAQAT8vnAzsvtbUeAP30eaegdMPPkHuiv3JKWjllyU47AyqrysjcC
+149EZBv0jN+rcU0OdEW23O96RwK3DrZtgq2ZE5ai7XOlq3DcfKxxSJHHWySmo2Ax
+Rs5L8vmqLU4j+1SddaMp81DLgl73Wat6/xXjz58ZVVPuLfpgrqtNuFQzB25DdfPB
+6rjT8nqeE4d/+wfAsUPS2cYRP1Pyl9AFnis788dxwv7v40gwfWDmZhK56peh9q27
+IHOYUv1rk1UHIeYu2Q9VesPk6nrXASESUmcPYRyiPBHw6swnOQ1s4CzkOIoukKEq
+BPAzbDyG+W8Rn1sMwp5FKavgqaORrjOh4y4s
 -----END CERTIFICATE-----
-subject=/jurisdictionC=IN/businessCategory=Private Organization/serialNumber=101707/C=IN/ST=Delhi/L=New Delhi/O=Indian Railway Catering and Tourism Corporation Ltd/OU=ITC 22.8/CN=www.irctc.co.in
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust EV SSL CA - G4
+subject=/businessCategory=Private Organization/jurisdictionCountryName=IN/jurisdictionStateOrProvinceName=Delhi/serialNumber=101707/C=IN/ST=Delhi/L=New Delhi/O=Indian Railway Catering and Tourism Corporation Ltd/CN=www.irctc.co.in
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust EV RSA CA 2018
 ---
 No client certificate CA names sent
 ---
-SSL handshake has read 3832 bytes and written 634 bytes
+SSL handshake has read 4127 bytes and written 554 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA
+New, TLSv1/SSLv3, Cipher is AES256-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : AES256-SHA
+    Protocol  : TLSv1.2
+    Cipher    : AES256-SHA256
     Session-ID: 
     Session-ID-ctx: 
-    Master-Key: 2D2C6BC27681A6906D59953A76E00C4B7A9D0B653436F2AAC7E6E66181CC7AED1234CB980018F3718B25C2B5B5F9F9EA
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788212
-    Timeout   : 300 (sec)
+    Master-Key: 7FB56419E3BDCFB3D9397548B6365E24F718CF5FDE7C7187B39F45DB664BDB710F3918DE8345138F8140EE628B3C5FF4
+    Start Time: 1577474965
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

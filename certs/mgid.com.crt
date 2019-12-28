@@ -1,7 +1,7 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/CN=*.mgid.com
+ 0 s:/OU=Domain Control Validated/CN=*.adskeeper.co.uk
    i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
  1 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
    i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
@@ -12,45 +12,50 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFGjCCBAKgAwIBAgIJAPoZPWf3MpJjMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
-VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
-MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
-cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
-dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTE1MTAyNzA5MzkzOFoX
-DTE2MTExMjEwMzIwMlowODEhMB8GA1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRh
-dGVkMRMwEQYDVQQDDAoqLm1naWQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
-MIIBCgKCAQEAtmrtT9QJp8ckvYMuPaaAdRIp4CRUuYiphsSFD7Emp4L5W8HxvCvD
-ds+cWqh1bulWayxYcD09ZbPc9ro2Xn6Mcbh3PWkBwOETlZnT+RWh89ARVufSlQVT
-te3VqS96U4WR6cZmYuFXhGP1u0B6X89gmlvvDmmy3O9eL+ItKnnyOW0DVhYzyRXz
-G3tGVRkf2QRl+vBp0SXrokj4Jv4o2YQ9sPsAzq58jPtuUxHV5czxBAw4GdNR8s/p
-dxY0G2maKbkJJst+y4Ypmch6wfqjPiYuiGftAPimybT36PpMia86wkjsg3z7L1fl
-p2boAIVsxyTpts9UbcqpGhurWbpWGZkEKwIDAQABo4IBqDCCAaQwDAYDVR0TAQH/
-BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDgYDVR0PAQH/BAQD
-AgWgMDcGA1UdHwQwMC4wLKAqoCiGJmh0dHA6Ly9jcmwuZ29kYWRkeS5jb20vZ2Rp
-ZzJzMS0xNDQuY3JsMFMGA1UdIARMMEowSAYLYIZIAYb9bQEHFwEwOTA3BggrBgEF
-BQcCARYraHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5
-LzB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmdvZGFk
-ZHkuY29tLzBABggrBgEFBQcwAoY0aHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5
-LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNydDAfBgNVHSMEGDAWgBRAwr0njsw0gzCi
-M9f7bLPwtCyAzjAfBgNVHREEGDAWggoqLm1naWQuY29tgghtZ2lkLmNvbTAdBgNV
-HQ4EFgQUyT0BnzliOvcr6lZbkpL8d/y7BnowDQYJKoZIhvcNAQELBQADggEBAGjn
-ADfX78/bd/lfLh97c+TpkuPhmY2AKFBloKRFbcemJJfHIUZekUOyZBdWtiapyp3M
-iCEwmJ89BDT7885zO7xBsbLg5gdWa9Uz64a6SkEg+/syzFPCHa3L+pxLyLVaCxHW
-jE9YzZu+ZJw7eRD/WuNj4Gt7ZEGEtl9xjCb6wY4QbXVd/79y2/HXbBqpTJBbBPe6
-dGnxYqL//hQpv4Avw4Adq6HtWQm6IYVeROi0tMnPdD7YAh3uRNzDhcx+Aa/X7qVN
-ySdVPh1bxpm9Xu03EW3QPqBSXdsCie3NjCjTJOfRIXpQ3BBTcKsqHYVeX80GxV3Q
-ivgy8Mk0kK5YeLM0yT8=
+MIIGPzCCBSegAwIBAgIIMpiIU/pJ4MMwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMTkwMTAzMTMxNjMzWhcN
+MjAwMzA0MTEyODM4WjA/MSEwHwYDVQQLExhEb21haW4gQ29udHJvbCBWYWxpZGF0
+ZWQxGjAYBgNVBAMMESouYWRza2VlcGVyLmNvLnVrMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAxYHCJWoLM5PvBQrgdtWvTngDQ6Tn3NLbRf7z6P0wsdDq
+lhW+zp5szhG8bRoJZs4A3W+reIm1997OK+36Mw00eHwKiYauu68KqaJAwk8II46D
+sy3rwjUR/hUab7em+qtuYZXeyeYwDJfcDHJZLQ4JMTrfjo+IhXWbiXMyZm590Rv7
+P/Ga9BcbD5nuR4qRhHcNYlKfJ7WqKWaITdDL22AtootYNY5/O2UzQUGNCJghNrXI
+l58PEM45X4fZM87LCVvl4Woojrn+U5H3H/FSLeiySZaNWWe3b14IeyZ4L92hJE/s
+Bm5clKc2eaaXPBTtlOKDv7Fopgkfcoq/nDMy596YCwIDAQABo4ICxzCCAsMwDAYD
+VR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDgYDVR0P
+AQH/BAQDAgWgMDcGA1UdHwQwMC4wLKAqoCiGJmh0dHA6Ly9jcmwuZ29kYWRkeS5j
+b20vZ2RpZzJzMS05MDMuY3JsMF0GA1UdIARWMFQwSAYLYIZIAYb9bQEHFwEwOTA3
+BggrBgEFBQcCARYraHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBv
+c2l0b3J5LzAIBgZngQwBAgEwdgYIKwYBBQUHAQEEajBoMCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC5nb2RhZGR5LmNvbS8wQAYIKwYBBQUHMAKGNGh0dHA6Ly9jZXJ0
+aWZpY2F0ZXMuZ29kYWRkeS5jb20vcmVwb3NpdG9yeS9nZGlnMi5jcnQwHwYDVR0j
+BBgwFoAUQMK9J47MNIMwojPX+2yz8LQsgM4wLQYDVR0RBCYwJIIRKi5hZHNrZWVw
+ZXIuY28udWuCD2Fkc2tlZXBlci5jby51azAdBgNVHQ4EFgQU8BswyNt/RiJa2mhW
+QsDNkzqqesIwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQCkuQmQtBhYFIe7E6LM
+Z3AKPDWYBPkb37jjd80OyA3cEAAAAWgT27tqAAAEAwBGMEQCIB97zQ9zuna8LXN4
+TY44dV5GKOulDdousV4P40FlG7oPAiA316TRPIPiQrUCW/w7c0p1tNGcmS0gZsuv
+FoGINcgF/AB2AF6nc/nfVsDntTZIfdBJ4DJ6kZoMhKESEoQYdZaBcUVYAAABaBPb
+vrwAAAQDAEcwRQIhALLk6knpm7hwLGmZ0JzYloieahi/C8Ioxkwa/rG8bGEUAiBu
+eZ8nEHpte+UKsYwAOi95tgU3knHivYzAp4RQ0gAR/TANBgkqhkiG9w0BAQsFAAOC
+AQEATNfTg6mp4cG/kULTT+Dopl6LqPmnNDRRiaVExz9I7pG18SOorRUYmERt2p3b
+z/RWTC2QN9yliW+hHcD8MJBs7idofMF+61ISkTTh/J3jEiLDGcCl0+vbr7384OnR
+IWD2vx6n++jgCF40KXWcQwGDl38hbO6x5g+NfzGh5+r7qyStV/I08QbhCR7qPKPE
+p908dhKcfGMVu4QEDvs2gF/Sy8Rqovw1XEQWKwYOCp9rf/V0I2IBgfyFQrsvu7b+
+Wlq/V3WVza1nu3CgYaSxOTop1txUhW+sfEz/7Gi5dvIzPf1FSfPujBVckMOAi7JS
++3urj86vEnEqrK1srK9Qr1Ye3g==
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/CN=*.mgid.com
+subject=/OU=Domain Control Validated/CN=*.adskeeper.co.uk
 issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5411 bytes and written 434 bytes
+SSL handshake has read 5699 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -58,29 +63,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 0AB30B7F8B75F717715435C51B0D0D6A4E464B8FD97DC150EEBF1B41FFBB5B99
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: DE0F090877146A2E03221344ECE73A3043674A65EF617A46A64285B5F10B8B76
     Session-ID-ctx: 
-    Master-Key: B649EE5C41758DBD03F2E2E528C98F07E54A0001289273136983AF22CB9732D830095B57190884A71A451560E469DEB9
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 6A82203EE550BD62CFE288FD474F0F5DAA57AEC4E366246B3FF2BD949519E7DB882BACB349F271DBD9A34EC2F4BC3E17
     TLS session ticket lifetime hint: 70 (seconds)
     TLS session ticket:
-    0000 - 38 cf aa eb ec 41 2a 18-bd bd 10 1f 39 3e 28 f1   8....A*.....9>(.
-    0010 - 80 11 f1 60 b7 54 15 2e-cd 8d 8a 55 41 b9 c3 69   ...`.T.....UA..i
-    0020 - e7 9f 1f 35 e3 aa 9d 16-1a f4 b5 47 64 e7 c4 21   ...5.......Gd..!
-    0030 - ad 7d 7c ff dc 75 42 18-80 d8 af 4c 5d f3 34 9f   .}|..uB....L].4.
-    0040 - 3e 42 ba 1d 92 5a f2 a2-91 7e 40 7f 68 cf 98 c0   >B...Z...~@.h...
-    0050 - ca c8 7c 00 ae 30 c7 52-e0 ef cf e1 40 64 49 2a   ..|..0.R....@dI*
-    0060 - 4d 52 4a ff 8c 97 fe d4-ad 53 8f 61 f0 30 2b d2   MRJ......S.a.0+.
-    0070 - a0 12 c6 4f a8 3c 61 97-07 11 9d 1d bc c8 21 8c   ...O.<a.......!.
-    0080 - b4 75 82 5a 56 b0 ed b8-c3 97 2a ce 27 c9 e6 0b   .u.ZV.....*.'...
-    0090 - b6 dc 89 77 31 9d 89 c5-a5 b6 5e 95 d2 f4 fe 37   ...w1.....^....7
-    00a0 - 8d f5 b2 d9 ab f6 39 42-32 0f e4 1d 2f 58 03 cb   ......9B2.../X..
+    0000 - ba 4c 53 74 be 75 5f 46-cc 72 79 70 95 4a 72 98   .LSt.u_F.ryp.Jr.
+    0010 - 2e 46 a5 30 db 52 4f 9f-51 d7 f1 d8 60 39 8e f3   .F.0.RO.Q...`9..
+    0020 - 8e 82 d9 13 a8 ba 5d a9-e5 c7 43 b1 e9 c2 61 01   ......]...C...a.
+    0030 - c0 09 e4 2b 84 dc 9e 21-84 d8 78 dc ee 68 b7 39   ...+...!..x..h.9
+    0040 - 42 c8 78 28 28 91 36 66-c8 11 b0 89 92 d7 2b d1   B.x((.6f......+.
+    0050 - 7e fc 94 b4 2e a8 2f 54-06 cc b4 76 05 d2 85 42   ~...../T...v...B
+    0060 - 96 42 e8 b6 24 1d 67 50-ab 93 d7 ae ff c7 98 5d   .B..$.gP.......]
+    0070 - 36 4f 23 cf 13 0b f6 5e-9a 28 aa e5 05 43 57 fa   6O#....^.(...CW.
+    0080 - 4c 0b 62 8e b2 61 ef ac-bc da e9 e7 b5 49 56 2a   L.b..a.......IV*
+    0090 - f0 16 d3 92 99 2d d6 56-58 35 f9 f2 4c e4 46 b5   .....-.VX5..L.F.
+    00a0 - 75 e4 b0 e8 9e 0a 02 84-4f a0 b2 5f e5 dd 57 21   u.......O.._..W!
 
-    Start Time: 1472789943
-    Timeout   : 300 (sec)
+    Start Time: 1577475017
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

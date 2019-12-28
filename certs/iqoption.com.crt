@@ -1,0 +1,77 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/C=CY/L=Limassol/O=IQOPTION EUROPE LTD/CN=*.iqoption.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFEzCCA/ugAwIBAgIQC/bl4kQlriSLfs+Tl3GXMzANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTcwODMwMDAwMDAwWhcN
+MjAwOTIzMTIwMDAwWjBXMQswCQYDVQQGEwJDWTERMA8GA1UEBxMITGltYXNzb2wx
+HDAaBgNVBAoTE0lRT1BUSU9OIEVVUk9QRSBMVEQxFzAVBgNVBAMMDiouaXFvcHRp
+b24uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2KpQdUX8RVjv
+4OdS5RM3PqlLCaX7LU5dYn6/x54zjkL+3ByIfH6tEoRvZIPOWYkFadw4hXSeiUEj
+V8D5KmnNMCLpne9FHxi3WibNZwAUNdGe/95WakSOvBKWqHZ0SV2CFXTNBzDbAj8M
+5QLxePRGkH6zG3CaVV6F6SdqPsnHaFdpCEExGC3nuUrTzVuR/Y+6Erq89QvTS2Y7
+k5FLbgimKxIYBAzvP2D9g08Gol9z7q5kfF5Eyg82+GCs+rdfSlNbvviiQd06J1xd
+e2SUA59LBvNz1FU612sicHT/XURpQkV2NTVuNlRxb9CvF1p3zx/J6nzqiFqHrooX
+QJ72drH3uwIDAQABo4IB4zCCAd8wHwYDVR0jBBgwFoAUD4BhHIIxYdUvKOeNRji0
+LOHG2eIwHQYDVR0OBBYEFPJRQzEb+E6dgv4qAD1+oCTCAQSBMCcGA1UdEQQgMB6C
+DiouaXFvcHRpb24uY29tggxpcW9wdGlvbi5jb20wDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBrBgNVHR8EZDBiMC+gLaArhilo
+dHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWcxLmNybDAvoC2gK4Yp
+aHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nMS5jcmwwTAYDVR0g
+BEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGln
+aWNlcnQuY29tL0NQUzAIBgZngQwBAgIwfAYIKwYBBQUHAQEEcDBuMCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0dHA6
+Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2ZXJD
+QS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAZkB4aS0YDxWH
+8RCjIBuptfeBTBE1AOhXKnCm/CybxORYuIMUlD22ZyB1vy+/iWxhE+ss7mGWgyb5
+hhFv++GxPsZXPqIj8Ts1ShANo4LpnafTnYWnhcgk5Z5Do4QLtOO+C5MNWb7c2eKp
+AW3mde6wzcdykBuQ5e+6I4Kb1mZ7bCx6mAA5qhU1pzep+BFmMCptNhdXYfSCB9Sh
+JekOfLzbmjsgdh3PGKKoWsg6ysPJQs9BCFY81p/NMGYv+OgimLM+6aOWjZRQr6lZ
+TfwTmreaEdQvjTJvnKeHQ75++pjJI00zXAahyk6dUdyABbMcRpK5XVdLToMoOFrc
+vRlVvNkE/g==
+-----END CERTIFICATE-----
+subject=/C=CY/L=Limassol/O=IQOPTION EUROPE LTD/CN=*.iqoption.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3176 bytes and written 346 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-SHA
+    Session-ID: 0E63467393766A6224CF7B9280F86ABE32B6C6A1C5E9362E406E2E065F85651F
+    Session-ID-ctx: 
+    Master-Key: B5E7881AFF79C01CD3D8A501F766900DA1657EEEDB638597573F94CC0D558FE5115FE59FCEF43F7149AF8E630A7A3363
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - d3 e4 10 89 cf 86 fa 8b-a4 97 25 08 c4 71 e2 7e   ..........%..q.~
+    0010 - dd ac 7e 9a 93 cf e1 1d-b9 47 f8 4d ee 9c e0 bf   ..~......G.M....
+    0020 - ff f3 e0 76 8f d2 ea f7-f1 fa 60 86 6d bd 91 ab   ...v......`.m...
+    0030 - 38 40 c4 e7 f4 5a 9a fe-09 a1 61 c9 96 77 b7 a7   8@...Z....a..w..
+    0040 - d5 16 ee 65 e4 e6 8c 04-7f cf ae 8c 78 25 4f 17   ...e........x%O.
+    0050 - 6c e7 4e 66 79 11 19 c3-50 4a 61 3f 2f c6 43 13   l.Nfy...PJa?/.C.
+    0060 - 0f fa 3b a0 2a 01 36 19-d4 83 69 51 61 f7 66 f0   ..;.*.6...iQa.f.
+    0070 - 31 e1 35 f3 7e fa d9 93-bb d8 ef cc dc d7 6d dc   1.5.~.........m.
+    0080 - 40 d0 8e ba 65 22 99 21-96 38 14 1d af f6 22 a0   @...e".!.8....".
+    0090 - 88 f3 1a aa 33 cd 7a 9a-84 16 f4 c4 e0 d5 40 91   ....3.z.......@.
+    00a0 - f6 d2 8f 9d b6 b1 7e 40-c1 0f 66 a6 d5 58 28 4d   ......~@..f..X(M
+
+    Start Time: 1577474891
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,90 +1,92 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=New York/L=New York/O=Shutterstock, Inc./CN=*.shutterstock.com
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
- 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
- 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 0 s:/CN=stockphotoeditor.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGZjCCBU6gAwIBAgIQBMg1iBbOS1nGF/PhnXcHdzANBgkqhkiG9w0BAQsFADBw
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
-d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
-dXJhbmNlIFNlcnZlciBDQTAeFw0xNjA0MjYwMDAwMDBaFw0xOTA3MTcxMjAwMDBa
-MG0xCzAJBgNVBAYTAlVTMREwDwYDVQQIEwhOZXcgWW9yazERMA8GA1UEBxMITmV3
-IFlvcmsxGzAZBgNVBAoTElNodXR0ZXJzdG9jaywgSW5jLjEbMBkGA1UEAwwSKi5z
-aHV0dGVyc3RvY2suY29tMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA
-82L3gkgffzSzKIme1/or9l94zw+Ou9bdtdtu0y5FUZF6kQzuRMgKQ5uolYAKUXLK
-JbjewrzD6UsXI8RU5PhXCdrBgPiYIG+4ywiN4T88sAQjyUF3qvf9bpgzzM4ZkWwy
-Infu+9DjuHmjLm8EQHMPdrCc8YFFWJINyT4kPsraYVp5fnH5CPB5M386aBM4a66b
-HI0hU4qNwlhfsNDc1wVJ9zAJb+x9/rBmZW5QLAdrjMvbgj+2t/i7pLXpl4EdRooN
-by6W6VWVHkA6R00/Zq5/GBAzD+7ztd5EzzD+fULFNR8/DAFs+BTImaRFdopKkmXR
-SWHEGQjrmeS5XsIGU02behi4CRnHJcIJp0MMWZ4q0HI2q8VxX8JOOhSF7bT7VBTo
-a/Hzf9De0XE0OYpewLX/ysDhqPz/ufFf/U8GfL0COd1o/u/04fYar7qjJ5xNq9dC
-tJQY0KAl8x2pMJ2R7/R3V09fF0rVDPhFkDIxBJsjB3xk7SLIjxZbSGK8U6kJWkY7
-6XrcxIB534AXARQDLKfHCi+GGxbprZDkqSZJC3fK8PRQgTu6JSceJPSHVjPUS5LK
-w/rXJhrgEauqTrPuhTzAAzhrK5b8Kq4LXtfk/+IW5EJm7mQZmw9O92z1r5DhFIEe
-21VIeJ330EBBk/FURRqkChnj75lDYNJUE5w7eozyOYUCAwEAAaOCAf0wggH5MB8G
-A1UdIwQYMBaAFFFo/5CvAgd1PMzZZWRiohK4WXI7MB0GA1UdDgQWBBQJ/I3HRarn
-LmtjM5X6gYP4aUZRZTAvBgNVHREEKDAmghIqLnNodXR0ZXJzdG9jay5jb22CEHNo
-dXR0ZXJzdG9jay5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
-BwMBBggrBgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8vY3JsMy5kaWdp
-Y2VydC5jb20vc2hhMi1oYS1zZXJ2ZXItZzUuY3JsMDSgMqAwhi5odHRwOi8vY3Js
-NC5kaWdpY2VydC5jb20vc2hhMi1oYS1zZXJ2ZXItZzUuY3JsMEwGA1UdIARFMEMw
-NwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0
-LmNvbS9DUFMwCAYGZ4EMAQICMIGDBggrBgEFBQcBAQR3MHUwJAYIKwYBBQUHMAGG
-GGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBNBggrBgEFBQcwAoZBaHR0cDovL2Nh
-Y2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMkhpZ2hBc3N1cmFuY2VTZXJ2
-ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAmjWj9n/Z
-iL4TanOX7h4ICzrSB8bfy7PUOB2PmyrW0LLEwy1H6UnILNCUbIohnUjDMafhz/mZ
-5q86Q7PYXUtUjGcjTGfXLXEJvV5UyqQOIh8IulTx4O+LqVyEBn7Jn5tAqWx694e9
-fOxyNqr2HkyQ/+s+yfdgc9JKvkmW9ZdXj9AnWaTElUyYkfJ/Y0wHMREFZFQu8ch+
-dDPOGyt7XvEGQJuMGkB9f178xIZ/jD9HP7BkXUKUZgFfWSRqNCNMYQW5JXzA2Fm6
-NCaEHvT+D8VgGTbJ7/yyNLJGuxQxjTWbBU9XnlW6PV6h+B64dbViMR0y3Nkd6AzT
-vSJOPRcBGjKhug==
+MIIHNzCCBh+gAwIBAgIQD1SoeeyU8cEq2E0MP7hW8TANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTExMjAwMDAwMDBaFw0yMDEyMjAx
+MjAwMDBaMB8xHTAbBgNVBAMTFHN0b2NrcGhvdG9lZGl0b3IuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs3HWS7xttBX1V7J0LUTQEXU8HIYB3Zfg
+rQPJ/uHgC7o/7nsJ2sLnUH3xx3BqLe3aZiy3qL0fboZhjP8QGBOZrLHEO9GPh86u
+UZxxfqcqujY7NPcl4MJvk8KoSu8kA/Cf5S4/r/yXEAjHj3zBCvP2E7Vs80VkEwek
+0uFYQ02gzv1JNRLwF9CoohDqXVHXMsXwZaN+BCCJ0WXIiEu1WDuJ5Xcrym+un26Z
+DZRekTX0kxSdpgsARQVf66SdwFGlu08wEaSrdpEvVG5YPeRZFxkMvpEghIrRcRbD
+ZGRGfu/iRiIyECR1o8p3Ruytukp1gUT7B0uQxHYkTLE929TgebGBVwIDAQABo4IE
+RjCCBEIwHwYDVR0jBBgwFoAUWaRmBlKge5WSPKOUByeWdFv5PdAwHQYDVR0OBBYE
+FE2mxUEQuc5pQydrpC5zYKpAUsTzMIIB5AYDVR0RBIIB2zCCAdeCFHN0b2NrcGhv
+dG9lZGl0b3IuY29tgg9jcmVhdG9yc3RvdXIuZGWCEiouYmlnc3RvY2tjb3JwLmNv
+bYIVdmlkZW9zcm95YWx0eWZyZWUuY29tghMqLmhpZ2hyZXN2aWRlb3MuY29tghRp
+bmFjcmVhdGl2ZXdvcmxkLmNvbYIQdmlkZW9zZW5hbHRhLmNvbYIQc2h1dHRlcnN0
+b2NrLmNvbYIXaW1hZ2VuZXNyb3lhbHR5ZnJlZS5jb22CEWJhbmNvZGV2aWRlb3Mu
+Y29tghp2aWRlb3NlbmFsdGFyZXNvbHVjaW9uLmNvbYIJb2Zmc2V0LmRlghl2aWRl
+b3NlbWFsdGFkZWZpbmljYW8uY29tghFzaHV0dGVyc3RvY2subW9iaYITZnJlZXN0
+b2NrZWRpdG9yLmNvbYITZnJlZXN0b2NrZWRpdG9yLm5ldIIcaW1hZ2VuZXNsaWJy
+ZXNkZWRlcmVjaG9zLmNvbYIRaGlnaHJlc3ZpZGVvcy5jb22CCm9mZnNldC5jb22C
+DXNraWxsZmVlZC5jb22CFXN0b2NrcGhvdG9lZGl0b3IuaW5mb4IQYmlnc3RvY2tj
+b3JwLmNvbYIUc3RvY2twaG90b2VkaXRvci5uZXQwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAshipo
+dHRwOi8vY3JsLnNjYTFiLmFtYXpvbnRydXN0LmNvbS9zY2ExYi5jcmwwIAYDVR0g
+BBkwFzALBglghkgBhv1sAQIwCAYGZ4EMAQIBMHUGCCsGAQUFBwEBBGkwZzAtBggr
+BgEFBQcwAYYhaHR0cDovL29jc3Auc2NhMWIuYW1hem9udHJ1c3QuY29tMDYGCCsG
+AQUFBzAChipodHRwOi8vY3J0LnNjYTFiLmFtYXpvbnRydXN0LmNvbS9zY2ExYi5j
+cnQwDAYDVR0TAQH/BAIwADCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AKS5CZC0
+GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABbordCvYAAAQDAEcwRQIgH7oW
+9yd9Wlbu3WrjWp8prKxhiKAuybxGEBJHMVld56UCIQCXoFiXnG+WDcwRNXnrE662
+xcpGWY+hq+9drTa7actcYwB1AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9e
+oIMPAAABbordC90AAAQDAEYwRAIgNRYlzqPfjBZXuMl5/brArzBtbiH3XtjUX/dn
+6+ALBbsCID3VUwVzOeQookWkqkkp+xvRm2EfCZvxW66yDFN9sMruMA0GCSqGSIb3
+DQEBCwUAA4IBAQAKWkyHJms5IjXRjQZ10ZAD3dx8i/qO3NCbgmN0cmHYddOTzFxu
+SVLwS5NNYXdxn6dYcAhUVSJsfgqp9nyyBQhHG26AR92cEA/DMMHfVIX00AzEh6c1
+HeNMgElUoHm+ziS45H5+rG6iGG/8zfbXRkZcitwcW0A/W3UjBggjAHcn4WCRO+6V
+MGIrxUeKGEnwuDvruzL/IJ+LBheMvDfxIqlzbPbZ9DOxFZvCzCkGtqLsm+SSGYg2
+xJddi/hOLtp6HaD35ZfoVi8eMshZIexcLuIFxeztv6OySE1XjoKP1QmjZrGsC3hc
+99XReOMphEIlBuXw3BWPVJLAwb13gLgSsdwv
 -----END CERTIFICATE-----
-subject=/C=US/ST=New York/L=New York/O=Shutterstock, Inc./CN=*.shutterstock.com
-issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+subject=/CN=stockphotoeditor.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4737 bytes and written 434 bytes
+SSL handshake has read 5950 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
-Server public key is 4096 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 592159F3E9448696B2C4DB8A4A88E48C8D9D6052CE3113EFB3327EC8B394699C
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 147C368CDC753E62CCA9320204BD35DD6E7FD2C9809D0C95C8A762CA097474A1
     Session-ID-ctx: 
-    Master-Key: DC7E303958E79B4BD184CFE430E559048A62F5EA4E099A566149BC957D9A082144BC33A4EE80D2100488539C2C73B703
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 743B70CE7A976CDCA36B5CAED33039D2DDEC2EB24F7F10027435B13DDD7DF25E829ABC41A60E74D9A1B4124F9947F050
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - b6 6a a5 e7 99 83 a0 34-1f be 38 74 91 3f 1a f9   .j.....4..8t.?..
-    0010 - 8a 0a 8d 15 84 93 d6 79-dc fb a8 cb fa 0a be 6f   .......y.......o
-    0020 - 44 86 55 e9 d9 f6 f3 26-2e 4a 2b db 72 46 dd 62   D.U....&.J+.rF.b
-    0030 - e0 3e 65 4e 01 b8 e3 3b-e0 6f 3c 53 16 e0 d3 68   .>eN...;.o<S...h
-    0040 - 7c 11 ff 66 73 cf 52 27-9c 3a 79 db 93 76 24 45   |..fs.R'.:y..v$E
-    0050 - f4 d3 f8 be fa 0b 9e 7e-28 e8 38 2c b6 42 8b 4c   .......~(.8,.B.L
-    0060 - af 17 78 fc 8e 43 93 f5-80 d1 65 ba 33 6f f0 a0   ..x..C....e.3o..
-    0070 - 2c b0 2c ab a0 e6 fd ae-2f ef 77 98 e6 de 12 13   ,.,...../.w.....
-    0080 - 43 86 e5 dd 36 56 f7 8c-d0 93 ed 32 01 85 a7 e2   C...6V.....2....
-    0090 - e8 6e cb 9a f9 f6 e3 0f-72 65 3c 1d 01 84 4b 77   .n......re<...Kw
+    0000 - 90 2e d4 ab 3c fb d3 01-b5 7e 52 b0 36 71 ae 30   ....<....~R.6q.0
+    0010 - 2f d9 b3 7f b9 47 5e e3-ef 87 75 1a db 61 a3 e3   /....G^...u..a..
+    0020 - 29 0d 7d fa 50 16 f5 41-e4 46 0d a5 db e6 3c 9a   ).}.P..A.F....<.
+    0030 - 1e 81 d8 b3 f5 32 1e 02-bc 5a 6a 62 8f be 4f 62   .....2...Zjb..Ob
+    0040 - 56 43 4e 03 6a be 53 19-6e 8f 55 63 00 66 2b 0f   VCN.j.S.n.Uc.f+.
+    0050 - f9 2c f3 66 55 27 a9 6d-1a 9d ac c7 1c b8 36 73   .,.fU'.m......6s
+    0060 - 98 d5 9c 2c 6b b8 18 04-2b c2 93 f5 1c 9a 08 be   ...,k...+.......
+    0070 - 1e 04 b8 f3 ae fd 92 e1-c4 66 bf dd f7 c9 ee c2   .........f......
+    0080 - 9a c9 a9 ae 05 1d 7a 7c-41 7b 11 a9 bc 5f 12 00   ......z|A{..._..
+    0090 - a4 14 5d ff cf fb d3 f2-03 12 c8 4b 61 45 cf 71   ..]........KaE.q
+    00a0 - 92 48 da 94 6a c8 02 13-99 ba a0 9d 2a 82 d3 8a   .H..j.......*...
 
-    Start Time: 1472788125
-    Timeout   : 300 (sec)
+    Start Time: 1577474848
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,72 +1,70 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=New Jersey/L=Somerset/O=John Wiley & Sons, Inc/OU=Internet Hosting/CN=www.wiley.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 0 s:/C=US/ST=New Jersey/L=Hoboken/O=John Wiley & Sons, Inc/OU=Internet Hosting/CN=s4baccess2.wiley.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIF/DCCBOSgAwIBAgIQeosVRGd5a6gQ4gHz4vxR6DANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE2MDUxMzAwMDAwMFoX
-DTE3MDUxNTIzNTk1OVowgYkxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApOZXcgSmVy
-c2V5MREwDwYDVQQHDAhTb21lcnNldDEfMB0GA1UECgwWSm9obiBXaWxleSAmIFNv
-bnMsIEluYzEZMBcGA1UECwwQSW50ZXJuZXQgSG9zdGluZzEWMBQGA1UEAwwNd3d3
-LndpbGV5LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ9T3C9w
-Y+k0quUdEr1v+/IlwLLK01GpxSBTmZDyP3oroPz+991QLryIUY+yQADCewSYHa+K
-vt8BPfA8WRnIZTB6vyjHZbhcBGplCg6qcMCDQ84zVJztdoCyKohn4jPYpr+09dQd
-0eQ5NxB/otsyCQ8bjEuJhK/mT0Djuuw6TiBVEADKGj9j8i7SDSeMlhYt6IyucrT3
-JByAzKoiXxiT59RjvuVnIs3zDr0uLB4Wq5wkL4aRaOwGdkAIJviQIWRXZqgJ8sP5
-FEr+Ve9vJBW3/u8IgdtJjmcNDIAyWnypOcq9dLK+RLgwr8749iB8EM6tM1WdF6Qn
-2WQFyFAhj4YNXtcCAwEAAaOCAmgwggJkMBgGA1UdEQQRMA+CDXd3dy53aWxleS5j
-b20wCQYDVR0TBAIwADAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
-AwEGCCsGAQUFBwMCMGEGA1UdIARaMFgwVgYGZ4EMAQICMEwwIwYIKwYBBQUHAgEW
-F2h0dHBzOi8vZC5zeW1jYi5jb20vY3BzMCUGCCsGAQUFBwICMBkMF2h0dHBzOi8v
-ZC5zeW1jYi5jb20vcnBhMB8GA1UdIwQYMBaAFF9gz2GQVd+EQxSKYCqy9Xr0Qxjv
-MCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3JsMFcG
-CCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3NzLnN5bWNkLmNvbTAm
-BggrBgEFBQcwAoYaaHR0cDovL3NzLnN5bWNiLmNvbS9zcy5jcnQwggECBgorBgEE
-AdZ5AgQCBIHzBIHwAO4AdQDd6x0reg1PpiCLga2BaHB+Lo6dAdVciI09EcTNtuy+
-zAAAAVSpBBlWAAAEAwBGMEQCIBZw0d0bJGKlgz/Ing1k/Ud1Ad2IYZptTiFZU1W2
-nFEyAiAtfrBuPtB6Bnzql57FwSVy40DEGRPMb56/UaHBGyjO2AB1AKS5CZC0GFgU
-h7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABVKkEGZEAAAQDAEYwRAIgdD6cu14N
-iG+5Vo2/P+uV2rjxqOz4/OwgKUreXoigGxYCIHUAmzrq5D0efaMfE9gQU6lijFSP
-OnHFHk2z++SEpbmeMA0GCSqGSIb3DQEBCwUAA4IBAQAkZxrFkWaeVMz1h7CKWUk4
-pYyxn1DWDfaKYPaFxh3uki0kkqlWh6+OhRXqgbLe+m2M295r6sLJtqKkmhR44Tlz
-TrJovOEHEdRYVk3J97N3vDd6q+5JffaNDtkfAVYMRmnuzxnVOKAea8vgTmOX+m/X
-Sw6C9p6nQyRL9P4oTmSQvBAYzTVAZzGdXDz/w1pPXYR8ueubYw4uySlxO8J/5eDJ
-gw7c4FTgyXiPALlNUj6hFvIitxy+fPE7ymBc/lICOL1IAxdPPBndxH9WrJoQd48H
-g4ZOcnTY/wpYm8fUp+NRo8j/5SlGer9rnGmc+6WyKjpZxNBx+bhKfPDmSvjTbJ74
+MIIGdTCCBV2gAwIBAgIQDzU7FxVRkMWr6l2Vfyk9wDANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkxMTI2MDAwMDAwWhcN
+MjAxMTI2MTIwMDAwWjCBjzELMAkGA1UEBhMCVVMxEzARBgNVBAgTCk5ldyBKZXJz
+ZXkxEDAOBgNVBAcTB0hvYm9rZW4xHzAdBgNVBAoMFkpvaG4gV2lsZXkgJiBTb25z
+LCBJbmMxGTAXBgNVBAsTEEludGVybmV0IEhvc3RpbmcxHTAbBgNVBAMTFHM0YmFj
+Y2VzczIud2lsZXkuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+qkJg2kpbCR6EvY4OHavNYWpE7MjHaO6tS1PawUwKAitO7wHK++4tu1AjSbWZ/D6x
+cKAiYIoeRunEX+EDstkpJHZBlnni6LpZ2NLnQyS9V9W3iCM2YhNNrPfu0YgVLgl9
+P77a1k33mcSVL2cJQRZriGBsAOAQOBlMPslI9HJ6ftgDmZqYcSJoNXIMqjsg1EDI
+vPbYunNw13Rhwy7tKJUhDDtoZyJt+QYlASDgJ1E+b4SjDJA4csSWVL9t28ScS9mT
++Ze9+TUCpfX7P2cKtT1bh7gEC07TcSHOiJPxTOn9xX5ygr/HB2gzRyZCKwo6TlJq
+1vG8Tnmmm4kZ+p/F+jepIwIDAQABo4IDDDCCAwgwHwYDVR0jBBgwFoAUD4BhHIIx
+YdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFN0CgiDmdt3zVqJrgwcrc8YB/25GMEwG
+A1UdEQRFMEOCFHM0YmFjY2VzczIud2lsZXkuY29tgg1zaXAud2lsZXkuY29tghF3
+ZWJjb24yLndpbGV5LmNvbYIJd2lsZXkuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0
+cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nNi5jcmwwL6AtoCuGKWh0
+dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3JsMEwGA1UdIARF
+MEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2lj
+ZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMHwGCCsGAQUFBwEBBHAwbjAkBggrBgEFBQcw
+AYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEYGCCsGAQUFBzAChjpodHRwOi8v
+Y2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyU2VjdXJlU2VydmVyQ0Eu
+Y3J0MAkGA1UdEwQCMAAwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQC72d+8H4px
+tZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAW6nxqCHAAAEAwBGMEQCIAlhutYV
+Kj3kdpOOgA46StbnN5+8S6EqhW0H9qhhQ7InAiA+aNTsG9PLz6rxj02JJUUGGvoo
+mGJE2Qd9hJ/BGn1btQB2AF6nc/nfVsDntTZIfdBJ4DJ6kZoMhKESEoQYdZaBcUVY
+AAABbqfGoFsAAAQDAEcwRQIhANWFJ1eqgLVm5jiWt/IGUWfV7mF29AyNZZmzvXpm
+v4NuAiAjaSZSU8zxb6b1K+91vycBpVHbyAaEscKEhFQeDlsOjDANBgkqhkiG9w0B
+AQsFAAOCAQEAc0xBddqu2pedhu9U/L38UKRAaNN7VGRkLuOGo53j/ZXmB40usHNb
+1LhCtNKz55+uLKsr3BCiTAs28edWe6YI3oLwByzPZtiKDUosb4510TidirFPbifR
+EppTydrTq5UIZC//AFrCmWDp/Wx/w/8PSAhfC+x4BrML+21q9s5WfKHtyvZEaB3X
+6sssVVmmSb5mA4FhMz8ADBX1YtojvZCO0pH+8zomqPSFYFM80zp9TnX1mg0s0idu
+Yzrs7zhqumSueRNQxq2EFOpC4JcLYEARqtyTbkC1uR/nOm7jWAkZQJLQHPt8Dp9m
+i7LHQMaxNk+Yed+Y2sb98YKUcj6lUt4+dA==
 -----END CERTIFICATE-----
-subject=/C=US/ST=New Jersey/L=Somerset/O=John Wiley & Sons, Inc/OU=Internet Hosting/CN=www.wiley.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/C=US/ST=New Jersey/L=Hoboken/O=John Wiley & Sons, Inc/OU=Internet Hosting/CN=s4baccess2.wiley.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4248 bytes and written 634 bytes
+SSL handshake has read 3311 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
-Secure Renegotiation IS NOT supported
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : AES256-SHA
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
     Session-ID: 
     Session-ID-ctx: 
-    Master-Key: DF9FC7D2CD6F6A21602888CCC5B58D8B2FBDE6744ED7C898A538DB0D8914E5321D7C3095F9087EF70E3142BE340A893D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472789041
-    Timeout   : 300 (sec)
+    Master-Key: C2084CAC8DE906B4C6D152A5D47C889AB3B04B7A13C4FC90EA733C37C433C520FEBD3C2C53B4130A1E2E26D7CD8B10B4
+    Start Time: 1577475308
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,51 +1,76 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=North Carolina/L=North Wilkesboro/O=Lowes Companies Inc/CN=*.know-where.com
-   i:/C=US/O=Entrust, Inc./OU=www.entrust.net/rpa is incorporated by reference/OU=(c) 2009 Entrust, Inc./CN=Entrust Certification Authority - L1C
- 1 s:/C=US/O=Entrust, Inc./OU=www.entrust.net/rpa is incorporated by reference/OU=(c) 2009 Entrust, Inc./CN=Entrust Certification Authority - L1C
-   i:/O=Entrust.net/OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Certification Authority (2048)
+ 0 s:/C=US/ST=North Carolina/L=Mooresville/O=Lowe\xE2\x80\x99s Companies, Inc./CN=www1.lowes.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFYzCCBEugAwIBAgIETCJOXTANBgkqhkiG9w0BAQUFADCBsTELMAkGA1UEBhMC
-VVMxFjAUBgNVBAoTDUVudHJ1c3QsIEluYy4xOTA3BgNVBAsTMHd3dy5lbnRydXN0
-Lm5ldC9ycGEgaXMgaW5jb3Jwb3JhdGVkIGJ5IHJlZmVyZW5jZTEfMB0GA1UECxMW
-KGMpIDIwMDkgRW50cnVzdCwgSW5jLjEuMCwGA1UEAxMlRW50cnVzdCBDZXJ0aWZp
-Y2F0aW9uIEF1dGhvcml0eSAtIEwxQzAeFw0xNDAzMDUyMzQ2MjJaFw0xODA1MDYw
-MDI0MTdaMHoxCzAJBgNVBAYTAlVTMRcwFQYDVQQIEw5Ob3J0aCBDYXJvbGluYTEZ
-MBcGA1UEBxMQTm9ydGggV2lsa2VzYm9ybzEcMBoGA1UEChMTTG93ZXMgQ29tcGFu
-aWVzIEluYzEZMBcGA1UEAxQQKi5rbm93LXdoZXJlLmNvbTCCASIwDQYJKoZIhvcN
-AQEBBQADggEPADCCAQoCggEBANQ127WfZnwvfXgpDK/u8WhhyvM7kQ8Cftc5QZzl
-1tt/3+5e2/HxPY+VZ7iLOuN5/USYaw3Kzt0QvO2X/Uxp5BhmlCP+ipe1jQCvmPZt
-vhkIZl8o3PIcexJMCrgfjZ3RVkHCTU2t2T18EkBxYnIGYtz93jc1RoOBZpHrRULX
-C9QA+yhBQ5nYi7bGD+rRxstvs7knYEmB8fzjzI9FDkq/QaB5Y2BzYXwD9J6kWEKN
-7u9CEhT0vIc384nGzttPnJs+Sjy9F0yXFDV2kwNo/xAy8chcAaXHANfDmXvAW2N0
-t/mIlWK9Sjigp6iseeuE3Im7VVb1LhMj/F3tveeJjshzNO8CAwEAAaOCAbcwggGz
-MAsGA1UdDwQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwMwYD
-VR0fBCwwKjAooCagJIYiaHR0cDovL2NybC5lbnRydXN0Lm5ldC9sZXZlbDFjLmNy
-bDBkBggrBgEFBQcBAQRYMFYwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLmVudHJ1
-c3QubmV0MC8GCCsGAQUFBzAChiNodHRwOi8vYWlhLmVudHJ1c3QubmV0LzIwNDgt
-bDFjLmNlcjBKBgNVHSAEQzBBMDUGCSqGSIb2fQdLAjAoMCYGCCsGAQUFBwIBFhpo
-dHRwOi8vd3d3LmVudHJ1c3QubmV0L3JwYTAIBgZngQwBAgIwUwYDVR0RBEwwSoIQ
-Ki5rbm93LXdoZXJlLmNvbYIOa25vdy13aGVyZS5jb22CFG9yaWdpbi13d3cubG93
-ZXMuY29tghBkZXBsb3kubG93ZXMuY29tMB8GA1UdIwQYMBaAFB7xq4kG+EkPATN3
-7hR67hl8kyhNMB0GA1UdDgQWBBQDA9Iv+cWSWaDtD+Jo97GVAAAOjTAJBgNVHRME
-AjAAMA0GCSqGSIb3DQEBBQUAA4IBAQBCigl8X29ZcihzDWS6MaijGMMdUjY7iUgS
-a98Y6WmoYmQAPF72kufU1OduxCz8lEBXOLIakzJxHPDpg5v4BgVLP+bQuSGP3tSe
-2efPOeJomNBkZl2vt/unIMHlQTbGj0zdGmeygAKjxo8GWWj6hepzPdAfGIWrByGd
-WJ2dRzEGUU2Djq2ZHd9+5Gk/ogZ/PZZErtFzVN/gKKY/Z4p5AKPJVTRkkUpKWDeY
-liTiPHhUUdWGq3yN6mLOQEN7in6ZWwh8c44eQUvjMmjWNpHitLdfYpZ4hu0s+evx
-yKo3aPnrOdnR/lOMxkwE7X4JSZ69XoBY5RZQj9rpu0Eh393hLD1e
+MIIJazCCCFOgAwIBAgIQDPAGqlNastvCmEyheT5+UTANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAe
+Fw0xOTExMTUwMDAwMDBaFw0yMTAyMTMxMjAwMDBaMHgxCzAJBgNVBAYTAlVTMRcw
+FQYDVQQIEw5Ob3J0aCBDYXJvbGluYTEUMBIGA1UEBxMLTW9vcmVzdmlsbGUxITAf
+BgNVBAoMGExvd2XigJlzIENvbXBhbmllcywgSW5jLjEXMBUGA1UEAxMOd3d3MS5s
+b3dlcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQD3gEaw5w01
+Oy6eCfNcqaczRsahRhEO3HmfV3MB0q92+YqTH+mAZNu3ctpLU0S23f8fOpPgmFET
+ssArWQWYRdpa+cQks4KC2BmcnQJio/G2GwugFjb6ih2LnKNH6GkvQ+QnnZs9HMPR
+tSEaWJDDgCMkQvcTQbc6LI0ZcnyXv6qRjrE/CXoribwtSYtKr473XF5QCijOXr4u
+lwPt4w2hOOHvthlW4Q09Q7iE9s6V9g3ZbCZDfiXN3ayXHv8ZZsU7qekUqkjCPvVO
+bX2yhp+Mjsjdcb8iqPRmBc19FCmNRsgJ+JfKjTnCHagw7GE8G/K3adngYFU55Nhp
+WvaMgACibGM1AgMBAAGjggYJMIIGBTAfBgNVHSMEGDAWgBSQWP+wnHWoUVR3se3y
+o0MWOJ5sxTAdBgNVHQ4EFgQUVEeyBYi0iaoBiRxYDvieUWUOAiEwggN7BgNVHREE
+ggNyMIIDboIOd3d3MS5sb3dlcy5jb22CD2NzbHdzLmxvd2VzLmNvbYISc2NhZmZv
+bGQubG93ZXMuY29tggttLmxvd2VzLmNvbYIYcHBtb2JpbGVpbWFnZXMubG93ZXMu
+Y29tghZwcG1vYmlsZWFwcHMubG93ZXMuY29tgg5tZWRpYS5sb3dlcy5jYYIRbHdz
+c3Zjcy5sb3dlcy5jb22CFGRwbWJhcHBzcWEubG93ZXMuY29tghBjcmVkaXQubG93
+ZXMuY29tghRsd3Njb21kdHE4Lmxvd2VzLmNvbYIJbG93ZXMuY29tgg93d3cubXls
+b3dlcy5jb22CGHd3dy5rbm9ic2FuZGhhcmR3YXJlLmNvbYIUbHdzY29tc2l0My5s
+b3dlcy5jb22CDmxvd2VzY2FuYWRhLmNhgg1wcG0ubG93ZXMuY29tgg9zaXQzbS5s
+b3dlcy5jb22CFnN0YWdlLmxvd2VzZm9ycHJvcy5jb22CGXd3dy5sb3dlc2NyZWRp
+dGNlbnRlci5jb22CFHdlYXJlZ2VuZXJhdGlvbnQuY29tghRtb2JpbGVhcHBzLmxv
+d2VzLmNvbYIPd2VzdGluLmxvd2VzLmNhghRsd3Njb21kdHE3Lmxvd2VzLmNvbYIb
+ZHRxOC5sb3dlc2NyZWF0aXZlaWRlYXMuY29tggx3d3cubG93ZXMuY2GCCGxvd2Vz
+LmNhgg13d3cubG93ZXMuY29tghRzYWRjbHdzY29tLmxvd2VzLmNvbYITd3d3Lmxv
+d2VzY3JlZGl0LmNvbYIWd2luZG93c2Rvb3JzLmxvd2VzLmNvbYIUd3d3Lmxvd2Vz
+Zm9ycHJvcy5jb22CEmRwbWJhcHBzLmxvd2VzLmNvbYIQd3d3Lmxvd2VzY2RuLmNv
+bYIRd3d3LmF0Z3N0b3Jlcy5jb22CDXd3dzIubG93ZXMuY2GCGHd3dy53ZWFyZWdl
+bmVyYXRpb250LmNvbYIPYXBwbHkubG93ZXMuY29tghNwcGx3c3N2Y3MubG93ZXMu
+Y29tghh3d3cubGlnaHRpbmd1bml2ZXJzZS5jb22CEGltYWdlcy5sb3dlcy5jb22C
+Fm1vYmlsZWltYWdlcy5sb3dlcy5jb22CGW1vYmlsZWltYWdlcy5sb3dlc2Nkbi5j
+b22CEWxkYWF1dGgubG93ZXMuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2Nk
+cC5nZW90cnVzdC5jb20vR2VvVHJ1c3RSU0FDQTIwMTguY3JsMEwGA1UdIARFMEMw
+NwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0
+LmNvbS9DUFMwCAYGZ4EMAQICMHUGCCsGAQUFBwEBBGkwZzAmBggrBgEFBQcwAYYa
+aHR0cDovL3N0YXR1cy5nZW90cnVzdC5jb20wPQYIKwYBBQUHMAKGMWh0dHA6Ly9j
+YWNlcnRzLmdlb3RydXN0LmNvbS9HZW9UcnVzdFJTQUNBMjAxOC5jcnQwCQYDVR0T
+BAIwADCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AKS5CZC0GFgUh7sTosxncAo8
+NZgE+RvfuON3zQ7IDdwQAAABbm/EHzgAAAQDAEcwRQIgG1kFuIoRlebwgUgw5HCu
+vs9XDTtN44e0oIbksQyzwnwCIQCqDDJbvCPA+yaAnebwD91a+149NTC6xwH882cn
+TTgyFQB1AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABbm/EH3gA
+AAQDAEYwRAIgbxO+rLGNBPW3zIdzxm+T3gzMk17A2ThFnEgurkEzq8gCIFIHITjU
+LHsLJjVyD/ZF9bj+OvXA/T+GmD8Lj7vCpoCKMA0GCSqGSIb3DQEBCwUAA4IBAQB/
+PEfZ1m1PKkaEJqDiAef6VItMXyJVuQ7hRj1e79Yn/21WZuMClcB++WvaLHRLO16S
+L9YPX13O/BoPhGIFDoqHGUHZS4/nVgEMpN4dqAkreg+RhDv8Rf+33PiHhjqGYdni
+Cw2sKdYlmR655UKsS2fvA74KAEfDaWSr+/9g45GPFz/FSV7Vae/723kduukPvLUa
+rHYwBEauNChltms2K5B2o019/NrNtpS7rCrCxMpek7WfqjAotfa+DFE26ibunhOX
+hiUaadYLQgs8/whtgn73UauD3Dk2hVLtwsRppedp8CyshoaaXyl+7pJ98rhNtt60
+rjbPwkJZyauCyZ0mKpha
 -----END CERTIFICATE-----
-subject=/C=US/ST=North Carolina/L=North Wilkesboro/O=Lowes Companies Inc/CN=*.know-where.com
-issuer=/C=US/O=Entrust, Inc./OU=www.entrust.net/rpa is incorporated by reference/OU=(c) 2009 Entrust, Inc./CN=Entrust Certification Authority - L1C
+subject=/C=US/ST=North Carolina/L=Mooresville/O=Lowe\xE2\x80\x99s Companies, Inc./CN=www1.lowes.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2813 bytes and written 622 bytes
+SSL handshake has read 5189 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is RC4-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -53,15 +78,24 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : RC4-SHA
-    Session-ID: 83857638025FCE6E300F2F3A1FCCF8F6A7D95D3F77B4DC73C4446F60E541CE79
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: E931734803DF07E6FDB0D0299D1744492CE9CC780A5D9E1F63894D36DCC0A8C0
     Session-ID-ctx: 
-    Master-Key: 987CC5B6619D10CC787D8B0AB8D22621431C78F73D6421605BFA1FE13E9F746AA39C12AB408889E461C09E9695AFC6B0
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788310
-    Timeout   : 300 (sec)
+    Master-Key: 0B50DDB576F4CE9A657C92EC90FF93FB91C5A5C993FB382F5FD2F51AA918DC9047B7EC426F3915526A4D44AC736D0095
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 00 00 0f 2e 63 a6 2c 68-87 e1 b9 21 d2 ae 6b b5   ....c.,h...!..k.
+    0010 - dd 2a 98 8c 07 14 5e 06-79 ae ca 90 96 2a 67 c9   .*....^.y....*g.
+    0020 - 09 3c d2 4c 39 cb 59 1b-38 21 e4 fa 88 bd f5 2e   .<.L9.Y.8!......
+    0030 - 4e 15 87 a7 bd c6 9f 5e-f9 47 5b ae c7 46 33 80   N......^.G[..F3.
+    0040 - 5f 58 c6 b7 bc 92 f0 fb-44 81 fa 7d bc 88 38 e4   _X......D..}..8.
+    0050 - b2 bc 07 1c db e5 e3 47-9c 46 5d db ef b3 e4 4f   .......G.F]....O
+    0060 - 81 4a c5 64 48 52 72 61-0a 97 5c c7 ee 47 f0 76   .J.dHRra..\..G.v
+    0070 - 2a 5f 02 b6 fc 78 c0 9c-7a 83 2a 61 da 7e a9 1f   *_...x..z.*a.~..
+    0080 - 86 ff e6 b4 09 d0 6b aa-c6 fc 8f 1f 0b c5 dd e1   ......k.........
+    0090 - ea 9a 90 30 01 f7 9d 14-44 2d a3 56 f8 3a 71 e8   ...0....D-.V.:q.
+
+    Start Time: 1577475214
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

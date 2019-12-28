@@ -1,49 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/OU=GT28643522/OU=See www.geotrust.com/resources/cps (c)15/OU=Domain Control Validated - QuickSSL(R) Premium/CN=www.egma.com.ph
-   i:/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G4
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.gmanetwork.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE6jCCA9KgAwIBAgIDAbW5MA0GCSqGSIb3DQEBCwUAMGYxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMR0wGwYDVQQLExREb21haW4gVmFsaWRh
-dGVkIFNTTDEgMB4GA1UEAxMXR2VvVHJ1c3QgRFYgU1NMIENBIC0gRzQwHhcNMTUw
-NzA4MTE0MjI5WhcNMTYxMDA5MTMwMDQ0WjCBmzETMBEGA1UECxMKR1QyODY0MzUy
-MjExMC8GA1UECxMoU2VlIHd3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL2NwcyAo
-YykxNTE3MDUGA1UECxMuRG9tYWluIENvbnRyb2wgVmFsaWRhdGVkIC0gUXVpY2tT
-U0woUikgUHJlbWl1bTEYMBYGA1UEAxMPd3d3LmVnbWEuY29tLnBoMIIBIjANBgkq
-hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzQu+wmH+Nj0vB4zV7B6Xv2WFjjnhG7mn
-QIUh950FVttWdzcvek8S4kSHl+Oj04KX8TnyRU/MEk8bIH6hFskG9dS6WNL7tVIB
-2Ij4pnZjFYSddmFYvw3F5i8CfpDLaNsd6gMPRPFI3NwE5ofk0ixNfqT9JNjB5eJG
-1jWDkuaM5qZQpkrH6LdV0mzyL6ZxLqkxmJWVsUcwEVVgGW0IFgPSYNdnop9MFFJ3
-vcicz9j8iZsHandmCfsOA3Dg1X3zcwiRjRwD1Go6C7rVqQlXg5D8ClrFQnwRyo17
-l9NkQLa/gfuXIO1kRGcASpo/DoYNrxrCukpIFI1rYhOhFKhmk7h3QwIDAQABo4IB
-aTCCAWUwHwYDVR0jBBgwFoAUC1Dsd+8qm//sA6EK/63G5CoYxz4wVwYIKwYBBQUH
-AQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ3Uuc3ltY2QuY29tMCYGCCsGAQUF
-BzAChhpodHRwOi8vZ3Uuc3ltY2IuY29tL2d1LmNydDAOBgNVHQ8BAf8EBAMCBaAw
-HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMCcGA1UdEQQgMB6CD3d3dy5l
-Z21hLmNvbS5waIILZWdtYS5jb20ucGgwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDov
-L2d1LnN5bWNiLmNvbS9ndS5jcmwwDAYDVR0TAQH/BAIwADBWBgNVHSAETzBNMEsG
-BmeBDAECATBBMD8GCCsGAQUFBwIBFjNodHRwczovL3d3dy5nZW90cnVzdC5jb20v
-cmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVnYWwwDQYJKoZIhvcNAQELBQADggEBANKb
-var97l1SUrjYhZ6dQHBsASYfVwjk88y3nuqrc7stKYkweBpX2VKHToMexqvNMgJh
-e3M2IZGxZAJkTjK4gokKj7bwERblmzSbVZ7OgC2sfsh/ZE3cC4xOvOlGwXRnarT/
-yDRDM0t2hbl3jidu4yxnkNv1nOqeHnJe1WSbNFb9oR3aO8BbGeJ8+SYmgySaLhhl
-kJ53TLBYlZ7+WtigwjubtUjTK+ByCvcXkKLDrsB56g1TJ8RmtFFx8nSBGIqlUhlw
-gdPBzEGOB/jOv2k9eBuuPM247S9z5Vw9YLTL+CvD5HairE/WrzwYQc+WpmCBOFDc
-9qbark2+9XUcsRlA29I=
+MIIGfDCCBWSgAwIBAgIQNelQL/mDrWQi4T2Hw6H+JDANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTE5MDcxMDAwMDAwMFoXDTIxMDcwOTIzNTk1OVowXTEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMR0wGwYDVQQLExRQb3NpdGl2ZVNTTCBXaWxk
+Y2FyZDEZMBcGA1UEAwwQKi5nbWFuZXR3b3JrLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALSwzCp1PDMf5Dl+u15+m4rirU0E72VJdwUHLImejRQJ
+sYNwJouNmCBnPwOnQczyKuCj5Qf3sFaRwUZSiVoLz1PKFrCclSG8Y2FiNDn9R4QK
+tTJ7p9ZOQJvZGCs17/02lErOrd3YSr7Cjiv70C30W/UNOd4E11W6YJeoYepRFcUs
++j4L9TbUayqLtBqCscWHpa1DmWmej5Q/B51S/7wbZAltuYO+yylR6YV6UrxaLQxR
+e5Px3jo8+FZ3vcnmHqw+83waGbRFiff80BiQnALg9Cx/JESlFCI9Hgh9+XxHZ7hv
+L3EUDvWCgyCy7WG+4gmGGNXvpAC5a+g1PddvlgZPDu0CAwEAAaOCAwMwggL/MB8G
+A1UdIwQYMBaAFI2MXsRUrYrhd+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBTHlC0pGyG/
+PjW0VgKPtLlo475t3TAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICBzAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5z
+ZWN0aWdvLmNvbS9TZWN0aWdvUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZl
+ckNBLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wKwYD
+VR0RBCQwIoIQKi5nbWFuZXR3b3JrLmNvbYIOZ21hbmV0d29yay5jb20wggF/Bgor
+BgEEAdZ5AgQCBIIBbwSCAWsBaQB3ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCW
+ZDaOHtGFAAABa9nrBcAAAAQDAEgwRgIhAPQxDjUCnzX4HoN5mi7xrQdjNjjhsfbp
+yqb9OpQ5KG/sAiEA7zr4lRTt3HhLbNmez9Cnt+nuYCvCh4fSZtvHmmIdEpgAdgBE
+lGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAWvZ6wX1AAAEAwBHMEUC
+IHaQT8bWZ7xa7w9ywZSje2k25c8x+KY4f02KYkm3tc9ZAiEAqLVKls7XacEwkWRp
+SdLuJXWVzY+uVq2HG6icX942N2QAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkG
+jbIImjfZEwAAAWvZ6wXgAAAEAwBHMEUCIQCxuBHheza34Ke5syGthJP+0R2bjCcj
+N5DWzUJFuHCtugIgJcc6wtXbZBBgF9yMy2U+EQyaJfh0/bp/pexGJHG2ccIwDQYJ
+KoZIhvcNAQELBQADggEBADm7OzRtto0Nh4mkvkPv5YgEl56cJ0HklKUd4RGeCEDC
+T5chjFf3yETw/ofkFjXfpCQbpfayX0GcrmAXCG6YI81tFVFhl3h0qWY1FQ5I1eRk
+nHtxV2RYx0i4ch8ZdC/hDVD9tdglpaNMHwUVPR7RoT0a5yMjhMz+i9Jfii2iyvu/
+7kk8ZhHcB8fxJ4OO5wtTWZ5IhQgq76dmZ4dVv7pBDiLSFnGn/tmqbCdXLE3IJca2
+V7Yn9hVbank0GYbe4HCxL5AYLMszgEnTddk7TaIcmZDSe8NBppJYXJbuCSCMmLXN
+jBsJsjT8oHcRLYdmCWvtUCOxHRobx6YfOTZ4C8VXAHs=
 -----END CERTIFICATE-----
-subject=/OU=GT28643522/OU=See www.geotrust.com/resources/cps (c)15/OU=Domain Control Validated - QuickSSL(R) Premium/CN=www.egma.com.ph
-issuer=/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G4
+subject=/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.gmanetwork.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 1953 bytes and written 434 bytes
+SSL handshake has read 5260 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -51,30 +62,21 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: CE64DD78ACE58F689A5425F912BD5A942AE1A7FC73013867E3E12599F1CA0743
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 2223548BC65E35215EE9F1C033D123BA08A6C85619A1C257443160FF19B746F8
     Session-ID-ctx: 
-    Master-Key: 07BEF1C734553D3B5C7ECB05A736BDFA79B773288D727372D533CD9A75518C75D26FE039503C7F5D7E5162F14F7797DA
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: BCBFE11056BBECBE53FDB0EB08EB32ED21A4B3FB57CB089B537B6C9F563FAA691F77737070A6A4CB562C09A6855EB5B9
+    TLS session ticket lifetime hint: 172800 (seconds)
     TLS session ticket:
-    0000 - 17 c1 d8 fa 92 45 30 86-9b 6a b7 e7 44 d3 34 db   .....E0..j..D.4.
-    0010 - 51 10 d7 05 d0 4b 55 a3-99 1f 92 07 7a 03 2b 9a   Q....KU.....z.+.
-    0020 - 5b e6 38 66 82 7b 2e 42-e7 ef 91 29 09 2b d6 21   [.8f.{.B...).+.!
-    0030 - bb 13 21 54 7b 88 a5 64-da 98 0a eb f1 72 24 01   ..!T{..d.....r$.
-    0040 - a2 f2 db d3 87 43 50 75-72 50 67 92 ca 14 45 e4   .....CPurPg...E.
-    0050 - 65 fb 23 34 da 6a e7 98-9f de e7 54 2b a8 97 5f   e.#4.j.....T+.._
-    0060 - d6 e7 1d 0e 3e 68 08 3e-12 ac e9 98 55 4d c9 cb   ....>h.>....UM..
-    0070 - 7c 57 49 b2 33 04 f0 59-96 18 4e 64 69 dd c3 9f   |WI.3..Y..Ndi...
-    0080 - e9 ce e0 69 b6 7d 25 99-6f ef 0a 2d 74 42 89 9e   ...i.}%.o..-tB..
-    0090 - c0 a0 33 36 ec c8 10 17-b6 c6 82 f7 bd ed b0 e1   ..36............
-    00a0 - 9d f3 a4 e7 b7 a3 a0 94-62 68 ba 16 3f 6b e4 cd   ........bh..?k..
-    00b0 - 26 28 b0 a1 f8 9c 68 54-a4 31 1e 0f 54 7b 32 9b   &(....hT.1..T{2.
+    0000 - 53 53 4b 2d 45 30 30 34-33 38 31 37 34 00 00 00   SSK-E00438174...
+    0010 - b4 3d 6f 55 6a a8 e7 4d-7c 9a bc f2 1b e2 6a 91   .=oUj..M|.....j.
+    0020 - 28 35 b3 d5 9f e5 fd 59-b0 40 5d 19 43 fd 2b 23   (5.....Y.@].C.+#
+    0030 - 80 08 a4 90 ef f7 db 24-f2 16 99 d5 35 94 2d b1   .......$....5.-.
+    0040 - 18 10 6b d9 d2 d7 eb 21-2a 6c 65 41 09 a8 86 2a   ..k....!*leA...*
+    0050 - 52 43 76 a2 68 0a 24 d6-cd 88 d5 5e 61 54 03 72   RCv.h.$....^aT.r
+    0060 - 89 e2 fc 9b 5f 7a 1c 89-                          ...._z..
 
-    Start Time: 1472788744
-    Timeout   : 300 (sec)
-    Verify return code: 21 (unable to verify the first certificate)
+    Start Time: 1577475421
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

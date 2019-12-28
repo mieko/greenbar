@@ -1,0 +1,69 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=psychologytoday.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFbzCCBFegAwIBAgIQDU2So2NOspcTCCcwY5b2lTANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTEwMDQwMDAwMDBaFw0yMDExMDQx
+MjAwMDBaMB4xHDAaBgNVBAMTE3BzeWNob2xvZ3l0b2RheS5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCnwbrihpcerpFUPqiKRKiVituSBcFyaM9k
+Bsy7obxYIvyxD4oVh7FJwRxW63WNxQdcOz0fTJbH5C0oQFkNpMEbElE9GL6ovTvI
+p2EbtNDvftvirgNlL1ZBlMTIS3165qNDXxS1P0FizyLl6oma7AVuWwBvup9eKBpZ
+jhO2EZEUa/+KFpiaFl/G3F3Vi88aJCR53j23iPxRFHquqwLFi0c6W8LapENxOL7P
+oLh5Lf7CUScovdNBZrS7gBDLxrGySdeelofLkbV/olEv6pixDVebzfUYGzWTbeLj
+0uQcZbq3y6S3Wk2odalBvV989p2AdxPI0lXbKDdp0GDxR9psAbNfAgMBAAGjggJ/
+MIICezAfBgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQU
+OAhBiIHkfXnaaShN5NOWMXSMo+EwHgYDVR0RBBcwFYITcHN5Y2hvbG9neXRvZGF5
+LmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwuc2NhMWIuYW1hem9udHJ1
+c3QuY29tL3NjYTFiLmNybDAgBgNVHSAEGTAXMAsGCWCGSAGG/WwBAjAIBgZngQwB
+AgEwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5zY2Ex
+Yi5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQuc2NhMWIu
+YW1hem9udHJ1c3QuY29tL3NjYTFiLmNydDAMBgNVHRMBAf8EAjAAMIIBBAYKKwYB
+BAHWeQIEAgSB9QSB8gDwAHUApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN
+3BAAAAFtmAu11gAABAMARjBEAiBL06t7grMxxnTp6eBAVlV1cq7PG3q3OH5PIdlJ
+wXpEjAIgWuor9YnxybPbeUu02XEvBfMolZXbuEPOhyJhwehYdMQAdwCHdb/nWXz4
+jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAW2YC7Y9AAAEAwBIMEYCIQDklOSB
+oRw6YEeSO4kEfFUG86BeH5nVBM55T35AezFQyAIhAIRqmhP+UxNJhHOeDiKH+FDo
+eHqXL3iCY0dZZ2ETz7BtMA0GCSqGSIb3DQEBCwUAA4IBAQCJvRJ5h2dXQs7h9kso
+0JaHJjvUZ57G+kt9KzztwYc3UYjxCwUse2+sXk2DQFH+nySfVo2ehkpRMdR1SOs5
+wzC+ETX/MQZFL2FhwTgZwqyP4km40pFSE2Anr9bVb2peIm78y8rDVc0+8eV1jYIT
+dTvPZWR91/YrNiSbrgbSvjTRE/b71TOaHX9CSRn7UstH67piMU9wGcoF6197xx92
+mlBxVR/M9qxgJqfjDYFOooTWki3sJLmvnhaiToTz43dqS57NlffVXl1cQQRu59Dp
+aKXjwUPD99h3MZLQzqHSyKeRcrE2jQ1EBSoEO24sMgBR+df3G5JLbeeMS9+6OL+r
+6SXf
+-----END CERTIFICATE-----
+subject=/CN=psychologytoday.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5331 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 27071BDAD3F69D85BDAC5C9A12F9C638B391DB97E7A24BFB8FD8AB148D55FE28
+    Session-ID-ctx: 
+    Master-Key: D40F561910D334B38369601BDB45A0D909611C18BF176912266949BB595D55B1C8B182F31FCE672BB299743E1D5B2206
+    Start Time: 1577476012
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,50 +1,57 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=GT84669683/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=www.privatbank.ua
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+ 0 s:/CN=www.privatbank.ua
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEtDCCA5ygAwIBAgIDBp9TMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNTA4MzEwNjIxMjZaFw0xNjExMDEwNDUzMzJaMIGVMRMw
-EQYDVQQLEwpHVDg0NjY5NjgzMTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
-bS9yZXNvdXJjZXMvY3BzIChjKTE1MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
-YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEaMBgGA1UEAxMRd3d3LnByaXZhdGJhbmsu
-dWEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDJRZWTxRUWiGLiMVTX
-CnP0Cw6lq9aF4cPJ6iddi8E5eZ5v23y16ig5+H1KJOTotZxE8F5Fo/+S5s63FEGN
-Pg8Ns6chbLGmUv1MZcERozDBn1TMIqW3h0ufqIP7PPqu4fXdeprtfEHVIfLNyRG9
-zVkVtlPlK2Lax4GbB9nl32MyfAovU0G5tvETCre3lHApMDZv0/6pjia2eJQpD0MH
-O8ucn7Y5W13o4G/VUHfQAe4nyXAR71j4H7GMKHE1DL+32A/D3pa8jC4hvoscgKHJ
-7ZzPjOtereKbphWWjPAyDtVSnlbaZHcvBqbw3JdAIXpQOmtJ6EFNeOzfNrLFodTg
-gm4HAgMBAAGjggFYMIIBVDAfBgNVHSMEGDAWgBTDnPP800YINLvORn+gfFvz4gjL
-WTBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9ndi5zeW1jZC5j
-b20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9ndi5zeW1jYi5jb20vZ3YuY3J0MA4GA1Ud
-DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwKwYDVR0R
-BCQwIoIRd3d3LnByaXZhdGJhbmsudWGCDXByaXZhdGJhbmsudWEwKwYDVR0fBCQw
-IjAgoB6gHIYaaHR0cDovL2d2LnN5bWNiLmNvbS9ndi5jcmwwDAYDVR0TAQH/BAIw
-ADBBBgNVHSAEOjA4MDYGBmeBDAECATAsMCoGCCsGAQUFBwIBFh5odHRwczovL3d3
-dy5yYXBpZHNzbC5jb20vbGVnYWwwDQYJKoZIhvcNAQELBQADggEBABbSpu8Mvys2
-4qUASjzAL1cUdB8FNKEL3AARxUKniHnOz/TjM7Lh4i1fTawmokTOxyhsAt9FdrvS
-3wVKhiYjy7j17/6h945qYLBR39RPAeVTImumAzS0KDnYb7visyAwGOdWL3dsr5p7
-hWfiMzTaD4HMkUE8nwI8XnwY1trWbm1l/rxx2769Zmuz2iBOJXrid5bFhk5Z8K3P
-gfzJbRyH3+HLy8xeC4SXYtKWJR1ge+XRz9dHTh97uO9uriHBO0SzmItVDm/bMjc2
-WrVE8/n4HCOwBX1QH0O4fgZJmfqrC7c8v57SC/ChsUzzLiMSo+5GK9buWNNgR7tf
-aE7wsjbq0V4=
+MIIGOTCCBSGgAwIBAgIQCnLBwUpGD6jK/fVBFONkeTANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRSYXBpZFNTTCBSU0EgQ0EgMjAxODAe
+Fw0xODA4MzAwMDAwMDBaFw0yMDAxMjkxMjAwMDBaMBwxGjAYBgNVBAMTEXd3dy5w
+cml2YXRiYW5rLnVhMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5+rw
+Bfqhc5xE/mTPNFjdXUpB/diXEMSqzZOF0XCy2e6VWw1APD8Ty1IxE40Zc+O6D3tO
+L1FU19VOYmiLk08ICUva92839NSVHae25vYPo2BOEVtrB+JHIHfCb5RNFXZJM5pz
+L1bBhd3SUEX9zJi+N/6is/3K2Q0WOIUZjI4oU+Ao2DGECccxnl4UPMCr0pxX6EsG
+KGyeMjAYJ3IZQDZaNaltpgnC+r7klJjGkhqrt68whZAfWXIY7GNOyDMNpYiqgi1n
+xdyZnFutuQXwipXSZtasQU5gtwHrHvLtiJxhJoXyHHtwR2JkaxG2QjHV1K20BeuR
+sscC8xRvooYO7LF73QIDAQABo4IDMzCCAy8wHwYDVR0jBBgwFoAUU8oXWfxrwAMh
+Lxqu5KqoHIJW2nUwHQYDVR0OBBYEFOsuBhclWoHFGu1R3DYHEFecaRRXMCsGA1Ud
+EQQkMCKCEXd3dy5wcml2YXRiYW5rLnVhgg1wcml2YXRiYW5rLnVhMA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwPgYDVR0fBDcw
+NTAzoDGgL4YtaHR0cDovL2NkcC5yYXBpZHNzbC5jb20vUmFwaWRTU0xSU0FDQTIw
+MTguY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAECMCowKAYIKwYBBQUHAgEWHGh0
+dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQIBMHUGCCsGAQUFBwEB
+BGkwZzAmBggrBgEFBQcwAYYaaHR0cDovL3N0YXR1cy5yYXBpZHNzbC5jb20wPQYI
+KwYBBQUHMAKGMWh0dHA6Ly9jYWNlcnRzLnJhcGlkc3NsLmNvbS9SYXBpZFNTTFJT
+QUNBMjAxOC5jcnQwCQYDVR0TBAIwADCCAX8GCisGAQQB1nkCBAIEggFvBIIBawFp
+AHUApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFlioAKkwAABAMA
+RjBEAiBxkamat9aeHSAX2VtU05F1+4+/dB14MB2LovW2z0/PgQIgey3ApdAL/9hr
+ek9YKu0q0TMN+apI9U27W8VGx+gb8UQAdwCHdb/nWXz4jEOZX73zbv9WjUdWNv9K
+tWDBtOr/XqCDDwAAAWWKgAtPAAAEAwBIMEYCIQDtSiTBOIemj+kehhj7XrHg/9BA
+gGBDX7uNzSC8VcJ4eQIhAKQjMZbEbG1HstvW5Nhwe+l6VZ4W6t4nJAZM4SC6C0rA
+AHcAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFlioAKxwAABAMA
+SDBGAiEAwHkqijHd8ikxfvOFJRw3nIk/xfSInPfee6gaMUeDcMoCIQCAIGdCrJ7I
+XrVIm2b0NkwS+ofu9O6FZvoTJApEM9XrRzANBgkqhkiG9w0BAQsFAAOCAQEAqX16
+BoEA9d8ohPImQ0EfnLs/AXGjQmeRz2YGzeUf9s7C+9XFtH5samnF1xDanlyJa63k
+Hy6JWmt6iN75qHRc9+4cchKajjxe9bxaILGvx/e78ute7VDqCtAMyEVyglFqiwm5
+B4bjSH9/ZGrJfSjEer5Sv0H4SiG+DuuvqkxW/ZWN+sJ4U7oXt+068FmgJV7d22AJ
+/YKBPrIs90SG3b75vO8Ii3t7qnuNhmeaS1JyvilK+dZuZ1OVs7+nhlCSbsCHTuJj
+NHorcANn2rmEfxRgWR16tJAKg+GW5sk4Wql9LBnyE8jXcWCleiqEWrosBSRAFZw+
+7XaibzFMLaaLQ2bDqA==
 -----END CERTIFICATE-----
-subject=/OU=GT84669683/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=www.privatbank.ua
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/CN=www.privatbank.ua
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3851 bytes and written 434 bytes
+SSL handshake has read 4392 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -55,28 +62,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 7DDCD491FF44446EA9FE95125B50B3B5C04F268329A2234085EC3C3EDCD64219
+    Session-ID: 859526BBC3AE4361FE40A5698D6DD675153354708795E52F3EA74E267A5E5BA4
     Session-ID-ctx: 
-    Master-Key: 3018AD7D2C67BCC93E70C690A430B7B2B2A89893F55BB7F2FBCA9A03A511AD6EE87683B75B6A78F790D5E9E355496FF5
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 31359E89247F1D01BA361F04EF5B0BE4247385950F739885DE5791F73A6F5B642A575A007D307F3DC80E731928D1C962
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - ba a8 75 3c 1f 24 ba b7-dd bb de e5 bd d4 17 0c   ..u<.$..........
-    0010 - 57 b4 a8 4b b5 ef 34 40-ab 72 1c 75 df 48 19 da   W..K..4@.r.u.H..
-    0020 - 4a 9d d9 56 ae b6 bb 28-dc df ad 24 6e 2d 78 ac   J..V...(...$n-x.
-    0030 - 11 ac c8 25 a6 36 e9 98-38 00 d3 35 13 84 52 32   ...%.6..8..5..R2
-    0040 - a9 59 46 d2 25 eb 73 fe-33 78 32 66 f2 82 9a 3f   .YF.%.s.3x2f...?
-    0050 - 2b d6 a6 d2 5b e7 3d e8-52 26 1f 2d 31 9b df 00   +...[.=.R&.-1...
-    0060 - 91 e8 8c 9a 0f f8 44 5c-2b 2e 0e 60 11 0b 3a 0a   ......D\+..`..:.
-    0070 - d8 20 57 fa 18 04 28 33-25 41 11 0a 16 12 45 94   . W...(3%A....E.
-    0080 - 05 83 1e cb d7 aa 2f da-c7 0b 18 3f 23 52 4b 28   ....../....?#RK(
-    0090 - cf c6 aa 2d 81 6b 9c 53-68 7e 34 b9 8f 68 dd 95   ...-.k.Sh~4..h..
-    00a0 - 27 0a 0e 3c 8e 07 7e 75-4c 46 ec 74 66 f4 e6 b1   '..<..~uLF.tf...
+    0000 - ac 71 c4 00 f5 eb a9 92-e2 ac a1 99 05 68 a7 d1   .q...........h..
+    0010 - 02 6c 10 5c 59 c3 8f d5-02 fc 0b 42 3e 0f 61 7b   .l.\Y......B>.a{
+    0020 - 45 6b bf e8 e7 30 0d ee-59 9a c7 23 6d 4c de 9d   Ek...0..Y..#mL..
+    0030 - ab e4 d5 dc d4 e0 f4 e4-72 4b 6e 62 e5 2a c9 45   ........rKnb.*.E
+    0040 - 4b 67 04 cc c9 f4 c7 ec-a1 d8 b0 0d 7c fb b8 36   Kg..........|..6
+    0050 - 26 61 89 4a b0 7b b4 01-19 41 c9 d3 98 8e 37 73   &a.J.{...A....7s
+    0060 - a1 af b3 41 6a 26 ea 9c-69 2c 0c b9 e7 b8 5a 2d   ...Aj&..i,....Z-
+    0070 - c3 df 5f 62 dd a7 32 97-cd c8 03 b2 65 87 b7 5c   .._b..2.....e..\
+    0080 - 58 66 47 0c 1a 3e f9 18-f3 02 e8 ec ef 65 f7 32   XfG..>.......e.2
+    0090 - 4b 52 75 b8 29 ca 05 af-49 58 54 34 72 c7 a4 64   KRu.)...IXT4r..d
+    00a0 - 06 d9 3d ce 65 f8 ca 9b-fa fd 55 5e 7c 8b 01 63   ..=.e.....U^|..c
 
-    Start Time: 1472790642
-    Timeout   : 300 (sec)
+    Start Time: 1577475557
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

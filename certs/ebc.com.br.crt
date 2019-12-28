@@ -1,0 +1,76 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=tvbrasil.ebc.com.br
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXzCCBEegAwIBAgISAzj5KI4NeBHGYpL6BHk1JOAhMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMTEyMTE0NDRaFw0y
+MDAyMDkyMTE0NDRaMB4xHDAaBgNVBAMTE3R2YnJhc2lsLmViYy5jb20uYnIwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC5VECIlauyH/4ivEZMMLfeNE/6
+puZoq/SyvOZbw7ztmNWD80F/7q6e7XU1qZlMziq1132t9QiS9dRZ5VGeHC1C0rNu
+IsOHRYGRGlS/8usKVfW5MQ4fbLgX1urben34yDf+0zlU7PuyXGp9HWLwdpLsC99b
+DmqSmvY+9j6VRQnr3ITVaia+0gRK+nS5HcK+zs7ReGVQ8gdOUfKp8YxNwcMNQRYi
+eadcqxQ3LiUnC7r6JQkxKdXUyRyhRqY3REceC2CNkLnIulkPEju2Va38HQ4Y3M7E
+E4GPwwK6cBLtXWpuG4eOZ1jsklDT1nPvPzkB2BOY//OnJPO7aJIKd/Nhx7IJAgMB
+AAGjggJpMIICZTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFAGD3kjf2atrm8PkLrDL
+ak4rUOy5MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUF
+BwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZy8wHgYDVR0RBBcwFYITdHZicmFzaWwuZWJjLmNvbS5icjBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2
+AF6nc/nfVsDntTZIfdBJ4DJ6kZoMhKESEoQYdZaBcUVYAAABblyIkH4AAAQDAEcw
+RQIgcZOCJT/ygJeyqYiw0c10tsvNBpR34F4nwz3ZfY/EtJUCIQD090zEph6a6sYG
+CE9Wz7qtRopXLojcJlavFAHgdRvILQB3ALIeBcyLos2KIE6HZvkruYolIGdr2vpw
+57JJUy3vi5BeAAABblyIkG4AAAQDAEgwRgIhAJj0FeSrhRdM7eiZWBQe1Oo3uD85
+SXuR8xatPdvZQcb8AiEA24nxYNCEtIeybYPoy0EXjaOqddyVUTE1zPt62CyLsk0w
+DQYJKoZIhvcNAQELBQADggEBAED4X8azQPV4bm4lRqeISZrgRkCY4mfwvxclAbo2
+8yEh/fKgAaHaD9XsEng4TWV3ZIamnnruycwOMfQoKFLo1U1U3hKo6k3uKn8p2iV5
+9GXb0immLQgcgrFgfxLjeUU9MdPa38WZsrK3ZiFf43H1rZbn3RKHsxoZvQNR/IEx
+AxzPWrOigeCb8aLqZeE2+dJTCZhZ+4OgpvKEuRB3dgPMPAVzRpYvbTOhyR7XXY7f
+S4g2IngwL7K2+F0WukkgXTTrhQ/fuCgDy8ciOtL3Vr/byF2nDjB8cO3kApjuXlSM
+EbIYch8vgH0JgPSCHZ7fYbwwDGBZCDZB1oULBYQCsWbd5lw=
+-----END CERTIFICATE-----
+subject=/CN=tvbrasil.ebc.com.br
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2049 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 44DF1B050A1ECE382D3115FBEEE97ADEE16A5E5B9D104D0E2AC9CEC9FDCF2B11
+    Session-ID-ctx: 
+    Master-Key: 34AAA391842835D015D2E723886A5620DD6D43A48C28720C30BBDB98DBF7DF48BC419043080921C6B4182BA67F056613
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - b1 8f 68 b3 c8 78 56 6a-76 a6 12 46 cd 20 67 d1   ..h..xVjv..F. g.
+    0010 - 82 21 b9 50 2d b2 bd 63-a8 c9 93 94 60 14 64 64   .!.P-..c....`.dd
+    0020 - 33 4c d3 92 97 5d 3b 35-75 fc e6 b5 57 5f 4e ed   3L...];5u...W_N.
+    0030 - 62 ac 24 54 5e 66 66 57-06 12 a5 07 9f 0a 72 37   b.$T^ffW......r7
+    0040 - db 6f 25 a1 43 84 9e c1-e2 fb 29 85 9b ef eb ea   .o%.C.....).....
+    0050 - 5c 37 35 71 97 95 d9 73-45 3a f3 62 67 81 24 ad   \75q...sE:.bg.$.
+    0060 - 5b ba 39 e6 67 e3 18 67-83 54 59 20 00 33 c7 c6   [.9.g..g.TY .3..
+    0070 - 96 08 60 78 ad 4d 4e c4-ff 28 d2 a6 fd 2f 78 20   ..`x.MN..(.../x 
+    0080 - 61 0b dd db 28 41 d7 33-6a 10 6a 7c 9a 55 30 70   a...(A.3j.j|.U0p
+    0090 - cd de 14 26 6e bf 34 fb-26 c3 33 dc 74 7a bd 00   ...&n.4.&.3.tz..
+    00a0 - 58 7e 26 4d 8a 58 8b 7d-42 02 3c 3a 3c 31 d1 35   X~&M.X.}B.<:<1.5
+
+    Start Time: 1577475848
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

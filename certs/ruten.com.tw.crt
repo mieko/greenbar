@@ -1,81 +1,68 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=Santa Monica/O=EdgeCast Networks, Inc./OU=Security/CN=edgecastcdn.net
-   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
- 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
- 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 0 s:/C=TW/postalCode=10682/ST=Taiwan/L=Taipei/street=12F ,No 105, Sec 2 Dun-Hwa S Rd./O=PChome eBay Co., Ltd./OU=MIS/OU=Provided by Global Digital Inc./OU=GlobalTrustSSLWildcard/CN=*.ruten.com.tw
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIKSTCCCTGgAwIBAgIQAkQE+wRJJM9i975UDkw6GTANBgkqhkiG9w0BAQsFADBN
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTUxMDA4MDAwMDAwWhcN
-MTgxMDIyMTIwMDAwWjCBiDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3Ju
-aWExFTATBgNVBAcTDFNhbnRhIE1vbmljYTEgMB4GA1UEChMXRWRnZUNhc3QgTmV0
-d29ya3MsIEluYy4xETAPBgNVBAsTCFNlY3VyaXR5MRgwFgYDVQQDEw9lZGdlY2Fz
-dGNkbi5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCrcBhTmZe0
-ds402DELXTGzAFh9MMe7S1ihRBO9lS6hYwCiEwhu5Z4ZZWE/WhFl33b2HH+tWS8+
-d1THTE2G1kWEzaF9MX+45v18PxICQvF897IHz4XxhzEX2f2HsZ515vss07gkgvNU
-Zed3eyXOh8joQupFRSqqo/7Pz7fNLXfn0rqpKhCxoFst+jtiAHIEZgaNhcy7rqNL
-Bfa7KafunMdWTqQPdQWAnSV18R5Cvta7BV/UG9GsPyPbAnAsB7iLxHZIoHlnapNV
-EwAoI3BpvTvCQFadUQZJEtZyaewju+cidNYuV1Cgsp2FusAuEpJR3OPI0GMEuOy9
-tsuwEM/djGzpAgMBAAGjggbnMIIG4zAfBgNVHSMEGDAWgBQPgGEcgjFh1S8o541G
-OLQs4cbZ4jAdBgNVHQ4EFgQUmmKzktPHdp/G37OsVUbzCDMfTk4wggUpBgNVHREE
-ggUgMIIFHIIPZWRnZWNhc3RjZG4ubmV0ghVtaW5pdGFiLmZpbGVidXJzdC5jb22C
-E2ltYWdlcy5nb2xkc3Rhci5jb22CEmNvbnRlbnQudHJ1c3RlLmNvbYIZcHJpdmFj
-eS1wb2xpY3kudHJ1c3RlLmNvbYIac2VjdXJlLWRlbGl2ZXJ5LnJvdmlvbi5jb22C
-E3NlY3VyZTEubWxzcGNkbi5uZXSCFHNlY3VyZTAxLm1sc3BjZG4ubmV0ghZjZG4t
-dGh1bWJzLnZpZGRsZXIuY29tghxpbWFnZXMuYWZmaW5pdHlzb2x1dGlvbnMuY29t
-ght6ZXJva25vd2xlZGdlLmZpbGVidXJzdC5jb22CGXJhZGlhbHBvaW50LmZpbGVi
-dXJzdC5jb22CEnd3dy5leHBlcmlhbi5jby56YYIWY2RuLnN0YXRpYy52aWRkbGVy
-LmNvbYIcZGF0YS5zY2h3YWJlbm9ydGhhbWVyaWNhLmNvbYIic2VydmljZXBvcnRh
-bC5jYXJlc3RyZWFtaGVhbHRoLmNvbYIdbWVkaWEuc2Nod2FiZW5vcnRoYW1lcmlj
-YS5jb22CD3ZpZGVvLnZ6YWFyLmNvbYIVc3NsdmlkZW8xLm1sc3BjZG4ubmV0ghRj
-ZG4uc3dhcm1idWlsZGVyLmNvbYIPZnJvbS5yb3Zpb24uY29tghJhc3NldHMucG9r
-ZW1vbi5jb22CEG1lZGlhLmFkcmNkbi5jb22CE2NzdGF0aWMud2Vib3JhbWEuZnKC
-FWNvbnRlbnQyLnNtY2V0ZWNoLmNvbYITbWVkaWEwMS5tbHNwY2RuLm5ldIITYWEu
-aGF2YXNkaWdpdGFsLmNvbYIMY2RuLm1lc21vLnR2ghNyZXNvdXJjZXMudnphYXIu
-Y29tghJkb3dubG9hZC52emFhci5jb22CDWNzcy52eGNkbi5jb22CFnBsYXl0aW1l
-LnR1YmVtb2d1bC5jb22CHGNkbi1zdGF0aWMtZ3NjLTAudmlkZGxlci5jb22CHGNk
-bi1zdGF0aWMtZ3NjLTEudmlkZGxlci5jb22CFWVkZ2VjYXN0bG8ub25lZ3JwLmNv
-bYITY2RuLnRldHJpc3N0YXJzLmNvbYIWc3RhdGljLmNkbi1hbnJpdHN1LmNvbYIT
-Y2RuLmV4cGVydGljaXR5LmNvbYIUZW1iZWQtc3NsLndpc3RpYS5jb22CGmNkbi5q
-ZXRwYWNram95cmlkZWdhbWUuY29tgh5kaXN0cmlidXRpb24uYmlzaW11bGF0aW9u
-cy5jb22CFWVkZ2VjYXN0MS5jcmFja2xlLmNvbYIUY2RuLnRoZXdhdGVyc2hlZC5j
-b22CF3NlY3VyZS5hZGp1c3R5b3Vyc2V0LnR2ghxhc3NldHMucmVhZGluZ2VnZ3Nh
-c3NldHMuY29tghdvcmRlci5pbnZlc3RvcnBsYWNlLmNvbYIcb3JkZXIuaW52ZXN0
-b3JwbGFjZS10ZXN0LmNvbYIaYXBwLmxpYmVydGVzZXVhbWlnby5jb20uYnKCFHBs
-YXllci5zbmFnZmlsbXMuY29tghduZTEud3BjLmVkZ2VjYXN0Y2RuLm5ldIIXZ3Mx
-LndwYy5lZGdlY2FzdGNkbi5uZXSCGGNzMjMud3BjLmVkZ2VjYXN0Y2RuLm5ldIIS
-bmUuZWRnZWNhc3RjZG4ubmV0ghdncDEud3BjLmVkZ2VjYXN0Y2RuLm5ldIIWZ3Bj
-bmxhYjEud3BjLnYyY2RuLm5ldDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
-KwYBBQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9jcmwz
-LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzUuY3JsMC+gLaArhilodHRwOi8vY3Js
-NC5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc1LmNybDBMBgNVHSAERTBDMDcGCWCG
-SAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20v
-Q1BTMAgGBmeBDAECAjB8BggrBgEFBQcBAQRwMG4wJAYIKwYBBQUHMAGGGGh0dHA6
-Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEFBQcwAoY6aHR0cDovL2NhY2VydHMu
-ZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNlY3VyZVNlcnZlckNBLmNydDAMBgNV
-HRMBAf8EAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQCEDzCN4d/736CmTlP8i5lWOf1U
-002hBv15JPZnGvxSx8UeBjocZj3DAKlJDjvZYFC4Z97Bn0lZWflxfsDnCOoPabMP
-OYzSnTyHhgkwByCAPHj2deSZt7y/N/MTw2/s+eV3sSVF0we74/FENZRkeLcWyUgG
-gmeeT9i3baX4qyM2Fjf43iqcqYmd8w76BH9axIWF0DPVzq84Y/pFQtFr+23kf0pr
-xSFoVc8QHtsO7K5mVBz3HRrs5TKGY2ly/WP85HwsKF1JQ7IKhAjsH3VD9MhT+V6W
-ZYCN4TpmNOnWZpqnH1MfeLtFWGOvMSftSXxNGBPQ3Y8OfPl8uZFY9KjI9Gl4
+MIIHfjCCBmagAwIBAgIQBsf/A9d/bg1g3oJEZ6pIaTANBgkqhkiG9w0BAQsFADCB
+lTELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMT0wOwYDVQQD
+EzRTZWN0aWdvIFJTQSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTZWN1cmUgU2Vy
+dmVyIENBMB4XDTE5MDMwODAwMDAwMFoXDTIxMDQxODIzNTk1OVowgfwxCzAJBgNV
+BAYTAlRXMQ4wDAYDVQQREwUxMDY4MjEPMA0GA1UECBMGVGFpd2FuMQ8wDQYDVQQH
+EwZUYWlwZWkxKTAnBgNVBAkTIDEyRiAsTm8gMTA1LCBTZWMgMiBEdW4tSHdhIFMg
+UmQuMR4wHAYDVQQKExVQQ2hvbWUgZUJheSBDby4sIEx0ZC4xDDAKBgNVBAsTA01J
+UzEoMCYGA1UECxMfUHJvdmlkZWQgYnkgR2xvYmFsIERpZ2l0YWwgSW5jLjEfMB0G
+A1UECxMWR2xvYmFsVHJ1c3RTU0xXaWxkY2FyZDEXMBUGA1UEAwwOKi5ydXRlbi5j
+b20udHcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDY9TX/r8N6HGy1
+cg8dQsIEw+RQYYHxCDZELijPlsw0ocIVdZQwj/OYPlmK/xv+3rxyCRFAZKyXPDtE
+TxCHAlVl7DDS94KQWF2FoGyIl0/AAbrRhW+aOEDmXgQKI2aop4IZHSYgneCErSI0
+xiY+cGRj5yziw6w79YZmf5NdAKlXOdo715ZITCPH9nPuGZUbl5vOHMMTfpXgHnKR
+O+MrYr2HvSRkBQC912ufv4GO6KpN4w2yKt1W3lNCEgEKcemZe1k/B6JfuTIEkBIi
+TX7TVbiaKCiNwON6v2Jsg6xvQC/wM0phYeQ6t2lb+wLxiKnrt/fWS1t3tjT5zW+1
+qPd/5emJAgMBAAGjggNfMIIDWzAfBgNVHSMEGDAWgBQX2dYlJ2f5McJJQ9kwNkSM
+bKlP6zAdBgNVHQ4EFgQUC777CmCNAxnPg4Sv4TNBfCb75hcwDgYDVR0PAQH/BAQD
+AgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MEoGA1UdIARDMEEwNQYMKwYBBAGyMQECAQMEMCUwIwYIKwYBBQUHAgEWF2h0dHBz
+Oi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECAjBaBgNVHR8EUzBRME+gTaBLhklo
+dHRwOi8vY3JsLnNlY3RpZ28uY29tL1NlY3RpZ29SU0FPcmdhbml6YXRpb25WYWxp
+ZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3JsMIGKBggrBgEFBQcBAQR+MHwwVQYIKwYB
+BQUHMAKGSWh0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JTQU9yZ2FuaXph
+dGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0
+dHA6Ly9vY3NwLnNlY3RpZ28uY29tMCcGA1UdEQQgMB6CDioucnV0ZW4uY29tLnR3
+ggxydXRlbi5jb20udHcwggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB1ALvZ37wf
+inG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABaVxpxlwAAAQDAEYwRAIgGRS/
+MzKJLRa0E2nl6sc15cJVFbtQ6OtdMDGAWNkvKnkCIAMZLbC+L17Wwu5Qln3qy11a
+snPx0v9Ak7WKHPPoO3IZAHYARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2
+gagAAAFpXGnGrQAABAMARzBFAiEA6M4ml9S+x+vxGz3m7WPvWK9LzLI+hSiNOseQ
+ZSIlPwACIGipdWS2trwULo6yqoGwsD1GeBVyoG0lvDxon1tXY6DeAHUAXNxDkv7m
+q0VEsV6a1FbmEDf71fpH3KFzlLJe5vbHDsoAAAFpXGnGpQAABAMARjBEAiAFCxBF
+hXIrU3eRuoZ4lixSrDoSTQG7//7ozE7ofl1lyAIgFfegRl64hH6pbjj6bAMRBTEm
+qFpJC2SLZep8WXc4ipAwDQYJKoZIhvcNAQELBQADggEBAA6ulq3v8tWYBMmFe8Ub
+3h0HwcK7vh+ZOzvRS+n428CmOa3+dDbN1V+MP0DqnL9IRNj0FMMKPPuWhEf6lgjU
+dUBeOIufstb9dVh1ikYWAfLSqZaKSzNuk0Db9ZCQUGtmNLqaZ4KXJFcsS7MErGSD
+hZxxvvWBnOXEuoduFLFDiTCaYGTrhgyL2mdjgsadnZA6Zy5COafLcCQypqXkB/WV
+SYfWAswH8wop7U9BNlpdqhqkBihGbhg8jfnM49Q7ZL4PL5o6Qk6DUPMyVTFc7eZV
+GlZmaH/XKLSPuTwCdwPZf2t3rAwb6y5mrHExp5mWNu1PGHj0xoodV2Ey63uqySHi
+B68=
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=Santa Monica/O=EdgeCast Networks, Inc./OU=Security/CN=edgecastcdn.net
-issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+subject=/C=TW/postalCode=10682/ST=Taiwan/L=Taipei/street=12F ,No 105, Sec 2 Dun-Hwa S Rd./O=PChome eBay Co., Ltd./OU=MIS/OU=Provided by Global Digital Inc./OU=GlobalTrustSSLWildcard/CN=*.ruten.com.tw
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5425 bytes and written 434 bytes
+SSL handshake has read 6476 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -83,28 +70,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: FCAAED937A0113B0B0B9818B34A86DB63DC711D964209FB90E314055A2A7D9DC
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5FFBDA04235A6332DB530BA20FFB51A93E0088DF46FC10BC59A803F37CD94B34
     Session-ID-ctx: 
-    Master-Key: EEF0AB566879C4D62AF27C11A9609223878C374F65BE41B4D560C1841F12F946C2D24DA505D9EA4910BC139D42DDA92F
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
-    TLS session ticket:
-    0000 - 2d 57 5b 21 f1 e8 4e 10-d3 45 d2 c4 f5 cb 86 3d   -W[!..N..E.....=
-    0010 - af 24 cf c4 9f 23 40 53-c6 a6 de 9a ce b8 82 2b   .$...#@S.......+
-    0020 - 17 d9 5e ea d5 f9 ff 76-e8 50 48 20 9c d4 f9 aa   ..^....v.PH ....
-    0030 - 1f 1d bf c1 0f 22 ee b8-a4 b2 ad 7c ce c4 c8 2a   .....".....|...*
-    0040 - 92 a7 6d 2b 82 ff 86 37-81 5f 23 0d ef b0 83 87   ..m+...7._#.....
-    0050 - bb 5c 1b 82 bc 23 6c db-80 ca c5 1c 40 f0 bb 12   .\...#l.....@...
-    0060 - 59 04 03 ca f9 52 c6 40-a7 92 86 de 77 9c 00 93   Y....R.@....w...
-    0070 - b5 d5 b5 5f 50 67 78 0d-c6 7c 89 8e e8 4e 6e a0   ..._Pgx..|...Nn.
-    0080 - ac ba 5e 17 67 dc 94 71-03 5b 37 9a 31 1c b0 5b   ..^.g..q.[7.1..[
-    0090 - 11 4b 09 6e 44 7f 39 19-69 71 a8 ed ce c3 b4 79   .K.nD.9.iq.....y
-
-    Start Time: 1472788254
-    Timeout   : 300 (sec)
+    Master-Key: BA70437EFAABB2F5BC2FD7096871E3ECC70C211928DC112956F76B41A787BC8F363A8DB1BB963C20A06A5055FC9463BD
+    Start Time: 1577475607
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

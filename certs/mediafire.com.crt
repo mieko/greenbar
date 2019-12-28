@@ -1,55 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
  0 s:/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.mediafire.com
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
- 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
    i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFVDCCBDygAwIBAgIQdoAwyXYTwYrKfDdPte1sUTANBgkqhkiG9w0BAQsFADCB
-kDELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
-A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxNjA0BgNV
-BAMTLUNPTU9ETyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
-QTAeFw0xNTEyMjMwMDAwMDBaFw0xODAyMjQyMzU5NTlaMFwxITAfBgNVBAsTGERv
-bWFpbiBDb250cm9sIFZhbGlkYXRlZDEdMBsGA1UECxMUUG9zaXRpdmVTU0wgV2ls
-ZGNhcmQxGDAWBgNVBAMMDyoubWVkaWFmaXJlLmNvbTCCASIwDQYJKoZIhvcNAQEB
-BQADggEPADCCAQoCggEBAKtoel6XFav+Dpr21oZ7M9T8RsSfsWqRgRZ5N57tjHTe
-kaKFpn5HDPZb8t2QoSFepzqYbulZIvTutASasnOFpxet6ccUaj3pwXA/VqSDOgwo
-rQulUvuRXZWtHLJ3eoAlyfPlOYC6CJSCxtm39+cv+NIxhmJsSXCGdCVp6xsRcy5R
-5TairYin0NpgpKbDlM2S1L9q9N5HEdQgB4HhYEmcFPqZ3JGLn8OiFqxTvbzji4uS
-VdjgWktAd/o4vlHFCfVrRX5CdojNykGTGrkE/4Ti5HUcttw0HJelIZPkNVr4ZDBZ
-jZ/65WMzUHKTYWDT9vainx8ywJ7YgNBspH7lPXrKfjMCAwEAAaOCAdswggHXMB8G
-A1UdIwQYMBaAFJCvajqUWgvYkOoSVnPfQ7Q6KNrnMB0GA1UdDgQWBBRAkowWoz1M
-tck+hpD2K13Z/+Q1PjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
-HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEEAbIx
-AQICBzArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29tL0NQ
-UzAIBgZngQwBAgEwVAYDVR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5jb21vZG9j
-YS5jb20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNy
-bDCBhQYIKwYBBQUHAQEEeTB3ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LmNvbW9k
-b2NhLmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0Eu
-Y3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wKQYDVR0R
-BCIwIIIPKi5tZWRpYWZpcmUuY29tgg1tZWRpYWZpcmUuY29tMA0GCSqGSIb3DQEB
-CwUAA4IBAQBlHY16BrHOl+3hM87A6fxO2gD4e3xoJZyTJUHRy0YO/PjoiQ/yvLFP
-znIaWwfHErZ+rTIRWeqALEWw8n7dGygSTXQMfY5XK1UheM8xo1f2BRRDG7acQ/WT
-LDLL4Fv1VKogSvOgsLh7FzZoZnKWuHGQHph8T9Cdx6SGKAxD964YqjMaIMxxdATq
-56u8EjzaHQUv6quu1Apt8PVihxk1aRw3yw3yOQCK5uA7ZcCeSEvbDAM57bvQ7IhU
-aZR35Fdp4Q7WQulfMoBJtiOdWkiiZ64r62DuGYACUdrtaCJOeDMJc6L5YE7sTMVL
-6OMOjlknTTeK44xThWWLbwsJbDw5m5Wd
+MIIGeTCCBWGgAwIBAgIQJROB9Cxz5wHA0ExA1ZCXQzANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTE5MTAxMTAwMDAwMFoXDTIxMTEwNzIzNTk1OVowXDEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMR0wGwYDVQQLExRQb3NpdGl2ZVNTTCBXaWxk
+Y2FyZDEYMBYGA1UEAwwPKi5tZWRpYWZpcmUuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA9V/isTYNwGMk3CVMy5KxMtaQGonBWLzcJBFkRtL2sB42
+Uc8W2xNsqxhaRSoLeRZS4Oyp4D+oqmB8g+VMxMR5OxMkSsDyQI0T50EsWNFX4n1d
+WoYrzngIkhXTfH6fS/mgnFXxeWMek7voFL+PE4uMHj8LaFjOo2h9u8iqV2mw4YXk
+evSqXTRL0KeOIFomOz2THOzSXp9UsXuR/K2r4hFIE6v9C7xBPfn/iKbMHYZXZoSl
+ZXr+XMJdrf459MIY0JsyWfWFUd3ReCIqNrdN8mADT5A6fqoJGCk0o2egzgDBPsyM
+pAAMjGt0+K8bh9zu7oAttQJ+pdIzakyJrl/ShB4A7QIDAQABo4IDATCCAv0wHwYD
+VR0jBBgwFoAUjYxexFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFKNaYuSDYA92
+NUe/e/E/9o1MyGH9MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEB
+AgIHMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECATCBhAYIKwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNl
+Y3RpZ28uY29tL1NlY3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVy
+Q0EuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTApBgNV
+HREEIjAggg8qLm1lZGlhZmlyZS5jb22CDW1lZGlhZmlyZS5jb20wggF/BgorBgEE
+AdZ5AgQCBIIBbwSCAWsBaQB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+
+IvDXAAABbbuhwhgAAAQDAEcwRQIgX3g8xzW+lVQ+l27UpjhOgtflTCSSH1U5ixiB
+ztEOi7MCIQD4h1HEKhUZ6S65k+8qQrfCZIoHlin0zzG5aK8j3aal+wB2AESUZS6w
+7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABbbuhwgIAAAQDAEcwRQIhAOQZ
+v12Oe5FpaxiVn7is5mRGvaGS9anoFxQhxfYOShrKAiAZcCAmEaI1qLY97vuoM1Wp
+FddcTx0m1F+mKBNG95l16AB3AFWB1MIWkDYBSuoLm1c8U/DA5Dh4cCUIFy+jqh0H
+E9MMAAABbbuhwdwAAAQDAEgwRgIhAJIqm0tHabQRurGIllwQD9F715fgC8DbpkAL
+joNY2Da9AiEA2/u+/SXNm/sfQ1iA3np6N2w0LQitjptr+utGc5IMvxkwDQYJKoZI
+hvcNAQELBQADggEBAJalXJrEwn2NdzcCi9tYjpIutMPT/M67VTfsWFzJWAyKs9I5
+B9n5/hkjC/y5WQsNPtHXP3l9o7LFYc+0tRiGUqzB1o58xoPnQJEn8gb28U51j1oX
+a11UpXBwFMFwVbV+7osLWFqbRslJ+lclQUNNlUMjNx3CX60PBi1ybmZafSftvdst
+lpc0+y1P0lD/wzCrS7aPtSPmi0Ro3nx2ppv9QEjIRBx9HlcALXB0r4eNoBKXt/jW
+MGerhOQNCTaQdLpIJjrqhnLL+PNPi/vMtAFwjMrRW+YFW6QeNGXwW9AO9PMZyDww
+yjcD+tVNmeBu9iQgKv5jxaY9Owu5fvdQCfeudGY=
 -----END CERTIFICATE-----
 subject=/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.mediafire.com
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 5608 bytes and written 666 bytes
+SSL handshake has read 5256 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -57,15 +62,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-SHA256
-    Session-ID: DAB2E7B863794D75D01C6729459D33DA13FDB7D5DDF7B592F2CAD0D8E7D90ABB
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 3DC0B3CA70729F424628091B070A63C86403374BC1BFAA42A57636CB0E5291CA
     Session-ID-ctx: 
-    Master-Key: F1A2DA5630A459BB89AA9079769F5993D969BDF2ED38FF5BDF8AAC0FA1ADA844B48EEFBEB49E8FA7E6E2BE78EDDCE5AA
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788021
-    Timeout   : 300 (sec)
+    Master-Key: 6689CC16E36F25684C27FF3F0ECBA2842FF70FEBD6640A429F9FD1697C18867861EF7AC98443E8AC761FEF7C2D8F90C2
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 83 6e 63 1d 7d 95 1c 0e-08 cb ad 33 31 20 7e 0c   .nc.}......31 ~.
+    0010 - 75 3e 9f 6f 21 89 ad 26-aa 35 cf ff 46 a9 7f dd   u>.o!..&.5..F...
+    0020 - 16 14 1d c3 0a 99 f9 ec-f8 4b 85 5d 31 4c b3 9b   .........K.]1L..
+    0030 - b5 7b 28 4b 4e ff 7b 88-4d a7 94 2f 39 91 67 46   .{(KN.{.M../9.gF
+    0040 - 08 02 5b 6a bf 3b 58 0e-a8 6b 7a f5 b3 84 95 a8   ..[j.;X..kz.....
+    0050 - fd b8 78 6a dc a2 84 ab-fe be af 28 11 2a cf 71   ..xj.......(.*.q
+    0060 - 75 14 f7 c1 6d 6e 2c ca-f9 99 d8 7a 58 12 4b 10   u...mn,....zX.K.
+    0070 - d5 50 89 ea 62 ba 58 51-d1 5e 61 ba 91 d8 79 cc   .P..b.XQ.^a...y.
+    0080 - 47 21 cd ad f8 2a 1c 31-24 b8 67 d7 e8 06 f4 a9   G!...*.1$.g.....
+    0090 - 43 dd c7 ed e7 e6 8d 1a-40 1a e8 73 ad a8 ca a8   C.......@..s....
+    00a0 - cc ff 58 3a 01 64 a7 2a-0d b5 7c cc df b3 dc 1f   ..X:.d.*..|.....
+
+    Start Time: 1577474868
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

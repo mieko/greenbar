@@ -1,55 +1,63 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=Washington/L=Seattle/O=Disney Enterprises, Inc/CN=disney.go.com
+ 0 s:/C=US/ST=California/L=Burbank/O=Disney Interactive/CN=*.static.matterhorn.disney.io
    i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
  1 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
    i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
  2 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
    i:/C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
- 3 s:/C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
-   i:/C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFQjCCBCqgAwIBAgIQYXQNqorL8AsAAAAAUNh6FjANBgkqhkiG9w0BAQsFADCB
+MIIG8jCCBdqgAwIBAgIQNYSWNb2cjzEAAAAAUPcXuzANBgkqhkiG9w0BAQsFADCB
 ujELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUVudHJ1c3QsIEluYy4xKDAmBgNVBAsT
 H1NlZSB3d3cuZW50cnVzdC5uZXQvbGVnYWwtdGVybXMxOTA3BgNVBAsTMChjKSAy
 MDEyIEVudHJ1c3QsIEluYy4gLSBmb3IgYXV0aG9yaXplZCB1c2Ugb25seTEuMCwG
 A1UEAxMlRW50cnVzdCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAtIEwxSzAeFw0x
-NjA2MTEwNTUyMThaFw0xNzA2MTkwNjIyMTZaMG4xCzAJBgNVBAYTAlVTMRMwEQYD
-VQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdTZWF0dGxlMSAwHgYDVQQKExdEaXNu
-ZXkgRW50ZXJwcmlzZXMsIEluYzEWMBQGA1UEAxMNZGlzbmV5LmdvLmNvbTCCASIw
-DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKctafUu22doL6HGLcdWawFgbT1i
-95N+uN7eNeALCu5py4uCQ2iJ+Mxtt+1P39wG9KmS1eaDTpLzyf3wbYTCZQDr6zw2
-tXdn7AAGSzcpsIBkRnfA2s6Bj+46SfWkR4jV0gui6R3ED5Bre0fJ8IACbREIWRWL
-EHbTuePakzchCUUcYJ9fD2fnpJEynxDwyhcVURLDhIY0TwfUxcnL4kBlGmVvOSur
-G39FyjHw6CNnr8VPOaUJNb0cZc02A0wDbOGJaLYfembOdi+a6tspzzwhwyfnrQ9D
-pDvTzCx9rDBYDyKp+ALrhC5I/3lDfj5bzVFDKSQGxaB4Ll2P3e1gR5IDvRcCAwEA
-AaOCAY0wggGJMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAz
-BgNVHR8ELDAqMCigJqAkhiJodHRwOi8vY3JsLmVudHJ1c3QubmV0L2xldmVsMWsu
-Y3JsMEsGA1UdIAREMEIwNgYKYIZIAYb6bAoBBTAoMCYGCCsGAQUFBwIBFhpodHRw
-Oi8vd3d3LmVudHJ1c3QubmV0L3JwYTAIBgZngQwBAgIwaAYIKwYBBQUHAQEEXDBa
-MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5lbnRydXN0Lm5ldDAzBggrBgEFBQcw
-AoYnaHR0cDovL2FpYS5lbnRydXN0Lm5ldC9sMWstY2hhaW4yNTYuY2VyMCsGA1Ud
-EQQkMCKCDWRpc25leS5nby5jb22CEXd3dy5kaXNuZXkuZ28uY29tMB8GA1UdIwQY
-MBaAFIKicHTdvFM/z3vU981/p2DGCky/MB0GA1UdDgQWBBRQ2sAOd3LCJGFJb8MZ
-RBlbN5+MsTAJBgNVHRMEAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQBc/Kug4akt8rAd
-ehh3kW56Q93/OequmcyOSZaA1bJk3Y29dQxWZalDhs1aPVSbJH5rymAmEkf2XeYT
-r77/aOsIK76MO+q6DwnjJa4PEFilM03dbu2p6Q3y7rGIcDYIkfZyZeF4fKdNeizu
-IcQRqgrUCqasFbZgQagHv/EyIusBw5PF71xNK/z6yZxXUbCmGd49H5sHOn+o4Ru1
-BSfwpaiFKWpR165nyB+tntPWv7BIQiBtnm0vDk2+vHFPwJjM0cupnt6DG2sXZzcr
-/GXvIIb02lsBnMgP0N/Hjr/yI2qzVaM0RGYp9zhOzD7UAUzqIzUaTpkqJk6f9HrE
-vDnxlnvH
+OTA5MTExMjEwMTRaFw0yMDEwMDQxMjQwMTNaMHkxCzAJBgNVBAYTAlVTMRMwEQYD
+VQQIEwpDYWxpZm9ybmlhMRAwDgYDVQQHEwdCdXJiYW5rMRswGQYDVQQKExJEaXNu
+ZXkgSW50ZXJhY3RpdmUxJjAkBgNVBAMMHSouc3RhdGljLm1hdHRlcmhvcm4uZGlz
+bmV5LmlvMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsuc6B1YCgpJB
+2Ly+RRWLHa90f2Nx2GFodlXaJXAJ4WXJIbNj8LhwAmVVVBMEEKLFFLz5vh3dYpaC
+X0qFgGNiH3vakWdNE3IbBZQLFa273JxlVUrXgYUKqGLEdL7UAOVu42vs53E6cLaj
+JlqT220SPfzwpocKKKzb0tNpYQh8T6UR2b1c+K32nd6a9K97PmqMYf0Y+OcrizZd
+IdE7cRBVMOZcdEdJKcu5K/jzg0nIgZNsjrkeKRvWm4mYbxbRfEUPGwxNAQgtDdoT
+V1ylnAcqcu3DTPcFQxidlkQQOO0U3ZY39CXA0vXhaiTM960+PEqi9uOt6pJvMQf7
+0U5nLMPM1wIDAQABo4IDMjCCAy4wRQYDVR0RBD4wPIIdKi5zdGF0aWMubWF0dGVy
+aG9ybi5kaXNuZXkuaW+CG3N0YXRpYy5tYXR0ZXJob3JuLmRpc25leS5pbzCCAX0G
+CisGAQQB1nkCBAIEggFtBIIBaQFnAHUAVYHUwhaQNgFK6gubVzxT8MDkOHhwJQgX
+L6OqHQcT0wwAAAFtIFavcgAABAMARjBEAiBmCWgCQRW/+3u4cefrExpTLhO6UpbP
+4DLc3xgBhzNQTAIgZeb7erbo30ZQU9oyEQa/Dj3ItcSFu+gSprZbQ9+XHmIAdgBe
+p3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW0gVq9fAAAEAwBHMEUC
+IQD5bKALFfGAix5wSr/B143vQQwe0qb/4AiLlPa9v2O3bgIgI6M3eUpO7eRcN/ua
+Yky0D+zE7dAJzBG7e/Mow3OitEQAdgCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jj
+d80OyA3cEAAAAW0gVq+cAAAEAwBHMEUCID5wWCjxwHGuZm/5cB51LvbdN+t8ej1l
+YDlbekkR8Z5QAiEAxGIWGgj1PvrHQWokAtjfXx3w4/UWcbXs/AS9VYpF8UYwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAzBgNV
+HR8ELDAqMCigJqAkhiJodHRwOi8vY3JsLmVudHJ1c3QubmV0L2xldmVsMWsuY3Js
+MEsGA1UdIAREMEIwNgYKYIZIAYb6bAoBBTAoMCYGCCsGAQUFBwIBFhpodHRwOi8v
+d3d3LmVudHJ1c3QubmV0L3JwYTAIBgZngQwBAgIwaAYIKwYBBQUHAQEEXDBaMCMG
+CCsGAQUFBzABhhdodHRwOi8vb2NzcC5lbnRydXN0Lm5ldDAzBggrBgEFBQcwAoYn
+aHR0cDovL2FpYS5lbnRydXN0Lm5ldC9sMWstY2hhaW4yNTYuY2VyMB8GA1UdIwQY
+MBaAFIKicHTdvFM/z3vU981/p2DGCky/MB0GA1UdDgQWBBQ/2la5M0UyulUp0dAV
+zVR08v0XLTAJBgNVHRMEAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQAMAC5a4kYpqc35
+ZC5pdnKFoU8g9h0wvfjdVKwwUzItMrTGjla86A8a05+nVfS9Ak7hiynCgaFKqG2f
+X95czJmmyDpDH5nqlkBYQiVkYtAc/m31af8Fjl9Z6jWrCPVUCnkf7/i+7x+8ciFr
+lij4J2hjZQunUMF6SdJAl0cLW1FDZxpDaM1uEUzpcR3UZ25RzKWjt2KRphVka87R
+z4fV70aBhwlbgYktQZGvyB4QiqJ4LR9NTBkcfHCuUF/pHCjkg3qT5GBQKZXk83Ge
+7WslJEsDaAtzvGFB4vPT9RKbDwmvNZaYtb05kdW/ORmVcVzSfzBvGSek9OE64Oox
+K4OEGrdc
 -----END CERTIFICATE-----
-subject=/C=US/ST=Washington/L=Seattle/O=Disney Enterprises, Inc/CN=disney.go.com
+subject=/C=US/ST=California/L=Burbank/O=Disney Interactive/CN=*.static.matterhorn.disney.io
 issuer=/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5259 bytes and written 622 bytes
+SSL handshake has read 4863 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is RC4-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -57,15 +65,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : RC4-SHA
-    Session-ID: 5FCCEBFA0C8B92329E383AD4C607250A5477C669D448A2A63CB34B7AB9D9DA28
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: E5B64E04A3ADE76C358DE87E63E0D39152D2ECF676D35CEC0A3380E0153D91A3
     Session-ID-ctx: 
-    Master-Key: 6310632EA2051C6BA7FF40DE107B1AD9BBD3016A8180C65F2F92608CC5153CD1C9BC870EA50C11E7575459096D0A6E3D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472790024
-    Timeout   : 300 (sec)
+    Master-Key: F7A8111D18032F8561C810A82BCF6CB5B65BBBEBE81B3359C46AA0BB59B04F30915D9B7FCA02E7DC714B8FE409720BB3
+    Start Time: 1577475743
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

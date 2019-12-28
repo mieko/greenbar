@@ -1,58 +1,56 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/jurisdictionC=AE/jurisdictionST=Dubai/businessCategory=Private Organization/O=Souq.com FZ LLC/serialNumber=17646/C=AE/ST=Dubai/L=Dubai/OU=SOC/CN=ssl.souq.com
-   i:/C=US/O=thawte, Inc./CN=thawte Extended Validation SHA256 SSL CA
- 1 s:/C=US/O=thawte, Inc./CN=thawte Extended Validation SHA256 SSL CA
-   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2008 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G3
+ 0 s:/CN=souq.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-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
-pvChBgBY6G3FFe5f2yRBZQhxBPzZ3A==
+MIIFWDCCBECgAwIBAgIQCUfA20yJ8KiPpvYZY1Qe9jANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTA2MTAwMDAwMDBaFw0yMDA3MTAx
+MjAwMDBaMBMxETAPBgNVBAMTCHNvdXEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAiQaL61cpuKRr4TODja4uqLOIX/beIXIwkxsYZs8TcPzZ6e6i
+BkfTyuh0Xpbtt0DeJaakfiGI7mRrnKJAmbiSIl8fUPZG3rUvMKSlGEhtS9LQ0k9C
+zHQxdxRk9vn7H6Bi5q5c+CN7msR9+3xlSlTM2ojg7LbwMY2egnnCGbal4KYYsBtC
+N/FmCP2iR87xySjds3xEcJTF9G953P5PknoMkIDKLuE4SpzcZOdUNWxOIQi5rvUS
+z6fdCHsncIqGzABkK27NGVvgjWeUdFhP2Xpvs+UBZ9+acTL9UH7e39VNUr1VGqso
+BpHdk7sHohwKIEynPuaQs5j1dwfMFAm8erSdbQIDAQABo4ICczCCAm8wHwYDVR0j
+BBgwFoAUWaRmBlKge5WSPKOUByeWdFv5PdAwHQYDVR0OBBYEFDhg9xTRgPWbYJzM
+iQQ7N0k/l6rvMBMGA1UdEQQMMAqCCHNvdXEuY29tMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwOwYDVR0fBDQwMjAwoC6gLIYq
+aHR0cDovL2NybC5zY2ExYi5hbWF6b250cnVzdC5jb20vc2NhMWIuY3JsMCAGA1Ud
+IAQZMBcwCwYJYIZIAYb9bAECMAgGBmeBDAECATB1BggrBgEFBQcBAQRpMGcwLQYI
+KwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnNjYTFiLmFtYXpvbnRydXN0LmNvbTA2Bggr
+BgEFBQcwAoYqaHR0cDovL2NydC5zY2ExYi5hbWF6b250cnVzdC5jb20vc2NhMWIu
+Y3J0MAwGA1UdEwEB/wQCMAAwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgC72d+8
+H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAWs+1MDsAAAEAwBHMEUCIAzT
+M4AW3yVeOjW39UDUpKZ5zcyVuSeMbSBWY/F2GY+oAiEAs8G3wGb4xi/pQXAWtwYT
+khTJCEw8awgwgFMgaML/5pIAdQCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/
+XqCDDwAAAWs+1MGkAAAEAwBGMEQCIGroED0KJgSa7WWkeMzjqCczOX92mAjLQ7Tr
+vLX1rm/2AiAhmSKkT0VDerTNd6xwyFm/17p/yX6JDWPBr38C50EHOjANBgkqhkiG
+9w0BAQsFAAOCAQEAluugbFEWQu4rTtvP+eC0ukpvR1vdJ/4zLAgGAMyiEbJuFmN7
++DWzEU8QTz/vO7rqo1f4l1GHyNwI7qtchwWMm1fHrKCjxtUwjWTrvSfn2eat1eUa
+JopdGRshhSdv9PXJr60HvmhacV9lcN3KIBN1dGMR/CkSk76wkx2ncyd6fo6itj4z
+Z5f2VJhEsPAEBJRJ7fM6OCDN1S60fZTI98Zapa0EOpIQxE78UQv65takT7SqEfuh
+9D6EUWehgnHisKyDwV3jjIb48mOK7ryYqGLN6fFvfiJmr5WR4x1iQ1qoZAVXCyBC
+fQmVkzVGfFzNNECzCg7WBfIXkZ2WPRKJCcrSDw==
 -----END CERTIFICATE-----
-subject=/jurisdictionC=AE/jurisdictionST=Dubai/businessCategory=Private Organization/O=Souq.com FZ LLC/serialNumber=17646/C=AE/ST=Dubai/L=Dubai/OU=SOC/CN=ssl.souq.com
-issuer=/C=US/O=thawte, Inc./CN=thawte Extended Validation SHA256 SSL CA
+subject=/CN=souq.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3273 bytes and written 650 bytes
+SSL handshake has read 5308 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -60,28 +58,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-SHA
-    Session-ID: 3DF92115B316F9F7F2690825E7ADDDA5632CED5D2B7F19DBDBC7373F83AD87DA
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: F80FEDC4FCCC1E13DD7972066CE4785C7805BF3C14B55C38C79560F4B558055A
     Session-ID-ctx: 
-    Master-Key: 064F48BEEF88B45A5B227B84AD544F57F1CEC83AD6D3D73BA254399D103201D64345BFB089249D3098C6C1C55EDC411C
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
-    TLS session ticket:
-    0000 - f7 6c f2 08 90 7b 30 03-43 1c f3 fa e9 0a 23 61   .l...{0.C.....#a
-    0010 - c0 f7 5c b9 04 1f d8 de-d1 75 d7 0c f2 08 32 bf   ..\......u....2.
-    0020 - 4c ab f5 6f 43 17 c1 7b-e6 d8 62 1b cf 77 47 82   L..oC..{..b..wG.
-    0030 - bd 26 a4 da e0 3c 04 3b-d8 a3 61 94 4d c3 93 9b   .&...<.;..a.M...
-    0040 - 45 25 5f f6 1b e6 2e 9a-f2 54 9d e1 06 c4 22 95   E%_......T....".
-    0050 - f8 f2 20 db 8d c5 ff ed-bb 80 25 20 ef bb 98 a7   .. .......% ....
-    0060 - b9 2a 9e 04 82 85 92 4f-bd 96 c9 96 a8 da c9 33   .*.....O.......3
-    0070 - a9 0d 89 f4 af e7 95 28-b6 09 ce 68 b0 d8 ee 5b   .......(...h...[
-    0080 - 42 f7 c4 04 5e 9f 3f 79-11 a1 1f 81 f0 32 7b 45   B...^.?y.....2{E
-    0090 - 5e 46 c7 0b 65 52 b0 16-1c 21 54 bb 54 c8 f2 a2   ^F..eR...!T.T...
-
-    Start Time: 1472788505
-    Timeout   : 300 (sec)
+    Master-Key: C60E7B5CA6EE859D760C6D02A00C9EB348800B14EA35F17EDB5C4D62B86EF78C83D80F361C20D1B58745CC99605E2D6B
+    Start Time: 1577475015
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

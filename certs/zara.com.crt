@@ -1,60 +1,70 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=ES/ST=La Coru\xC3\xB1a/L=Arteixo/O=INDUSTRIA DE DISE\xC3\x91O TEXTIL SA/CN=commerce.inditex.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=ES/ST=La Coruna/L=Arteixo/O=Industria de Diseno Textil SA/CN=commerce.inditex.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIG7TCCBdWgAwIBAgIQJqbVwApvC9f2tQN7ESGkHjANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwNzI3MDAwMDAwWhcNMTYxMDI1MjM1
-OTU5WjB8MQswCQYDVQQGEwJFUzETMBEGA1UECAwKTGEgQ29ydcOxYTEQMA4GA1UE
-BwwHQXJ0ZWl4bzEnMCUGA1UECgweSU5EVVNUUklBIERFIERJU0XDkU8gVEVYVElM
-IFNBMR0wGwYDVQQDFBRjb21tZXJjZS5pbmRpdGV4LmNvbTCCASIwDQYJKoZIhvcN
-AQEBBQADggEPADCCAQoCggEBALhdgX5VofC1BoVvhtQE5LTRybt179u3UthrJCs2
-kr8VZoM2g5EzMeP0mstSQD2DLACVBuUipqJGyddXkaAwzKcYkpfuGuV0pgX8y+xh
-GhKPBV8FI5NrfSOvMM/vcQsAz5OMWoMSjje1CWkJ21iTUQhN03gxaDqnPbTksAWy
-wuO12z6y6dLRgv1wGkXRD51bkTtDjL4gW2PmRkkaiyC4xbgUHpU6LRAhB/y+7PPE
-k+jiNu6oUQT61DlslGctGhvcLAylwRrurBHAaI9rYEbzIvSJ+uydhoRPOkTyNbni
-ItR2S7G3I12gw+ewEAVes/V1gTnM7ZO6OHzs2QsjH4z4HzMCAwEAAaOCA6EwggOd
-MIICGAYDVR0RBIICDzCCAguCDHd3dy56YXJhLmNvbYIXc3RhdGljLm1hc3NpbW9k
-dXR0aS5uZXSCD3N0YXRpYy56YXJhLm5ldIIPd3d3LmJlcnNoa2EuY29tgg9zdGF0
-aWMuemFyYS5jb22CFnN0YXRpYy5wdWxsYW5kYmVhci5uZXSCDXd3dy5veXNoby5j
-b22CEHd3dy56YXJhaG9tZS5jb22CCm0uemFyYS5jb22CDXB1c2guemFyYS5jb22C
-GXN0YXRpYy5lLXN0cmFkaXZhcml1cy5uZXSCE3N0YXRpYy56YXJhaG9tZS5uZXSC
-FGludGVncmF0aW9uLnphcmEuY29tghR3d3cubWFzc2ltb2R1dHRpLmNvbYISc3Rh
-dGljLnV0ZXJxdWUubmV0ggtpbmRpdGV4LmNvbYIPd3d3LnV0ZXJxdWUuY29tghJz
-dGF0aWMuYmVyc2hrYS5uZXSCE3d3dy5wdWxsYW5kYmVhci5jb22CD3NlYXJjaC56
-YXJhLmNvbYIQd3d3Lmlud2FsbGV0LmNvbYIPd3d3LmluZGl0ZXguY29tghJzdGF0
-aWMubGVmdGllcy5jb22CDWFwcHMuemFyYS5jb22CFHd3dy5zdHJhZGl2YXJpdXMu
-Y29tgg93d3cubGVmdGllcy5jb22CEHN0YXRpYy5veXNoby5uZXSCFGNvbW1lcmNl
-LmluZGl0ZXguY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQk
-MCIwIKAeoByGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3JsMIGdBgNVHSAEgZUw
-gZIwgY8GBmeBDAECAjCBhDA/BggrBgEFBQcCARYzaHR0cHM6Ly93d3cuZ2VvdHJ1
-c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUFBwICMDUM
-M2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9s
-ZWdhbDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU
-0m/3lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzAB
-hhNodHRwOi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ24uc3lt
-Y2IuY29tL2duLmNydDANBgkqhkiG9w0BAQsFAAOCAQEAB4/6Lf2Ouu3oY4ZMM5as
-8YCo6QPUKunkvv4ftdcMV2s2RuMiPCu1mLjCe+Wu9sgLkVmtzDpG9+5OMROINwkX
-hr0PxJfwdrZE5qIJK76Uop7NB6vNuI1QRjowfBPHRIbTxibigqc63S8N46JHJz46
-1cru6Pbt/95D5wRGTPFZl7dgrcR7roZqCP8JZfVyoJKo46oTvCfZJRf7BssfqGXe
-1E94GdwYoqIrv6BbryDTiX5TlXWglR8Ao9rtmBgn+Lm/weTUoH8nmPFckOMotTOh
-KtIdMouFG3hWZZeuMon9FDcpFuYVOO5Nzmgw40Lp3v6KQA0deMQMSkMWHfg8lpWr
-Og==
+MIII/zCCB+egAwIBAgIQCWRgtY1gOydPcyVVn1LZwzANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAe
+Fw0xOTA0MTIwMDAwMDBaFw0yMDAzMDUxMjAwMDBaMHoxCzAJBgNVBAYTAkVTMRIw
+EAYDVQQIEwlMYSBDb3J1bmExEDAOBgNVBAcTB0FydGVpeG8xJjAkBgNVBAoTHUlu
+ZHVzdHJpYSBkZSBEaXNlbm8gVGV4dGlsIFNBMR0wGwYDVQQDExRjb21tZXJjZS5p
+bmRpdGV4LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL/zV/5a
+227nAv97wFQ/SU4HMBqhyUg2NUxXulwiDKDYoAF8ZWemrKqPkHGvwKOREJ4WrZ/G
+3AexIjU8f3lQt1DWrgOmcIYk9MNyr4im35k1w/JDAlICjl80W5EzVBPY3pb3CiLc
+DmZ3vjooRElL5Vto11a9QMhf4iyX0ZUjPwNe6yg6MEKF70UvYmkqWVfix/QK8CP3
+QWUYlDrPrvwTRFgpcIKpq3ekLehqVP5WrKtKJWSH4+klZS9NQ3OwDp5TLQCODONa
+tinQu6ZYKBgyqFxRkT924bddau6W5RWIErFaXLtU8KLT++ZR3eWHQF0uAkynXGHY
+xnw/FqdiZDwj3/ECAwEAAaOCBZswggWXMB8GA1UdIwQYMBaAFJBY/7CcdahRVHex
+7fKjQxY4nmzFMB0GA1UdDgQWBBSGBpPhupyQxeX3f11giBz1Lwo1GzCCAwwGA1Ud
+EQSCAwMwggL/ghRjb21tZXJjZS5pbmRpdGV4LmNvbYIJb3lzaG8uY29tggh0YWcu
+emFyYYIPcHVsbGFuZGJlYXIuY29tghNzdGF0aWMuemFyYWhvbWUubmV0ghBtYXNz
+aW1vZHV0dGkuY29tghR3d3cubWFzc2ltb2R1dHRpLmNvbYIPc2VhcmNoLnphcmEu
+Y29tggt1dGVycXVlLmNvbYIPd3d3LmxlZnRpZXMuY29tghBzdGF0aWMub3lzaG8u
+bmV0ghlzdGF0aWMuZS1zdHJhZGl2YXJpdXMubmV0ghR3d3cuc3RyYWRpdmFyaXVz
+LmNvbYIPc3RhdGljLnphcmEuY29tgg93d3cuaW5kaXRleC5jb22CEHd3dy56YXJh
+aG9tZS5jb22CD3d3dy51dGVycXVlLmNvbYINcHVzaC56YXJhLmNvbYILaW5kaXRl
+eC5jb22CEHN0cmFkaXZhcml1cy5jb22CEnN0YXRpYy5iZXJzaGthLm5ldIISc3Rh
+dGljLnV0ZXJxdWUubmV0gg53d3cudXRlcnF1ZS5jboILbGVmdGllcy5jb22CDXd3
+dy5veXNoby5jb22CCHphcmEuY29tggx3d3cuemFyYS5jb22CF3N0YXRpYy5tYXNz
+aW1vZHV0dGkubmV0ghFzdGF0aWMudXRlcnF1ZS5jboITb25zdGFnZS5iZXJzaGth
+LmNvbYITd3d3LnB1bGxhbmRiZWFyLmNvbYIPd3d3LmJlcnNoa2EuY29tghJzdGF0
+aWMubGVmdGllcy5jb22CB2dvLnphcmGCFnN0YXRpYy5wdWxsYW5kYmVhci5uZXSC
+D3N0YXRpYy56YXJhLm5ldIIMemFyYWhvbWUuY29tghNlY2NwdXNoLmluZGl0ZXgu
+Y29tggp1dGVycXVlLmNugg1hcHBzLnphcmEuY29tggtiZXJzaGthLmNvbYIUaW50
+ZWdyYXRpb24uemFyYS5jb22CEHd3dy5pbndhbGxldC5jb22CCm0uemFyYS5jb22C
+B3FyLnphcmEwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY2RwLmdlb3RydXN0LmNv
+bS9HZW9UcnVzdFJTQUNBMjAxOC5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEw
+KjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZn
+gQwBAgIwdQYIKwYBBQUHAQEEaTBnMCYGCCsGAQUFBzABhhpodHRwOi8vc3RhdHVz
+Lmdlb3RydXN0LmNvbTA9BggrBgEFBQcwAoYxaHR0cDovL2NhY2VydHMuZ2VvdHJ1
+c3QuY29tL0dlb1RydXN0UlNBQ0EyMDE4LmNydDAJBgNVHRMEAjAAMIIBBAYKKwYB
+BAHWeQIEAgSB9QSB8gDwAHUApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN
+3BAAAAFqDvdxfgAABAMARjBEAiBUFKxPZTz4bh/+ZhDReeI40UOmmTkN4H4z2cTm
+q25QlwIgZdoiqXvIZJfCUx9mrZOr8Xm0kLvDBKYYKBrd4esqLbAAdwCHdb/nWXz4
+jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAWoO93KbAAAEAwBIMEYCIQD4uH4L
+eM1Gsp1RNvoujXKIZSZfJfnzBbnMqvOrIzzVxwIhANKLP++Uxb96qF+gTDDF7m4m
+jThppAw/9kJ3Rmd3AQjTMA0GCSqGSIb3DQEBCwUAA4IBAQArGAd9SD6vPV9a+Qfc
+FMDzaOBqHtcpomEUgyKZwx5fZrJ8T9zCiIcOIeOZDosTmLatcGPd48peCZGzxkO3
+ikE+uXPWrzNAJZj8l6A6LfKugSo6Rh4r5VhfaOiNvhbb0oRQm7RFayqLNeMtubVE
+2gMzkg3fPVKgiQ9E2R4cc4O7+k/eRaV/z6C2+jI+pUZ/XaepRlEvirC5AMlp7M/T
+Aj9cDjcEO9zCe1IIACvoOiF+aopf5vBGtskoM2O6qP/HX2grG3L4LZDiqJOrRQSY
+tEzBsDjkWgP3pvZ5s+6mA9WbhBo+jp7u80q65NDCQVHq9exOfKz4Q7n9iiGrG2jX
+yTG1
 -----END CERTIFICATE-----
-subject=/C=ES/ST=La Coru\xC3\xB1a/L=Arteixo/O=INDUSTRIA DE DISE\xC3\x91O TEXTIL SA/CN=commerce.inditex.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/C=ES/ST=La Coruna/L=Arteixo/O=Industria de Diseno Textil SA/CN=commerce.inditex.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3541 bytes and written 434 bytes
+SSL handshake has read 4131 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -65,27 +75,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 2BA768D615D6E5CFBB2D500C2D3110B764B8ACE5F9F3E42BA550D8E9C62384A5
+    Session-ID: CF3989FF4988C318DC921BEC552CF1E61D18F74A42045D172E71B6315160FD4D
     Session-ID-ctx: 
-    Master-Key: A90282841AE1A2699028CDA1A8A8D7525392CEBCC361225915E86E113F8588E3FEBAF45D6C515A3C7A1B60FEB8202813
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 3B34E033313B88390EFAF4CB0DE629422D8037C3D24C70210A7C5647D9DA25CB9D543C4BCD9F381A552F8C2CC42C3F31
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 4d 52 75 43 4d e1 09 fc-2d 89 b1 dd 85 b6 a1 6d   MRuCM...-......m
-    0010 - 69 08 5b 61 a7 11 be 31-ff c9 c9 61 3e 22 79 75   i.[a...1...a>"yu
-    0020 - 9a 8c 9d 30 2e f1 c4 b1-d4 d4 75 57 ff 31 05 34   ...0......uW.1.4
-    0030 - 4e bd 07 f6 da c7 2e 29-7d 96 17 22 cc ce f1 96   N......)}.."....
-    0040 - 2b 07 c7 ef 2f fc fc fc-ff e3 53 2e a0 49 3b 56   +.../.....S..I;V
-    0050 - 11 ca 2a 79 cb c7 c5 9b-c8 e8 31 f5 2f 38 41 c5   ..*y......1./8A.
-    0060 - d1 96 56 ad e7 05 44 98-e3 62 dd 23 bb ba 80 db   ..V...D..b.#....
-    0070 - 5f b1 90 3e 0b 65 56 2f-d3 90 62 56 c1 74 68 59   _..>.eV/..bV.thY
-    0080 - 61 e9 2a 4d 55 1b 5a 85-62 8f dc 51 6c 30 39 b3   a.*MU.Z.b..Ql09.
-    0090 - 1a 57 bc 6a 26 b4 76 1d-7e b1 24 3e f1 e4 5c 38   .W.j&.v.~.$>..\8
+    0000 - 00 00 17 55 b9 74 95 7b-04 6e 51 de 68 94 6a 01   ...U.t.{.nQ.h.j.
+    0010 - 04 cc 8c 39 04 bb 8e 17-b4 05 f9 ba 3d 75 80 b5   ...9........=u..
+    0020 - 65 13 ed 14 f2 45 f1 b5-63 17 e1 c9 bd 87 e0 f4   e....E..c.......
+    0030 - af ce a8 94 9a 63 1a 62-5c 52 ba 6c 32 ed bf db   .....c.b\R.l2...
+    0040 - 69 c3 4c d6 62 7a 16 9f-c9 2c 3a 76 f5 a8 28 f8   i.L.bz...,:v..(.
+    0050 - a2 02 a4 8a 17 ee 99 b5-82 00 ba 37 bd 7d fb 4d   ...........7.}.M
+    0060 - 80 7d 4f 32 c6 88 d5 06-1d 02 f1 77 6b a8 15 a1   .}O2.......wk...
+    0070 - d8 af 49 78 ac c2 a6 e6-16 9e b1 60 03 7b 36 4e   ..Ix.......`.{6N
+    0080 - 2b ac 1c 35 37 b4 1b 6a-10 e4 50 40 e5 bf 2f f5   +..57..j..P@../.
+    0090 - 39 34 ec 0c d2 49 dc 48-26 20 ee e9 33 7a 82 8b   94...I.H& ..3z..
 
-    Start Time: 1472789567
-    Timeout   : 300 (sec)
+    Start Time: 1577474967
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

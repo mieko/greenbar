@@ -1,66 +1,82 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/OU=GT06771727/OU=See www.rapidssl.com/resources/cps (c)12/OU=Domain Control Validated - RapidSSL(R)/CN=*.cdiscount.com
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/OU=Domain Control Validated/OU=COMODO SSL Wildcard/CN=*.cdiscount.com
+   i:/C=US/ST=DE/L=Wilmington/O=Corporation Service Company/CN=Trusted Secure Certificate Authority DV
+ 1 s:/C=US/ST=DE/L=Wilmington/O=Corporation Service Company/CN=Trusted Secure Certificate Authority DV
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEtDCCA5ygAwIBAgIDAIgBMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNDExMDkwNjMzMjBaFw0xNjA5MjMwNDM3NThaMIGTMRMw
-EQYDVQQLEwpHVDA2NzcxNzI3MTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
-bS9yZXNvdXJjZXMvY3BzIChjKTEyMS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
-YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEYMBYGA1UEAwwPKi5jZGlzY291bnQuY29t
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvBjsGIcP5uICCqSucIz4
-J6Ln196QlF3YONVEtC17uhTrWJqYYq+S6YFyuUkaJdH1OShj9Nnn+ReSmlRFRyp7
-kLXixC01pzeBjHZTFaJb0ECXy+UQr1mytOjzM8xwOrG8NyKGuOaTISzafLvJPksW
-u7Tgdm2+lFPUvmL64dBxi/CUEAkfPvJT+VYpXK28doavsr2vbgG3DRppOU/MfDlf
-XydyT0F68xg8NTmYm0eulVubrKVqQu7XE35gBkvi0WDidQj26wnnx5eu2yXFJwIE
-aZ3uedwvXtUToJKgtmG4TtfYfdpVEHIKs5CR2APCp102mY9rdJlLFK2+nucg/cWu
-QwIDAQABo4IBWjCCAVYwHwYDVR0jBBgwFoAUw5zz/NNGCDS7zkZ/oHxb8+IIy1kw
-VwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ3Yuc3ltY2QuY29t
-MCYGCCsGAQUFBzAChhpodHRwOi8vZ3Yuc3ltY2IuY29tL2d2LmNydDAOBgNVHQ8B
-Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMCkGA1UdEQQi
-MCCCDyouY2Rpc2NvdW50LmNvbYINY2Rpc2NvdW50LmNvbTArBgNVHR8EJDAiMCCg
-HqAchhpodHRwOi8vZ3Yuc3ltY2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAAMEUG
-A1UdIAQ+MDwwOgYKYIZIAYb4RQEHNjAsMCoGCCsGAQUFBwIBFh5odHRwczovL3d3
-dy5yYXBpZHNzbC5jb20vbGVnYWwwDQYJKoZIhvcNAQELBQADggEBADxuBxtyYDm1
-ePmQV1j27uYxkqWyAdqcnwHF09gW39S017bIaL1hNyTaedMh8l3JRQCcRXSnpoyI
-fXDBM1taG6JL+WMKlCRWP8kxwSC7A50n9wf8bQoeibav8FkCU7iXImD7KONWr4K1
-epHDI6IzPBYl2/wOt+uzebJtdTqyYrFZEVJOusYYzo2A9qhIw3TkrhUkLCFZogJw
-cjzpfchjRKtaRlDO+Ca+sV/OZXQi/Bixd6Bi9l3dMnBfZTmpkJ0/+y/Iu2nww+IB
-lAvxBCCiqdIDOnl61PE5038LnutkGWTj/OcmFf3FvfO9WdOf1FRDXH4gsvC8hdhR
-33Ogo9E/RuQ=
+MIIFQjCCBCqgAwIBAgIRAKVjMmJlNjWlE5DVHIGu6kwwDQYJKoZIhvcNAQELBQAw
+gYcxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJERTETMBEGA1UEBxMKV2lsbWluZ3Rv
+bjEkMCIGA1UEChMbQ29ycG9yYXRpb24gU2VydmljZSBDb21wYW55MTAwLgYDVQQD
+EydUcnVzdGVkIFNlY3VyZSBDZXJ0aWZpY2F0ZSBBdXRob3JpdHkgRFYwHhcNMTgw
+MzA4MDAwMDAwWhcNMjAwMzA3MjM1OTU5WjBbMSEwHwYDVQQLExhEb21haW4gQ29u
+dHJvbCBWYWxpZGF0ZWQxHDAaBgNVBAsTE0NPTU9ETyBTU0wgV2lsZGNhcmQxGDAW
+BgNVBAMMDyouY2Rpc2NvdW50LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAKopPND1gmP1iNwK4dwwiFntZJq1THAnZ1xHoJZgVXH+p7qmHHTWISSt
+F8MieM04fbIpOQIRCVpIVwJXpOFcQdfzX3lBEXY3c8QrvrjmAf0VEUO28nLnPC2G
+POrPVA1SnYiw6EtEe0mVs6rLP0sMGdn38lxkfrGgI4RsiwqADMsocxgQG7Azayd/
+9bgNn9npe4oS6Tv+D3P0MywHTLhM/R0KQp8bc3IWxaPz7f6sWJ74Xr+BUg/Yk3c4
+n35IqEXR0gyfqSq01wI4Q6conBSbhNydQhfVMueSryr1DaY4FgO4vYyzefyj/gU7
+VeAy2mUFoGiO4inZQ3iVXQ1yxsASTnMCAwEAAaOCAdIwggHOMB8GA1UdIwQYMBaA
+FARZSSpBW54LIzru53ZyWaw8TFozMB0GA1UdDgQWBBTi8CDk6em23h1+jOdDly2S
+ytRP8zAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggr
+BgEFBQcDAQYIKwYBBQUHAwIwSwYDVR0gBEQwQjA2BgsrBgEEAbIxAQICCDAnMCUG
+CCsGAQUFBwIBFhlodHRwczovL2Nwcy51c2VydHJ1c3QuY29tMAgGBmeBDAECATBR
+BgNVHR8ESjBIMEagRKBChkBodHRwOi8vY3JsLnVzZXJ0cnVzdC5jb20vVHJ1c3Rl
+ZFNlY3VyZUNlcnRpZmljYXRlQXV0aG9yaXR5RFYuY3JsMIGDBggrBgEFBQcBAQR3
+MHUwTAYIKwYBBQUHMAKGQGh0dHA6Ly9jcnQudXNlcnRydXN0LmNvbS9UcnVzdGVk
+U2VjdXJlQ2VydGlmaWNhdGVBdXRob3JpdHlEVi5jcnQwJQYIKwYBBQUHMAGGGWh0
+dHA6Ly9vY3NwLnVzZXJ0cnVzdC5jb20wKQYDVR0RBCIwIIIPKi5jZGlzY291bnQu
+Y29tgg1jZGlzY291bnQuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQBcC5EMwRRapWq4
+C+rDA0686ySQosiVn5tDzBjSUk+ASOIwc4Pbbw5bEsW/cxqoE1I1SDJaKfUN7kVn
+EqOOCc1dNRbwKKApCe+bQL3sTjTPDj0NF3BB2FjRaRvxnkNr6vrCPRJTG3RtrkTD
+lCe/iVFjze0oFgJ+4HhpzJ4V+BNlwypeJs7t3b8/0HGvJ5UGXPlSI2BOhqzo3TyF
+avmuGKqkNlRtg9p7RFJjynRfLRc0CbuqyCkDYQIEKySOiZCUo2E1EKQ6h1f6PcPy
+xSA/dIETAIRqbycuMuVdUBtbpdWE58Bw73BtHxZIrRL+jN0E7UBJKF9ljOBl42LY
+SvVYsqAP
 -----END CERTIFICATE-----
-subject=/OU=GT06771727/OU=See www.rapidssl.com/resources/cps (c)12/OU=Domain Control Validated - RapidSSL(R)/CN=*.cdiscount.com
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/OU=Domain Control Validated/OU=COMODO SSL Wildcard/CN=*.cdiscount.com
+issuer=/C=US/ST=DE/L=Wilmington/O=Corporation Service Company/CN=Trusted Secure Certificate Authority DV
 ---
 No client certificate CA names sent
-Peer signing digest: SHA256
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 2766 bytes and written 434 bytes
+SSL handshake has read 6031 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
-Secure Renegotiation IS NOT supported
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 6BB44F2CC107BC161AB36EE1168C8FB909C38C33150268073E967D1FE9008D3A
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 6C6F890F24F939F372FB229D7CC626BF4D6A597681E4622EA8EE9AE10E2A9B99
     Session-ID-ctx: 
-    Master-Key: 2D8E5E26DB5ED1A9E5249B0F1E4C6146F19F141C357B47980425C6A4BCE4B24EC6CC516683B0913AD8E5DC8F49D3D157
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788665
-    Timeout   : 300 (sec)
+    Master-Key: 1A943512C4D7EFA92044363F6210F775E13999359567A797C75C26D3AEF5B5C76782C81E6F9E2820DFBDD8C85203DF4A
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 0e 03 88 07 01 31 ec 25-ed 74 74 2f 46 ec 09 fc   .....1.%.tt/F...
+    0010 - f1 d2 19 7a 0b cc 47 fa-89 e6 b8 d4 c8 ab 4c 56   ...z..G.......LV
+    0020 - ab 33 67 bd cb 4f df e8-92 42 f5 14 dc 8d 28 4e   .3g..O...B....(N
+    0030 - c8 8d ef c8 fd c8 70 3b-b8 7f d9 0a 9c 0a 16 c3   ......p;........
+    0040 - 56 45 1b 71 64 04 bf 74-0e cc 9b 0e 36 34 4b 0b   VE.qd..t....64K.
+    0050 - b0 f0 99 58 6a af 45 9a-07 f0 43 ea df a9 af 15   ...Xj.E...C.....
+    0060 - ad 2a 08 f5 26 1d 45 35-74 c3 7c ab 29 7f 08 8d   .*..&.E5t.|.)...
+    0070 - 53 c1 5a 19 74 e5 3c 8b-db a5 3e 31 51 f0 d2 de   S.Z.t.<...>1Q...
+    0080 - d6 b4 b5 90 33 6e a1 3a-dc 10 4a 36 08 f9 60 5d   ....3n.:..J6..`]
+    0090 - 8d 94 6d 22 9a df 51 33-0a f4 ef df 10 31 85 08   ..m"..Q3.....1..
+    00a0 - 94 09 14 5c cb 98 9c bc-cf de 7a f5 f4 cf 0a 21   ...\......z....!
+
+    Start Time: 1577475638
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,7 +1,7 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/OU=Hosted by BlueHost.Com, INC/OU=PositiveSSL Wildcard/CN=*.bluehost.com
+ 0 s:/OU=Domain Control Validated/OU=Hosted by BlueHost.Com, INC/OU=PositiveSSL Wildcard/CN=*.unifiedlayer.com
    i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
  1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
    i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
@@ -10,48 +10,52 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFeTCCBGGgAwIBAgIRAM+UIf18jGnA/1TAaN4t7Y8wDQYJKoZIhvcNAQELBQAw
+MIIGhTCCBW2gAwIBAgIRAK+nuSJP1X5reEtaI9A1UCMwDQYJKoZIhvcNAQELBQAw
 gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
 BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
 VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
-Q0EwHhcNMTUwMzEzMDAwMDAwWhcNMTgwMzEyMjM1OTU5WjCBgTEhMB8GA1UECxMY
+Q0EwHhcNMTUxMDE2MDAwMDAwWhcNMTgxMDE3MjM1OTU5WjCBhTEhMB8GA1UECxMY
 RG9tYWluIENvbnRyb2wgVmFsaWRhdGVkMSQwIgYDVQQLExtIb3N0ZWQgYnkgQmx1
-ZUhvc3QuQ29tLCBJTkMxHTAbBgNVBAsTFFBvc2l0aXZlU1NMIFdpbGRjYXJkMRcw
-FQYDVQQDFA4qLmJsdWVob3N0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
-AQoCggEBAKQXJUFSffXtIH1L8FolkrcdDMa39vWA2NadZhUOgn0k4NRwSQ/FPMGR
-1oxkUVwsRmJ8TaQ+Z8TT0ONNazQwp9yiCsTO7MIcmjaEXK/RNL89ZVZ492NrYngq
-I5d97uXqlvTz6Zu/Yl0qjsxW8qyp/DtOYnVKrB5UPNkjo845XKOmGD0JuABiLdAY
-2q1d4wtCPFTp5Ug75o8Q0eOMdZACE9HIeHLH2Nc/nDbOMry+AB+vdQvO8PfpUMDz
-0ten0LVs5SXeo2zmoUdq7tqEDS030MfyBndDdZWkDCg+oPtdtgBRF8MXIs/Ae8E5
-Ii7w6MDxOWOFW4wYqb0rsOU4/1T+A/MCAwEAAaOCAdkwggHVMB8GA1UdIwQYMBaA
-FJCvajqUWgvYkOoSVnPfQ7Q6KNrnMB0GA1UdDgQWBBQpti+lqEHHRb6GhBDpJqeU
-Z2S8czAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggr
-BgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEEAbIxAQICBzArMCkG
-CCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29tL0NQUzAIBgZngQwB
-AgEwVAYDVR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5jb21vZG9jYS5jb20vQ09N
-T0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNybDCBhQYIKwYB
-BQUHAQEEeTB3ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9D
-T01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCQGCCsG
-AQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wJwYDVR0RBCAwHoIOKi5i
-bHVlaG9zdC5jb22CDGJsdWVob3N0LmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAdjlm
-6gQJQBU/S5nHsn68vdHUzPDanevAsOYobiZ8CZjfWEpInQYc8tKbmHlSY7zVX3R6
-ygULmZhnkxneyQ30z/i2RrYFdHTZ1YnLYx4+TpfVa/CRjiEq/NmZnNmuZdZqKs4q
-vDR+FC4AWCeMjW6cJz+7lRKiV53PJAVRK8+ljATXXWF480Qi5D5eKDLIvXE/cCXn
-y2r6DW4IYp454QXwPg1BBeMQXBM4ZxTpjDqYGwKOXvoHiY7qdPf5fXkkEYUvCHcC
-Mv+L4d2k5zExMo7WWYB/DlLlJVkTBNpXhOdN6tlrCBN7LR3gXJ84AUkws8rjTDku
-Tp5dSMsZi5ux3PZ2UA==
+ZUhvc3QuQ29tLCBJTkMxHTAbBgNVBAsTFFBvc2l0aXZlU1NMIFdpbGRjYXJkMRsw
+GQYDVQQDDBIqLnVuaWZpZWRsYXllci5jb20wggIiMA0GCSqGSIb3DQEBAQUAA4IC
+DwAwggIKAoICAQDFKxDSILvZG+HTstGbb56sXjM3c6+YoNGGxg399EpyX3ObzrzM
+Ki41GdVZNctNaovN5USWAbMyArcpIkddWxHWEuu4h0B2cb14KS6dEmTdaFxazq78
+ThdgXJ3Dl9fM8TCp316m3BYG2WFizF7Mj1ytooEfot1CoRj7xlqiJ2hvLxcbBd6J
+uhCU38tsTnUzOVCDKX5bfvm3+x/5mBWZwjKpvYuDjxxdrXa87c+pxtguSJFTrcYd
+a9UVw/hplucXjVFtp1Py1Xmvpb1jXGzyFc30kWI1DuuY8u1dmfsuEiAA4M0IBfM4
+o0j9tOPxdI2AGq9E/IVDdabgUow0wBRFp8GEGQvCIUMr+XT8BM75VmddxFdZd3ji
+MC5gEePBNEzWbdFQ+DIdWGa2Pu/S3sg/9fZ/JsEreXrEqM6uTfM3dGahpdXSDLCJ
+ye2P+ANK0i8xJM/u7GfV7757uRixDQVp0UfzpexpnrfdqLohncX8dsMPn2Qlixy5
+PQISaKBKLu/hmYRn56/ViQMQb57blRH23aafgBDT87LBJfvnCkQcKuNWweg0044Q
+gTTdAzWe+DwewnTDBd63MBEMTfzjwh6I549tFvzsR+yHL9O+K2YyOIyH/l59BIfh
+0CnxC9H0Cu1rb6yjZWjd3lDwVxqP7Dt9zHHTCV7jV7SPU4qNSlOGHM3KwwIDAQAB
+o4IB4TCCAd0wHwYDVR0jBBgwFoAUkK9qOpRaC9iQ6hJWc99DtDoo2ucwHQYDVR0O
+BBYEFFZZX61/RsIX6eLiLioN1gUWQ2G7MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBG
+MDoGCysGAQQBsjEBAgIHMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNv
+bW9kby5jb20vQ1BTMAgGBmeBDAECATBUBgNVHR8ETTBLMEmgR6BFhkNodHRwOi8v
+Y3JsLmNvbW9kb2NhLmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJl
+U2VydmVyQ0EuY3JsMIGFBggrBgEFBQcBAQR5MHcwTwYIKwYBBQUHMAKGQ2h0dHA6
+Ly9jcnQuY29tb2RvY2EuY29tL0NPTU9ET1JTQURvbWFpblZhbGlkYXRpb25TZWN1
+cmVTZXJ2ZXJDQS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2Nh
+LmNvbTAvBgNVHREEKDAmghIqLnVuaWZpZWRsYXllci5jb22CEHVuaWZpZWRsYXll
+ci5jb20wDQYJKoZIhvcNAQELBQADggEBAC1eS+aqxlDcfQqYNHV8gkfIqA51amZJ
+7kMZIRpK0wSmuXeQRT1q2WARU02TeXSGolseRx/AnY3NjN6pWl9CwJpzKaE4t4UC
+IIJipWTtKDgfZIhIQ9s90QakojzqNhtJlhoGKcxCZ2XwFLCXwdndAoBADceM71u7
+03vM0SR0IRhpIkvalJY7T+b1/KmDvCFZMsamj8ThOH3t9ioL4UnkOGjJlW+FqJsW
+A5yudIaR4NlbaZ5makLIAuLDvgu0RgGKY6PRlRAcc+b1w+Hz6bxiEpa8t3uEEaMV
+V559Curk0tg1di7XBoNKQuxt0EeDwylAYnW3eXSTC351TwjkX6HKJMg=
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/OU=Hosted by BlueHost.Com, INC/OU=PositiveSSL Wildcard/CN=*.bluehost.com
+subject=/OU=Domain Control Validated/OU=Hosted by BlueHost.Com, INC/OU=PositiveSSL Wildcard/CN=*.unifiedlayer.com
 issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5034 bytes and written 434 bytes
+SSL handshake has read 5390 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
-Server public key is 2048 bit
+Server public key is 4096 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
@@ -59,28 +63,10 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 00B7AAC9FC6992BEAD8DA6149AACDE094CF59A21F7D47991ED0FCB27DD5C79F5
+    Session-ID: 7FBA418C5D44CCFB52157E28A8B55585A71DE7B8751B32935D9C6B123EDA259C
     Session-ID-ctx: 
-    Master-Key: A4C54AA2952E7714844992E1CDCD06404A82FAC7D64B2AAFDD7B82BA13A4A2C9B1F5131192E10B01026F0069233740DF
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 3600 (seconds)
-    TLS session ticket:
-    0000 - 54 9b 0c 7c 26 08 ee 5f-60 96 07 57 6e da e3 ad   T..|&.._`..Wn...
-    0010 - c0 92 e6 d6 8c 2d ce ff-cd 64 48 9a 80 1a d3 e8   .....-...dH.....
-    0020 - 9b 8d 8e 84 40 ac 30 29-b4 92 30 a5 4c c0 b0 33   ....@.0)..0.L..3
-    0030 - a2 c7 2a cc 3e d5 dd 1f-02 36 a2 b9 28 60 0f d0   ..*.>....6..(`..
-    0040 - 08 18 d5 c8 bf 18 a0 68-37 76 d2 12 65 ba a0 b8   .......h7v..e...
-    0050 - ad 5c e5 7d 34 8f 25 5c-2d e3 17 37 e6 f6 f3 50   .\.}4.%\-..7...P
-    0060 - fb 12 42 51 50 f4 60 2e-2a 77 8b f4 8d 41 51 bf   ..BQP.`.*w...AQ.
-    0070 - 2f eb 0f ea 95 20 4e 1a-db d3 76 d9 89 aa 6a 29   /.... N...v...j)
-    0080 - b1 49 bf 51 32 7e 22 41-c8 b1 4f 8e b5 37 dd fa   .I.Q2~"A..O..7..
-    0090 - d9 96 13 f0 e8 1e 9f be-54 5b b7 9b f6 c6 72 a0   ........T[....r.
-    00a0 - 34 f2 1f 43 e8 18 90 54-e6 7b 62 48 45 2d e8 18   4..C...T.{bHE-..
-
-    Start Time: 1472790025
-    Timeout   : 300 (sec)
-    Verify return code: 0 (ok)
+    Master-Key: 2F140C929D4442F427377E9744E3313FD2D6BA153213BFAE134E74B4DF5654058DDCCFBD7D9F27ABC242C3BCD69E50DE
+    Start Time: 1577475832
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
 ---

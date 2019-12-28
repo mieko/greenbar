@@ -1,77 +1,58 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=liputan6.com
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
- 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 0 s:/CN=*.liputan6.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIII5TCCB82gAwIBAgIRAP+l4hDNR15zHObxGnXdBUgwDQYJKoZIhvcNAQELBQAw
-gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
-BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
-VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
-Q0EwHhcNMTYwODIzMDAwMDAwWhcNMTcwMjE2MjM1OTU5WjBdMSEwHwYDVQQLExhE
-b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxITAfBgNVBAsTGFBvc2l0aXZlU1NMIE11
-bHRpLURvbWFpbjEVMBMGA1UEAxMMbGlwdXRhbjYuY29tMIICIjANBgkqhkiG9w0B
-AQEFAAOCAg8AMIICCgKCAgEAxUyzkuzIUGoecMYsA6sAcJklIWanS8LSL8kg09VX
-khWukXiyxlyOzq7A1mVaLkAsdHEyenJSX5Y/TUwR3jDgiCYjeIrCcBr8xy+p6VO1
-L/iWr1h7XOGHD4hlNr9FIS3UQbCxcMIhyZ+SdM2WFUxGNzHShwmKYo/iG1LNeKq/
-ffLJuIamcc/9JIaLbwpct8gPMC+w26NZSVzfBkyWMpNb7FzjFDy84TJDqpKbqrvU
-izHQ+hngj1LkzG4rIVaVkGfhRsV9ljKPoW40qNxK+WAJ56nk0YH0ecQJuzjEJpHq
-hqSTOAA5dfUFEyOBuSVrCg7Z9pAAHp7pW1ZFZkVWVF+66vFyzWEEQQeupKgF4wjw
-qhYfnU3BipKQluB5TYO+JKQrTW8l8nMkxTwKUKWoH9TYvyVIvOAXcrm4/0ntlmNZ
-Q2R1++9xVghUluZKcXQBtEW8PfueJSAbw+6FglQfkTjx/W89CgZMx4wLksqu/+Lr
-S5mFyo2YGYkiNicPBiwotOMV1SILDZ0EmGAHRCtMtCZyyXbKmesMdqyPb0R1FyVF
-yJoI7S8PUqyOmq+gGaYKVNv0nIXEgSeIeWAjxmGK1Fi4wncY67yLm2t1pHEaTkvX
-fsx/puRXLvE2RpPGHTz4R49xKA0ysQ3oEObLQC84jpwFAzgbjv41wY0RX10KKGhh
-0dcCAwEAAaOCBGowggRmMB8GA1UdIwQYMBaAFJCvajqUWgvYkOoSVnPfQ7Q6KNrn
-MB0GA1UdDgQWBBT3DWkld2HSGClyUyLvtOZJIGkdFjAOBgNVHQ8BAf8EBAMCBaAw
-DAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYD
-VR0gBEgwRjA6BgsrBgEEAbIxAQICBzArMCkGCCsGAQUFBwIBFh1odHRwczovL3Nl
-Y3VyZS5jb21vZG8uY29tL0NQUzAIBgZngQwBAgEwVAYDVR0fBE0wSzBJoEegRYZD
-aHR0cDovL2NybC5jb21vZG9jYS5jb20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlv
-blNlY3VyZVNlcnZlckNBLmNybDCBhQYIKwYBBQUHAQEEeTB3ME8GCCsGAQUFBzAC
-hkNodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0
-aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5j
-b21vZG9jYS5jb20wggK2BgNVHREEggKtMIICqYIMbGlwdXRhbjYuY29tghFhcGVj
-LmxpcHV0YW42LmNvbYIXYmVyaXRhLWJjYS5saXB1dGFuNi5jb22CC2JpbnRhbmcu
-Y29tghNiaXNuaXMubGlwdXRhbjYuY29tgghib2xhLmNvbYIRYm9sYS5saXB1dGFu
-Ni5jb22CFWNpdGl6ZW42LmxpcHV0YW42LmNvbYITZ2xvYmFsLmxpcHV0YW42LmNv
-bYITaGVhbHRoLmxpcHV0YW42LmNvbYIaaW5mby1rZW1lbnRhbi5saXB1dGFuNi5j
-b22CFmxpZmVzdHlsZS5saXB1dGFuNi5jb22CDW0uYmludGFuZy5jb22CCm0uYm9s
-YS5jb22CDm0ubGlwdXRhbjYuY29tghBtLm1lLmJpbnRhbmcuY29tghFtLm1lLmxp
-cHV0YW42LmNvbYIObWUuYmludGFuZy5jb22CC21lLmJvbGEuY29tgg9tZS5saXB1
-dGFuNi5jb22CEW5ld3MubGlwdXRhbjYuY29tghVvdG9tb3RpZi5saXB1dGFuNi5j
-b22CEnBob3RvLmxpcHV0YW42LmNvbYIicGlsa2FkYS1zZXJlbnRhay0yMDE1Lmxp
-cHV0YW42LmNvbYIUcGlsa2FkYS5saXB1dGFuNi5jb22CFHJhbWFkYW4ubGlwdXRh
-bjYuY29tghVyZWdpb25hbC5saXB1dGFuNi5jb22CFHNob3diaXoubGlwdXRhbjYu
-Y29tghJ0ZWtuby5saXB1dGFuNi5jb22CD3R2LmxpcHV0YW42LmNvbYISdmlkZW8u
-bGlwdXRhbjYuY29tghZ3YXJ0YS1kcHIubGlwdXRhbjYuY29tgg93d3cuYmludGFu
-Zy5jb22CDHd3dy5ib2xhLmNvbYIQd3d3LmxpcHV0YW42LmNvbTANBgkqhkiG9w0B
-AQsFAAOCAQEAcNQKjjh4OaZn21zLTaPeivJyo5nGoROUt4g9qoY7CT/8SY10GVMU
-88b8Ytk/J7SX9fAMHScFHSw+5ZJcTtD1JHEBs4dZl0c5+VxErWnSRpB1cUHj2d9l
-hWY9jnlxio6FKaKWe48g2lISa+GfnxtvS3mpml+PYfY5NFq9GEAEBsALn+T9Nqsg
-ZganYOrprtpttVwD7hkMdTyu1dhnc+pB0dtrCSFtPv1/lieTnNSm/cO/iTvWpnTH
-KU9DTr0e+hfBQEuBtzGIebAmga2PoXNnG/6s9kVQnN+SK5WsYfEtvyH9LC5Hj3xL
-/OYAPaks5QYMwOLbb9PEkgj9pkNuUe+2Fw==
+MIIFczCCBFugAwIBAgIQA+BriPqm75phxftyXebhxTANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTAyMDQwMDAwMDBaFw0yMDAzMDQx
+MjAwMDBaMBkxFzAVBgNVBAMMDioubGlwdXRhbjYuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAyqCmPGdr7S/HkQ/Z7JDVHUZi5Vp+udGHMkIoRUZs
+vPM6sBOF0DofXmPs7aGF7bu4efdubonq+bLrC2tWW8aZXJbAz54qhjEu3nhn4Nfj
+ue9rCOdWxDT5ksvrE/J1OKleK9kfahs1nBoSiAk7cZ/wdGbCEt+NiIMd0kqpZWtX
+/qEEuX3TtwTj/zfVEGYbNBJQrD9lja0jYw9/QwxCMAzeO6WdUxAwYDxSzRbJHs04
+SsIIQwaT8Lln2gceRPOCwdEk5SbWoKgaDIkZBxFe8jIivxAIXC5h3S+pJ0yiXluR
+KmeaPkMBGYMgTRpHeAUQSlpaOlkzEG1AwW3dd03WiUrElwIDAQABo4ICiDCCAoQw
+HwYDVR0jBBgwFoAUWaRmBlKge5WSPKOUByeWdFv5PdAwHQYDVR0OBBYEFFsHqo3e
+gZ98wNpv9aBGqpZ366soMCcGA1UdEQQgMB6CDioubGlwdXRhbjYuY29tggxsaXB1
+dGFuNi5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnNjYTFiLmFtYXpv
+bnRydXN0LmNvbS9zY2ExYi5jcmwwIAYDVR0gBBkwFzALBglghkgBhv1sAQIwCAYG
+Z4EMAQIBMHUGCCsGAQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3Au
+c2NhMWIuYW1hem9udHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnNj
+YTFiLmFtYXpvbnRydXN0LmNvbS9zY2ExYi5jcnQwDAYDVR0TAQH/BAIwADCCAQQG
+CisGAQQB1nkCBAIEgfUEgfIA8AB2ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCW
+ZDaOHtGFAAABaLaEs5gAAAQDAEcwRQIgOhMdTT9V+JAex/+E8qY34WzLoSP4VCNO
+RbwMsY3L+5ACIQC6bdfZRe+i2F1iI6DYVdgybauHepv87+Kkz1wcD+JS7QB2AId1
+v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABaLaEtGsAAAQDAEcwRQIh
+AKwELh1JzuTA7MVbbfU14O6jp6jAg1JolB0isayyG4GiAiBpu+YTItK/vcHaBfp/
+8whg9LpuhVHDjszx45lCdEusTzANBgkqhkiG9w0BAQsFAAOCAQEAEUI0RD2c/ppe
+ycy6j2tVk+0uaQVlGV8tP+t5LNQbaR9F0O7zHGriBcPV5+IR/GkiD8I6JqcqRxNm
+p4ECTBM+1Uo3LwxRoc5Zy/FmTREh4vi3QXgxJzFgSEemhjRJtYnOABRWsKKIPFo6
+Nc3g5v1bvFD+ieBXFM1c0ej7HH6jwD5dchwTI4AUTLQrzG5GlJvmGm3M6koNrWjy
+VfI3SGbrMGPkyqMRqDsCyX+0hZj4LOU26PnhDgTa9rbyVKDmpcbabzlDKq0KCI5M
+9/rFjpV0H1NsYZ/4GXaM56oOM7s6qJUTfhLDcYJxL8b9N32maCX8MOLjvvMlq0Ep
+69BDD+s8dw==
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=liputan6.com
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+subject=/CN=*.liputan6.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 7230 bytes and written 434 bytes
+SSL handshake has read 5498 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Server public key is 4096 bit
+Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
@@ -79,27 +60,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: B7EB4D8DB1379A328422CCEDA21B265807FF03B5D66E22995B942908A952B21A
+    Session-ID: A7921C90C7E55A7027FD1DAD7FB645ED9872A962D94A12D0AFFAD5359D3B629C
     Session-ID-ctx: 
-    Master-Key: 64FFEB8BB586D0A487C17B687B357982BD24904AE249E7509373DC1F8C23A16654FE802745D1F622BE22D480D75127A4
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 462081E1A2B498E6457A0BE8FCA250B8063C9A4A69C8D435AB3EEE1D49CEB9AFB49F93800F091EFCB10A83B431B6CD28
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - 0e e2 cc c3 51 ae 74 32-00 3e da 3d a2 15 76 49   ....Q.t2.>.=..vI
-    0010 - d3 e0 ab cb 9f 37 da f1-6c 83 7d ea 32 f4 5f 33   .....7..l.}.2._3
-    0020 - 82 82 71 4c b4 4d 4c aa-74 3c 1e 1a 41 e0 50 3e   ..qL.ML.t<..A.P>
-    0030 - 48 53 f1 6c 5e 56 ab dc-1c 47 95 51 62 6d ee 22   HS.l^V...G.Qbm."
-    0040 - 74 47 4b a0 3d dc 9e 97-89 40 4a e2 ef 9d b1 69   tGK.=....@J....i
-    0050 - 8d 09 b6 5f 8a e4 ea ca-9c e9 21 96 2a 64 09 99   ..._......!.*d..
-    0060 - 22 09 fb c4 47 13 4a cf-95 12 eb 77 09 0c a3 1b   "...G.J....w....
-    0070 - e1 ed e0 fa 0e ef 99 8c-42 a1 71 75 68 13 c7 e4   ........B.quh...
-    0080 - 89 07 74 f1 23 ae 27 84-68 44 fb 33 46 9f 6f 8b   ..t.#.'.hD.3F.o.
-    0090 - 7f 9b 74 82 2c d4 fb 92-28 6d 1c f6 b2 3f 86 e3   ..t.,...(m...?..
+    0000 - 1d ad 7e 67 07 53 3b f1-86 13 b3 1a 50 74 1c c4   ..~g.S;.....Pt..
+    0010 - 3d bd 86 c8 82 b0 57 94-44 27 3a b3 6e 47 74 e9   =.....W.D':.nGt.
+    0020 - 18 7e 46 0d 65 35 76 70-84 c0 ce 21 c8 2b 2e 09   .~F.e5vp...!.+..
+    0030 - 0f 7b 77 62 a4 95 9d 7e-79 b6 66 40 69 4f 6a 98   .{wb...~y.f@iOj.
+    0040 - f3 1a 1b 3d 6d bf 6d 1e-7b d8 16 ee 94 a8 71 aa   ...=m.m.{.....q.
+    0050 - a3 81 c0 a9 cb bd 26 8f-6b ca be 47 52 0d 8d 5c   ......&.k..GR..\
+    0060 - 86 fb 48 9a 9d 49 ad ce-ac b3 b5 b0 ad 76 d7 d3   ..H..I.......v..
+    0070 - c7 5e 56 d6 78 42 dc 5a-21 ba 96 6f e5 2c 5c ff   .^V.xB.Z!..o.,\.
+    0080 - 7f 57 27 00 bb 11 12 db-98 53 da c8 6b 49 99 3f   .W'......S..kI.?
+    0090 - b1 20 19 04 eb 50 34 36-f2 6f 06 da 40 b2 ad 7e   . ...P46.o..@..~
+    00a0 - 1e ed 6f 82 3a b1 a5 7c-a0 a8 00 c4 d5 dc 40 7b   ..o.:..|......@{
 
-    Start Time: 1472788225
-    Timeout   : 300 (sec)
+    Start Time: 1577474840
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

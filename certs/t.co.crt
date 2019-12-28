@@ -1,89 +1,82 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=4337446/street=Suite 900/street=1355 Market St/postalCode=94103/C=US/ST=CA/L=San Francisco/O=Twitter, Inc./OU=Twitter Security/CN=t.co
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
- 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 0 s:/C=US/ST=California/L=San Francisco/O=Twitter, Inc./OU=atla/CN=t.co
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGsDCCBZigAwIBAgIQD7TNYu+zagmiheU9LtTTDTANBgkqhkiG9w0BAQsFADB1
+MIIGXDCCBUSgAwIBAgIQC7Nk8BsA68WaJkeDtWr17jANBgkqhkiG9w0BAQsFADBw
 MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
-d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
-IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE1MDkxNzAwMDAwMFoXDTE3MDQwMTEy
-MDAwMFowggESMR0wGwYDVQQPDBRQcml2YXRlIE9yZ2FuaXphdGlvbjETMBEGCysG
-AQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhEZWxhd2FyZTEQMA4GA1UE
-BRMHNDMzNzQ0NjESMBAGA1UECRMJU3VpdGUgOTAwMRcwFQYDVQQJEw4xMzU1IE1h
-cmtldCBTdDEOMAwGA1UEERMFOTQxMDMxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJD
-QTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEWMBQGA1UEChMNVHdpdHRlciwgSW5j
-LjEZMBcGA1UECxMQVHdpdHRlciBTZWN1cml0eTENMAsGA1UEAxMEdC5jbzBZMBMG
-ByqGSM49AgEGCCqGSM49AwEHA0IABO1fpkAK9jU3Iqq+BFNLA8nESd9w1mE9aBjA
-qjqj4K8NV+K9XYgCuxGkZTdjBIAuNvkhFuFQgIuv9k/J1vV84PqjggNmMIIDYjAf
-BgNVHSMEGDAWgBQ901Cl1qCt7vNKYApl0yHU+PjWDzAdBgNVHQ4EFgQUFqNlJWVc
-phH8KfWH163Om2xXZVIwGQYDVR0RBBIwEIIEdC5jb4IId3d3LnQuY28wDgYDVR0P
-AQH/BAQDAgOIMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8E
-bjBsMDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2
-ZXItZzEuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc2hhMi1l
-di1zZXJ2ZXItZzEuY3JsMEIGA1UdIAQ7MDkwNwYJYIZIAYb9bAIBMCowKAYIKwYB
-BQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwgYgGCCsGAQUFBwEB
-BHwwejAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMFIGCCsG
-AQUFBzAChkZodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEy
-RXh0ZW5kZWRWYWxpZGF0aW9uU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwggGA
-BgorBgEEAdZ5AgQCBIIBcASCAWwBagB3AKS5CZC0GFgUh7sTosxncAo8NZgE+Rvf
-uON3zQ7IDdwQAAABT9xupPQAAAQDAEgwRgIhALpFKji8ngQoaBkdQiHTjb7OXpFt
-AAnLjKgUyWb51h4yAiEA0HUIs/Q5yo5gpvxauSv+1I/prElSE0pN8qgoFKR77pwA
-dgBo9pj4H2SCvjqM7rkoHUz8cVFdZ5PURNEKZ6y7T0/7xAAAAU/cbqTyAAAEAwBH
-MEUCIQCKVPLk5Lb8wsZ+MBFhWF2X53cLhQqpNhgQcf/lcT8EYQIgb1AivmLV0/uF
-PdOylMxXyn0DNWiT38OWwbsnHdHqMbcAdwBWFAaaL9fC7NP14b1Esj7HRna5vJkR
-XMDvlJhV1onQ3QAAAU/cbqYBAAAEAwBIMEYCIQCWuvmcKYDaS7wIXVrsYC+Jr+vO
-z5Kuq0lM4Ao3d1cACgIhAJ79mlUgqO93ZMRvzvrWQHGn6wQ4eYaG0OKysFz5dyw/
-MA0GCSqGSIb3DQEBCwUAA4IBAQA8HiwrN5lsQB3mgdrKi3thdzDn2uVRj4kBQVVA
-YbO6U2h3QNqr/KOMScWl2eTAY0h2Y3BV6Svg9bcsk/EFItH8h2BC4elO8SzhKgoO
-hJSwIzpd9R0sWvoip/YwTWiCi3+op/xNJkbf8KUXWGpx6HltjxH8QvMlfwaS1dss
-3KK8zFB0bpFfVL+/Wac+j1e//9A4qVS2MukUVwyHW3FxtuU47GbIeQFoDNpYvvSB
-mpVTbCScM8+BpKPpuUqm/eGOkWoXNel3DDkvnY5Pui3QsIRWYVmPvv1/o1Y4ZY/M
-pafJ6hR+rZ2c5wguDpfjodkjIi4eMDpU+bAk7JsblkueWmQK
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xOTA1MjQwMDAwMDBaFw0yMDA1MjMxMjAwMDBa
+MHAxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1T
+YW4gRnJhbmNpc2NvMRYwFAYDVQQKEw1Ud2l0dGVyLCBJbmMuMQ0wCwYDVQQLEwRh
+dGxhMQ0wCwYDVQQDEwR0LmNvMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEApS1xDTCZvIEaPzioBNHvpSoyPd/8Gk6myTcKKXKw8icBR19T+XfTEKk3hnwP
+k14ZAruiBPd7vMsUkD2HtOUdrkNjDpUV9NKTYgLhlB2RxP5RsO2PdPeaPPXIg9Nt
+HOlVUgkThoxqEDavgpMYoNb1K12gzFxYp9LQT4rUsK0F4QdU/FHq/3GBRAnauZx3
+KYbWnJjGdxUIySQnAXmvGhgqjLBVLjGNRJWifglzds8AIZpo8COJHp3SuMLaBFZy
+cZiIe84Q0uJ/C5OD+2m9YvXWXG2isTVrSAMOuBSy3ssUfw/MUWCMHz3ZwjxqNVT4
+X+Q7nxQjHi1g9LgNmMIAO9jezwIDAQABo4IC8DCCAuwwHwYDVR0jBBgwFoAUUWj/
+kK8CB3U8zNllZGKiErhZcjswHQYDVR0OBBYEFFxj/fM0WMmyQTpAZCOhG8USFol4
+MBkGA1UdEQQSMBCCBHQuY2+CCHd3dy50LmNvMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwdQYDVR0fBG4wbDA0oDKgMIYuaHR0
+cDovL2NybDMuZGlnaWNlcnQuY29tL3NoYTItaGEtc2VydmVyLWc2LmNybDA0oDKg
+MIYuaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NoYTItaGEtc2VydmVyLWc2LmNy
+bDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjCBgwYIKwYBBQUHAQEEdzB1
+MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wTQYIKwYBBQUH
+MAKGQWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJIaWdo
+QXNzdXJhbmNlU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwggEFBgorBgEEAdZ5
+AgQCBIH2BIHzAPEAdgCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAA
+AWrrDaPPAAAEAwBHMEUCIGrY2nK+yCnTjjFZfrrprBCQnEgvylwAgxwuR0/13mOh
+AiEAwaXpcztuZ3hguP3aPFN3smGh/KZ0HkOMwVt4ipraoJsAdwBep3P531bA57U2
+SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAWrrDaNNAAAEAwBIMEYCIQDY/CK+7BOV
+7qSytUQX5bT0Pmdx1SHQxLg3p3YPIklpDwIhAK7sJrCDJXhJB7LEEHkJkqbsq34K
+bjW3K/eSorLnrFQTMA0GCSqGSIb3DQEBCwUAA4IBAQAT9sfHyYtR8SwuhBrFaN5r
+gce3ZKUdN30GXuT8yGxV+SRILTmZ3ttK76HLnmCPQ7VrcHUVcCx5stYT0sQaeylM
+KuJdyOCHocEy+M1/5/r87q4fucvNQrjDG1TF16VWKc08Sf/nEIkDlHUYN8W1AspK
+1r2M8PmnvdUNVC2CxitQNWFX3cb/fD9pbJ6T6TDEP+DdkabelLQmAC3Ix0yO7N4v
+btGqn4U79V/rZ9PDFdUrPhGKTyOHW4Fo5+Ps4VVm9cYrKo/qS8Sn6+ErRtxS09Bl
+XJlzqDX/IXTx0QJJ6e+6iILJtBOF6RRplkzIBwHdIpQipkazO1ltUlC5dVLVFLq2
 -----END CERTIFICATE-----
-subject=/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=4337446/street=Suite 900/street=1355 Market St/postalCode=94103/C=US/ST=CA/L=San Francisco/O=Twitter, Inc./OU=Twitter Security/CN=t.co
-issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+subject=/C=US/ST=California/L=San Francisco/O=Twitter, Inc./OU=atla/CN=t.co
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3403 bytes and written 434 bytes
+SSL handshake has read 3494 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
-Server public key is 256 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
-    Session-ID: DD5A57574196B8A7B7F6141EE72083AAF2A5DB71D0C228B79B0BC6E0ECB1BD44
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 02CA5F93C4A0999445C7BEAA80B179DF014A9F4EE69C069C9E89ADAF0C8058BD
     Session-ID-ctx: 
-    Master-Key: 74D1FC7F0CDFE81ED5075CDB41C1A155469AF42B797804DD2A309E9EF841F3A27026EB02A6DC8953A61F136047D815EF
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: F7AE72FD36229FB2A50DE7DA028CDB9163A96A32541B480C54A87C2E7A1DEA67B972CC8068A118C7810477F2DF433B1A
     TLS session ticket lifetime hint: 129600 (seconds)
     TLS session ticket:
-    0000 - ec c9 53 7a fb 2d 98 2b-ab c6 77 07 51 54 fd f8   ..Sz.-.+..w.QT..
-    0010 - 1f da a3 e7 ff 5d fc ce-06 31 0a 5d 8f f3 bf cb   .....]...1.]....
-    0020 - 24 ce 9c b7 82 4b ee 32-23 8d 2d 9d 1c b7 9d 4c   $....K.2#.-....L
-    0030 - f0 4b e5 da 4f eb d0 9b-53 40 b0 3b ec 73 b0 e5   .K..O...S@.;.s..
-    0040 - 63 b1 af a2 aa 23 4e d6-5a 84 ea 0f 47 cb 4e c2   c....#N.Z...G.N.
-    0050 - 84 cf 24 23 2e e6 b5 dd-8b 86 cd d3 14 aa b8 5a   ..$#...........Z
-    0060 - fa ab 79 5a 56 19 4b e6-eb 3a 2a 97 52 2f 0d 42   ..yZV.K..:*.R/.B
-    0070 - d5 8d be bd f8 b0 47 ac-19 fe 94 96 9d 07 3c 17   ......G.......<.
-    0080 - 7d 9f 06 93 7f 5f 2d 23-99 dd a0 ff 7b 88 85 9a   }...._-#....{...
-    0090 - e6 fd 6a fd 88 4a 5c d6-3b 61 87 6b 28 e7 1b 36   ..j..J\.;a.k(..6
+    0000 - 25 c1 6c db c2 50 0e 71-f8 69 d8 8c ae eb fd e3   %.l..P.q.i......
+    0010 - 41 af 85 9f d0 f7 da 3b-47 70 ae c6 29 65 6f 9b   A......;Gp..)eo.
+    0020 - ad bf 1d 36 ff df 7d 85-5b 80 7f 8a 14 4a cc a3   ...6..}.[....J..
+    0030 - 33 ab 40 37 78 f5 e5 44-d8 12 b5 86 e8 5b 04 fc   3.@7x..D.....[..
+    0040 - 2c b9 67 7d af a2 73 e3-72 c6 1c 69 e8 75 fa ce   ,.g}..s.r..i.u..
+    0050 - 31 c4 c3 b5 b2 b3 e8 f1-02 45 da cf e8 ef 38 21   1........E....8!
+    0060 - 65 53 6f 19 4d f2 27 9f-77 5b f1 39 62 71 e0 93   eSo.M.'.w[.9bq..
+    0070 - e5 76 2a a7 2f 5e 53 54-8b d9 ba 88 98 55 63 00   .v*./^ST.....Uc.
+    0080 - b2 c1 8a f0 c4 9e 03 b1-7e 75 e0 8b d9 b8 93 5e   ........~u.....^
+    0090 - 3e 97 c3 e8 48 a6 5a d2-27 1a 6a 13 ad a2 fb 81   >...H.Z.'.j.....
 
-    Start Time: 1472787847
-    Timeout   : 300 (sec)
+    Start Time: 1577474869
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

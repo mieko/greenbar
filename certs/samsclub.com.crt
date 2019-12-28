@@ -1,89 +1,75 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=Arkansas/L=Bentonville/O=Wal-Mart Stores, Inc./CN=prod.samsclub.com
+ 0 s:/C=US/ST=Arkansas/L=Bentonville/O=Wal-Mart Stores, Inc./CN=www.samsclub.com
    i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
  1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+ 2 s:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
    i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGlTCCBX2gAwIBAgIMQV5QV9/1XqJEGrw2MA0GCSqGSIb3DQEBCwUAMGYxCzAJ
+MIIHQjCCBiqgAwIBAgIMNcI3opx8pTVzxL6cMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
 BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
 bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
-RzIwHhcNMTYwNjE3MDUyNzQwWhcNMTgwNjE4MDUyNzQwWjByMQswCQYDVQQGEwJV
+RzIwHhcNMTkwNDI2MTkxOTIwWhcNMjAwNDI2MTkxOTIwWjBxMQswCQYDVQQGEwJV
 UzERMA8GA1UECBMIQXJrYW5zYXMxFDASBgNVBAcTC0JlbnRvbnZpbGxlMR4wHAYD
-VQQKExVXYWwtTWFydCBTdG9yZXMsIEluYy4xGjAYBgNVBAMTEXByb2Quc2Ftc2Ns
-dWIuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsqJV/ZydBPtY
-DLFRtiz/FrQyeb0hxYMqtzNhNig+zucwSGjbt+htfX830wpoKENwtH7PjiUQkL4A
-qhQQ6OeYAIMPJnre9TeMXUP4tx0+wdjVjz9xd+oWEvHCWd8s9pLOwEW2hM9K0//p
-8JPPQrCIcM9Zjw3ig/mUzL2VieAhUMD4RZtw+MX5ua7iIqeixnpmSDHh7Uoaul1t
-C/OhYuz+BaxaUghWVUMNuiN6Wdp+0Dym5xvMU84gvVb95UgtR1tT0nKzR/9/Ypky
-B1iUfLLlPlI9gxzcS2d5K3IJXIvtBxCdq8uvgI+IqOr+n9G8y3b+3tHioDMD0Gyx
-YZXEVVzPNQIDAQABo4IDNTCCAzEwDgYDVR0PAQH/BAQDAgWgMIGgBggrBgEFBQcB
-AQSBkzCBkDBNBggrBgEFBQcwAoZBaHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNv
-bS9jYWNlcnQvZ3Nvcmdhbml6YXRpb252YWxzaGEyZzJyMS5jcnQwPwYIKwYBBQUH
-MAGGM2h0dHA6Ly9vY3NwMi5nbG9iYWxzaWduLmNvbS9nc29yZ2FuaXphdGlvbnZh
-bHNoYTJnMjBWBgNVHSAETzBNMEEGCSsGAQQBoDIBFDA0MDIGCCsGAQUFBwIBFiZo
-dHRwczovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAIBgZngQwBAgIw
-CQYDVR0TBAIwADBJBgNVHR8EQjBAMD6gPKA6hjhodHRwOi8vY3JsLmdsb2JhbHNp
-Z24uY29tL2dzL2dzb3JnYW5pemF0aW9udmFsc2hhMmcyLmNybDCCAW0GA1UdEQSC
-AWQwggFgghFwcm9kLnNhbXNjbHViLmNvbYIVdHJhY2tpbmcuc2Ftc2NsdWIuY29t
-ghB3d3cuc2Ftc2NsdWIuY29tghVncmFwaGljcy5zYW1zY2x1Yi5jb22CEXd3dy5z
-YW1zY2x1Yi5tb2JpghVwaGFybWFjeS5zYW1zY2x1Yi5jb22CEHNtcy5zYW1zY2x1
-Yi5jb22CFm1vYmlsaXR5Mi5zYW1zY2x1Yi5jb22CDm0uc2Ftc2NsdWIuY29tghVt
-b2JpbGl0eS5zYW1zY2x1Yi5jb22CFXJvY2tmaXNoLnNhbXNjbHViLmNvbYIWbW9i
-aWxpdHkzLnNhbXNjbHViLmNvbYITcHJvZC1pLnNhbXNjbHViLmNvbYITaW1hZ2Vz
-LnNhbXNjbHViLmNvbYIMd3d3LnNhbXMuY29tghNzY2VuZTcuc2Ftc2NsdWIuY29t
-ghRzYW1zZ2VjLnNhbXNjbHViLmNvbTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
-BQUHAwIwHQYDVR0OBBYEFLztsPLvSKlJhxb3UW1PmF9oDQ9WMB8GA1UdIwQYMBaA
-FJbeYfG9HBYpUxzAzH07gwBA5hp8MA0GCSqGSIb3DQEBCwUAA4IBAQAMs4NaIZw8
-WXaO3Gv9hqHeQe+6C7fmneAb8YCx+3PHyF8yh1Y3Pygs052/7ixkkmn27kVj/NBg
-gUY8T5u1nG2YOFAWWDGrLx+Aq+lmVpb5u7b97WSjTM6hMCaICZ7D6pkqjqkUd/6h
-Crqt5PBBnEazTSRoIKW/MvDDxh3SAB2ymgUqehHEPiaKP5DqWbQsqKZZavHbUHRo
-lHJkTrqia0pZ/st9e6kS/cDa4P7bRCo1KduKVJ3jgu6t25g7yl22/EKrOQnEAAX+
-aMpBmPHbNt7eaD5Xcjv364dzbgkECVhkNfVuHCHjrWBe79T9uMf4KcfQOdiM6QID
-4jjUH4isC2ta
+VQQKExVXYWwtTWFydCBTdG9yZXMsIEluYy4xGTAXBgNVBAMTEHd3dy5zYW1zY2x1
+Yi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCm/+l2QVlHJp1J
+3M/pcEHpDtU8o+1BZUguQk/E//dQYfxNxVSms5sbsOyHNqtlAAIhxxlWGLBofyt5
+tmdT8XA3HKbPWSlJbxbPpMOgwt+ymOIEy4bI54VPtRzFGw0f8MkciVCuJ+SwcBIz
+d/PX1TMg12N+OSjb//2QUcjGyI5ARien/4dspcrDxth/zEbc0Mi3pesVYiYiwsjc
+tzR8tNFhkqiQ3sIgirG4iQ/v1wY/VeixGfqZ7Xluiaq+yMJd5HdlJbjMpYF9ZH7j
+JdUKOxaPUzIq5bICF6YF1MTTJ2SpkOpRxebMUymyYBn78fp597KKgw1OpQ2CgGaC
+ahDVrXtdAgMBAAGjggPjMIID3zAOBgNVHQ8BAf8EBAMCBaAwgaAGCCsGAQUFBwEB
+BIGTMIGQME0GCCsGAQUFBzAChkFodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29t
+L2NhY2VydC9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMnIxLmNydDA/BggrBgEFBQcw
+AYYzaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2dzb3JnYW5pemF0aW9udmFs
+c2hhMmcyMFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYIKwYBBQUHAgEWJmh0
+dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECAjAJ
+BgNVHRMEAjAAMEkGA1UdHwRCMEAwPqA8oDqGOGh0dHA6Ly9jcmwuZ2xvYmFsc2ln
+bi5jb20vZ3MvZ3Nvcmdhbml6YXRpb252YWxzaGEyZzIuY3JsMIIBEgYDVR0RBIIB
+CTCCAQWCEHd3dy5zYW1zY2x1Yi5jb22CHHNhbXNzdGF0aWMud2FsbWFydGltYWdl
+cy5jb22CGnNhbXNjbHViLndhbG1hcnRpbWFnZXMuY29tghl3d3cuc2Ftc2NsdWJy
+ZXNvdXJjZXMuY29tghxzdGF0aWMuc2Ftc2NsdWJyZXNvdXJjZXMuY29tghxpbWFn
+ZXMuc2Ftc2NsdWJyZXNvdXJjZXMuY29tgh53d3ctc2Ftc3VzLnN0YWdpbmcud2Fs
+bWFydC5jb22CMmVzdG9yZXdlYi5wcm9kLmF0Zy5zYW1zY2x1YmRvdGNvbS5wcm9k
+LndhbG1hcnQuY29tggxzYW1zY2x1Yi5jb20wHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMB0GA1UdDgQWBBRS/0POe8FNXrAJbTr9Ay9dh+r9uzAfBgNVHSME
+GDAWgBSW3mHxvRwWKVMcwMx9O4MAQOYafDCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB2AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABalsWf7sAAAQD
+AEcwRQIgYID8QmsT9shhBhFpzfaEaR2hCh9jEtdXHYzu/LnEF28CIQCkNFUtY4O8
+Sp9rSYpYhCHFEpzezzlFi8MN8UhDovOf0AB3AKS5CZC0GFgUh7sTosxncAo8NZgE
++RvfuON3zQ7IDdwQAAABalsWf7oAAAQDAEgwRgIhAL+/Hh1NoYHTYNb8L1o2cVgU
+E9XNxbmiX4eMott2NcSiAiEA5GIr1QCZ0NI0wtGfTUt+XUOg40hVN4OwMW2QMNo5
+v/owDQYJKoZIhvcNAQELBQADggEBABK1wdVULTBmkhG3mdzAeEqCffFnSXlVJX+m
+MKoTR7P3z9RggcIyZ6QjomDyqQnzLsrNkUzA/jAyDce9JGOqqm7sdFM9YiiE2V0/
+u0gaa4+LlAO6iuzuiK/G2mDI7SGK4eR0x+C7zRofyXlsi3HwsRup5Zhx/+Zt2UB5
+35rtrs2nCGKWPwQlDrZyz3HYJJyJOVCmj8Q/PISvUeUKhzsibF5+m5BNktgTseJA
+mjtvKftlFho7xQ+76FtIgFhBUEe2N9Tu6tJSm8NX05rnZWQZFJ/gs9nV89wOF6U+
++a8yuWmKFjJFlIVhi1+YasH8JDkdr7jQxVTaPGJYpkV3xpKKB4I=
 -----END CERTIFICATE-----
-subject=/C=US/ST=Arkansas/L=Bentonville/O=Wal-Mart Stores, Inc./CN=prod.samsclub.com
+subject=/C=US/ST=Arkansas/L=Bentonville/O=Wal-Mart Stores, Inc./CN=www.samsclub.com
 issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3479 bytes and written 434 bytes
+SSL handshake has read 4058 bytes and written 538 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is AES256-SHA
 Server public key is 2048 bit
-Secure Renegotiation IS supported
+Secure Renegotiation IS NOT supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: D75D17DBFB1B9506DE8C579BDAC342A7A41EBAE9748D52538C27FF9D48A6AFA3
+    Cipher    : AES256-SHA
+    Session-ID: 7D7E8FA22EE39C7EAEDBF575207C1E7CA3FFCBEC9C9E8DC930FBAC37CCB47460
     Session-ID-ctx: 
-    Master-Key: A901C77D8B7366009D27C058C168D9E4EA9F3A80468BCDB8C3DB5F069E7B09DA4817DAB0387DA8E76E2507EAF1963A20
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 7200 (seconds)
-    TLS session ticket:
-    0000 - 00 e7 cb b7 77 be 76 73-97 18 77 21 fd cc 57 23   ....w.vs..w!..W#
-    0010 - e8 48 42 f3 e8 97 b5 53-a7 fe 8a b0 78 c2 92 c3   .HB....S....x...
-    0020 - 7f b2 49 fa 73 dd ae de-47 a2 d5 f9 3c 40 66 5d   ..I.s...G...<@f]
-    0030 - d7 f4 61 ba 4d 0f 58 f1-be d6 a1 3f c4 d1 1e 81   ..a.M.X....?....
-    0040 - 41 bc 97 25 b0 df f0 b3-cc 65 60 15 7e cf b1 e9   A..%.....e`.~...
-    0050 - 2d f0 7b b4 a7 90 ac 09-1e 53 dc c2 24 62 b3 ef   -.{......S..$b..
-    0060 - cc d7 6f da b4 10 68 21-9f a7 1f 9a 48 ab 97 5a   ..o...h!....H..Z
-    0070 - 00 2f c0 07 6e e4 b0 30-36 da 76 63 92 07 0c b9   ./..n..06.vc....
-    0080 - 34 84 d7 a0 28 14 fb 2c-ed fe dc 18 b2 90 33 c3   4...(..,......3.
-    0090 - c0 85 e5 8f 04 56 75 3e-ba ac 27 e1 c2 b6 7b b5   .....Vu>..'...{.
-
-    Start Time: 1472789392
-    Timeout   : 300 (sec)
+    Master-Key: 6AE1BA775ADAAF977A55897AC56458BF3B6024CF2D95942BEB9CC6AC2B330078B85410A7FDBAD180F13410FE4710CE35
+    Start Time: 1577475952
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

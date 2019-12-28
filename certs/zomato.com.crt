@@ -1,54 +1,54 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/CN=*.zomato.com
-   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
- 1 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
-   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
- 2 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
-   i:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
- 3 s:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
-   i:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+ 0 s:/CN=zba.se
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFKjCCBBKgAwIBAgIJAKdIe7SJQU/DMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
-VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
-MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
-cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
-dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTE2MDYwODE1MzAzOVoX
-DTE5MDkwNjE1MzAzOVowOjEhMB8GA1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRh
-dGVkMRUwEwYDVQQDDAwqLnpvbWF0by5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
-DwAwggEKAoIBAQChTSIl1FpqYLkXzbrP1fDi8n2VUtMgQsOtD+PkXM1mnkxRB395
-AjrFl2CVwV0YVNKzVF7Qn9xUx45HMTsgP+vNru5EbJ+YFEaa+RJX2bcWPO3wEj+Q
-x66USrvysbzqeJTcyhFuumixvNuCN5CeyZkXSoYFl/hrdTwHd5iiVmVdiELxCOt6
-Az3QGRGPermBJyCNxFy9yxHM4h5qV6y6LvHLyzbXY+PE7PETALbbX0YKbRB0styl
-QQShNhWgXn4hFWEu4xdfitY/g2qp15kcCbrtdEP8AkQctHTy8BbJ8Z18TXiaeNaP
-AbzqQugBk5XBocGfh3/GZyGMpu2U+XfG/p8xAgMBAAGjggG2MIIBsjAMBgNVHRMB
-Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8BAf8E
-BAMCBaAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5nb2RhZGR5LmNvbS9n
-ZGlnMnMxLTI1MC5jcmwwXQYDVR0gBFYwVDBIBgtghkgBhv1tAQcXATA5MDcGCCsG
-AQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRv
-cnkvMAgGBmeBDAECATB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0dHA6
-Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0aHR0cDovL2NlcnRpZmlj
-YXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNydDAfBgNVHSMEGDAW
-gBRAwr0njsw0gzCiM9f7bLPwtCyAzjAjBgNVHREEHDAaggwqLnpvbWF0by5jb22C
-CnpvbWF0by5jb20wHQYDVR0OBBYEFAQKZnMBdmPjLlHMVlIljeCRuh4iMA0GCSqG
-SIb3DQEBCwUAA4IBAQCJDqShmNPcB89L5dm4kJ4GnIyZ3cMks9KEdNM0SDc6vNZm
-VWYZSEGyCSwtO6Emi/OhR/EVbH+yG+AqN3G6oIvcLWcSeI4HgZa4CZePd5zgYKdG
-rGT5xgj63QluOyoM/WIHPfYXjdXzR0fWPlX0acXeQSC7jFSSLGdTNdiP0U6ZIA+G
-/PPAcUaKH1QAx5e2HvGcFoDYWg2AkjWNk+A49MM9Pa95LsSqp7QSroG4tX2y/WNB
-llAd52Iv3jxYcDihcg1uR2LhFqKwMWlvYsQBQKcHLynP0QveiPHWVgHdwWdzWQde
-DyK+I86t2tKJjupWDeh8bPTHY5hGmNTOfna4nXir
+MIIFVTCCBD2gAwIBAgIQB5MGeZg2Oj4hAyILRTUU6jANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTA4MjEwMDAwMDBaFw0yMDA5MjEx
+MjAwMDBaMBExDzANBgNVBAMTBnpiYS5zZTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAOtvTdAZmEDYstmDZx0qnXvIYmZuWOQR/PvDhU+s1NzTGUU34cXi
+SBACWyeCyzcJQ8GSIOSTE9I1hc6WE8BYu7N+wI9Ie+2+qx79Jam/ePtcPSvZfJPK
+kuZvrh4EQ7vAZLcY6YyTb5U8QtzRwCX0Kz3kvlcO+YVDXixnfnxPGHzJYZ/uJp7H
+byj5dcMOxa7AgqwrBBhbhnsJToFilhQw87RmxdkzT7kp2LT4g0qeeISSaoxBdT/k
+G/6Hg/OrKOnDqqCe9O1DVKeUZbWkbQSQjWYPpM3loWb5Sjoq97/Afvj1v4jUlrSJ
+dE+RUGOVX1BRMZW4MrstZnDo3JoPTPPqCEcCAwEAAaOCAnIwggJuMB8GA1UdIwQY
+MBaAFFmkZgZSoHuVkjyjlAcnlnRb+T3QMB0GA1UdDgQWBBTf1zNYzD3d1e0oeR7U
+WjYffSTVzTARBgNVHREECjAIggZ6YmEuc2UwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRw
+Oi8vY3JsLnNjYTFiLmFtYXpvbnRydXN0LmNvbS9zY2ExYi5jcmwwIAYDVR0gBBkw
+FzALBglghkgBhv1sAQIwCAYGZ4EMAQIBMHUGCCsGAQUFBwEBBGkwZzAtBggrBgEF
+BQcwAYYhaHR0cDovL29jc3Auc2NhMWIuYW1hem9udHJ1c3QuY29tMDYGCCsGAQUF
+BzAChipodHRwOi8vY3J0LnNjYTFiLmFtYXpvbnRydXN0LmNvbS9zY2ExYi5jcnQw
+DAYDVR0TAQH/BAIwADCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AKS5CZC0GFgU
+h7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABbLV9U2cAAAQDAEcwRQIgOLONLYI+
+5N71laqh0ng/4t6N6zhajJE3MmlYm6gwA4cCIQCUi4Qsh9BLBpds+Kmxf4/PqPFO
+3RA+B+hTEQSiLkMkUAB2AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMP
+AAABbLV9U7kAAAQDAEcwRQIhAJuDbu5gvi1OHyuDKUFei9z7LJh6c1N+9RKgHHnV
+SpqZAiBpLUe50R/5/75esXydMXJR1FjBzggDHrUPkTb9axEWEDANBgkqhkiG9w0B
+AQsFAAOCAQEAD9cWpjAfYCAbYotUSTH/p3PY3QVHQ/ZmMbuGVW6w9j6og70sr1WM
+TWKnrswEzwUF3OU+w6xH3rgnoTV9ZivEuPi2AodkqciPJus2cZS8fQMr8OBa5Obt
+hWH/SPkKnGK0vkMpVqPLGNjsObQStOGwhP/4TeLSgQR7yjsJdJIDt4WLINqKR1On
+VEyLYb4vipq+berUMh3TCzXujn/s1dsNEEh8+TuNi8JgmV2nryckFVFJs46+tQuj
+vRtJ+fPEhHOO4dbENcTYAk/FUIkk/9hdxiFBWqAf2+GRgwag3krn8rk11gyR5foC
++9EhcR8d+aIuwvFL6VPcxzDjWIKcVsBS4w==
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/CN=*.zomato.com
-issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+subject=/CN=zba.se
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5411 bytes and written 434 bytes
+SSL handshake has read 5468 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -59,27 +59,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: E9A9A375FF5A1DDACA9E82EC539A3F66D9E48C9E482356E4396D61945FA61C9C
+    Session-ID: 312030CB8939C21841CD9B09812DABA4B1A398FC17DBD5808F7C5CF3F70B6243
     Session-ID-ctx: 
-    Master-Key: BEA24D3C0E5B5471905CA02560F72894818CD58B70C2B082808A4BBBE7976C4492ECEE90823097212DC3015161BD219D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 900 (seconds)
+    Master-Key: FD99373CCFB310C1B4781170AA4BE74CE26204994B5D243CB1F5C0E3CAB821E44F7E38469CCFCE20990E639DE6726FC1
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - ee 21 b9 87 36 fe eb a1-c5 86 f0 a6 42 5a 9b fd   .!..6.......BZ..
-    0010 - c8 aa a0 3f 39 f6 6d ab-73 1b 15 6f 7b 56 91 b4   ...?9.m.s..o{V..
-    0020 - 1b b8 0c ba 29 3b 3e 59-0d 53 9f a6 9d 57 65 79   ....);>Y.S...Wey
-    0030 - 43 47 3f 07 0f 08 3e 95-23 cb 52 4f 72 56 37 2c   CG?...>.#.ROrV7,
-    0040 - 72 33 51 c4 62 d7 53 d3-89 fe 8d 5a 75 ee 91 84   r3Q.b.S....Zu...
-    0050 - 35 f6 db 23 64 88 43 91-57 45 0d dc 4c 32 19 4f   5..#d.C.WE..L2.O
-    0060 - b1 d8 9c 11 44 81 73 6c-56 12 ca 0f c0 b5 9f 8b   ....D.slV.......
-    0070 - 16 d2 9c 4f 0e b5 fe fc-e4 be 24 55 1f fb a3 95   ...O......$U....
-    0080 - f9 33 69 3f e2 00 a9 86-05 37 a3 af c9 8b b1 b8   .3i?.....7......
-    0090 - 93 3a 30 bf 46 9e 4e a4-d4 2b f8 53 f4 37 7b f8   .:0.F.N..+.S.7{.
+    0000 - 39 04 91 82 85 01 b4 fd-8b 7a 68 39 19 ab 83 6e   9........zh9...n
+    0010 - f5 4e 6a d2 63 3a 89 3d-29 54 0f 29 7e 0c 4a 92   .Nj.c:.=)T.)~.J.
+    0020 - 10 2e f5 84 f5 b3 3a ef-e3 42 a3 d6 2f 07 fa c4   ......:..B../...
+    0030 - 20 45 13 95 7f c1 19 2a-85 56 3a 04 d0 59 23 2f    E.....*.V:..Y#/
+    0040 - d6 f4 a5 f8 50 76 e5 f4-ed a7 08 da e3 5a 28 26   ....Pv.......Z(&
+    0050 - 85 24 61 bf 09 73 89 b0-26 9e 25 b1 2d 08 50 00   .$a..s..&.%.-.P.
+    0060 - c4 1a d9 81 97 83 38 8b-d0 10 7d b0 72 92 3a 55   ......8...}.r.:U
+    0070 - 2e 2b 65 d6 f1 0e 29 c0-92 dc 80 58 c6 e7 eb 29   .+e...)....X...)
+    0080 - 06 e1 68 1b 68 6c a5 3f-fc 2b 33 71 dc 24 3a c9   ..h.hl.?.+3q.$:.
+    0090 - db 4f 3f 6d 11 0c 29 95-4d 5f f3 77 67 47 7c 2b   .O?m..).M_.wgG|+
+    00a0 - 9e 3c 16 16 28 66 5a 50-a5 48 5e 38 7b d1 b6 8f   .<..(fZP.H^8{...
 
-    Start Time: 1472788522
-    Timeout   : 300 (sec)
+    Start Time: 1577475151
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

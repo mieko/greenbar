@@ -1,54 +1,57 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=RU/ST=Moscow/L=Moscow/O=Sberbank of Russia/OU=DSIT/CN=sberbank.ru
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 3 s:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+ 0 s:/C=RU/L=Moscow/O=Sberbank of Russia/OU=00CA/CN=sberbank.ru
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFFzCCA/+gAwIBAgIQTCXypYZYWuDxuVC6K2H+JzANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwNDI0MDAwMDAwWhcNMTcwNzIzMjM1
-OTU5WjBxMQswCQYDVQQGEwJSVTEPMA0GA1UECBMGTW9zY293MQ8wDQYDVQQHFAZN
-b3Njb3cxGzAZBgNVBAoUElNiZXJiYW5rIG9mIFJ1c3NpYTENMAsGA1UECxQERFNJ
-VDEUMBIGA1UEAxQLc2JlcmJhbmsucnUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
-ggEKAoIBAQDaMuFPN9wFnY8RCW+cECWJ0993j0GcVTn/mrYRaiNfv4xMq8o1J0ua
-NnfnkAGeJpkKAdkkMufLaVhK0e3+FdIRjkvdNyx2V48WdtNUdqmUEEfgFuPsRPID
-MJYfunWXW+siWRxUzu2jU8J45FE3z5eaMyCOSMYiXB9Gjzeh79DJHChZvSMFi318
-vgox78qsY7LJVQYGZ/lx6kby57s5JjmrWV8hBBg9NKFaLNz2B7NXLIxFBqhW03Lj
-EeGUpEQqC87orgl2qN28gKBN56O4pqhZeZX1lZM27aANiZmlrsvFJBjuvyuqU7X9
-EodP7PUbXgg51YidWXkHgyIbnRwNjsOfAgMBAAGjggHWMIIB0jBPBgNVHREESDBG
-gg93d3cuc2JlcmJhbmsucnWCC3d3dy5zYnJmLnJ1ggdzYnJmLnJ1ghBkYXRhLnNi
-ZXJiYW5rLnJ1ggtzYmVyYmFuay5ydTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIF
-oDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNybDCB
-nQYDVR0gBIGVMIGSMIGPBgZngQwBAgIwgYQwPwYIKwYBBQUHAgEWM2h0dHBzOi8v
-d3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDBBBggr
-BgEFBQcCAjA1DDNodHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3Jl
-cG9zaXRvcnkvbGVnYWwwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8G
-A1UdIwQYMBaAFNJv95b0hT9yPDB9I9qFeJujfFp8MFcGCCsGAQUFBwEBBEswSTAf
-BggrBgEFBQcwAYYTaHR0cDovL2duLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0
-cDovL2duLnN5bWNiLmNvbS9nbi5jcnQwDQYJKoZIhvcNAQELBQADggEBANVDuWV8
-4QXLmvH8VQTxLq9558AS3I5d3A8uMUZJu9jZDN1TsMzaRN3Kxa3pNn52uxdXctGY
-9kixfiwFCtmWlYAh1LGjBMPiYPA7WxkUKNu1nUnx7O1aineGoEqUX4IPxDA6kYT/
-PUa0Aqj3GxwR3DkZVfQDbHjhfHHvkjtGdl5yrE4SwflWpyXrKvpdHRREVdiHq2sw
-Y5e2V+fKOV3t9S6j0rww1fykJQur0HGgEOLR5ryD9ONzKdSPKLQjWtuHihGQzV8Y
-OYOwEyy8MmsTCkGVxLVHELcTV3Yu9Oms/AuknU8qUwsu1Zh/Y8/eRUAoaGVqvtpE
-InkybUPA4b1kCIE=
+MIIGnzCCBYegAwIBAgIQCjWqQlHIPON+jee2gY45EzANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAe
+Fw0xOTA3MjQwMDAwMDBaFw0yMTA5MjExMjAwMDBaMGAxCzAJBgNVBAYTAlJVMQ8w
+DQYDVQQHEwZNb3Njb3cxGzAZBgNVBAoTElNiZXJiYW5rIG9mIFJ1c3NpYTENMAsG
+A1UECxMEMDBDQTEUMBIGA1UEAxMLc2JlcmJhbmsucnUwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC7xxzWyFH00wsZzqTkgyKbcZ7dgGuTu2v8AtlYuYxw
+bjUuyNV02TsxRVabHRn75XUnIIpFP4gFAh/cvTVD0LEBRKg7Hc/DeH6xBZcgrXPL
+G/6E47KoVusKbwCM3MuOpg3Pxf5phtowbk+zZRMRQgt30JVgptlD6dF22TjQ/6cC
+12P2uSf8DGJPRqv2dNiJFC4/mhGKIgKI8iXBWnUcLHztuXAjXF4Y4k4xi5xfQ5ol
+i9x4hGf/9uwPYvC1nOmqK7uqwv25o7aP3y5F0ftFpYzr6hdPqJFU7YV1uf/JLSxk
+zq01lJAtdNjLACGw8NRTh8e8XnAvxWdfWtim8yXYFI1LAgMBAAGjggNVMIIDUTAf
+BgNVHSMEGDAWgBSQWP+wnHWoUVR3se3yo0MWOJ5sxTAdBgNVHQ4EFgQU2DLRkIND
+eVZOAf++5FoqTI6SOygwTwYDVR0RBEgwRoILc2JlcmJhbmsucnWCD3d3dy5zYmVy
+YmFuay5ydYIHc2JyZi5ydYIQZGF0YS5zYmVyYmFuay5ydYILd3d3LnNicmYucnUw
+DgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA+
+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY2RwLmdlb3RydXN0LmNvbS9HZW9UcnVz
+dFJTQUNBMjAxOC5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEF
+BQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwdQYI
+KwYBBQUHAQEEaTBnMCYGCCsGAQUFBzABhhpodHRwOi8vc3RhdHVzLmdlb3RydXN0
+LmNvbTA9BggrBgEFBQcwAoYxaHR0cDovL2NhY2VydHMuZ2VvdHJ1c3QuY29tL0dl
+b1RydXN0UlNBQ0EyMDE4LmNydDAJBgNVHRMEAjAAMIIBfQYKKwYBBAHWeQIEAgSC
+AW0EggFpAWcAdQDuS723dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9ywAAAWwi
+dEP4AAAEAwBGMEQCIA27lYlNsO/P/Fovogk1ZtxNXZz4NradlVddTndq2qIyAiBZ
+q0K9mGMAvPXucuCxatyihKLET1QkMbG1GuMOFwJKSAB3AId1v+dZfPiMQ5lfvfNu
+/1aNR1Y2/0q1YMG06v9eoIMPAAABbCJ0RB4AAAQDAEgwRgIhANwJlbnP86GR4gxN
+sogxR/0pkT6xtICNtHlS5US2GIX8AiEAiYZ8onDez9jx3sUd23RSJDjVa63JByMn
+6hb5JAHDVyMAdQBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAWwi
+dEM0AAAEAwBGMEQCIFiqAbXuXVef43kqjWlqN+dt/FvriPUEdYnni8YVdeqfAiAr
+ZAgO6AymS0u5qqZ+NeSFOj8TnjVbbV5PvKgaERu7qDANBgkqhkiG9w0BAQsFAAOC
+AQEAA+YYfBGHJyZArtQyWkOtXUwkWfK2v50hSxAM6lA0nrGfZHdRBrFkvscNNM1g
+a5q8aag+MqBV7rHSOIe+fevkMu5zoL6LKbV6ykBW7SRbV0pfL9r7Yf3li75R+oKK
+XPYWka9mgn7XAKZptaUHYxL7kmAnsnzf+0SSdeiqBH2n98SyoIPhlhnvm4s4SEQb
+8u4kMYuVFF4zuHEDz1u/k11pwC4QmSGbqP//++nkrUXy+RCfRkaIPVujchMR2m5o
+tvXE5GIEj7dz00+8Mbi83bHAFvH1LwzAVjU4gzmmKp4R7uxN5TBGnpYFOEqpvnFE
+zQ69486E5WvP52BpHDLFeJricw==
 -----END CERTIFICATE-----
-subject=/C=RU/ST=Moscow/L=Moscow/O=Sberbank of Russia/OU=DSIT/CN=sberbank.ru
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/C=RU/L=Moscow/O=Sberbank of Russia/OU=00CA/CN=sberbank.ru
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4799 bytes and written 434 bytes
+SSL handshake has read 3539 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -59,28 +62,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 63B8D76C64C80E69419D20F7705ADD53CE5D0189ED4A5C6F018BD85FE0A7566B
+    Session-ID: 524327147F04D305192D0950613E716C73E4D009D8B125249DCDC86D2141777A
     Session-ID-ctx: 
-    Master-Key: 4F11651FE6F713318BBFB687E4642FFF5CF390935D606D1EBB064F40491CFB120652F498BCAE12D2F6093DCEEB20BB38
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 7754E72C3C0893CEEC1073E4C4F39E82CE5E5BB4385F04D7C8C0B4E8003797C188A5E5CDEBEBD4F15FA425CDA6901AE4
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - f9 a7 95 e5 41 b7 2c b1-68 16 f2 18 e7 af 56 88   ....A.,.h.....V.
-    0010 - 62 d0 57 a5 13 bf e1 c0-7b cf 03 16 16 5a 94 c0   b.W.....{....Z..
-    0020 - 3d 3b 01 2e 80 0f b8 1e-0b 21 42 87 50 7c 7d 97   =;.......!B.P|}.
-    0030 - 3f a4 a4 4e bb 8c f3 e3-b3 66 0a cb b4 47 b5 b7   ?..N.....f...G..
-    0040 - 09 16 2e 5d 79 ab f0 10-94 42 78 b8 b7 ad 02 90   ...]y....Bx.....
-    0050 - ae 96 6c 27 2e 8a 4b 1c-3d 04 b7 0b c3 0c 9e 2e   ..l'..K.=.......
-    0060 - 19 ae 72 da 1b 57 ef d0-56 b5 6c 3b 33 d3 6d 78   ..r..W..V.l;3.mx
-    0070 - 5f f4 15 ee 84 47 61 3f-17 e7 fd 1c 9a 9f 6f e9   _....Ga?......o.
-    0080 - e4 1f 67 e7 74 4c 93 5c-a9 cd 59 e3 2b b8 23 6c   ..g.tL.\..Y.+.#l
-    0090 - 76 61 c5 a7 4f f6 52 cf-4d d7 f5 c2 49 9e ab 5b   va..O.R.M...I..[
-    00a0 - 05 d4 e7 ac a6 31 42 bc-0c 8c 0a 4d e6 51 e2 a7   .....1B....M.Q..
+    0000 - 18 ce 3f 4d 10 65 0f 98-3c 7b 80 ed de 05 c5 21   ..?M.e..<{.....!
+    0010 - 45 bb e1 e4 f5 db 00 1d-50 2c 2a 4c 97 3c 0b 0f   E.......P,*L.<..
+    0020 - ef 53 70 1e 03 ee 3a 21-ed 80 b8 53 74 bc 7b 79   .Sp...:!...St.{y
+    0030 - 09 97 cb 78 d0 10 ec a1-7c 27 ce 51 23 2d a0 4c   ...x....|'.Q#-.L
+    0040 - 29 c1 a4 97 49 3b f3 44-4f f5 f8 d3 1c 5b e5 ca   )...I;.DO....[..
+    0050 - 40 b0 ff fc 95 0f 47 59-d7 b6 4d 97 5b 4a 4c 25   @.....GY..M.[JL%
+    0060 - 08 39 41 5a 43 12 ad 3a-3d b1 3a 57 c5 86 04 4a   .9AZC..:=.:W...J
+    0070 - f4 42 0b 9d 44 de 4b 13-8d 46 1a 4c 19 a4 c7 59   .B..D.K..F.L...Y
+    0080 - a9 76 8e c7 88 ec 61 98-50 c6 ff 2e 4b a3 82 59   .v....a.P...K..Y
+    0090 - ff 20 4e e1 7a 45 24 fb-e2 0e e2 38 23 11 42 6a   . N.zE$....8#.Bj
+    00a0 - 86 b7 57 02 95 0f fe 22-b7 0b d4 2f 39 78 47 72   ..W....".../9xGr
 
-    Start Time: 1472788236
-    Timeout   : 300 (sec)
+    Start Time: 1577474907
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

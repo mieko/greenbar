@@ -1,54 +1,62 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/CN=*.wordpress.com
-   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
- 1 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
-   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
- 2 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
-   i:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+ 0 s:/OU=Domain Control Validated/OU=EssentialSSL Wildcard/CN=*.wordpress.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFKDCCBBCgAwIBAgIIAfu9ABctn2QwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
-BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
-GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
-LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
-cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMTUwOTA2MTY1MjQxWhcN
-MTgxMDE0MTEyOTI2WjA9MSEwHwYDVQQLExhEb21haW4gQ29udHJvbCBWYWxpZGF0
-ZWQxGDAWBgNVBAMMDyoud29yZHByZXNzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
-ggEPADCCAQoCggEBAMOLqLElQImwQFKMq3Uo/3Yk9SuVeuVYkDVTZpB58PiZCe6q
-2f8kaITmhQoFfFMv444Wq0K9k72aHK1YhqEpU7cNvEZxfTrW+ubuUr53iZkfYS7j
-ORHYdkGuKBZpysLJ8/k+Dm4TuOQwGNzEKaluAuWdWd2XmIEheD2kzlYey7JzvqXh
-p6wmjCVhKD966AKBNcoL8WOtMdVPIRmR1I2FIN1dFTG4vKe4YPm7SiRNQ+keMuBf
-Hb8l/Z3HHdGOroZnfR6dJWdmt8Z8JonAgA2BUOGCB9sB6BhJvMaBXQf2rBicRO+N
-E6QOeEYeswSOEqPcVR9VSxhgq0HIHNXogg6O2vkCAwEAAaOCAbIwggGuMAwGA1Ud
-EwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMA4GA1UdDwEB
-/wQEAwIFoDA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmdvZGFkZHkuY29t
-L2dkaWcyczEtMTE5LmNybDBTBgNVHSAETDBKMEgGC2CGSAGG/W0BBxcBMDkwNwYI
-KwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRkeS5jb20vcmVwb3Np
-dG9yeS8wdgYIKwYBBQUHAQEEajBoMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5n
-b2RhZGR5LmNvbS8wQAYIKwYBBQUHMAKGNGh0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29k
-YWRkeS5jb20vcmVwb3NpdG9yeS9nZGlnMi5jcnQwHwYDVR0jBBgwFoAUQMK9J47M
-NIMwojPX+2yz8LQsgM4wKQYDVR0RBCIwIIIPKi53b3JkcHJlc3MuY29tgg13b3Jk
-cHJlc3MuY29tMB0GA1UdDgQWBBSjIIf50CVTMgx09Zz+DTIugaYCvjANBgkqhkiG
-9w0BAQsFAAOCAQEAs+oqXpiA63H/EpGLtE+DusOazwvz1QzNsFRCqJSjflsV1Bc1
-7zPwvNbxT4m96wbYEdCXvQi85MIGZ4+EJAz21gk9HCIsHGgr2farx1pp38flHZtH
-wGnMenBscZJQfn1f1X4U5MsQMuSBMiO1zEF3Hf8kia2n3Dj4Dz80w8UTgnDpU3OL
-6PYnca78Z/EC1slR1xZjYXBcTLIxkQNOlkvjW/7mlN6hDSVdmoNbw4ID8cy20Mtu
-10BzTpB2TsvZwMGompxxpZE5vn5zc6WJHWajOAWbztCupAu2JfBNG1q67gvhBZPs
-uGfPVF0ag8twse+vDwRwK5K51To6fR5LtJx5fw==
+MIIG2TCCBcGgAwIBAgIRAKeBC2S1KcGoaQC27YwaCGgwDQYJKoZIhvcNAQELBQAw
+gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
+VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
+Q0EwHhcNMTgwOTA2MDAwMDAwWhcNMjAwOTA1MjM1OTU5WjBdMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxHjAcBgNVBAsTFUVzc2VudGlhbFNTTCBX
+aWxkY2FyZDEYMBYGA1UEAwwPKi53b3JkcHJlc3MuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAtX8qlG2EEfbt976zryjdtGbx89fdxpoAUfwTmW6Y
+8DY0LCvtejfR3w8kPEO6e3iRwyAmXoDBtA7cU06AsUP3e5cQyoWXcrW3ijsETOd9
+aBA58CeCsZJ47KfFxCU91Fijpv1VarlJblydVx1JouEj0HlGqAghLsrDehkQwczs
+EwWtz5gOvenRGPIXVw1g/Or/QYv1fwcvOglhOgbKN2HpHnIPOp9RAFbYPWhDC7sc
+a4lK2o85siaoe7563fSd+FfsiQ6Ssh4fK2sMqXbWqoyKonem+6rCWdWPvVsIBDH2
+8v2HZ6s74CQSeMuAy5CZJOwv8emqlByp9GtuGWECqOgLpwIDAQABo4IDXjCCA1ow
+HwYDVR0jBBgwFoAUkK9qOpRaC9iQ6hJWc99DtDoo2ucwHQYDVR0OBBYEFA1qB7w5
+rS0dqQtaLzRiiA9WS7X2MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQB
+sjEBAgIHMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20v
+Q1BTMAgGBmeBDAECATBUBgNVHR8ETTBLMEmgR6BFhkNodHRwOi8vY3JsLmNvbW9k
+b2NhLmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0Eu
+Y3JsMIGFBggrBgEFBQcBAQR5MHcwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuY29t
+b2RvY2EuY29tL0NPTU9ET1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJD
+QS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTApBgNV
+HREEIjAggg8qLndvcmRwcmVzcy5jb22CDXdvcmRwcmVzcy5jb20wggF/BgorBgEE
+AdZ5AgQCBIIBbwSCAWsBaQB2AO5Lvbd1zmC64UJpH6vhnmajD35fsHLYgwDEe4l6
+qP3LAAABZayjjkoAAAQDAEcwRQIhAKz7RLxwEe2RASIQxFmK0wa5cL+UkxNsca2L
+rQY3cOjMAiARjKGfL3sPAj3NaiKaJceVxd2xKIqgVFiyn+nUNLziUQB3AF6nc/nf
+VsDntTZIfdBJ4DJ6kZoMhKESEoQYdZaBcUVYAAABZayjjocAAAQDAEgwRgIhAP6F
+dPFHxFhI07FV6PGss0u34O3IKh7t5bdInq1yzfGHAiEA2CPZamK6a3DLTOPmdFfk
+BVl51AekibMouaopWKH9cAwAdgBVgdTCFpA2AUrqC5tXPFPwwOQ4eHAlCBcvo6od
+BxPTDAAAAWWso45sAAAEAwBHMEUCIQChMawM9D4XL9Rty9yIHVt5nSAWlnWO9mUa
+5PukI4ogIQIgbbnceypgG1l21iW7p9PKMxG1aVILjVLPyM5bvEX1T/8wDQYJKoZI
+hvcNAQELBQADggEBAHs2PmSUv9MLxHibC/FugGZkr9zOgkxEVVtQlNVUZkNPGeGx
+017Vwhi37+mNHp8uyT6zTOtKw1YBEDlEKvGWH7L86hK57kP+BdpVkjiuRA7jtVZ/
+wVSzD8mUv3IT6YAN3Xe8ZRRm1wkrjgaF8tPVLDC3IAqgq7PRGKF6YMdYdC3VtO4J
+pfLhODzOmQEWgHTq/6avc2AkvOCdtOEyJNayEFcGhWGKoSkEXKt3UF5+UPn2XFyO
+hSmJErVCPQv6E8iwsAc1ugRZuEubiP0dp1RLiyLoPW8Pmzm2bidp55Tkm7zfqjjk
+O4h2j0/57jEg1LPNvtUTFgZr0ULj3tOxoSTmesc=
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/CN=*.wordpress.com
-issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+subject=/OU=Domain Control Validated/OU=EssentialSSL Wildcard/CN=*.wordpress.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4394 bytes and written 434 bytes
+SSL handshake has read 5340 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -56,29 +64,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 789C153AD1E40E2BF25109340EDA09C6B25591DB9055A1B254D2DD9A4D4C3E02
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 738642255C13459167E878C5204A3BC578D58FB7ED5C060CE8C193F8E3369EA3
     Session-ID-ctx: 
-    Master-Key: 75A4B708EB8FF0BC69462102C4B6CD8A5B792830ED71293032C9E77B3B92600464773B4F7B8E2050EB7835EFE3B957CF
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 21600 (seconds)
+    Master-Key: 45033E05B138BBA00C7B447636E3031C2FD6C84E63C59750A7A373797BADF59954F55E7972A29B1AF36DA8B3BAAC5CF2
+    TLS session ticket lifetime hint: 3600 (seconds)
     TLS session ticket:
-    0000 - a8 e9 9a 5f b5 e3 44 93-bc a3 78 8b 74 80 19 72   ..._..D...x.t..r
-    0010 - 6c 12 99 f4 9b 73 1f 7e-2a e5 74 1f 92 34 be 9f   l....s.~*.t..4..
-    0020 - 02 54 9b 83 b1 cb f2 5c-f7 af 26 08 87 f8 64 f8   .T.....\..&...d.
-    0030 - a0 6f 03 d0 4e db 42 83-78 95 cf e0 fe a7 db be   .o..N.B.x.......
-    0040 - 67 b8 c7 56 c0 fd d2 36-88 79 82 93 1c 64 85 23   g..V...6.y...d.#
-    0050 - 8b bc 40 4e 96 5f 87 1c-a9 dc d1 ab e9 bf 4a b9   ..@N._........J.
-    0060 - 98 24 fb 2f d1 89 55 16-53 8f 4e ed c5 de cb 47   .$./..U.S.N....G
-    0070 - cb 78 db 52 1a 51 a7 88-8f ed 9c 35 c0 54 43 cf   .x.R.Q.....5.TC.
-    0080 - 04 13 4d d6 9e b4 c1 e2-92 27 f3 3b a1 43 1d db   ..M......'.;.C..
-    0090 - 7b ba fc 5d 3f 03 2e 99-2d 65 9a c9 dd 25 6a a5   {..]?...-e...%j.
-    00a0 - a9 ac 3c ab de ca 29 3d-74 88 1f 3f 9f 9c 92 42   ..<...)=t..?...B
+    0000 - 15 bf d4 67 8e a2 e3 ea-f6 43 16 b1 66 fe 38 d1   ...g.....C..f.8.
+    0010 - 9e 20 4e 77 8a 87 11 6e-ef 8a 75 43 36 4e 0f fd   . Nw...n..uC6N..
+    0020 - ce ca d4 2d c2 22 57 9c-e5 92 2e b5 4f e0 e4 0e   ...-."W.....O...
+    0030 - 2a 84 76 ca 41 7b b3 09-54 d8 2d 5e d6 5a 2d f7   *.v.A{..T.-^.Z-.
+    0040 - a2 b6 bb ca b9 0c e3 85-6c b7 ea 2c f0 83 da 98   ........l..,....
+    0050 - 84 98 b9 85 8c d3 6e c2-9b f6 40 af a8 1d ca 14   ......n...@.....
+    0060 - 49 55 77 0a ab 6b 05 b7-ac e0 1c 21 3c c0 a2 02   IUw..k.....!<...
+    0070 - d1 3b 0f 0e 5f a8 f2 c5-b3 ee 0e 83 d5 db e0 9d   .;.._...........
+    0080 - fb 0b 8c cf 3a 7c ee c7-d5 46 7a db 6f cb 64 41   ....:|...Fz.o.dA
+    0090 - f7 b7 00 94 e7 1c fe 23-f5 ea 0b e8 d4 4b 1f 59   .......#.....K.Y
+    00a0 - 6d d7 4e ec 0f a1 2d 7a-b4 a0 d5 b2 34 e0 b2 4f   m.N...-z....4..O
 
-    Start Time: 1472788529
-    Timeout   : 300 (sec)
+    Start Time: 1577475262
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,50 +1,74 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=Utah/L=Provo/O=Ancestry.com Operations Inc./OU=Web Operations/CN=*.ancestry.com
-   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
- 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
-   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
- 2 s:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
-   i:/C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+ 0 s:/C=US/ST=Delaware/L=Dover/O=Incapsula Inc/CN=incapsula.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE0TCCA7mgAwIBAgIQaAIYAeLMuHybI/RUuwucQjANBgkqhkiG9w0BAQsFADBB
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
-aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUwNDA5MDAwMDAwWhcNMTgwMTI1MjM1OTU5
-WjCBhTELMAkGA1UEBhMCVVMxDTALBgNVBAgMBFV0YWgxDjAMBgNVBAcMBVByb3Zv
-MSUwIwYDVQQKDBxBbmNlc3RyeS5jb20gT3BlcmF0aW9ucyBJbmMuMRcwFQYDVQQL
-DA5XZWIgT3BlcmF0aW9uczEXMBUGA1UEAwwOKi5hbmNlc3RyeS5jb20wggEiMA0G
-CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDExrSTRKyy1TMdPwV5NmTUhsvUTzwi
-4WnBJM6AwyvXnQvrJ7z29XLaWfF7qLUPQot3iap1dlv34Cz+i9+QPknqVrtGemaz
-Ws8JIKhYJSWrf42cS2vPHKTi0Fix0JIeDKJBNZK+MEpNCh+8o3yltGaqcq6n287d
-5Tg4gl1IzWN2wQWwuc9oNFmseRk61L93aXY+zJrxPCB4NLyPies71tW7CiL/GYW4
-1yAYLOWKqFvi91Yzqh6k/sdc9G+mOwRnbk+7jTBcZb7BZNLEm5tGb+cW7UsS3P/H
-PdASV6yjZcbR3a8zQ0HTI+lArQ9QnV2akTeQJfkdHGc/3GuVAoHeYOUPAgMBAAGj
-ggF+MIIBejAnBgNVHREEIDAeggxhbmNlc3RyeS5jb22CDiouYW5jZXN0cnkuY29t
-MAkGA1UdEwQCMAAwbgYDVR0gBGcwZTBjBgZngQwBAgIwWTAmBggrBgEFBQcCARYa
-aHR0cHM6Ly93d3cudGhhd3RlLmNvbS9jcHMwLwYIKwYBBQUHAgIwIwwhaHR0cHM6
-Ly93d3cudGhhd3RlLmNvbS9yZXBvc2l0b3J5MA4GA1UdDwEB/wQEAwIFoDAfBgNV
-HSMEGDAWgBTCT0hX/NFPmsBdOH0OBdvZLrVSYDArBgNVHR8EJDAiMCCgHqAchhpo
-dHRwOi8vdGouc3ltY2IuY29tL3RqLmNybDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
-KwYBBQUHAwIwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vdGou
-c3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vdGouc3ltY2IuY29tL3RqLmNy
-dDANBgkqhkiG9w0BAQsFAAOCAQEAO/h8mN0kWWPk3bZuuG96hPPyQW5C7PkqgNL+
-DsafXQdMlrvLoq+4ytyzirI9id+XhUztAxGcFE7dz8zeZ/A1kXgNHlkq0nlozKbd
-nC2sAj7m7SXt9dcPYznssmDCECp0gpkMgRIyUAH3HEDieFMeWJnzO7yjfKNsQAIP
-bE6TLBhFSrf2ZfxHdLxx2dIzYquv762qfMvdUSPWTMZ4liNzGC67Hs1vcsID+EzA
-0qzsgjssArdLvaBxOLWYo2x2oGyCFR2BJ0r2BjEvvTK2gZ4mjiidPsC9NT7d7Q6/
-S/iiYo/Q3udup0JbJpyWpPSb5a/PLHvKNw1ePX6wtJ9hxLcqCw==
+MIIJcTCCCFmgAwIBAgIMasrBN6d9quelZ2iRMA0GCSqGSIb3DQEBCwUAMFcxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMS0wKwYDVQQDEyRH
+bG9iYWxTaWduIENsb3VkU1NMIENBIC0gU0hBMjU2IC0gRzMwHhcNMTkxMTA1MDIx
+ODUxWhcNMjAwNjMwMDA0MzExWjBgMQswCQYDVQQGEwJVUzERMA8GA1UECBMIRGVs
+YXdhcmUxDjAMBgNVBAcTBURvdmVyMRYwFAYDVQQKEw1JbmNhcHN1bGEgSW5jMRYw
+FAYDVQQDEw1pbmNhcHN1bGEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAzSOccDYWmcqlgAF9KZzXsw7cAdMrBQc4BDA6rySlzeU8+7srv356+qGC
+Sxka/SUxVrwVwVPY+CGqzFHkkG7Pdyh3EMY3ukfkMftyfv5U54w8S2VcnWlsTNqp
+g7lPiYP0f3ewrbBMzqKBJy+IPK2Uy4K4OsVPg28kKXjRqAxasOjNd+jPzQdtCoFu
+g14feuU/fz5ZA6CTWIwbViH8WtBgZt0UU4lLPyplAonBbxe89rNQ7WVKAL9G3W2E
+HW5RFsDsKg6JtsyVQlb5FI1ceVmI2kOOETKcmNXr/Qo80r/b0OtbgvvstoyKNXiJ
+nrJF9XVfftngfFWvXeir01LUO8jEKQIDAQABo4IGMjCCBi4wDgYDVR0PAQH/BAQD
+AgWgMIGKBggrBgEFBQcBAQR+MHwwQgYIKwYBBQUHMAKGNmh0dHA6Ly9zZWN1cmUu
+Z2xvYmFsc2lnbi5jb20vY2FjZXJ0L2Nsb3Vkc3Nsc2hhMmczLmNydDA2BggrBgEF
+BQcwAYYqaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2Nsb3Vkc3Nsc2hhMmcz
+MFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8v
+d3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECAjAJBgNVHRME
+AjAAMIIDwQYDVR0RBIIDuDCCA7SCDWluY2Fwc3VsYS5jb22CGCouYWpheC5hbmNl
+c3RyeXN0YWdlLmNvbYIOKi5hbmNlc3RyeS5jb22CDSouYW5jZXN0cnkuZGWCESou
+YW5jZXN0cnljZG4uY29tghAqLmFuY2VzdHJ5ZGV2LmNhghMqLmFuY2VzdHJ5ZGV2
+LmNvLnVrghEqLmFuY2VzdHJ5ZGV2LmNvbYIUKi5hbmNlc3RyeWRldi5jb20uYXWC
+ECouYW5jZXN0cnlkZXYuZnKCECouYW5jZXN0cnlkZXYuaXSCESouYW5jZXN0cnlk
+bmEuY29tghcqLmFuY2VzdHJ5aGVhbHRoZGV2LmNvbYIZKi5hbmNlc3RyeWhlYWx0
+aHN0YWdlLmNvbYISKi5hbmNlc3RyeXN0YWdlLmNhghUqLmFuY2VzdHJ5c3RhZ2Uu
+Y28udWuCEyouYW5jZXN0cnlzdGFnZS5jb22CFiouYW5jZXN0cnlzdGFnZS5jb20u
+YXWCEiouYW5jZXN0cnlzdGFnZS5kZYISKi5hbmNlc3RyeXN0YWdlLmZyghIqLmFu
+Y2VzdHJ5c3RhZ2UuaWWCEiouYW5jZXN0cnlzdGFnZS5pdIISKi5hbmNlc3RyeXN0
+YWdlLm14ghIqLmFuY2VzdHJ5c3RhZ2UucGyCEiouYW5jZXN0cnlzdGFnZS5zZYIO
+Ki5hcmNoaXZlcy5jb22CECouZmluZGFncmF2ZS5jb22CDyouZ2VuZWFsb2d5LmNv
+bYIQKi5tZmNyZWF0aXZlLmNvbYIVKi5wcm9nZW5lYWxvZ2lzdHMuY29tghcqLnJv
+b3Rzd2ViLmFuY2VzdHJ5LmNvbYIOKi5yb290c3dlYi5jb22CGSoudG9vbHMtdzAw
+Zi5hbmNlc3RyeS5jb22CECoud2VyZW1lbWJlci5jb22CEyoud2VyZW1lbWJlcmRl
+di5jb22CD2FuY2VzdHJ5ZG5hLmNvbYISYW5jZXN0cnloZWFsdGguY29tghVhbmNl
+c3RyeWhlYWx0aGRldi5jb22CF2FuY2VzdHJ5aGVhbHRoc3RhZ2UuY29tghFhbmNl
+c3RyeXN0YWdlLmNvbYIMYXJjaGl2ZXMuY29tgg5maW5kYWdyYXZlLmNvbYINZ2Vu
+ZWFsb2d5LmNvbYITcHJvZ2VuZWFsb2dpc3RzLmNvbYIMcm9vdHN3ZWIuY29tgg53
+ZXJlbWVtYmVyLmNvbYIRd2VyZW1lbWJlcmRldi5jb22CFnd3dy5hbmNlc3RyeWhl
+YWx0aC5jb20wHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQY
+MBaAFKkrh+HOJEc7G7/PhTcCVZ0NlFjmMB0GA1UdDgQWBBQ6Of/QyByg9JSpki/d
+PiBZS7AWBzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AMZSoOxIzrP8qxcJksQ6
+h0EzCegAZaJiUkAbozYqF8VlAAABbjlblK4AAAQDAEgwRgIhALmwwQUat1kGY4gi
+Qvjt8MkGVqzXM8WB+o5gwUdhIqpdAiEAz4mB9ZYs4eI53BprSVV/slJImUJ1zyfX
+Ytpn8f+bnF4AdwCyHgXMi6LNiiBOh2b5K7mKJSBna9r6cOeySVMt74uQXgAAAW45
+W5SFAAAEAwBIMEYCIQDqVkHTBp/enOxmscp6Cz8GWEifIa7AuJr4LTGFPsadPgIh
+APcP+P6u90KyoyOf44klPK1MUwXk7mveATFwE3HBSwHDMA0GCSqGSIb3DQEBCwUA
+A4IBAQA8Yi1o8vTzSptcxVKZmbzZReDFqQq7U6AJkyYoeZSPqtB6CFaLalazC4m/
++AFLolRbdTHeHzr8hgVCQnX5q8iJSRr8paOVb3YDD3O9gAK6/UTf99O3WgXGJaCJ
+1ha/HUyrxSTL8Zmgc3wPq/26EFkh+wmSBcTcs2WpSJW+rZ/M+xReHzzanG34dkY1
+e7qjH5OKh0+vhanx5XxAXz2E6WpHAHzyAUD4gNbrdYT4nsrKli6nfw3PBQ6dCkUP
+gYhKFR5GuX/TaSnYtJS2MpMhd9RhOCeRxoDJgDyj9jf1iAncLofB/6564TL/7I4X
+F9h9r+Y5nWX5VplDAxkhywAI+75p
 -----END CERTIFICATE-----
-subject=/C=US/ST=Utah/L=Provo/O=Ancestry.com Operations Inc./OU=Web Operations/CN=*.ancestry.com
-issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+subject=/C=US/ST=Delaware/L=Dover/O=Incapsula Inc/CN=incapsula.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3747 bytes and written 666 bytes
+SSL handshake has read 4212 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -52,15 +76,24 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-SHA256
-    Session-ID: 1CC328676B4D07BE5B86738CCE815523E7E2B94FEEE08DE7C2F732E760FF04DE
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 3C70228F91C303C64BA80157D8FB77B5FDC697A336E80DAC57F1EA501A0EF154
     Session-ID-ctx: 
-    Master-Key: 8CF0C9912AF105A256B7C6DF0538AEE649126120DA8AD09C6A957A620F0B121C6271A94C3B0FB6C16338901BFD5759E4
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788357
-    Timeout   : 300 (sec)
+    Master-Key: 1D21144CBCA49A05D21073327FDE69C28728BDD798B104B8FCE6DF22959815D45C8A0B70E2812C50727DE8E85A243097
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 9b 9c d6 3b 27 ad a0 02-fe 33 08 f2 e4 bc b5 dd   ...;'....3......
+    0010 - 9f 49 ce c6 bb e8 ab 15-73 b1 63 3f bb ad a9 ba   .I......s.c?....
+    0020 - b9 7e d1 1f 93 e8 97 5f-b4 f7 84 53 da f1 37 fe   .~....._...S..7.
+    0030 - 91 1a 80 67 6d f9 a4 b1-3d fa 19 b6 8a b4 a1 68   ...gm...=......h
+    0040 - 6a b2 1b 77 41 4a 30 1b-71 35 f5 71 d4 8e ce 2c   j..wAJ0.q5.q...,
+    0050 - 26 f8 7a 40 21 54 8c 7d-14 73 f3 35 61 f0 6e 99   &.z@!T.}.s.5a.n.
+    0060 - d7 d6 d3 3e 25 f6 e5 a2-c0 0d d5 91 07 36 8f 26   ...>%........6.&
+    0070 - d6 d2 dd 27 43 f4 5b 7c-6d fa 37 6c 87 ea 48 7b   ...'C.[|m.7l..H{
+    0080 - 2c 4a 4c e0 63 c4 a9 a0-1b bb 20 9b f5 1d fb 1f   ,JL.c..... .....
+    0090 - 9a fc 41 d5 f0 17 8b de-28 d9 9d c1 59 d7 c1 ab   ..A.....(...Y...
+
+    Start Time: 1577475284
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,4 +1,4 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
  0 s:/CN=clipper.360doc.com
@@ -40,38 +40,37 @@ subject=/CN=clipper.360doc.com
 issuer=/C=CN/O=WoSign CA Limited/CN=WoSign CA Free SSL Certificate G2
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4608 bytes and written 634 bytes
+SSL handshake has read 4962 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : AES256-SHA
-    Session-ID: C744A2966BACF4138F6C133D0B5941E58CCA0681F01DDB334161965D5547AA55
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5E05FE06EF20316236B337D60FE4437716FCA00F26C665E3FC8CA0093DE04166
     Session-ID-ctx: 
-    Master-Key: 6E6A18FF001B545CDD8164D9E10EA2B593B052C08399EC282488B767C7FA2BF959E3C3C7080860A9AD1A5607ACA98EF7
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: F4FEB19FECEACA40BC9C5D307E15FD4DDC464BCD228C652150762D4F4B15E57C202A6144D3F2DA8822CB009F0A0D602A
+    TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 92 70 36 56 4d ef 97 14-17 60 f3 fe 2d 2a 57 43   .p6VM....`..-*WC
-    0010 - 26 72 2b 7a 74 9d a9 0a-77 b5 17 a3 ae 71 79 c8   &r+zt...w....qy.
-    0020 - 98 ff 24 ca 89 25 33 40-09 e5 b5 40 9c 22 89 4f   ..$..%3@...@.".O
-    0030 - 7d 66 0e a3 48 5b 6e f6-0d 9e 0d 45 7c 45 7f f0   }f..H[n....E|E..
-    0040 - 9c 5e 62 8a 55 c5 e0 19-85 ed 58 a6 1e 9c a4 41   .^b.U.....X....A
-    0050 - 29 5d 61 48 51 ff 69 3f-7c 32 c6 f7 aa 54 65 f8   )]aHQ.i?|2...Te.
-    0060 - 07 19 6f ea 53 11 b8 fc-90 08 f5 85 7a 88 95 84   ..o.S.......z...
-    0070 - 97 a7 6e a7 54 7e fb 81-9e 85 2a ef d7 c5 0b 43   ..n.T~....*....C
-    0080 - a8 81 35 fc a0 45 b2 1d-84 92 66 b8 79 00 42 8a   ..5..E....f.y.B.
-    0090 - 04 bb 6e 15 1c 67 74 31-48 0a e0 e5 4b c2 78 73   ..n..gt1H...K.xs
+    0000 - d1 2e 92 27 e8 68 bf 79-d1 ce 5a 57 1d f0 63 cf   ...'.h.y..ZW..c.
+    0010 - 90 f9 36 1a 89 13 4b 16-9e a2 68 9a b5 2c 55 55   ..6...K...h..,UU
+    0020 - e3 5d 35 ef 16 0a a8 e6-a5 42 46 7a 25 cd c2 ba   .]5......BFz%...
+    0030 - 7c bd 54 92 fd 72 d2 63-b3 0a 9b e7 31 61 df 0d   |.T..r.c....1a..
+    0040 - 48 2f b0 26 77 ea 94 03-41 6b 00 60 64 dc 34 de   H/.&w...Ak.`d.4.
+    0050 - 89 0c b6 a4 d0 07 cc b5-6a 25 a3 7a 58 18 2f 3a   ........j%.zX./:
+    0060 - 88 8c 57 44 a6 28 2c 14-45 a0 03 9a 8e 48 84 93   ..WD.(,.E....H..
+    0070 - e3 16 86 36 af da ba b0-f8 ac dd ed 9b 3a 68 05   ...6.........:h.
+    0080 - 11 3a 3d d1 2b 56 02 a9-5a a0 4f f4 d8 a7 77 d1   .:=.+V..Z.O...w.
+    0090 - e2 97 65 1c 9f d2 00 ba-67 41 c4 32 fa f4 b0 5b   ..e.....gA.2...[
+    00a0 - c0 b9 09 31 f4 ea 86 ce-29 f7 21 4d f2 08 55 5c   ...1....).!M..U\
 
-    Start Time: 1472788506
-    Timeout   : 300 (sec)
-    Verify return code: 0 (ok)
+    Start Time: 1577475290
+    Timeout   : 7200 (sec)
+    Verify return code: 20 (unable to get local issuer certificate)
 ---

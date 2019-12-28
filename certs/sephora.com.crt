@@ -1,68 +1,84 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=San Francisco/O=Sephora USA, Inc./CN=*.sephora.com
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
- 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 0 s:/C=US/ST=California/L=San Francisco/O=Sephora USA, Inc./OU=Akamai Wildcard SSL/CN=*.sephora.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFUzCCBDugAwIBAgIQDcZBeMTpCYZB985paIX3ODANBgkqhkiG9w0BAQsFADBw
+MIIGojCCBYqgAwIBAgIQDjWF71s0EI3IBwPSCFT5hDANBgkqhkiG9w0BAQsFADBe
 MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
-d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
-dXJhbmNlIFNlcnZlciBDQTAeFw0xNTA4MjUwMDAwMDBaFw0xODA4MjgxMjAwMDBa
-MG4xCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1T
-YW4gRnJhbmNpc2NvMRowGAYDVQQKExFTZXBob3JhIFVTQSwgSW5jLjEWMBQGA1UE
-AwwNKi5zZXBob3JhLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
-AOXpLqQoxmGeSaKlQMDD2gQINixMXSyWHaaIhzicuS85Y7QeWa0O9P8GZRnWHpUk
-y2yRdK05qQzN0cWwz18DprYywFV9YR+Pdwi4DniCvtFvMt+pkdaQi1pgcviShRXF
-V6eUUnqMr+qDz6PGd6yhpBoq25gXvdrTotF0plTIuLb3rwMDazchZuaqLac4iHtF
-k0gLH5VVGgS/F8tCxN0/zdy5bkiXKYZu0qESaEaxu2wHXzNXAAoS7PBTx6XnWHKe
-p8sD8WNLbGac2V7jQhB2LPtsk1TxP4w4ld7K3ne2FiRxZq/cI78Mxr1wuInSDm7q
-RD8BDSwgYvW5R4g0N25fQYkCAwEAAaOCAekwggHlMB8GA1UdIwQYMBaAFFFo/5Cv
-Agd1PMzZZWRiohK4WXI7MB0GA1UdDgQWBBRi+aCJKMx+l7XQHSEEIwTNbMF+DDAl
-BgNVHREEHjAcgg0qLnNlcGhvcmEuY29tggtzZXBob3JhLmNvbTAOBgNVHQ8BAf8E
-BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGww
-NKAyoDCGLmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1n
-NC5jcmwwNKAyoDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNl
-cnZlci1nNC5jcmwwQgYDVR0gBDswOTA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcC
-ARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzCBgwYIKwYBBQUHAQEEdzB1
-MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wTQYIKwYBBQUH
-MAKGQWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJIaWdo
-QXNzdXJhbmNlU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQEL
-BQADggEBAACW11mtoWYJxTeuJzQa2FOMVeOhcYmgEcsSX/m1lWY8M3L1teUKGFUS
-SmkR2adZy/N4nfSOmAewxzOAdblrCUsaCJD5ACTFMgttPDude53ySa0UHm1GiV9b
-4Ql/6/5C7PmxMz0b9aFut/MUBu8gCRiqYmaUcY1Wu8Wg6qcBH0cCul2g1anZPcYF
-LrS1ZjcdAzefIfBCkmwhkSc2iXy41x9CT2hmsmSDGE7rg8xaJ7ub6qVVB3Voe4mN
-9BqzesGyOns/3JFW2yxlLUlX2n+SMKeoqaP1Gj+TVVQ05pgMI+TBJNrTxvh1TREi
-OC25pWo4O3fqGYv3osDxLSmrI6APZTk=
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAe
+Fw0xODEyMDEwMDAwMDBaFw0yMDAzMDExMjAwMDBaMIGMMQswCQYDVQQGEwJVUzET
+MBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEaMBgG
+A1UEChMRU2VwaG9yYSBVU0EsIEluYy4xHDAaBgNVBAsTE0FrYW1haSBXaWxkY2Fy
+ZCBTU0wxFjAUBgNVBAMMDSouc2VwaG9yYS5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQCvh/yjMtObFC1gYb4EeM0B++Geec9p2pHxf9M/zo4XrYE6
+RONu41aECLHeZ0KW6WwJ+6OCgkCt6FJH45hRd8a0vlj/yPCADM0PtxHPIVzPFjzU
+Rou/vnW7NnvCTZ8et8w0XRfqBUkE6rc+3/slm5MJQTLr7z623uJQoYi4v4aKyWDr
+w6a85vpBW0Kx5zJbKEYczISR0yS68kLqOjEMJaYvEgQ5GIcW0aCyrAPFOnbLX/Sq
+u5+LaGTo1sUHM8AhuPzEAId30SHM8c/JdAqY0aG+okIW9U2Ym3rpQNGWfb0hXFoi
+Df25cqaMUq7C43p55p4yfdnRyiaTU0993MtzJE8xAgMBAAGjggMrMIIDJzAfBgNV
+HSMEGDAWgBSQWP+wnHWoUVR3se3yo0MWOJ5sxTAdBgNVHQ4EFgQUXy2Xf70NAIzy
+48GGlLQaa682CdEwJQYDVR0RBB4wHIINKi5zZXBob3JhLmNvbYILc2VwaG9yYS5j
+b20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY2RwLmdlb3RydXN0LmNvbS9HZW9U
+cnVzdFJTQUNBMjAxOC5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggr
+BgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIw
+dQYIKwYBBQUHAQEEaTBnMCYGCCsGAQUFBzABhhpodHRwOi8vc3RhdHVzLmdlb3Ry
+dXN0LmNvbTA9BggrBgEFBQcwAoYxaHR0cDovL2NhY2VydHMuZ2VvdHJ1c3QuY29t
+L0dlb1RydXN0UlNBQ0EyMDE4LmNydDAJBgNVHRMEAjAAMIIBfQYKKwYBBAHWeQIE
+AgSCAW0EggFpAWcAdQC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAA
+AWdpqhO8AAAEAwBGMEQCIB6IC24GoCKIdl3hoTCl+FNagaun70z2gyj9+JiOPbYy
+AiAQw+9mDoNFpZ8MtuNmvPDYFhGJfS9nw6tQZQ4W11AmKgB2AId1v+dZfPiMQ5lf
+vfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABZ2mqFJUAAAQDAEcwRQIhAII//9oCDPCn
+pt9sAYkNXsQ2U1TNuCoCR8pjueFgAkT8AiAvKjk4f9e1IDBZS+C3et4tsVcoBvKW
+NLBINEQT/0u72QB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAAB
+Z2mqFQUAAAQDAEcwRQIhAN8OvJosPbUrcKD0uBs85/I/wl8QF7s58aNr7ju2GAkw
+AiBxuJlcfN0gj7WctXSLwJCbkTC7psO87ftyIInDo6OmojANBgkqhkiG9w0BAQsF
+AAOCAQEAqgZGKapElqv7nq+Buu4kveHBa4ZQn5Ka2RQ81XaYvI6edDpDDykIO04J
+7Z+cPQ7sQ5UOo1QaOnw8VEfnXZlV5vhg24npfb6s3HTa4k85PMyWEEFw9F1EDyeV
+vkV9ueixycdgxL7n2eI1KTIt0SdbSrmhmOrH08+e0ghqopeH5z7KFZ5Zb4wxyCsR
+9uhyDXVxvsp8yBcrmofB8nb6xIO4mABkPTiY5XRdAW2y+7KZOcOnTIguP0GEdS6Z
+BJ1770qLQ9eqYVVJtr6Htr5vU4ciTboiFOwbMMPkVwUeCT6xti7vy78t3MPELcTB
+WEltRcbaOWp/sdfzpg0ZVpaBnc1Qyg==
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=San Francisco/O=Sephora USA, Inc./CN=*.sephora.com
-issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+subject=/C=US/ST=California/L=San Francisco/O=Sephora USA, Inc./OU=Akamai Wildcard SSL/CN=*.sephora.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
-Server Temp Key: DH, 1024 bits
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3274 bytes and written 506 bytes
+SSL handshake has read 3526 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : DHE-RSA-AES256-SHA
-    Session-ID: 48119BD37E81A8F43506FC9A617A415406948C4D9BA67990D8D06FE8456A2D3D
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 9674122BAE6BEF07680D88216BF5D8DC53FDF3EF96552EB322DE34E53D5E878F
     Session-ID-ctx: 
-    Master-Key: 0ED2FD08298538B2F8520A2B90177934FBBA97C7C7C1D9BA413C2BB59E479EF32CB74EFA9FE6E7B4C06BD7BE01C4DE8E
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472789918
-    Timeout   : 300 (sec)
+    Master-Key: 0ACC26B7EBD34B033941411789F7510370C4C87A7AE0AD100B1FE918A8CB71EC5D35A6D575A9CB18496C139777FE8A9D
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 00 00 0d f0 59 6f dd 68-da 0a b9 96 2b e8 85 83   ....Yo.h....+...
+    0010 - 55 08 4a b6 f0 48 83 f2-04 43 4d 17 2b 40 64 5e   U.J..H...CM.+@d^
+    0020 - 4a 8c 18 6e 04 a2 46 44-98 96 51 14 7e 84 62 18   J..n..FD..Q.~.b.
+    0030 - ea 0c 72 ca 8b e9 6d 41-f5 92 81 8d 17 77 7a 55   ..r...mA.....wzU
+    0040 - 86 df 9a 0f fb f6 5a 69-a2 61 3a 61 0c c7 41 97   ......Zi.a:a..A.
+    0050 - 56 5f 5f 48 d5 f1 c1 e3-16 d3 da 1b c0 e9 4b 14   V__H..........K.
+    0060 - b2 02 2e a8 c6 85 2c 00-7e 60 a1 29 37 7f db fe   ......,.~`.)7...
+    0070 - 55 25 f2 74 1b 36 fb c3-81 f2 e2 de 3a 67 33 23   U%.t.6......:g3#
+    0080 - 31 79 9f 15 03 42 0b ff-8e 6b 76 a5 84 f7 a2 ed   1y...B...kv.....
+    0090 - d8 83 90 ca ad c2 d7 46-f7 bd 10 13 f3 44 05 e3   .......F.....D..
+
+    Start Time: 1577475360
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

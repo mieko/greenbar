@@ -1,64 +1,68 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/jurisdictionC=US/jurisdictionST=Texas/businessCategory=Private Organization/serialNumber=86800/C=US/postalCode=78288/ST=Texas/L=San Antonio/street=9800 Fredericksburg Rd/O=United Services Automobile Association/OU=USAA Operations Solutions WSAN1/CN=www.usaa.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Texas/serialNumber=86800/C=US/ST=Texas/L=San Antonio/O=United Services Automobile Association/OU=USAA Operations Solutions WSAN2/CN=www.usaa.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHtDCCBpygAwIBAgIQFaPGUtal2nTZ/jQ/Gh9SSDANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTYwNzA2MDAwMDAwWhcNMTcwMzAx
-MjM1OTU5WjCCATIxEzARBgsrBgEEAYI3PAIBAxMCVVMxFjAUBgsrBgEEAYI3PAIB
-AgwFVGV4YXMxHTAbBgNVBA8TFFByaXZhdGUgT3JnYW5pemF0aW9uMQ4wDAYDVQQF
-EwU4NjgwMDELMAkGA1UEBhMCVVMxDjAMBgNVBBEMBTc4Mjg4MQ4wDAYDVQQIDAVU
-ZXhhczEUMBIGA1UEBwwLU2FuIEFudG9uaW8xHzAdBgNVBAkMFjk4MDAgRnJlZGVy
-aWNrc2J1cmcgUmQxLzAtBgNVBAoMJlVuaXRlZCBTZXJ2aWNlcyBBdXRvbW9iaWxl
-IEFzc29jaWF0aW9uMSgwJgYDVQQLDB9VU0FBIE9wZXJhdGlvbnMgU29sdXRpb25z
-IFdTQU4xMRUwEwYDVQQDDAx3d3cudXNhYS5jb20wggEiMA0GCSqGSIb3DQEBAQUA
-A4IBDwAwggEKAoIBAQC6H8t51WCXR35uM1jgm+IY3t+HrqmOzf/GF0Wvhdr7VM2i
-JgA4sjMdmQGF/c2ykYpaUZbbcW5t6e4RTDQgcoec7Fubx0ZX/GsvPX0mgwMHMgtF
-XzfZF0QM1vtv6wWhf1NnganFaBGXmsD37PxQh/S2gR3UgRgxb4NHiJ1TCxQQODmu
-MIytkkHhuaPMYeMtB1rqrp9OxIu/cFlnodZZl66FmV7ccfPglJ/uckhilVap8pj7
-PBpni74CW6zbP9uhjR0azZ0G4VImlGWewXqCl7e5rFFZun8q+/004m28aROOn/O4
-usSPcbs4AmmYld3iJLweQHIvrDUTtlNmhlOdi9wZAgMBAAGjggN9MIIDeTCCARoG
-A1UdEQSCAREwggENgg53c21ici51c2FhLmNvbYIIdXNhYS5jb22CEXNob3BwaW5n
-LnVzYWEuY29tggtteS51c2FhLmNvbYIOZ3Vlc3QudXNhYS5jb22CEXBhcnRuZXJz
-LnVzYWEuY29tghV3d3cucGFydG5lcnMudXNhYS5jb22CE2NvbnRhY3R1czEudXNh
-YS5jb22CDGFwaS51c2FhLmNvbYIQY29udGVudC51c2FhLmNvbYIKcy51c2FhLmNv
-bYIRc2VydmljZTIudXNhYS5jb22CDmF1dGhuLnVzYWEuY29tghBjYXB0Y2hhLnVz
-YWEuY29tghNsaXZlYXNzaXN0LnVzYWEuY29tggx3d3cudXNhYS5jb20wCQYDVR0T
-BAIwADAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
-BwMCMG8GA1UdIARoMGYwBwYFZ4EMAQEwWwYLYIZIAYb4RQEHFwYwTDAjBggrBgEF
-BQcCARYXaHR0cHM6Ly9kLnN5bWNiLmNvbS9jcHMwJQYIKwYBBQUHAgIwGQwXaHR0
-cHM6Ly9kLnN5bWNiLmNvbS9ycGEwHwYDVR0jBBgwFoAUAVmr5906C1mmZGPWzyAH
-V9WR52owKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL3NyLnN5bWNiLmNvbS9zci5j
-cmwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vc3Iuc3ltY2Qu
-Y29tMCYGCCsGAQUFBzAChhpodHRwOi8vc3Iuc3ltY2IuY29tL3NyLmNydDCCAQUG
-CisGAQQB1nkCBAIEgfYEgfMA8QB3AN3rHSt6DU+mIIuBrYFocH4ujp0B1VyIjT0R
-xM227L7MAAABVcFieUMAAAQDAEgwRgIhAMpeyYxlmYjrKuQidkq9C9U6Cp1VtuAE
-fo3htRCLvBFrAiEAhUf51MLCsZ1OIa8+wj7LlRJdSDhe5qTigxM36ibNxmkAdgCk
-uQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAVXBYnlcAAAEAwBHMEUC
-IQChSSSmY4wYH/F/M4bKOfZho7w30wlR3pWKjtw4zXzHZAIgP13F4+CoONt9KWkM
-QrBXWM86wgkJidk63QyviII0p/swDQYJKoZIhvcNAQELBQADggEBAAFzMDXiJwIb
-viz7XmmzV1odoOkq1NqsqSgLIWoFMC6dnOtgfbXbzVlZQutWt2ABU5fLBsfsu/Mf
-bY9E9zN0ysuWIMrUAARfTs1pYg2kcNg+6dj2YOpFhfof3QhJrhJryE/8b8s9WXJL
-ZdhTMpRUt/3bxYghuLFLKNVRH+zfvYADKJy8SxrBt9dpLeD+BjFGFbafxRvaGKtR
-4I5VlKLmbRiZSXsJxBbB1GA1/ryjMNtLqmLPeupUHeVx4Mjg1Cmb5WN+amRsx6N5
-FpunowseQGiFBzVANxyekbno2nNoF12naQzx6PiB/oTqd0rkecUuwtgWrYc5a9B8
-klUOxRTiv8E=
+MIIIujCCB6KgAwIBAgIQBmY0hNSGrxb8rf8EEjXAJzANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE5MTEyNjAwMDAwMFoXDTIwMTAxOTEy
+MDAwMFowggEBMR0wGwYDVQQPDBRQcml2YXRlIE9yZ2FuaXphdGlvbjETMBEGCysG
+AQQBgjc8AgEDEwJVUzEWMBQGCysGAQQBgjc8AgECEwVUZXhhczEOMAwGA1UEBRMF
+ODY4MDAxCzAJBgNVBAYTAlVTMQ4wDAYDVQQIEwVUZXhhczEUMBIGA1UEBxMLU2Fu
+IEFudG9uaW8xLzAtBgNVBAoTJlVuaXRlZCBTZXJ2aWNlcyBBdXRvbW9iaWxlIEFz
+c29jaWF0aW9uMSgwJgYDVQQLEx9VU0FBIE9wZXJhdGlvbnMgU29sdXRpb25zIFdT
+QU4yMRUwEwYDVQQDEwx3d3cudXNhYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQC98vK1hekodzj24MMiD/Jf8yUD8WEVxdhTCdQFQ07uurirJuHW
+Bw4kYTC/d2u/+JC7JKhI7N39vYiTUKTQP/x4HUIgZfYO8+x8lN+lwtPadBy+Yvrw
+jNl4UAUGCWYswYXjR1swaVH/ETJZTnk9o2lKOpXWPUur40VLvJH5oZtBjzW3NQin
+Si79rX8HKj28z2q/sfEzZOUk9GdQhpQElFi6xV11Bvn1rIFMfeU1Z1WjK3y0kzyS
+8hrz68ENjynIwrYr9r8EGfKRmbbsVZFdPW/opC8idwUufhHRMFGNlZogTq0zpIpA
+PeRhs++BLP+htEoC8uWc0gMl4UhXpQmMcog9AgMBAAGjggS2MIIEsjAfBgNVHSME
+GDAWgBQ901Cl1qCt7vNKYApl0yHU+PjWDzAdBgNVHQ4EFgQUlSk2ki0sNTEC/2VT
+Dnwwiv907sYwggHfBgNVHREEggHWMIIB0oILbXkudXNhYS5jb22CDHVzYWFsYWJz
+LmNvbYIQY2FwdGNoYS51c2FhLmNvbYIOd3NtYnIudXNhYS5jb22CCnMudXNhYS5j
+b22CDGFwaS51c2FhLmNvbYIRc2VydmljZTIudXNhYS5jb22CCHVzYWEuY29tghFz
+aG9wcGluZy51c2FhLmNvbYIRcGFydG5lcnMudXNhYS5jb22CFXd3dy5wYXJ0bmVy
+cy51c2FhLmNvbYITY29udGFjdHVzMS51c2FhLmNvbYIQY29udGVudC51c2FhLmNv
+bYIOZ3Vlc3QudXNhYS5jb22CDmF1dGhuLnVzYWEuY29tggpsLnVzYWEuY29tghNs
+aXZlYXNzaXN0LnVzYWEuY29tghB3d3cudXNhYWxhYnMuY29tgg1hcGkyLnVzYWEu
+Y29tgg5sb2dpbi51c2FhLmNvbYIRYWZmaW5pdHkudXNhYS5jb22CCWwudXNhYS51
+c4IVbGl2ZWFzc2lzdDExLnVzYWEuY29tghVsaXZlYXNzaXN0MTIudXNhYS5jb22C
+FWxpdmVhc3Npc3QyMS51c2FhLmNvbYIVbGl2ZWFzc2lzdDIyLnVzYWEuY29tggx3
+d3cudXNhYS5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2Vy
+dC5jb20vc2hhMi1ldi1zZXJ2ZXItZzIuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5k
+aWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2ZXItZzIuY3JsMEsGA1UdIAREMEIwNwYJ
+YIZIAYb9bAIBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNv
+bS9DUFMwBwYFZ4EMAQEwgYgGCCsGAQUFBwEBBHwwejAkBggrBgEFBQcwAYYYaHR0
+cDovL29jc3AuZGlnaWNlcnQuY29tMFIGCCsGAQUFBzAChkZodHRwOi8vY2FjZXJ0
+cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyRXh0ZW5kZWRWYWxpZGF0aW9uU2Vy
+dmVyQ0EuY3J0MAkGA1UdEwQCMAAwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQC7
+2d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAW6oOn4qAAAEAwBGMEQC
+ID8Wgs2bpmfvVYbMZdePxvxPaSDUz+LFXg4bJE6LTaVrAiBRU64vek55sU64wAHv
+ftqHaVFmQ7oFuu1W1fu3A20QRQB1AFYUBpov18Ls0/XhvUSyPsdGdrm8mRFcwO+U
+mFXWidDdAAABbqg6fqIAAAQDAEYwRAIgOEGliDKflZTL5feF8tbD1jGoapgcaQkR
+HWIN5ATbjhACIDitQ+IjJ1BmX8nBzjbQF9a93vp4QueB10JSm1PhhA8cMA0GCSqG
+SIb3DQEBCwUAA4IBAQAVrTEF0WsWW+zVnrYVOMXi3tLMdBPUqPtPOOEpMWl/YV1H
+utyFM9HUuerq5dfs3ym9KFAMVp7ZFSIw8CknLiaYIZl6AGCae9q0fU8OcXYPbXww
+bLeoncLzqY4HNuSODrhnVp2KU64T1SeMiT7qJ7SyuML4YYLURt2yNYt0dntCdmI4
+x3Q/eg7G/PhvazJ9EpdTHdirsr7bdQwG1WRcqWor04QTshcnvVGRAGtms5bB5RHF
+p+nNZEgo0CnAlX4/5pbnV/7us9b9XVTh0ZQ+GApBKsdV/rtLxEmP6nj/C3+yGI2u
+1miCpZNGBABjbzke7hc30/5vf326L8IHB/Jg9LAt
 -----END CERTIFICATE-----
-subject=/jurisdictionC=US/jurisdictionST=Texas/businessCategory=Private Organization/serialNumber=86800/C=US/postalCode=78288/ST=Texas/L=San Antonio/street=9800 Fredericksburg Rd/O=United Services Automobile Association/OU=USAA Operations Solutions WSAN1/CN=www.usaa.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Texas/serialNumber=86800/C=US/ST=Texas/L=San Antonio/O=United Services Automobile Association/OU=USAA Operations Solutions WSAN2/CN=www.usaa.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3960 bytes and written 434 bytes
+SSL handshake has read 4105 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -69,27 +73,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 1048381E6580CC19E031E03D6801C827F2ACD30AEB88EA154D2EA60A4B45470F
+    Session-ID: 4E523402AE20AFA256EF0C138E96F435D7FC9CB71A843FCD67D5BF8C3779E21C
     Session-ID-ctx: 
-    Master-Key: B76116BA806A654E2279C0C9F87127F38B20D77889792CAA843C694C3DF237167FC1E5AAFEA49205992635E96B0240CF
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 98C24939940FA228844CA18931BE32647EE3E8F401D2CB4FF3A15D324208F2396AC46A64B1BBC700209EDD05C2E73237
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 12 ee da 36 2e ba 90 09-db bb 8e 7f b0 da 5f 21   ...6.........._!
-    0010 - 66 eb d9 c7 85 71 73 cc-99 1b 31 58 f8 3a ef c2   f....qs...1X.:..
-    0020 - 95 90 8e 4c 6c 8b 64 75-d5 c6 a5 2d 1a 93 4d 9c   ...Ll.du...-..M.
-    0030 - ea 74 2d 95 d6 6e af 37-cf 35 c0 80 14 33 04 7c   .t-..n.7.5...3.|
-    0040 - af 19 77 41 73 30 fe b5-d4 40 20 e5 25 bd 7c e7   ..wAs0...@ .%.|.
-    0050 - e0 1f f8 c4 0b e6 23 b3-f7 a1 57 e0 f4 c6 01 a7   ......#...W.....
-    0060 - f8 0e d5 51 60 a2 b4 7c-34 a3 c4 8f 52 34 06 ee   ...Q`..|4...R4..
-    0070 - f5 58 2e cf 66 5f 8e a7-6a 2d 4f b0 35 b7 d9 01   .X..f_..j-O.5...
-    0080 - 27 e6 80 79 5e df b9 bb-ea 61 4a 0d 7e 2f ec 8d   '..y^....aJ.~/..
-    0090 - 74 2a d7 11 2f 32 c2 2a-96 e1 ca 78 da ca ea 84   t*../2.*...x....
+    0000 - 00 00 1b 32 2f 32 6a dc-f0 4c 59 5d 1d 81 bf 37   ...2/2j..LY]...7
+    0010 - 68 fe 3d 41 ad 02 d8 d2-3c d5 92 17 32 68 92 33   h.=A....<...2h.3
+    0020 - 5f b0 1b 6b ba b1 9e 0e-04 56 05 0f df 2e c4 ba   _..k.....V......
+    0030 - ce 38 b3 0b c7 8d 51 83-ab 59 53 0a ee 74 ad 99   .8....Q..YS..t..
+    0040 - d5 e8 7a bb 67 10 2f bd-c2 6e c2 2b a8 6c 48 f1   ..z.g./..n.+.lH.
+    0050 - 5a c1 0a c5 4b 5e 26 7a-d6 b6 f8 08 0b 7a 9f 95   Z...K^&z.....z..
+    0060 - 01 95 27 47 0d c5 b6 41-32 6a 1f e0 1d cc 4e 37   ..'G...A2j....N7
+    0070 - 2c cc 04 34 b3 fe 43 68-72 55 a6 38 76 f8 d8 80   ,..4..ChrU.8v...
+    0080 - 3f 98 a5 3e fe be d3 0a-bd 2d a8 22 75 35 a3 92   ?..>.....-."u5..
+    0090 - 64 f0 89 8b 21 67 3e e6-54 60 9e 7c 28 17 de 7a   d...!g>.T`.|(..z
 
-    Start Time: 1472788389
-    Timeout   : 300 (sec)
+    Start Time: 1577475333
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

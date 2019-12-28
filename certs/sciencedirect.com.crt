@@ -1,71 +1,78 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/CN=*.sciencedirect.com/O=Elsevier/L=Kidlington/ST=Oxford/C=UK
-   i:/C=US/ST=Illinois/L=Chicago/O=Trustwave Holdings, Inc./CN=Trustwave Organization Validation SHA256 CA, Level 1/emailAddress=ca@trustwave.com
- 1 s:/C=US/ST=Illinois/L=Chicago/O=Trustwave Holdings, Inc./CN=Trustwave Organization Validation SHA256 CA, Level 1/emailAddress=ca@trustwave.com
-   i:/C=US/O=SecureTrust Corporation/CN=SecureTrust CA
- 2 s:/C=US/O=SecureTrust Corporation/CN=SecureTrust CA
-   i:/C=US/O=SecureTrust Corporation/CN=SecureTrust CA
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl866934.cloudflaressl.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFQTCCBCmgAwIBAgITBlqNV6x5uS+74e7aSl8bz9QmdDANBgkqhkiG9w0BAQsF
-ADCBtTELMAkGA1UEBhMCVVMxETAPBgNVBAgTCElsbGlub2lzMRAwDgYDVQQHEwdD
-aGljYWdvMSEwHwYDVQQKExhUcnVzdHdhdmUgSG9sZGluZ3MsIEluYy4xPTA7BgNV
-BAMTNFRydXN0d2F2ZSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTSEEyNTYgQ0Es
-IExldmVsIDExHzAdBgkqhkiG9w0BCQEWEGNhQHRydXN0d2F2ZS5jb20wHhcNMTQx
-MTI1MDg0NTMyWhcNMTcwMjI3MTQ0NTMyWjBkMRwwGgYDVQQDDBMqLnNjaWVuY2Vk
-aXJlY3QuY29tMREwDwYDVQQKDAhFbHNldmllcjETMBEGA1UEBwwKS2lkbGluZ3Rv
-bjEPMA0GA1UECAwGT3hmb3JkMQswCQYDVQQGEwJVSzCCASIwDQYJKoZIhvcNAQEB
-BQADggEPADCCAQoCggEBAMqHbzE0DLrzR6eHk3MT7xgQhPCR5DNOiAb5QYtjMUYi
-w+OGWcXDev3MopOQIUpSi9LVA1al65dQ9lZ9JA3ReB1i3HXuUbMKhFIpJjgOQB6/
-k2VPYO9oj/jZnvpXTM3DC6+i5vEyHSCCNKEylxFcQSx+OsotuCT0Kq5VjgMS92Kv
-li38koBQHmglhCXVbmGAWEh32AwQ1OL8yCvZO2u8gGXqZpyb0+y8Vx/vP6aaPsNW
-IA2jA1mwY+d9A3vhJnx55DbC1hZ8VCZHJRUuwn2SGOZsgPJYE4xBBX994lmMrsEK
-3mKidHy6xqAk3xcAolhVBh2YTegAvNlLybGuV7p6x18CAwEAAaOCAZgwggGUMAsG
-A1UdDwQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwHQYDVR0O
-BBYEFKu/omKBu+w6IfwOwQqI6f8H65hEMB8GA1UdIwQYMBaAFMrOHRgDdx4c83xY
-sppwqAiAFvSuMEgGA1UdIARBMD8wPQYPKwYBBAGB7RgDAwMDBAQDMCowKAYIKwYB
-BQUHAgEWHGh0dHBzOi8vc3NsLnRydXN0d2F2ZS5jb20vQ0EwMQYDVR0RBCowKIIT
-Ki5zY2llbmNlZGlyZWN0LmNvbYIRc2NpZW5jZWRpcmVjdC5jb20wNgYDVR0fBC8w
-LTAroCmgJ4YlaHR0cDovL2NybC50cnVzdHdhdmUuY29tL09WQ0EyX0wxLmNybDBx
-BggrBgEFBQcBAQRlMGMwJgYIKwYBBQUHMAGGGmh0dHA6Ly9vY3NwLnRydXN0d2F2
-ZS5jb20vMDkGCCsGAQUFBzAChi1odHRwOi8vc3NsLnRydXN0d2F2ZS5jb20vaXNz
-dWVycy9PVkNBMl9MMS5jcnQwDQYJKoZIhvcNAQELBQADggEBAKqCvK1I8GoZf/J5
-wzAjg14/SIgONtCqM4m0y1tsSrf2dVAC81D/ztZneDefGgRzsc32F51iwo3M2gy1
-CpgJmtLBCai+nWkrOrR3ZU+V5CmcALxdA8OlbzPgnJ/qsCqB1Ni4lmjcXuHYh8dJ
-o41CAB5fO0PXNVL18+Qmdkct1iVAAcg2SqCU6iyPu6gnIjI5+paFTA3cBvttcFpR
-RXIdO+mcgeDnJoFPEEwTTEa9hXOQvSkxLR16pX4uwAhDOwEZx1c/2MVjutXzkaWw
-A8i1fW3FC89KBHaEtYueJSSNA1wxK0kb79qAfAAY9fp8HSzkvFo9Ph5gswy4O8kR
-46eNDT8=
+MIIFBDCCBKqgAwIBAgIQQpsuSLTV3KR4k8yMcoExhDAKBggqhkjOPQQDAjCBkjEL
+MAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UE
+BxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxODA2BgNVBAMT
+L0NPTU9ETyBFQ0MgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQSAy
+MB4XDTE5MTAwODAwMDAwMFoXDTIwMDQxNTIzNTk1OVowbDEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMSEwHwYDVQQLExhQb3NpdGl2ZVNTTCBNdWx0
+aS1Eb21haW4xJDAiBgNVBAMTG3NzbDg2NjkzNC5jbG91ZGZsYXJlc3NsLmNvbTBZ
+MBMGByqGSM49AgEGCCqGSM49AwEHA0IABAG306v8p5ePUoFSJozqpkQQGDn2u9bT
+2zicy5oGcoW32jwwTtpFabsBm/T7KwXVi3twH+OHr92TXJr3xyE0q9+jggMFMIID
+ATAfBgNVHSMEGDAWgBRACWFn8LyDcU/eEggsb9TUK3Y9ljAdBgNVHQ4EFgQUSvB1
+D5FPemoViM43Wchsiyo2d5owDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYB
+BAGyMQECAgcwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQIBMFYGA1UdHwRPME0wS6BJoEeGRWh0dHA6Ly9jcmwuY29tb2RvY2E0
+LmNvbS9DT01PRE9FQ0NEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EyLmNy
+bDCBiAYIKwYBBQUHAQEEfDB6MFEGCCsGAQUFBzAChkVodHRwOi8vY3J0LmNvbW9k
+b2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNB
+Mi5jcnQwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmNvbW9kb2NhNC5jb20wTgYD
+VR0RBEcwRYIbc3NsODY2OTM0LmNsb3VkZmxhcmVzc2wuY29tghMqLnNjaWVuY2Vk
+aXJlY3QuY29tghFzY2llbmNlZGlyZWN0LmNvbTCCAQIGCisGAQQB1nkCBAIEgfME
+gfAA7gB1AAe3XBvlfWj/8bDGHSMVx7rmV3xXlLdq7rxhOhpp06IcAAABbai1RdYA
+AAQDAEYwRAIgRJPi22LRI030UKsetubGJ2bL9DkenKHxYQDz+Kjhq3wCIFcbG4Ol
+rsTZfZwRZFP850ky1+PNjqYHKi5r8oICnuuyAHUAXqdz+d9WwOe1Nkh90EngMnqR
+mgyEoRIShBh1loFxRVgAAAFtqLVGiAAABAMARjBEAiBP9QSR3lkztDZ5lgeouXw7
+bdWMVJiEoHrye0kZhTUPAQIgfSVM2nBwE5VBuR0j/Bo4zKmH+r/AJgTHKVbbfOhM
+6gUwCgYIKoZIzj0EAwIDSAAwRQIgMTRVaWdruPRUg2lKw2X8JVDOHCDK1qJJDwWb
+e7X3pngCIQCfsifzCqKNdfZ6mTebJGRXmOfLzT1+RSXMO4q6bEe35A==
 -----END CERTIFICATE-----
-subject=/CN=*.sciencedirect.com/O=Elsevier/L=Kidlington/ST=Oxford/C=UK
-issuer=/C=US/ST=Illinois/L=Chicago/O=Trustwave Holdings, Inc./CN=Trustwave Organization Validation SHA256 CA, Level 1/emailAddress=ca@trustwave.com
+subject=/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl866934.cloudflaressl.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA1
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4105 bytes and written 434 bytes
+SSL handshake has read 3647 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
-Server public key is 2048 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
+Server public key is 256 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 19C789A998BB9B6D77965CF0AB52CFBBCAB401DD82027B34E449F7CE91F0FC91
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: CA3A1639D7DF98C0E1126754D3E817AAD7DD63F5AEF6657DAB537B794738BDF2
     Session-ID-ctx: 
-    Master-Key: 672FF3C2EEFE98D8A5DF1A62554DD8C293DAC84217FF8EC96DF4E3FD2E10E7B2BE66AE1E61C0D6056EEF3472F492FF79
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788567
-    Timeout   : 300 (sec)
+    Master-Key: 64D1C380E3BAE8337FCBACD34FED3C5C7DB5E6C63B24B81A599BC2FC61750FBD512F9B6FCD5A2997C51BB0B1838AF3DC
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 35 7d e3 3b 61 c1 ba 91-9d 1b af c8 e3 29 99 51   5}.;a........).Q
+    0010 - 14 17 b8 c2 a5 aa 8b ea-bf c4 88 5f 3b b1 88 f2   ..........._;...
+    0020 - e4 44 69 76 dc f5 e2 25-e7 68 c5 d9 e9 a7 d7 e2   .Div...%.h......
+    0030 - 87 ff 28 35 91 6d cb 56-79 d8 a2 3d 88 83 78 01   ..(5.m.Vy..=..x.
+    0040 - 01 4c dc 54 4c 94 e4 03-1d 70 19 52 b6 88 b9 f0   .L.TL....p.R....
+    0050 - 7d a1 3c 6e 8d 97 ed 22-4d c0 3e 2e 4d 47 ca cb   }.<n..."M.>.MG..
+    0060 - ee c7 87 b1 36 e5 66 d5-e3 d2 6d 10 10 c7 ec 21   ....6.f...m....!
+    0070 - cc 43 69 46 21 9e c2 05-1f fa 91 ba 12 de 02 ec   .CiF!...........
+    0080 - 6d 42 2d e8 00 01 89 b4-b1 44 c7 89 30 99 d8 cf   mB-......D..0...
+    0090 - ac e2 62 2e 2c 4b 5a 53-1a ae 8a fb f0 7f 10 1d   ..b.,KZS........
+    00a0 - 8c 7a 7c fd c5 1e b9 5e-14 5b 09 a6 71 21 fc 10   .z|....^.[..q!..
+
+    Start Time: 1577474963
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

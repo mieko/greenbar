@@ -1,4 +1,4 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
  0 s:/OU=Domain Control Validated/CN=*.crunchyroll.com
@@ -10,45 +10,44 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFLDCCBBSgAwIBAgIHJ8rWsb9OQzANBgkqhkiG9w0BAQsFADCBtDELMAkGA1UE
-BhMCVVMxEDAOBgNVBAgTB0FyaXpvbmExEzARBgNVBAcTClNjb3R0c2RhbGUxGjAY
-BgNVBAoTEUdvRGFkZHkuY29tLCBJbmMuMS0wKwYDVQQLEyRodHRwOi8vY2VydHMu
-Z29kYWRkeS5jb20vcmVwb3NpdG9yeS8xMzAxBgNVBAMTKkdvIERhZGR5IFNlY3Vy
-ZSBDZXJ0aWZpY2F0ZSBBdXRob3JpdHkgLSBHMjAeFw0xNDA1MTQwMTEyMDNaFw0x
-ODA0MTUwNjI0MzFaMD8xITAfBgNVBAsTGERvbWFpbiBDb250cm9sIFZhbGlkYXRl
-ZDEaMBgGA1UEAwwRKi5jcnVuY2h5cm9sbC5jb20wggEiMA0GCSqGSIb3DQEBAQUA
-A4IBDwAwggEKAoIBAQCw7nP4T6PWg1fNAl7lSGpnlMnSWR6TMqBC7Yv/PsTh4qHy
-+lToyHDaubznKbwi1xE7Hi7L0sIlvB+EXwiYq+IreP6lZluWw4MpVAzcbmkT/AuL
-0xH+wwB1A0QzBBxcM+RoJNhxqbokYaklBVDFrZdqW6V2LdYLg1UqmQ9+aJlNBpCm
-+/H08MZ2aKXvSThytujEHi8NdxBtMHriAN8Ldow8osnMVvvZCT3TKm7soZwK3I14
-W1x/EebZ11LAJhmqN85rgKWzqn94qdeXjauElCdnvEMjdPxhG8aai4CLNNo0tt7Z
-yBfLHXgH7hHPw46n9FOfE8AjbsnVCRJMCyAOVguFAgMBAAGjggG1MIIBsTAMBgNV
-HRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8B
-Af8EBAMCBaAwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2NybC5nb2RhZGR5LmNv
-bS9nZGlnMnMxLTYxLmNybDBTBgNVHSAETDBKMEgGC2CGSAGG/W0BBxcBMDkwNwYI
-KwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRkeS5jb20vcmVwb3Np
-dG9yeS8wdgYIKwYBBQUHAQEEajBoMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5n
-b2RhZGR5LmNvbS8wQAYIKwYBBQUHMAKGNGh0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29k
-YWRkeS5jb20vcmVwb3NpdG9yeS9nZGlnMi5jcnQwHwYDVR0jBBgwFoAUQMK9J47M
-NIMwojPX+2yz8LQsgM4wLQYDVR0RBCYwJIIRKi5jcnVuY2h5cm9sbC5jb22CD2Ny
-dW5jaHlyb2xsLmNvbTAdBgNVHQ4EFgQUDDypKRn0Mci0uLC/0/rmkfUoh+UwDQYJ
-KoZIhvcNAQELBQADggEBAEKkhf6Sz/Iuag7Njq+y2Y7m6nBHzxSs5ek+bj3OScWd
-LooTwo8voMSfOtvEZXtOD6xiU2EpFapAl/y6c5YfFydei46JSotv6sx7e7LET7NW
-6AJrsl/YPg5SpcRbYn1/KJ2fxq6xiVws/i210LwuT9OFz5wFoKfglG37yn2ZG8dX
-k64AG1w3AyTeyYX/bqN4f58OrBiALsbmMadZsJVVE2Ay4S5gQSRsHfBJnqpDhadp
-FvoAh0UEUrua9Z5yRu2dVCsKtP/QYnBvdnLRpm+qkYmZLAST/+gVcN6DGvmltOcg
-vn6xkCRQ4czP+Rp3NO1j4NLdQGxiZGLSWhQF7LWLsFU=
+MIIFODCCBCCgAwIBAgIIH39yxC2P5nUwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMTgwMzE0MTkzNTAxWhcN
+MjAwNDE1MDYyNDMxWjA/MSEwHwYDVQQLExhEb21haW4gQ29udHJvbCBWYWxpZGF0
+ZWQxGjAYBgNVBAMMESouY3J1bmNoeXJvbGwuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAsO5z+E+j1oNXzQJe5UhqZ5TJ0lkekzKgQu2L/z7E4eKh
+8vpU6Mhw2rm85ym8ItcROx4uy9LCJbwfhF8ImKviK3j+pWZblsODKVQM3G5pE/wL
+i9MR/sMAdQNEMwQcXDPkaCTYcam6JGGpJQVQxa2Xaluldi3WC4NVKpkPfmiZTQaQ
+pvvx9PDGdmil70k4crboxB4vDXcQbTB64gDfC3aMPKLJzFb72Qk90ypu7KGcCtyN
+eFtcfxHm2ddSwCYZqjfOa4Cls6p/eKnXl42rhJQnZ7xDI3T8YRvGmouAizTaNLbe
+2cgXyx14B+4Rz8OOp/RTnxPAI27J1QkSTAsgDlYLhQIDAQABo4IBwDCCAbwwDAYD
+VR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDgYDVR0P
+AQH/BAQDAgWgMDcGA1UdHwQwMC4wLKAqoCiGJmh0dHA6Ly9jcmwuZ29kYWRkeS5j
+b20vZ2RpZzJzMS04MTUuY3JsMF0GA1UdIARWMFQwSAYLYIZIAYb9bQEHFwEwOTA3
+BggrBgEFBQcCARYraHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBv
+c2l0b3J5LzAIBgZngQwBAgEwdgYIKwYBBQUHAQEEajBoMCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC5nb2RhZGR5LmNvbS8wQAYIKwYBBQUHMAKGNGh0dHA6Ly9jZXJ0
+aWZpY2F0ZXMuZ29kYWRkeS5jb20vcmVwb3NpdG9yeS9nZGlnMi5jcnQwHwYDVR0j
+BBgwFoAUQMK9J47MNIMwojPX+2yz8LQsgM4wLQYDVR0RBCYwJIIRKi5jcnVuY2h5
+cm9sbC5jb22CD2NydW5jaHlyb2xsLmNvbTAdBgNVHQ4EFgQUDDypKRn0Mci0uLC/
+0/rmkfUoh+UwDQYJKoZIhvcNAQELBQADggEBAC61Jgpmf9yv4JZcsZ9r/grwQ/nF
+65HSzrxjLvitsUXT9ig0+5Si5epVLCx7LDGRyc5CfW2NS9uVeivlv4gysoqVxWdS
+fRipdEbMzvCrch4RJO0B1kHO/tRjy7NIrG6TRTQZWZ9TJiAemTCdTrPstHfcfp45
+kxOQNaqJBnvZ9WhsB+Eg7jqHTndseNMU3l7skO9B0PzrLeYYk9kZvz61dCXAdJR7
+U8yL4Osmx7ZlnFW3E/zWpiLxoGbsDmuwgC2XYjJ8BaHqh29z+x3BVhqpupsjJqV4
+Av/OCFfzrVC0pxnCNMf6YwLwKcEB/dOJimMi2GHWXM7HtykTIOjb5AY3huM=
 -----END CERTIFICATE-----
 subject=/OU=Domain Control Validated/CN=*.crunchyroll.com
 issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4393 bytes and written 434 bytes
+SSL handshake has read 4362 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -56,29 +55,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 0B5EBECCB45A4B921679081FE1040209689AD699054BB606C42A2495F9F1F706
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 115B8959D1E68BD9E20B44E5BCE1A4A5C5646433BD3B436600BC2CA33B117D38
     Session-ID-ctx: 
-    Master-Key: 33B2FFEFFB0FEE629AD239371DE84F221F9B165A9AB8DFE017D027792F698C7E1AC7A52A119B0CE81D14A9219186125B
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 40D6DDA22B102A20C0ED760A2410642687999B65AD2C97AFEA294EC3A634CA979E469B35958FD30D6E533485B1F81349
     TLS session ticket lifetime hint: 64800 (seconds)
     TLS session ticket:
-    0000 - 67 3e 33 d7 cc 57 79 4c-b2 85 a3 1c c8 1b 69 31   g>3..WyL......i1
-    0010 - 9e a4 bc c6 f7 a5 f7 83-9f f2 20 07 c5 ab 27 f0   .......... ...'.
-    0020 - 18 be be ac 01 f7 8b ce-74 79 ab a7 6c af 7f 61   ........ty..l..a
-    0030 - 35 a6 87 c4 40 3e 50 e8-a1 36 8b 0c 6e 69 13 ad   5...@>P..6..ni..
-    0040 - 6e 40 b0 8a ed 73 d4 33-0e cd 1f 66 2b 72 21 75   n@...s.3...f+r!u
-    0050 - 31 f1 b2 ea 23 f2 9a 67-8e 9a fa 28 2a 9b 96 2d   1...#..g...(*..-
-    0060 - b0 fb de dd 93 5f 50 af-16 ff fe 4b 6f f5 00 a1   ....._P....Ko...
-    0070 - 85 8e ac aa 83 6a a6 44-a5 29 46 03 05 53 5a 68   .....j.D.)F..SZh
-    0080 - 28 28 ca c3 4a 1b f5 1a-e2 b3 2a 0c fb 26 54 bf   ((..J.....*..&T.
-    0090 - 29 f8 26 7a 89 6a 18 f6-b4 18 8a 2e 6e a3 1f 7c   ).&z.j......n..|
-    00a0 - 11 ce e3 da e9 14 73 73-ad 1e 01 4b 31 a9 2b 44   ......ss...K1.+D
+    0000 - 83 6e 63 1d 7d 95 1c 0e-08 cb ad 33 31 20 7e 0c   .nc.}......31 ~.
+    0010 - 07 ef 62 3b 36 75 94 6c-52 66 81 f6 24 8b 6b 3f   ..b;6u.lRf..$.k?
+    0020 - ca 86 ce af 1e 64 61 09-3f 7f ab 8c 8e c5 9a 1c   .....da.?.......
+    0030 - 92 0c 21 d8 0e 67 2b 04-0e 57 9f d4 6b 14 36 0d   ..!..g+..W..k.6.
+    0040 - ad 89 f5 50 db 25 fd cd-c8 c9 96 02 bb 61 67 72   ...P.%.......agr
+    0050 - d6 fe d1 e3 8f 95 35 bd-a1 f9 7b 0d 6e 29 58 36   ......5...{.n)X6
+    0060 - af 8f c8 ae 23 ad b1 6b-1f 70 06 27 14 c0 1a 62   ....#..k.p.'...b
+    0070 - 62 9c 94 db fe 5c 7a 49-b8 dc ab fc 84 7f 41 c7   b....\zI......A.
+    0080 - ae d2 96 ed 49 0c e7 42-44 5b c6 17 9f eb 3f 36   ....I..BD[....?6
+    0090 - 43 ba 9c 33 b3 a9 1a 6a-77 2d 98 2b 71 bc c6 37   C..3...jw-.+q..7
+    00a0 - c3 b7 02 47 0d 6f 14 8b-f4 15 26 60 2f 91 e3 b6   ...G.o....&`/...
 
-    Start Time: 1472789867
-    Timeout   : 300 (sec)
+    Start Time: 1577475208
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

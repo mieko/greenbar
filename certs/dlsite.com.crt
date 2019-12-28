@@ -1,48 +1,58 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/CN=www.doujin.com
-   i:/C=BE/O=GlobalSign nv-sa/CN=AlphaSSL CA - SHA256 - G2
- 1 s:/C=BE/O=GlobalSign nv-sa/CN=AlphaSSL CA - SHA256 - G2
-   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+ 0 s:/CN=njym.jp
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE0jCCA7qgAwIBAgISESH7bSiVWfb/LaDK3DLrFIx5MA0GCSqGSIb3DQEBCwUA
-MEwxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSIwIAYD
-VQQDExlBbHBoYVNTTCBDQSAtIFNIQTI1NiAtIEcyMB4XDTE1MDQyMjA4MjYzNVoX
-DTE2MDgxNDA2MjI0M1owPDEhMB8GA1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRh
-dGVkMRcwFQYDVQQDEw53d3cuZG91amluLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
-ggEPADCCAQoCggEBAKNiHZyu6BSq+o3otIOgcdJViQzIYlXZ+eYaOmMSZ5lwC+SI
-gZucYqC7/Hw5P2EcFfS/QNyt6C3QfWC4YUvvyiXlPK0X1kAxvVmy/ousbIIPgZVw
-iU2KKEJ8XxEob9mSTKgUPhbeIKNgL+K1gouN4jKWs72ui26c+uHD5/tdXospz3yS
-ITmjQk2pgNOB9GdH7YCyZYgN4aC5eUVWhoKZ60i6HmhXbTRA/7n2Mf6J2/mTj22S
-+isu20Him4cPeTq5IpDcNN44kGzj+BnHrw3IAYAwFnK0prQkPM9xDtRh5pVMooyq
-2OePf972K0Iq/MR74222f0Z8ys4aa6u6IeIX85MCAwEAAaOCAbwwggG4MA4GA1Ud
-DwEB/wQEAwIFoDBJBgNVHSAEQjBAMD4GBmeBDAECATA0MDIGCCsGAQUFBwIBFiZo
-dHRwczovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAlBgNVHREEHjAc
-gg53d3cuZG91amluLmNvbYIKZG91amluLmNvbTAJBgNVHRMEAjAAMB0GA1UdJQQW
-MBQGCCsGAQUFBwMBBggrBgEFBQcDAjA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8v
-Y3JsMi5hbHBoYXNzbC5jb20vZ3MvZ3NhbHBoYXNoYTJnMi5jcmwwgYkGCCsGAQUF
-BwEBBH0wezBCBggrBgEFBQcwAoY2aHR0cDovL3NlY3VyZTIuYWxwaGFzc2wuY29t
-L2NhY2VydC9nc2FscGhhc2hhMmcycjEuY3J0MDUGCCsGAQUFBzABhilodHRwOi8v
-b2NzcDIuZ2xvYmFsc2lnbi5jb20vZ3NhbHBoYXNoYTJnMjAdBgNVHQ4EFgQUkcB7
-fECmJcLlVCKvhbopid5aIJkwHwYDVR0jBBgwFoAU9c3VPAhQ+WpPOreX2laD5mnS
-aPcwDQYJKoZIhvcNAQELBQADggEBAIxYyvCkyw+43XUbRnsOblgBdYqMgHfsm6Lj
-6lPzp1bqblLpWqiLbJoiSjjRKCbXsZ4ibhXEDwagzIeMR7By95ai+D2HFGHY/fks
-6pR4J2bM2kY0q3rKolnAvOr/yAMvYl4t4gOAcWIWHHLKxcaAwhjQUvTNeFPTAZKB
-rqZTpb27v3b7EVlGzRpwa/8o3ckKtZKOIYG8QrGzanJOBAPg9cpDc6+AkNRHQWtc
-vOjzyR+Ybj4lkdILCjd063nZbm6lU5C7E1UMwvuwFqhd7Tbn3I/HgR6pkstMtm0k
-kNHVPzf+3DAeexfqfk+V6jrJYN2A6VY6e8ik/crYLHSUtPo1ew8=
+MIIGIzCCBQugAwIBAgIQCCIhVl7a/7Ri3Y4J2mm+fTANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTEwMTcwMDAwMDBaFw0yMDExMTcx
+MjAwMDBaMBIxEDAOBgNVBAMTB25qeW0uanAwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDYrZ524UBIBAihjxj8gI6/K5/9AV2Isl6T1cl3DOfkEHMTlp4m
+Le0YP2QCoUN8LnQH084Y5W/Kz/tMig+1y9gSfjQjUOu3Goe+2gaiTvvKg6tY9b4Z
+rGDguwpzwkpM8xt6wo6wMYZWixsUHz7OTXgnwJDcpxOjG30SL2i68xEiZTwe/DOy
+J+ZZqW9nrGeKqIy51Yhb0UahqsSKDKFe1SMO77/jT07n7TrT/ri3sY2VlwyVNQLU
+xZkGfuf+SFiKnlNo4QGMOjHG4W+TU5pVeoAkWvw3k+UbiN3ef0tkj0EzPNjSYYo1
+IY2zeXxRREFSA7aHKmBMZzEjYZORWbAZZBTvAgMBAAGjggM/MIIDOzAfBgNVHSME
+GDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUOrWd7uzHqLMwYkZn
+bL23vqIJFT4wgd0GA1UdEQSB1TCB0oIHbmp5bS5qcIIJKi5uanltLmpwgglkbHNp
+dGUuanCCCyouZGxzaXRlLmpwgg8qLnN0Zy5kbHNpdGUuanCCESouc3RnLm5paml5
+b21lLmpwghIqLnN0Zy5uaWppeW9tZS5jb22CDSoubmlqaXlvbWUuanCCDioubmlq
+aXlvbWUuY29tggtuaWppeW9tZS5qcIIMbmlqaXlvbWUuY29tggwqLmRsc2l0ZS5j
+b22CCmRsc2l0ZS5jb22CCmRvdWppbi5jb22CDCouZG91amluLmNvbTAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0
+MDIwMKAuoCyGKmh0dHA6Ly9jcmwuc2NhMWIuYW1hem9udHJ1c3QuY29tL3NjYTFi
+LmNybDAgBgNVHSAEGTAXMAsGCWCGSAGG/WwBAjAIBgZngQwBAgEwdQYIKwYBBQUH
+AQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5zY2ExYi5hbWF6b250cnVz
+dC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQuc2NhMWIuYW1hem9udHJ1c3Qu
+Y29tL3NjYTFiLmNydDAMBgNVHRMBAf8EAjAAMIIBBAYKKwYBBAHWeQIEAgSB9QSB
+8gDwAHUApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFt1xu2RAAA
+BAMARjBEAiAiOo0g4J5Nqm0wvtkPh5t1PJ5Tq+2s/qJw/oRuN13sMgIgZQGAqknq
+mFowsHclsIKWPNvvrE1+KbHIYpcXJNae4VQAdwCHdb/nWXz4jEOZX73zbv9WjUdW
+Nv9KtWDBtOr/XqCDDwAAAW3XG7cnAAAEAwBIMEYCIQDX85Hbzg68ARQRXODx7TGk
+J6AMOdidzKL+tl67/TIxPQIhAN5bC0UtQuuMESHMDaVOPFT4dybMGvKpdx5PHiRC
+nOpeMA0GCSqGSIb3DQEBCwUAA4IBAQAghLcpa7kkedmhO7znVMZVGW394OHRJVZA
+V4TNVMXr5t4R5r1kcJB3970LRaBUfNC61Q/53AxPdTfi9apJQd8e9mxzCt7lTVih
+wqKpuTr52aW34CMqIgrJvQoEEsRekpzttBxZmyzpXqtbqYIBmxG0lq0Qze+zxCfW
+XOOWaFllg1FGbCyiV6oceoXoJqbyuFIWM4SnbKUUKbQEndu+B0k1LHtyMwuznxJ1
+/0O0i2JtK9qh2q7NmIwvPJmLCSZmcWhL1raBdUa2ilkPLPAtDAG2fyGl6Pqs8M8b
+ZnZmfq0VdXF5FOx5kG8P1NxqyCMEkbFG6/L0QfKreg4jDubQoPkk
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/CN=www.doujin.com
-issuer=/C=BE/O=GlobalSign nv-sa/CN=AlphaSSL CA - SHA256 - G2
+subject=/CN=njym.jp
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3000 bytes and written 434 bytes
+SSL handshake has read 5511 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -53,27 +63,10 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 274166D6307A1C27A7A5DCAB49A00A2DC5D72D04161CF0E9939DC058F5F6AE4C
+    Session-ID: 39FB8D97F2787E50AC8773B6A61B4112009D8E79010FED418D92C5D8150E4CE6
     Session-ID-ctx: 
-    Master-Key: 82E42E1EB82F51C961DD54E41E80CDEE6B4F2A1F49C18A9E87568B2D7AB63710889426DE3BF06210D72246B4FF2A1591
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
-    TLS session ticket:
-    0000 - f9 ca b6 a2 c8 a3 20 5c-cd 40 5a ff 00 b2 7c af   ...... \.@Z...|.
-    0010 - 06 62 e3 ba 02 47 28 0e-c3 13 e6 6c 44 24 1d 30   .b...G(....lD$.0
-    0020 - e9 61 9f 3c c4 8f 9e 0f-e8 1f 7e 43 60 78 18 22   .a.<......~C`x."
-    0030 - 6f 2a ff 0c bb 4d 2a db-ff 45 6d e1 f6 be 10 84   o*...M*..Em.....
-    0040 - 3e 26 6e 39 c7 6f 86 e3-89 ea 02 a5 84 20 25 cf   >&n9.o....... %.
-    0050 - e0 12 bf 34 13 d7 c2 3d-d5 a8 5d 01 82 44 45 86   ...4...=..]..DE.
-    0060 - a5 fd f8 ad 9e a3 1b 34-0f 8f ed 0f f2 9f 76 eb   .......4......v.
-    0070 - 46 74 30 a4 47 ad 9a 4e-ce b5 7f 09 ce 3d a2 e2   Ft0.G..N.....=..
-    0080 - d3 a0 84 a3 c2 f4 41 e6-92 3e d1 b7 61 b8 85 e0   ......A..>..a...
-    0090 - 66 8b fd e4 84 54 c5 be-f9 79 26 39 e6 83 e9 93   f....T...y&9....
-
-    Start Time: 1472789537
-    Timeout   : 300 (sec)
-    Verify return code: 10 (certificate has expired)
+    Master-Key: 6E98DD0BE6B59CBB4BC893B031085D3B55353D5621DA6044A27B2D97D56F47A91277E1C1DF8ED7C5D4CD348CD426D2A2
+    Start Time: 1577475901
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

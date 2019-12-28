@@ -1,52 +1,57 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=Redwood Shores/O=Oracle Corporation/CN=*.taleo.net
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=Terms of use at https://www.verisign.com/rpa (c)10/CN=VeriSign Class 3 Secure Server CA - G3
- 1 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=Terms of use at https://www.verisign.com/rpa (c)10/CN=VeriSign Class 3 Secure Server CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 0 s:/C=US/ST=California/L=Redwood City/O=Oracle Corporation/OU=Oracle TSO US/CN=*.taleo.net
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFGzCCBAOgAwIBAgIQLCs+4JkCCr1AK6LPzFo/NDANBgkqhkiG9w0BAQUFADCB
-tTELMAkGA1UEBhMCVVMxFzAVBgNVBAoTDlZlcmlTaWduLCBJbmMuMR8wHQYDVQQL
-ExZWZXJpU2lnbiBUcnVzdCBOZXR3b3JrMTswOQYDVQQLEzJUZXJtcyBvZiB1c2Ug
-YXQgaHR0cHM6Ly93d3cudmVyaXNpZ24uY29tL3JwYSAoYykxMDEvMC0GA1UEAxMm
-VmVyaVNpZ24gQ2xhc3MgMyBTZWN1cmUgU2VydmVyIENBIC0gRzMwHhcNMTUxMDEz
-MDAwMDAwWhcNMTYxMjExMjM1OTU5WjBuMQswCQYDVQQGEwJVUzETMBEGA1UECBMK
-Q2FsaWZvcm5pYTEXMBUGA1UEBxQOUmVkd29vZCBTaG9yZXMxGzAZBgNVBAoUEk9y
-YWNsZSBDb3Jwb3JhdGlvbjEUMBIGA1UEAxQLKi50YWxlby5uZXQwggEiMA0GCSqG
-SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCiWhVtOrBD9I/ZAFOI07RweET+PPe9rUZK
-YwVADJxJuTksDAoCxDkzOVDvmigFHhZzR+EpV/FsqUKbg+a/31edynRknSyW76gI
-yC8jdYq5vFCxVbT2tBmBL2wfyD7b8dt/J3doAOsrCJ2l9KnJzOs/DvkcydqbZzrN
-kgzlEI9uHp7h34t7/b6LOBZn++SzDklfkQrq31Co6rElXKcmjtv3oCkRUiGvKkhs
-l3yEC105qyDqv3hUHM6761A3TKcZo1pd050wPaolV3J+WKAt0fqeIMVk4jtRju8C
-YImxhaeoNdLpj+pjqIyU0qLO1LHQty/7Uw6LnN4uXwAuMe7g0+RHAgMBAAGjggFr
-MIIBZzAhBgNVHREEGjAYggsqLnRhbGVvLm5ldIIJdGFsZW8ubmV0MAkGA1UdEwQC
-MAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9zZC5z
-eW1jYi5jb20vc2QuY3JsMGEGA1UdIARaMFgwVgYGZ4EMAQICMEwwIwYIKwYBBQUH
-AgEWF2h0dHBzOi8vZC5zeW1jYi5jb20vY3BzMCUGCCsGAQUFBwICMBkMF2h0dHBz
-Oi8vZC5zeW1jYi5jb20vcnBhMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
-AjAfBgNVHSMEGDAWgBQNRFwWU0TBgn4dIKsl9AFj2L55pTBXBggrBgEFBQcBAQRL
-MEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9zZC5zeW1jZC5jb20wJgYIKwYBBQUHMAKG
-Gmh0dHA6Ly9zZC5zeW1jYi5jb20vc2QuY3J0MA0GCSqGSIb3DQEBBQUAA4IBAQBK
-4aK1mTcjIec9LMYzBj3eQgTgj/UMsy5OYwJTqJk4yTaKO5SxIXawM4IuOkL/z7Ej
-Fb/wm/rtvKDQ0IRVJtWWf356cO4/RO3sJkYxFbVKoEUKn04PpgKf2NHWwzIpcO31
-+aX/NEd+Ae/aTiTFBCxWzxQLzPHLfnLLxLFJo0dPLghmqEaL2k+OUBOALB55Lwo/
-XCxzg4Ab81zmQdynHXVTpHFji+xCLtx+RRRKoBj5IXoQS0iMaxV8i1/ILs3X4Z7M
-MYn/Pl+CtjrNEC48UkDDR3xsYGqfcFTOx369f4z/HZM+qP2cQt+3EvbfzX5tohCc
-5Q1YZt24S1EW74+C72kh
+MIIGQTCCBSmgAwIBAgIQDHL1mEpQxgfvuJbUidIpUjANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkwMTE0MDAwMDAwWhcN
+MjAwMzE0MTIwMDAwWjCBhDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3Ju
+aWExFTATBgNVBAcTDFJlZHdvb2QgQ2l0eTEbMBkGA1UEChMST3JhY2xlIENvcnBv
+cmF0aW9uMRYwFAYDVQQLEw1PcmFjbGUgVFNPIFVTMRQwEgYDVQQDDAsqLnRhbGVv
+Lm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANkU95MR8k9FIJ4p
+Iiqw6z6TtmcXHJ1vKCifCu7kLzPXa9rZ1Ok8GgbIMhy31IfDF2KCZo1X10hibO4H
+7eRdj7AapjFUJK2kidBZAsnzjpk9bNvSBa7jRmJ02pze1BQ4EDPxmC1hNiHNrxTX
+X9D4La9Do+UVCqykUg/u96yujoVdkk4KR10IxijMUs6XAcFtLHfZOvPYambYl1BM
+1A1aBaPSd5eaaK1bsSRvSbP/5zbYisOTqJLb/B2qCFdoPpYybsgumGR1ZcgiQ+rW
+YV7Xk+1C/gbAl0QbZIhuJpYWEZ6sFrCfR3y6AQDFBTswCUGfSu2GV+QJVvI/7AS7
+3EMikkUCAwEAAaOCAuMwggLfMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzh
+xtniMB0GA1UdDgQWBBRGJPf2qy3vP28OGcWPzO1tDfxfnTAhBgNVHREEGjAYggsq
+LnRhbGVvLm5ldIIJdGFsZW8ubmV0MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0cDovL2Ny
+bDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nNi5jcmwwL6AtoCuGKWh0dHA6Ly9j
+cmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3JsMEwGA1UdIARFMEMwNwYJ
+YIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNv
+bS9DUFMwCAYGZ4EMAQICMHwGCCsGAQUFBwEBBHAwbjAkBggrBgEFBQcwAYYYaHR0
+cDovL29jc3AuZGlnaWNlcnQuY29tMEYGCCsGAQUFBzAChjpodHRwOi8vY2FjZXJ0
+cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyU2VjdXJlU2VydmVyQ0EuY3J0MAkG
+A1UdEwQCMAAwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwCyHgXMi6LNiiBOh2b5
+K7mKJSBna9r6cOeySVMt74uQXgAAAWhNWU4iAAAEAwBIMEYCIQCcw2mf2Y3oKS1h
+6QhpRuj3OyYgTUAMqxyXlaOX9DeYXgIhAJCA96R5xr7YEyTt9boLHklSpJLEiZBP
+9UY8EfDZD1VIAHYAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFo
+TVlO5AAABAMARzBFAiASAmh3n+YoY0dSf+rVrAU3EDbapvAdtEj+ignXe5p7SgIh
+APJBWoJQk+HsA6qtm7iHkAlVxzeQU5MI0ybEN/jX73GUMA0GCSqGSIb3DQEBCwUA
+A4IBAQAe2gixzzvdOnXldoz4k5KaIxR+fxBHOJRXVdm5zpJ/JnEKVp5JOPBEGYDO
+g4nr0SkV4CUNNSt+UgDJ2XaSk23xVQo23R3LlTrqqZbYEKueAj2kBzVx+SHYBFr8
+8OfN5e1WLWuilmKhBg7hUgvNDHsDhUiKUfLFLrw0gIwfGrtexeDTwC3YYS+ulDzs
+gVlKHEe4hlud9faufwU2RvtFtivK5K5dxjh/PBMVxjX/2fwc6xro2Mc/ydrWVkLG
+PAvwovNbL7rbdjoaPZGMQkmxQWj3aa5+HA4eqwYmDuLQi6qlLbiJ49riadiM4MuM
+umDNORLVaqgLSgvHzAWDo5OmYvKT
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=Redwood Shores/O=Oracle Corporation/CN=*.taleo.net
-issuer=/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=Terms of use at https://www.verisign.com/rpa (c)10/CN=VeriSign Class 3 Secure Server CA - G3
+subject=/C=US/ST=California/L=Redwood City/O=Oracle Corporation/OU=Oracle TSO US/CN=*.taleo.net
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA1
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4586 bytes and written 434 bytes
+SSL handshake has read 4239 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -57,14 +62,10 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 0DCC775BE0FE00152DAC621FE66C5FBF11D6952720431B926108E637CE9CCA70
+    Session-ID: 264C4906BBD0FD2B8F947CD3A099243871165FD83518C78CB24F46C172297443
     Session-ID-ctx: 
-    Master-Key: CC932B1B6FE442C3C602712EADB2BC1478DE4FA469CD27C01B6538B0D856A4F627155FE19EAF51C340C72424D4ADD95E
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788301
-    Timeout   : 300 (sec)
+    Master-Key: 9A7953B192A20176479F1A44AC367B115A53DA0A0AD23D9F96E9D597DE232FA5255F1169F6443443D0A0C5036CAE6F61
+    Start Time: 1577475292
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

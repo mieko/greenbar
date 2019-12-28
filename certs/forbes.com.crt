@@ -1,49 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=New York/L=New York/O=Forbes Media LLC/CN=*.forbes.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=c.sni.fastly.net
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE4zCCA8ugAwIBAgIQDlOYIQBhavn6qVl5Rq6cbDANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTQxMTI0MDAwMDAwWhcNMTcwMTIyMjM1
-OTU5WjBlMQswCQYDVQQGEwJVUzERMA8GA1UECBMITmV3IFlvcmsxETAPBgNVBAcU
-CE5ldyBZb3JrMRkwFwYDVQQKFBBGb3JiZXMgTWVkaWEgTExDMRUwEwYDVQQDFAwq
-LmZvcmJlcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDTdQrC
-E0xr4pfem96UyeB8+ak/3/J3xOlX657AiPAhPFkc2v77J+nke98JXQAfzKeKPGhW
-Sg6DknvdZagy5Lt2zYZVG1aQOnVk8jXZUPJoqoAuItT3tOXYiBVlcbHS+WDElDH8
-LgrKIha79hs2FsyMZFtNg5C2+OeOAJlAPgtlWbwnEz6zFNnBoJVXP87N7xz4v7S4
-cbsE6TJKsxeOIWZvQ54WRGS8TmuzxWVViLU7PxGtSsA2SxjrfOh7zfmmgKEHomuF
-00PnJyRKXqiMqjmPq2pA6eNHDqPcY6NUqpLC+AaX3CXUXPG7+MhGgrauG4DvcTGi
-23N715E73DHCVYB1AgMBAAGjggGuMIIBqjAjBgNVHREEHDAaggwqLmZvcmJlcy5j
-b22CCmZvcmJlcy5jb20wCQYDVR0TBAIwADAOBgNVHQ8BAf8EBAMCBaAwKwYDVR0f
-BCQwIjAgoB6gHIYaaHR0cDovL2duLnN5bWNiLmNvbS9nbi5jcmwwgaEGA1UdIASB
-mTCBljCBkwYKYIZIAYb4RQEHNjCBhDA/BggrBgEFBQcCARYzaHR0cHM6Ly93d3cu
-Z2VvdHJ1c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUF
-BwICMDUMM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3Np
-dG9yeS9sZWdhbDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0j
-BBgwFoAU0m/3lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsG
-AQUFBzABhhNodHRwOi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8v
-Z24uc3ltY2IuY29tL2duLmNydDANBgkqhkiG9w0BAQsFAAOCAQEAMD8LNLvT84bN
-ienfCEqglBOJdIZ2QTXLXLFU2kOPmGcH/lHNLX0wtZo3zlAUVQPntuoX6XRUDbFH
-AQSeTvjsEE4KO5KiWJE8y7E6Bs3qro/p2Si5Uxcg4vcDremKj3q2B+jkRjM52Dfo
-GY4gR8oT6Ua4jYbnOH4jipjukcIlcywNb2P1dhMQPESnmqUlAtMptFhnFh3d+64E
-hYLmsxIxKuIPuRDIaNSLPl8FtKkdyMyiTcSK1Mpb5ObxI86fdLSQdNVwm2PmNgCC
-zYeoG1+UaFAJtgo2aLnlgcHf7PP+AOBw2m9vxp/IbpD0y4JLpXHTD2pnkEjsYMJX
-dbInhVALkQ==
+MIIGvTCCBaWgAwIBAgIMGuhp/5zh7zXcDMQWMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
+bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTkwMTI1MDU0MTA4WhcNMjEwMzEwMjI0MTA0WjBsMQswCQYDVQQGEwJV
+UzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEV
+MBMGA1UEChMMRmFzdGx5LCBJbmMuMRkwFwYDVQQDExBjLnNuaS5mYXN0bHkubmV0
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsG4taXQT3YoED+Y1jtZf
+T3JFzB3KnrfIzZp5ETJ2YnL/p7ECfDnnkZ83J9IPhmgmaV6DWcR7AwJZGI57pJ3Q
+5bg7C18QKF7XcFKgBk2sItwbsaeItIMxXd6Dsy8l93gPJWUNO7eJwieElD07I1Ip
+5kfDFQjDyjhL3IwYzvEJ2hmBECPIbe4xlO6/LmRjykQ7Qj0rL4ZU7883OnwfHhZf
+gffpG8ySVGS6HBYCDG0PMMfoIcd1ZGLe7udaU2vlbgBwF1F8fqym8hDiBU1/QPZp
+GebOWTsrJbw9ywYqFI1qT4Y6wFHnx0wV8nLULCvfeMufbpM/QKgkHjDQXYDpEtOQ
+mwIDAQABo4IDYzCCA18wDgYDVR0PAQH/BAQDAgWgMIGgBggrBgEFBQcBAQSBkzCB
+kDBNBggrBgEFBQcwAoZBaHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNvbS9jYWNl
+cnQvZ3Nvcmdhbml6YXRpb252YWxzaGEyZzJyMS5jcnQwPwYIKwYBBQUHMAGGM2h0
+dHA6Ly9vY3NwMi5nbG9iYWxzaWduLmNvbS9nc29yZ2FuaXphdGlvbnZhbHNoYTJn
+MjBWBgNVHSAETzBNMEEGCSsGAQQBoDIBFDA0MDIGCCsGAQUFBwIBFiZodHRwczov
+L3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAIBgZngQwBAgIwCQYDVR0T
+BAIwADBJBgNVHR8EQjBAMD6gPKA6hjhodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29t
+L2dzL2dzb3JnYW5pemF0aW9udmFsc2hhMmcyLmNybDAbBgNVHREEFDASghBjLnNu
+aS5mYXN0bHkubmV0MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAdBgNV
+HQ4EFgQUBqgP28GTYBuUdFcGqFp3xZx6LY8wHwYDVR0jBBgwFoAUlt5h8b0cFilT
+HMDMfTuDAEDmGnwwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB1AId1v+dZfPiM
+Q5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABaIOGs0wAAAQDAEYwRAIgBB4EguXm
+MoGexIEszm+TkIQl+OYGeiw8R2o8UchjpeMCIG3cAO0vStpEL84sJo4tz2LMYT2g
+d6ZOomm0Tlu0yJ9/AHcAVYHUwhaQNgFK6gubVzxT8MDkOHhwJQgXL6OqHQcT0wwA
+AAFog4azigAABAMASDBGAiEA86Ugny9vql5aTnhD/rodFN5YwZTss8DYMEJlxo4J
+lgMCIQDqIsdU0mqq57xtD8pcmuUm1vmy9uQumt2B3q17j95/nQB2ALvZ37wfinG1
+k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABaIOGsx8AAAQDAEcwRQIhAMfydFsz
+2Udsu7vblLrHEJHFEum30xziNeU+N3vLeFQIAiAVajH1IEYXgtlqtMF2qZANSI5f
+viJobXBtPYkld2NWwDANBgkqhkiG9w0BAQsFAAOCAQEAvaaxpSXm1ePCpR6j7IS7
+6VkJfDdadqONVHsR6jO0EGQga5Svo6xClfMwdl8AiSM/PipECJH1JcPp9uv+KIdt
+Ezu5QltFM5CH5MoLXJsrmysiysbaK2+HEr/9c/SX1xV75O0Bv18IxrES7Lb9hkCi
+iOOYABbo1GcwUfnu+rczkd3v+k2mksQYSyyQsrMgrerW+dK9WQp1RkOnzqBUp3Pc
+K+E00yetzedOXqKZQsrpDhBtT3achV0nQeFjrRJgiKk8LShmyOm9xsqQv4Mi0lpC
+IgUsPuYwxJwp9BdO0lV2stOOy9OYvbjeVwwtpsjTm5D8RvvEWDo8InDeMW5jO+Li
+Qw==
 -----END CERTIFICATE-----
-subject=/C=US/ST=New York/L=New York/O=Forbes Media LLC/CN=*.forbes.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=c.sni.fastly.net
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 2522 bytes and written 622 bytes
+SSL handshake has read 3486 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is RC4-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -51,15 +62,24 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : RC4-SHA
-    Session-ID: 2033D2E9A7D5E5A485E6303F7E6AF686A7DEB4D4A5B87340060F45561E4E3C88
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 9C2DA208B17F2E3F50C557827EA4D7A14B75822D21ACD1DC7ED8F1B0CB1A3213
     Session-ID-ctx: 
-    Master-Key: 414507A7E93E74602712B4756487DCC751E5FE09F70FA0664F515AA648CD8B386A27AD82CDB95F12899666473C467A31
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788070
-    Timeout   : 300 (sec)
+    Master-Key: F0FC673D0D8253CD8773136D09E7F6A62887AAA53C761FBB1F13A10D018A7F7EF5C1D973029984E77050BAF7888473D6
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - 8d 3b ef b8 f8 47 40 17-15 b8 92 3d 8c 9a ca 8a   .;...G@....=....
+    0020 - c8 e6 d7 73 a9 66 e7 2a-ec d9 ef 50 be 5e be 11   ...s.f.*...P.^..
+    0030 - 7b 51 d8 a9 09 39 70 ea-54 0a dc 70 4b 8a e9 92   {Q...9p.T..pK...
+    0040 - db 31 66 32 bf 6b 54 ec-83 70 fa fa aa 7d de bf   .1f2.kT..p...}..
+    0050 - 9b e2 f5 5a c0 6a 6d c2-47 6b 8f 9c 53 b8 57 57   ...Z.jm.Gk..S.WW
+    0060 - 62 4b 4c 24 93 49 de 97-65 25 7c 20 9d 06 4b 52   bKL$.I..e%| ..KR
+    0070 - 92 97 98 ca 57 a2 49 33-50 05 ea ef d5 f8 47 e9   ....W.I3P.....G.
+    0080 - de be 69 a0 96 eb e2 92-ac d8 b0 4b 71 3c e9 cf   ..i........Kq<..
+    0090 - 8d 4b 2c 5e 30 43 1e 3b-b2 13 3b 3e f7 de 30 ca   .K,^0C.;..;>..0.
+
+    Start Time: 1577474907
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

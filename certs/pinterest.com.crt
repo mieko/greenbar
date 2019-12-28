@@ -1,62 +1,89 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=San Francisco/O=Pinterest Inc/CN=*.pinterest.com
+ 0 s:/C=US/ST=California/L=San Francisco/O=Pinterest, Inc./CN=*.pinterest.com
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
  1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHUzCCBjugAwIBAgIQCito9rFDTJe6uPIvq2gchjANBgkqhkiG9w0BAQsFADBw
+MIIMjTCCC3WgAwIBAgIQCGY+vEVuw5mUM8/1pacz4TANBgkqhkiG9w0BAQsFADBw
 MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
 d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
-dXJhbmNlIFNlcnZlciBDQTAeFw0xNTA4MTQwMDAwMDBaFw0xNjExMDkxMjAwMDBa
-MGwxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1T
-YW4gRnJhbmNpc2NvMRYwFAYDVQQKEw1QaW50ZXJlc3QgSW5jMRgwFgYDVQQDDA8q
-LnBpbnRlcmVzdC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDG
-P7OcJH+kNh5BOWhT9U221cEIA+M1M4GG/T8fP63KcCJ0qPq9lsOsm4vQlDpg8ctR
-3uOIPwEeQGGsJzuTGynCw0RrPg8ppvY3GspaTD42onrR/zq+bFVTnqFkkfxFcKcN
-hYe+PlEgkIMCbkNr7p5VvO4OGu12kyn1TGcAw5KDrMk6nJOJBt+3s880IIQnEWch
-TBVQYjVZ7F2PzlqnrhPSNvt1HHBTQGjOv84sriCgztoZRamfZ/UAbgVcxh5X7Lct
-M+l7mZxy3KPie1C7NmL2H6GbDhyhubFyZ6Qbiw+me5JvBbsOVesM95wDFplhTs6A
-8v5N+wnknceIpeCghpIdAgMBAAGjggPrMIID5zAfBgNVHSMEGDAWgBRRaP+QrwIH
-dTzM2WVkYqISuFlyOzAdBgNVHQ4EFgQUhnoiorXNgDVFMM16mUJbeHw9GeMwggIb
-BgNVHREEggISMIICDoIPKi5waW50ZXJlc3QuY29tghsqLmVuZ2luZWVyaW5nLnBp
-bnRlcmVzdC5jb22CFioucG9saWN5LnBpbnRlcmVzdC5jb22CGCouYnVzaW5lc3Mu
-cGludGVyZXN0LmNvbYIUKi5oZWxwLnBpbnRlcmVzdC5jb22CFSouYWJvdXQucGlu
-dGVyZXN0LmNvbYIcKi5waW5mbHVlbmNlcnMucGludGVyZXN0LmNvbYIUKi5ibG9n
-LnBpbnRlcmVzdC5jb22CEyoubWRwLnBpbnRlcmVzdC5jb22CFyouY2FyZWVycy5w
-aW50ZXJlc3QuY29tghRwb2xpY3kucGludGVyZXN0LmNvbYIWYnVzaW5lc3MucGlu
-dGVyZXN0LmNvbYISaGVscC5waW50ZXJlc3QuY29tghNhYm91dC5waW50ZXJlc3Qu
-Y29tghpwaW5mbHVlbmNlcnMucGludGVyZXN0LmNvbYISYmxvZy5waW50ZXJlc3Qu
-Y29tghFtZHAucGludGVyZXN0LmNvbYIVY2FyZWVycy5waW50ZXJlc3QuY29tghll
-bmdpbmVlcmluZy5waW50ZXJlc3QuY29tgg1waW50ZXJlc3QuY29tggwqLnBpbmlt
-Zy5jb22CCnBpbmltZy5jb22CBnBpbi5pdIIQKi5waW50ZXJlc3QuaW5mb4IOcGlu
-dGVyZXN0LmluZm8wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMB
-BggrBgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2Vy
-dC5jb20vc2hhMi1oYS1zZXJ2ZXItZzUuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5k
-aWdpY2VydC5jb20vc2hhMi1oYS1zZXJ2ZXItZzUuY3JsMEwGA1UdIARFMEMwNwYJ
-YIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNv
-bS9DUFMwCAYGZ4EMAQICMIGDBggrBgEFBQcBAQR3MHUwJAYIKwYBBQUHMAGGGGh0
-dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBNBggrBgEFBQcwAoZBaHR0cDovL2NhY2Vy
-dHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMkhpZ2hBc3N1cmFuY2VTZXJ2ZXJD
-QS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAOxKK30HzRkMK
-86+VZcuZ2v+dsB2wxBWF/kdZh7k5InCt+QkBy5udJYWKyB1eF7wbT/z6Pm4dQST/
-/g776MWs01HgtPeyduWsptsg86UT+PWjMRplBYZPg+kUtAnj9XG9W/jTPgjcWU8v
-+X/9bPsriGBLtzm0Q+6mDCUPJMMNM95z5bpWc6oAtyWJoPqiiL2JUd93Sn9fz9+2
-pHRaOzErmZU34OzZUgFy+G9lhWIQe2bJHpMQCEM/R1IqK68lTBGgAH+XwIcL8zo/
-AwGCEjRh1KC7KepBdRsyT+lCvgFEmemQqbzfgB4nSIFOZjyoUPMJvT+AKXcgNM5H
-MIXNeqcHBA==
+dXJhbmNlIFNlcnZlciBDQTAeFw0xOTA2MDUwMDAwMDBaFw0yMDA3MjIxMjAwMDBa
+MG4xCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1T
+YW4gRnJhbmNpc2NvMRgwFgYDVQQKEw9QaW50ZXJlc3QsIEluYy4xGDAWBgNVBAMM
+DyoucGludGVyZXN0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+ANkhv7I4WhMZQvgZAF11mLNfGTz4waZri4nOlRGlEZfA0/9jtBRCw98wADg9QG4U
+r4HeRYCQWN0o9mP3XBtdguuP1qB6bOKr3KXtXrasQ6d0ZLTekwCyjBR+pG90QChI
+w0J5L/rGJlNJcbtqi93cbcpXS6O+DJ6ibF4GRCaczCu8bXbEgt2Ktl70cCrFfqMW
+qBO1YlXOEP7CeTN1K4znwBidkcrZHvju7Ub8ZTG274+6IkEmzveUGXgdigPz8R/r
+nX1Qzp8UMSh0lQqTXOboH0/zQX4QT681uR1aKnJvLrw0BgeXpzNReNhGnmR5msh2
+fiXnlarhuc5KRH3EcsbId3sCAwEAAaOCCSMwggkfMB8GA1UdIwQYMBaAFFFo/5Cv
+Agd1PMzZZWRiohK4WXI7MB0GA1UdDgQWBBRhD8DeFSE2Vt03bW3bog/FxUqXyzCC
+BkoGA1UdEQSCBkEwggY9gg8qLnBpbnRlcmVzdC5jb22CDCoucGluaW1nLmNvbYIQ
+Ki5waW50ZXJlc3QuaW5mb4IXKi5waW50ZXJlc3QuZW5naW5lZXJpbmeCEyoucGlu
+dGVyZXN0bWFpbC5jb22CDioucGludGVyZXN0LmF0gg4qLnBpbnRlcmVzdC5jaIIO
+Ki5waW50ZXJlc3QuZGWCDioucGludGVyZXN0LmRrgg4qLnBpbnRlcmVzdC5pZYIO
+Ki5waW50ZXJlc3QuanCCDioucGludGVyZXN0Lmtygg4qLnBpbnRlcmVzdC5teIIO
+Ki5waW50ZXJlc3QucHSCDioucGludGVyZXN0LnNlghEqLnBpbnRlcmVzdC5jby5h
+dIIRKi5waW50ZXJlc3QuY28ua3KCESoucGludGVyZXN0LmNvLnVrghIqLnBpbnRl
+cmVzdC5jb20ubXiCBnBpbi5pdIINcGludGVyZXN0LmNvbYIKcGluaW1nLmNvbYIO
+cGludGVyZXN0LmluZm+CFXBpbnRlcmVzdC5lbmdpbmVlcmluZ4IRcGludGVyZXN0
+bWFpbC5jb22CDHBpbnRlcmVzdC5hdIIMcGludGVyZXN0LmNoggxwaW50ZXJlc3Qu
+ZGWCDHBpbnRlcmVzdC5ka4IMcGludGVyZXN0LmllggxwaW50ZXJlc3QuanCCDHBp
+bnRlcmVzdC5rcoIMcGludGVyZXN0Lm14ggxwaW50ZXJlc3QucHSCDHBpbnRlcmVz
+dC5zZYIPcGludGVyZXN0LmNvLmF0gg9waW50ZXJlc3QuY28ua3KCD3BpbnRlcmVz
+dC5jby51a4IQcGludGVyZXN0LmNvbS5teIIOKi5waW50ZXJlc3QuY2GCDioucGlu
+dGVyZXN0LmZyggxwaW50ZXJlc3QuY2GCDHBpbnRlcmVzdC5mcoIQcGludGVyZXN0
+LmNvbS5hdYISKi5waW50ZXJlc3QuY29tLmF1ggxwaW50ZXJlc3QubnqCDioucGlu
+dGVyZXN0Lm56ggxwaW50ZXJlc3QuZXOCDioucGludGVyZXN0LmVzggxwaW50ZXJl
+c3QuY2yCDioucGludGVyZXN0LmNsggxwaW50ZXJlc3QucGiCDioucGludGVyZXN0
+LnBoggxwaW50ZXJlc3QuaW6CDioucGludGVyZXN0Lmlugg9waW50ZXJlc3QuY28u
+aW6CESoucGludGVyZXN0LmNvLmluggxwaW50ZXJlc3QuYmWCDioucGludGVyZXN0
+LmJlggxwaW50ZXJlc3QucGWCDioucGludGVyZXN0LnBlggxwaW50ZXJlc3QuY2+C
+DioucGludGVyZXN0LmNvghBwaW50ZXJlc3QuY29tLnB5ghIqLnBpbnRlcmVzdC5j
+b20ucHmCEHBpbnRlcmVzdC5jb20uYm+CEioucGludGVyZXN0LmNvbS5ib4IQcGlu
+dGVyZXN0LmNvbS5lY4ISKi5waW50ZXJlc3QuY29tLmVjggxwaW50ZXJlc3QuZWOC
+DioucGludGVyZXN0LmVjggxwaW50ZXJlc3QuaHWCDioucGludGVyZXN0Lmh1ghBw
+aW50ZXJlc3QuY29tLnZughIqLnBpbnRlcmVzdC5jb20udm6CDHBpbnRlcmVzdC5p
+dIIOKi5waW50ZXJlc3QuaXSCDHBpbnRlcmVzdC5ydYIOKi5waW50ZXJlc3QucnWC
+EHBpbnRlcmVzdC5jb20ucGWCEioucGludGVyZXN0LmNvbS5wZYIQcGludGVyZXN0
+LmNvbS51eYISKi5waW50ZXJlc3QuY29tLnV5gg9waW50ZXJlc3QuY28ubnqCESou
+cGludGVyZXN0LmNvLm56ggxwaW50ZXJlc3QudWuCDioucGludGVyZXN0LnVrggxw
+aW50ZXJlc3Qudm6CDioucGludGVyZXN0LnZuggxwaW50ZXJlc3QuaWSCDioucGlu
+dGVyZXN0LmlkggxwaW50ZXJlc3QudGiCDioucGludGVyZXN0LnRoggxwaW50ZXJl
+c3QudHeCDioucGludGVyZXN0LnR3ggxwaW50ZXJlc3QubmyCDioucGludGVyZXN0
+Lm5sghcqLnRlc3RpbmcucGludGVyZXN0LmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0
+dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nNi5jcmwwNKAy
+oDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nNi5j
+cmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6
+Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwgYMGCCsGAQUFBwEBBHcw
+dTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tME0GCCsGAQUF
+BzAChkFodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEySGln
+aEFzc3VyYW5jZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMIIBBQYKKwYBBAHW
+eQIEAgSB9gSB8wDxAHYApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAA
+AAFrKNL+mgAABAMARzBFAiEArmUaVzEV4/sfmgxudtHKXaLrxUSLEZW3SI0h+kZG
+8dQCIE9avQtifguGleicGI+OrQTENAkLRD2h2lHcdq5vN3fSAHcAh3W/51l8+IxD
+mV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFrKNL/tgAABAMASDBGAiEAzSi2aDTh
+1b6DJ61mmc2lRXZfx68orgji7x58ge5F+FYCIQDQ+SxUAju2+MP8W2iS0m1XinZI
+TOwPFEakM4GZoL1GzDANBgkqhkiG9w0BAQsFAAOCAQEAaCRt+7t8x1ZeKmzWn2qs
+ch/VndkGzIxFVi5UteyGfKgMWj7UzxD7/BW2WgGgfFTmolhdQd8kX9yQzJ19PkFF
+5PIrTLTx5tqbYzkRzgOqV8Oc52SC9AEhJgAr7OfAHBlb4uuy8+U/imnU2wQ1oCsJ
+9GU5fhoezvhU8nnFusdU6wf1vXZyfDTFiy71iW3eh5u4d5sbc5xVJgUuDgjel89+
+e02R47S3GAHovjFMqfg4S7HjXtk4C9fXAKHuPK7ZZ64ctePiPK8l+/5VpACFrAr5
+6PiXGyty9o61tfs0XSXmEux1VZxQMJjX4Pmjx5ZZIWhhKPTntm0EGMKawmwa2kHu
+3w==
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=San Francisco/O=Pinterest Inc/CN=*.pinterest.com
+subject=/C=US/ST=California/L=San Francisco/O=Pinterest, Inc./CN=*.pinterest.com
 issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3746 bytes and written 434 bytes
+SSL handshake has read 5046 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -67,27 +94,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 54FEEA013853B822BBA611C03E5231F9B5725BB3FE48A17399029288668F1A98
+    Session-ID: C7FB964D3B8D7DEF228841E622A4F0B88ADB306B8D879AA2A6C628C0A3B58A18
     Session-ID-ctx: 
-    Master-Key: 3946E69CDA3FEB4BBAB1074E000F75C8B4D5F3F53F691AC402490D4FB72C0BFF1C9A6A0E34F149DFA7C8A6633B06BCE1
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 1200 (seconds)
+    Master-Key: 1A38058F814BBA1E268A364EE9A73C4A5645C0A985414DCF6FD57390C125BB01FA7942E780FF4AF1C37BC965D3D23ACE
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 63 cc 77 4a 00 db 2c 42-2e 8f 76 23 dd a9 ae 53   c.wJ..,B..v#...S
-    0010 - 50 c2 94 46 ec 1d af 43-dc 50 ef 29 fd 07 3f 02   P..F...C.P.)..?.
-    0020 - 8d 4e c6 ad 3f 9b 51 1b-e7 bd 97 91 36 9e 79 6b   .N..?.Q.....6.yk
-    0030 - ad 8b 63 39 9a 06 e7 65-20 77 21 c5 6a d4 07 c4   ..c9...e w!.j...
-    0040 - d4 a4 a1 e9 77 12 15 84-fd db 79 ea 4f dc 39 69   ....w.....y.O.9i
-    0050 - 67 e8 a4 40 e2 55 de 30-8e 7a 3d 63 48 13 18 88   g..@.U.0.z=cH...
-    0060 - a5 49 23 0c 08 ff 2b 6c-c3 06 d1 b8 4e 92 3f 4f   .I#...+l....N.?O
-    0070 - 63 1b 57 af 75 8e 7e 5a-01 40 6f 72 c1 2c a8 89   c.W.u.~Z.@or.,..
-    0080 - 8b 3e 3d 46 88 5e be 47-df d2 3f ac 2f 4e 60 b3   .>=F.^.G..?./N`.
-    0090 - 83 84 82 82 cf 78 8c 97-a8 8d 3e b1 cd 22 4d 99   .....x....>.."M.
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - 12 40 4e ab 33 55 a0 b4-88 b1 75 2b 8f 66 a4 88   .@N.3U....u+.f..
+    0020 - 54 da 0c 73 3f 11 ff 14-f1 ab 93 b7 6c 35 95 93   T..s?.......l5..
+    0030 - e9 2c a3 c2 46 9c 74 39-bd 95 4e b9 5f 6e e1 5e   .,..F.t9..N._n.^
+    0040 - 79 24 da 43 3a 25 31 78-99 4d 0c 31 1b ef 7f 82   y$.C:%1x.M.1....
+    0050 - 10 ff 67 45 b2 64 8c 27-9e a3 cd a9 23 f3 1d 66   ..gE.d.'....#..f
+    0060 - ac 0c a4 2b 55 78 8a f8-0a 4c a6 63 3e 4d 7c 7a   ...+Ux...L.c>M|z
+    0070 - 0e ad 93 84 b1 d3 c7 78-a0 9d a1 d7 0d 3b fa 13   .......x.....;..
+    0080 - 6d f8 cd e1 2d 9b d9 d1-a6 79 c3 b2 63 0c b1 2b   m...-....y..c..+
+    0090 - 8a a7 af de da 84 37 2c-c4 59 eb c8 dc 93 80 89   ......7,.Y......
 
-    Start Time: 1472787849
-    Timeout   : 300 (sec)
+    Start Time: 1577474863
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

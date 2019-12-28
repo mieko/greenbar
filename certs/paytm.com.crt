@@ -1,51 +1,61 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=IN/ST=Delhi/L=New Delhi/O=One97 Communications Ltd./CN=*.paytm.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=IN/ST=Uttar Pradesh/L=Noida/O=One97 Communications Ltd./CN=*.paytm.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=IN/ST=Uttar Pradesh/L=Noida/O=One97 Communications Ltd./CN=*.paytm.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE4zCCA8ugAwIBAgIQLSB0hi5e0zao/7YpSTq8azANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMDEzMDAwMDAwWhcNMTcwODI2MjM1
-OTU5WjBrMQswCQYDVQQGEwJJTjEOMAwGA1UECBMFRGVsaGkxEjAQBgNVBAcUCU5l
-dyBEZWxoaTEiMCAGA1UEChQZT25lOTcgQ29tbXVuaWNhdGlvbnMgTHRkLjEUMBIG
-A1UEAxQLKi5wYXl0bS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
-AQDbPfiZO3JCkABo96nsAxpZef7CeEVZaoLGflZLQyhT6AyPumC+ek1kSYjjvKjG
-qLgBswXXT26F6mLVkCwmupdYTD8D1URSDge9f2pxoxd3cruBOZ+HkKbxYcH3cWhj
-OY6anK/MNvni1Cd0Km6kuFzTWp7Al9F7FRuHEcYHvfSk+oGWn9mc/tmMItHpSRq9
-ywiX8XRt8fistcgZuXHuZwc5LpwKmgOgGhppWLsGOu612sS7LPs0s8XU7Bz1XfM2
-NPvMYxDA7eRyQYfwFou9y2NrluBJU1deflb71Qvb0zsKWDkKeZtlRNzMBj2asdf8
-xCEXS4wQfEV85F6SNtcjM+svAgMBAAGjggGoMIIBpDAhBgNVHREEGjAYggsqLnBh
-eXRtLmNvbYIJcGF5dG0uY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsG
-A1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3JsMIGdBgNV
-HSAEgZUwgZIwgY8GBmeBDAECAjCBhDA/BggrBgEFBQcCARYzaHR0cHM6Ly93d3cu
-Z2VvdHJ1c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUF
-BwICMDUMM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3Np
-dG9yeS9sZWdhbDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0j
-BBgwFoAU0m/3lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsG
-AQUFBzABhhNodHRwOi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8v
-Z24uc3ltY2IuY29tL2duLmNydDANBgkqhkiG9w0BAQsFAAOCAQEAt9quZKGU/1fG
-leQacmlYJgU6KyLy2gUDlgOVOUu8GR5ycGkCqXEiu9o0fiSTCQxf26Hyk+aIGVLh
-bQ/7mVLhznu9TbPwPeMKGCa2pgoUNJwpy95dmbqdWcjaSGC8DWL6G0X1upp1NXlx
-IsWlQOB4nS2I/91wxnfbUMaXua3hu9/EVvoYyTk2QIOcuzEL+0m2pMNBGnVou72v
-nvBNhJX9MTKTF94pxFBqa4gjhWgjKF4HP/Z38VRVdp2+DGlGSucFzUYAKJc15oqI
-MIac3lmjLq9FNrTI6BpIyHugVSs+8Cfoh0EOLiadEaLFShZjHYnogRmcJQv6LqQX
-TeGDRmaz8g==
+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
+d4JTmnLixSC7Cm2hAPTm
 -----END CERTIFICATE-----
-subject=/C=IN/ST=Delhi/L=New Delhi/O=One97 Communications Ltd./CN=*.paytm.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/C=IN/ST=Uttar Pradesh/L=Noida/O=One97 Communications Ltd./CN=*.paytm.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3878 bytes and written 434 bytes
+SSL handshake has read 5425 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -56,27 +66,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: F490AAFEE6A610AD8C6F788059C485BCAEB83B04531DAE19A21994A81A85D722
+    Session-ID: B97F35B58EE99D97D54E8777F883F3D86C6748BAEE3A20807C03F7F314C874FA
     Session-ID-ctx: 
-    Master-Key: 6BE13CF785A6189888F53471D7CF6B65D48E40F24F3CD005F79F2DEBDF194274C542838F5809D0EAD11A3EF60B175FBE
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 77CC284F2C7FB08AFFCDDF949F76C2805B41393E3CF2F5B5F755007FF4E8CCA1701397E4CA62B47970476B9E75F74802
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - 52 bf 86 63 48 94 6f 32-65 2b d5 c8 a2 d9 87 27   R..cH.o2e+.....'
-    0010 - bc 05 af 86 70 df 46 ad-e7 1c e2 ce 8f 5e 2d 28   ....p.F......^-(
-    0020 - 8b 1a ff b9 f9 1d e3 fc-ae c4 cb b8 1a 80 64 71   ..............dq
-    0030 - 46 68 df b7 81 28 10 7d-24 dd 02 eb 81 b7 d7 f8   Fh...(.}$.......
-    0040 - 0b be 7b c4 95 8a 28 92-75 82 49 2e 3f 6a aa cd   ..{...(.u.I.?j..
-    0050 - 34 b4 55 e0 ea f3 f1 17-c9 b8 d3 8e 47 64 1b 6e   4.U.........Gd.n
-    0060 - c4 31 77 8e d1 63 e0 a1-7c 50 06 58 97 b8 f7 61   .1w..c..|P.X...a
-    0070 - 35 16 e2 b1 ed df 45 3c-af c3 de 5d e2 e8 35 c3   5.....E<...]..5.
-    0080 - d0 86 59 a0 98 3c 5f b0-6a 62 8b 7d 8b 3c d2 22   ..Y..<_.jb.}.<."
-    0090 - 0c 91 65 11 45 fc 7c a5-5d e9 9d e5 96 06 90 17   ..e.E.|.].......
+    0000 - 9a 3b 75 eb 19 00 f2 15-0f 9f 75 6c 01 3c a2 36   .;u.......ul.<.6
+    0010 - 45 84 3b 91 4f 0f 8e 35-69 0a 73 26 c7 a7 16 13   E.;.O..5i.s&....
+    0020 - ed 3a b1 14 48 a6 16 5f-ba 8c b3 ed b3 84 f8 6a   .:..H.._.......j
+    0030 - fa 2c f4 4b 08 44 cf 34-82 96 dd db e5 39 0f 00   .,.K.D.4.....9..
+    0040 - eb 2c 07 d9 67 0b 23 2e-e1 6c 92 fc 21 ed 06 04   .,..g.#..l..!...
+    0050 - 9f 79 9a cd e3 48 61 7f-21 c0 38 41 95 9a 90 e4   .y...Ha.!.8A....
+    0060 - f2 ff 70 a0 96 3d f8 d9-7d 87 2e 8b 1c a1 2f 54   ..p..=..}...../T
+    0070 - 2d 58 85 e0 6e 83 12 4b-de f3 38 16 43 bb 64 3e   -X..n..K..8.C.d>
+    0080 - af fc 15 11 09 df db 07-3f 62 76 54 12 02 6e 7c   ........?bvT..n|
+    0090 - 77 0e 92 10 45 7e 65 fb-98 44 01 04 e2 8b df 65   w...E~e..D.....e
+    00a0 - 50 9a fb ab f2 65 f2 2e-8a aa 89 9e 26 36 f9 7d   P....e......&6.}
 
-    Start Time: 1472788157
-    Timeout   : 300 (sec)
+    Start Time: 1577475473
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

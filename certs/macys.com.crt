@@ -1,86 +1,97 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=MA/L=Cambridge/O=Akamai Technologies Inc./CN=a248.e.akamai.net
-   i:/C=NL/L=Amsterdam/O=Verizon Enterprise Solutions/OU=Cybertrust/CN=Verizon Akamai SureServer CA G14-SHA2
- 1 s:/C=NL/L=Amsterdam/O=Verizon Enterprise Solutions/OU=Cybertrust/CN=Verizon Akamai SureServer CA G14-SHA2
-   i:/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
- 2 s:/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
-   i:/C=US/O=GTE Corporation/OU=GTE CyberTrust Solutions, Inc./CN=GTE CyberTrust Global Root
+ 0 s:/C=US/postalCode=30097/ST=GA/L=Duluth/street=5985 State Bridge Road/O=Macy's Systems and Technology, Inc./OU=MCOM/OU=Hosted by Macy's Systems and Technology/OU=Unified Communications/CN=www.macys.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFvDCCBKSgAwIBAgIUdX7PAi9u9+89gbTBrsbWRijugR0wDQYJKoZIhvcNAQEL
-BQAwgY0xCzAJBgNVBAYTAk5MMRIwEAYDVQQHEwlBbXN0ZXJkYW0xJTAjBgNVBAoT
-HFZlcml6b24gRW50ZXJwcmlzZSBTb2x1dGlvbnMxEzARBgNVBAsTCkN5YmVydHJ1
-c3QxLjAsBgNVBAMTJVZlcml6b24gQWthbWFpIFN1cmVTZXJ2ZXIgQ0EgRzE0LVNI
-QTIwHhcNMTYwNTI2MTYwNTEzWhcNMTcwNTI2MTYwNTEyWjBtMQswCQYDVQQGEwJV
-UzELMAkGA1UECBMCTUExEjAQBgNVBAcTCUNhbWJyaWRnZTEhMB8GA1UEChMYQWth
-bWFpIFRlY2hub2xvZ2llcyBJbmMuMRowGAYDVQQDExFhMjQ4LmUuYWthbWFpLm5l
-dDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANUqLbfKS70TnRdVakBR
-SqHqRHLaC2l4qI/NSpFMJ0cvqi8UaL4MJZoQDikUSdk5kyyz1vBVfLyiFn8HYPxn
-dgSgaIrqHFxmb/a3bb2mnNg36UfxaNk/HR8S5wCJzdICCFianjdXJuIvT8EIIkjh
-n6gbbt0AqJyQpDKh5vuNwTKRx2luAl2G0a6K858ng+uTZHriud9G0nzBq50W3IZX
-ixdJqoeIboxlT4/4/RWSuZhpV4NwMagYSRs7TG7PECJsP3C4WEF1Z75fVwkvBRq9
-sRIlAfi53a3uBaNHNyHAY/KJ1Pyd+9TZGJd7fdu4oA1HVOgnBzU1NLaBPJA1XFuK
-O5kCAwEAAaOCAjEwggItMAwGA1UdEwEB/wQCMAAwTAYDVR0gBEUwQzBBBgkrBgEE
-AbE+ATIwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly9zZWN1cmUub21uaXJvb3QuY29t
-L3JlcG9zaXRvcnkwga8GCCsGAQUFBwEBBIGiMIGfMC0GCCsGAQUFBzABhiFodHRw
-Oi8vdmFzc2cxNDIub2NzcC5vbW5pcm9vdC5jb20wNgYIKwYBBQUHMAKGKmh0dHBz
-Oi8vY2FjZXJ0LmEub21uaXJvb3QuY29tL3Zhc3NnMTQyLmNydDA2BggrBgEFBQcw
-AoYqaHR0cHM6Ly9jYWNlcnQuYS5vbW5pcm9vdC5jb20vdmFzc2cxNDIuZGVyMG4G
-A1UdEQRnMGWCEWEyNDguZS5ha2FtYWkubmV0gg8qLmFrYW1haXplZC5uZXSCFiou
-YWthbWFpaGQtc3RhZ2luZy5uZXSCDiouYWthbWFpaGQubmV0ghcqLmFrYW1haXpl
-ZC1zdGFnaW5nLm5ldDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
-AwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFPi9+q9zd8bHG/lLTRGn0TOvr3IRMD4G
-A1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly92YXNzZzE0Mi5jcmwub21uaXJvb3QuY29t
-L3Zhc3NnMTQyLmNybDAdBgNVHQ4EFgQUVXIMYSGUcVqhFYe6ANcdpgz0xBMwDQYJ
-KoZIhvcNAQELBQADggEBAHYq/9CZP26438ls/dyrNSaz00XukLEAn4A0lMo6dQ9o
-BFd7r83oqXoMVnKQEo9D5uDsGKFUhoVDhGTFMwBqSO+X8nedHJimDnnaN29KB09o
-qryRkEqIVekB9yF6hSYJ2GaX4VwWn+xBNAaiPn1PtrbCOf1ARblVZJhJO0lqt08z
-uqKGRKFRS40FZ4p6nmaBuNhRGp6UHTtgyNvBFjjuIYu+rz+Rc/aNrMsVnhQ/RNjN
-swUrA4pQW4lgDHd04KxlcUcY1Bc6wgtxEXE2soLrgOFYulubdMI3SdCNB1HsVM90
-xvfT6Y5MNep20bva7zUxROK9Ufj8u7NPqbV+8KaCaFQ=
+MIIIqTCCB5GgAwIBAgIRAK4FQdsiK+GaDm1v3dQTjA4wDQYJKoZIhvcNAQELBQAw
+gZUxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE9MDsGA1UE
+AxM0U2VjdGlnbyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0xOTA4MDEwMDAwMDBaFw0yMDA3MzEyMzU5NTlaMIIBBDELMAkG
+A1UEBhMCVVMxDjAMBgNVBBETBTMwMDk3MQswCQYDVQQIEwJHQTEPMA0GA1UEBxMG
+RHVsdXRoMR8wHQYDVQQJExY1OTg1IFN0YXRlIEJyaWRnZSBSb2FkMSwwKgYDVQQK
+EyNNYWN5J3MgU3lzdGVtcyBhbmQgVGVjaG5vbG9neSwgSW5jLjENMAsGA1UECxME
+TUNPTTEwMC4GA1UECxMnSG9zdGVkIGJ5IE1hY3kncyBTeXN0ZW1zIGFuZCBUZWNo
+bm9sb2d5MR8wHQYDVQQLExZVbmlmaWVkIENvbW11bmljYXRpb25zMRYwFAYDVQQD
+Ew13d3cubWFjeXMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+0XgEM33nh12bQE8Mwp4T4O4lPiF1x3fSwCWnZAwXbIGYkC0y3liaIyjHW1bm2n/6
+J77RaksR88qtSU6qxYkZlOUa1RUN3FCGMiiJ5K7IlPhDoVkO6tA6SfVe8FE/at+B
+Ly+poaIWzl25amMpQs/ORxKzhDfeX7GncrrUQSLFHcYyS3d3OVBnVWmHSrifPvJQ
+5pyV2wdyIUkWc8woZYmtprxYzSidyLxGoK367u3Lk877Cr3Ve9mH2CNaFwUawlpw
+ZwQAKbW1nUfTzldv0aslrv5oF5XwaENYGsUn/LHSVhIGX83j0wRgKvCaEcQEIsWi
+eSA8y45vG64nMzVvKZKqxwIDAQABo4IEgDCCBHwwHwYDVR0jBBgwFoAUF9nWJSdn
++THCSUPZMDZEjGypT+swHQYDVR0OBBYEFK9zomOchNXZN/vWuC5HOLLKfOPtMA4G
+A1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjBKBgNVHSAEQzBBMDUGDCsGAQQBsjEBAgEDBDAlMCMGCCsGAQUF
+BwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgIwWgYDVR0fBFMw
+UTBPoE2gS4ZJaHR0cDovL2NybC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNBT3JnYW5p
+emF0aW9uVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNybDCBigYIKwYBBQUHAQEE
+fjB8MFUGCCsGAQUFBzAChklodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29S
+U0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsG
+AQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTCCAb0GA1UdEQSCAbQwggGw
+gg13d3cubWFjeXMuY29tghBhc3NldHMubWFjeXMuY29tghZhc3NldHMubWFjeXNh
+c3NldHMuY29tghJpbXAtcHJvZC5tYWN5cy5jb22CC20ubWFjeXMuY29tggltYWN5
+cy5jb22CEnNlY3VyZS1tLm1hY3lzLmNvbYIbc2VjdXJlLW5ldHN0b3JhZ2UubWFj
+eXMuY29tghJzbGltYWdlcy5tYWN5cy5jb22CGHNsaW1hZ2VzLm1hY3lzYXNzZXRz
+LmNvbYITd2MuYXNzZXRzLm1hY3lzLmNvbYIVd2Muc2xpbWFnZXMubWFjeXMuY29t
+ghR3d3cuYXNzZXRzLm1hY3lzLmNvbYIad3d3LmFzc2V0cy5tYWN5c2Fzc2V0cy5j
+b22CFnd3dy5zbGltYWdlcy5tYWN5cy5jb22CHHd3dy5zbGltYWdlcy5tYWN5c2Fz
+c2V0cy5jb22CF3d3dy53Yy5hc3NldHMubWFjeXMuY29tghl3d3cud2Muc2xpbWFn
+ZXMubWFjeXMuY29tghJ3d3cud3d3MS5tYWN5cy5jb22CDnd3dzEubWFjeXMuY29t
+MIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAsh4FzIuizYogTodm+Su5iiUgZ2va
++nDnsklTLe+LkF4AAAFsToYTIQAABAMARzBFAiBam0Ssz1c5XeZjqAU6GZDpz5q3
+PZxp/pS0BMYw8UbC7gIhAJsBHML8BDvOG6hs12MPXymZUQElBGBqYWpjBAuPqF6Q
+AHcAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVgAAAFsToYTTgAABAMA
+SDBGAiEA8nczW7O0rKitUvAa49W+1GLl+RIoVKpEUH2+6TjAKIoCIQDTYbkoB/f4
+r+P2ldWI9bNPRWyHyMos2n7KvsljoA+JYjANBgkqhkiG9w0BAQsFAAOCAQEATzTA
+Gb8lF6es2KRn6G3i9adV3odEwQV1KASETAPo7otxJXaXfLiYjmo3/9zdXjIZnYSx
+iCqj62TDTWyG6p4+uodwt1ILO7TuufJ/DNbXW/8Uk+tOkDpCkaVnqS/XuRIYpq20
+5MipgrWpd+xYA54F9vDi+YkvB9uVQs8g4Exx2ttW7A+Pcfuo1c2bVoClUQW8Mc+V
+e0k7/li3itwJDXBYjZE5iowfR/YFQHTA3pifT7RtJVKPtzVSieW7QhBpG3/FrVja
+6e7K6Lsl9hiK+zVV4j6ue/jD3Nr9YP8tTq1QEoTXokGaxGIPmdhpunuyq4MjcPfP
+AB67HnEHbqmy1ZyI4Q==
 -----END CERTIFICATE-----
-subject=/C=US/ST=MA/L=Cambridge/O=Akamai Technologies Inc./CN=a248.e.akamai.net
-issuer=/C=NL/L=Amsterdam/O=Verizon Enterprise Solutions/OU=Cybertrust/CN=Verizon Akamai SureServer CA G14-SHA2
+subject=/C=US/postalCode=30097/ST=GA/L=Duluth/street=5985 State Bridge Road/O=Macy's Systems and Technology, Inc./OU=MCOM/OU=Hosted by Macy's Systems and Technology/OU=Unified Communications/CN=www.macys.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4491 bytes and written 434 bytes
+SSL handshake has read 5849 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
-Secure Renegotiation IS NOT supported
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 6FE747D669CCB0EBEA8E9347DA35BF0C3FAA127393B9A9470CD2C0DA0D207C6D
+    Session-ID: 68B089352225EB716E95FF7DDB3F244F0D53B0FCE58286C9C2DC8C38C0CED333
     Session-ID-ctx: 
-    Master-Key: A5EF36C978E7374BF4A68C2BA033192FB5A1AC633CC4E1B0F0EF5E753F64F693D8BAF4FD971D81639553B5265894F16C
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 0FCFC07EA166F5123125E6605591AAAE667C490CE78B65E2AAF78A94E67980154887D22711B227285D36458DBCDAEA53
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - f5 c5 2e 84 0b a8 ba d9-35 67 0c e8 fa 96 6c 43   ........5g....lC
-    0010 - 61 33 95 dc 26 7d 6e 60-b0 cf 7f a3 b6 4a d9 15   a3..&}n`.....J..
-    0020 - e7 63 13 a7 dd 91 dc 59-d1 35 5b aa 70 d4 88 c7   .c.....Y.5[.p...
-    0030 - 21 c6 c3 eb a7 ec 59 32-47 e5 7e 72 0e e4 38 d1   !.....Y2G.~r..8.
-    0040 - cb e2 8a 6e 52 5e d0 0b-28 d0 9d 09 a8 11 91 b8   ...nR^..(.......
-    0050 - 54 40 82 4e 98 31 3a a5-39 ba e0 07 72 2a bd 8d   T@.N.1:.9...r*..
-    0060 - 27 30 ac 3f 06 59 20 3c-da 28 c2 48 4a 86 6e 10   '0.?.Y <.(.HJ.n.
-    0070 - 14 4b 18 27 14 0d 3b 60-70 e7 72 3b 33 5f ba d9   .K.'..;`p.r;3_..
-    0080 - 14 e9 ba 41 de f4 20 50-65 5b 5c 6e 66 ba 97 42   ...A.. Pe[\nf..B
-    0090 - 79 a7 d0 dc 26 7f eb 86-88 03 61 23 01 e2 f0 59   y...&.....a#...Y
+    0000 - 00 00 16 9f 05 51 40 eb-0f 4a 4e bc a5 62 03 b7   .....Q@..JN..b..
+    0010 - 48 17 7b 5d c7 70 d2 18-5c a8 4c 6c bb 20 ce 05   H.{].p..\.Ll. ..
+    0020 - 49 68 4f bc 7b 87 ab f0-46 5c 2e 34 e9 53 80 06   IhO.{...F\.4.S..
+    0030 - 94 56 5b 55 a1 e8 dd 64-e1 a1 b8 0e 0e d3 65 92   .V[U...d......e.
+    0040 - 92 95 7b 01 f4 90 21 51-79 97 a7 64 16 f1 e3 dd   ..{...!Qy..d....
+    0050 - ac 97 7a 58 52 77 dc fc-3b 15 ad 9f c8 0c 20 f3   ..zXRw..;..... .
+    0060 - c5 79 61 91 4a c5 28 e6-1e ef 17 b4 d2 9c b1 71   .ya.J.(........q
+    0070 - 4e 93 47 60 b6 c1 74 e7-63 5d 18 fb 8a 5a 53 35   N.G`..t.c]...ZS5
+    0080 - 4e 4c 07 2f d1 21 fd 0b-a8 9e 64 1d 18 4b 80 63   NL./.!....d..K.c
+    0090 - b1 9f c3 0b 58 43 4f a4-85 49 49 ef aa 06 46 57   ....XCO..II...FW
 
-    Start Time: 1472788379
-    Timeout   : 300 (sec)
+    Start Time: 1577474988
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

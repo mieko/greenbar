@@ -1,66 +1,23 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
-Certificate chain
- 0 s:/C=NL/ST=Hoofddorp/L=Hoofddorp/O=OLX BV/OU=IT/CN=*.otomoto.pl
-   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
- 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
-   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
----
-Server certificate
------BEGIN CERTIFICATE-----
-MIIEsTCCA5mgAwIBAgIQQ6hTUPz+EqqgaTr2dMBwrzANBgkqhkiG9w0BAQsFADBB
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
-aGF3dGUgU1NMIENBIC0gRzIwHhcNMTYwMTA4MDAwMDAwWhcNMTcwMTA3MjM1OTU5
-WjBqMQswCQYDVQQGEwJOTDESMBAGA1UECBMJSG9vZmRkb3JwMRIwEAYDVQQHFAlI
-b29mZGRvcnAxDzANBgNVBAoUBk9MWCBCVjELMAkGA1UECxQCSVQxFTATBgNVBAMU
-DCoub3RvbW90by5wbDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK62
-5pDHSjWBvr6Pb6FnJVRbxoPdzwmmVn6+9UjXwqNh9DjJaMJ8ybYMihRwgHPT1+TV
-59/jd23y9/tvaIh2TKKERypl8bjFKkGS+uDLOvFEH/I/sPw63V5PHrAtZGnfa+9i
-ZsOWvmx/y5OCVa1olRjMtWPH6Zwk9NdqKDPQ74T/Gx/kjwYBCsOG9Mv4eCn2kWoh
-1i4c4F3SVlvT+gFpF9UQXHrjg1SdQafGH/m8a/6nihQ4ZDb7HxBjtrRMJ27uzzds
-nrCHmPtn/hGVLhcrLVzGqLReu3yq6uFUEsXOwzqndCnNeVcqXue1AHZyB85NhYg1
-LmNm+Y77RYIUjVPlMeUCAwEAAaOCAXowggF2MCMGA1UdEQQcMBqCDCoub3RvbW90
-by5wbIIKb3RvbW90by5wbDAJBgNVHRMEAjAAMG4GA1UdIARnMGUwYwYGZ4EMAQIC
-MFkwJgYIKwYBBQUHAgEWGmh0dHBzOi8vd3d3LnRoYXd0ZS5jb20vY3BzMC8GCCsG
-AQUFBwICMCMMIWh0dHBzOi8vd3d3LnRoYXd0ZS5jb20vcmVwb3NpdG9yeTAOBgNV
-HQ8BAf8EBAMCBaAwHwYDVR0jBBgwFoAUwk9IV/zRT5rAXTh9DgXb2S61UmAwKwYD
-VR0fBCQwIjAgoB6gHIYaaHR0cDovL3RqLnN5bWNiLmNvbS90ai5jcmwwHQYDVR0l
-BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsGAQUFBwEBBEswSTAfBggrBgEF
-BQcwAYYTaHR0cDovL3RqLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3Rq
-LnN5bWNiLmNvbS90ai5jcnQwDQYJKoZIhvcNAQELBQADggEBAG5OstDiQYpW6cyI
-GfYxlhXhhYeYHFkX+F/Qm5bFiAzYL+8y6pjNRXPFozB4HhV27baiIPwPgOHheayG
-Za5iykUjnQHmXCjIh3JcfchwHHWl97O7+s2vMPoPVn4KPktSjf4hql8E5mpq9G54
-H8KojBb/4G4eyH/A6b/Wl7rKzrZiYwCZyVOIAiGq8bZVjXMa3soDU1A05e0fybKh
-26ko/OwnAN6fejqWONv9RgfTQqoXavwC0vjUezTV0JIh6aowg6QQlyClnfVoWFx+
-uumAYxUXcliyY0NB9927Jc+KlAeiFGsGVnax6sR1y9TsW0rvC/3nerOPw0NQ+lVT
-zAU3kO8=
------END CERTIFICATE-----
-subject=/C=NL/ST=Hoofddorp/L=Hoofddorp/O=OLX BV/OU=IT/CN=*.otomoto.pl
-issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+no peer certificate available
 ---
 No client certificate CA names sent
-Peer signing digest: SHA1
-Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2927 bytes and written 434 bytes
+SSL handshake has read 0 bytes and written 0 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
-Server public key is 2048 bit
-Secure Renegotiation IS supported
+New, (NONE), Cipher is (NONE)
+Secure Renegotiation IS NOT supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 0284E7DA885843B2E78EF12D148F7343EDA3C772E02F1BF2366F29468B4A586D
+    Cipher    : 0000
+    Session-ID: 
     Session-ID-ctx: 
-    Master-Key: 9AFEB25CA8F9D4FACA5BAB491FE9AC014FE358B1927045A779857F7E4ECAE9C5129CD571190D08B5DFD6F068FB91892A
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472790677
-    Timeout   : 300 (sec)
+    Master-Key: 
+    Start Time: 1577475825
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

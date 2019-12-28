@@ -1,71 +1,87 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=New York/L=New York/O=The Hearst Corporation/CN=secure.hdmtools.com
-   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
- 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 0 s:/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=hearst-hdm.map.fastly.net
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIJFTCCB/2gAwIBAgIQCQLQF/4+uOsmiMRMNbDvujANBgkqhkiG9w0BAQsFADBN
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTUwODAzMDAwMDAwWhcN
-MTYxMTAyMTIwMDAwWjByMQswCQYDVQQGEwJVUzERMA8GA1UECBMITmV3IFlvcmsx
-ETAPBgNVBAcTCE5ldyBZb3JrMR8wHQYDVQQKExZUaGUgSGVhcnN0IENvcnBvcmF0
-aW9uMRwwGgYDVQQDExNzZWN1cmUuaGRtdG9vbHMuY29tMIIBIjANBgkqhkiG9w0B
-AQEFAAOCAQ8AMIIBCgKCAQEAujXeLeTm2ICyHwEJ5H1VZ+bCy+La+xJTY3jk5md6
-A/9PzSarO83Fy/2wMpd+eUzQ48ERo59o5uiA7CPi3BmPajs8yBUSzQQ1FoRCNXgZ
-Hd5A02qvctR6dHJm7AfLrHzHNlbbp7+Sj8uN5QafbYjq1YvpiUQhfAYjNa4y91bE
-1N4WQioQoMtnLqrCuoAHRM1glr0jIURNF09jHGTG1Ld0AYayZVaSG+FQMQa1DKnC
-jYehL2i2aX+u9j3f4A7oFg1WRO/Y/mbKK7lBk5E/UhBcKUoKPgBig3+gANm8A6yX
-2KujhetC4AgQzfI6CViZC/YTiyqaww8/mq29De2CVDoEbQIDAQABo4IFyjCCBcYw
-HwYDVR0jBBgwFoAUD4BhHIIxYdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFBfrbycS
-uB2NAKnPl80VAOj9J89HMIIEDAYDVR0RBIIEAzCCA/+CE3NlY3VyZS5oZG10b29s
-cy5jb22CFSouZHJvenRoZWdvb2RsaWZlLmNvbYISKi5jYXJhbmRkcml2ZXIuY29t
-ghIqLmNvc21vcG9saXRhbi5jb22CDiouaGRtdG9vbHMuY29tgg0qLmhkbXRlY2gu
-bmV0ggwqLmhlYXJzdC5jb22CEiouYmVzdHByb2R1Y3RzLmNvbYIPKi5zLXctZS1l
-LXQuY29tghEqLmxlbm55bGV0dGVyLmNvbYINKi52ZXJhbmRhLmNvbYIXKi50b3du
-YW5kY291bnRyeW1hZy5jb22CEioucm9hZGFuZHRyYWNrLmNvbYIQKi5yZWRib29r
-bWFnLmNvbYIRKi5tYXJpZWNsYWlyZS5jb22CCiouZWxsZS5jb22CFCouaG91c2Vi
-ZWF1dGlmdWwuY29tghMqLmhhcnBlcnNiYXphYXIuY29tgg0qLmVzcXVpcmUuY29t
-gg8qLmVsbGVkZWNvci5jb22CDCouZGVsaXNoLmNvbYITKi5jb3VudHJ5bGl2aW5n
-LmNvbYIWKi5nb29kaG91c2VrZWVwaW5nLmNvbYIWKi5wb3B1bGFybWVjaGFuaWNz
-LmNvbYIPKi5zZXZlbnRlZW4uY29tgg8qLndvbWFuc2RheS5jb22CCiouaC1jZG4u
-Y2+CECouaGVhcnN0YXBwcy5jb22CECouaGVhcnN0YXBwcy5uZXSCDyoud2VhcmVz
-d2VldC5jb4ITZHJvenRoZWdvb2RsaWZlLmNvbYIQY2FyYW5kZHJpdmVyLmNvbYIQ
-Y29zbW9wb2xpdGFuLmNvbYIMaGRtdG9vbHMuY29tggtoZG10ZWNoLm5ldIIKaGVh
-cnN0LmNvbYIQYmVzdHByb2R1Y3RzLmNvbYINcy13LWUtZS10LmNvbYIPbGVubnls
-ZXR0ZXIuY29tggt2ZXJhbmRhLmNvbYIVdG93bmFuZGNvdW50cnltYWcuY29tghBy
-b2FkYW5kdHJhY2suY29tgg5yZWRib29rbWFnLmNvbYIPbWFyaWVjbGFpcmUuY29t
-gghlbGxlLmNvbYISaG91c2ViZWF1dGlmdWwuY29tghFoYXJwZXJzYmF6YWFyLmNv
-bYILZXNxdWlyZS5jb22CDWVsbGVkZWNvci5jb22CCmRlbGlzaC5jb22CEWNvdW50
-cnlsaXZpbmcuY29tghRnb29kaG91c2VrZWVwaW5nLmNvbYIUcG9wdWxhcm1lY2hh
-bmljcy5jb22CDXNldmVudGVlbi5jb22CDXdvbWFuc2RheS5jb22CCGgtY2RuLmNv
-gg5oZWFyc3RhcHBzLmNvbYIOaGVhcnN0YXBwcy5uZXSCDXdlYXJlc3dlZXQuY28w
-DgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBr
-BgNVHR8EZDBiMC+gLaArhilodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1z
-aGEyLWc1LmNybDAvoC2gK4YpaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Et
-c2hhMi1nNS5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcC
-ARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwfAYIKwYB
-BQUHAQEEcDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20w
-RgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2Vy
-dFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0B
-AQsFAAOCAQEAsZl+Halg4X0iXBbXaz+LoUazOkbQpfk5fBDaOJvWbFZah0qHyKlD
-jttfXN3xQcWHV5RY9FvyIb3AeloZiXGS5p0LJAzrax0uqGOvs+CsrKOlkqYOhuWn
-YjDnEAjVBPwUWodx7DnjKXmZm7pHuEO1OZSUYdrJWUodascw71B9eYlyrCpoLEoj
-+QQZAgQ7WHJNzs/Rt5vPbYZLn9+LEaKJ9AiamOiGLqGl6OTdW2eW/PCf+4Fr235m
-zqipSwYpdiLdx1iV0HQdM2R4aHTKJYHtwYC+Ol4P/qFIK5pZQqWiuC4TzjlgtB0M
-NhoV/2o/pT0mjr88sYmGrbw4lU6QGt7CXQ==
+MIIMUjCCCzqgAwIBAgIMVUKB7JjUOCOx9KrcMA0GCSqGSIb3DQEBCwUAMFcxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMS0wKwYDVQQDEyRH
+bG9iYWxTaWduIENsb3VkU1NMIENBIC0gU0hBMjU2IC0gRzMwHhcNMTkxMTIwMTcy
+MDExWhcNMjAwNzEyMjAxMTE2WjB1MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2Fs
+aWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEVMBMGA1UEChMMRmFzdGx5
+LCBJbmMuMSIwIAYDVQQDExloZWFyc3QtaGRtLm1hcC5mYXN0bHkubmV0MIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsl03ERYjB/T32gLmPZ2IzsIgCiLu
+LK6GwzZCns/XH9KW44HlO3EUKdZtn1VHHQty9bSv5tot/7IEn0Cm7mKZ14yMLxBn
+5grxaolW+kZJODFKHWxA9NbXgcvCs+PsUEucKkCWz90zFAQHBw0nnJTFcUpa9sjj
+xyZfCe0kLkhY6MCD/l/fNEY7vb9sQ900g8mwle1+XXsgdY/dQyu3k9FVJtoZ+Djj
+RnKOA5FezWW8Viw8IpxPzT9bnsJRf9qqEdl0RxAJ1PINxvd61zTNkwkPo/AEDla+
+O7aNBSURtiRLxOO+nNOZgAH8V0Ykpxot8/H1XUetZHesnpdqQo1vHI+23QIDAQAB
+o4II/jCCCPowDgYDVR0PAQH/BAQDAgWgMIGKBggrBgEFBQcBAQR+MHwwQgYIKwYB
+BQUHMAKGNmh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2Nsb3Vk
+c3Nsc2hhMmczLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLmdsb2JhbHNp
+Z24uY29tL2Nsb3Vkc3Nsc2hhMmczMFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQw
+MgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRv
+cnkvMAgGBmeBDAECAjAJBgNVHRMEAjAAMIIGjwYDVR0RBIIGhjCCBoKCGWhlYXJz
+dC1oZG0ubWFwLmZhc3RseS5uZXSCDiouYXV0b3dlZWsuY29tggwqLmJhemFhci5j
+b22CEiouYmVzdHByb2R1Y3RzLmNvbYIPKi5iaWN5Y2xpbmcuY29tghIqLmNhcmFu
+ZGRyaXZlci5jb22CFCouY2RuLmhlYXJzdGFwcHMubmV0ghIqLmNvc21vcG9saXRh
+bi5jb22CEyouY291bnRyeWxpdmluZy5jb22CEyouY3JmYXNoaW9uYm9vay5jb22C
+DCouZGVsaXNoLmNvbYIXKi5kZXYubWVkaWFvcy5oZWFyc3QuaW+CHCouZGV2Lm1l
+ZGlhb3MuaGVhcnN0YXBwcy5jb22CFSouZHJvenRoZWdvb2RsaWZlLmNvbYIKKi5l
+bGxlLmNvbYIPKi5lbGxlZGVjb3IuY29tgg0qLmVzcXVpcmUuY29tgg4qLmZ1amlu
+Z2Foby5qcIIXKi5naHNlYWxhcHBsaWNhdGlvbi5jb22CDyouZ29vZGhvdXNlLmNv
+bYIWKi5nb29kaG91c2VrZWVwaW5nLmNvbYIKKi5oLWNkbi5jb4ITKi5oYXJwZXJz
+YmF6YWFyLmNvbYINKi5oZG10ZWNoLm5ldIIOKi5oZG10b29scy5jb22CCyouaGVh
+cnN0LmlvghAqLmhlYXJzdGFwcHMuY29tghAqLmhlYXJzdGFwcHMubmV0ghoqLmhl
+YXJzdGRpZ2l0YWxzdHVkaW9zLmNvbYIaKi5oZWFyc3RkaWdpdGFsc3R1ZGlvcy5u
+ZXSCECouaGVhcnN0bGFicy5jb22CECouaGVhcnN0bWFncy5jb22CFCouaG91c2Vi
+ZWF1dGlmdWwuY29tghEqLm1hcmllY2xhaXJlLmNvbYIQKi5tZW5zaGVhbHRoLmNv
+bYIOKi5vcHJhaG1hZy5jb22CFioucG9wdWxhcm1lY2hhbmljcy5jb22CECoucHJl
+dmVudGlvbi5jb22CECoucmVkYm9va21hZy5jb22CEioucm9hZGFuZHRyYWNrLmNv
+bYIYKi5yb2RhbGVzb3JnYW5pY2xpZmUuY29tghIqLnJ1bm5lcnN3b3JsZC5jb22C
+Dyoucy13LWUtZS10LmNvbYIPKi5zZXZlbnRlZW4uY29tghAqLnNob25kYWxhbmQu
+Y29tghcqLnRvd25hbmRjb3VudHJ5bWFnLmNvbYINKi52ZXJhbmRhLmNvbYIPKi53
+ZWFyZXN3ZWV0LmNvgg8qLndvbWFuc2RheS5jb22CFSoud29tZW5zaGVhbHRobWFn
+LmNvbYIMYXV0b3dlZWsuY29tggpiYXphYXIuY29tghBiZXN0cHJvZHVjdHMuY29t
+gg1iaWN5Y2xpbmcuY29tghBjYXJhbmRkcml2ZXIuY29tghBjb3Ntb3BvbGl0YW4u
+Y29tghFjb3VudHJ5bGl2aW5nLmNvbYIRY3JmYXNoaW9uYm9vay5jb22CCmRlbGlz
+aC5jb22CE2Ryb3p0aGVnb29kbGlmZS5jb22CCGVsbGUuY29tgg1lbGxlZGVjb3Iu
+Y29tggtlc3F1aXJlLmNvbYIMZnVqaW5nYWhvLmpwghVnaHNlYWxhcHBsaWNhdGlv
+bi5jb22CDWdvb2Rob3VzZS5jb22CFGdvb2Rob3VzZWtlZXBpbmcuY29tghFoYXJw
+ZXJzYmF6YWFyLmNvbYILaGRtdGVjaC5uZXSCDGhkbXRvb2xzLmNvbYIOaGVhcnN0
+YXBwcy5jb22CDmhlYXJzdGFwcHMubmV0gg5oZWFyc3RsYWJzLmNvbYISaG91c2Vi
+ZWF1dGlmdWwuY29tgg9tYXJpZWNsYWlyZS5jb22CDm1lbnNoZWFsdGguY29tggdt
+eWxvLmlkggxvcHJhaG1hZy5jb22CFHBvcHVsYXJtZWNoYW5pY3MuY29tgg5wcmV2
+ZW50aW9uLmNvbYIOcmVkYm9va21hZy5jb22CEHJvYWRhbmR0cmFjay5jb22CFnJv
+ZGFsZXNvcmdhbmljbGlmZS5jb22CEHJ1bm5lcnN3b3JsZC5jb22CDXMtdy1lLWUt
+dC5jb22CDXNldmVudGVlbi5jb22CDnNob25kYWxhbmQuY29tghV0b3duYW5kY291
+bnRyeW1hZy5jb22CC3ZlcmFuZGEuY29tgg13ZWFyZXN3ZWV0LmNvgg13b21hbnNk
+YXkuY29tghN3b21lbnNoZWFsdGhtYWcuY29tMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAfBgNVHSMEGDAWgBSpK4fhziRHOxu/z4U3AlWdDZRY5jAdBgNV
+HQ4EFgQURrOj0ZnI1uURRHgs0JsMO+ApjikwggEEBgorBgEEAdZ5AgQCBIH1BIHy
+APAAdgDwlaRZ8gDRgkAQLS+TiI6tS/4dR+OZ4dA0prCoqo6ycwAAAW6J1DBCAAAE
+AwBHMEUCIBbm9JmQ60KL7jXW0m4LMRCEYASS/Lwn4+HR1LQXmXdaAiEAl7Es4udQ
+8OQs5Bhf1AqF98KKG2cg7N7Psca6fzMqLpgAdgDuS723dc5guuFCaR+r4Z5mow9+
+X7By2IMAxHuJeqj9ywAAAW6J1C9UAAAEAwBHMEUCIDiTAVeOks1s74SsfZNUfFdg
+fcoTjWBlXmMytmqKyxuwAiEAoWqoalZSlgN2el2teM92BkeAisgRfGsIXbJwjhqA
+m/UwDQYJKoZIhvcNAQELBQADggEBAAvhYA2fMuxa/WrWKa7PR+BGBfOi4zbaSpam
+EgpLu8URQCd9SnVLZjlI4snHKfqdm7y2CIfKrI5Lnl29Am/EBRJAfkmNZRvJfQHV
+2PlLvsiKSifEJObxJJbVx1kw/P7/8eV3G0IXD8AzqtlKvoNEeHg0GdK/sVSoNbYC
+sinNA03s+SMKk7UDe0wvP53/AZ2cUbr6pxETCcLKJtgeie8yXEfv/7sKsqMsrh0S
+8oaLWTPeivB+9/FGOpNPEqqgKDdYaRBEUSci3nyJK9MvmNiroMKzb3tBtO1sXPJA
+t2r8xH03aylw+izZnKLUGCBVU6+XZasI6BuDayfkb24DUw8aTGM=
 -----END CERTIFICATE-----
-subject=/C=US/ST=New York/L=New York/O=The Hearst Corporation/CN=secure.hdmtools.com
-issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+subject=/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=hearst-hdm.map.fastly.net
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4167 bytes and written 434 bytes
+SSL handshake has read 4949 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -76,27 +92,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: D46C6559C1A0DA51A74AF33A5563B3954028E15E14E6CB0C3A0A1040F2047C53
+    Session-ID: 8FF0A833BEA572DF28A624577DA7C4C911B85A12673A1785473B8BC33D229B15
     Session-ID-ctx: 
-    Master-Key: 5C66B18DCDCDEA1B1FF5DE728744D189641B72BA37621435ABFCFC65985B0592B5F9D362256ED25482ABD9BC2FB86DC6
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 1200 (seconds)
+    Master-Key: 444B98D9AEA954D95C73FDA503092AD1EF5F88E5578FC76610D174173C4CA62928EC4D8C57954FFBF9AC3D868A2EA471
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 63 cc 77 4a 00 db 2c 42-2e 8f 76 23 dd a9 ae 53   c.wJ..,B..v#...S
-    0010 - b8 0f 51 ee 48 27 ad 04-d8 dd f0 c0 20 00 a3 a6   ..Q.H'...... ...
-    0020 - b9 a6 bb ff 6f e5 c7 24-87 44 37 14 47 9a 7d 93   ....o..$.D7.G.}.
-    0030 - cf e4 92 a8 ea d2 01 cb-cb f7 23 73 76 74 b8 d5   ..........#svt..
-    0040 - 7b 55 4b 5b c1 bd 74 9c-5f 26 ee 0e c2 5e 89 a9   {UK[..t._&...^..
-    0050 - 9b 0d 4c 98 a5 52 bb 2d-e1 f9 31 70 c6 68 0d 1e   ..L..R.-..1p.h..
-    0060 - bc f8 1c 0f 07 6a 89 34-6b 1a ae 73 91 2c 04 13   .....j.4k..s.,..
-    0070 - 0e 23 f3 8d 57 4f c9 7b-d4 08 d0 d2 d7 08 9d 64   .#..WO.{.......d
-    0080 - 12 c0 88 fb f5 a2 db ac-14 45 a8 90 36 e6 8b ec   .........E..6...
-    0090 - de 1a f2 8d 31 51 7f 58-e8 23 47 76 27 4e e0 f7   ....1Q.X.#Gv'N..
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - 76 86 2b 05 e1 51 fa 73-6c 60 ae 2f 6d 8b 29 fe   v.+..Q.sl`./m.).
+    0020 - f4 46 5d 73 3d 8d a3 4a-d2 71 75 4d 56 e3 71 90   .F]s=..J.quMV.q.
+    0030 - b0 c4 56 14 fb 2c aa 7d-12 33 1b 04 d6 6e ff 24   ..V..,.}.3...n.$
+    0040 - 2d 22 cc e8 f8 f2 1a d0-a2 4a 3d 46 4a 9a d7 64   -".......J=FJ..d
+    0050 - 2c f6 5f 8a 64 8a c0 51-de 77 50 62 9d 5c eb 53   ,._.d..Q.wPb.\.S
+    0060 - 30 fb d4 50 84 8d 17 78-52 fb 63 e6 0a c7 a7 5f   0..P...xR.c...._
+    0070 - 52 f1 1f ef 31 06 56 dd-ad c0 68 58 f1 4f 0e 1e   R...1.V...hX.O..
+    0080 - a8 9f d9 01 4a ae 25 27-5d 79 c0 bf 20 38 83 1a   ....J.%']y.. 8..
+    0090 - 71 c8 f5 47 27 4e f0 43-c2 49 13 59 70 0a 0d f2   q..G'N.C.I.Yp...
 
-    Start Time: 1472790260
-    Timeout   : 300 (sec)
+    Start Time: 1577476069
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

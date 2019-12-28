@@ -1,0 +1,77 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=faradars.org
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUTCCBDmgAwIBAgISAy8w4HaCWoNx+Wdj8/q1CItNMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMjcwOTIxNDdaFw0y
+MDAyMjUwOTIxNDdaMBcxFTATBgNVBAMTDGZhcmFkYXJzLm9yZzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAOadkm1Q9LyRh0IGlItDh2jzrgjmFYBxSTsr
+2VpiwFIIjpsJsEBUxWJV4ShTSbmf7AHfN8AAxv3CsWIlhi3UghUZ8WBjssVUULA0
+RdQfesWV3eDgvDsCDkjbfrMJeXHclC1NlBg+Y3HMJEDxsGTr5r5mxqY9sjcGnH1Q
+zOHsS/L8adfBRUcZiNlWd3YgvgZnVLxvthjfUGOgJ6DRKFI9gY6h4im5vJP0u8Zl
+hzb/VdCTP0qtnzJGYPB7b37VMCYQx+KqFxvxMWgy9Nqt/8ebWZlz9uYGaA5jj68O
+GvYvDbzZOQDKR3eg/qP0Z5tbMxhVRL8tiN1yqKFtcersXJnizPcCAwEAAaOCAmIw
+ggJeMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUAWFRWl0lMQGWZrJKsj7zwZMFaJQw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzAXBgNVHREEEDAOggxmYXJhZGFycy5vcmcwTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgCyHgXMi6LNiiBOh2b5
+K7mKJSBna9r6cOeySVMt74uQXgAAAW6sYZn8AAAEAwBHMEUCIQDPHhsT9wImeCVh
+HI0WN5chmbecWeGF0seoV9I/MFqQFgIgRtJDmdZ1Iu00SldugDxWhsfieoRYXl7K
+vq2aSlIVEMYAdwBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAW6s
+YZpYAAAEAwBIMEYCIQD8O+KwE0SLg7nZXDOhbqzhe1xtrcJaWrChe0E0dIXLJAIh
+ALf9t6uBtU4VWoXV4aKs+a9N822eMac3bW44iuionxlvMA0GCSqGSIb3DQEBCwUA
+A4IBAQBXij+InV6GWNu/QT0x2+fMBT/qhTW7UmLburjXPwnKfekt0xTGU7aLSUTv
+1fAvBr8K6laUlHkttXEh1yzkc1PkO0NRkWfYM+h4FUjNH83PAnKyWIEbdDFmDMRI
+jDiNwwqQ25CBf1EjoNXzmJ+8dBIXm+cYtk5kzvpirUuR0+KXwVKTqVR1GKtXKzT0
+3fm5Vw2ybqggmzKIVTq7j/SK5PE32YX6JkQO55+9LZXb+QK+BWRcAzDuJ1BKV8o4
+uyB/7aJ3Gng2JpwyPnBt4XY3GyOOs++jYqopS+Dl4VMiWvLoe5K6YRwIbIUG5lU7
+thBmbE1rAZXxINqWbOwu44HkBJc0
+-----END CERTIFICATE-----
+subject=/CN=faradars.org
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3196 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C7E8D3A97E53EC7EABA65C6B9AF7164F879E4780E0ED2F5D2D9E30B6C0A6D758
+    Session-ID-ctx: 
+    Master-Key: 55A54616ECEE5BB08347A7CF9634750724CA9BDB9944DC83ECAE08B0AD9628192B73ED966E0C7F4449CB0EFBE49698B8
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 7b c7 1a c2 70 19 19 3a-04 8b b1 f7 dc 2b f1 f0   {...p..:.....+..
+    0010 - 0b e7 1b ee 21 c4 d4 19-c4 42 67 54 63 3a 78 59   ....!....BgTc:xY
+    0020 - 45 c1 27 59 b7 98 7e b6-00 73 72 31 58 f7 82 07   E.'Y..~..sr1X...
+    0030 - 9f 99 55 c1 80 6a 6d 25-a6 1b 5a 99 31 6c 14 2e   ..U..jm%..Z.1l..
+    0040 - f0 47 03 83 38 f7 34 8e-bf 66 a9 f3 b8 f7 c8 c2   .G..8.4..f......
+    0050 - 01 19 45 3e 33 df a3 ff-6e fd 41 b7 3f f7 68 44   ..E>3...n.A.?.hD
+    0060 - 1e c0 c2 d3 82 05 c9 25-5b d8 67 ae 78 a9 d3 d0   .......%[.g.x...
+    0070 - 86 62 8d 5c b3 1d 86 65-09 56 c4 53 00 82 6d 0d   .b.\...e.V.S..m.
+    0080 - fb 88 09 e6 20 00 67 4f-03 ee b0 15 cc 9c a8 27   .... .gO.......'
+    0090 - 39 4e cd ba 2f 83 60 c5-87 8a 66 af 07 a2 de 8c   9N../.`...f.....
+
+    Start Time: 1577476074
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

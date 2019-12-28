@@ -1,69 +1,65 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/CN=WIN-EQ4I6U7VTOB
-   i:/CN=WIN-EQ4I6U7VTOB
+ 0 s:/CN=*.gamersky.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Encryption Everywhere DV TLS CA - G1
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Encryption Everywhere DV TLS CA - G1
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-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
+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
 -----END CERTIFICATE-----
-subject=/CN=WIN-EQ4I6U7VTOB
-issuer=/CN=WIN-EQ4I6U7VTOB
+subject=/CN=*.gamersky.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Encryption Everywhere DV TLS CA - G1
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 1454 bytes and written 434 bytes
+SSL handshake has read 3122 bytes and written 330 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 630B42A73C538FF65CF563C26EBE9C74304087F6E26A7C1EEB2CC2731CAAFAAE
+    Protocol  : TLSv1
+    Cipher    : ECDHE-RSA-AES256-SHA
+    Session-ID: A91D0000A1A3D26796D4C81B18101CD5812648539915734D3854297D28534B23
     Session-ID-ctx: 
-    Master-Key: CCDB2729939A3518D09FB6E89AC099FF04761A62417665308E804F7A69C4CA496F68643B5C10F8AA482DFB2B886F6D22
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 7200 (seconds)
-    TLS session ticket:
-    0000 - 52 d9 a3 82 28 04 da 55-fa d3 68 07 05 79 d6 b0   R...(..U..h..y..
-    0010 - 9d 3a 79 e7 40 0d d6 e7-fe 66 e7 6c 18 30 16 8f   .:y.@....f.l.0..
-    0020 - 1a 41 ca f8 99 ef e8 ec-8f 19 96 f8 1d f2 74 9d   .A............t.
-    0030 - cd d5 bb c6 f9 41 41 af-cd b8 82 db 8f db 29 e4   .....AA.......).
-    0040 - ec 1e 76 55 86 a2 48 9a-97 bf 7a ee 2d f4 b9 21   ..vU..H...z.-..!
-    0050 - 26 e7 f8 b4 b7 fd d2 52-ad 43 de dd f8 2f 42 1a   &......R.C.../B.
-    0060 - a1 85 15 6e a8 e2 fc 11-ed d7 a6 9d 8a d7 b7 85   ...n............
-    0070 - 8b 72 f6 50 6c 21 54 18-82 96 42 16 26 a0 94 8e   .r.Pl!T...B.&...
-    0080 - d1 4d 09 ce 91 47 d9 74-6b 46 ed d2 c9 47 33 09   .M...G.tkF...G3.
-    0090 - b9 09 84 f4 ca d3 8c cb-17 95 fa 49 da 55 7b a9   ...........I.U{.
-    00a0 - 6b 28 a5 00 ab 0e b9 b7-51 e7 e6 80 84 96 19 a1   k(......Q.......
-    00b0 - 12 65 9c 1c e3 da 90 5b-79 b7 dc 0e 9c c2 a4 b2   .e.....[y.......
-
-    Start Time: 1472788243
-    Timeout   : 300 (sec)
-    Verify return code: 21 (unable to verify the first certificate)
+    Master-Key: ED95D35BD78EAFD15830E5E523D01CDC677A07AEF772C2BD0F5F98B8D1ED9F2D899643FF1D8F39E95921D9A0A04165F7
+    Start Time: 1577475438
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

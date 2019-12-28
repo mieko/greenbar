@@ -1,61 +1,57 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=KR/postalCode=06236/ST=Seoul/L=Gangnam/street=146, Teheran-ro, Gangnam-gu, Seoul/O=Forward Ventures Co.,Ltd./OU=Infra/OU=Hosted by Korea Information Certificate Authority, Inc./OU=SGC SSL Wildcard/CN=*.coupang.com
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
- 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 0 s:/CN=*.coupang.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGHjCCBQagAwIBAgIQeRTumixqL2ffmDQoyp/xxjANBgkqhkiG9w0BAQsFADCB
-ljELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
-A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxPDA6BgNV
-BAMTM0NPTU9ETyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
-cnZlciBDQTAeFw0xNjA3MTgwMDAwMDBaFw0xOTA4MTYyMzU5NTlaMIIBFTELMAkG
-A1UEBhMCS1IxDjAMBgNVBBETBTA2MjM2MQ4wDAYDVQQIEwVTZW91bDEQMA4GA1UE
-BxMHR2FuZ25hbTErMCkGA1UECRMiMTQ2LCBUZWhlcmFuLXJvLCBHYW5nbmFtLWd1
-LCBTZW91bDEiMCAGA1UEChMZRm9yd2FyZCBWZW50dXJlcyBDby4sTHRkLjEOMAwG
-A1UECxMFSW5mcmExQDA+BgNVBAsTN0hvc3RlZCBieSBLb3JlYSBJbmZvcm1hdGlv
-biBDZXJ0aWZpY2F0ZSBBdXRob3JpdHksIEluYy4xGTAXBgNVBAsTEFNHQyBTU0wg
-V2lsZGNhcmQxFjAUBgNVBAMMDSouY291cGFuZy5jb20wggEiMA0GCSqGSIb3DQEB
-AQUAA4IBDwAwggEKAoIBAQDFoZd1fd2JGPLj9sOf4/uuTTQFqAEa4QHmoh+WBUp5
-u/ZD0eYyCuaG/9S7VT7ZBAUG646XL5Ckp1EyBwtLG8P03q9pueSnmhXostVgSS/A
-spiLYXD8Mg87AqQIXILo6mPpq1Wlnk21Ti/qcF3ttp6DTtNoxftnOb/z6YKYuLVb
-H9L0JDYXSk2AzdXwIrhiI9sQnCXYLNG6J/69D8weOi8cnwHXLUxammOnjc8pK/UI
-PmeWG+JCW52MXAm//N8p58cafmGqteHtaYtwIoyhwfzC8Z/de8zDlyyxgmObkjyD
-ie4MZvEVJkca+K5WSak28qkZavOY8hIoQ3obMv1iKobZAgMBAAGjggHkMIIB4DAf
-BgNVHSMEGDAWgBSa8yvaz61Pti+7KkhIKhK3G0LBJDAdBgNVHQ4EFgQU6oogRZt+
-apRydTS3wfvJ9k9+1hUwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
-VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFAGA1UdIARJMEcwOwYMKwYBBAGy
-MQECAQMEMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20v
-Q1BTMAgGBmeBDAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLmNvbW9k
-b2NhLmNvbS9DT01PRE9SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJlU2Vy
-dmVyQ0EuY3JsMIGLBggrBgEFBQcBAQR/MH0wVQYIKwYBBQUHMAKGSWh0dHA6Ly9j
-cnQuY29tb2RvY2EuY29tL0NPTU9ET1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25T
-ZWN1cmVTZXJ2ZXJDQS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9k
-b2NhLmNvbTAlBgNVHREEHjAcgg0qLmNvdXBhbmcuY29tggtjb3VwYW5nLmNvbTAN
-BgkqhkiG9w0BAQsFAAOCAQEAckoqg9VhTZdNumwnbqYSYMDLbti4p7pS4bFUNm7s
-dPxVy8ue97dKvBnCsAsWFfzXCPxU36/7k3REY3ubF8AFKJvCO9Iwtz5TsBn0vh4K
-pYuPsSbZZWZjJKPcJh45uuokA2WRKV7XG31Q4K7Z3UHBF/dEqkPXCEdJnw5m8Pt5
-Oy8gZxQWmuByeYPO/fIleH7vb9QuM7es+ypMHrAMhPELmFOHHQOvwGDDRbOApCmY
-/dyRWwcTYf5UMHBGu5xgZ4/cBiDz7YSKoeeWb6c8oiaPhvnfeWeC316bRhH2F8Ae
-25aaYEYHQNjS/xwdOSSCcTRNAE6wv4iuifReMnUSfLyYPQ==
+MIIFbzCCBFegAwIBAgIQBogJttGLkgfTn0ybSa3oqDANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTA5MDMwMDAwMDBaFw0yMDEwMDMx
+MjAwMDBaMBgxFjAUBgNVBAMMDSouY291cGFuZy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDIvN2tAg+cFzFdRF0iFky93yBp1JM8hY1EGVTggzyi
+SoLinooMB4Kp+no5W7yQq+MxzAE9/xGEy3j1Dgx2W1HP/dFBXHM/0psyKsd6h7sZ
+9umxVDES0eqXK1Du7C6BTuo5VFXMjrUf6H4NTpvhN7mASggMUh02svRV+i23OssQ
+1fLrbLllFjzihPwTidLfwJOig+sH8SKQmWxXckbMuUxTUiz9vu3sWJZLc1liBSf3
+b1H4Hs2sZgYi1pfBPBfocHqx6jUCKtHPiqVpBEsFfFPvv4VkIsyc8WOsV0XVIOdf
+ENyF8WXIqPQmW6soL+NlR0B34P/3J9cTGatNV2P7UgYfAgMBAAGjggKFMIICgTAf
+BgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUIs2YKwct
+883dD/PcTv42UYI1MH8wJQYDVR0RBB4wHIINKi5jb3VwYW5nLmNvbYILY291cGFu
+Zy5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnNjYTFiLmFtYXpvbnRy
+dXN0LmNvbS9zY2ExYi5jcmwwIAYDVR0gBBkwFzALBglghkgBhv1sAQIwCAYGZ4EM
+AQIBMHUGCCsGAQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3Auc2Nh
+MWIuYW1hem9udHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnNjYTFi
+LmFtYXpvbnRydXN0LmNvbS9zY2ExYi5jcnQwDAYDVR0TAQH/BAIwADCCAQMGCisG
+AQQB1nkCBAIEgfQEgfEA7wB2ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaO
+HtGFAAABbPYRUgwAAAQDAEcwRQIgQLxuJkKNiqF/Of3E3eVRIS4MMri3aWTcXzUK
+QB33WxcCIQCZA2vHXsm2Lq9qzx3wx+2Wwt2N8q5vc649XZXHGwTEzwB1AId1v+dZ
+fPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABbPYRUpMAAAQDAEYwRAIgMCyL
+1LIo/WqzrjMHEIStYM0kO6o7XUteu0aBjwb4gdwCIEVna8RabL09BXqHtTha/Dj4
+dseXivldznbEKQM/k4hZMA0GCSqGSIb3DQEBCwUAA4IBAQCSdstdKyFFAbxWKtoL
+O/dx+0C80OUvOaN8KxHaUsK11O3tCNn39HK0h/iBL8DJpZp5caAE/Or+S/ORHSDN
+3y+5EbELDMGs6t4Zi9cc5cB2yiXVSSDDmXrG/S+LTnzNrGsEGxLF/kCMCo8q7++y
+OjH9QBOrzXmne+rnfBkEDl24R/DEGSpC7w9bsjmLqPrmVSA6V2bItNcsrbbzyX0I
+4oweXaa/MMDL1ZLWLTjq5/zb7pD2MH4LW2QYKBRSfmLKR13+Bnk85vwoPS2S6q8K
+ukW4OioulgUIoFxKbFH7whIz22giOGULbyDUNnRqs0jNGGh+hNrKj1X6iuw81CaX
+TIF6
 -----END CERTIFICATE-----
-subject=/C=KR/postalCode=06236/ST=Seoul/L=Gangnam/street=146, Teheran-ro, Gangnam-gu, Seoul/O=Forward Ventures Co.,Ltd./OU=Infra/OU=Hosted by Korea Information Certificate Authority, Inc./OU=SGC SSL Wildcard/CN=*.coupang.com
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
+subject=/CN=*.coupang.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 6290 bytes and written 434 bytes
+SSL handshake has read 5452 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -63,29 +59,21 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 3AD5901F2E9F9ADAEF76155B4219E15A3AADCF0FB0829F9909C0A99FF32B072E
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 138D6E37AE65BAA60FE14CCA4B8F44F4CBE2BC70C1B26C1D7EC856D044AD8651
     Session-ID-ctx: 
-    Master-Key: 056C6DF6231D9C69F7C4C5E561393DD7ED273035528607C73079E59AA73129738D1C046CAB8CA29791CC8858A7108397
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 600 (seconds)
+    Master-Key: 5972927328719CF33FD75FDA8DE9CE2527D193112F877CF8E4176A79CBD536DB6D0544476D4F08B30B77624A768E02F1
+    TLS session ticket lifetime hint: 216000 (seconds)
     TLS session ticket:
-    0000 - 8c 80 69 d8 35 05 cf 3e-29 12 62 11 b0 26 68 f4   ..i.5..>).b..&h.
-    0010 - c0 d9 ed 7e 46 b2 d2 9d-c2 5c 00 57 4c a0 47 38   ...~F....\.WL.G8
-    0020 - 01 7d a9 56 cf b2 7b 0e-2f 47 15 0a 55 f8 40 bb   .}.V..{./G..U.@.
-    0030 - 94 8a e6 57 56 62 9c ce-20 8e 11 93 e8 7b 65 73   ...WVb.. ....{es
-    0040 - 67 c6 c4 18 bc d6 ba 35-3b 0c b9 ee d1 2b 17 f4   g......5;....+..
-    0050 - 99 30 35 7e 4f 43 61 c6-16 f0 af 6a eb 4f bd 6b   .05~OCa....j.O.k
-    0060 - 3c f8 c7 9f b9 71 1b 05-39 48 8f 9f dd 0c 64 ef   <....q..9H....d.
-    0070 - e4 50 cd 64 db 1c de 28-1a 29 5a b5 b2 77 3c d5   .P.d...(.)Z..w<.
-    0080 - 58 ea 92 37 23 15 08 ec-68 8e 11 72 29 5b ba 29   X..7#...h..r)[.)
-    0090 - 0d 66 75 fb 33 7a 60 7c-7e 3e fb a0 45 dd b1 b9   .fu.3z`|~>..E...
-    00a0 - dd 47 73 d3 68 fc 27 41-3e 52 c5 36 2e 13 07 da   .Gs.h.'A>R.6....
+    0000 - 31 35 37 37 33 38 33 32-31 39 30 30 30 00 00 00   1577383219000...
+    0010 - fd 6e ad d2 44 a8 8f 5b-32 70 59 bc d8 7c 67 27   .n..D..[2pY..|g'
+    0020 - eb 7e d4 42 f5 2e 3c d0-10 5e 2c 82 07 a6 85 e7   .~.B..<..^,.....
+    0030 - 63 59 0f 53 18 cd 7c 36-c1 bc 85 ce f6 61 55 79   cY.S..|6.....aUy
+    0040 - 94 3b 74 4d 7b 69 37 a2-4e f2 6a e0 e1 52 16 6c   .;tM{i7.N.j..R.l
+    0050 - d8 fb cf c4 9f d6 b4 29-74 72 ac 13 a2 05 54 00   .......)tr....T.
+    0060 - e4 8f b1 54 be 85 c2 6d-                          ...T...m
 
-    Start Time: 1472790510
-    Timeout   : 300 (sec)
+    Start Time: 1577475232
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

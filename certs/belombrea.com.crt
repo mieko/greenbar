@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/C=US/ST=NY/O=comapny/OU=company/CN=example
+   i:/C=US/ST=NY/O=comapny/OU=company/CN=example
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDHDCCAgQCCQCgtFYD05RTrTANBgkqhkiG9w0BAQsFADBQMQswCQYDVQQGEwJV
+UzELMAkGA1UECAwCTlkxEDAOBgNVBAoMB2NvbWFwbnkxEDAOBgNVBAsMB2NvbXBh
+bnkxEDAOBgNVBAMMB2V4YW1wbGUwHhcNMTcxMjE4MTAwODM1WhcNMTgxMjE4MTAw
+ODM1WjBQMQswCQYDVQQGEwJVUzELMAkGA1UECAwCTlkxEDAOBgNVBAoMB2NvbWFw
+bnkxEDAOBgNVBAsMB2NvbXBhbnkxEDAOBgNVBAMMB2V4YW1wbGUwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCclXRvCQ1t4hvyfRQnmYzZASff7B45R+16
+XAkKugmDqH894jEAOIQp6W7aRNs3XSWfVjAn3nm1E/LVnzHtNb9gx75b1BTe0AU7
+M52aWjwvvRjE/dxCOzkVMdsvWZCH/YndXNLNQi3MxvYiLdHce4pgzFJEaIYrb0NV
+nsFrxMBI4Ro2pmgxb6agxngWFSASeR9HVZc77X/nyplgY5nUPdVboegx2qiFSoTT
+u5r8KCnI8HVWH08N1AmSvTp47jOjGzoqoYfQl4tzHfV4Zxm/gZUJAI9aggSsLri2
+DN3Q7WsZOPthDyL8Yole2mo3lDPzLy1Oz9XU9mzTbR6TUniLDGw/AgMBAAEwDQYJ
+KoZIhvcNAQELBQADggEBABov4LLIjIh/x6rEKTZEfa7ZeFXwTSvSuwhzviei1BGA
+DMkQNEvFj9U+qGYCYLpOIzFc2rlS8lfrcVsthIjGjBhzkQBYQdJ7X/GJAXw3hlV9
+trbmgZMfxMKNfNuCRUovtvJ9tNMenhRLnDhthu/CvMXznGUX7WPQXfkaYDeHSgmV
+xAbUMltrQ1rfFDuDXGN8gjrAbP2mET6OH12ven1LMxWl61UG8ym7njuZs32eS0aD
+iB2t2P8oVMgS953WnvRRNvIUgBA9JA0W9KzP1z3C7z4OJiy1ejxEbIiPodyN9mrV
+gvPJa+pDjkhNgLhnj0Y7t7KP4u7ustbju2Ff+4ddd2Q=
+-----END CERTIFICATE-----
+subject=/C=US/ST=NY/O=comapny/OU=company/CN=example
+issuer=/C=US/ST=NY/O=comapny/OU=company/CN=example
+---
+No client certificate CA names sent
+---
+SSL handshake has read 1148 bytes and written 538 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES128-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES128-SHA
+    Session-ID: 4AD8997A99233E3E52DE9E843F97FF81AD083236A661EDC54AE20F081EB837D1
+    Session-ID-ctx: 
+    Master-Key: 2ADBD897EE8EC8DAEFA3ACC43C4A39E96DBA3A1CEB0FF6A675F15F3E594C7BB8BF0DD9943A5D82D120A394A91EAFF3E0
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 9e c3 7e a9 4c 72 88 9a-29 cf 77 26 d2 26 0d a7   ..~.Lr..).w&.&..
+    0010 - 47 2a 70 ac 48 6b 15 60-1c 94 e7 82 97 e2 b2 ad   G*p.Hk.`........
+    0020 - bd 29 08 b1 e8 23 47 5c-8b cf d7 4d 9d df 1d 15   .)...#G\...M....
+    0030 - cf f0 f1 0a 04 c7 02 02-d4 e5 49 e5 51 df 41 86   ..........I.Q.A.
+    0040 - 72 61 6a 30 b1 08 e0 1e-87 d2 74 d7 d9 36 16 55   raj0......t..6.U
+    0050 - 0d 0c 70 14 79 eb 74 5a-c5 9c 19 7e b8 00 c1 cd   ..p.y.tZ...~....
+    0060 - f3 21 92 81 4a 36 a4 7d-a7 86 18 4e eb 7a fb b2   .!..J6.}...N.z..
+    0070 - 62 dd 7d 50 bb fb 36 06-e8 ac 2f 95 cb 6e d5 c7   b.}P..6.../..n..
+    0080 - e4 e6 14 35 07 57 cb 9d-d7 94 cb 6f e7 91 a5 3b   ...5.W.....o...;
+    0090 - 72 f2 be d4 bc 98 26 08-fc 7a 58 e7 06 a2 51 66   r.....&..zX...Qf
+    00a0 - 8e 0c f3 36 a4 be 12 1a-8c 00 bd c7 85 2d 29 13   ...6.........-).
+
+    Start Time: 1577475962
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
+---

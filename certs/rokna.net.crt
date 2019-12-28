@@ -1,0 +1,80 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=rokna.net
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFuzCCBKOgAwIBAgISBOktUg+LHyuMK/3Osi9dIhYiMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMDIyMjEzNTFaFw0y
+MDAzMDEyMjEzNTFaMBQxEjAQBgNVBAMTCXJva25hLm5ldDCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMsPLxIx1DibY6/FM/k2WMR6YSJj4bYXOeIQu0tH
+bC9ToqOn16nMely4XV76sbusGiIL6aKXkGdzSIbolWw9Zwi5gP0jnEsMtIW8fJFv
+0RWwvfjGBu+9qep7B/iw4x5QlbbbHNtQgikbYgeoxISbimAF5y+pdi8tp7nPpSHQ
+3dNGMPyLdiCDwhMGiXIFgjCT3Gb2eTdh628k1ierfj9l3G974oRnIJUWnvOul/Gc
+lBKr99kpJwadLRe+FuOS2jookMNs/20pLUO+IHM/XU0124g/iJIqJ17w5TF5pL8r
+AnjTwlalvz4lguSb+D9F6HiTfow8mhbptM4urWpx3nAo3eUCAwEAAaOCAs8wggLL
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUpm27hlyhvg8fa4B683LvUU46ZScwHwYD
+VR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4G
+CCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8G
+CCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzCB
+hAYDVR0RBH0we4IJcm9rbmEubmV0ghFzdGF0aWMwLnJva25hLm5ldIIRc3RhdGlj
+MS5yb2tuYS5uZXSCEXN0YXRpYzIucm9rbmEubmV0ghFzdGF0aWMzLnJva25hLm5l
+dIITd2Vic29ja2V0LnJva25hLm5ldIINd3d3LnJva25hLm5ldDBMBgNVHSAERTBD
+MAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8v
+Y3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2APCV
+pFnyANGCQBAtL5OIjq1L/h1H45nh0DSmsKiqjrJzAAABbsjkPDsAAAQDAEcwRQIg
+XhVHXhd+Nr9LyUGMAdex6penSynNXtzBgjNmKbPZxhoCIQCBcWeUVy1Xvz6hiMSE
+Lc/yfXrsNnzClP3esO1dfZwD8wB2ALIeBcyLos2KIE6HZvkruYolIGdr2vpw57JJ
+Uy3vi5BeAAABbsjkPC0AAAQDAEcwRQIgP3/CqrNNHaGhBEbhSFtRi2/xnegLtpk4
+QS54icHHXlsCIQCWrJ+qaonEJmOrkj/3VqxGQUqLbqebyDejHf3A0NVO7TANBgkq
+hkiG9w0BAQsFAAOCAQEADsROZeml5Q9HE6nhlwTH+kO9ahYqRrjH+zED0naikUg5
+nOB5Y0/eM/gUe7K457uo190s92hKRZeEdgBqEmKJAhrhYerJxHigICeP7S9IxYA8
+5AJHfbtqZpi/vVTDB9ZxuKlMnQOD4+K9hrRFc+oSkox/Pa9l5I1lqaU7Tv7rgKLY
+Z1gjigG0Z27Fs0N8g2fKhnIQCC7QLl1eTzqzD+rZyVhR7oNOho20DAx5ebZt34E3
+ZSmKy/ely0ilbPrAo7rXMSMNVYhqkCg0fRBYLsKS5ttzYqlS2/fVCpYbdmiZ6ugl
+nD/lHqp3cG3NT0PVysQts23iN7+j8uQBZqdHhLzgZA==
+-----END CERTIFICATE-----
+subject=/CN=rokna.net
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3318 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 3088370D71A5B3AAF37449E2792FE26464DF296D0ECD3DFA7D79002803822E93
+    Session-ID-ctx: 
+    Master-Key: 42018E66AC9FD952D0A8DE9DF082D8C1B4D475AEE47161D44D6E9200142636B0DA39677A18ACD27B887138D70527A12B
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 0a 36 12 06 8f 93 3b 09-93 19 c3 46 c3 d5 e5 6b   .6....;....F...k
+    0010 - e4 90 0b 4c 9a 45 d6 d0-e4 64 ab be 15 6f aa ab   ...L.E...d...o..
+    0020 - 09 68 5c 02 ea fc ee 8c-50 e3 97 a2 0e 19 b9 d6   .h\.....P.......
+    0030 - 2c 73 a6 2a e4 eb 6e 6a-b2 0c 38 57 4a aa b2 b5   ,s.*..nj..8WJ...
+    0040 - 4c da ed 2c ca c9 9c 39-2a f7 d6 c7 d7 4b cd e2   L..,...9*....K..
+    0050 - bf 4b 0a d1 71 2b 80 5a-91 78 a2 ee bb bd ee aa   .K..q+.Z.x......
+    0060 - 1a 9a f1 f5 bb 10 ca 81-6d 34 03 35 80 7e dc 8a   ........m4.5.~..
+    0070 - 71 91 b8 e0 d5 92 b8 d0-c8 61 f4 66 21 b9 a3 3a   q........a.f!..:
+    0080 - 42 f6 36 e1 48 50 31 77-b5 35 a8 44 98 6d e4 80   B.6.HP1w.5.D.m..
+    0090 - fe 3c d0 31 cc 8e 50 90-fb d1 27 6f 8f 3b 5e d7   .<.1..P...'o.;^.
+    00a0 - 69 26 ab ad 06 c8 75 4c-52 66 ad 35 54 a8 00 22   i&....uLRf.5T.."
+
+    Start Time: 1577475157
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

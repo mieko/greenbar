@@ -1,4 +1,4 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:/OU=Domain Control Validated/CN=*.turkiye.gov.tr
@@ -41,10 +41,11 @@ subject=/OU=Domain Control Validated/CN=*.turkiye.gov.tr
 issuer=/C=BE/O=GlobalSign nv-sa/CN=AlphaSSL CA - SHA256 - G2
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3447 bytes and written 666 bytes
+SSL handshake has read 3751 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -52,15 +53,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-SHA256
-    Session-ID: D7AD718CCDA97F3578971B3A4A8E1DC29CC537D7CB8B82328DB222810AD2EA38
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: FE44E1BF12491563668DB1ADF9113C6382D744173C3D41B34D77DE09CAA18C7B
     Session-ID-ctx: 
-    Master-Key: 835F0A1B7104E6D08F75176B783872517D06719D89BB9471BF4D3726A18BD7A68064944E817E09DDC1E984202B4E2E5D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472790756
-    Timeout   : 300 (sec)
+    Master-Key: 130621BCB1D75804E5AF812A5C28DED7F0DD1198280D27A0DC0CA05C2D3639E9250A75838EE2B7BC31F5C80A8CDE6E74
+    Start Time: 1577475178
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

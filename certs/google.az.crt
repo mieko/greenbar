@@ -1,51 +1,53 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=Mountain View/O=Google Inc/CN=www.google.com
-   i:/C=US/O=Google Inc/CN=Google Internet Authority G2
- 1 s:/C=US/O=Google Inc/CN=Google Internet Authority G2
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+ 0 s:/C=US/ST=California/L=Mountain View/O=Google LLC/CN=www.google.com
+   i:/C=US/O=Google Trust Services/CN=GTS CA 1O1
+ 1 s:/C=US/O=Google Trust Services/CN=GTS CA 1O1
+   i:/OU=GlobalSign Root CA - R2/O=GlobalSign/CN=GlobalSign
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEgDCCA2igAwIBAgIIPRLG8pXZZNYwDQYJKoZIhvcNAQELBQAwSTELMAkGA1UE
-BhMCVVMxEzARBgNVBAoTCkdvb2dsZSBJbmMxJTAjBgNVBAMTHEdvb2dsZSBJbnRl
-cm5ldCBBdXRob3JpdHkgRzIwHhcNMTYwODI0MTA0NjAyWhcNMTYxMTE2MTAxMDAw
-WjBoMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwN
-TW91bnRhaW4gVmlldzETMBEGA1UECgwKR29vZ2xlIEluYzEXMBUGA1UEAwwOd3d3
-Lmdvb2dsZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDeBp48
-ya9ctXRUhaAEOslgiYomPjsNm4rS6ID0wTsSH4Nf6WpVZewO2D2j5hyHpYVy5l0S
-QkHG4OUByV93+7plmtGl+Ukbyxle4mR1rrvg+RFQXZ88RacfF8PfUM4jBXvdbZ9S
-XchCZin/KwCOK7DcMUbHrk2LJDYFssGHI29+vOihNqmZi7XnRoMJsEBnI6TZL8DE
-t4F/9EmxpPOyZT1Zfqk+YDIxRAoIW6K5097TZ3ViJUa9D/tqRfz0wovLNUO5jrku
-dTU7Hl3tzdPYGfKsE7gKJ4K/1sY0rhZOClflvEGm/qR2q7G4eX2ZQBGcMX/tJ0gQ
-3asj6Z21smQgxmNzAgMBAAGjggFLMIIBRzAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
-KwYBBQUHAwIwGQYDVR0RBBIwEIIOd3d3Lmdvb2dsZS5jb20waAYIKwYBBQUHAQEE
-XDBaMCsGCCsGAQUFBzAChh9odHRwOi8vcGtpLmdvb2dsZS5jb20vR0lBRzIuY3J0
-MCsGCCsGAQUFBzABhh9odHRwOi8vY2xpZW50czEuZ29vZ2xlLmNvbS9vY3NwMB0G
-A1UdDgQWBBQNyzOVgZD9qV4N/F1nNMJ79aqddjAMBgNVHRMBAf8EAjAAMB8GA1Ud
-IwQYMBaAFErdBhYbvPZotXb1gba7Yhq6WoEvMCEGA1UdIAQaMBgwDAYKKwYBBAHW
-eQIFATAIBgZngQwBAgIwMAYDVR0fBCkwJzAloCOgIYYfaHR0cDovL3BraS5nb29n
-bGUuY29tL0dJQUcyLmNybDANBgkqhkiG9w0BAQsFAAOCAQEAIo6SzfrTRrhcMEjc
-jQEWkUVHnv1P5Ek2EpYYQT1JkEmIKDT5AFREcqhIAJWq7COi0uHaY/OLGd2guw3u
-j7yJQeSG5LvmWVZF3tVpGTUJbc9DbA6RvFdQIlOCkYwXMP6UBHUoNvLkzzGE3O6r
-RYL3gmtCfImrcmwtP3BMNP2Bdcrxz+YEo3YRp8Yn/B/EdJFmdYoQFcIxIHvM2Jmo
-5f7rbSDKs9KBvY2WddHOnzehYxxUI0pFu8B5mtKcvM4+2h/4QvSFUbPMIoJcS/qq
-gi1KfZ3JzFjkYVy1wQt/eBrAauJxazydh10HBHKOIdt8y9HJoWuJACJO6O0lJfAh
-Df1mQQ==
+MIIFiTCCBHGgAwIBAgIRAKj4thVDQxK2BQAAAAA8NKYwDQYJKoZIhvcNAQELBQAw
+QjELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczET
+MBEGA1UEAxMKR1RTIENBIDFPMTAeFw0xOTEyMDMxNDQ5MjZaFw0yMDAyMjUxNDQ5
+MjZaMGgxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQH
+Ew1Nb3VudGFpbiBWaWV3MRMwEQYDVQQKEwpHb29nbGUgTExDMRcwFQYDVQQDEw53
+d3cuZ29vZ2xlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO36
+tsAv/tMgd2dinrPjFxZ6DOoyqOwmStpYcotUQsghup/MeQFFXzOaHoqckM8AlVHw
+pMa950VlRAPfQEBEvPOYEV6Tx2u9EnS0wkeVB4XCZz59ouRNjO3g05vhk0mns6ap
+G9mS0LGR6YsLyiXLY0DopDfmS1NmSR6y+buca5+JUdhr3DaTVMnoXwRBQRM77fET
+4ut0sKLTLWc+y0rcLg2+5rfL0Q5yjRJij/fmeqzY0kAwO++dTM061iODXd/d/DPv
+2puPDJulaJ5Cse3JpNLcV8xFVPuH3GlxKCx2pHluux44eI1tnPMCBb6aWX9Je00t
+u/8vveiHBxJAHNhsPpkCAwEAAaOCAlIwggJOMA4GA1UdDwEB/wQEAwIFoDATBgNV
+HSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSbs3/h/Rb2
+EYn6AVVF2dOiukykpDAfBgNVHSMEGDAWgBSY0fhuEOvPm+xgnxiQG6DrfQn9KzBk
+BggrBgEFBQcBAQRYMFYwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vY3NwLnBraS5nb29n
+L2d0czFvMTArBggrBgEFBQcwAoYfaHR0cDovL3BraS5nb29nL2dzcjIvR1RTMU8x
+LmNydDAZBgNVHREEEjAQgg53d3cuZ29vZ2xlLmNvbTAhBgNVHSAEGjAYMAgGBmeB
+DAECAjAMBgorBgEEAdZ5AgUDMC8GA1UdHwQoMCYwJKAioCCGHmh0dHA6Ly9jcmwu
+cGtpLmdvb2cvR1RTMU8xLmNybDCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1ALIe
+BcyLos2KIE6HZvkruYolIGdr2vpw57JJUy3vi5BeAAABbsxzumEAAAQDAEYwRAIg
+Su7oB9Porkhn9N15k0Dvse9hfWebbejbZ9KkF2wzeiwCIB1sUMYSufXjU1PGipbT
+qdsB3zrrJNTWyx2qcltESJ1FAHUAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1
+loFxRVgAAAFuzHO6iQAABAMARjBEAiAR4P2K+GqSRqtlH+MRo4ow4EOHHFlYpIDi
+y+eyJbz+PQIgDqPqvMoCCXLokU9IfOYRIIm1NBaLVayBIGMMQXjCIyEwDQYJKoZI
+hvcNAQELBQADggEBACOaCeoNX9rqlOyXEwscdMiXZCJgZbvmFNp/ufhRvnvqvV+O
+zksGyEyL9JFi4skU/IyLa9mLntCG+zvbf3T8UHVCRUH8iRHGyHlT1Td9OP/5TssM
+uGAY0/AMWh1BjPnmXhndVqlHrjAfxz/8nVE+zmDoU3OkQI9pWKRm5BBEo7kk0+hc
+Tqavqoayz+OI9whz2FE8HBDfZczf2wDL19el8I3H8+X0C1AKx5E3lt0Rpx2IqvU/
+coqxWEuA6n4y43hnmyRyl997VisI79Slbhhh9B3NHRfVjhAVqMXFgIYhZ+iEh2zn
+L/U56Npzl72GzKQqwCV2t3itSpaUPGrhsz8nqN0=
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=Mountain View/O=Google Inc/CN=www.google.com
-issuer=/C=US/O=Google Inc/CN=Google Internet Authority G2
+subject=/C=US/ST=California/L=Mountain View/O=Google LLC/CN=www.google.com
+issuer=/C=US/O=Google Trust Services/CN=GTS CA 1O1
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3727 bytes and written 434 bytes
+SSL handshake has read 3190 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -53,29 +55,28 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 80764D2164234807E0F68191D79E72B3C4E50ADA06791C3A5A691F5EC95636E2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: FB63689AF0DA372D56F9D2FDA1DAAE29785DD174044707181C2CE8763D15BBE0
     Session-ID-ctx: 
-    Master-Key: 6909E0BB784BF75D1D7CD2FAE99512A29086B7C2C15ECE7B3A8D8608041FABD389669A5C290F1C9C05BBA65FBF3F8EE4
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 30D0F0609F1EF0DBFDD0515077350843D4740253B92252BD56C9F5C6AE56AE57B47B629EFA877CA5568E6ABB2C18EF6F
     TLS session ticket lifetime hint: 100800 (seconds)
     TLS session ticket:
-    0000 - d9 16 e6 49 16 33 ec cf-6c fc 8c 82 13 ec a6 e2   ...I.3..l.......
-    0010 - 2d ff 48 9b cc 38 76 0e-4e 7e 99 d4 52 7d d1 b1   -.H..8v.N~..R}..
-    0020 - f7 76 8e 74 ec e5 51 56-42 e7 44 90 9d 72 f1 83   .v.t..QVB.D..r..
-    0030 - 3d c7 30 bc 5b ee 5a 76-21 64 a6 8a a2 b6 47 81   =.0.[.Zv!d....G.
-    0040 - 8e 4f d8 97 70 7b 5c 87-14 08 91 7f 08 a8 5a 9b   .O..p{\.......Z.
-    0050 - 10 db ca c1 d4 14 da 2f-e3 df 35 83 3e f0 58 4d   ......./..5.>.XM
-    0060 - 6c fb 0e 46 41 31 bf cc-bf 67 ef 86 d3 e5 89 54   l..FA1...g.....T
-    0070 - 24 03 0a d2 61 35 c4 45-44 d7 bd 37 7c f6 e5 00   $...a5.ED..7|...
-    0080 - 28 04 73 cd d8 8a d2 b6-ad 4b 26 74 ad bd af f0   (.s......K&t....
-    0090 - 1f 24 fc 87 12 0e 3c cd-51 da d6 87 57 36 2b cf   .$....<.Q...W6+.
-    00a0 - 22 03 19 09                                       "...
+    0000 - 00 6c 3f f8 bb 37 03 74-3a 29 71 d1 47 4e 7b b9   .l?..7.t:)q.GN{.
+    0010 - 27 f4 c7 c8 0b 7f a3 2e-d2 c6 c5 f1 ba 1a 3f 3c   '.............?<
+    0020 - a5 26 65 6a bf 6b ed 61-64 9f 11 49 c0 05 22 40   .&ej.k.ad..I.."@
+    0030 - bc 37 1a cc 44 46 4c 6f-cc d4 e9 6b 49 6b 01 ce   .7..DFLo...kIk..
+    0040 - 62 88 75 62 b2 e8 ad 3f-81 08 cc 1f 5b 25 b5 77   b.ub...?....[%.w
+    0050 - d7 dc 20 76 e5 38 c4 6d-31 d5 6e dd 2e f0 1f aa   .. v.8.m1.n.....
+    0060 - 5f 2c 90 9d a1 0c 1d 13-d0 34 bb 34 72 dc 21 d8   _,.......4.4r.!.
+    0070 - 6c b4 ed e3 1a 4c ec 88-82 57 55 9b 01 94 b9 78   l....L...WU....x
+    0080 - ed a7 bc 02 08 c4 2d 16-fb 42 47 7f 13 c2 2f 22   ......-..BG.../"
+    0090 - 24 1b e8 87 9a ff 8f 12-83 2d 00 46 7c f9 75 1a   $........-.F|.u.
+    00a0 - 9e d9 25 eb 74 c9 22 29-e1 e0 17 4e 96 51 ae e3   ..%.t.")...N.Q..
+    00b0 - 27 9a f8 c3 1d 95 42 a8-0f 76 c7 4c 16 d9 d5 b6   '.....B..v.L....
+    00c0 - e5 81 fa ba a4 ad ca 1e-a9 3d 73 51 3e d7 b2 0f   .........=sQ>...
+    00d0 - 46 52 0b 23 4f                                    FR.#O
 
-    Start Time: 1472788131
-    Timeout   : 300 (sec)
+    Start Time: 1577475110
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

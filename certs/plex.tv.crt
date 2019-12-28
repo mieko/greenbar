@@ -1,0 +1,78 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=*.plex.tv
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZjCCBE6gAwIBAgIQCK/sPqdI3A0oFwvKJ3waWzANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTA4MjkwMDAwMDBaFw0yMDA5Mjkx
+MjAwMDBaMBQxEjAQBgNVBAMMCSoucGxleC50djCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAJKqh+29H8wRohT8FoPF0EHrMBS1+w7xvle7Yza6hpVCnaoJ
+rythsayyWObUk4wZB6RKpR+a/HKPG5tn4j/rekbSIIA6xIhSr/r8CXhCcysbu6cT
+nKSIrvnGVzBWWGYyOKXz14SKjbAmxyIpq/XQjN8nxBi31eiUBlk0FspM3FbYpWlm
+jz1Q+j+9f3BKjquPh7On10+/fzdyH/hgm+nSukwYwsaKRZGWzHrRDvDuo5yi0d13
+TqFlAwCklHxR9Z0/7U9Bs9KIsT3npNx2xSuAfOGeuxD7KKFCUP21RzluXpakJwqn
+wu7ojm361nZ7LT3+BwP0CviBUIGyKWykYka5HpkCAwEAAaOCAoAwggJ8MB8GA1Ud
+IwQYMBaAFFmkZgZSoHuVkjyjlAcnlnRb+T3QMB0GA1UdDgQWBBSKt4BEPbYk9Omb
+5Ym3D5a/pe9X+jAdBgNVHREEFjAUggkqLnBsZXgudHaCB3BsZXgudHYwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8E
+NDAyMDCgLqAshipodHRwOi8vY3JsLnNjYTFiLmFtYXpvbnRydXN0LmNvbS9zY2Ex
+Yi5jcmwwIAYDVR0gBBkwFzALBglghkgBhv1sAQIwCAYGZ4EMAQIBMHUGCCsGAQUF
+BwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3Auc2NhMWIuYW1hem9udHJ1
+c3QuY29tMDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnNjYTFiLmFtYXpvbnRydXN0
+LmNvbS9zY2ExYi5jcnQwDAYDVR0TAQH/BAIwADCCAQYGCisGAQQB1nkCBAIEgfcE
+gfQA8gB3ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABbN5dfzoA
+AAQDAEgwRgIhAK3AWhIHn6ZbRJ83nQEHxa1l9cxUVg43xs3u3JwnTleLAiEAi4a4
+BS+26Btg7wobJTPLRoIVXPxZTqrqHzQ7m62rSKIAdwCHdb/nWXz4jEOZX73zbv9W
+jUdWNv9KtWDBtOr/XqCDDwAAAWzeXX+7AAAEAwBIMEYCIQC5xf0/B4JOUDe4UnmS
+HVmOhRaVFjIsTPuJT/xSU7luzwIhAKGJk36OW/jU2G2TumI5n8W4DHpKLUxCc747
+Wc6vkpwxMA0GCSqGSIb3DQEBCwUAA4IBAQCZ67Bv5H+t//9xCzHkY+rohnAKObFc
+VXeYBmzi1nqAKoHIE/5RSNMg78QRAd5Kxg7b2P3WAemOoINUc3np7ndsQx9Sz4Lu
+bfDI0d9J0i7gFIkRsExGMGWOxm/nvwdP6kl3/INlx5dBJq5JytJxXuXrwbVTlQRF
+tlEQHzHPiTPzV63aiF1LrQhhfdL4yRfYPyNja6+mEazMo/AqvEGhyk8ng4Q+g/uF
+rByhuQzPhULDaNf+vodcxnmfTvmjn9NBCb4e3szCC6czmVJaSs+nO1S4X7QbvCFJ
+nPQrcwi/6hYj59B+w3kPW4q0cTH8IBJ7lIOUZWrdXPtCRMmVIOpT7wqM
+-----END CERTIFICATE-----
+subject=/CN=*.plex.tv
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5443 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: CE1E87F7985B5F2964C8D9FE6A54F021B4406F69ED966A80C53055FC5455044B
+    Session-ID-ctx: 
+    Master-Key: 76CD0FBA0467FD64A087619C6CDC112BC498F6FB2B191A373F2F42DFDCB69511A3BCA790250BD6FF37F23D23D93BEA29
+    TLS session ticket lifetime hint: 172800 (seconds)
+    TLS session ticket:
+    0000 - 53 53 4b 2d 45 30 30 34-33 38 31 37 32 00 00 00   SSK-E00438172...
+    0010 - 96 4c b5 bd 45 c6 9e 02-f4 ba 50 0a 0f d1 d9 80   .L..E.....P.....
+    0020 - ee dc 35 58 7e cf 40 3a-63 5c b5 bc 85 08 e0 22   ..5X~.@:c\....."
+    0030 - 74 f6 e4 0f 2e ec 1d e3-dd ed cc eb 5c 62 ea cd   t...........\b..
+    0040 - ef dd d1 32 ad 7d a0 53-9b b8 2a e1 ba 87 73 69   ...2.}.S..*...si
+    0050 - 7a 34 b4 94 7e ec a2 37-27 e9 a5 0a 86 64 ea 1f   z4..~..7'....d..
+    0060 - 51 a4 11 ff be 2f 28 b7-                          Q..../(.
+
+    Start Time: 1577475762
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

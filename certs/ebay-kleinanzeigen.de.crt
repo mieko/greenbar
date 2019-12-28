@@ -1,65 +1,63 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=2871352/C=US/postalCode=95125/ST=California/L=San Jose/street=2145 Hamilton Ave/O=eBay, Inc./OU=eBay Classifieds/CN=m.ebay-kleinanzeigen.de
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/C=US/ST=California/L=San Jose/O=eBay, Inc./CN=ebay-kleinanzeigen.de
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIH4zCCBsugAwIBAgIQBxPaybxEgbaqL24ShLhGmTANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTUwNjAyMDAwMDAwWhcNMTcwNjAx
-MjM1OTU5WjCCARQxEzARBgsrBgEEAYI3PAIBAxMCVVMxGTAXBgsrBgEEAYI3PAIB
-AgwIRGVsYXdhcmUxHTAbBgNVBA8TFFByaXZhdGUgT3JnYW5pemF0aW9uMRAwDgYD
-VQQFEwcyODcxMzUyMQswCQYDVQQGEwJVUzEOMAwGA1UEEQwFOTUxMjUxEzARBgNV
-BAgMCkNhbGlmb3JuaWExETAPBgNVBAcMCFNhbiBKb3NlMRowGAYDVQQJDBEyMTQ1
-IEhhbWlsdG9uIEF2ZTETMBEGA1UECgwKZUJheSwgSW5jLjEZMBcGA1UECwwQZUJh
-eSBDbGFzc2lmaWVkczEgMB4GA1UEAwwXbS5lYmF5LWtsZWluYW56ZWlnZW4uZGUw
-ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3+fyperFddpLJE7sDzDOZ
-fMIRQT48nnNuwCwIQvpPEsu40QKCPryosWwW3V6ai8Te62u7l2nB7tbfPISVMLXi
-v1VxCHzgF3S72wGjWf+B5u7DwD3ndBV+xZAe8ezOSXSnLDZgnPeli8oyLozLKpNQ
-m4YBx1ApF00ZolOHIa4hh97pbswBQVnSP7WhxeaLDwBSGYQbMfwcR/XNbCtU4pXv
-zhoI8BXimd2/hasbanyX9nl4maD8SD5gcp101n8BcODgQegCOmWHaeNh2PGqQkh9
-CKH64sZYVf0G54LBdO10Ig2AZ60gI653zsYy3lf6pM+77Q+L/zAc+VfgPCEiYwwJ
-AgMBAAGjggPKMIIDxjCB+AYDVR0RBIHwMIHtghlhcGkuZWJheS1rbGVpbmFuemVp
-Z2VuLmRlgh1hcHB0ZXN0LmViYXkta2xlaW5hbnplaWdlbi5kZYIVZWJheS1rbGVp
-bmFuemVpZ2VuLmRlghpqb2JzLmViYXkta2xlaW5hbnplaWdlbi5kZYIVa2xlaW5h
-bnplaWdlbi5lYmF5LmRlghdtLmViYXkta2xlaW5hbnplaWdlbi5kZYIXbS5rbGVp
-bmFuemVpZ2VuLmViYXkuZGWCGnNob3AuZWJheS1rbGVpbmFuemVpZ2VuLmRlghl3
-d3cuZWJheS1rbGVpbmFuemVpZ2VuLmRlMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQD
-AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBmBgNVHSAEXzBdMFsG
-C2CGSAGG+EUBBxcGMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1jYi5jb20v
-Y3BzMCUGCCsGAQUFBwICMBkaF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBhMB8GA1Ud
-IwQYMBaAFAFZq+fdOgtZpmRj1s8gB1fVkedqMCsGA1UdHwQkMCIwIKAeoByGGmh0
-dHA6Ly9zci5zeW1jYi5jb20vc3IuY3JsMFcGCCsGAQUFBwEBBEswSTAfBggrBgEF
-BQcwAYYTaHR0cDovL3NyLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3Ny
-LnN5bWNiLmNvbS9zci5jcnQwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB1AKS5
-CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABTbIxmuUAAAQDAEYwRAIg
-PfE+PSY2PUir/ij6xGl2E8SmoZ4X6iORCZxuYk2RtAMCIAUtVaL14WTQcCBlw9e7
-jMmhg6XkyOaV8isAxloFQ5w2AHYAVhQGmi/XwuzT9eG9RLI+x0Z2ubyZEVzA75SY
-VdaJ0N0AAAFNsjGcGgAABAMARzBFAiEAjEoj9YSP4IMZcYkoc5Yg6ztBD8p/FBf3
-XSqS/BWjRSgCIDhe7ZeawdxE+6R9T8yWS5QQHqQacaSsnaIlIOkpzVicAHcAaPaY
-+B9kgr46jO65KB1M/HFRXWeT1ETRCmesu09P+8QAAAFNsjGa9QAABAMASDBGAiEA
-ou/w4/Jj7zEBB5loGOrfaB4ME0Cbqg+FAVxe/sOd2ugCIQCgmdi41rnAQG/74yiE
-NcdU6fx43RNbHnvRzlG0TrNNzzANBgkqhkiG9w0BAQsFAAOCAQEAzFIUqNjP8grP
-Jb5AHZNhIEi6o/s8AaZzDyjz1v9QAz16x+9J9DrZkbbkd9++Srq6NeY6IHlbHAK5
-UKhRtQm5wHy3OxjJ/8RHtCIKh9IMvD5bA4hpGwO3moBbHLIVrcYhiY3fLRz+g1GK
-yPju5minSNWfD4/LYhAHs5QH7tEpeBzx6PEvRpjVKkzX1fWBcbYBfLcRLSGVE2e7
-vphIRZYYgLxzfNjFrnst4Uq9DgISvX/s5bNCayN5c4pFE1Mz8od3LtpE2gaaK0U/
-muFhxokok0MELWhq6TxmsE6aG9udYLEXCbQ33JSyjmMbO8fu9Jlal2MJrqhsIH+P
-RWiarEochg==
+MIIH1zCCBr+gAwIBAgIQAc6K7SLNWFJvxVi20WnH2jANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkwMTA4MDAwMDAwWhcN
+MjAwMTA5MTIwMDAwWjBqMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+YTERMA8GA1UEBxMIU2FuIEpvc2UxEzARBgNVBAoTCmVCYXksIEluYy4xHjAcBgNV
+BAMTFWViYXkta2xlaW5hbnplaWdlbi5kZTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBANx0mYsX7PgFV6Fu3EV0u3TqSMAvxRUYYITJIp8nb57DJvmT5NXo
+adRKvPhGGYvtCPu7q5q/HmXtbRuPxulwykCloYpt/E8s+4he6QY5anRt74EwaWqj
+M2rWMHp0F34qgL+5TzAqWdufbETw+VVb6zFdjCMvKb/ID8wKNlf9+Pg8w6BPR/o1
+ygKxOMDDzInTRCwxKG52OgzdI7LlasJXgRq9EjfJy4+guuhhtwhM7el2QynozC52
+lMygHySMv2lOo0bY4/viiycQ1dj0AtpZcg2uXWUG/qcwAqvOn72VfeLyElEU33HJ
+0CiQl1TKS0q7r7MjuR9K6NjhNwlY+jrrIpsCAwEAAaOCBJQwggSQMB8GA1UdIwQY
+MBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBTKXPD9XAS5qLJIYMX/
+yEHrTfLQFDCCAdEGA1UdEQSCAcgwggHEghVlYmF5LWtsZWluYW56ZWlnZW4uZGWC
+GWFwaS5lYmF5LWtsZWluYW56ZWlnZW4uZGWCHWFwcHRlc3QuZWJheS1rbGVpbmFu
+emVpZ2VuLmRlghpibG9nLmViYXkta2xlaW5hbnplaWdlbi5kZYIeZmVlZGJhY2su
+ZWJheS1rbGVpbmFuemVpZ2VuLmRlghpqb2JzLmViYXkta2xlaW5hbnplaWdlbi5k
+ZYIVa2xlaW5hbnplaWdlbi5lYmF5LmRlghdtLmViYXkta2xlaW5hbnplaWdlbi5k
+ZYIXbS5rbGVpbmFuemVpZ2VuLmViYXkuZGWCHW1hZ2F6aW4uZWJheS1rbGVpbmFu
+emVpZ2VuLmRlgiFwcmVpc2ZpbmRlci5lYmF5LWtsZWluYW56ZWlnZW4uZGWCHHNl
+aXRlbi5lYmF5LWtsZWluYW56ZWlnZW4uZGWCG3NmYXBpLmViYXkta2xlaW5hbnpl
+aWdlbi5kZYIac2hvcC5lYmF5LWtsZWluYW56ZWlnZW4uZGWCHHRoZW1lbi5lYmF5
+LWtsZWluYW56ZWlnZW4uZGWCGXd3dy5lYmF5LWtsZWluYW56ZWlnZW4uZGUwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBrBgNV
+HR8EZDBiMC+gLaArhilodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1zaGEy
+LWc2LmNybDAvoC2gK4YpaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Etc2hh
+Mi1nNi5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYc
+aHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwfAYIKwYBBQUH
+AQEEcDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYI
+KwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNI
+QTJTZWN1cmVTZXJ2ZXJDQS5jcnQwCQYDVR0TBAIwADCCAQQGCisGAQQB1nkCBAIE
+gfUEgfIA8AB3ALIeBcyLos2KIE6HZvkruYolIGdr2vpw57JJUy3vi5BeAAABaC3O
+ZsEAAAQDAEgwRgIhAPhsCFJvlUUoQLGIxAz4QQM7maqrzkDM+Hgvp41D8xqVAiEA
+rXhP2R9lILNzRnGSpv6hox7nTZFTnQ6jxB7xJJFkRxMAdQCHdb/nWXz4jEOZX73z
+bv9WjUdWNv9KtWDBtOr/XqCDDwAAAWgtzmeIAAAEAwBGMEQCIBsOmH/UaBjIn/nf
+QblzH1EPPE8QBIea2mbOGPwEucsxAiBebMr3GaGk4s1oC06969OMxyy/Jo82J9sE
+PlFJ74OImjANBgkqhkiG9w0BAQsFAAOCAQEAUGyOlsnlSuhU829tBICqUjA/eCAx
+WVtjn34N2UUTv+bE+Qd2k4IwmTSW109GJa598keCWHTyuWF1NVYDlmp8YqNTnAjY
+d2fSUH1xoDzEcRcqEjRdspq7bZtbRrbp3kSVZ5TpH/nvZMPiQNecEuTx7EJ6s5n0
+5B0O8+DGJHsCMhwADtoQJSskc9Adj/TA4vh3MUOmwU/I8GnYNzl13wxLiM+P1gXX
+h/hIYcU1zR+PaRG0qJf9omGrDUZZNn5DvaM0Eom3FWIVgjJhGk6lPa223wo7OpPv
+NtUSmmkyBarRsVmXZ/UJyU1iQt3neP3Xte5Y5vG1ReD2Yh4oDuAtyVgAmQ==
 -----END CERTIFICATE-----
-subject=/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=2871352/C=US/postalCode=95125/ST=California/L=San Jose/street=2145 Hamilton Ave/O=eBay, Inc./OU=eBay Classifieds/CN=m.ebay-kleinanzeigen.de
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/C=US/ST=California/L=San Jose/O=eBay, Inc./CN=ebay-kleinanzeigen.de
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA256
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3848 bytes and written 434 bytes
+SSL handshake has read 3860 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -70,14 +68,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 9C2CB10B7C9E4BD57337AD43074056570B9CCBDC9CCC73733AA8328394708BD4
+    Session-ID: BA79A53EBCCDCBA9680C55257ABA92C4C7DA42261A16DE116F3BBE4FD84B955A
     Session-ID-ctx: 
-    Master-Key: 091382E9EC600CCC9077EAA465ADC1D283485C5BF9BDEAD084BC57A351C7E904373670D0A9B2EF48259F5FE57D5152ED
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788169
-    Timeout   : 300 (sec)
+    Master-Key: A3D6D8F82BAD1EE3299DB8B755BCAE385A773AF66F2D78C3B13760ACE6BABCE13EAFEAD5A06FB88E3182AF0EAD96BEF3
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7b 03 bf c9 75 d4 e8 bd-7a 8e d3 30 98 06 fc a7   {...u...z..0....
+    0010 - 4f f1 95 d8 51 bc 83 59-4e dc b0 79 2f 73 4b 89   O...Q..YN..y/sK.
+    0020 - 8f 63 bb f1 5a 37 c7 9e-34 c7 4c 93 34 45 49 bd   .c..Z7..4.L.4EI.
+    0030 - d8 22 40 98 0c 84 f5 81-53 b2 f5 0a 01 41 ca dc   ."@.....S....A..
+    0040 - dc 53 65 1b c8 0c 3f 98-33 df 89 a6 18 ee 60 ad   .Se...?.3.....`.
+    0050 - 31 79 2b c7 69 6a bd d5-63 e2 27 94 ba 72 ab e8   1y+.ij..c.'..r..
+    0060 - 45 ab 3e e5 92 23 8c 3d-85 1d 83 1a 2c 77 45 75   E.>..#.=....,wEu
+    0070 - f5 ad 35 09 a8 96 6f 0b-99 bc e6 6c cf bf c2 2a   ..5...o....l...*
+    0080 - c3 5f f6 ad 0d 8b f5 74-aa 19 fa 32 9a 7c 07 d1   ._.....t...2.|..
+    0090 - ae 5d 08 1b db 95 d2 7f-ed f6 e2 58 49 0f 09 e8   .].........XI...
+    00a0 - da 47 02 0d 0a f0 95 41-04 52 e3 ea 5c 2b ef 95   .G.....A.R..\+..
+
+    Start Time: 1577474948
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,0 +1,70 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=useractionsrv02/emailAddress=root@useractionsrv02
+   i:/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=useractionsrv02/emailAddress=root@useractionsrv02
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID9jCCAt6gAwIBAgICfpowDQYJKoZIhvcNAQELBQAwga8xCzAJBgNVBAYTAi0t
+MRIwEAYDVQQIDAlTb21lU3RhdGUxETAPBgNVBAcMCFNvbWVDaXR5MRkwFwYDVQQK
+DBBTb21lT3JnYW5pemF0aW9uMR8wHQYDVQQLDBZTb21lT3JnYW5pemF0aW9uYWxV
+bml0MRgwFgYDVQQDDA91c2VyYWN0aW9uc3J2MDIxIzAhBgkqhkiG9w0BCQEWFHJv
+b3RAdXNlcmFjdGlvbnNydjAyMB4XDTE3MTIxOTEwMjYxMVoXDTE4MTIxOTEwMjYx
+MVowga8xCzAJBgNVBAYTAi0tMRIwEAYDVQQIDAlTb21lU3RhdGUxETAPBgNVBAcM
+CFNvbWVDaXR5MRkwFwYDVQQKDBBTb21lT3JnYW5pemF0aW9uMR8wHQYDVQQLDBZT
+b21lT3JnYW5pemF0aW9uYWxVbml0MRgwFgYDVQQDDA91c2VyYWN0aW9uc3J2MDIx
+IzAhBgkqhkiG9w0BCQEWFHJvb3RAdXNlcmFjdGlvbnNydjAyMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8JhxAyClHvQgUlRtk0sdfRDywQ/M1xa/8AdD
+R2I2dO26AzNZHTFUJs9Qw3nrwYBdjFUs6ySiMHlRUoK1iSOkxAInP9S/GxtABzLU
+wzxm9UC3TJM0SUfjr/ay7Oa3j84IS506cDnFd8phz4Fv7nYJTJUaohLZcilGh0yK
+t5oR8cqFZVLW+HVoLJ2lb4txGaeYJF1BxqE+HhJINHLWYfURuNVWuIbZB38X8ljE
+eUmYH0tnEWIZDX1P3iN/oqaAbP0iGs4VBaquLeLDOJUCgdBze1eHmAHHwll2veFy
+oQ0H2AGLN9ha1qRCuzOD+yZzdbN37I7SYm1uyThXv/+TTheMHwIDAQABoxowGDAJ
+BgNVHRMEAjAAMAsGA1UdDwQEAwIF4DANBgkqhkiG9w0BAQsFAAOCAQEAJ3Xq1bdi
+LndPBcUeW4VBY00cUScD5TrhqS0jjf+VOY/2afDBttljOIenq1MzMhNGkzNo5trc
+9mbr8mlZhvIYb6a45z7GmgTk+dsZVJkHBC24PHk8yyqCkQQJODCboLdTxk4CobJq
+NX0y3do7a04YmIp1ym2y2TxZSb1IAqGFPiMGTcZKs2bym7dw4mpaE4/V1QM+UuSn
+FahImBaRQd/1vPSKYPt+POkWYnjGflnOE7BS3kh8vt3z2DSeTt8OzccTqqVMRDuf
+efKtr/nX2Q02UOegPuqfMDFk0lSXcwA3WaF7EHnT5FmS7bx6mrSIUYOgGzmgSYga
+6x/suGFBIW1Aqw==
+-----END CERTIFICATE-----
+subject=/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=useractionsrv02/emailAddress=root@useractionsrv02
+issuer=/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=useractionsrv02/emailAddress=root@useractionsrv02
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1704 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 89A814515B8C304314A3DCCBAE976945085586A0BC06A8578B6F4D78236DC902
+    Session-ID-ctx: 
+    Master-Key: B215C09E34CB9595C8EB8EBA5D09C52100AC784252F4111EEE8B1EF2AF76E5CBE96A985C6EA0AE166D46905E98469DF1
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 17 9e 32 56 18 ff a6 31-23 7c 51 5d 13 0f e9 79   ..2V...1#|Q]...y
+    0010 - ba c3 5d 84 6f 88 49 d7-66 81 5b 37 23 40 35 2f   ..].o.I.f.[7#@5/
+    0020 - 32 e0 e4 17 f7 54 0d 7f-67 4e c9 26 e3 22 99 51   2....T..gN.&.".Q
+    0030 - b9 bd 59 98 aa 3d 47 b9-42 22 94 bf 68 a2 0f d1   ..Y..=G.B"..h...
+    0040 - 5e 7f a0 5a dd ee b6 b3-4f 7a 0a 18 eb 35 0c b0   ^..Z....Oz...5..
+    0050 - d6 3b 50 71 4f e8 1b b1-0e 07 11 86 5a 26 d9 dc   .;PqO.......Z&..
+    0060 - 05 8b 5a a4 9b 7f d0 31-be f0 62 a5 96 32 21 dd   ..Z....1..b..2!.
+    0070 - 31 38 79 6d c6 b9 45 d2-94 94 b4 f9 42 b1 62 fe   18ym..E.....B.b.
+    0080 - 27 17 28 b7 c5 66 2d 22-07 d3 d0 55 25 2e 25 e6   '.(..f-"...U%.%.
+    0090 - b9 17 34 2c cd 26 de c5-89 0e e4 f1 5d f9 4e 29   ..4,.&......].N)
+    00a0 - a9 6c d1 07 fe 29 01 0e-0c 1b 28 fc a1 a8 61 e2   .l...)....(...a.
+    00b0 - fc e0 e3 88 13 36 52 12-50 15 eb 37 0c 85 f2 eb   .....6R.P..7....
+
+    Start Time: 1577475601
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

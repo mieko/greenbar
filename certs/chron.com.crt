@@ -1,0 +1,81 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=newstimes.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFwjCCBKqgAwIBAgISAyGWu9wPcjxcnsvEHck+P3/6MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMDMwMTQyMjdaFw0y
+MDAyMDEwMTQyMjdaMBgxFjAUBgNVBAMTDW5ld3N0aW1lcy5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDSj62j1u90iwpfVEoLtFhEHHlgogKfW0Ki
+9Se9iUBP/LzBRjTm2bL6AMWnWhZ/DNO+tm2nY1cRIQoIpzpSY1XLGnWC2meE+mxn
+VzLE3IAJdEeHO1bQy/s2T4I36ZC4YO4qqSWIlP4/XjUNCDde0oGa8TjpjBZZvxAc
+TYOxSnFVpP37V86YBRQgqW3+JGl0Da9dSfKhKAEeOvN4rSbPvT2j4Uc9Lq1AEhXG
+tgAPivw0RG1gsKHXfin/CN4NdhwUlJEMXfVqRsixzrbx3//vUaUOckXKJQCDjMCz
+Zd3InGCBKhv+rL+iZ9INKTOvlRDAAsvgcrxHkSTcCvLV3WT1iJU7AgMBAAGjggLS
+MIICzjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPVRkAU5fBDBfpaA+/TH1LmFQSoq
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wgYYGA1UdEQR/MH2CEWNtZi5uZXdzdGltZXMuY29tghZtZWRpYW1nci5uZXdz
+dGltZXMuY29tgg1uZXdzdGltZXMuY29tghhvcmlnaW4tY21mLm5ld3N0aW1lcy5j
+b22CFG9yaWdpbi5uZXdzdGltZXMuY29tghF3d3cubmV3c3RpbWVzLmNvbTBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB2ALIeBcyLos2KIE6HZvkruYolIGdr2vpw57JJUy3vi5BeAAABbi8kcA8AAAQD
+AEcwRQIhAL7+ncrHbERrOPWcZ4YHENH1LIosz9xekK2bMvgzIKjdAiAWOT8tVDqu
+mLfsaF36HsDH7Ej2LZFomYLVG7CPmq0HkgB3AG9Tdqwx8DEZ2JkApFEV/3cVHBHZ
+AsEAKQaNsgiaN9kTAAABbi8kcEIAAAQDAEgwRgIhAOFQOKjzAhb8KB2PtAeE98FT
+Rpc/kdKRyPyCWpnh5M4tAiEAwJ6+Ex0nyLOBT1Jlt4RqueJUYyjE1vm2lHZ/eB2j
+o0kwDQYJKoZIhvcNAQELBQADggEBAHrW583lfiiid4frr6WhMKDffcVxy9oWeiHF
+Eb4XoNFcYLgVvdxA/v1D0x94oym8FMGTVXfRek8bpoQ8D9bw6BHcrj71HSnxikQQ
+6zwbynw0FY/QFtdI/U+KO9/mRvsUXTukmUB9RuswYj+2vzal797E4uJGjhf4qB+U
+FWThWJig3fgU8A/S09dan2SuhOkxMxFnEGZAE26H7QGboAES1Lm8jVNx4r24yc5N
+6cUzpBqpFQg8n4c9H3q/tlQaYYhF1LMeyRjyD1sB++1jB7PLGygMGW4ub9ec+AAk
+765xnV3Uzsnw7xzvS3VWXnwuqMqbTE4e7zPRbIVJgzuM+OqIl0o=
+-----END CERTIFICATE-----
+subject=/CN=newstimes.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3341 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 83797F16DAB88AC19A995F215D2851E83E58F86EF30BDAAACC5952AEB11C9964
+    Session-ID-ctx: 
+    Master-Key: 6D8599492786E731B5CC3E01FC8C6CBFC0292BD4D49FAEA2FEFFBE7ACCC638A6C8FAC78EA5FEE2DA46B6307BF6AC638D
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d7 2d 91 85 b4 8e 80 94-6f 83 90 96 ca e8 79 95   .-......o.....y.
+    0010 - 9d 73 2a fc 13 c8 ce 79-30 85 18 3a 44 53 11 84   .s*....y0..:DS..
+    0020 - 4a 8b d7 bc 9a 06 b1 2f-ae 8c a5 1b 5e 65 c3 6b   J....../....^e.k
+    0030 - 45 49 ed 36 b5 f7 52 a1-b6 6b 59 17 68 b0 3d 56   EI.6..R..kY.h.=V
+    0040 - 81 30 61 98 c9 bd ba 6e-10 3c 0a 8f c1 05 67 a9   .0a....n.<....g.
+    0050 - 8f 16 c3 3f 3c d9 e9 6f-c6 3c 49 3e 75 91 08 d9   ...?<..o.<I>u...
+    0060 - 20 ad 8e 3c af 25 4e b3-a2 48 8f 16 8e 7e e0 37    ..<.%N..H...~.7
+    0070 - cf 21 98 0d eb 59 f8 47-7c fa 7f 98 01 eb a0 b7   .!...Y.G|.......
+    0080 - a9 70 83 d0 92 ef bc 35-cc 7d 45 62 f8 f6 58 42   .p.....5.}Eb..XB
+    0090 - 84 73 6f 87 c8 09 44 da-c0 29 b8 58 42 ca c2 0c   .so...D..).XB...
+    00a0 - 68 94 e2 98 43 cb 84 5c-73 da 23 a3 d2 07 62 a4   h...C..\s.#...b.
+    00b0 - a3 b5 ca e8 81 05 80 90-6c 77 97 fd 51 cc 0c bd   ........lw..Q...
+
+    Start Time: 1577475222
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,58 +1,40 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/jurisdictionC=RU/businessCategory=Private Organization/serialNumber=5067746789248/C=RU/ST=Moscow/L=Moscow/O=M.Video PAO/OU=DIS/CN=www.mvideo.ru
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/C=RU/ST=Some-State/O=StormWall/OU=StormWall
+   i:/C=RU/ST=Some-State/O=StormWall/OU=StormWall
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGPTCCBSWgAwIBAgIQO/HLSD0N5Fnckss9YIfeEjANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTYwNjIyMDAwMDAwWhcNMTcwODIx
-MjM1OTU5WjCBtzETMBEGCysGAQQBgjc8AgEDEwJSVTEdMBsGA1UEDxMUUHJpdmF0
-ZSBPcmdhbml6YXRpb24xFjAUBgNVBAUTDTUwNjc3NDY3ODkyNDgxCzAJBgNVBAYT
-AlJVMQ8wDQYDVQQIDAZNb3Njb3cxDzANBgNVBAcMBk1vc2NvdzEUMBIGA1UECgwL
-TS5WaWRlbyBQQU8xDDAKBgNVBAsMA0RJUzEWMBQGA1UEAwwNd3d3Lm12aWRlby5y
-dTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMCMdXK0Z+mMxlnuyfGV
-OUS5ZWJ7+DaT4D9x1Jrig2cRNmqkjggjIB9jzGSG8dFjCvXxAhizz6gr6gLs2z7v
-DvB2QCsGr5TIQ58mjEN4ipFPMWrDs/9dmNbYQxCekCvLiJw92MPs3f6tBeICB9+R
-KKGC0SAYZOKF8aiQwD5xDdgDlqV6kvOWvlF+WKiXrlTanWifZk0kPFBz6ZmBjTEa
-gsolkxFsLNW/6Qc0x0FxYGXaKn43G5B9GdBnk7L6fgnVlkDz60hI6MUm/K7I1aFX
-dAsC/Un4HJDO00APF6EtyRArO1QpOpDfd6JoHTV8KQhXvsjMGwMjoGRXYJgKyH8s
-jpECAwEAAaOCAoIwggJ+MCMGA1UdEQQcMBqCDXd3dy5tdmlkZW8ucnWCCW12aWRl
-by5ydTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAc
-hhpodHRwOi8vc3Iuc3ltY2IuY29tL3NyLmNybDBvBgNVHSAEaDBmMFsGC2CGSAGG
-+EUBBxcGMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1jYi5jb20vY3BzMCUG
-CCsGAQUFBwICMBkMF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBhMAcGBWeBDAEBMB0G
-A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBQBWavn3ToL
-WaZkY9bPIAdX1ZHnajBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6
-Ly9zci5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9zci5zeW1jYi5jb20v
-c3IuY3J0MIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYA3esdK3oNT6Ygi4GtgWhw
-fi6OnQHVXIiNPRHEzbbsvswAAAFVeHI/KAAABAMARzBFAiEAsNcVXbiN81LuO/8H
-yQp7mVP/3+RBTgJeAfCBZpL2cDwCIAdI+0mldryilJNJTJ6ahgiaj6z9ZOMfDQt/
-3SCC8ABEAHUApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFVeHI/
-RwAABAMARjBEAiB2YDraxlRjGmEa7NHRU6d2amBDA1QcYX0CSGHGoraF0QIgDhhZ
-bjObrdKOszMbg8XNMYlMp3C9PEFOG6H1oJivS6owDQYJKoZIhvcNAQELBQADggEB
-AKyZ1YGfiCiZ7BTZbQso5QVtqRqmWsuJeQ712pCkR6pzd/cvtBlG1Iz173UcoSL/
-Qg4EEl1z62gM5eYEtY+FkEM/KjeM1uKr7NMTqbFONKRDizApWjHd2XDKJR8d2MRC
-SmHKiVkWKBIdnoddWIqYtoJyQSAHelqXB5iCF9Aa/ERD9H2Q6YdbUuH875dlcYmh
-N6YktnG+E6XqFuTmOP1hs9QQFMTrHHhM5nahyAFlCH7IAWC9idKc4gP8q0YlZvu2
-i3jHf8W5gZ/c/c6epo1NpIuMZxqpkjVG4eQq5RiIjlKLA9gV/vFvcTbfHq2tTNHd
-eCBVD5+BtJbV9Yl5pRAoDmo=
+MIIDajCCAlKgAwIBAgIJALKnOcV5IA2IMA0GCSqGSIb3DQEBCwUAMEoxCzAJBgNV
+BAYTAlJVMRMwEQYDVQQIDApTb21lLVN0YXRlMRIwEAYDVQQKDAlTdG9ybVdhbGwx
+EjAQBgNVBAsMCVN0b3JtV2FsbDAeFw0xNzA4MTgwMzEyMjZaFw0xODA4MTgwMzEy
+MjZaMEoxCzAJBgNVBAYTAlJVMRMwEQYDVQQIDApTb21lLVN0YXRlMRIwEAYDVQQK
+DAlTdG9ybVdhbGwxEjAQBgNVBAsMCVN0b3JtV2FsbDCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALExpZJgOvhxmuJM5WmZHHRvPdtyHZotTeflhxtXqu2x
+kPt7o2QsUDl7mlA3iCH7TrkkkZNw2ys7lna+uID/yPYaYbX+9aLfFB7wqyR8MKXI
+co4UHDZ1mqZYNepC54bBly2EZjde4i2jy3hXLQ2aXyf2vJd6hMytW3XZNTx9Qg5w
+mlfGySZhIO2lAn2DA13L9QLWAjDMJPnDwUDzEZabiRhireOFG06QUISdJ2UEklZW
+PH6DGrqmIqtAP5uybSXjV9ZZpldytw74tQVmNpFieGg4B+hMJx7IkuxLuzxDz8Bc
+SMiMuPep+Yojrs016OgbhfDS01P8QipL7PTaWBmoS0cCAwEAAaNTMFEwHQYDVR0O
+BBYEFI1Ew8Krx+LPEtHGuwZXvB4y3IrkMB8GA1UdIwQYMBaAFI1Ew8Krx+LPEtHG
+uwZXvB4y3IrkMA8GA1UdEwEB/wQFMAMBAf8wDQYJKoZIhvcNAQELBQADggEBAJgv
+L/AFUPaaTxHHbwI3zR3jxrDJqpAhuAdD6L8ziu4lXAOFtCVqeab35htraWFYvCcS
+l943CoqOwdA4bx5ExCXQMwvx4ivNH7Sm3fuzF73qmwionsDxdyA2KCLobkpxhmx5
+0PJ3v8y6R7JN+2cqwtdLyZxvK/vpUgp/bupCENkQGa1a8uCvDzJt+TKdn23F5rnV
+gm+9jzgCfPiDyqmUU+3tf+KqOfC+GAtPojQVOq3YHT43ffifzNwpV/PTgJzZ5OX4
+2Q04hf90Q3Ity8DEIDGJnXh6IzenZqJ9KOgU+E6b3oMESPvDetwkQd7Nvg3PI64U
+zmBzpPAyGnUiNb9kU2Y=
 -----END CERTIFICATE-----
-subject=/jurisdictionC=RU/businessCategory=Private Organization/serialNumber=5067746789248/C=RU/ST=Moscow/L=Moscow/O=M.Video PAO/OU=DIS/CN=www.mvideo.ru
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/C=RU/ST=Some-State/O=StormWall/OU=StormWall
+issuer=/C=RU/ST=Some-State/O=StormWall/OU=StormWall
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4374 bytes and written 666 bytes
+SSL handshake has read 1515 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -60,15 +42,26 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-SHA256
-    Session-ID: 073C08B96D5F84B61BDE2F053709C3895376F9FCFE394B47623A06C5E760E148
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B23BE6E26BA0AAC18F5D023324D44FDA30B21178F6207D63B96CDAA50FB3DA0E
     Session-ID-ctx: 
-    Master-Key: 7A2948382F41FE35CA9D83D14F6F91DE9F044E52401E98B284E43AB9B7C7830942EF39A4F5EFBF90A74790519CF423D7
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472790686
-    Timeout   : 300 (sec)
-    Verify return code: 0 (ok)
+    Master-Key: E4DDA21EE2AA854136CC70714BC5FF7BB3E7F7691229FDAC0ED412103B6706A258C8A4BFB6985689706483BD1CB9F012
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - c7 b3 4a af 1e 48 98 1b-81 85 0c 5c c1 00 50 56   ..J..H.....\..PV
+    0010 - 59 f8 00 d2 d1 54 69 8d-c6 fd 3c 27 1c f2 44 e5   Y....Ti...<'..D.
+    0020 - ae da 71 d6 00 f0 62 3b-52 85 72 52 5e dc 75 bf   ..q...b;R.rR^.u.
+    0030 - 55 14 65 d9 d3 49 f7 13-49 f3 84 e8 dc 0a e5 ca   U.e..I..I.......
+    0040 - 0c aa 9e ba 7c 20 9d a7-78 75 d0 06 f1 3d df ae   ....| ..xu...=..
+    0050 - a6 bc 5e 3e 9a 16 5e f6-68 79 3f a8 73 0b 48 e5   ..^>..^.hy?.s.H.
+    0060 - 1f bc 7d 45 e0 6e 0c ab-27 c9 bd 08 8a df 09 13   ..}E.n..'.......
+    0070 - bf 05 89 e0 cb 9d 3b fa-35 94 3c b7 7b 53 1c 0f   ......;.5.<.{S..
+    0080 - 97 94 6d 01 87 df 5a aa-8a 15 19 f0 13 98 f7 9d   ..m...Z.........
+    0090 - 16 d4 a0 c1 7c 9b cc bb-10 8f d6 64 54 1a b6 0c   ....|......dT...
+    00a0 - ad 00 16 5d 0f e0 92 49-bd f1 dd 3e f6 d0 7a      ...]...I...>..z
+    00b0 - <SPACES/NULS>
+
+    Start Time: 1577475745
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
 ---

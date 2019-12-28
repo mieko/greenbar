@@ -1,50 +1,56 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=Georgia/L=Atlanta/O=The Rocket Science Group, LLC/CN=*.us1.list-manage.com
-   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
- 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
-   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
- 2 s:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
-   i:/C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+ 0 s:/C=US/ST=Georgia/L=Atlanta/O=The Rocket Science Group, LLC/CN=*.mailchimp.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEvTCCA6WgAwIBAgIQZCD9tBBZvJixsMTDwi/WxzANBgkqhkiG9w0BAQsFADBB
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
-aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUwMzMxMDAwMDAwWhcNMTgwNDI4MjM1OTU5
-WjB5MQswCQYDVQQGEwJVUzEQMA4GA1UECAwHR2VvcmdpYTEQMA4GA1UEBwwHQXRs
-YW50YTEmMCQGA1UECgwdVGhlIFJvY2tldCBTY2llbmNlIEdyb3VwLCBMTEMxHjAc
-BgNVBAMMFSoudXMxLmxpc3QtbWFuYWdlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
-ggEPADCCAQoCggEBAMV6fSj3VIfIiv2Hag+mVIR3vALuw+7SGo4coMGIo3Qkjecm
-omednw74+nnbq5ZIh4Dbpr4tntqK9T2/wP+v1hXuD6rQc/jrPN0ZkAg9q3Rfis2o
-zUfjv4HHwGUqtaOM83gnFtGaJ12dSxJm9NIkqglVgBQO0LgQM3KexKcV/b6oCF6K
-UHFYpJW/byglDnNlfkjXuyHSR5dFfkMsklwzkpXfHXHF+qL4E/z7WQ1r0lof/h2h
-nZ5+VuGk70Q7GnYTHkPkXIFUAvxVtyyHZ6Pqm9mpRQ7inqWQ7lBEbA5yo4oCOWtu
-6RMarobwm8GzQlUnB91cJebpjyMFDqiPExnomHsCAwEAAaOCAXcwggFzMCAGA1Ud
-EQQZMBeCFSoudXMxLmxpc3QtbWFuYWdlLmNvbTAJBgNVHRMEAjAAMG4GA1UdIARn
-MGUwYwYGZ4EMAQICMFkwJgYIKwYBBQUHAgEWGmh0dHBzOi8vd3d3LnRoYXd0ZS5j
-b20vY3BzMC8GCCsGAQUFBwICMCMMIWh0dHBzOi8vd3d3LnRoYXd0ZS5jb20vcmVw
-b3NpdG9yeTAOBgNVHQ8BAf8EBAMCBaAwHwYDVR0jBBgwFoAUwk9IV/zRT5rAXTh9
-DgXb2S61UmAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL3RqLnN5bWNiLmNvbS90
-ai5jcmwwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsGAQUFBwEB
-BEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3RqLnN5bWNkLmNvbTAmBggrBgEFBQcw
-AoYaaHR0cDovL3RqLnN5bWNiLmNvbS90ai5jcnQwDQYJKoZIhvcNAQELBQADggEB
-ACvdJXdTdlJiTmC6/Y2jX4n/1DLb/KcIvMfwcor1PeWsQCfRkgSRw8h4KEVMnzqI
-zoOW5yk+bjCFWhtCpno4cczFOpHMDEqZkE2tG7Lyc7fROIZNZTU82utIkoKxctDR
-s/USwGWpF14OAm1nBpKjzO1VnrJevfHRRIKv1sjAVz3wcSR1ZS0ISeVgoieBKoFZ
-nofxsikRer3srviQZDKAzQUJ2gYHHL8WpjajQ4V4iHpcO7PwcDNRj2QilDX/2Iu9
-SYQPWUuZXGrnfN+CJsXIoPNPdFBf25r1QLToSoarkeMlQoQcZVgd0bXUZ3c+5XR+
-lKX6RJPmsGP4JPfi40actW8=
+MIIGgzCCBWugAwIBAgIQAgVcQXv3w40GlqLujiBtsDANBgkqhkiG9w0BAQsFADBc
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMRswGQYDVQQDExJUaGF3dGUgUlNBIENBIDIwMTgwHhcN
+MTkxMDA3MDAwMDAwWhcNMjExMDE0MTIwMDAwWjBzMQswCQYDVQQGEwJVUzEQMA4G
+A1UECBMHR2VvcmdpYTEQMA4GA1UEBxMHQXRsYW50YTEmMCQGA1UEChMdVGhlIFJv
+Y2tldCBTY2llbmNlIEdyb3VwLCBMTEMxGDAWBgNVBAMMDyoubWFpbGNoaW1wLmNv
+bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOkwSkggr5yljJg8GGw8
+vJlkpBK5ZMaBXRLBWcb3aNiH12dng/LCwtoJcWYzM1ECvJ01+7RgjV38BPYoudKJ
+t/EpVgxNfunbS5bR3iYAMf5Y4IPQpiyZt2Njw5NZxCVbaRbs0FpmVnkaEUyZTo/B
+4pGAAFqVTLQh7NsmPikMZUtKKO31Q1OfHrqgaYyzd0V9te8tr4IXkytivfEKROq8
+n/iHMZltFgo2E5hjjRZpWIU0GtVThJ8zTYqiUGAZNBE0PzwZxQCShaag0pUIOPO+
+t0bwIbQIqGN8hmkRHtJlpZLSZHHHAPOt3ulK743bkS/y0YadBvPeUwH57mkYhkQF
+qEcCAwEAAaOCAygwggMkMB8GA1UdIwQYMBaAFKPIXmVU5TB4wQXqBwpqWcy5/t5a
+MB0GA1UdDgQWBBRDV5LTmo6UjpAtP+3HAx3Woo22sTApBgNVHREEIjAggg8qLm1h
+aWxjaGltcC5jb22CDW1haWxjaGltcC5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA6BgNVHR8EMzAxMC+gLaArhilodHRw
+Oi8vY2RwLnRoYXd0ZS5jb20vVGhhd3RlUlNBQ0EyMDE4LmNybDBMBgNVHSAERTBD
+MDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2Vy
+dC5jb20vQ1BTMAgGBmeBDAECAjBvBggrBgEFBQcBAQRjMGEwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9zdGF0dXMudGhhd3RlLmNvbTA5BggrBgEFBQcwAoYtaHR0cDovL2Nh
+Y2VydHMudGhhd3RlLmNvbS9UaGF3dGVSU0FDQTIwMTguY3J0MAkGA1UdEwQCMAAw
+ggGABgorBgEEAdZ5AgQCBIIBcASCAWwBagB3ALvZ37wfinG1k5Qjl6qSe0c4V5UK
+q1LoGpCWZDaOHtGFAAABbafqMJIAAAQDAEgwRgIhAPeQ6288q7u2upS2oaHWYCTF
+to5QsxW3vyA87lFVWJclAiEAp1hwuDAGLMw9Xk8RPgFVDh2A9ceFIimWoNFcuH8O
+CNwAdgCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAW2n6jD9AAAE
+AwBHMEUCIACocEqIzLMnXFIismEt1He9AxGPFBg6tzqhZp3cbJ8XAiEA6Hky3t+2
+T4yboYar7rRYsv/YcXCJJxDCi1iEIiIxPgUAdwBElGUusO7Or8RAB9io/ijA2uaC
+vtjLMbU/0zOWtbaBqAAAAW2n6i/4AAAEAwBIMEYCIQCQQmOmlCtIkV+jWHyg+AgZ
+SLTwWpR6BhtQokDzsmUzSwIhANE3aOhaoBsL8nru0UKNTMk5bhC1mbSBy4/d39Jk
+KLiKMA0GCSqGSIb3DQEBCwUAA4IBAQBPneZivgkSTUUQllKfaOKyE+eRzPNYOo6l
+Ho49XuAAirvIqYeZ5d0tGZ+5hpGtwQzu+UIaO0ShK/SXtpkySvtWn+5cBEj4OSKL
+VE2aJ9FgePu5D4TLwojEn+jtJUvjgk2izZfIGIe+NDo1sp1zzuA4DA+fhgW4b/Wn
+15oLMgkvzpurd3jwEdS79+aSbeJOIz10ESMYax6jtNBfWCiTPi3GflfY/imPzpZ/
+Jd206pyFmaqlaXZqGBfAs3pZQ4eRVRj8tv0kZhro7RJ/xafoK90h4lMNOpRDSTn9
+nqAeQay0pc6sFb1B6qeBM4FZQOQ5QSDGB32XHXqKcK2ooazGOF5d
 -----END CERTIFICATE-----
-subject=/C=US/ST=Georgia/L=Atlanta/O=The Rocket Science Group, LLC/CN=*.us1.list-manage.com
-issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+subject=/C=US/ST=Georgia/L=Atlanta/O=The Rocket Science Group, LLC/CN=*.mailchimp.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4185 bytes and written 434 bytes
+SSL handshake has read 3476 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -55,27 +61,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 16E75CD7A904844C3F2919D23E45D3C5704D1CC97A9A88CEE16027899A9BB4B7
+    Session-ID: 2EE6061C67D1714D2957B9D832ABF232BF567D969E7F91663E1CE139480F4A15
     Session-ID-ctx: 
-    Master-Key: 6B31530F93938B5D0E73B3085E9D01A5DE2DB6AEAA72F27933DFFEA1BEBB14D98905D3010F4B897D70AC1C6E3919C6B2
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 9CA2EF31E1097B5C54ED5772A1D486C00C34FC559D134FDCF46164FAC5094EE99236AEEF1286A93646A10539E5FEC49E
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 40 9a 23 4e 76 84 cb 6d-f2 cd c8 44 3e 2e bd e4   @.#Nv..m...D>...
-    0010 - d9 6f e8 6d 12 02 ff 88-64 db 79 b9 7e 54 4a 85   .o.m....d.y.~TJ.
-    0020 - 37 2d ef 18 ed 71 4a 12-44 82 63 5a 52 f8 05 a8   7-...qJ.D.cZR...
-    0030 - b4 bd 07 07 d7 92 9a 6d-55 5d cd 4e 04 93 97 5a   .......mU].N...Z
-    0040 - b2 d5 93 1c 04 a3 d3 1d-12 44 48 7b f5 7a e4 ad   .........DH{.z..
-    0050 - 35 ee 35 16 41 de e4 ae-07 58 d8 13 70 dc 7a c1   5.5.A....X..p.z.
-    0060 - 83 dd be a3 4f 5b e0 0a-9b e6 73 c2 0b 70 35 bc   ....O[....s..p5.
-    0070 - 1b ee 8f b9 f5 1f de b1-49 70 14 c7 15 ec 30 12   ........Ip....0.
-    0080 - 51 96 26 97 36 0c 5d 14-55 c6 a7 5b 8f 0f 63 8c   Q.&.6.].U..[..c.
-    0090 - 3a 80 6d 36 4c c5 9f cb-7a a7 1e f3 25 78 a1 a8   :.m6L...z...%x..
+    0000 - 76 34 3f 3d c1 b0 51 90-92 1f 6d 67 89 c6 9c 29   v4?=..Q...mg...)
+    0010 - 18 dc c9 85 56 9f 1c 01-5f a4 0b 82 19 c6 1e 36   ....V..._......6
+    0020 - 30 c1 cd 9a e5 15 e8 eb-a0 3d 76 57 fa fe 2e e9   0........=vW....
+    0030 - 39 00 39 b5 32 64 c2 9e-d2 1e e1 e9 da 1e e3 76   9.9.2d.........v
+    0040 - 79 c7 6d 6b 63 d8 36 6b-10 dd 68 80 71 d2 0e a2   y.mkc.6k..h.q...
+    0050 - 77 77 ee 6e 45 27 3a c0-e4 db df 79 9e 87 2f 96   ww.nE':....y../.
+    0060 - ea e3 02 23 cd 2c 4b d3-cf 1f 58 c0 03 70 d4 e1   ...#.,K...X..p..
+    0070 - 86 06 8b 27 09 9d e2 87-59 49 f6 21 7b e5 99 92   ...'....YI.!{...
+    0080 - 4b cc be bb ff 6d fe d6-d6 90 18 9b da 37 25 28   K....m.......7%(
+    0090 - 96 c5 7c 84 6b 60 25 07-d2 29 88 62 6b 26 95 af   ..|.k`%..).bk&..
+    00a0 - 72 fc 64 6f 85 8f 1d e0-44 70 ca 20 8c 97 bb b8   r.do....Dp. ....
 
-    Start Time: 1472788329
-    Timeout   : 300 (sec)
+    Start Time: 1577475108
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

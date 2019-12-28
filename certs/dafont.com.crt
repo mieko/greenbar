@@ -1,84 +1,87 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/OU=Gandi Standard SSL/CN=dafont.com
+ 0 s:/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.dafont.com
    i:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
  1 s:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
    i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
  2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
    i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
- 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE7jCCA9agAwIBAgIRAJNWsw8Pku6ZUDVoKbXxJL8wDQYJKoZIhvcNAQELBQAw
+MIIGezCCBWOgAwIBAgIRALvW0Mt/H9E6BnFUGtmt0mgwDQYJKoZIhvcNAQELBQAw
 XzELMAkGA1UEBhMCRlIxDjAMBgNVBAgTBVBhcmlzMQ4wDAYDVQQHEwVQYXJpczEO
 MAwGA1UEChMFR2FuZGkxIDAeBgNVBAMTF0dhbmRpIFN0YW5kYXJkIFNTTCBDQSAy
-MB4XDTE1MDcxNDAwMDAwMFoXDTE4MTAxMzIzNTk1OVowVTEhMB8GA1UECxMYRG9t
-YWluIENvbnRyb2wgVmFsaWRhdGVkMRswGQYDVQQLExJHYW5kaSBTdGFuZGFyZCBT
-U0wxEzARBgNVBAMTCmRhZm9udC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
-ggEKAoIBAQCoyfl0lxdfyCmeNtjVBHozSLxN21UxcZWKjQ5ojyJZ+4Gf/6YmaeNo
-DZcBA/AY4B/5MxbcVtv5Y9aj6INvG42Tcl71sn01TKWmcCzldfOmRlhNTWMAusAX
-0HZ9pEfA9J+IgXQH6XeAQJCMShebBbdh8jqG3VVCTxVSGmc0q7RakmexcuxQRYWI
-/X/m+dXUpJJSvgxYT99vtM+lsjqYn281b9xCT4yaeWIH2SwrU3FLD506atLOLoQ/
-UqbOL7NZWQ4zfdyX+Ru20HzKl2ou/fly1qjU/2e7bnLfxvL8KVA96Hinday1oLkQ
-yCK/nBbS5AF/Q9AtSULisJ4kLMXZgJvPAgMBAAGjggGtMIIBqTAfBgNVHSMEGDAW
-gBSzkKfYya9OzWE8n3ytXX9B/Wkw6jAdBgNVHQ4EFgQUW0q+gewJsB9Lhm0Rvuk/
-a4WiiOwwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYI
-KwYBBQUHAwEGCCsGAQUFBwMCMEsGA1UdIAREMEIwNgYLKwYBBAGyMQECAhowJzAl
-BggrBgEFBQcCARYZaHR0cHM6Ly9jcHMudXNlcnRydXN0LmNvbTAIBgZngQwBAgEw
-QQYDVR0fBDowODA2oDSgMoYwaHR0cDovL2NybC51c2VydHJ1c3QuY29tL0dhbmRp
-U3RhbmRhcmRTU0xDQTIuY3JsMHMGCCsGAQUFBwEBBGcwZTA8BggrBgEFBQcwAoYw
-aHR0cDovL2NydC51c2VydHJ1c3QuY29tL0dhbmRpU3RhbmRhcmRTU0xDQTIuY3J0
-MCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC51c2VydHJ1c3QuY29tMCUGA1UdEQQe
-MByCCmRhZm9udC5jb22CDnd3dy5kYWZvbnQuY29tMA0GCSqGSIb3DQEBCwUAA4IB
-AQARx7Jw864fbqVDux4IlCGC8012aD95if4hFpqncD3gFViXDAqaKu9Wty+iHM8t
-s/jkKowBbelcwNsc/zBQ67bF0Ulsxc0oj5M68ZlLcSjWrpceqqCb4YgvDptZWJ46
-wPcWb/2gqygC8wZsOU8KujTs6lisqyf/C9ZpdweULP+RUSXlPWQ1OEtmkzyWdAlW
-iWfWG0AJ/px3El5uMA6FksRUqsxb6/O6b31HFBoLEi3QN+UJcBag3nppYv3cAYBS
-Nh0wQbZN7LWAG6tn4FMJtQ7BkaWqWbkJtl1S7I6L8TPXe172u7FDr1NbjewPelXM
-3yLmClSgvvwznmrEOXgnSJmx
+MB4XDTE5MDkxMTAwMDAwMFoXDTIxMTAyNzIzNTk1OVowYDEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMSQwIgYDVQQLExtHYW5kaSBTdGFuZGFyZCBX
+aWxkY2FyZCBTU0wxFTATBgNVBAMMDCouZGFmb250LmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMwfKWkmA8lEoDyRZ44fHkdPUQLQVUL/Bt0V6JC3
+W4RB9cEXMYh7J18QZqZHjnHw2rdq5GcZe8Rk4cg6KvlgecQrlO1GFd752P2sIcwx
+PvjKmXxZh+TCZEd8Zs3FOmmjEd0x/JW62GQiVEnfqWOVhPx0OpsXDZcgd7p+i049
+/0I0sil6IqiOkq6//Dl3e0qkXShjAcmGej/HAz0x74XIZo1pgldqMUZ2Y03pPwQh
+eLOAhHOwCI4/i/R3ntgRIyylzFupWfdmLUgR3MCF1UIJg/HJ1+ZThFnFi4eEwsXZ
+LoUSU3m0lqFbzQPhcHzUd4bxA2XeG7fZAUq3LAiQ04GBHb8CAwEAAaOCAy8wggMr
+MB8GA1UdIwQYMBaAFLOQp9jJr07NYTyffK1df0H9aTDqMB0GA1UdDgQWBBTOnEl9
+Zyo2B3CwvfbvbiO3kgcnkDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSwYDVR0gBEQwQjA2BgsrBgEE
+AbIxAQICGjAnMCUGCCsGAQUFBwIBFhlodHRwczovL2Nwcy51c2VydHJ1c3QuY29t
+MAgGBmeBDAECATBBBgNVHR8EOjA4MDagNKAyhjBodHRwOi8vY3JsLnVzZXJ0cnVz
+dC5jb20vR2FuZGlTdGFuZGFyZFNTTENBMi5jcmwwcwYIKwYBBQUHAQEEZzBlMDwG
+CCsGAQUFBzAChjBodHRwOi8vY3J0LnVzZXJ0cnVzdC5jb20vR2FuZGlTdGFuZGFy
+ZFNTTENBMi5jcnQwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLnVzZXJ0cnVzdC5j
+b20wIwYDVR0RBBwwGoIMKi5kYWZvbnQuY29tggpkYWZvbnQuY29tMIIBgAYKKwYB
+BAHWeQIEAgSCAXAEggFsAWoAdgD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvM
+TvFk4wAAAW0gfcV4AAAEAwBHMEUCIF9UoZd7xp0bKifnwj2XJBDFfelal7ZxhCth
+P52Hp7UsAiEAwrPPcAnz806r6fPqBgHPhj5lztEdudA5zV3wa7+JdQsAdwBElGUu
+sO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAW0gfcWYAAAEAwBIMEYCIQDy
+PXUH0FPI/psbv6goEkJrMX4pG4cbiP5bd7VffsVZawIhAIpmI7RI+52NBePq3FYx
+0rctgJxPdEwyfGy6v7/1eP7lAHcAVYHUwhaQNgFK6gubVzxT8MDkOHhwJQgXL6Oq
+HQcT0wwAAAFtIH3FbwAABAMASDBGAiEAuIb1bOKzJ+SsPJRXck4TTJroxKknvb25
+IUhoTkFLrlICIQCR0j37RVzC+6/r0yw+B+U03kDigUozMr7rIc8rg6j4EDANBgkq
+hkiG9w0BAQsFAAOCAQEAMf1r8EzxwUvOqXjtxo4P2VUkFwyFmSCF+Ua8oxuSAfyF
+a6FXHhcwrB7wWeudfaqllFNwcvXij9Q3g1ffu8LgyVIrDiTYbFwR2trOjSodfqKM
+nvd9MIayi+fHJEqdz/1KIY5JpVnilVZNIPuqLTHhIGjalcn94brzIgquam++lypo
+PBNW2JiZvL0+WQaXM4YjKTrqascjUJjHXAN64NayFU5MH7Ay+3sUr1ooq/zuVbmS
+Zj4beEVw3da49joyLvCvEa3Q4XAguyThb1Rv9R4oW4eVOQNRJH7AV5taMnvbsFvc
+DKrrOF9Kqaf3brKCjkuIb09NzVpl+j+9TuPv7FPZLg==
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/OU=Gandi Standard SSL/CN=dafont.com
+subject=/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.dafont.com
 issuer=/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
 ---
 No client certificate CA names sent
-Server Temp Key: DH, 1024 bits
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 6155 bytes and written 506 bytes
+SSL handshake has read 5275 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : DHE-RSA-AES256-SHA
-    Session-ID: 0F78C4821E79D28258AD39926FE003B550B9EDF7EE203386F73CF6760AD49D12
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5A9800A1E6CFE3FDEB0D02DB1EB9E59D355A2ED3DF778B17333739DB7C53E2AF
     Session-ID-ctx: 
-    Master-Key: 8B5098C96CAB88EAFEFD7E6B19919F53A3FA5A099D7DFE385F0DC937CC16A84F6CDE40D4E2623AA8FD36845820720DD6
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 759EBFB06662569872E2B57CA2512DD76068C0AA4BF49C879EB753F02053942812E7080D90155F7AF862BCE9338C257E
+    TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - a2 6f 57 42 ac 19 6b 35-64 7a c9 4c 75 a3 0d 82   .oWB..k5dz.Lu...
-    0010 - e1 49 12 1a ee b1 b4 4f-52 9e ff 13 bd b5 d8 74   .I.....OR......t
-    0020 - e6 55 17 7d c3 2e 38 41-fa e1 59 e6 90 15 e4 07   .U.}..8A..Y.....
-    0030 - b6 67 f8 25 a5 5f d1 4c-1c a7 ed 20 da b7 27 cc   .g.%._.L... ..'.
-    0040 - 02 20 83 db 3b d0 0e ae-a1 64 91 74 4a 12 6f e0   . ..;....d.tJ.o.
-    0050 - 15 0d 7f f2 79 53 6b 5d-c2 39 08 d6 83 cf 1c 37   ....ySk].9.....7
-    0060 - 96 1d b2 09 50 a6 65 48-df 80 53 d0 f6 2a 47 1a   ....P.eH..S..*G.
-    0070 - 5c ec dd 4c 94 33 69 da-44 7d 07 59 86 e1 e8 0f   \..L.3i.D}.Y....
-    0080 - b4 ab ab 87 de 72 6e 2e-39 a3 a0 7e e0 7c 53 ff   .....rn.9..~.|S.
-    0090 - 77 5f 90 30 f6 cf a0 01-e0 3c d7 7a 7e ec 99 69   w_.0.....<.z~..i
-    00a0 - 89 0d 58 99 a2 0c 51 72-d6 4d 41 80 a1 2b 65 70   ..X...Qr.MA..+ep
-    00b0 - 84 ca e6 19 81 7e 41 93-c6 78 ca ce e0 33 e3 60   .....~A..x...3.`
+    0000 - 2f a9 e4 79 ff 56 a2 fb-f1 44 df 8d 7b 56 f7 ab   /..y.V...D..{V..
+    0010 - 0d 80 65 46 f0 5f 08 a3-a2 d0 ff d9 c0 f1 73 0e   ..eF._........s.
+    0020 - 7b 04 1b 7d 1d 2b 72 c2-b8 fa 6c 88 7e 60 5e 08   {..}.+r...l.~`^.
+    0030 - a2 8d a1 e8 d9 59 69 46-c3 dd c2 65 f3 11 60 32   .....YiF...e..`2
+    0040 - 40 a2 e8 ad be 78 5a 36-4d b8 5c 38 33 5f dc 75   @....xZ6M.\83_.u
+    0050 - 7a 60 76 8f e2 d3 bf bf-c0 32 97 93 d8 c9 12 9d   z`v......2......
+    0060 - f1 31 4b ee e0 94 84 c4-23 ed 6b 9d 9d 25 e6 8b   .1K.....#.k..%..
+    0070 - 58 99 85 00 e0 c9 c4 e9-53 6f a9 d4 66 2c 48 1e   X.......So..f,H.
+    0080 - 56 25 67 e6 c6 a3 5c 17-93 94 57 c6 b7 f0 7f 80   V%g...\...W.....
+    0090 - 62 fd 65 9b 85 b7 08 dc-7f 79 10 a1 23 83 38 5e   b.e......y..#.8^
+    00a0 - fd 67 2b 6d 21 55 da 09-7f 16 28 62 11 aa 24 95   .g+m!U....(b..$.
+    00b0 - 07 88 a8 e8 0b b8 c3 14-e8 b9 3b 61 28 6d b0 7b   ..........;a(m.{
 
-    Start Time: 1472789264
-    Timeout   : 300 (sec)
+    Start Time: 1577475366
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

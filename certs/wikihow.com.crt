@@ -1,98 +1,98 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=j.ssl.fastly.net
-   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
- 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 0 s:/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=f4.shared.global.fastly.net
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
    i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIONjCCDR6gAwIBAgIMdi2t5m4gwSkfwwEiMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
-BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
-bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
-RzIwHhcNMTYwNTE5MjI1NzA3WhcNMTgwMzEzMTQwMzIyWjBsMQswCQYDVQQGEwJV
-UzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzEV
-MBMGA1UECgwMRmFzdGx5LCBJbmMuMRkwFwYDVQQDDBBqLnNzbC5mYXN0bHkubmV0
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuWXL1sUftZfkuU+eAllv
-1qinQqRYCr2phVFaBgkImQslu6gNLgulMN2idH02G7yA9Vx1RzGqXeYskSaNzg2X
-B3d157mOtU5kHFt/RPxBizyHr9WVUWgXtG0D4/vHyJPyZ85mw1sQ3DI6PocloFkT
-27YDelcTR4KyENooaETw+Dy7m6RzL8vJAez0O/XHP6xJU376SS6SU+bGPZToR/Xb
-uX3LgaMhHRJSKdKyqS+NRJ2kzpgM3TTWq9ZCgzm5RtbpBhH2j4I8+AYIAcW3LWq7
-IOjFujRSIXkG4t/j57hIlJmeZqWMhNXsaqt/vhX/ocNsF8QTv3XNqkG2OUCYxQEK
-PwIDAQABo4IK3DCCCtgwDgYDVR0PAQH/BAQDAgWgMIGgBggrBgEFBQcBAQSBkzCB
-kDBNBggrBgEFBQcwAoZBaHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNvbS9jYWNl
-cnQvZ3Nvcmdhbml6YXRpb252YWxzaGEyZzJyMS5jcnQwPwYIKwYBBQUHMAGGM2h0
-dHA6Ly9vY3NwMi5nbG9iYWxzaWduLmNvbS9nc29yZ2FuaXphdGlvbnZhbHNoYTJn
-MjBWBgNVHSAETzBNMEEGCSsGAQQBoDIBFDA0MDIGCCsGAQUFBwIBFiZodHRwczov
-L3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAIBgZngQwBAgIwCQYDVR0T
-BAIwADBJBgNVHR8EQjBAMD6gPKA6hjhodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29t
-L2dzL2dzb3JnYW5pemF0aW9udmFsc2hhMmcyLmNybDCCCRQGA1UdEQSCCQswggkH
-ghBqLnNzbC5mYXN0bHkubmV0ghAqLmpveWZ1bGhvbWUuY29tggwqLnNwaGVyZS5j
-b22CECoudGVjaGluc2lkZXIuaW+CDCoudG1vZ3VsLmNvbYIMYTEuYXdpbjEuY29t
-ghdhcGkuc2NyZWVuc2hvdGxheWVyLmNvbYIVYXB0LmRvY2tlcnByb2plY3Qub3Jn
-ghBiaWxsdG9tb2JpbGUuY29tghIqLmJpbGx0b21vYmlsZS5jb22CEWJpbmFyeXBh
-cmFkb3gubmV0ghMqLmJpbmFyeXBhcmFkb3gubmV0ggpibGVuZGxlLmlvggwqLmJs
-ZW5kbGUuaW+CDmJvaW5nYm9pbmcubmV0ghAqLmJvaW5nYm9pbmcubmV0ghNjYWNo
-ZS5ydWJ5LWxhbmcub3JngghjYWZlLmNvbYIKKi5jYWZlLmNvbYIQY2RuLmJpdHNw
-cmluZy5jb4IRY2RuLmRpc2NvdXJzZS5vcmeCFWNkbi5lbnZlbG9wZW1lZGlhLmNv
-bYIPY2RuLmZvbGxvd3VwLmNjggdjaGVmLmNvggkqLmNoZWYuY2+CDGNsZWFyYml0
-LmNvbYIOKi5jbGVhcmJpdC5jb22CDGNsb3VkZXJhLmNvbYIOKi5jbG91ZGVyYS5j
-b22CFmNvbXBhdGlibGVwYXJ0bmVycy5uZXSCGCouY29tcGF0aWJsZXBhcnRuZXJz
-Lm5ldIIWY29udGVudC5wdWdwaWctZGV2LmNvbYIYKi5jb250ZW50LnB1Z3BpZy1k
-ZXYuY29tghJjb250ZW50LnB1Z3BpZy5jb22CFCouY29udGVudC5wdWdwaWcuY29t
-ggpkcnVwYWwub3JnggwqLmRydXBhbC5vcmeCDWUzaW5zaWRlci5jb22CDyouZTNp
-bnNpZGVyLmNvbYILZWhhcm1vbnkuY2GCDSouZWhhcm1vbnkuY2GCDmVoYXJtb255
-LmNvLnVrghAqLmVoYXJtb255LmNvLnVrggxlaGFybW9ueS5jb22CDiouZWhhcm1v
-bnkuY29tgg9laGFybW9ueS5jb20uYXWCESouZWhhcm1vbnkuY29tLmF1ggplbGFz
-dGljLmNvggwqLmVsYXN0aWMuY2+CFGVtYWlsLm9wdGltaXplbHkuY29tghJmcy5j
-ZG4udXN0dWRpby5jb22CFGdjcy5zdGF0aW9ubG9jYWwuY29tgg1nZW9uZXQub3Jn
-Lm56gg8qLmdlb25ldC5vcmcubnqCC2hhc2tlbGwub3Jngg0qLmhhc2tlbGwub3Jn
-ggdoYnguY29tggtob21lYmF5LmNvbYINKi5ob21lYmF5LmNvbYIPaHVnZ2llcy1j
-ZG4ubmV0ghEqLmh1Z2dpZXMtY2RuLm5ldIILaS5iaXRuci5jb22CCmppbWNkbi5j
-b22CDCouamltY2RuLmNvbYINamltc3RhdGljLmNvbYIPKi5qaW1zdGF0aWMuY29t
-gg5qb3lmdWxob21lLmNvbYILa2FtcHlsZS5jb22CDSoua2FtcHlsZS5jb22CD20u
-Y3Jvd2RsZWFwLmNvbYIObS5saXZpbmdseS5jb22CDW1vdG9zcG9ydC5jb22CDyou
-bW90b3Nwb3J0LmNvbYIObW92aWVwaWxvdC5jb22CECoubW92aWVwaWxvdC5jb22C
-EW15YmFua3RyYWNrZXIuY29tghMqLm15YmFua3RyYWNrZXIuY29tggxvZmZ3b3Js
-ZC5jb22CDioub2Zmd29ybGQuY29tgghvdG95LmNvbYIKKi5vdG95LmNvbYIMb3V0
-YnJhaW4uY29tgg4qLm91dGJyYWluLmNvbYIKcGFjLTEyLmNvbYIMKi5wYWMtMTIu
-Y29tgghwYWdhci5tZYIKKi5wYWdhci5tZYIJcGFpZHkuY29tggsqLnBhaWR5LmNv
-bYIOc2Nhcnltb21teS5jb22CECouc2Nhcnltb21teS5jb22CG3NlY3VyZS1zdGF0
-aWMtZmwudGFnZ2VkLmNvbYIdc2VjdXJlLmluZGVwZW5kZW50dGlja2V0cy5jb22C
-EHNlZWtpbmdhbHBoYS5jb22CEXNvZnRiYW5rd29ybGQuY29tgg5zb21lc3BpZGVy
-LmNvbYIQKi5zb21lc3BpZGVyLmNvbYIRc3BvbmdlcG93ZXJlZC5vcmeCEyouc3Bv
-bmdlcG93ZXJlZC5vcmeCDnNydi5hZG5naW4uY29tggtzeW5hcHN5cy51c4INKi5z
-eW5hcHN5cy51c4IOdC5tc2dmLWNkbi5jb22CDnRlY2hpbnNpZGVyLmlvghZ0ZXN0
-LnNvZnRiYW5rd29ybGQuY29tggx0aGVmYWRlci5jb22CDioudGhlZmFkZXIuY29t
-ggp0aGVtaWQuY29tggwqLnRoZW1pZC5jb22CC3RyaXBwbmcuY29tgg0qLnRyaXBw
-bmcuY29tgg10dWJlbW9ndWwuY29tgg8qLnR1YmVtb2d1bC5jb22CFnVrLmJ1c2lu
-ZXNzaW5zaWRlci5jb22CGCoudWsuYnVzaW5lc3NpbnNpZGVyLmNvbYIRdXNhLnJ3
-bGl2ZWNtcy5jb22CF3dpZGdldHMuc2hvcGlmeWFwcHMuY29tggt3aWtpaG93LmNv
-bYINKi53aWtpaG93LmNvbYIPd2l6YXJkaW5nLndvcmxkghEqLndpemFyZGluZy53
-b3JsZIIQd29tZW53aG9jb2RlLmNvbYISKi53b21lbndob2NvZGUuY29tghN3d3cu
-OHNlY3VyaXRpZXMuY29tghF3d3cuY3Jvd2RsZWFwLmNvbYINd3d3LmR3aW4yLmNv
-bYIRd3d3LmVudmVsb3Blcy5jb22CFnd3dy5naXZpbmdpc2dvcmdlcy5vcmeCEHd3
-dy5saXZpbmdseS5jb22CGXd3dy5yb2JlcnR3YWx0ZXJzLXVzYS5jb22CF3d3dy5y
-b2JlcnR3YWx0ZXJzLmNvLnVrghV3d3cucm9iZXJ0d2FsdGVycy5jb22CE3d3dy5y
-dGljY29vbGVycy5jb22CEHd3dy5zaGVycGFueS5jb22CFXl1bS5kb2NrZXJwcm9q
-ZWN0Lm9yZzAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHQYDVR0OBBYE
-FGR1gfPZrTWcQiaxds/2/N11Zn53MB8GA1UdIwQYMBaAFJbeYfG9HBYpUxzAzH07
-gwBA5hp8MA0GCSqGSIb3DQEBCwUAA4IBAQCKzblyuOQor9o4KIfr3ZX38rt03oTJ
-fyB2iQaGQye3rMJuI+aAnS8fCrgmRBOoZzr5+UrLG9t47XOzSgxEHmQzVCCyAovx
-2hDDVFMckgl7v2jvhta85LThBbMgT5M2YlKtHjf5ArNvm1IDPQPe/DL9l2M3+u5g
-0ciLUcZxmxwbFPcPROwb+rZVza32JIXxD7cV1+vCBLs/JD/Qi7zxzjcTEv1RY1eW
-tLkpY4TQdXDgIdsB0432Fc0/ApidR8aJ74qPMNJhWHSCfdPtmq9ikL6KtgAOUTBI
-wBL90MBi0cLRvPsGlWS2WwfVV1oziX3pst9GambGD26Bqf9o5610QyMg
+MIIOSjCCDTKgAwIBAgIMCwkEktmL65f7Aj8VMA0GCSqGSIb3DQEBCwUAMFcxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMS0wKwYDVQQDEyRH
+bG9iYWxTaWduIENsb3VkU1NMIENBIC0gU0hBMjU2IC0gRzMwHhcNMTkwNDEwMjIx
+NjI0WhcNMjAwMzIxMjEwMjA5WjB3MQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2Fs
+aWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzEVMBMGA1UECgwMRmFzdGx5
+LCBJbmMuMSQwIgYDVQQDDBtmNC5zaGFyZWQuZ2xvYmFsLmZhc3RseS5uZXQwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCvuCWHmk0eORskYCCqRBqYN2HF
+TOsW5vZPDUOLmt5rC0YM/W0nTiH+KwgOwkj+OKGyGtihK8VzXiXanMIWDEaNowFL
+yqEWkS01aEyYySwg85va6QlruHP/CVR9yWx4hnh4drGwoOovrMyZ0YzK1ILqVt3K
+d23vb5f+1vOGmnPyTQB8DJzS+ZYMdRPrP1RJmz2jfeaAj51N+5xHORXQfMj4gdG8
+NGoBKHnAAjfXdLfiw8km10zw+szyL51xmEvQ3F9oeaYD/9a8ethV0T2+6wAJlJOv
+3DT7ziEuJcK/hqhQiWSdm53YSp5qn1Di9X981staEhUwtErXzDvMyAZ5aFCNAgMB
+AAGjggr0MIIK8DAOBgNVHQ8BAf8EBAMCBaAwgYoGCCsGAQUFBwEBBH4wfDBCBggr
+BgEFBQcwAoY2aHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQvY2xv
+dWRzc2xzaGEyZzMuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIuZ2xvYmFs
+c2lnbi5jb20vY2xvdWRzc2xzaGEyZzMwVgYDVR0gBE8wTTBBBgkrBgEEAaAyARQw
+NDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3Np
+dG9yeS8wCAYGZ4EMAQICMAkGA1UdEwQCMAAwggiFBgNVHREEggh8MIIIeIIbZjQu
+c2hhcmVkLmdsb2JhbC5mYXN0bHkubmV0ggsqLjUwMHB4LmNvbYILKi41MDBweC5u
+ZXSCCyouNTAwcHgub3JnghcqLmFjY2VwdGFuY2UuaGFiaXRhdC5zaIISKi5hcGku
+c3dpZnR5cGUuY29tggsqLmFydDE5LmNvbYIMKi5jYXJzLmNvLnphggkqLmNoZWYu
+Y2+CCSouY2hlZi5pb4IXKi5jbGluaWNhbGVsZWFybmluZy5jb22CDSouY29va3Bh
+ZC5jb22CECouY29yZWRuYWNkbi5jb22CDyouZXZic3RhdGljLmNvbYIQKi5ldmVu
+dGJyaXRlLmNvbYIVKi5leHBlcmllbmNlcG9pbnQuY29tggwqLmZpdGJpdC5jb22C
+ESouZnMucGFzdGJvb2suY29tghEqLmZzLnF1cGxvYWRzLmNvbYILKi5mdGNkbi5u
+ZXSCCSouZnViby50doINKi5nZXRjaGVmLmNvbYIRKi5naXRoYXNoLmZ1Ym8udHaC
+DCouaGFiaXRhdC5zaIIMKi5pbWFpb3MuY29tggsqLmluc3BlYy5pb4ILKi5pc3N1
+dS5jb22CCSouaXN1LnB1YoIXKi5qaW1kby1kZXYtc3RhZ2luZy5jb22CGiouamlt
+ZG8tc3RhYmxlLXN0YWdpbmcuY29tgg4qLmxvZ29zY2RuLmNvbYILKi5sdWx1cy5j
+b22CDyoubS53aWtpaG93LmNvbYIUKi5tYW5zaW9uLW1hcmtldC5jb22CDSoubWFy
+ZmVlbC5jb22CDCoubWFzc3JlbC5pb4IKKi5tZWV0dS5wc4IMKi5tZWV0dXAuY29t
+ghIqLm1lZXR1cHN0YXRpYy5jb22CCCoubjhzLmpwgg4qLm5ld3JlbGljLmNvbYIM
+Ki5uaWtrZWkuY29tgg8qLm5yLWFzc2V0cy5uZXSCDSoub3BzY29kZS5jb22CECou
+cGVyaW1ldGVyeC5uZXSCGioucHJvZHVjdGlvbi5jZG4uYXJ0MTkuY29tghMqLnN0
+YWdpbmcuYXJ0MTkuY29tghcqLnN0YWdpbmcuY2RuLmFydDE5LmNvbYIOKi5zd2lm
+dHlwZS5jb22CFSoudGhlY29udmVyc2F0aW9uLmNvbYIYKi50aGVjb252ZXJzYXRp
+b24uZWR1LmF1ggwqLnRpc3N1dS5jb22CDSoud2lraWhvdy5jb22CDCoud2lraWhv
+dy5qcIIOKi53b3JsZG5vdy5jb22CCTUwMHB4LmNvbYIJNTAwcHgubmV0ggk1MDBw
+eC5vcmeCDGExLmF3aW4xLmNvbYIVYWNjZXB0YW5jZS5oYWJpdGF0LnNoghBhcGku
+c3dpZnR5cGUuY29tghBhcHAuYmlyY2hib3guY29tghhhcHAuc3RhZ2luZy5iaXJj
+aGJveC5jb22CF2FwcC5zdGFnaW5nLmJpcmNoYm94LmVzgglhcnQxOS5jb22CCmNh
+cnMuY28uemGCE2Nkbi1mLmFkc21vbG9jby5jb22CDWNkbi5ldmJ1Yy5jb22CEGNk
+bi5tdGFzc2V0cy5uZXSCEGNkbi5wb2x5ZmlsbHMuaW+CEGNkbi5zbWFzc2V0cy5u
+ZXSCB2NoZWYuY2+CB2NoZWYuaW+CFWNsaW5pY2FsZWxlYXJuaW5nLmNvbYIVY29u
+dGVudC5nYW1lZnVlbC5pbmZvgg5jb3JlZG5hY2RuLmNvbYIJZXZidWMuY29tghNl
+eHBlcmllbmNlcG9pbnQuY29tghBmYXN0LmFwcGN1ZXMuY29tgg9mYXN0Lndpc3Rp
+YS5jb22CD2Zhc3Qud2lzdGlhLm5ldIIOZmFzdC53aXN0aWEuc3SCCmZpdGJpdC5j
+b22CB2Z1Ym8udHaCC2dldGNoZWYuY29tgg9naXRoYXNoLmZ1Ym8udHaCCmhhYml0
+YXQuc2iCDmhiYnR2LjZwbGF5LmZyghFob3VzdG9udGV4YW5zLmNvbYIKaW1haW9z
+LmNvbYIQaW5zaWdodC5hdHBpLmNvbYIJaW5zcGVjLmlvghVqaW1kby1kZXYtc3Rh
+Z2luZy5jb22CGGppbWRvLXN0YWJsZS1zdGFnaW5nLmNvbYITbGluay5zZy5ib29r
+aW5nLmNvbYIMbG9nb3NjZG4uY29tghJtYW5zaW9uLW1hcmtldC5jb22CEW1lZGlh
+LmJ1bml0ZWQuY29tgghtZWV0dS5wc4IKbWVldHVwLmNvbYIQbWVldHVwc3RhdGlj
+LmNvbYIMbmV3cmVsaWMuY29tgg1uci1hc3NldHMubmV0ghdvbmFpcmhscy5tYWxp
+bWFyY2RuLm5ldIILb3BzY29kZS5jb22CDnBlcmltZXRlcngubmV0ghtwb2x5Zmls
+bC53ZWJzZXJ2aWNlcy5mdC5jb22CF3Byb2plY3RzLnByb3B1YmxpY2Eub3Jngg9x
+YS5wb2x5ZmlsbHMuaW+CC3JhaWRlcnMuY29tghBzLnNnLmJvb2tpbmcuY29tghFz
+LnN3aWZ0eXBlY2RuLmNvbYITc3RhdGljLmJpcmNoYm94LmNvbYIMc3dpZnR5cGUu
+Y29tggl0Lm9wcm0uY2+CE3RoZWNvbnZlcnNhdGlvbi5jb22CFnRoZWNvbnZlcnNh
+dGlvbi5lZHUuYXWCEHZpdmVyZXBpdXNhbmkuaXSCC3dpa2lob3cuY29tggp3aWtp
+aG93Lmpwggp3aXN0aWEuY29tgg13d3cuZHdpbjEuY29tgg13d3cuZHdpbjIuY29t
+ghN3d3cuZ29waGVyc3BvcnQuY29tghV3d3cuaG91c3RvbnRleGFucy5jb22CEnd3
+dy5wcm9wdWJsaWNhLm9yZ4IPd3d3LnJhaWRlcnMuY29tghB3d3cud2FkYS1hbWEu
+b3JnMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAdBgNVHQ4EFgQU0jcf
+nd8EK81lnYZ9cz3N3vRpV90wHwYDVR0jBBgwFoAUqSuH4c4kRzsbv8+FNwJVnQ2U
+WOYwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwC72d+8H4pxtZOUI5eqkntHOFeV
+CqtS6BqQlmQ2jh7RhQAAAWoJUty8AAAEAwBIMEYCIQC6w7dIZBPvHa3ZEz6gcccz
+jzKJCv8WzUHtLBuuB4fuLAIhANE6taqYPhde2x/WOrELgWspUfYCKSMLs4GIm7Hg
+gDS9AHUAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAFqCVLhpQAA
+BAMARjBEAiAqe5fDSgXfujL6WKwC1mP3R7GKF4xtXfc0uIQ+kIVSBAIgEUykrHiO
+b1H91vqAJO4VPKSucQDYzhsC9DM1XbxhvDEwDQYJKoZIhvcNAQELBQADggEBAA4A
+I+UZCLvDHtMipFIP1avD3TfWbUA3P+/ozXUSgy1OFs6IX9yc2kUM8MT/5r/x1qpw
+piddGsS//3Q1NIa2v/caHDMvUR+U3fQqRNkfHdIbfWHZiLa3ZHpXABoYcdFhqJ1n
+NCq32nevJZGslK+Tze9eXeqFrrOvkJTgH1hIPCU8WYkpdIpNh8NZQALEiyqEDKz8
+hS0ESySuHbMbUyE0Pk07ydDCNG/J4upgl/5vHmOUs0qSL6woFXGcWKOJtZ66sP/X
+NaxB+j60jMU7mSeJhSxvhv8Ydb7vxiloZ9OxZX41IJe3G1/1y1hxWp1UQ2n3lX5B
+mq0vf0PfK5ypIUhDzL4=
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=j.ssl.fastly.net
-issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+subject=/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=f4.shared.global.fastly.net
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 5437 bytes and written 434 bytes
+SSL handshake has read 5453 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -103,27 +103,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 92805439FCCD1D2C49AD3F01DBB0A267DE8A30FCE022FFE15615FEA2915D8005
+    Session-ID: A061F8D516C08A579C122B16BFAF5CE869B872BB334B28117416CA66DE6C26F4
     Session-ID-ctx: 
-    Master-Key: FEDE80452B6558D9F48BEEBF12968BE4181FD39ADD978C4A868D74A44D496B5DF11CABFF405E410DEDBA94824BA53334
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 1200 (seconds)
+    Master-Key: A6D6D403D7DFF9CC714E116857BFEECB15F97F09FACF45F87EC6DFE5244EF30DC88F15BBF060DBD2DD255C75CAC543AB
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 63 cc 77 4a 00 db 2c 42-2e 8f 76 23 dd a9 ae 53   c.wJ..,B..v#...S
-    0010 - d7 40 0f 15 1a 03 a0 b4-88 ec 71 1b 2e a4 4a 85   .@........q...J.
-    0020 - f5 37 cd 55 07 3e 97 9c-d4 76 38 5d 1a 8f 82 39   .7.U.>...v8]...9
-    0030 - 2a 49 ed 06 1a 3b 56 c7-92 c8 dc 38 f9 fc 3a 2e   *I...;V....8..:.
-    0040 - 18 47 8a 78 1e af 10 8d-c3 13 78 3b 0f 08 05 22   .G.x......x;..."
-    0050 - 38 20 b6 7a a4 40 cb 9e-e9 53 34 38 9c 6f c0 7f   8 .z.@...S48.o..
-    0060 - 73 28 a1 94 a4 94 92 00-90 0c 88 77 be 53 0a 7b   s(.........w.S.{
-    0070 - 05 b1 9d 05 65 0d eb 7c-d3 20 5b 24 52 8b 0b b5   ....e..|. [$R...
-    0080 - 7f 85 be 14 9d b2 a4 e1-ac a6 78 67 cf fe 7a fc   ..........xg..z.
-    0090 - 41 96 75 30 76 91 d6 fa-19 6d fb c2 70 f4 5a 32   A.u0v....m..p.Z2
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - 43 67 5b 45 69 73 bc 22-79 4c 93 31 69 ab 7c 0a   Cg[Eis."yL.1i.|.
+    0020 - f3 85 8a 59 e4 9d b6 96-1e e3 0a 8a 61 fe ae de   ...Y........a...
+    0030 - b9 c4 45 b0 fa ce 4e 23-90 90 bf b3 34 2f 43 d0   ..E...N#....4/C.
+    0040 - cc 79 c7 7a 70 ca 6b 48-d4 2d 32 c1 2e 72 0b a7   .y.zp.kH.-2..r..
+    0050 - 60 61 e4 7e 92 f6 59 1c-9f 9b 3c 7b 4c 04 0d 34   `a.~..Y...<{L..4
+    0060 - 02 c5 20 81 3f 76 05 8c-03 ed a8 39 c5 a5 eb c9   .. .?v.....9....
+    0070 - 78 3b c7 66 42 c3 1a e7-88 29 60 57 cf c4 c9 69   x;.fB....)`W...i
+    0080 - 6a cf 8b 9f 9d 9b 37 1c-7d cd b3 23 bd cc e8 a6   j.....7.}..#....
+    0090 - 52 4a 77 b4 a5 0a 33 e1-ff c8 eb ab 68 9c 07 30   RJw...3.....h..0
 
-    Start Time: 1472788083
-    Timeout   : 300 (sec)
+    Start Time: 1577474862
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

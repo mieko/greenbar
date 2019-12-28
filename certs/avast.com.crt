@@ -1,62 +1,63 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=CZ/L=Praha 4/O=AVAST Software a.s./CN=*.avast.com
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance CA-3
- 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance CA-3
+ 0 s:/C=CZ/L=Praha 4/O=AVAST Software s.r.o./OU=IT Crowd/CN=*.avast.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
  2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
- 3 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGojCCBYqgAwIBAgIQAXdBquJtBibwvBRZjHCyMDANBgkqhkiG9w0BAQUFADBm
+MIIHTzCCBjegAwIBAgIQCCFpzmMZ8FDS6CWn3VUy+TANBgkqhkiG9w0BAQ0FADBw
 MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
-d3cuZGlnaWNlcnQuY29tMSUwIwYDVQQDExxEaWdpQ2VydCBIaWdoIEFzc3VyYW5j
-ZSBDQS0zMB4XDTEzMDcwMjAwMDAwMFoXDTE2MTEwMzEyMDAwMFowUzELMAkGA1UE
-BhMCQ1oxEDAOBgNVBAcTB1ByYWhhIDQxHDAaBgNVBAoTE0FWQVNUIFNvZnR3YXJl
-IGEucy4xFDASBgNVBAMMCyouYXZhc3QuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
-AQ8AMIIBCgKCAQEAuy3VwsFuzGjoVljp1/ZqDnVau98kKyJH9u+Idpwi8hVX51lI
-hKNEKHD+NvuV6QIWl9RTLs3v0TkMM5rVmm7WIFtva+H/My7SkUnwvxE1xyKYTCd+
-QKQ3aFEp5qRdjfe5WJ8z0r5Hwr3cCPnzOUcOASvFYibmH6TrpyTCsTVCoNLTLEGY
-6KF50n6ktokxYDMpQc6i8hNKQ+CphfhJrQK6ZFNnm+OSALsHC5+zfo4JXA8qh/cX
-M/pFb6ibNTgKF0WAQ2Xa9azVogDV0MxXPEu4DIWrddTzb0zOSz6vpMzJZ9ZBks5q
-Azga+q1vmvOycgNiOgEaNbdG+Wismw8V6zG7GwIDAQABo4IDXTCCA1kwHwYDVR0j
-BBgwFoAUUOpzidsp+xCPnuUBINTeeZlIg/cwHQYDVR0OBBYEFK8Y175G3LT195F6
-2G9ydYXzaMfaMDIGA1UdEQQrMCmCCyouYXZhc3QuY29tgglhdmFzdC5jb22CD2Zp
-bGVzLmF2YXN0LmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
-AwEGCCsGAQUFBwMCMGEGA1UdHwRaMFgwKqAooCaGJGh0dHA6Ly9jcmwzLmRpZ2lj
-ZXJ0LmNvbS9jYTMtZzI2LmNybDAqoCigJoYkaHR0cDovL2NybDQuZGlnaWNlcnQu
-Y29tL2NhMy1nMjYuY3JsMIIBxAYDVR0gBIIBuzCCAbcwggGzBglghkgBhv1sAQEw
-ggGkMDoGCCsGAQUFBwIBFi5odHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9zc2wtY3Bz
-LXJlcG9zaXRvcnkuaHRtMIIBZAYIKwYBBQUHAgIwggFWHoIBUgBBAG4AeQAgAHUA
-cwBlACAAbwBmACAAdABoAGkAcwAgAEMAZQByAHQAaQBmAGkAYwBhAHQAZQAgAGMA
-bwBuAHMAdABpAHQAdQB0AGUAcwAgAGEAYwBjAGUAcAB0AGEAbgBjAGUAIABvAGYA
-IAB0AGgAZQAgAEQAaQBnAGkAQwBlAHIAdAAgAEMAUAAvAEMAUABTACAAYQBuAGQA
-IAB0AGgAZQAgAFIAZQBsAHkAaQBuAGcAIABQAGEAcgB0AHkAIABBAGcAcgBlAGUA
-bQBlAG4AdAAgAHcAaABpAGMAaAAgAGwAaQBtAGkAdAAgAGwAaQBhAGIAaQBsAGkA
-dAB5ACAAYQBuAGQAIABhAHIAZQAgAGkAbgBjAG8AcgBwAG8AcgBhAHQAZQBkACAA
-aABlAHIAZQBpAG4AIABiAHkAIAByAGUAZgBlAHIAZQBuAGMAZQAuMHsGCCsGAQUF
-BwEBBG8wbTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEUG
-CCsGAQUFBzAChjlodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRI
-aWdoQXNzdXJhbmNlQ0EtMy5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQUF
-AAOCAQEADQgGj+FvjVhkBRTxDCmguflkYVpkXpJnsX2hvjqRZJBbuB4HV/VbhSgg
-jGN5H4oKppOL3CgKidFnHYm0evh6XXu8M/2s8PLZj9QK6I7yZMa8hO+o9ueuBbD5
-Xy9yzL2iUVN+IfPCQ6KEEUMLiHjHKPJVTcsgZbCe/MHhJRrNUwXpgbabQmhcgSbc
-Dwul6q44HAB0r+w+dTW6+2PP6sidTAm1Avy+hgI6pG6gbwWLOmmAMQjNqlNWHAAU
-Y9VbXWSm8cs//wIxn3krG+OFW3fwwUvxtgB5lRJ1TcX82t0NmvjQYxh2pLITFarK
-cuyRnt7n+4ipwWRYnWPb9agYEX7Emg==
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xNzExMTMwMDAwMDBaFw0yMDA0MjQxMjAwMDBa
+MGgxCzAJBgNVBAYTAkNaMRAwDgYDVQQHEwdQcmFoYSA0MR4wHAYDVQQKExVBVkFT
+VCBTb2Z0d2FyZSBzLnIuby4xETAPBgNVBAsTCElUIENyb3dkMRQwEgYDVQQDDAsq
+LmF2YXN0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOaf9JIW
+Dj16SNTJcMR3LuSUuPeXFdgXQomtCF/EEOcdUgpUqhSk17KpGQhZDux560xsEUYJ
+LDevPiu45MIw+A2dvC6pGqjHtL7szbdn+WNGYnEbEBy7SLIlmaDU0gM/3f5PJ/ym
+JG04bA3F8/S+1IxZUmpmbUuWdhyTBljG9T5OvP/El+RyoSMwkDsNjlyXnIeR/UbM
+ZXLoeAoNiauXMbCfufgWV3py8wlQE3YdvM270eczLmQKEcfjzSRP4eV1zVln+OZU
+ahSpLxNKRR23yLw11OybqQJUSrYLl1S929Pp04FSAOfu+9FaDnDamrP1IGj7Sii0
+gCbVuMVaufpKX30CAwEAAaOCA+swggPnMB8GA1UdIwQYMBaAFFFo/5CvAgd1PMzZ
+ZWRiohK4WXI7MB0GA1UdDgQWBBRp/RKXXOuW+JC+S+P0YvPIJA5eYzAhBgNVHREE
+GjAYggsqLmF2YXN0LmNvbYIJYXZhc3QuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwdQYDVR0fBG4wbDA0oDKgMIYuaHR0
+cDovL2NybDMuZGlnaWNlcnQuY29tL3NoYTItaGEtc2VydmVyLWc2LmNybDA0oDKg
+MIYuaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NoYTItaGEtc2VydmVyLWc2LmNy
+bDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjCBgwYIKwYBBQUHAQEEdzB1
+MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wTQYIKwYBBQUH
+MAKGQWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJIaWdo
+QXNzdXJhbmNlU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwggH4BgorBgEEAdZ5
+AgQCBIIB6ASCAeQB4gB2AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQ
+AAABX7WV5z8AAAQDAEcwRQIhAMUSRtxh+pdqFzeqsmAfQobuv7vVm0ZJCCuSJQV5
+VVaxAiAIIuApmdh6b6csJEp69ihIrBDj72tB0U81rGoWEaRr1wB3AFYUBpov18Ls
+0/XhvUSyPsdGdrm8mRFcwO+UmFXWidDdAAABX7WV6EUAAAQDAEgwRgIhAMWxH6pZ
+sFd4c5k3hXt28NgwLiNnLUx4bVTZUI0gaa1VAiEA066rN8lgpPtNC6+tY2Zo8d57
+3/RJen+EbcpsAAAtEboAdgDuS723dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9
+ywAAAV+1ledjAAAEAwBHMEUCIFmSOvO0mQ5RN1lgtOFMMIeqvWuG9GDnB3pa5FbG
+3ltuAiEAgV3uuNjxUrUIRiSB1CT5Pxy77SxM4sT5vzRyuMaG4T8AdwC72d+8H4px
+tZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAV+1lefhAAAEAwBIMEYCIQCGVUuA
+3q+aMDOsQZODC9mhEeQjpYoW5NdWtwZibcrJngIhAJr3LfLiZtHacYCYg+hYSQ0E
+bAId4mU5xogD/NkOgjIjMA0GCSqGSIb3DQEBDQUAA4IBAQAzaAKcgKvhT8CsbIC/
+2K+3a7Cb+GYrLLOvpIfNw3vgiiGM3vGenDzLgp0uD633gM4w39eoBR/yM1uRIuvi
+ZGKKNfcI0qnp/UwlNctFFhJLSc8F57qChUD+Mh+snr7CEp7EiFTsqgtZ5AZshUFt
+0urcAsx8kE7x1MI/ZFpTOSvW85ci+N8/6v2xQ+Q7eOORD6GY9Irc2WtyDSfQPRxO
+L5y63nJRjgfgZxVzzE/L/OYUc6yQIK6Hye+HzkwdLzZNFWdjjQaUw7MJ8I+HNPmg
+iBhGfN6p9R235d520T4dhY8cLe/rjz00ubbniOWbqCfsGPvxu+xesJikLiUX9ega
+DWiA
 -----END CERTIFICATE-----
-subject=/C=CZ/L=Praha 4/O=AVAST Software a.s./CN=*.avast.com
-issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance CA-3
+subject=/C=CZ/L=Praha 4/O=AVAST Software s.r.o./OU=IT Crowd/CN=*.avast.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 6188 bytes and written 434 bytes
+SSL handshake has read 4725 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -67,28 +68,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: D7FDE2D2D201EB922C197A1AEE4CE88610C6E06D69CA007D0230AE3403103F98
+    Session-ID: FE4D28DB234F1EB56101F0D9314E4D1D322F089DA7BBEE4E6F16BB8C97702F39
     Session-ID-ctx: 
-    Master-Key: 8C8DDEBE6742C5410F9A21F9810FE3844CAAFB190F06E91DDF6CFB80721F6466E5AE9C749E00739AA33A02B57F6B218E
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: EC824346A5CA713EE8B5F2861DD834B205C12A7E55446CAE79FDC1921CAC5617248162DE845B07647920674D98DB3610
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - 0e 64 c9 bb fa 34 d5 25-b8 f1 93 7a 88 f3 e5 33   .d...4.%...z...3
-    0010 - b7 34 da b5 2e b2 ac 85-a7 4c d6 fa 21 99 a9 dd   .4.......L..!...
-    0020 - 1d 13 54 df 81 72 2b 95-78 44 06 a6 9f ec ff ec   ..T..r+.xD......
-    0030 - 4f a8 67 d5 7a d1 f1 5d-57 d4 5e 7d 60 80 33 a9   O.g.z..]W.^}`.3.
-    0040 - 44 02 a8 b9 dc 3d 78 0b-ac ef 46 2b d2 91 74 df   D....=x...F+..t.
-    0050 - a4 a3 43 0d 29 20 4a a8-b2 98 41 b1 21 90 3b de   ..C.) J...A.!.;.
-    0060 - f5 9c 98 56 49 c9 5c e2-e8 94 2b 8e f0 00 73 ea   ...VI.\...+...s.
-    0070 - 8c 05 55 09 59 70 d8 45-9a a1 87 6b a2 7b e9 d6   ..U.Yp.E...k.{..
-    0080 - 0b 31 fb b6 d1 0e aa 4b-bc 16 5a 83 c2 f0 29 9e   .1.....K..Z...).
-    0090 - 7f 97 ce 1a 39 fe 5a 9d-65 58 2f 4c dd da 61 62   ....9.Z.eX/L..ab
-    00a0 - 0a 54 30 cb b6 22 9c a3-d5 44 47 66 20 19 38 b4   .T0.."...DGf .8.
+    0000 - 20 2c 72 7e 80 75 91 f3-29 ec 2c 4b aa 48 46 b0    ,r~.u..).,K.HF.
+    0010 - 00 78 d6 52 4a 24 94 52-f0 2a 9a a3 ea 9c 88 f7   .x.RJ$.R.*......
+    0020 - d0 3e 79 86 29 e8 d4 20-46 df 2e 89 24 1a ea 1e   .>y.).. F...$...
+    0030 - 4d b1 0a 1f 25 95 06 86-c4 32 1e 9a e6 40 25 72   M...%....2...@%r
+    0040 - 71 d7 e9 f4 15 24 9d ad-89 d0 7e c1 17 a7 04 7e   q....$....~....~
+    0050 - 9e 6e 2f 38 c0 5f a5 c7-95 5f 07 0c 75 65 4c 95   .n/8._..._..ueL.
+    0060 - 36 bb 98 34 83 d0 55 e9-65 eb 78 56 71 ad 9c 69   6..4..U.e.xVq..i
+    0070 - 9a 12 c7 29 61 3b 86 d5-2d 7e 28 0f 9e 03 3a 78   ...)a;..-~(...:x
+    0080 - de 87 69 42 f3 8f de a1-1e 68 27 c5 2e 2a 1e d5   ..iB.....h'..*..
+    0090 - 6f f3 c4 b2 cd 09 cf 8b-03 4c ac 0d 63 a7 42 20   o........L..c.B 
+    00a0 - 09 90 74 23 d5 12 61 f3-29 22 d3 8d 39 a2 a4 cf   ..t#..a.)"..9...
 
-    Start Time: 1472789992
-    Timeout   : 300 (sec)
+    Start Time: 1577475494
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

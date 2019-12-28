@@ -1,0 +1,73 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/C=CY/L=Nicosia/O=MG Premium Ltd/CN=*.babesnetwork.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEgzCCA2ugAwIBAgIQA44HrTHtkLVle26u44oQ4jANBgkqhkiG9w0BAQsFADBw
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xNzEwMjAwMDAwMDBaFw0yMDEwMjgxMjAwMDBa
+MFUxCzAJBgNVBAYTAkNZMRAwDgYDVQQHEwdOaWNvc2lhMRcwFQYDVQQKEw5NRyBQ
+cmVtaXVtIEx0ZDEbMBkGA1UEAwwSKi5iYWJlc25ldHdvcmsuY29tMFkwEwYHKoZI
+zj0CAQYIKoZIzj0DAQcDQgAEHQjXegLjZIkFhKZzaCVDC1Lt6wJVyPtZJObCn7Cl
+KyHmh+03XN/35erk3P+1XDdIg1Pm9fOof4461JffG+xSH6OCAf0wggH5MB8GA1Ud
+IwQYMBaAFFFo/5CvAgd1PMzZZWRiohK4WXI7MB0GA1UdDgQWBBRA1HbPjRKhLDHe
+1yPShhQbcVIp4jAvBgNVHREEKDAmghIqLmJhYmVzbmV0d29yay5jb22CEGJhYmVz
+bmV0d29yay5jb20wDgYDVR0PAQH/BAQDAgeAMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2Vy
+dC5jb20vc2hhMi1oYS1zZXJ2ZXItZzEuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5k
+aWdpY2VydC5jb20vc2hhMi1oYS1zZXJ2ZXItZzEuY3JsMEwGA1UdIARFMEMwNwYJ
+YIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNv
+bS9DUFMwCAYGZ4EMAQICMIGDBggrBgEFBQcBAQR3MHUwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBNBggrBgEFBQcwAoZBaHR0cDovL2NhY2Vy
+dHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMkhpZ2hBc3N1cmFuY2VTZXJ2ZXJD
+QS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAdH8N45OgHaET
+YIl3VPt0hsAy2dLrtg+rdLu/MjpQe2ZgMjAUAdUD2LWu0g6e/ExFmBLXDPED85ha
+MbY9SfOoN+UDoYtK8M4ksJ6E8dklHrm6Us218keCxCbC1hXPVqBzQcazffD/Awd8
+IlewONEfDe1fj8ioCmMCLMmf3zAkQ4KQz8Q38xcAtydg18GklosZApn2v6ozqljh
+icmq6bxTYqqnJUM1fa38qKabyALfCMaDfh/x/vwnnTsuqtOeww2GuLxyuXWEG4r1
+zDVMao2NaAr4krg3fMagk8Htj3PmElzX53YLL5Y9HTSheUPewdXQzne3uYJY+QlQ
+2dxau3xz7A==
+-----END CERTIFICATE-----
+subject=/C=CY/L=Nicosia/O=MG Premium Ltd/CN=*.babesnetwork.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2836 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: 6C0C9CA20553A1065C47D7F1EE5AAFC70CA18DBFAE3CDDA21A00E0D79A03CF14
+    Session-ID-ctx: 
+    Master-Key: 908412A54301B19CE2030FCA53F8D18A375DAB2E3CF214E28FE888BD66AE2C6302B43F72DB6C3A6D787F07B9571226A3
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7a 55 e8 82 5b b4 a0 49-1f 3d cf 15 26 09 e4 d7   zU..[..I.=..&...
+    0010 - cb 13 7a 50 99 80 fe 69-f3 db 19 dc 36 3f 94 f9   ..zP...i....6?..
+    0020 - 76 03 e2 35 6a e4 f1 f7-c3 82 9e b8 39 f8 15 c0   v..5j.......9...
+    0030 - d9 10 a3 78 7c 70 34 ca-81 01 c1 92 09 0b 3d f7   ...x|p4.......=.
+    0040 - 85 49 c4 7e a1 c8 49 c5-2c 59 58 1e 29 e8 78 5b   .I.~..I.,YX.).x[
+    0050 - 42 9f 8c 82 d2 ef f7 8f-d9 d0 cf 10 ad 44 31 8a   B............D1.
+    0060 - 0d cf 58 e6 14 83 a5 6a-4f e0 90 f2 7f 9d 50 68   ..X....jO.....Ph
+    0070 - b8 d5 2e ca ef f9 f5 3e-ae 3f 0d bc 49 a5 77 3d   .......>.?..I.w=
+    0080 - e0 f2 70 f5 a6 26 2e 08-7a 72 8d 45 33 10 98 e4   ..p..&..zr.E3...
+    0090 - c6 0e b7 3c 26 0c 50 8f-30 5b 74 40 37 31 e5 62   ...<&.P.0[t@71.b
+
+    Start Time: 1577476086
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

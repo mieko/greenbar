@@ -1,64 +1,61 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=BR/O=ICP-Brasil/OU=Caixa Economica Federal/OU=AC CAIXA PJ v2/CN=WWW.CAIXA.GOV.BR
-   i:/C=BR/O=ICP-Brasil/OU=Caixa Economica Federal/CN=AC CAIXA PJ v2
- 1 s:/C=BR/O=ICP-Brasil/OU=Caixa Economica Federal/CN=AC CAIXA PJ v2
-   i:/C=BR/O=ICP-Brasil/OU=Autoridade Certificadora Raiz Brasileira v2/CN=AC CAIXA v2
- 2 s:/C=BR/O=ICP-Brasil/OU=Autoridade Certificadora Raiz Brasileira v2/CN=AC CAIXA v2
-   i:/C=BR/O=ICP-Brasil/OU=Instituto Nacional de Tecnologia da Informacao - ITI/CN=Autoridade Certificadora Raiz Brasileira v2
- 3 s:/C=BR/O=ICP-Brasil/OU=Instituto Nacional de Tecnologia da Informacao - ITI/CN=Autoridade Certificadora Raiz Brasileira v2
-   i:/C=BR/O=ICP-Brasil/OU=Instituto Nacional de Tecnologia da Informacao - ITI/CN=Autoridade Certificadora Raiz Brasileira v2
+ 0 s:/C=BR/postalCode=70760-500/ST=Brasilia/L=Distrito Federal/street=ST SEPN SETOR DE EDIF DE UTILIDADE PUBLICA NORTE, SN/O=Caixa Economica Federal/OU=TI/OU=Hosted by Comodo Brasil Tecnologia LTDA/OU=Unified Communications/CN=caixa.gov.br
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 3 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 4 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHCDCCBPCgAwIBAgIIdrGSLAbomXwwDQYJKoZIhvcNAQELBQAwXTELMAkGA1UE
-BhMCQlIxEzARBgNVBAoMCklDUC1CcmFzaWwxIDAeBgNVBAsMF0NhaXhhIEVjb25v
-bWljYSBGZWRlcmFsMRcwFQYDVQQDDA5BQyBDQUlYQSBQSiB2MjAeFw0xNjA0MTUx
-MzU4MTZaFw0xNzA0MTUxMzU4MTZaMHgxCzAJBgNVBAYTAkJSMRMwEQYDVQQKDApJ
-Q1AtQnJhc2lsMSAwHgYDVQQLDBdDYWl4YSBFY29ub21pY2EgRmVkZXJhbDEXMBUG
-A1UECwwOQUMgQ0FJWEEgUEogdjIxGTAXBgNVBAMMEFdXVy5DQUlYQS5HT1YuQlIw
-ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDdbvshasTWLe97B4BGuiyM
-5ruQENGTbx7dp+IHoWOrfNWDmvgTECeF7k71WibrYZ3aEnFy1eFLPZreCNQMNYZc
-FU17gGrQkV767iRUutGWDFtNfiMT2yavIRpMenmm5gbbAnbU03rwOVdQBBHwc0nV
-KBTWXUgEx1dMJN1SMMVm2c0M39redlYshBaTSgCH0YfQvqUbcDuPtyDxrQHIJBto
-Lguu5Q/MWZcAP/PUmUGFY70iqCrDZ3ehPwY7jvq+hg0XO+Nju1bG0QuSksK7Eu5B
-w9ul2F7VELiIAE2ZyzXonerT64jDtieEOHHatcbXuWOYY8vo8cbOgZejUleqBoCl
-AgMBAAGjggKvMIICqzAOBgNVHQ8BAf8EBAMCBeAwJwYDVR0lBCAwHgYIKwYBBQUH
-AwEGCCsGAQUFBwMCBggrBgEFBQcDAzAdBgNVHQ4EFgQUhCeSrEOkZXHe7z9gHpuq
-Yv6w5f0wHwYDVR0jBBgwFoAUT00NAZxqadtwCaTeM672fJKeNcIwgbMGA1UdEQSB
-qzCBqKAiBgVgTAEDCKAZBBdDQUlYQSBFQ09OT01JQ0EgRkVERVJBTKBABgVgTAED
-BKA3BDUxNjA0MTk2MTE0MzkyNjU4MTA0MDAwMDAwMDAwMDAwMDAwMDE3NzA2OTE1
-MzVERVRSQU5ERqAZBgVgTAEDA6AQBA4wMDM2MDMwNTAwMDEwNKAlBgVgTAEDAqAc
-BBpWQUxURVIgREUgT0xJVkVJUkEgRlJFSVRBUzBmBgNVHSAEXzBdMFsGBmBMAQIB
-CTBRME8GCCsGAQUFBwIBFkNodHRwOi8vY2VydGlmaWNhZG9kaWdpdGFsLmNhaXhh
-Lmdvdi5ici9kb2N1bWVudG9zL2RwY2FjLWNhaXhhcGoucGRmMIG5BgNVHR8EgbEw
-ga4wLaAroCmGJ2h0dHA6Ly9sY3IuY2FpeGEuZ292LmJyL2FjY2FpeGFwanYyLmNy
-bDAuoCygKoYoaHR0cDovL2xjcjIuY2FpeGEuZ292LmJyL2FjY2FpeGFwanYyLmNy
-bDBNoEugSYZHaHR0cDovL3JlcG9zaXRvcmlvLmljcGJyYXNpbC5nb3YuYnIvbGNy
-L0NBSVhBL0FDQ0FJWEFQSi9hY2NhaXhhcGp2Mi5jcmwwVgYIKwYBBQUHAQEESjBI
-MEYGCCsGAQUFBzAChjpodHRwOi8vY2VydGlmaWNhZG9kaWdpdGFsLmNhaXhhLmdv
-di5ici9haWEvYWNjYWl4YXBqdjIucDdiMA0GCSqGSIb3DQEBCwUAA4ICAQCeVaXN
-4CgHMNX1Jhfy3Z988EHPNYpIMnkiYeS13HP2n7cTZlIw90L01s3McxSAmPoMcwHu
-QS/lvRYqejkJ/ZSAkBspQZXwE3Ibd1Q5/3IYwx/sunjPBXvElasn2xSvB9OMk2i1
-HB1wYYwRD9xYScbwWq6CH0eCFRmz6VoEkYdXJV2cA6kU1LyOG90EPN00/qoVNLkP
-TA1fcRk2fENKofIENCcT3Gc+OiAQ9kibpb17BBUagBFMxpTf9miHdZ8viL4wSee4
-OpXWUZlZkjwyQhfARw7PAg3b8jFMNdGLr4XDZzktBVhme+k1pOIerPItKUVB1Efv
-Ou1KZZ0fHjWlyKY7ZoD+HxQRotN0vp90QY1U8D+ZoJPttS4sx/iRN3FK/NPg41TO
-AIVVwXma+UDJi8OiBi1W94PzctZliJph+/zEw96fFaKNX7JiYiXcKNO43SjJeh9b
-umvarNUu82APFdN0V73Vs8W76zFdIU/aMRiDmceZRmuZyLOCJaMg35cKYTMzYlc+
-gKqBt/jAFAXOaIOy2zK87DIFwxdYud1Sxn3OZtoBoztulsMI/Iko0lXAoryJXURc
-kzvCN56zkQMIhnKKSx7FSwKJW1Dn2YvON9yX7z4VKai0SEX0kmDr+buUE7UaUhdt
-LmB52ETNdaIR1gKZBLFx60gQ2Z7608aQ/qngkA==
+MIIGMzCCBRugAwIBAgIRAOHXzAz/+VwPr26svmwzrIcwDQYJKoZIhvcNAQELBQAw
+gZYxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTwwOgYD
+VQQDEzNDT01PRE8gUlNBIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIFNlY3VyZSBT
+ZXJ2ZXIgQ0EwHhcNMTcwMzEwMDAwMDAwWhcNMjAwMzA5MjM1OTU5WjCCAScxCzAJ
+BgNVBAYTAkJSMRIwEAYDVQQREwk3MDc2MC01MDAxETAPBgNVBAgTCEJyYXNpbGlh
+MRkwFwYDVQQHExBEaXN0cml0byBGZWRlcmFsMT0wOwYDVQQJEzRTVCBTRVBOIFNF
+VE9SIERFIEVESUYgREUgVVRJTElEQURFIFBVQkxJQ0EgTk9SVEUsIFNOMSAwHgYD
+VQQKExdDYWl4YSBFY29ub21pY2EgRmVkZXJhbDELMAkGA1UECxMCVEkxMDAuBgNV
+BAsTJ0hvc3RlZCBieSBDb21vZG8gQnJhc2lsIFRlY25vbG9naWEgTFREQTEfMB0G
+A1UECxMWVW5pZmllZCBDb21tdW5pY2F0aW9uczEVMBMGA1UEAxMMY2FpeGEuZ292
+LmJyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8MvSmL2B4Bskjw3b
+sFnUUmCCdifgyTA7AjlbjcEdj1h3haOy9xHNIrHsQrhjOTLUjJFdanfIygbI6GL0
+U/oK4UQ0LwdUfVWliFfoU59qiHB8jFK5vIIsQ0x7ksorfDpm/K2EmjhwWHha6BpH
+6THT/OyuGya1FUL6Sj6sjwyDYFL4yiqOeK8cjSMf4Y3Ey+t0K4u47lL4mpGrU2+5
+4FgW3ViTh+/1YkVbgz2sCpN62Ic4u16PKarL0RhBdOLMNHjZ5mjLDAu1zIJ/8UKi
+kVdQZ6MAn0zfJFlYNiMk31dRVMdH6sAsCwy640kTJ70q5BT+fItyE1cz+tEzC7gj
+64wfpQIDAQABo4IB5jCCAeIwHwYDVR0jBBgwFoAUmvMr2s+tT7YvuypISCoStxtC
+wSQwHQYDVR0OBBYEFLXF493IJU5kJeJ8ffMTOg4ONaR6MA4GA1UdDwEB/wQEAwIF
+oDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBQ
+BgNVHSAESTBHMDsGDCsGAQQBsjEBAgEDBDArMCkGCCsGAQUFBwIBFh1odHRwczov
+L3NlY3VyZS5jb21vZG8uY29tL0NQUzAIBgZngQwBAgIwWgYDVR0fBFMwUTBPoE2g
+S4ZJaHR0cDovL2NybC5jb21vZG9jYS5jb20vQ09NT0RPUlNBT3JnYW5pemF0aW9u
+VmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNybDCBiwYIKwYBBQUHAQEEfzB9MFUG
+CCsGAQUFBzAChklodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9DT01PRE9SU0FPcmdh
+bml6YXRpb25WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCQGCCsGAQUFBzAB
+hhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wJwYDVR0RBCAwHoIMY2FpeGEuZ292
+LmJygg4qLmNhaXhhLmdvdi5icjANBgkqhkiG9w0BAQsFAAOCAQEAklqgDNPpI/i9
+MWAzQFTYdEswpLQ0oseXD4Zv/8K/jtlAD0/7mHGNwYFhIEdH+kwJKesRb+3/IMlm
+sYzv81C7612Tcd6J8Hu5ChgUgmraeThophHrlQ0hs/hYb/SkzUK/z5PlHKeBeHiw
+nWFbx5EZkaGuk0NT28+a1JutEUwnVyTQyoTFwu8QgSSJsmpElSY8AET2PliCAG8B
+Mg2u9cgYw0f9xjsbRL/o1ktzXTjtVl7nFY50Jte4VP8lxyX5HZNlk6elhH9depVr
+1t1yBpE9wFD8cD2VFyYop20ISHlkSDdU5QhoVBNrT3FmqYr8g7JdhXqJfn7PdIsQ
+oxukiCdHxA==
 -----END CERTIFICATE-----
-subject=/C=BR/O=ICP-Brasil/OU=Caixa Economica Federal/OU=AC CAIXA PJ v2/CN=WWW.CAIXA.GOV.BR
-issuer=/C=BR/O=ICP-Brasil/OU=Caixa Economica Federal/CN=AC CAIXA PJ v2
+subject=/C=BR/postalCode=70760-500/ST=Brasilia/L=Distrito Federal/street=ST SEPN SETOR DE EDIF DE UTILIDADE PUBLICA NORTE, SN/O=Caixa Economica Federal/OU=TI/OU=Hosted by Comodo Brasil Tecnologia LTDA/OU=Unified Communications/CN=caixa.gov.br
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA1
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 7657 bytes and written 434 bytes
+SSL handshake has read 7614 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -69,14 +66,10 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 5D548F194E7D6B3D10D796042672BE4ECEDB5F13FBCA88E50E42DE00060636C6
+    Session-ID: 
     Session-ID-ctx: 
-    Master-Key: 3E6DECBD28F042EB4908D538C945AC20929D33D9880367C95A2D5F4F7A2871C15C05AB2A0732CBDFAF86AC1BF8C1D50B
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472789456
-    Timeout   : 300 (sec)
-    Verify return code: 19 (self signed certificate in certificate chain)
+    Master-Key: 2DB52A20343AAC15FEAC4393EF1D2367A1DAD043D953578D04B74C5F2CCB68338D4079BB053A95243727D1D3A331A4E7
+    Start Time: 1577475026
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

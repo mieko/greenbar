@@ -1,0 +1,78 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=2gybpaar.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXzCCBEegAwIBAgISBJtV/NycrR8JcxC9XcgwLFpnMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMDQwOTAwNDNaFw0y
+MDAzMDMwOTAwNDNaMBcxFTATBgNVBAMTDDJneWJwYWFyLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBANp5IBxki1JWjKWNABB7VhpSROfeG4NG9+/U
+R0f+1VQUwMxpmRdjihc5hhg7KYPwFSoqaEI+Bktyz6kpxsNsqK2TXnHkIjPrmaDR
+qmOcFeuumNRuuXVxsKlHUBzUogfVa7/aCOjbF7ky45BAvW86LhNqdfDPfM4DR3FI
+c+9wevWDu9DVR+ezMj8P/5sOcBSJssDZy4x/qZU216+sP2dHh8aN9wQGYgOvCSb+
+srJfuiSOvjs6dMWe/xpCN3WCMuN1nlWatozHKBB3/eeX4O3yBF7PVjG5MVbzLXZ6
+zRgxDn4o5fkshEi1JnuSl35XdUnMY4IhhJKf1XSFbyRtdpm+c5ECAwEAAaOCAnAw
+ggJsMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUNe14ExNVdIjz00nvuLMxdkDh+WIw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzAnBgNVHREEIDAegg4qLjJneWJwYWFyLmNvbYIMMmd5YnBhYXIuY29tMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHUAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAFu0FrTygAABAMA
+RjBEAiB7dnE2ZGE1z5rHkvGhaDDfepHIaD6VTp4b58iCOjR+UQIgILRaNgxzo6FA
+EBjtcLcBSskXljoR/hyS8/lH0qS0nzIAdgAHt1wb5X1o//Gwxh0jFce65ld8V5S3
+au68YToaadOiHAAAAW7QWtPfAAAEAwBHMEUCIALRwHzVcxChhakrDQ/jA6yFid0S
+vQpMAjldRJaeDC09AiEAz5Y2UDf4O/FZXUxLmuc+ns9+wvCc2aQFczShp5s6N8Qw
+DQYJKoZIhvcNAQELBQADggEBAH4M5rXq/IrD/V8k91RP3SVVoRtA1a/FwRFKFsme
+CPt7YRrlS8THW9YGrADcuE8rSWCE7Wuo2cuPr2TqnX9kWw36Glmv8YVOCxz6qnia
+BzTxBtVm0miMljAWg5L04xTE6OBzcg6+92ZW7bXg6UpcVtGlwwqGzRMwG2VaMC2O
+fufWz6s0QHPxoGvQni2TDWt8QSaITDudu9LVBiBb649+YhRlU+vwAC8V7hTidrp+
+EV1OBlvrIeb+MU30yLtkMmKyz2RdpjhmAty8L5VIZmHC7HGr4jC9R7l27QHlenTT
+SXM3k77gnG+ziIq5Rj4VbWwNa8iWafm3ykDH4oByCVzCSYU=
+-----END CERTIFICATE-----
+subject=/CN=2gybpaar.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3226 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 62B822890D071AAF13342F8E187170AFFF29EE173BBD6D4AA0773868A7C76607
+    Session-ID-ctx: 
+    Master-Key: A4E860237DC4C3DAA7B51F77C2A1F1339E8D8EB69BA8A295D90DF92D2E38B01456F4F1A2D45386027E4D416D2A82F823
+    TLS session ticket lifetime hint: 36000 (seconds)
+    TLS session ticket:
+    0000 - 8c fb d4 c9 8a 12 43 32-fc 10 f2 66 45 4b c0 4c   ......C2...fEK.L
+    0010 - 09 64 a2 dc 60 f2 bd 71-ba dc c3 e6 48 95 6c f0   .d..`..q....H.l.
+    0020 - e1 9c 36 02 0e ac 75 b1-7a 2b ff c9 18 c7 8f 8d   ..6...u.z+......
+    0030 - 70 fe 14 47 c6 85 3b de-78 5c fd 30 5a a7 9f ac   p..G..;.x\.0Z...
+    0040 - 7b 0f 57 be 9a 5b 9d e5-a7 3e df 6b dc 05 a9 d7   {.W..[...>.k....
+    0050 - 35 2e 8a 27 af 20 7e 1a-ba 9e c2 cf ff 9a 96 bf   5..'. ~.........
+    0060 - a6 3d d5 90 ae ad 0a 39-11 d9 66 dd 4d 6d 16 db   .=.....9..f.Mm..
+    0070 - bc c1 e8 0d 5b 5b b3 d2-10 9b 2e 38 36 f8 39 47   ....[[.....86.9G
+    0080 - 3a 50 f0 42 44 98 0e 17-a3 03 5e 50 ac 9a 69 d4   :P.BD.....^P..i.
+    0090 - 12 01 06 32 0e 1c c9 58-49 84 40 f5 03 b8 4b 09   ...2...XI.@...K.
+    00a0 - 10 34 4c 04 5f eb 21 a6-80 31 ac 8b 68 7b bd 90   .4L._.!..1..h{..
+
+    Start Time: 1577474976
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

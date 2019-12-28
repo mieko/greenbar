@@ -1,68 +1,89 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
  0 s:/C=US/ST=New York/L=New York/O=NBCUniversal, LLC/CN=*.cnbc.com
    i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
- 1 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
+ 1 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
    i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
- 2 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
-   i:/C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
+ 2 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
+   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFLzCCBBegAwIBAgIMQ5H0QQAAAABQ1dgYMA0GCSqGSIb3DQEBCwUAMIG6MQsw
-CQYDVQQGEwJVUzEWMBQGA1UEChMNRW50cnVzdCwgSW5jLjEoMCYGA1UECxMfU2Vl
-IHd3dy5lbnRydXN0Lm5ldC9sZWdhbC10ZXJtczE5MDcGA1UECxMwKGMpIDIwMTIg
-RW50cnVzdCwgSW5jLiAtIGZvciBhdXRob3JpemVkIHVzZSBvbmx5MS4wLAYDVQQD
-EyVFbnRydXN0IENlcnRpZmljYXRpb24gQXV0aG9yaXR5IC0gTDFLMB4XDTE1MTAy
-NzE0NDYzMloXDTE4MTAyNzE1MTYzMVowZDELMAkGA1UEBhMCVVMxETAPBgNVBAgT
-CE5ldyBZb3JrMREwDwYDVQQHEwhOZXcgWW9yazEaMBgGA1UEChMRTkJDVW5pdmVy
-c2FsLCBMTEMxEzARBgNVBAMUCiouY25iYy5jb20wggEiMA0GCSqGSIb3DQEBAQUA
-A4IBDwAwggEKAoIBAQC7Q9U7ol99+26ERsuMlPrVSE27P05mjV1LHsNFAcwD4QFg
-uwl8LuqWmjbjNLifiG2k8gBH93F8oUFgfVUeOgTkiszif7ibls20RSDFOBcB24yB
-Rw/NPlwcyArsiL6aC0eHz9fclIzpX19Jgmdkgko5fPtoElXXP8m5TtyTFIHepfbX
-7ZPakx0vwm+r3hPrKO6cdf7gzPQecLaHPxU6NJUd1aTMitlp0VrE9UjXvvm/Gx2r
-/t1ZCGaaEPZz0ZfnSemPF7yWetVBnNBCBEbuB7IlOQIP+pG0jWY2qULHy7NfYS1L
-1xiIFuch/It5bNL7YM09fyk4X2VXml93WkEOUaCfAgMBAAGjggGIMIIBhDALBgNV
-HQ8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDMGA1UdHwQs
-MCowKKAmoCSGImh0dHA6Ly9jcmwuZW50cnVzdC5uZXQvbGV2ZWwxay5jcmwwSwYD
-VR0gBEQwQjA2BgpghkgBhvpsCgEFMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly93d3cu
-ZW50cnVzdC5uZXQvcnBhMAgGBmeBDAECAjBoBggrBgEFBQcBAQRcMFowIwYIKwYB
-BQUHMAGGF2h0dHA6Ly9vY3NwLmVudHJ1c3QubmV0MDMGCCsGAQUFBzAChidodHRw
-Oi8vYWlhLmVudHJ1c3QubmV0L2wxay1jaGFpbjI1Ni5jZXIwHwYDVR0RBBgwFoII
-Y25iYy5jb22CCiouY25iYy5jb20wHwYDVR0jBBgwFoAUgqJwdN28Uz/Pe9T3zX+n
-YMYKTL8wHQYDVR0OBBYEFMiXcGHlTJfRcAst4w2ufL5WkCd5MAkGA1UdEwQCMAAw
-DQYJKoZIhvcNAQELBQADggEBANAPAfJMs8ep7aMDSSmruW7U/b9s2pPyhnUlc5jE
-GQK+YNyxVpU0dqIBeHShY+b/uMH08I6nPYjXY7MENVv3QPWus3Q5x/ZCWUpZwaTa
-N01mv0i1npERr31e7aU+D3YIfYagKXv5rKZIhPJtAlnm6bitrgLI/UGr8wV1oDth
-0q5u807MvDFz7KQIXPtX+W42Hm1G6rSjSjRUeGoEVfm5UkZxmCZTl5DDR/jQLEAP
-3HNXiGxyqE7BaezlU/40yy5GwJHFdir4cIKFUnyh7i63GvD38rTnXQ45R57LBh2U
-90zSiTsm/pEQo4pb0rgoBEMt1lgd8PzwWvhhW5/59sDYhrk=
+MIIHMDCCBhigAwIBAgIRALv/Q9CSuUvXAAAAAFDpXq0wDQYJKoZIhvcNAQELBQAw
+gboxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1FbnRydXN0LCBJbmMuMSgwJgYDVQQL
+Ex9TZWUgd3d3LmVudHJ1c3QubmV0L2xlZ2FsLXRlcm1zMTkwNwYDVQQLEzAoYykg
+MjAxMiBFbnRydXN0LCBJbmMuIC0gZm9yIGF1dGhvcml6ZWQgdXNlIG9ubHkxLjAs
+BgNVBAMTJUVudHJ1c3QgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkgLSBMMUswHhcN
+MTgxMDI2MTA0MzQ3WhcNMjAwNDExMTExMzQ2WjBkMQswCQYDVQQGEwJVUzERMA8G
+A1UECBMITmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMRowGAYDVQQKExFOQkNV
+bml2ZXJzYWwsIExMQzETMBEGA1UEAwwKKi5jbmJjLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBANofSTURPr6lOhorrsByZDzM3E9P/uC+UcY1mfjK
+ncXbYSBhXJylsZFX6wMF2kVF3cbpzWZtIqO4qBcYNQPHw/QKUJQ6f1tYdHfrzIbQ
+WFF9aYQ0yx4cIGHSDv0nuMnUrc8QP1qpUO/mET5EJUarp3nBX+txZMX+Lia87hRk
+lESwiB8Gghbl8PTMI8ECyoRfUTCeEJiQ2jk1iFcowt76e0rIcgOEW3zuYa4KosJ2
+TQRtYJM+JxDy3+t6v+otGsgA0jqO8Lw6w66I6ivc0S7EAmsfkao4B7xRZBXZwpwa
+HILTrZct2USoTJ+e7lMRNqr/88Jf0RKZ1AAISmzHCveAXWUCAwEAAaOCA4QwggOA
+MB8GA1UdEQQYMBaCCiouY25iYy5jb22CCGNuYmMuY29tMIIB9QYKKwYBBAHWeQIE
+AgSCAeUEggHhAd8AdgBVgdTCFpA2AUrqC5tXPFPwwOQ4eHAlCBcvo6odBxPTDAAA
+AWawFIneAAAEAwBHMEUCIGaJ8Urenfd4ro8J69N4S59ijVMbQGFu8rCtR1r5TPKg
+AiEA5VvnrcW6aIIkA4BoM9gthKmf59RilOS0DPt9lDMdpaQAdQBWFAaaL9fC7NP1
+4b1Esj7HRna5vJkRXMDvlJhV1onQ3QAAAWawFIoeAAAEAwBGMEQCIFWhZvVtbMwJ
+q+acOFOziVE6MwaNf4mJDI5TiSsibrwjAiAEkJtXZ1yEA3rLQkMFjJeyHmGvqLdo
++igpP0fEOnDY7wB2AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAAB
+ZrAUim4AAAQDAEcwRQIgRS2eEsv0WIypn9r+Mk+N28Qyrepf5JTZWw3Ay+eQ1DcC
+IQCZt+Oi5mgTeb9JBYTVeuP1wa+oW7XUnyruwn0g1J9KDQB2ALvZ37wfinG1k5Qj
+l6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABZrAUigcAAAQDAEcwRQIgHcm32aizCMdp
+ftGWLwsUakyFGjzetsMXAHN3SQHNXAECIQCsPWNEXCYMV2XNrMueA0DpT5HMVcc9
+bI4KSisWsvVMjDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMDMGA1UdHwQsMCowKKAmoCSGImh0dHA6Ly9jcmwuZW50cnVzdC5u
+ZXQvbGV2ZWwxay5jcmwwSwYDVR0gBEQwQjA2BgpghkgBhvpsCgEFMCgwJgYIKwYB
+BQUHAgEWGmh0dHA6Ly93d3cuZW50cnVzdC5uZXQvcnBhMAgGBmeBDAECAjBoBggr
+BgEFBQcBAQRcMFowIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLmVudHJ1c3QubmV0
+MDMGCCsGAQUFBzAChidodHRwOi8vYWlhLmVudHJ1c3QubmV0L2wxay1jaGFpbjI1
+Ni5jZXIwHwYDVR0jBBgwFoAUgqJwdN28Uz/Pe9T3zX+nYMYKTL8wHQYDVR0OBBYE
+FDI9b6MDbmTtx0iYuQYw9DTTJgSCMAkGA1UdEwQCMAAwDQYJKoZIhvcNAQELBQAD
+ggEBAEPbWq+O8r+2qLM/smX3a1m0S7kbLkvXUwO3aVYWArdKcRnJiw54oflSfR4K
+w7id75ygtTmUnSm2whlBK2K1uqNCtC+qhuBLxr94jWob5Zb1cpqTg4q4Npi0w0r+
+m0uu9nwT1+wnhOoh/kwdeUmNS3wqRQ0t0GJngas0G13VrLRJl0MKEWQ2xiVhXqL/
+dVXT0Ls+FS9FKvLPWciw+r+k/POzsSV9FzUmh0rZYWDsqOV/x8fHxjXVrnRASTec
+4MxcjNXkFMtjBHyq0jYYA1jILQCvS/AhFdqeFvikpboqqFGX4Wchbxb5InIQUTIu
+1izZTwqitwdoDtT7OBO+m3mCKXY=
 -----END CERTIFICATE-----
 subject=/C=US/ST=New York/L=New York/O=NBCUniversal, LLC/CN=*.cnbc.com
 issuer=/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4087 bytes and written 634 bytes
+SSL handshake has read 4892 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : AES256-SHA
-    Session-ID: 160D3618300A9FE73727BE28B0EA7494016770E30261CF55547487DFA1163750
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F60D3AA6BE10359D19BE7F1A7368FCD64878BE630E1CC37BD74E05CD5B262B54
     Session-ID-ctx: 
-    Master-Key: 1E7124091591348F11B55FC5995A8659B1B8605DBC8CD22BBF386465B7B9AD0565076966AE6FF50CFD39C2D195DC1B88
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788816
-    Timeout   : 300 (sec)
+    Master-Key: 3334094F1FB2986A08BE6D571541BF6427994F7627AD8744159E3311B553C5ED80B45902A7C4A143D739A42084E80572
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 08 c1 39 e3 51 b8 ec 19-49 be 59 d0 c8 47 29 9e   ..9.Q...I.Y..G).
+    0010 - a7 71 53 89 6e 26 4b d3-04 5d 45 09 48 11 2f 86   .qS.n&K..]E.H./.
+    0020 - c1 2d f4 bb 92 e7 1d fc-05 25 00 95 3f 9a fc 13   .-.......%..?...
+    0030 - 36 ac f2 5f 6a 10 11 0d-ec 31 44 9f f8 f6 22 a9   6.._j....1D...".
+    0040 - 4d 7a ea 15 78 36 df 97-f0 64 ae ed 97 79 72 2e   Mz..x6...d...yr.
+    0050 - 25 1a f3 3c 60 27 38 78-37 38 fc f2 b4 af 33 eb   %..<`'8x78....3.
+    0060 - 22 2c 07 20 7d e6 ba d6-e5 65 f2 e8 2f 4b 2e 9e   ",. }....e../K..
+    0070 - 3c db 90 16 a6 af f7 02-6b 29 80 27 17 7f 3c 5f   <.......k).'..<_
+    0080 - 9e 8b a8 0b 56 06 c0 3c-1b 42 af 6c 91 86 0d 5c   ....V..<.B.l...\
+    0090 - 0a 03 41 54 20 52 9f be-6e ac 5f 66 05 87 32 70   ..AT R..n._f..2p
+
+    Start Time: 1577474995
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

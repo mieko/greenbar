@@ -1,53 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
  0 s:/C=IN/ST=Haryana/L=Gurgaon/O=Ibibo Group Pvt. Ltd/OU=IT/CN=*.goibibo.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE8TCCA9mgAwIBAgIQcycACshMHPTFiRG/NuyK8DANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMTEzMDAwMDAwWhcNMTcwMTExMjM1
-OTU5WjB1MQswCQYDVQQGEwJJTjEQMA4GA1UECBMHSGFyeWFuYTEQMA4GA1UEBxQH
-R3VyZ2FvbjEdMBsGA1UEChQUSWJpYm8gR3JvdXAgUHZ0LiBMdGQxCzAJBgNVBAsU
-AklUMRYwFAYDVQQDFA0qLmdvaWJpYm8uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
-AQ8AMIIBCgKCAQEAt1t92kVXzxuw9QpioEawUkZJYllTJS4vLtkPPFzunsBIhN7F
-tkePt70YXAs1jsLTusJgSr746+iDi/HKI7y6/B8zCghIHOX7vOsUcxlGRcw7eQoe
-/rXL/n13fgqPffxr7Mz+mrwT4NcbHYp0ji37ybp27r5PknpMRNkRblNkOo+jhcJ6
-gkRj47IuIAH+5l4VwJ1I9HGX2+qRu5AJlzcusMLibIuy8bpzWfFXg2jc49chBNUZ
-eqMSM+sGyH0u9po0LdIcXDtDd7+Fg9knEyJ1EhToDUphnAMyJe7sQzesg3N2yKrr
-y6vh3/Ukz9cVhig1uP5Brjcw9zGrBSteTFquMQIDAQABo4IBrDCCAagwJQYDVR0R
-BB4wHIINKi5nb2liaWJvLmNvbYILZ29pYmliby5jb20wCQYDVR0TBAIwADAOBgNV
-HQ8BAf8EBAMCBaAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2duLnN5bWNiLmNv
-bS9nbi5jcmwwgZ0GA1UdIASBlTCBkjCBjwYGZ4EMAQICMIGEMD8GCCsGAQUFBwIB
-FjNodHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkv
-bGVnYWwwQQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jl
-c291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
-BgEFBQcDAjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xafDBXBggrBgEF
-BQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5jb20wJgYIKwYB
-BQUHMAKGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MA0GCSqGSIb3DQEBCwUA
-A4IBAQBG69NzDDDWZfAFnRUyo0H6GgRgQdT9kYOdNyyX80Bn+IQzEL/KxtwZ9WSR
-7FN21PD5qGMcfb0KjbgKrLKFqufqq+4l3VEEgawojxcP17RM9NYAhTE8UVpysdGz
-J5Y+WGQTGQBIPlrTppUmGa790OyojIJq+hSSZFQzas43VEE+eHJjJxgegs96/RQq
-z00Blwlc/LpK1P2Xbef6E9fGE8E+VAHK2g+vKJBRDqAVArnij5YL0rjtEAT+gq3W
-CQSQs65OiU+eOpjJpX8JnL6wM244DK+rx8tmtjftRZEc64v9ApBKiGkJ2hNF4F3P
-WDaHVz3GoABtDhXdUTAdGHQNEB3I
+MIIGijCCBXKgAwIBAgIQDKaOXQ13WaXn/NLRuF5LPTANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAe
+Fw0xODA0MjAwMDAwMDBaFw0yMDAyMjYxMjAwMDBaMHUxCzAJBgNVBAYTAklOMRAw
+DgYDVQQIEwdIYXJ5YW5hMRAwDgYDVQQHEwdHdXJnYW9uMR0wGwYDVQQKExRJYmli
+byBHcm91cCBQdnQuIEx0ZDELMAkGA1UECxMCSVQxFjAUBgNVBAMMDSouZ29pYmli
+by5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDHvE2wNcnKAcMK
+ighmxD+zc5SEgX2EHDc0YwzhQ4QOnWDqauwEtBvP6gOZcBEdb2u2FVfdntHeETBC
+VClbHiZK3m7dsQpMyBnBIXZO9f+luKfNFDJBZYN3tNBXMODJuXf3O/FI5EqNRLHO
+reAsdteh05nApDIJCsPxsMWUNggaHeV8bKQt2mcqfBTenBBtnBn0dc3UpUC5bRE4
+nGbspqWbz6UCaLdPS/l6vDhNktYrRvf3Btedn85dpBNUjkjUhY06WrCBBmj7tw9U
+UfVa4TO3NUJBjR26HAPrAogSWu3MmhRApAeJPhxo4zxTazxxGiuAPW3cVxtNzZpK
+P1xhEGS/AgMBAAGjggMrMIIDJzAfBgNVHSMEGDAWgBSQWP+wnHWoUVR3se3yo0MW
+OJ5sxTAdBgNVHQ4EFgQUDJ47E4k3MQvcFmWrHRPglaHp7VYwJQYDVR0RBB4wHIIN
+Ki5nb2liaWJvLmNvbYILZ29pYmliby5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA+BgNVHR8ENzA1MDOgMaAvhi1odHRw
+Oi8vY2RwLmdlb3RydXN0LmNvbS9HZW9UcnVzdFJTQUNBMjAxOC5jcmwwTAYDVR0g
+BEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGln
+aWNlcnQuY29tL0NQUzAIBgZngQwBAgIwdQYIKwYBBQUHAQEEaTBnMCYGCCsGAQUF
+BzABhhpodHRwOi8vc3RhdHVzLmdlb3RydXN0LmNvbTA9BggrBgEFBQcwAoYxaHR0
+cDovL2NhY2VydHMuZ2VvdHJ1c3QuY29tL0dlb1RydXN0UlNBQ0EyMDE4LmNydDAJ
+BgNVHRMEAjAAMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdgCkuQmQtBhYFIe7
+E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAWLirAqEAAAEAwBHMEUCIQCZzI8GkIzh
+D4B8mYV8pHBEi3GXeCo+C7r/eEdCL4pr1gIgeiSzFAu8bgeiPvWWoPJHgRMVAPcE
+7qOEVanCiUyqe2sAdQBVgdTCFpA2AUrqC5tXPFPwwOQ4eHAlCBcvo6odBxPTDAAA
+AWLirDGmAAAEAwBGMEQCICcCPxOyK/jR04ZXwTdfxMZMYZgYlCWxJTcouyNo39W3
+AiBhrgog3fI9JREvS22HdFE9StIw3zqUule5um0oQlJ33gB2AO5Lvbd1zmC64UJp
+H6vhnmajD35fsHLYgwDEe4l6qP3LAAABYuKsC1UAAAQDAEcwRQIhAPKyCO7jLstW
+PNytWd18QhqGereU5ll3+azRd6k6tQNBAiAtqn7mGWFy6ulukiAxfQqb8rJyxIWS
+GwR8H3k/RjnHkTANBgkqhkiG9w0BAQsFAAOCAQEAnpweJ8R0PkfTTNS6kd92ui7j
+yt++JMvJSKONSUfu45dM6xu+52tPiAToms+BNATF6gVxpabr/DZn2aXEtJGMS/50
+rQrV1NligzrX7/EkMhEsbfiVuo90PUAnJNTQ5Z9FRvl8zcvo+3zTyLn8gluwZEQH
+/9l+njAZ/Hhl8Ko9jBBE/aLTStQiS7hEJXEH5Ij+yAqkH+58p5u6bOU9DVtaxj7E
+L5u+1503hEn7chxR+nWTqzvWdVrmLieYa04SfCU/Zg3CJfJYaQbFvumm8mVCsVDG
+J/c6kj2Spri5VcroChSBCRc+dngmHURuneQT0EERD7PvntHxBt9z2wizSHvEdg==
 -----END CERTIFICATE-----
 subject=/C=IN/ST=Haryana/L=Gurgaon/O=Ibibo Group Pvt. Ltd/OU=IT/CN=*.goibibo.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3897 bytes and written 434 bytes
+SSL handshake has read 4468 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -55,28 +62,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: FF4DEB17E56694BC6681A27D4533A0AF7160D982A7BE4691CB91C5B5BB4A0FD2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 5C6AA8FDAD8C6990B1D3596DFFE187CABD348F7974AF9789E4063AFBE255C4BB
     Session-ID-ctx: 
-    Master-Key: F65118CF4444B836E54E70D1D226B13CEFF99219EA62B93E209BFB13F3FF27D3529F33E6696122B2036E9CBC9EF4AD1A
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: A93B137BE5F171957F0B019D2060496DCA494B7AF9547293163E8EE127496748A3B2F60BCA2A82574D5BEEB99047EBB3
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - 37 3c da d0 6d 04 80 cf-40 43 54 53 97 8c 32 1d   7<..m...@CTS..2.
-    0010 - 42 d5 85 a4 80 76 b6 c9-49 b6 41 56 89 9e 73 1c   B....v..I.AV..s.
-    0020 - a6 a4 b8 1f 22 e1 4e db-fd 13 20 e9 5d 74 fd 1d   ....".N... .]t..
-    0030 - b0 5c 99 3b 71 ba 36 f2-4b a6 31 fb 7a 05 97 39   .\.;q.6.K.1.z..9
-    0040 - a7 c9 d4 42 c0 91 5f 93-a7 59 dc 17 bc 5e a9 0d   ...B.._..Y...^..
-    0050 - 78 61 86 1a be 65 0a 41-a6 4d c5 d0 fe 65 ac a8   xa...e.A.M...e..
-    0060 - 3c 98 11 9b 80 34 7e 94-db a7 5e 70 60 35 6c a5   <....4~...^p`5l.
-    0070 - 24 06 1b 86 35 f2 85 14-7b ef 83 b2 35 76 ee 8e   $...5...{...5v..
-    0080 - 60 09 9a 9a fe c3 29 d3-d4 6c f8 91 a4 45 24 91   `.....)..l...E$.
-    0090 - af ec 28 fd f7 0f c8 b8-df 44 3c bd 90 93 33 a4   ..(......D<...3.
+    0000 - cc 23 98 85 f4 bb 88 c8-7c 9c a0 56 44 ee a8 2e   .#......|..VD...
+    0010 - 3a e3 a0 84 9a 89 5d 71-e9 3c 05 30 5d 70 8d 4b   :.....]q.<.0]p.K
+    0020 - 24 c7 e9 69 45 c4 2f e4-a9 a8 84 5f 18 98 ce e9   $..iE./...._....
+    0030 - 69 e0 b0 82 d9 27 4c 63-f0 93 35 e1 5c db 68 e6   i....'Lc..5.\.h.
+    0040 - 61 d4 f2 da 3b 34 97 d9-e8 70 54 da ec 40 b2 e3   a...;4...pT..@..
+    0050 - d2 f9 ba 9a 3f 92 14 94-5a 0e 5b 85 f8 7b b8 f1   ....?...Z.[..{..
+    0060 - 02 1b 00 99 59 0c fd 98-4b a1 32 57 c9 4a f9 7d   ....Y...K.2W.J.}
+    0070 - 31 8a 80 f1 cd c7 80 bc-4a 25 55 d7 af ea aa bc   1.......J%U.....
+    0080 - 87 0e 29 54 f3 15 d8 74-86 e0 27 a1 8b f6 db 8c   ..)T...t..'.....
+    0090 - af b3 6b 8e 52 19 78 59-bb e9 e3 8c e1 3e 0a 41   ..k.R.xY.....>.A
+    00a0 - 2f b2 df 30 92 5f 35 3d-54 59 59 db 25 c0 12 4a   /..0._5=TYY.%..J
 
-    Start Time: 1472790487
-    Timeout   : 300 (sec)
+    Start Time: 1577475327
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,56 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/OU=Hosted by Realtime Register B.V./OU=PositiveSSL Wildcard/CN=*.vinden.nl
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
- 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
-   i:/C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN - DATACorp SGC
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.zapmeta.ws
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=AAA Certificate Services
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFdTCCBF2gAwIBAgIRAIuU4BiINzThkNieuXAvJPgwDQYJKoZIhvcNAQELBQAw
-gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
-BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
-VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
-Q0EwHhcNMTUwODE0MDAwMDAwWhcNMTYxMTE2MjM1OTU5WjCBgzEhMB8GA1UECxMY
-RG9tYWluIENvbnRyb2wgVmFsaWRhdGVkMSkwJwYDVQQLEyBIb3N0ZWQgYnkgUmVh
-bHRpbWUgUmVnaXN0ZXIgQi5WLjEdMBsGA1UECxMUUG9zaXRpdmVTU0wgV2lsZGNh
-cmQxFDASBgNVBAMMCyoudmluZGVuLm5sMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
-MIIBCgKCAQEAtAvyLjf7Z8eUxtHWftlJN5UhguRCtlnX6tBPd49A4Cf9hlwxf+tW
-RqPihyXjKDPWEM8YotHuNQF78iNl69kK9wqowwTKEtWrPFFfMavEmmfQwUOTVaDu
-UpRNprTZCSXjx+afhzZX3TRvrrckkbB2mve914O2uU7TiVNhtMyUkEmHdzyC6c03
-QLWTO9B4koWBfagS2yYUq0aw844xkRD0J1PdZpsaPvSzT/blWbxACyQduE9/jHC6
-uqRVNaLvDJZmtb0ujJn7GMeTTzERsKpFdcZIC3ZOykW9EDfRTAIY1g1U6cKI+stX
-99vgo5zd48F/D6AS/knrBq5NKJj0/CGShwIDAQABo4IB0zCCAc8wHwYDVR0jBBgw
-FoAUkK9qOpRaC9iQ6hJWc99DtDoo2ucwHQYDVR0OBBYEFLdp/Wm7K9bpI3iyt37D
-TlCnsKLqMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQG
-CCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQBsjEBAgIHMCsw
-KQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20vQ1BTMAgGBmeB
-DAECATBUBgNVHR8ETTBLMEmgR6BFhkNodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9D
-T01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3JsMIGFBggr
-BgEFBQcBAQR5MHcwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuY29tb2RvY2EuY29t
-L0NPTU9ET1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwJAYI
-KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTAhBgNVHREEGjAYggsq
-LnZpbmRlbi5ubIIJdmluZGVuLm5sMA0GCSqGSIb3DQEBCwUAA4IBAQA6bNW1tKjk
-eShMR2lU1c6Qn+d7skXrY7kTlOySVaeWH7TIyTvypsksOF6KHDQX6PN+AeYnZPfN
-jEyWKy5u+GNqgNeQN7+4hmrLzwHAF94HT1dDdIGwPqEJa2JsUivzYp8V+AXmHLp4
-hG14FxdFyndZ6ljkjOZmIWSwJKmr2EtGpcYwW5Z8fdGGek6DS9cmklUD+WbY0u0S
-iXQ2nPISPz92+4ZjpTa2HUXDLO6+nmxm2cmgaWPoAH3iQWV2+rnBY6xgXFqrKh40
-OT68+0DHP5oZTz0C7w5t/cD9CM+hK7ZLzm3iAX9vtZJzISmQI4XAE9+JT7Tj6MIB
-uvIASsYxjXwH
+MIIGbTCCBVWgAwIBAgIQNdb/Na5S2vKuWsErrxkQzDANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTE5MTAxNDAwMDAwMFoXDTIxMTEwOTIzNTk1OVowWTEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMR0wGwYDVQQLExRQb3NpdGl2ZVNTTCBXaWxk
+Y2FyZDEVMBMGA1UEAwwMKi56YXBtZXRhLndzMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA39+xR4inOXhGVolFevBNKUrwbOQOMQfyWq639mCr1vEuk5aJ
+wUuMzq6u6fd5s4rcKJysZ0N59LUC6LzKGzW8sRy0Ya7nAeNB9xQkEgmTrB6JOePE
+V1gqbwFsKsvNV0rkvaAvwmRvObuQLFJi7CwoxxcS5qJl1tDSQnSB6jnaQtwi9vLQ
+jxTcOI13fbm5lt6dTz2rWBig4dVtjZnixuMdgKUTL8psrh4NspiHrVTOJMvg7G8B
+y8xQQXM9eF9Tct4IeLnpb4pW6V+iS1J8M1k8gfvbTRK6YCeriYhIpN7fKb2kSfF+
+iJHu9Gw15dA4lo3cgtiJ5x2FyBpz+yRDgTkzJQIDAQABo4IC+DCCAvQwHwYDVR0j
+BBgwFoAUjYxexFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFC7h2Y/2EQD7kbSB
+qK28krvnhYuaMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIH
+MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAEC
+ATCBhAYIKwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3Rp
+Z28uY29tL1NlY3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0Eu
+Y3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAjBgNVHREE
+HDAaggwqLnphcG1ldGEud3OCCnphcG1ldGEud3MwggF8BgorBgEEAdZ5AgQCBIIB
+bASCAWgBZgB1AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABbcqG
+1AkAAAQDAEYwRAIgBj9+gl6vK3zXf4nvkHHM60R+vE4nrawkRw6LfFAAsHsCIBDO
+WNZqthQgNKFeTV5DHcRWF4xiRdRDEQgmHhN8KNvrAHUARJRlLrDuzq/EQAfYqP4o
+wNrmgr7YyzG1P9MzlrW2gagAAAFtyobT+wAABAMARjBEAiAvFM1JMFwm+CNf5fVX
+enPKHkNr6jOwqetN7PoMhj9d5gIgKg1jghy16uN3JKEcXAVXIW1Td1gp2hHc0NBM
+UZR2e0oAdgBVgdTCFpA2AUrqC5tXPFPwwOQ4eHAlCBcvo6odBxPTDAAAAW3KhtQB
+AAAEAwBHMEUCIDRqqNtU8aF3jinMG5wauSRm0zCuQgOAV1YN/xF5hdYfAiEAqvDg
+NeGrroVfE7bho2/3jSyp/Oudip5qFA42QMreVOcwDQYJKoZIhvcNAQELBQADggEB
+ACW2lR3x5hiR7TaWMVUsKdCV7bwVIjX4HpG4obr7vexLsQM6w2LNAvWHiKWesIt8
+1VYY9fbWeIRwpqrM9ubuOq2czifBNKEBa0IOY6zDoc5OEq+5Ulvjy4ghOpnG/sxv
+CbPOeGbVuBF7tp+PPxTullT0EThjD8jSxPMj3pyJw3UMmtmTf5NDLvE2N9br+xS6
+0PRcTrQbXmvvetyoFeE5sTK3I+Dg0Ykl92h4IPUTPPGf/Yi2yChWEAlKVVHfxKcB
+3tq8aGqBu+GJ3zXyj2cglSvQRY/oWU2K91IpjMoz9Sw26EfL3WmsyyFzS3OX/riI
+318wj9AAA9APSLqncY1utXM=
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/OU=Hosted by Realtime Register B.V./OU=PositiveSSL Wildcard/CN=*.vinden.nl
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+subject=/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.zapmeta.ws
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5662 bytes and written 650 bytes
+SSL handshake has read 5132 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -58,15 +62,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-SHA
-    Session-ID: 
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: B268B48206AC28679B314C326FF5D0EE7AD617CF72BBE86FA3AC2AC53E8520FF
     Session-ID-ctx: 
-    Master-Key: 920B25684E4825BE0B5D642642336627043A078741E1C7145737F4C27F0E68D4C3E1CDF5C1577A6EA582FCAF363C0D4B
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472790571
-    Timeout   : 300 (sec)
+    Master-Key: EF3BA27DF4457331D45E4AEB04CB22EACBC3BC91EE0D6AC50399B8A4913A85A738B50CCF421447D7091C70087D026452
+    Start Time: 1577476025
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

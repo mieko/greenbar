@@ -1,4 +1,4 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.informer.com
@@ -7,14 +7,16 @@ Certificate chain
    i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
  2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
    i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFUTCCBDmgAwIBAgIQZ1eyjHF99WZrSPourBd4XjANBgkqhkiG9w0BAQsFADCB
+MIIG0TCCBbmgAwIBAgIQGz4tArsPVz9fDQmzgEIh3DANBgkqhkiG9w0BAQsFADCB
 kDELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
 A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxNjA0BgNV
 BAMTLUNPTU9ETyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
-QTAeFw0xNjA1MjMwMDAwMDBaFw0xNzA2MjIyMzU5NTlaMFsxITAfBgNVBAsTGERv
+QTAeFw0xODA2MjIwMDAwMDBaFw0yMDA2MjcyMzU5NTlaMFsxITAfBgNVBAsTGERv
 bWFpbiBDb250cm9sIFZhbGlkYXRlZDEdMBsGA1UECxMUUG9zaXRpdmVTU0wgV2ls
 ZGNhcmQxFzAVBgNVBAMMDiouaW5mb3JtZXIuY29tMIIBIjANBgkqhkiG9w0BAQEF
 AAOCAQ8AMIIBCgKCAQEA7FOopJi23yaMVAeDuw76xq+Wvpav6Y04YVh899Sl5pBG
@@ -22,7 +24,7 @@ Duwmj8FI49mNSThQ+/R2Vv3h0IeW6mWpKXtKKEigsHdJab48urk//B8ksAEBf2m5
 2hXCRMylUOMGXhh22p7MJhzePJQWKjRSpHLChN0VTRSd0us6jCngjZa9iFY/l3NB
 /yPBQ8y5szTgpuZ6/wQ5B7NEJMmHScgrx1BRSUVFG4l8iK6jCD8y5YPOXIor8//Q
 xUeGG1ld6aQlQCiwXHmS7h1aq2F+JY1wMXzyN5HeoDAJD3MaT3GeWj/JJz+m3wxR
-5fidgLJR2pxpY9gPW9y4P8gGMOTZwrvj0eAP0W1F+wIDAQABo4IB2TCCAdUwHwYD
+5fidgLJR2pxpY9gPW9y4P8gGMOTZwrvj0eAP0W1F+wIDAQABo4IDWTCCA1UwHwYD
 VR0jBBgwFoAUkK9qOpRaC9iQ6hJWc99DtDoo2ucwHQYDVR0OBBYEFMYEmFQ8xkKk
 deAyVzlroBkm+pytMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
 JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQBsjEB
@@ -32,13 +34,21 @@ LmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3Js
 MIGFBggrBgEFBQcBAQR5MHcwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuY29tb2Rv
 Y2EuY29tL0NPTU9ET1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5j
 cnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTAnBgNVHREE
-IDAegg4qLmluZm9ybWVyLmNvbYIMaW5mb3JtZXIuY29tMA0GCSqGSIb3DQEBCwUA
-A4IBAQAhLGeuCZXqJstcRDapGwKEehNca5ZFT7BESN0NtqbIhGZ7Q7JnwE7CeqeR
-CDmNnwapUw5Tj0L3B7BvfhNud79wK5cXUAWC3TDQkR+4ubAJMQ11YD5QY/YQ0Ttl
-IFW9QEED951peIh7NhzdWPo/7q5MNAQjktbvDOw/Bp3JnO1eFrceUw524gZNXVjm
-sir95WJYDNfPpNBbh20vSvMfSdUGJdt5jVg/Nr8ICS9o3kxaye8gwU368Su0KnKe
-QthZLk2xrA38RDWbhx6S/X2McthYAY0YI6bwr/U1jQDd9oh/QdOOLu/6fJrt9sdZ
-EgFi8Sip67oDo3D8H4so1PlVkN0G
+IDAegg4qLmluZm9ybWVyLmNvbYIMaW5mb3JtZXIuY29tMIIBfAYKKwYBBAHWeQIE
+AgSCAWwEggFoAWYAdgDuS723dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9ywAA
+AWQoCbr6AAAEAwBHMEUCIC22WslxItiMA6StvV1TebTSyCApIUnrSgNz9BnplUi4
+AiEA66vXgNChvOYwZAuA+vWyEKVvY4gFVgHsEXsVgSlhtv8AdQBep3P531bA57U2
+SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAWQoCbtgAAAEAwBGMEQCIFrh6xYAL8Yo
+kFk0fES2DvpOzr2oKF7DUYxUVaFPqMweAiAqg8sV1MbQ7f4kgch+X9ZrwoqWeLq6
+qAXeJv5qjQ+udgB1AFWB1MIWkDYBSuoLm1c8U/DA5Dh4cCUIFy+jqh0HE9MMAAAB
+ZCgJuxoAAAQDAEYwRAIgUgZUaD8uYMQ8d8lehrfFa6PV0I3lU7JqouJmtyGpL/QC
+ID9kpsxWmddfKPlU3Y+50l6NLwgjPxjGAtutdgW4NpMQMA0GCSqGSIb3DQEBCwUA
+A4IBAQAb5mzhDmFYMGhp+QMtzmQy8UF8rAlTPnSJatcuYOTX3hCBByC3sgq7wL7X
+prc2PA7TFlDZ+1Os+yaX7H1FkkeMGzmg9aSII9C9UcRC/s4DnjfGfq2ZS/p49b2P
+2wULgrCVTN52ozQ0Xpmq2cZQPLaZmfJRlFnOqKUh8shT3A5uW/1q4oRQerklIkOr
+JsOy6Y/4a5kl1qF9qbuIvhClTybmVOOvAeSECnMjcXn1VLpi/bjnL4eeSwAvbnqo
+Gj61uChRIIN62SxQOAWyXXs1sfz1JzT3G27GFSp0DMiOJawLdSh0vOwVkYXjdwt1
+oyro6E5sDdR5jWwkW364QltbrXtg
 -----END CERTIFICATE-----
 subject=/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.informer.com
 issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
@@ -46,39 +56,35 @@ issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA D
 No client certificate CA names sent
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5000 bytes and written 442 bytes
+SSL handshake has read 6458 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : ECDHE-RSA-AES256-SHA
-    Session-ID: B4AAFFFD773F35D2C14AF5F64424D4F7CE090BB923DAC0B88B5D0B51428AAD68
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: D519523B55B0D1F664CC5CCB6CE368B21F6E44F9A07E1A0A18303D1D661DD6D2
     Session-ID-ctx: 
-    Master-Key: 51E180634CCD0C1A8F87E9EED28B0ACEF7D9524EDA05C08BDE2045EAF93F652E57F0675D424351D932712C9BA28C173A
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 547EC06834BBA2B871EC6AF34614EF035974DEFD7C5839CEB9F3465557393ABED648E3383A10EBD3097245AC5F8711C4
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 86 63 c3 e5 9b 04 e4 85-8d 7f 23 ed 9c 7c f5 12   .c........#..|..
-    0010 - c8 c6 f2 c0 ce e0 78 bb-b8 9b ce 2b 1a 2e 59 aa   ......x....+..Y.
-    0020 - 94 9a 9a 92 62 1b 51 ca-4f cc dc a8 34 36 c0 89   ....b.Q.O...46..
-    0030 - f1 5b 18 98 81 61 27 02-c3 91 94 61 3d 71 cb 30   .[...a'....a=q.0
-    0040 - fc d5 62 67 88 66 25 a7-4b 90 54 fb c5 d9 be 89   ..bg.f%.K.T.....
-    0050 - 2b 26 fb b7 8e 9b 65 b8-fc 4b 77 27 ad ed 90 d4   +&....e..Kw'....
-    0060 - 8b b0 b1 8e a1 88 1f ba-05 7e 20 f1 38 07 8c 31   .........~ .8..1
-    0070 - 16 ec c3 3a 7e 2d 4e db-23 9b 21 10 48 e3 b0 56   ...:~-N.#.!.H..V
-    0080 - 74 65 9f d3 a1 18 f9 db-21 8b 6c b8 b7 38 25 2f   te......!.l..8%/
-    0090 - c2 71 0c 6a 18 d5 60 3a-57 ea e3 9f e0 75 66 89   .q.j..`:W....uf.
-    00a0 - 20 89 8f e4 a9 95 e9 73-7b dd 65 77 31 68 9a 70    ......s{.ew1h.p
+    0000 - ee 42 a5 69 e2 0d 5e d6-b7 83 33 20 fb f8 03 d4   .B.i..^...3 ....
+    0010 - 38 a3 5c 08 ef 5f 7c 3e-1a 40 95 52 3d 4b 60 d3   8.\.._|>.@.R=K`.
+    0020 - 3b ca 6a 12 ca 0f 0d 54-a9 2b 54 c3 b8 e1 1d 2b   ;.j....T.+T....+
+    0030 - 00 a7 8e 63 8a 9e 1c 4b-ba 35 cc f3 38 8c 83 b4   ...c...K.5..8...
+    0040 - 9b ee 1e 01 de aa 77 90-07 7b 59 3a 84 61 30 fd   ......w..{Y:.a0.
+    0050 - 96 d8 b2 d0 b0 f6 6b c1-1a 83 9d a8 c7 b1 ef 39   ......k........9
+    0060 - 60 49 3d 53 03 40 b9 f6-16 80 9e 06 5e c3 a2 cb   `I=S.@......^...
+    0070 - df 64 da 88 e3 7f c5 c5-cf 5e 8c 23 b8 a5 02 62   .d.......^.#...b
+    0080 - fd 68 3e f3 fd 17 30 7c-26 3c 39 c2 09 6c 3a 18   .h>...0|&<9..l:.
+    0090 - 2e 78 60 b5 ce 6c b8 8f-51 58 c1 b0 d1 69 20 3d   .x`..l..QX...i =
+    00a0 - 0b aa 56 24 b9 10 c9 df-d7 72 63 69 f8 d9 1c 95   ..V$.....rci....
 
-    Start Time: 1472789352
-    Timeout   : 300 (sec)
+    Start Time: 1577475427
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,0 +1,81 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=support.mindspark.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYjCCBEqgAwIBAgISBGDkDVRzJoqUiT1JvBqOMiwFMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMjIxNDE1NDhaFw0y
+MDAyMjAxNDE1NDhaMCAxHjAcBgNVBAMTFXN1cHBvcnQubWluZHNwYXJrLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMckFFCoCp5uXBwHXq9Pdh+L
+EBxmhg99J752JiJuenI2ejKNypQ0Mo6m+7HgZjE6pW1tJw7mpa6le91j4Ikuw2IU
+MaDv5AEtP+G5DszSj0AI7dDfTSdESOU8FP11hUDMqZZ2GOUgXthw8Rw4LTiOWBK1
+Wt9wwUC/xRzNu5zMjADnnyBLg2GEPZtqTHVTJFGv148bJfE5gZRmBt5HUTBImm4g
+xAM6akV74VXojz1P8ubeYu8cMXqiPP9g4eNr8SO8tdvqngKIaOVV39p/xlNPZgvM
+Ai0CxKSwTj+o0SKALJXRom3ohSzqf5rQAxAZo0dBd3pJScTpdMxGGQVGS+ipIlcC
+AwEAAaOCAmowggJmMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUc207TZnzc+mVsIaA
+gQGU2Nq3ddQwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYB
+BQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnLzAgBgNVHREEGTAXghVzdXBwb3J0Lm1pbmRzcGFyay5jb20wTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHy
+APAAdwBep3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW6TrvnyAAAE
+AwBIMEYCIQDvioyWXVf9GhZN96/OuRtiD4+DCI3Hr6N1XbBgRiUi5AIhAPmOLc06
+vHxPhHkoXzxXx2UMijhmlHGAK9CL3uR5spI1AHUAsh4FzIuizYogTodm+Su5iiUg
+Z2va+nDnsklTLe+LkF4AAAFuk6754AAABAMARjBEAiAXr4ErmYobpMN210y3f/Uj
+c1WbybxstXdt/kpEidqiOAIgP3T0x7XR/qazfr3bGc924pc/4KV15giC7ZNujFFo
+uWEwDQYJKoZIhvcNAQELBQADggEBAE/66W2wCe8MXnwmCG2qeGdjy/98mdcAtYyv
+W2xOlC3XvIbDKIlKAtVLiuLkTm9zeY4vVLwD6nycSTK7dWj6Lxm/XLnssz36YlAo
+uWb3xXoIE4VQ5Aq7CvB+95RVMOcrxaT/cFl+Fp1byJ4ZruzZpZV94HqIYVdlgU8t
+buU/QoQOB1jhM5G181V5h8FnwZSD8R5LSWExOoTdO5KRLuoZyudYAxVVhFYc1N24
+w+CZeZidBsUOwEGVkFfjFLjYUfBhwK4ErNqonyqQB4ezxF6hzfot1mPW02pxKsm3
+t6oAqV+1YM4aJB1XbPlkFcf17KRewyGsKWqt85LQA9qS7D5n3Wk=
+-----END CERTIFICATE-----
+subject=/CN=support.mindspark.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 3223 bytes and written 281 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 076E6D633C93E8C7DBB78F4605DC907EE7A25004425D2DA3BAEBC6BF3B07F4DA
+    Session-ID-ctx: 
+    Master-Key: 5791A98B7F0DEE8A757F1C7364FC5F3B8027E8BD0499E3764D3BB37C9230614AD1B322B05C3932FEADD048874A2E2B7B
+    TLS session ticket lifetime hint: 100800 (seconds)
+    TLS session ticket:
+    0000 - 00 6c 3f f8 bb 37 03 74-3a 29 71 d1 47 4e 7b b9   .l?..7.t:)q.GN{.
+    0010 - 03 70 e2 17 73 e0 e6 7d-6c 87 75 c9 53 73 99 8c   .p..s..}l.u.Ss..
+    0020 - 34 d5 c3 fe 18 fc 53 c4-5a 0b 04 c2 0d b2 ee 7c   4.....S.Z......|
+    0030 - aa 25 80 5a 4b 38 a0 21-d3 9a 49 6a b8 e1 fc 01   .%.ZK8.!..Ij....
+    0040 - 6f 26 f6 48 50 33 f5 fb-40 2b 23 90 fe 79 bd 35   o&.HP3..@+#..y.5
+    0050 - 04 4c d3 22 7a 5e 34 b1-89 6b 07 5f 73 c5 91 9c   .L."z^4..k._s...
+    0060 - b9 f6 80 27 f7 d7 58 25-e5 96 bb 20 d0 c2 90 e0   ...'..X%... ....
+    0070 - 5b bd f2 fa 65 fe 7a 61-26 e7 0a 3f 6c 13 88 02   [...e.za&..?l...
+    0080 - c2 a4 cd 0b d6 ba d2 ce-75 db 5d f3 d9 0c 1b 80   ........u.].....
+    0090 - e9 70 c4 05 fe f6 10 99-4c 6c ba 4f 38 86 36 bd   .p......Ll.O8.6.
+    00a0 - c2 de 4b bf 94 a7 a0 68-da 7d 71 5b b2 0f 0c 6b   ..K....h.}q[...k
+    00b0 - 8a b2 20 32 34 2b 34 91-4f 0a 47 07 61 cb 76 20   .. 24+4.O.G.a.v 
+    00c0 - 9b 95 ec 16 94 2f fc c9-3d b6 1c 61 28 46 80 ea   ...../..=..a(F..
+    00d0 - eb 61 80 b5 e1                                    .a...
+
+    Start Time: 1577475200
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

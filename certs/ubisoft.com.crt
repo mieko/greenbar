@@ -1,0 +1,83 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=*.ubisoft.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcTCCBFmgAwIBAgIQCM22WMOw52ypfxs683lUZTANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTExMDkwMDAwMDBaFw0yMDEyMDkx
+MjAwMDBaMBgxFjAUBgNVBAMMDSoudWJpc29mdC5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCOIKr0+iRz0ovaQDvd+Q7EbOW08M6NReOSzsGTEFyP
+x5+wOchMRn5ASPut6h5Lhgm1u25zQ9iv7TXXBoKez0qlUvGtjiSI+57L2nUt5QGg
+Jz/9+Wf6sfvNxSSRL1ryPCpriEFV9ueqtvHOFdJksOd5zf79Y6o0vK3f/fTITp/0
+w22wHL4Z4JaEw7rusOzeuhHKgEW9QKirgyoyO2b1dljwqi631kBzqvR39+DQ1rJv
+QzNtyYkPJeywS/tzZ29DfHPssf+DlleG9StmfSho+v1nOGGfp4U5QFMpXGwbqPYT
+AKK+jJTu7zhN9yEBm/eBhdrzRJywRZclKBFs5G4+MkiRAgMBAAGjggKHMIICgzAf
+BgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQU8B6glUGo
+pq9gGP6sgb6xOkp6N6cwJQYDVR0RBB4wHIINKi51Ymlzb2Z0LmNvbYILdWJpc29m
+dC5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnNjYTFiLmFtYXpvbnRy
+dXN0LmNvbS9zY2ExYi5jcmwwIAYDVR0gBBkwFzALBglghkgBhv1sAQIwCAYGZ4EM
+AQIBMHUGCCsGAQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3Auc2Nh
+MWIuYW1hem9udHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnNjYTFi
+LmFtYXpvbnRydXN0LmNvbS9zY2ExYi5jcnQwDAYDVR0TAQH/BAIwADCCAQUGCisG
+AQQB1nkCBAIEgfYEgfMA8QB2AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7I
+DdwQAAABbk21ODQAAAQDAEcwRQIhAPwSNretYU4jx03awoG0TOnaUZAjU1PmEhV+
+qFC4nzTLAiASALsx3zFOL34PYknOJf9DYAowOVNGjv92qG0G8sOgyAB3AId1v+dZ
+fPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABbk21OJcAAAQDAEgwRgIhAIvr
+mmTYxT2p0jCpkWA5DJw5pBArrvFmdGNuBUHXZmgpAiEAw8AiyBGaQuYgMsnr62VA
+7gysrypI7Jg1PWy4qSwzpOUwDQYJKoZIhvcNAQELBQADggEBAMIML4GXRhKsG825
+ZkSfXw8bc6a944eRabs3N2Bu3kGtBiIQAOtvTxA5866a7WwovY0Auf93Dh9jhWfv
+qyp96NPWwQ0k3FpHHEfU9c5b+PY8aRm6Htb/MBMmCjJEDCCgR9TSXlsfsl8tdmqe
+Y9moPd0DczcEd9IDnT6JhfDMjSM5ufXfOxMkAiJw2nzDN6IeHgXbqkIL3B/essQw
+l4gpVVDl/rq0vQ0uG1J8kgefTlrjeSh9QuvxJ47LwzpcshHvcQUkzukT3HwCDHGx
+LTJmI27yJQEwQ2axBQ0xBGl2bftKk0nDQMAcFnPjYH3NtsRq1eAb3HAwfuCL/mMh
+Dghq/nA=
+-----END CERTIFICATE-----
+subject=/CN=*.ubisoft.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5496 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 493FF8F61321DDAF5D3B32A12A77B8903BB305C695E06B0D21B235B86D26EABC
+    Session-ID-ctx: 
+    Master-Key: 36DACA304B2D4F5C25A8E2A375D87F6B8E01075B78C7A48A3B90464AF8F6B85B15ED40A77D93E7D87771BC3F47C426F6
+    TLS session ticket lifetime hint: 43200 (seconds)
+    TLS session ticket:
+    0000 - 8f 7a d5 a3 dc 9c 7f e3-fe 22 7d c7 64 66 c7 b5   .z......."}.df..
+    0010 - 4d ab 12 2c 79 9e a7 60-db 7d cc 88 8d 34 a3 33   M..,y..`.}...4.3
+    0020 - 27 6a e7 fb fe ff 63 c4-87 00 11 78 d5 43 08 36   'j....c....x.C.6
+    0030 - 27 f6 99 36 80 e1 f4 de-17 b0 9c 31 f4 4b 92 1c   '..6.......1.K..
+    0040 - 83 dd 6c 58 d9 df b7 98-9e a8 e9 79 f1 da 7f cb   ..lX.......y....
+    0050 - 7f f3 4b 4a 8e 2d d6 fd-83 37 77 6f 54 c3 02 36   ..KJ.-...7woT..6
+    0060 - 86 3c 9f 6f ee 5d 50 04-58 d0 c3 05 47 cc 0a e7   .<.o.]P.X...G...
+    0070 - e5 28 7a 7d 84 63 d3 77-08 97 5c 05 42 eb f3 c6   .(z}.c.w..\.B...
+    0080 - 5f 6d bd c6 ce f2 f6 24-dd a7 fa 0e c7 79 8a 77   _m.....$.....y.w
+    0090 - d8 91 97 25 22 d5 9e 5c-7d 29 5d d1 41 d7 53 d0   ...%"..\})].A.S.
+    00a0 - 49 c2 a1 60 da 8c ae 8b-86 45 c3 5b 57 9a d4 b4   I..`.....E.[W...
+
+    Start Time: 1577475765
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

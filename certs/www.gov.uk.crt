@@ -1,55 +1,64 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=GB/ST=England/L=London/O=Government Digital Service/OU=Government Digital Service/CN=www.gov.uk
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
- 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 0 s:/C=GB/ST=Greater London/L=London/OU=Government Digital Service/O=Government Digital Service/CN=www.gov.uk
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGHDCCBQSgAwIBAgIQDoYShIxRfg7k0ws6wZCJtTANBgkqhkiG9w0BAQsFADBw
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
-d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
-dXJhbmNlIFNlcnZlciBDQTAeFw0xNTEwMDQwMDAwMDBaFw0xNjEyMDcxMjAwMDBa
-MIGPMQswCQYDVQQGEwJHQjEQMA4GA1UECBMHRW5nbGFuZDEPMA0GA1UEBxMGTG9u
-ZG9uMSMwIQYDVQQKExpHb3Zlcm5tZW50IERpZ2l0YWwgU2VydmljZTEjMCEGA1UE
-CxMaR292ZXJubWVudCBEaWdpdGFsIFNlcnZpY2UxEzARBgNVBAMTCnd3dy5nb3Yu
-dWswggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC0D0nXXozJsIPFPlIw
-92dbc6V/AtFiSG9HeL04gEs5bTaU9nM5Ga7eX3NmRPkV3SgzCxn13M4Cw8RvRpbp
-R7sxUjLJu++tvxkfnpWTBLLtJm1iboQRRKTGp+QJLX/+0OeoW2Ui7LATaHDWBmrE
-9APeh1k2CrS01MZiAHJWKdQw72szlbedlAPLn9LuM00/VEOaQjGy9TbiElzMuIQ2
-BucW+aVSzaEKj97Y4vLpGfx54/tLtdMMttRqkyVmHmjkXxdhldVjuBoH+FFxG5hz
-Kv3MsVwDRJc/Wo/4/X00pezMYSuQDrhdxn6HdJUsV+5+0ZwK25O6j8vpekaT1ncm
-5NujAgMBAAGjggKQMIICjDAfBgNVHSMEGDAWgBRRaP+QrwIHdTzM2WVkYqISuFly
-OzAdBgNVHQ4EFgQUIElouWFa15OiLxYyRGMhKzbSlR4wgcEGA1UdEQSBuTCBtoIK
-d3d3Lmdvdi51a4IkYXNzZXRzLmRpZ2l0YWwuY2FiaW5ldC1vZmZpY2UuZ292LnVr
-ghUqLmJ1c2luZXNzbGluay5nb3YudWuCDyouZGlyZWN0Lmdvdi51a4IbKi5wcm9k
-dWN0aW9uLmFscGhhZ292LmNvLnVrghgqLnByZXZpZXcuYWxwaGFnb3YuY28udWuC
-GyoucHVibGlzaGluZy5zZXJ2aWNlLmdvdi51a4IGZ292LnVrMA4GA1UdDwEB/wQE
-AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwdQYDVR0fBG4wbDA0
-oDKgMIYuaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NoYTItaGEtc2VydmVyLWc1
-LmNybDA0oDKgMIYuaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NoYTItaGEtc2Vy
-dmVyLWc1LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIB
-FhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjCBgwYIKwYB
-BQUHAQEEdzB1MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20w
-TQYIKwYBBQUHMAKGQWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2Vy
-dFNIQTJIaWdoQXNzdXJhbmNlU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwDQYJ
-KoZIhvcNAQELBQADggEBAHR9oUQ8iaS0I8f4Y556Hm+9J9sxVLEk6DI8kBCrTNSw
-K7DLbIpi+/nmb7Mkiutug8hIqmUb1Zp21ZTC6BAShQySZNsWCY3wKtZnMSegTBT9
-Cjds/By0dWGEdnBQgPN9Nfz7onMIU7A+j8+9hgynar+9wluJk9ro+IsTIol2hyJb
-oFKyLACUbEfyxfVIAVAlRYWBIO8IiAvhnz1ZNthB1LAbO8x99qivIr0ZHG2Evu0Q
-UiZZJViHIoXhVnIDYbzmiw/yU7WS6NY9zJr8UN0QIlrL3FhlqfpDD2fmkKwMw++6
-9sy3h18InIbu+wp9O6ygFTtLzCoYtQNAc44LObF1roo=
+MIIH/jCCBuagAwIBAgIMTi1ACpowp+BSl+sRMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
+bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTkwNDExMTkyMDA3WhcNMjAxMTE0MTkwMTA0WjCBljELMAkGA1UEBhMC
+R0IxFzAVBgNVBAgTDkdyZWF0ZXIgTG9uZG9uMQ8wDQYDVQQHEwZMb25kb24xIzAh
+BgNVBAsTGkdvdmVybm1lbnQgRGlnaXRhbCBTZXJ2aWNlMSMwIQYDVQQKExpHb3Zl
+cm5tZW50IERpZ2l0YWwgU2VydmljZTETMBEGA1UEAxMKd3d3Lmdvdi51azCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKii2iR6rMRSVERB2gsUwU2DlZuJ
+vtPwOmfFewPJQk/+KmTYaQBVdbX02HEZ1yfTirY0W47JvF4nxOdVnNB0/uJwJpEm
+2uqAliiVhqqC35UCDfEp4yLCSa9Od+TqYS1txdXnoe+TKHQI/aHy2/Bf+BMPMUSq
+7QI88WlC4MGFO68xNufoBZ8fNyVSjYTQ0BArcaoAFfYnTuddyDEHirGJYhx0oHjb
+Mz7RJUKKtXU0Yjhnfnk16Mvf3Ksl5vYbbx0T4RLyTS9QFBL+nJgUEcTfN1iCgnFV
+uG2uoFzBAi6rOlR/vv8G2ymvL+h/FutZlO3LA29QmwzwHL2zLsyfOlk7cbECAwEA
+AaOCBHkwggR1MA4GA1UdDwEB/wQEAwIFoDCBoAYIKwYBBQUHAQEEgZMwgZAwTQYI
+KwYBBQUHMAKGQWh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dz
+b3JnYW5pemF0aW9udmFsc2hhMmcycjEuY3J0MD8GCCsGAQUFBzABhjNodHRwOi8v
+b2NzcDIuZ2xvYmFsc2lnbi5jb20vZ3Nvcmdhbml6YXRpb252YWxzaGEyZzIwVgYD
+VR0gBE8wTTBBBgkrBgEEAaAyARQwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cu
+Z2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQICMAkGA1UdEwQCMAAw
+SQYDVR0fBEIwQDA+oDygOoY4aHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9ncy9n
+c29yZ2FuaXphdGlvbnZhbHNoYTJnMi5jcmwwggEuBgNVHREEggElMIIBIYIKd3d3
+Lmdvdi51a4IVKi5idXNpbmVzc2xpbmsuZ292LnVrgg8qLmRpcmVjdC5nb3YudWuC
+GCoucHJldmlldy5hbHBoYWdvdi5jby51a4IbKi5wcm9kdWN0aW9uLmFscGhhZ292
+LmNvLnVrghsqLnB1Ymxpc2hpbmcuc2VydmljZS5nb3YudWuCFyouY2FiaW5ldC1v
+ZmZpY2UuZ292LnVrgiRhc3NldHMuZGlnaXRhbC5jYWJpbmV0LW9mZmljZS5nb3Yu
+dWuCDnNlcnZpY2UuZ292LnVrggtkYXRhLmdvdi51a4ILZGZpZC5nb3YudWuCFWNh
+YmluZXQtb2ZmaWNlLmdvdi51a4IPd3d3LmRhdGEuZ292LnVrggZnb3YudWswHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB0GA1UdDgQWBBSuEEpRyK36qI3w
+KM4f/awgL7J1ZDAfBgNVHSMEGDAWgBSW3mHxvRwWKVMcwMx9O4MAQOYafDCCAX8G
+CisGAQQB1nkCBAIEggFvBIIBawFpAHcAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVg
+wbTq/16ggw8AAAFqDdfWEwAABAMASDBGAiEArFptNcEiMmUxQDDWJLVJFpufLBYv
+jWVzqoSRrMw/RCYCIQCse9VrLnKlKiOv6Xqlh4CN1GNc6CbOyA6emJOEIz62VAB1
+AO5Lvbd1zmC64UJpH6vhnmajD35fsHLYgwDEe4l6qP3LAAABag3X0v4AAAQDAEYw
+RAIgMyFimhqJ+URA5kp9kEVAckQZeintDPqa3yNXBzk5/UICIFQVDpKndjtC/q6i
+/fJiK8xI8Z2/DX2rVkTy1mdsqzEmAHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQAp
+Bo2yCJo32RMAAAFqDdfXEQAABAMASDBGAiEA0Hgr9iBiXPEYHZXD/d+lYAthopRA
+e2AICL/NuaXAoKwCIQDqgKBrlN8+EH1PGvZa5LfBrZcTeu1TjmCNJ8kNG66IQDAN
+BgkqhkiG9w0BAQsFAAOCAQEAINJ0N8SgK6u/hBMnesOWxMk1TtrBDTYIGBQkUrBr
+8Eq1tGzoQ3IF2dnNIU/9RA8sFVdk87E4Ig044PrGwcNWsgiILu6kNUaJWy1Ou+l+
+lc0D9b+a3qFKKM6/a8CcM+niS3K9YzoSpgOlDfWr+gmnAueQMqVKHuepWIelswim
+oxBMfd5qgK8PUJ9J4e5Xsyg9D9G6VomDJhglmaZZqWb+03c5mNAVlfMhHjMRqTBb
+oEIc34NRc4J+UMN4ZTgTr9nmR6WnEgDw5zEgI9iQbPntHRUDP0Cc2oecwLuLzRpp
+/7EgzC0Gzi7vZ+ADD0Yu0jucGKEXRZW4YongIe4XRzacaw==
 -----END CERTIFICATE-----
-subject=/C=GB/ST=England/L=London/O=Government Digital Service/OU=Government Digital Service/CN=www.gov.uk
-issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+subject=/C=GB/ST=Greater London/L=London/OU=Government Digital Service/O=Government Digital Service/CN=www.gov.uk
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3435 bytes and written 434 bytes
+SSL handshake has read 3807 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -60,27 +69,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 6E4C5A616C336E3C0B7937D51895778988462EABB51EEB0801C9C649CF4BBE84
+    Session-ID: 5A1CB4AF48C8C41E97B16B3FEE433A1E56E285BE3D72CD47695863E9916D8DD2
     Session-ID-ctx: 
-    Master-Key: 3A85F93A6AC84BE68C524C9C77C2B34CBDF7715F229711EB012CDB219D94B6C6E3C0F16B1338FCFBF1D46E435254FD42
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 1200 (seconds)
+    Master-Key: 30FCF757F54307E7F486774705DDB1D1CBAB752EB41DE936D5D93A2CCCF5D36FFB5DF8889D9CAD714CAC2A5728940C0C
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 63 cc 77 4a 00 db 2c 42-2e 8f 76 23 dd a9 ae 53   c.wJ..,B..v#...S
-    0010 - 64 45 1a cb 8c 74 1e cf-ed 56 28 26 bb 61 66 2e   dE...t...V(&.af.
-    0020 - f3 16 91 56 80 42 ed 50-46 4f 80 67 00 70 25 a2   ...V.B.PFO.g.p%.
-    0030 - 2a 10 a9 c4 6b df 9a 6e-16 88 56 9e ce 5d 28 54   *...k..n..V..](T
-    0040 - 56 f1 ba 58 74 2f 39 88-a9 bb 86 d0 6a 8c 4b c0   V..Xt/9.....j.K.
-    0050 - 9f 1f b8 c4 d7 88 e8 6a-92 88 66 bb a9 b1 e5 ed   .......j..f.....
-    0060 - df c1 8b fa f2 c1 23 18-fe ae f0 5b 8f 66 4d 40   ......#....[.fM@
-    0070 - 7c f0 a0 5a 50 3e 78 f3-f0 30 de bb c9 bb 74 02   |..ZP>x..0....t.
-    0080 - 3d 53 b6 9a 5e 86 82 31-01 26 2e b9 a6 d3 96 c7   =S..^..1.&......
-    0090 - a0 2a 2c e0 7e 52 95 b6-05 c0 c4 9b 3c f5 51 bf   .*,.~R......<.Q.
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - 34 77 a2 97 5e 97 9a 4c-f6 c7 51 e7 7e 15 32 6f   4w..^..L..Q.~.2o
+    0020 - 34 33 14 dd 6f 0b b0 2d-d8 e0 c2 8c b5 07 a3 b2   43..o..-........
+    0030 - ad 46 84 c6 c1 5e 40 1e-3f bb 49 1e 9a 43 be 1e   .F...^@.?.I..C..
+    0040 - 56 51 4c e0 94 f1 a5 8e-2b 2f 4a 35 4c c6 1e a5   VQL.....+/J5L...
+    0050 - 32 17 c2 a0 2e 24 34 40-e2 12 7a f8 23 a4 37 74   2....$4@..z.#.7t
+    0060 - ec 1b 1d b2 b1 40 fc 19-17 c5 35 10 b0 fb c6 17   .....@....5.....
+    0070 - 9b 7e 03 ef 11 62 b4 7d-49 f2 40 da e7 68 f7 6e   .~...b.}I.@..h.n
+    0080 - ce d8 78 8f 6c 01 60 52-3c 84 72 43 df e5 8c 5d   ..x.l.`R<.rC...]
+    0090 - 17 3c 4d 74 16 d7 6a 89-eb ba f1 b1 db 0a 51 37   .<Mt..j.......Q7
 
-    Start Time: 1472788576
-    Timeout   : 300 (sec)
+    Start Time: 1577475806
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

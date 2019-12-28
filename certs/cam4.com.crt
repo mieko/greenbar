@@ -1,50 +1,59 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=CW/ST=Williamsted/L=Willemstad/O=Surecom Corporation N.V./CN=secure.cam4.com
+ 0 s:/C=CW/L=Willemstad/O=Surecom Corporation N.V./OU=IT/CN=*.cam4.com
    i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
  1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFJDCCBAygAwIBAgIQCNhjy3H5WyrBmbF88nO1kjANBgkqhkiG9w0BAQsFADBN
+MIIHFTCCBf2gAwIBAgIQCACDDZzIBAnkqKUz7JcOAjANBgkqhkiG9w0BAQsFADBN
 MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTYwNTI3MDAwMDAwWhcN
-MTkwODI1MTIwMDAwWjB1MQswCQYDVQQGEwJDVzEUMBIGA1UECBMLV2lsbGlhbXN0
-ZWQxEzARBgNVBAcTCldpbGxlbXN0YWQxITAfBgNVBAoTGFN1cmVjb20gQ29ycG9y
-YXRpb24gTi5WLjEYMBYGA1UEAxMPc2VjdXJlLmNhbTQuY29tMIIBIjANBgkqhkiG
-9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwUk/zCbHuWAj4otR/OMPvldwQdYrPN4DULND
-13L8+YxBOyQsbrH1qswDcMpev3uB4O7je9rfElfg9xE6nTGsdEtYM1m3IRr7d6dg
-LKxDlPuJjPk8OzA+z3kGd6KyIznD+N3tOwGE/rovDGzhEzAJc9673RHeIkySg03S
-W6pu0lVsAhfaxtCDhGNpvtTDtE7Ym46tHv4yWKmd2IyWKmRZo4W2ZOTC70EJ7UUQ
-fSHMS+p5mk0d434ErzlDwEwTe68+h1AdBYV2In6/VHbz8lPLZujzgnFGnzPhrmj4
-+fRYQzBBHB6VQAG63FvAikhQa6CvHqM2dIXuh9imvOk1zkl0/QIDAQABo4IB1jCC
-AdIwHwYDVR0jBBgwFoAUD4BhHIIxYdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFLQn
-clhe7n/9zcG8j+4feG9Pg0YeMBoGA1UdEQQTMBGCD3NlY3VyZS5jYW00LmNvbTAO
-BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsG
-A1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNo
-YTItZzUuY3JsMC+gLaArhilodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc3NjYS1z
-aGEyLWc1LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIB
-FhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB8BggrBgEF
-BQcBAQRwMG4wJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBG
-BggrBgEFBQcwAoY6aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0
-U0hBMlNlY3VyZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEB
-CwUAA4IBAQA3P0S0TL3RtMiP4c02KvoOg/4lAC6m0kFF4i6FziaR4u7Q5B3U/LZk
-j0JZreyC0YIQi2O+pRZGD4mRrpeOzYGqd96rMpcqs+1XuSvgHSCnk2nfVv+Vi3Cg
-eX+3oWLx7lknNZ2p9mpxxQ8THaQ8D9MIL5FYkWRw5bMJtq3cXlmkuN5dVixwpsAf
-g7+6OYxY6Osd9/TTEHLU488BIzeGyGTWu8qZDyxfogWC9gBdbjiWF0InIqdNbxtK
-V7TZHk2r/c57j76dyfqHew+H11OOQnGVMFF3IiCod0r7YX/3HybtyKAiPVWsJ3PT
-eSiip1/M7+uJ6U5kcKTyroHOn5/sDlrO
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkwNzA4MDAwMDAwWhcN
+MjExMDEwMDAwMDAwWjBnMQswCQYDVQQGEwJDVzETMBEGA1UEBxMKV2lsbGVtc3Rh
+ZDEhMB8GA1UEChMYU3VyZWNvbSBDb3Jwb3JhdGlvbiBOLlYuMQswCQYDVQQLEwJJ
+VDETMBEGA1UEAwwKKi5jYW00LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAOQ8qy1KEvlgGWq71+WAvGmQdrMClh2BVCpuOk1KKrCkKmfKrvhKDCQO
+eT08PSgCVNwWx5pVnKimkqvZqzorRtgDDpQdNX2JWbPLWY19ByOyKpftGbqoZOd5
+mGFotZ7qMndMYNG9IWIVaArQ1YjlTA22O/i/K1oYPVQzRqazynY/s/KJvwO76ac4
+qjoC4JN1oM9mPPCMeeQO2rNCv6xGeR7YEcbIsPPyoitb0ChVB7rERBK0BmSNy9DZ
+wC3LlT0l4Wb7++qpA+j4bY8u9g9bhol3DNk+PH2wsYylr4EyehDFggfKzgxkshGC
+g2QmBTcJ5cNI3heSmKcogK+7avJTgQcCAwEAAaOCA9UwggPRMB8GA1UdIwQYMBaA
+FA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBQsvfJl9rTTrigdaQLGs4b0
+m1y48jAfBgNVHREEGDAWggoqLmNhbTQuY29tgghjYW00LmNvbTAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRkMGIw
+L6AtoCuGKWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3Js
+MC+gLaArhilodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc2LmNy
+bDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB8BggrBgEFBQcBAQRwMG4w
+JAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEFBQcw
+AoY6aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNlY3Vy
+ZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMIIB9gYKKwYBBAHWeQIEAgSCAeYE
+ggHiAeAAdwC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAWvR23MO
+AAAEAwBIMEYCIQDeKbWQt/Qs8Xo6c3Zs64b9r77ZvQBMjBY1UxfwMLtDEwIhAIi7
+3pzrI3qexE1oLdLS2LVva6J8v0LpsnIVKr8UONjOAHUAh3W/51l8+IxDmV+9827/
+Vo1HVjb/SrVgwbTq/16ggw8AAAFr0dtzYAAABAMARjBEAiBk31w3aBMD2w723HkW
+p0HP/xPAzi68qgNKeaeOmMcU/QIgI/fnnA+Wr9ZTsHKryEAfYGoH2ISK47BYEv/Q
+Ie+alSIAdgBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAWvR23Jj
+AAAEAwBHMEUCIQCC4BvUToSSvPyISbBkPHZE2QwjNg2jFzgXlv4b8uXZnwIgGs+t
+qheZydhT2/o0v9d6cZ02wl9ZbES58vszUeuusPwAdgBWFAaaL9fC7NP14b1Esj7H
+Rna5vJkRXMDvlJhV1onQ3QAAAWvR23OXAAAEAwBHMEUCIGXf4qPM3smM34mcfuLF
+dxjq/auRL6G0mLz/ktJJpWz7AiEAsOyfq0KnMLOZWHoP05O9NbKKz7eJHfrrvXJg
+SyObCVYwDQYJKoZIhvcNAQELBQADggEBACf/I+AoyVIHEAdN3QWkEzfz6LmpQSOd
+gmkNrXVgL5HB1LVNNEvi55OzFgTNeXE9emT7YUajwEBdJqNt7/SAIazK2cgS0P9u
+i55M6jvfTA7k2ieQkdIKd+oVXhv867tKXCYFctn1TEjFI/szKvpYQ9npT4eBKkrS
+piatWUjhRTpJpDUWiWiuOt03r4Emye0jVsYy3vjsgysHarQLC58UjhEaXh++MVO0
+KzTz09IbDkthrcSDp6v9KMgmHh+yXOEd99oGUCPSw07sucmtgT4eT7IzSQ/tT6xL
+zOcWh5uFiXwlIOnDHeRK2+TE/avAfvQRZy80Dom2ertP/6yfZRZmI8U=
 -----END CERTIFICATE-----
-subject=/C=CW/ST=Williamsted/L=Willemstad/O=Surecom Corporation N.V./CN=secure.cam4.com
+subject=/C=CW/L=Willemstad/O=Surecom Corporation N.V./OU=IT/CN=*.cam4.com
 issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3174 bytes and written 434 bytes
+SSL handshake has read 3666 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -55,28 +64,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 3D88E09758443673BBA8D4ECA770ADE369E1B0B0CB128780E5516815F32D4BD1
+    Session-ID: F1E45EEBF58A2B6E5AE98FCA3C58F1CE89008CB229335CD5D5DC43409D1EDB8D
     Session-ID-ctx: 
-    Master-Key: 26FFC24979BD12D1DBC54BD9C745B689A297C6A5CD7250CC42EE9F2A56A7D110BADCDE6590C85F5B0FFC5D89F5724C40
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 0994B841DE38E817F622604BF3F4DFDCE94004029EE59DCE33A409F121EE8620EC99F875E9B100DB915473AD6DFF710D
+    TLS session ticket lifetime hint: 10800 (seconds)
     TLS session ticket:
-    0000 - 9b b9 8c 86 25 bb 78 61-2f 5e 21 2d 2d 3e c7 71   ....%.xa/^!-->.q
-    0010 - d8 58 32 f3 71 27 6e e6-dc 21 42 2c 32 c0 f8 df   .X2.q'n..!B,2...
-    0020 - 4e ae 59 d7 89 78 4b 27-06 5e 0d 42 f7 a9 ad 63   N.Y..xK'.^.B...c
-    0030 - ef bb 9b 20 a9 46 dd a1-2f 43 da d7 9f 05 95 a2   ... .F../C......
-    0040 - ab 07 b8 7c 59 b7 bf 8b-ac a6 0e f9 a5 e4 61 ec   ...|Y.........a.
-    0050 - cc 8a e8 e0 92 c7 e7 fa-df dd 0d 3b 39 fb f8 72   ...........;9..r
-    0060 - 26 d4 94 a2 5b 01 c3 a9-af 55 a7 7f ef 4a ae 42   &...[....U...J.B
-    0070 - 0a 94 09 f3 41 6a f0 c4-f6 4e 05 2a c2 35 43 00   ....Aj...N.*.5C.
-    0080 - ca 21 fb b2 e0 f8 90 ad-fb 85 4e 15 8a f2 ef bf   .!........N.....
-    0090 - 13 1c 53 0b 12 03 77 bb-83 e9 84 ff f7 b7 74 83   ..S...w.......t.
-    00a0 - a8 91 2a 42 eb d7 fc fc-0b 72 bd e4 95 e1 ee 9b   ..*B.....r......
+    0000 - 96 3a ae 22 c0 1a 8c 77-a9 12 fc 3b f5 76 d8 f0   .:."...w...;.v..
+    0010 - 15 30 db 8f bc 6c 97 cd-1a 36 eb a7 df df 2b 34   .0...l...6....+4
+    0020 - 10 f6 1c fd 84 67 d5 92-65 1b e7 79 38 ee c8 47   .....g..e..y8..G
+    0030 - 6d 69 e7 75 84 23 ee 17-1d 63 c8 ff 61 4c 04 98   mi.u.#...c..aL..
+    0040 - 21 b1 3a 63 df 70 4c 86-bf 09 39 79 65 4b 96 c3   !.:c.pL...9yeK..
+    0050 - a7 1c 70 a6 86 3d 5b 9b-41 e4 74 89 94 f1 a4 9d   ..p..=[.A.t.....
+    0060 - 9d 40 b7 95 da 29 63 01-63 f6 99 63 b0 8f eb bf   .@...)c.c..c....
+    0070 - ba c7 a4 4b 78 42 b0 98-c2 2c ff b1 6a 5d e9 3d   ...KxB...,..j].=
+    0080 - 0e 73 0b ab 62 ec 26 7c-af 64 36 5f 3e 30 29 c7   .s..b.&|.d6_>0).
+    0090 - 42 43 d3 88 c2 6a d7 16-a0 78 14 db 21 ca dd 69   BC...j...x..!..i
+    00a0 - 70 61 af 5e 2b d7 f9 ab-69 95 00 76 b1 0e f8 5a   pa.^+...i..v...Z
 
-    Start Time: 1472789385
-    Timeout   : 300 (sec)
+    Start Time: 1577475603
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

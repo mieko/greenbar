@@ -1,4 +1,4 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:/C=US/ST=Arizona/L=Newbury/O=FreeJobAlert.com/CN=freejobalert.com
@@ -26,26 +26,21 @@ issuer=/C=US/ST=Arizona/L=Newbury/O=FreeJobAlert.com/CN=freejobalert.com
 No client certificate CA names sent
 Server Temp Key: DH, 1024 bits
 ---
-SSL handshake has read 1156 bytes and written 506 bytes
+SSL handshake has read 1156 bytes and written 394 bytes
 ---
 New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
 Server public key is 1024 bit
 Secure Renegotiation IS supported
-Compression: zlib compression
-Expansion: zlib compression
+Compression: NONE
+Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1
     Cipher    : DHE-RSA-AES256-SHA
-    Session-ID: 06577003EFE0783CA50265D34F29FCCDD4642EFF9D1F4CE2526FB378C3B433E6
+    Session-ID: 4C151C4F07558090CEBE28ACDA0509BBDBFF37EA23520908DFD8E7B2C1D1A0CD
     Session-ID-ctx: 
-    Master-Key: 4BD76253AE654BBE578F57F1F9CA91BE21F0BFBD54D3FBD0E56549BE914AD390F79F9EF43739D6194345745E0D57C30C
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Compression: 1 (zlib compression)
-    Start Time: 1472790348
-    Timeout   : 300 (sec)
+    Master-Key: BFB735E67CA249E91A5AC5D33BEBB548DF719FFA9BF49EFDAFD8A3BFE422A4971C2084173C02E60B10F26021A1792670
+    Start Time: 1577475331
+    Timeout   : 7200 (sec)
     Verify return code: 10 (certificate has expired)
 ---

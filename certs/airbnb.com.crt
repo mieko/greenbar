@@ -1,51 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
  0 s:/C=US/ST=California/L=San Francisco/O=Airbnb, Inc./CN=*.airbnb.com
-   i:/C=US/O=DigiCert Inc/CN=DigiCert Secure Server CA
- 1 s:/C=US/O=DigiCert Inc/CN=DigiCert Secure Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
- 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+ 2 s:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFAzCCA+ugAwIBAgIQCoYiD5hG/83U8qXBjESKOjANBgkqhkiG9w0BAQUFADBI
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMSIwIAYDVQQDExlE
-aWdpQ2VydCBTZWN1cmUgU2VydmVyIENBMB4XDTEzMTAyNDAwMDAwMFoXDTE2MTAy
-ODEyMDAwMFowaDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAU
-BgNVBAcTDVNhbiBGcmFuY2lzY28xFTATBgNVBAoTDEFpcmJuYiwgSW5jLjEVMBMG
-A1UEAwwMKi5haXJibmIuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
-AQEAyyPy+BIwn/8Nr2AHFQJMdAt7MkE9fRKUxK/sRz7cW1m+EJ1YxO8QaMODDZFg
-FgS/29hm6PME7SYzWGuarrSfRhfW0VW2LISKFl0VgnqSJ5VVUYQZNjZHyeISrI/D
-qsLSopeeaWcSQUMyHWWbprHE8DPSw9I9bMuNWmWOScVTegSKaNO7wO23ORrCDlmE
-l3OlTYWqkp1c0b6+w33j53/epUSNERo03PRjk2d80aBZchmR6vYJz5qMNKf/Fg4m
-zw8vaUfYpbsu27fDL7OdHW8IP5B3++XK+SSoiIbZlmNo4gW1kt9Ite/urQmgBo0Z
-Zv579I9PxcnF70z9vcEU79tdAQIDAQABo4IBxzCCAcMwHwYDVR0jBBgwFoAUkHHb
-N+tzyO/c1R4StjS6K1qgppIwHQYDVR0OBBYEFDHZAG1DwJvjrqvGNpBLkToe7PRy
-MCMGA1UdEQQcMBqCDCouYWlyYm5iLmNvbYIKYWlyYm5iLmNvbTAOBgNVHQ8BAf8E
-BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGEGA1UdHwRaMFgw
-KqAooCaGJGh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLWc1LmNybDAqoCig
-JoYkaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2EtZzUuY3JsMEIGA1UdIAQ7
-MDkwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2lj
-ZXJ0LmNvbS9DUFMweAYIKwYBBQUHAQEEbDBqMCQGCCsGAQUFBzABhhhodHRwOi8v
-b2NzcC5kaWdpY2VydC5jb20wQgYIKwYBBQUHMAKGNmh0dHA6Ly9jYWNlcnRzLmRp
-Z2ljZXJ0LmNvbS9EaWdpQ2VydFNlY3VyZVNlcnZlckNBLmNydDAMBgNVHRMBAf8E
-AjAAMA0GCSqGSIb3DQEBBQUAA4IBAQBggFpzULNCUfjiAOIddhLScL1nzVUV4ncq
-OnLbPX4aCJ0vyqwANq3W9u5nkjFEcTPvWHuDDhcEksrPtvbSKKIcpk2a0spx0K+4
-FnzkN8e2HTOy+uyZd22Zr7yr+WF+iJK8FLkhIy7p1jSWUd/11E563Sp4BkfGgLtF
-EKkDqI7jqkZNf00gwY9b9afFy56Bm+XKH3izGWuH0GH6P2CR0x1uBVoDZFUfCHL6
-SfQE5EWa8KDmvxxb9zlGXgi4IMqc8u8C1igAVxrEZ7VBGQTMRZis7BZ/o+YUsjDd
-M3X3y4ETpnlhlXlcJLPGLtTT6sNG3LdYEnP1SmG250eOcnhI8JAZ
+MIIGwTCCBamgAwIBAgIMP1Ghxug1nNfsfxrzMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
+bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTgxMDE4MTg0NjAzWhcNMjAxMTI0MjIwMTAyWjBoMQswCQYDVQQGEwJV
+UzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEV
+MBMGA1UEChMMQWlyYm5iLCBJbmMuMRUwEwYDVQQDDAwqLmFpcmJuYi5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3wNJOmKR37VTCtMXQy3cZ5RJr
+ha3+fof0H4dqYqFeVRDugQ4E/8FypBPLb2y5FkkEOCvYLQPB4ZFbnVmyg6bbBWRw
+6BpCZ/oaC6LolD/sDFrdsraUlgWwtXLfZ81oI7NcxWoyZQNpoiC+TPbQcHHqoRWK
+20JOC2zMizuEq5VzzRlQxAENW+z3zJOYGDcC/BCTWSmC+jDWQJ0dfAgqudV1JIS3
+d+2jZaRJMyGRyqh6y+gyTxP+15/FFJwV2VfwJos83s/25jLBrs7dFvfvD7QmFTMq
+evMEEnbGbi4xL7wmerY3pKcqH6eGhdXT31coOl2HZZyQy5FKsLg4T9TdxPxXAgMB
+AAGjggNrMIIDZzAOBgNVHQ8BAf8EBAMCBaAwgaAGCCsGAQUFBwEBBIGTMIGQME0G
+CCsGAQUFBzAChkFodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9n
+c29yZ2FuaXphdGlvbnZhbHNoYTJnMnIxLmNydDA/BggrBgEFBQcwAYYzaHR0cDov
+L29jc3AyLmdsb2JhbHNpZ24uY29tL2dzb3JnYW5pemF0aW9udmFsc2hhMmcyMFYG
+A1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3
+Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECAjAJBgNVHRMEAjAA
+MEkGA1UdHwRCMEAwPqA8oDqGOGh0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5jb20vZ3Mv
+Z3Nvcmdhbml6YXRpb252YWxzaGEyZzIuY3JsMCMGA1UdEQQcMBqCDCouYWlyYm5i
+LmNvbYIKYWlyYm5iLmNvbTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+HQYDVR0OBBYEFFWLXkN1TCnCi7NWWxFVqwkKpjGQMB8GA1UdIwQYMBaAFJbeYfG9
+HBYpUxzAzH07gwBA5hp8MIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgCHdb/n
+WXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAWaIf7+xAAAEAwBHMEUCIQDN
+9jE1QrcVcJmdohMjLVI+BAquDD/Bovh0X6oyYZHk8AIgc081NFyRGID0aC1hgFO6
+lM9Y/oPwmWG1JE9d8w0v1YUAdgCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80O
+yA3cEAAAAWaIf8EoAAAEAwBHMEUCIQCL0XAtDWRsVkMAFpjSrJxSyXZMOOSGU1LK
+/9lfKNo2wQIgT5Rb3kBE0iaxmJ/2ecUS9eKCMqzmRNb2MhjiWVKyXo8AdgBvU3as
+MfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAWaIf8ARAAAEAwBHMEUCIQC/
+lxsb9YeVL9tZWFrMAmumghtn2phR9fdS7FHrAB8c6QIgMLqXxrB+CyCo2lMjx0of
+ygGUDWMT00ImJeBwrymZntAwDQYJKoZIhvcNAQELBQADggEBAKUUqs6W45DeOc9U
+tqcEu9tVCBxOZyGz68E9oAbXxSBYpxMCL0lnOx2JcDZhfMhrvXkGWu6qOWNFBFHP
+zbJBFn06pokCK/ydQsWasikUCnnFxA7NBwNzPz7/UTXNQ9BmbPneGlo+DYjdBqwh
+QHo6nRNHyN+PvQyTYCwl4AIWlYJKiecswO3WuFj5nvVKM6XwPPfQZvcNcdfoJUzx
+6BknqNW1DUGd9CC04I5zlZgVtpP/0iUu/xXBX5MeFIgH7io1UKs+ZSa/uv0+sk14
+AfEcVs35+++WNdSsOJBbBsFZDGiSvN88X3q3hsKOCqn6M+6g6QO7vE9YAXBbUpRR
+rKc3urw=
 -----END CERTIFICATE-----
 subject=/C=US/ST=California/L=San Francisco/O=Airbnb, Inc./CN=*.airbnb.com
-issuer=/C=US/O=DigiCert Inc/CN=DigiCert Secure Server CA
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4086 bytes and written 434 bytes
+SSL handshake has read 4431 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -56,28 +65,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 3767C4938E20BB1866EF4D6B23B6D5A6645B70B94A8A803CF568FB52153BB8BD
+    Session-ID: 29F1F7248109B2FFA2607F1CE8ED93F8D3D9F2168BC72A2C6B0B752719D9314C
     Session-ID-ctx: 
-    Master-Key: 864DE04F0ED4859E4096863323F6DA667B366EDF47D54A1AF3AE75529494F66140958FAEC64AFA36146754196D3F2F40
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 146F3AF11BEBD7E8588E7E099907F55FA23FF1DF1E291E966617B7B6F05AAA69EA632914CA07E225A4D4955AB867C7FF
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - a6 bb 43 78 5e dd 07 87-56 25 3f da 5f 64 43 a2   ..Cx^...V%?._dC.
-    0010 - cc 17 76 0a dc a7 b9 ac-72 91 ef cc 43 30 60 22   ..v.....r...C0`"
-    0020 - b1 7b f4 02 6a 57 bb 41-c2 5c e3 30 e9 a2 f3 d4   .{..jW.A.\.0....
-    0030 - 8b d1 57 4f 7d 3c 1d 5b-02 1a fb de 9a db 73 09   ..WO}<.[......s.
-    0040 - b5 7a d7 99 b3 72 36 4d-61 db cc ea 14 d1 9e 49   .z...r6Ma......I
-    0050 - f9 7a 88 bb 1b 1e 2f 1c-bd 48 59 6c 6b d2 b3 35   .z..../..HYlk..5
-    0060 - ac 23 7c e3 fa 0d a1 26-cd 9b bc 01 b0 3b 6e f3   .#|....&.....;n.
-    0070 - 6a 0a c2 3a bc ab 0f e0-19 6f 51 1d de e8 25 af   j..:.....oQ...%.
-    0080 - ab 08 8b f7 c5 fb 1d c5-15 d6 91 aa a7 2a 7f c4   .............*..
-    0090 - 6b 9c ed 1e d7 f6 a4 e6-eb b1 d9 8e 52 3d f9 34   k...........R=.4
-    00a0 - 4d e4 d8 20 af be 6e 4c-e3 4c 21 e6 21 3b fd c7   M.. ..nL.L!.!;..
+    0000 - d7 08 bd 9e 41 cd eb dc-b6 b7 24 39 fe 63 fb a2   ....A.....$9.c..
+    0010 - c2 68 57 8c f3 d6 38 6e-de e8 6d 27 c6 db d8 f0   .hW...8n..m'....
+    0020 - 01 c1 de fd 77 be 74 3c-4f bc 89 31 45 f7 7d 4f   ....w.t<O..1E.}O
+    0030 - 73 20 cf ce 64 75 82 7e-78 0a 0f 6d cc 0e 04 2c   s ..du.~x..m...,
+    0040 - fe 56 8f 0a 9e 42 e0 fb-f0 c9 9b 87 c7 0c 15 e8   .V...B..........
+    0050 - 2d fd 66 a8 3b 86 cd 84-8b e4 82 6e 94 1e 91 71   -.f.;......n...q
+    0060 - 59 56 f1 e1 5e e2 42 a0-74 d1 56 70 52 bb 86 93   YV..^.B.t.VpR...
+    0070 - 7e 12 ff 8c 0b 15 65 95-21 d7 7f 4a 87 7e 83 e4   ~.....e.!..J.~..
+    0080 - e1 1f 46 8b 7a 5a 3b ee-a5 80 62 b5 08 27 c6 8b   ..F.zZ;...b..'..
+    0090 - 10 42 b8 43 fb e3 ea d4-d4 16 61 7a 8b de cc f3   .B.C......az....
+    00a0 - c5 32 3c a3 c3 2a 13 69-46 7e 4e d9 dc 6f d2 be   .2<..*.iF~N..o..
 
-    Start Time: 1472788224
-    Timeout   : 300 (sec)
+    Start Time: 1577474935
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

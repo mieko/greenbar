@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=smd.tarafdari.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWjCCBEKgAwIBAgISA4zZVSZl5DARTNlQN+GcfyzIMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMTkxNjQ4MzJaFw0y
+MDAyMTcxNjQ4MzJaMBwxGjAYBgNVBAMTEXNtZC50YXJhZmRhcmkuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArwzjWh2DimadqDUw1jWJp5lS5twC
+EyhFE9y059Ow9LxUzysVWPpuIiMgwL7Uq9Q6yGz8wWE/C28Su+qDZG490St3noNM
+MQgcBk0+dqxh0zQ3QX/p5F/s2SiH3sH8BWTb3c/XmjLsx4l8oIzgvAZM9jO9Ck/a
+QgHz70y405m9MujLS6mzpsF2LrjrQElKVIwIC7lgZszCkgOJ238hq0J7lzBXpKQz
+X9g17XaStIpJMtejQqgpYkFNFfE7rrehBhMlKeIo4H1PWwJWfekQ7NqFYlFiFMg7
+nIjmNiGzjaSszFwdfU0T55Vi5fkk7bXJMczQWVjaCPYOoandueLUxMz1hQIDAQAB
+o4ICZjCCAmIwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTh26vwJygs8UlmuYpIC/r3
+w1LYLzAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMBwGA1UdEQQVMBOCEXNtZC50YXJhZmRhcmkuY29tMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAsh4F
+zIuizYogTodm+Su5iiUgZ2va+nDnsklTLe+LkF4AAAFuhMe6kwAABAMARzBFAiAL
+sCONGOJ21UOp0OyWJwOMfSfjhUmBLtlsn+fwsM8xIwIhAO5HVxIi0LEvuS2dEHS+
+sCCv01RTDWUcxwrazsCWzSYlAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2y
+CJo32RMAAAFuhMe7PAAABAMARzBFAiABA50cc+aUShwiYkLz12YCUZ8gOAy0SyZw
+9FzzxRFmuwIhAOMiteuBnkEx2GpC/AyVjPedK1J0pRxG2ZDj5paa4gX+MA0GCSqG
+SIb3DQEBCwUAA4IBAQCGwa1LrY5H5oCwidF8EQcrQ8f2to7HBCHR4NPNQmHBsh6D
+whA69F3PSuqPiEj3GS9qHB/q0wEPxrdrL/XFFGdkCqY6NuWsiVu0i+EWlYfNCLZB
+8GBseYEK/JYINJPc1V1eI0D9XAbRnRSs0D6fpzGni75OzrzrAycGOnIeuuSC/sHB
+IpTW16AGLuZaJ2ZOMXqKlNrCatQdCc+cmizQzv/iOZpeLpBKxTT+sBNEIUsS+Kml
+Wt3vS4Ky1jc4HKXPey8QXpgPhJdknosZCuS8pGwlMdW0N0RcUnphq3IAHcTdq2as
+DJrIdnhp6Btz9PirVq81mbMP3eak+2sRZGjM9Bj6
+-----END CERTIFICATE-----
+subject=/CN=smd.tarafdari.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3221 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 9982CD6C186D6EC6370BF3E94863C6D8E6B5923AAE2A3B9DE733295C9CD4C6DA
+    Session-ID-ctx: 
+    Master-Key: 2C4595EF2479CB57A827233B641B3165C1734330F184F1BB70E304E7751E968D2C36A9E780550C6B87C70DCC52B4DD5D
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 34 c6 5b 81 95 e5 1a 74-ba c5 2b 70 fc 91 ec c5   4.[....t..+p....
+    0010 - 27 1d c1 7a 40 ee 29 8b-52 66 f7 c7 42 f3 dc b2   '..z@.).Rf..B...
+    0020 - 6d 95 36 ac 74 bf ed 83-6d 06 2c 43 a5 28 3a 39   m.6.t...m.,C.(:9
+    0030 - 06 12 5d 3a 23 59 fc e0-57 cd b7 65 07 f1 4e 87   ..]:#Y..W..e..N.
+    0040 - a4 33 1a 60 d3 52 49 9b-63 d1 9c 32 a4 00 15 a2   .3.`.RI.c..2....
+    0050 - ad 00 0f 4c 92 4f a2 fa-4b f3 d0 3e 1f da 96 ca   ...L.O..K..>....
+    0060 - 58 cf 0a 63 8d 7c 7c 2e-42 f7 3a fd 1a dc a0 49   X..c.||.B.:....I
+    0070 - 34 ee 1f a7 db 6f f2 d5-9d 43 40 9e 11 3e f9 68   4....o...C@..>.h
+    0080 - 46 e8 d5 1c a1 ec 6f 9f-37 5b 43 6a 61 47 46 6f   F.....o.7[CjaGFo
+    0090 - d4 4d aa 48 f3 88 34 70-9e 97 9b f7 cc f7 55 58   .M.H..4p......UX
+    00a0 - f5 7a 3c 13 4b 64 7f c0-bd fb a6 8b f5 3a 53 69   .z<.Kd.......:Si
+
+    Start Time: 1577475574
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

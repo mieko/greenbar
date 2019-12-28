@@ -1,51 +1,59 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=San Jose/O=Adobe Systems Incorporated/OU=Behance/CN=*.behance.net
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/C=US/ST=California/L=San Jose/O=Adobe Systems Incorporated/OU=IT/CN=*.behance.net
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-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
+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
+TbtksP6wEE8Xa7PWYP5u8SWXIPVK/v0fVfjDhlakLlhFyD8nLrHmmxE9fSpShiUC
+AwEAAaOCA2QwggNgMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0G
+A1UdDgQWBBSgAQh0S2KaAZ76DZURckSgHmrSgTAlBgNVHREEHjAcggtiZWhhbmNl
+Lm5ldIINKi5iZWhhbmNlLm5ldDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9jcmwz
+LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3JsMC+gLaArhilodHRwOi8vY3Js
+NC5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc2LmNybDBMBgNVHSAERTBDMDcGCWCG
+SAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20v
+Q1BTMAgGBmeBDAECAjB8BggrBgEFBQcBAQRwMG4wJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEFBQcwAoY6aHR0cDovL2NhY2VydHMu
+ZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNlY3VyZVNlcnZlckNBLmNydDAMBgNV
+HRMBAf8EAjAAMIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkAdwCkuQmQtBhYFIe7
+E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAW5C5ksGAAAEAwBIMEYCIQDuBWrp31BR
+dlhgL5g2JGYWUeBNIOkU5eYVa963uw9hDQIhAIeXZL8uAYBwNCRycE6Rf0jfWL89
+IHIShmqosm5AvTanAHYAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8A
+AAFuQuZL6gAABAMARzBFAiEAwQCKsrSvPCA+QlBx1krZSRijN8IcFMqBcbYADBvi
+rYoCIBkjc0HOPzQGveNbXO6m2+zJsiqq8y/g0y/iy24tWSE1AHYARJRlLrDuzq/E
+QAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAFuQuZLAwAABAMARzBFAiEA4t2mQjBL
+vK0qs4WkjSv3yYUQYpGIr/DCeefi80tEUa0CIDT1DDIR3OG38Xb3WW8i4TnNrxVB
+YHq2a6AcxK7cLvLKMA0GCSqGSIb3DQEBCwUAA4IBAQAZKC9DQv6B/Zavlgl4uQ8D
+a2VP1tAq2Qm90wz1et17NAjDyKGS+zafzsCRHFt1k6gGm7daX06IlFRJ8A8q6ZvK
+qC1kKgtLm8L5YPnZUXbGKo0HxNTEf4XU/rsZ3+b2/66GeOUmdBumjhpbMZo6EcAk
+7xlNNvWsUVKJAixK70FSwTe7jcJ2ldag5N/8TK1SubxZKQ7yjrqdzwweDBf1xNeZ
+GMbp2lWRIz3sNnWNDYr0KsS2JFNPRjs90DSkiIBVKfInuVGWcHgq9bJzDr7wTMqP
+1813P+w845IpG+pL+cqPm2GXgSTMJSdZB74eZXAX/4pTln7XkEBQ3WzyR03q6+WI
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=San Jose/O=Adobe Systems Incorporated/OU=Behance/CN=*.behance.net
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/C=US/ST=California/L=San Jose/O=Adobe Systems Incorporated/OU=IT/CN=*.behance.net
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA1
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3134 bytes and written 434 bytes
+SSL handshake has read 3528 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -53,15 +61,24 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: E32233F061D70F54B3202743EC7EFC0912ED6704A5448F48357B1A0427C4D0A0
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 15FB4468E6E24948F409B10D96906371BE2269C047782B0F1714A42BB5CDC16A
     Session-ID-ctx: 
-    Master-Key: 85E26342CE5793D85D19A16131187EBDA618B3239EF7A419B46A58C1BF0ABA8931B0487C1D4C8B56C769CDF46BC24C8A
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788357
-    Timeout   : 300 (sec)
+    Master-Key: 6F7596060693E057220FC76DE4A4F2154303E4162E6886B15F580FC8E57125BA3A7AEA2481EE6F808610F26268B39B76
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - 29 72 0e 0e b2 5b f3 89-34 e8 84 18 02 23 e1 d8   )r...[..4....#..
+    0020 - 57 31 07 ae 7e 8c aa a7-60 47 48 f3 43 1a 1f a9   W1..~...`GH.C...
+    0030 - 0c 84 b3 b3 29 9f 33 ac-9f 4d ea d6 be 1f eb ad   ....).3..M......
+    0040 - 88 6b 9c 33 74 1a 2c e6-a9 2d d6 ff e0 6c 6c 6d   .k.3t.,..-...llm
+    0050 - cf 05 50 97 f3 14 23 d8-da a5 01 44 5a 57 19 13   ..P...#....DZW..
+    0060 - 64 73 e8 21 4f 3b 18 e0-e5 ae ca f7 e0 c4 48 dd   ds.!O;........H.
+    0070 - 32 91 76 68 fb ec 62 84-f2 31 43 c7 9b 8e 90 74   2.vh..b..1C....t
+    0080 - 9d e3 e4 aa f9 6d b2 a7-dd 83 3e fb 60 6f c3 42   .....m....>.`o.B
+    0090 - be 19 16 f7 9c 3e 84 b3-da b7 a0 fd 8b a1 de 43   .....>.........C
+
+    Start Time: 1577474965
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,77 +1,82 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/CN=*.myfreecams.com
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=US/ST=Illinois/L=Roselle/O=YOUR.ORG, INC./CN=*.myfreecams.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEOTCCAyGgAwIBAgIDB9D0MA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNTEwMjIyMDUzMDVaFw0xODEwMjQwODA1NTVaMBsxGTAX
-BgNVBAMMECoubXlmcmVlY2Ftcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
-ggEKAoIBAQCkGVSiLQ19zW2hKcFn9EeO4QsMzSmxZEEfMHePCpYfQKrUS9/4+IMJ
-qlar1QOg0/bo7M1tshN3kyYk3mAO4+30WQCBLaBZ0fvt8V4YgVNhFXcgq9YqC6H7
-ppGMCEBBay7kYjh4N42Lo/r5omdWYegaaO399dQk/VxiI73EwnQehF2jpfz5XXeC
-UCrhOYqGAJo4BhpdWifVHweh6qkiJXjfd8WlX8FIp3tjIInDDtsJo52bcUjDJawn
-HchgXehTtM2EFTYnG7uAI+aCE8jaUZKnkdIhnhZODKYOa1vCLstSs5PQvUCGCsns
-iY1AGGg76QtqBMZzaaMc8go+pAeGcJq5AgMBAAGjggFYMIIBVDAfBgNVHSMEGDAW
-gBTDnPP800YINLvORn+gfFvz4gjLWTBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUH
-MAGGE2h0dHA6Ly9ndi5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9ndi5z
-eW1jYi5jb20vZ3YuY3J0MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
-BQcDAQYIKwYBBQUHAwIwKwYDVR0RBCQwIoIQKi5teWZyZWVjYW1zLmNvbYIObXlm
-cmVlY2Ftcy5jb20wKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2d2LnN5bWNiLmNv
-bS9ndi5jcmwwDAYDVR0TAQH/BAIwADBBBgNVHSAEOjA4MDYGBmeBDAECATAsMCoG
-CCsGAQUFBwIBFh5odHRwczovL3d3dy5yYXBpZHNzbC5jb20vbGVnYWwwDQYJKoZI
-hvcNAQELBQADggEBAERxImAeEqAR0StKDMnEEcf4QnfbDno/uStLkIFc2w7YRFKD
-3JC0y3tELId/q0opNTLPaPbXuxl2jauzIr1a+0H/A1dmlsAa3ARTKsB4tjyxjJbc
-JMsmYn4XJF//tDNhqM0kvMq4/Kmv5ECPNHCHavkluRnS/Fq6Lgs8Z4aLrPnDvcXH
-wVyFlkKx6wva7IrxvNrgUGgmzlwLjzKW9tj5mKV5GSpVGiruwODBA23AJHYR4vWK
-h7kbcPA694ztG4Zhxm/pzh24q18Jmms5D+oPEqvdXEkjBkGN1bgO2GgJvxfFW3zf
-q8necleDh5Z66DuInw3iTEF6+0/vK+vKfn07OUc=
+MIIGFDCCBPygAwIBAgIQB5ggxFL9CK7DDQnW4PN+HzANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkwMzI1MDAwMDAwWhcN
+MjAxMDE0MTIwMDAwWjBmMQswCQYDVQQGEwJVUzERMA8GA1UECBMISWxsaW5vaXMx
+EDAOBgNVBAcTB1Jvc2VsbGUxFzAVBgNVBAoTDllPVVIuT1JHLCBJTkMuMRkwFwYD
+VQQDDBAqLm15ZnJlZWNhbXMuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE
+IGLQbXTBavfdj2h9BIUXB+GKCjks2KwsggKMvfrb13Bqpn88bXIqOTTsYcehJA8A
+X3HP9x0e6+9UkFKiMqCwo6OCA6AwggOcMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjn
+jUY4tCzhxtniMB0GA1UdDgQWBBSgT8fvWSXIqUL+HtzDi0BKKyzN/zBiBgNVHREE
+WzBZghAqLm15ZnJlZWNhbXMuY29tgg5teWZyZWVjYW1zLmNvbYIYYXBpLnNoYXJl
+Lm15ZnJlZWNhbXMuY29tght1cGxvYWQuc2hhcmUubXlmcmVlY2Ftcy5jb20wDgYD
+VR0PAQH/BAQDAgeAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBrBgNV
+HR8EZDBiMC+gLaArhilodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1zaGEy
+LWc2LmNybDAvoC2gK4YpaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Etc2hh
+Mi1nNi5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYc
+aHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwfAYIKwYBBQUH
+AQEEcDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYI
+KwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNI
+QTJTZWN1cmVTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkC
+BAIEggFuBIIBagFoAHYAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUA
+AAFptcSF1QAABAMARzBFAiEAy4n2NDRPjbsirqMLbKTkX5nNDFPszAa6WDWm32sZ
+2CwCIDR3WJKXq5y26NL/P1FgV0xennMi/2S1Ct1Qd/GhJ2BJAHYAh3W/51l8+IxD
+mV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFptcSGtQAABAMARzBFAiBKBfhNKAtP
+8EDYtD6GDUnXyRAaY5DtL06G+zbeb+kDMwIhAMDfeiKHiVQuoqME7ZKx9es1zCGu
+Jc1GlLyJSblLPHErAHYAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVgA
+AAFptcSFVwAABAMARzBFAiEAu2IXSuiEinSlj5mVbmQpF1p2DN/8OQTaSdw1lNHQ
+8doCIBFprMXs/9EMD1rGg86RA24eF9T9hh8eXAnTIr5Hbo8mMA0GCSqGSIb3DQEB
+CwUAA4IBAQC5mi8MAQHi0g+gtHXxzNYMqjWUGs7QIC1dck0lVf3QdTiGCbX8TIJN
+pfPGwFiJFaqxVQu/ZqTHEBfea6PA8nA7Ez+OVlVatrPeeCwqPWY9cbImaiIoMWew
+xZhiDw9CQIrSss/2rvxud+hhMsrOKVgK3yIjOGiqfHMIxV1UfMnxyOTw1fbpJ/TO
+WP/396gKSwVHRwDcHB57EKsJxCKimjdC3MMImKX4igM2cZvhGNEhOnjc9jIl4ReQ
+DieLrEJZbgRsXJEI++OrfXVJs8UKEFfgDLQITXGerXye4bGe8MQ8shtGkZYM4LHt
+jNIIoi4WbhVBZUFdcfzEcOKXoUlN+WIa
 -----END CERTIFICATE-----
-subject=/CN=*.myfreecams.com
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/C=US/ST=Illinois/L=Roselle/O=YOUR.ORG, INC./CN=*.myfreecams.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 2828 bytes and written 434 bytes
+SSL handshake has read 3183 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Server public key is 2048 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
+Server public key is 256 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: FE78DDBDB1509D56458167BE1D5307812F24FC62860F69E5797001CD32085185
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: DB272525BD6E72689BF90E2FA8CD835965C7B8673148A2667AA39A6029F9457A
     Session-ID-ctx: 
-    Master-Key: A37433B71CC389EDC26583DD5462D0B718F0912033CC9EE3ADAA9535720D886690A204385C292FE79AD0B774026CFAA9
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 20DD8F4A04684099AF61CD8277EED74C63CDC950D9AED4A5B09415E3F690DA94F8EA5203029C95FE9169F8801074AED1
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
     0000 - d7 26 b0 85 31 bb 56 51-d0 7a 07 6f 79 cb 04 42   .&..1.VQ.z.oy..B
-    0010 - 80 a3 c6 5f 24 a0 c9 28-46 2e ae c2 91 76 47 8e   ..._$..(F....vG.
-    0020 - 0f 2f 3a 03 87 38 29 ce-48 f9 7a b3 9d 88 bd cf   ./:..8).H.z.....
-    0030 - 4b a6 c1 9e ee 60 5e 32-8a da 44 9d 19 6b 8a 71   K....`^2..D..k.q
-    0040 - 28 33 72 c2 f3 f6 40 35-26 64 9d ae 42 9a 01 04   (3r...@5&d..B...
-    0050 - 80 1e 8a 49 e5 8c d1 7c-3d 94 a5 a3 b2 f4 27 05   ...I...|=.....'.
-    0060 - 49 33 75 63 2f 80 9d b2-95 34 ba f8 59 bd 17 8c   I3uc/....4..Y...
-    0070 - b4 07 ff 4b 04 b2 7d d4-a4 62 40 99 c0 7e a8 5b   ...K..}..b@..~.[
-    0080 - ef dc 79 e0 f1 eb b4 30-65 ab 4f 6b 57 60 83 34   ..y....0e.OkW`.4
-    0090 - 6a 0d 6e a0 eb f0 30 e3-b8 9e 29 c7 3a 07 e1 96   j.n...0...).:...
-    00a0 - 3a 6d 5f 7f 63 f5 62 b2-7c cc 29 bd 1e 1f 00 22   :m_.c.b.|.)...."
+    0010 - c5 b8 0e 69 f8 45 50 63-17 03 2b be e2 97 e7 17   ...i.EPc..+.....
+    0020 - 1b d1 bc 0a d6 a9 a8 45-98 5c 73 25 88 cf 32 81   .......E.\s%..2.
+    0030 - 6a 7a 8e 3f 73 a9 4a 50-25 19 41 cf 94 a8 e9 ac   jz.?s.JP%.A.....
+    0040 - 3a a4 5d 42 06 1d ac 2d-52 91 54 cc 2e e6 09 f2   :.]B...-R.T.....
+    0050 - 73 99 f2 6a a9 86 bd 4c-84 80 4b bf c6 7c 0b 96   s..j...L..K..|..
+    0060 - 64 76 f7 ef 35 c6 c3 63-1f 60 df 9e 77 fb b8 90   dv..5..c.`..w...
+    0070 - 85 31 60 c1 68 80 22 a3-90 be f0 82 fc 03 73 95   .1`.h.".......s.
+    0080 - 3a da c9 f0 46 a8 38 47-07 8c 2e 66 4d 86 57 50   :...F.8G...fM.WP
+    0090 - 1b 98 f7 0c f7 9f 08 ac-1a 48 37 a9 70 cb 64 e7   .........H7.p.d.
+    00a0 - 91 41 0b 55 98 62 e1 bd-6d 61 b7 ea fd f7 fd a7   .A.U.b..ma......
 
-    Start Time: 1472789435
-    Timeout   : 300 (sec)
+    Start Time: 1577475386
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

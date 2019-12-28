@@ -1,52 +1,59 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=TR/ST=istanbul/L=istanbul/O=Sahibinden Bilgi Teknolojileri Pazarlama ve Ticaret A.S./CN=*.sahibinden.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 0 s:/C=TR/L=istanbul/O=Sahibinden Bilgi Teknolojileri Pazarlama ve Ticaret A.S./CN=*.sahibinden.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFETCCA/mgAwIBAgIQfwewcjFsftm1np1eRrDFYTANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDMxNzAwMDAwMFoX
-DTE3MDMxNjIzNTk1OVowgZExCzAJBgNVBAYTAlRSMREwDwYDVQQIEwhpc3RhbmJ1
-bDERMA8GA1UEBxQIaXN0YW5idWwxQTA/BgNVBAoUOFNhaGliaW5kZW4gQmlsZ2kg
-VGVrbm9sb2ppbGVyaSBQYXphcmxhbWEgdmUgVGljYXJldCBBLlMuMRkwFwYDVQQD
-FBAqLnNhaGliaW5kZW4uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
-AQEAtlGdoQNvvk2mKTynLSpz+1L5XSOkt39Ne2xbb6EA+ZFo6BmZpmvIZobWPE3C
-UsGpjLs8MpbglsgTxGIh5+SCQ5Pb705ODg7uEr8ccqOHZqSBQo/9b5Ovq+zpSoDd
-Z9l4+fQXtolmuuOIZjtRwaQyIfUa6shzJ70WHIN8n8LZ8Yvfn5oBRtoJfaM8H4t9
-8WtB8QHdfLGRj0Sc9C+C+d7kZZSrco/pOwlAFEClKxi5SpriPEA83rBASJWb9V89
-/7hHBGxd95BEC4+wmvJPbAgpB4IEyc1q25+hQRpSUbNNtDJwkB+2s3+997zAAEHw
-EQLW6awrFbNFzX1iVSjq5rposwIDAQABo4IBdTCCAXEwKwYDVR0RBCQwIoIQKi5z
-YWhpYmluZGVuLmNvbYIOc2FoaWJpbmRlbi5jb20wCQYDVR0TBAIwADAOBgNVHQ8B
-Af8EBAMCBaAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL3NzLnN5bWNiLmNvbS9z
-cy5jcmwwYQYDVR0gBFowWDBWBgZngQwBAgIwTDAjBggrBgEFBQcCARYXaHR0cHM6
-Ly9kLnN5bWNiLmNvbS9jcHMwJQYIKwYBBQUHAgIwGQwXaHR0cHM6Ly9kLnN5bWNi
-LmNvbS9ycGEwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQY
-MBaAFF9gz2GQVd+EQxSKYCqy9Xr0QxjvMFcGCCsGAQUFBwEBBEswSTAfBggrBgEF
-BQcwAYYTaHR0cDovL3NzLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3Nz
-LnN5bWNiLmNvbS9zcy5jcnQwDQYJKoZIhvcNAQELBQADggEBAGVsscaSNJNAiiWP
-jhTUO/HDipnElfemaZfcGLdkloHsy9FDoTKC6YxilHVqViGS4891baCag1u0QDJi
-wlwJLKHUqj76HAb4PdFeTbTZWk44Xv8eA8kzzjj+O3NqHLud2WUIJnd5T0novKV5
-Gs3EJaOkXd+7ImIjTp3rA9qsQCD8PHY0bxytn5lpJWEkGgQM7P+ixM3zGUd9gx4z
-F/4gaeNbHM81KeFGB/p5HDzGHr7fLg5IqaTlUIkKDnbmRp1W75ekY7ZeKJHS2hab
-+WpKp4PMENmAKoASdGxLkKd/aUQRnAPAIm6x04UxlCM5ZqgS01Am7tN4Hzyhjwz+
-7VvQMss=
+MIIGuzCCBaOgAwIBAgIQCOITQY9Q83ViDjzxthGxfzANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkwMzI3MDAwMDAwWhcN
+MjEwNTI1MTIwMDAwWjB+MQswCQYDVQQGEwJUUjERMA8GA1UEBxMIaXN0YW5idWwx
+QTA/BgNVBAoTOFNhaGliaW5kZW4gQmlsZ2kgVGVrbm9sb2ppbGVyaSBQYXphcmxh
+bWEgdmUgVGljYXJldCBBLlMuMRkwFwYDVQQDDBAqLnNhaGliaW5kZW4uY29tMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArl08Xb+IdeeiDNenB/5Yolf7
+r0ycDAdO8gUaR6uus0OiOaYnae5BpylHsecKpNFOwSzwKMoUgobBoVV8bUpdFiqV
+E2aV9khxF9yYqHK1u+zwXCowrQsMyTqpjEsL8iQlDr+OEWt9IKcyFxb6g+uK6+fS
+g29CxWBCB0m5hEdzuMxP2u5WDi25rDeTriEc92r8nZp7zV5PVbu5/OZcZTzqqS6/
+9i171hcCNTx8bkt/fz4lEWZv6+6AAgdNZgmRIau9iZ5FySbkuTwVL5Qj7xcNFy2I
+O+KZkK3y0rmXFbyhZM1xB+cbPElpsQZ16pSh7Bx5yiWL+AXRo4gxICrqx1NUtQID
+AQABo4IDZDCCA2AwHwYDVR0jBBgwFoAUD4BhHIIxYdUvKOeNRji0LOHG2eIwHQYD
+VR0OBBYEFAHNoO2AxVGulIsyn65aEPGlA5lmMCsGA1UdEQQkMCKCECouc2FoaWJp
+bmRlbi5jb22CDnNhaGliaW5kZW4uY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0cDov
+L2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nNi5jcmwwL6AtoCuGKWh0dHA6
+Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3JsMEwGA1UdIARFMEMw
+NwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0
+LmNvbS9DUFMwCAYGZ4EMAQICMHwGCCsGAQUFBwEBBHAwbjAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEYGCCsGAQUFBzAChjpodHRwOi8vY2Fj
+ZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyU2VjdXJlU2VydmVyQ0EuY3J0
+MAkGA1UdEwQCMAAwggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB1AO5Lvbd1zmC6
+4UJpH6vhnmajD35fsHLYgwDEe4l6qP3LAAABab2U7lcAAAQDAEYwRAIgeFo46mG6
+wAudM4nlS3BwFxyqDF+eepmR147gZfWMYQACIEvtHi6dSInFCMaY7Mxwg8+9TWkh
+YdDsIbhVax0u0USOAHUAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8A
+AAFpvZTvZQAABAMARjBEAiBd7rsRE90srfgWtL6CmrVMCjfILnViGUDBWFPKBmvU
+7gIgb/dFmDXQCZq22OQjzAhP3WAeurUoin6WMYyPvWK1g9UAdgBElGUusO7Or8RA
+B9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAWm9lO3eAAAEAwBHMEUCIFmOaHhemxtr
+WSz4LRLsIxeabHGHEvu3jA/I/H+SKG/qAiEAnityMAMX2fPJflc20/OE00BF8Zlt
+JQuhR1s4hQ/wshAwDQYJKoZIhvcNAQELBQADggEBAGcGehblAUFgi0JjcaGRO6vs
+QEDXlMElx2gdMyCPFe5gs/k+fw1V8yuR99JREwe+dVSRF13cLEAUlJx8sj2eEI6m
+JearTUo9RrPBUP6zq9UM84VnhvV4W9plztCACwm8PyKpW8ttE6Aqt+Q8+5aCF7s9
+Gt6Nim912c3RoizubrbGZOSI7Q/AYJxcQ/TTmcy/cTuuUDFp1fo7amm323BPs3Lw
+ij7zXJ2Mh/wc9fdCBgxRp3ZylRoW+fRmmQhZcYFxkXH/4Mh+86+scaEx5V48iRIt
+OYGxhMJrt7cZyY1fFCwSv1rpd2deazOG6ZPYziJ7U+nZC7CQd2BRBDExanKumbY=
 -----END CERTIFICATE-----
-subject=/C=TR/ST=istanbul/L=istanbul/O=Sahibinden Bilgi Teknolojileri Pazarlama ve Ticaret A.S./CN=*.sahibinden.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/C=TR/L=istanbul/O=Sahibinden Bilgi Teknolojileri Pazarlama ve Ticaret A.S./CN=*.sahibinden.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4032 bytes and written 634 bytes
+SSL handshake has read 3401 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DES-CBC3-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -54,15 +61,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : DES-CBC3-SHA
-    Session-ID: 0F4016880EDF9D5A0AF0439BA94F0185A095E94AEA25889D77B314F99980EF45
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2C5ED3F01629A4C4642FA64E8138465951CB9D8AD4AF9461C4450E5F223DE400
     Session-ID-ctx: 
-    Master-Key: 70EDCD42D30A9613895226341F5F0D55B29A5F2299637F4A54E17A6EF3213D45005B22142D37DEF7B2898A1F849F4357
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788328
-    Timeout   : 300 (sec)
+    Master-Key: 628D543C8491191A20B3F42EBF6DF7DEA4ED121ACB147B3B407EEAF5D811B6FA447F2B945CFB7A6DC55D9D1BA0960C0A
+    Start Time: 1577474954
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

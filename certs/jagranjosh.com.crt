@@ -1,0 +1,71 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=ulr-redirection-omh-app-feeds1/emailAddress=root@ulr-redirection-omh-app-feeds1
+   i:/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=ulr-redirection-omh-app-feeds1/emailAddress=root@ulr-redirection-omh-app-feeds1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEMjCCAxqgAwIBAgICGNwwDQYJKoZIhvcNAQELBQAwgc0xCzAJBgNVBAYTAi0t
+MRIwEAYDVQQIDAlTb21lU3RhdGUxETAPBgNVBAcMCFNvbWVDaXR5MRkwFwYDVQQK
+DBBTb21lT3JnYW5pemF0aW9uMR8wHQYDVQQLDBZTb21lT3JnYW5pemF0aW9uYWxV
+bml0MScwJQYDVQQDDB51bHItcmVkaXJlY3Rpb24tb21oLWFwcC1mZWVkczExMjAw
+BgkqhkiG9w0BCQEWI3Jvb3RAdWxyLXJlZGlyZWN0aW9uLW9taC1hcHAtZmVlZHMx
+MB4XDTE5MTEyMTEyMjkwOFoXDTIwMTEyMDEyMjkwOFowgc0xCzAJBgNVBAYTAi0t
+MRIwEAYDVQQIDAlTb21lU3RhdGUxETAPBgNVBAcMCFNvbWVDaXR5MRkwFwYDVQQK
+DBBTb21lT3JnYW5pemF0aW9uMR8wHQYDVQQLDBZTb21lT3JnYW5pemF0aW9uYWxV
+bml0MScwJQYDVQQDDB51bHItcmVkaXJlY3Rpb24tb21oLWFwcC1mZWVkczExMjAw
+BgkqhkiG9w0BCQEWI3Jvb3RAdWxyLXJlZGlyZWN0aW9uLW9taC1hcHAtZmVlZHMx
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4o7E9cljCR0oiV/H6D4L
+Tw2DCvLAtlWQA2ur3+LvNSVb3GCut5+gPKDnqMouonhvsHvUySWs1SydLlbFN8xX
+Ajm6gwsdlp+YMB3JRT6cMVEOUZy1kNZFI8F0p6AKzhX8H4LTOUT43S8GuaavJpQy
+uQIAurPELaytvGcEQELGDstYFOJ9DMiYt54BdXbkSbgz2rwCXOJJctCkOhMjbAH6
+nhpXlpm8uyNAuAXaFOfHHUnJEjfDtBgdU6r8/5keHxxVISVwmTSTsdsglXmwwpY6
+0alGr7KOwFNwFFyQWUd9bIlPFvkcE01Zoj6dmXdvVKpYExcc3czdC3VGx93pvg/J
+JQIDAQABoxowGDAJBgNVHRMEAjAAMAsGA1UdDwQEAwIF4DANBgkqhkiG9w0BAQsF
+AAOCAQEATGi/dAb/BWY9pb59s3KAlIjPoGRiL8OUjCIYLvSieMPYMXWfzYDScu8j
+w4BzJNzsrPwHsR1YqMUYD0HuxOB7+tKEyuFSpXeTUniC9VlMVvm6MUdv/0bXLVJc
+E6G88hrUuNddtdmDzEbMoZZAc0pLCw+VgM840NXAXmFdJmeSPup+G7+ki9e/zhpd
+fG+tk4U8jODqufTkVvBGGQgB5SxC+F8enQQN5eK+semuHXq4tlX1+vBSfrp8VtQm
+XMi8zdbZtlNsfeuCM7+9+pcqlEj2qmGv734kiAx1M5C96l8N94OhBlRHwjJMd5S1
+j0wmhgaw7FM7t9yXsUnCKLTc80ldSg==
+-----END CERTIFICATE-----
+subject=/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=ulr-redirection-omh-app-feeds1/emailAddress=root@ulr-redirection-omh-app-feeds1
+issuer=/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=ulr-redirection-omh-app-feeds1/emailAddress=root@ulr-redirection-omh-app-feeds1
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1764 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 6A93D9DCDDBB53E9DC9F3154ABC048BA322268031D99B0DC9044E77FF7C5FD51
+    Session-ID-ctx: 
+    Master-Key: C771A1EECFD19526173C15AC2789C3D20AB7B849514091373DB8B135A19BBF1306F0965EBC99AF9801FC6D8B11B1CF57
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a5 21 cd fb da fa 22 70-27 25 87 6c c5 8a bb ea   .!...."p'%.l....
+    0010 - c9 f8 e3 80 bb a1 42 4f-2d 6f 51 da 97 7d e4 fd   ......BO-oQ..}..
+    0020 - 59 76 fc 18 9d dd bb 78-b0 f7 80 c9 42 6b 69 2e   Yv.....x....Bki.
+    0030 - 42 3f 3d b9 25 27 24 61-eb 28 41 4b 95 0c 21 74   B?=.%'$a.(AK..!t
+    0040 - 11 93 a9 45 8a c8 b8 2d-53 f3 d3 a4 36 15 c2 38   ...E...-S...6..8
+    0050 - 53 b6 f0 1d f5 b2 31 ca-e5 f9 15 73 45 76 98 90   S.....1....sEv..
+    0060 - 3c 0f 95 7f 4a 80 fa ea-26 a1 35 31 03 36 44 a0   <...J...&.51.6D.
+    0070 - c1 11 89 7c de 88 44 67-92 a6 91 b0 fb b0 31 52   ...|..Dg......1R
+    0080 - 9f 4a 0f a2 84 ae 19 2f-25 c2 47 9b da 03 1a 5e   .J...../%.G....^
+    0090 - 15 3d 49 7c 07 9f c8 e2-3d ee 4c 25 9c 94 71 b7   .=I|....=.L%..q.
+    00a0 - ba f5 97 11 bc 0f 3d ca-0a b1 b3 d5 30 82 a9 40   ......=.....0..@
+    00b0 - e9 42 6a 72 fa 88 23 13-f5 9b 94 92 39 1a 27 a9   .Bjr..#.....9.'.
+
+    Start Time: 1577475530
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

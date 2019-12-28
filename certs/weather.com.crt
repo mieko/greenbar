@@ -1,49 +1,63 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=Georgia/L=Atlanta/O=The Weather Channel, LLC/OU=OPS/CN=*.weather.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=US/ST=Georgia/L=Atlanta/O=TWC Product and Technology, LLC/OU=Digital/CN=www.weather.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE9jCCA96gAwIBAgIQSDGVGZukTHjFVVE3H8+tlTANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTYwMTExMDAwMDAwWhcNMTcwMTEwMjM1
-OTU5WjB6MQswCQYDVQQGEwJVUzEQMA4GA1UECBMHR2VvcmdpYTEQMA4GA1UEBxQH
-QXRsYW50YTEhMB8GA1UEChQYVGhlIFdlYXRoZXIgQ2hhbm5lbCwgTExDMQwwCgYD
-VQQLFANPUFMxFjAUBgNVBAMUDSoud2VhdGhlci5jb20wggEiMA0GCSqGSIb3DQEB
-AQUAA4IBDwAwggEKAoIBAQCYbCmzp0VsdJuz3mNwv3iIal+Ex3ZsQJJFxF0shFGw
-+J4nnqorG6NV6ev/zGmOaSxm5aBIEIaOciJ0aK7uTkm439BuCg/EHHSPmyXXu9lm
-ECDuteRiecRJAkyttdSesXyYWeA77d/PX3aixwMG6TKxz+b0wjnidb9sPEb7Cd6b
-T1wBQogtBLqBfkqDf/gEEnj0ctKp1qiixnP7TZ9ykMMlDO+gUDSK/vKs/D9YDCPW
-433JKT0impxtIeByrJP0UazpnMzo/dcQbFebBh6E5S511VT6A9FeW9uADykYm9eU
-oKnNa7rpII8F6ExvKIdggYSvEANNh7YOcToaPlETTbGjAgMBAAGjggGsMIIBqDAl
-BgNVHREEHjAcgg0qLndlYXRoZXIuY29tggt3ZWF0aGVyLmNvbTAJBgNVHRMEAjAA
-MA4GA1UdDwEB/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3lt
-Y2IuY29tL2duLmNybDCBnQYDVR0gBIGVMIGSMIGPBgZngQwBAgIwgYQwPwYIKwYB
-BQUHAgEWM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3Np
-dG9yeS9sZWdhbDBBBggrBgEFBQcCAjA1DDNodHRwczovL3d3dy5nZW90cnVzdC5j
-b20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVnYWwwHQYDVR0lBBYwFAYIKwYBBQUH
-AwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFNJv95b0hT9yPDB9I9qFeJujfFp8MFcG
-CCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2duLnN5bWNkLmNvbTAm
-BggrBgEFBQcwAoYaaHR0cDovL2duLnN5bWNiLmNvbS9nbi5jcnQwDQYJKoZIhvcN
-AQELBQADggEBANbeL5FzMIZRdpNMY6DMuVZO66qqcn0kD+vzR5G+VN0bVxudAQ+Z
-21BQAJTgDUbhSsrufTyK+Ti4jE88thqyTmyK7VPT7KXZIAxlQotq0h9/QmMFq4BF
-+16bRlYu8cYfiZEZZ0nSwFzAidV3IZ818Jsz29g1KCFDOJ1+GpeQw1/L+4kvXFE4
-On/+eJvX6k4nGSL4ox+XWFMyarAlDGhlizVPhNpulH/rfDR684iyqiZa7Ob/jz/s
-6xAAMROac6AnXXTidPVQ5R3HFSJwzIs/auDj89wFKbPzorfVgt31GF6Uk59AAdUt
-6zB0rNRJRK08OzkzttmWgJGAMMknGo/QcHk=
+MIIH1DCCBrygAwIBAgIQCwfq53n01InBrCb2iQ/N7TANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkxMDAyMDAwMDAwWhcN
+MjAxMjMxMTIwMDAwWjCBhzELMAkGA1UEBhMCVVMxEDAOBgNVBAgTB0dlb3JnaWEx
+EDAOBgNVBAcTB0F0bGFudGExKDAmBgNVBAoTH1RXQyBQcm9kdWN0IGFuZCBUZWNo
+bm9sb2d5LCBMTEMxEDAOBgNVBAsTB0RpZ2l0YWwxGDAWBgNVBAMTD3d3dy53ZWF0
+aGVyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOL/ptWqEOcM
+KLQ6tEN+4vmQwuNxohmTMDYQtsJU9DwSDETEMXx4BNdSwk8zXqZ855DxAG5hrLkv
+R/kleDq8BTP2/qZecoSGPrGwlvwS2K6s3wyJgPVXs2ja9YANXpVWcxRFXJP6gtd9
+tenVKrdkr4Gy/lPz3s9/tjkXBxhJTWLAbTLTylKY1DsMaJ4Sjfpmp3jzZijOJXdE
+usmcjRcCcWlUu+Y20Zm8pUvys0ofSB867LGZkFSKm6fkjsKrsCwwFaJPr300xocM
+4FzKo5HYzhmH0CUxFbzxnRYO4Dp+AOiuFbW5jd/rhoEA8T4DCQDX4tV+Kb567C2K
+tfrG1vXgoRMCAwEAAaOCBHMwggRvMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4
+tCzhxtniMB0GA1UdDgQWBBT0xOo6Joo5xyBxRyQA/ha2A0vGGjCCAbEGA1UdEQSC
+AagwggGkgg93d3cud2VhdGhlci5jb22CC3dlYXRoZXIuY29tggoqLmltd3guY29t
+ghAqLmFndGVjaC5pYm0uY29tggkqLndzaS5jb22CEXN0Zy5jcmF6aW1hbHMuY29t
+ghl3YXRzb25hZHZlcnRpc2luZy5pYm0uY29tgiJycXRjbG91ZC13ZWItcHJvZC5t
+YXhjbG91ZC53c2kuY29tggZ3LXguY2+CEXd3dy5jcmF6aW1hbHMuY29tghEqLndm
+eHRyaWdnZXJzLmNvbYIYd3d3LmJ1c2luZXNzLndlYXRoZXIuY29tggh3eHVnLmNv
+bYIHd3NpLmNvbYIQd3VuZGVyZ3JvdW5kLmNvbYINKi53ZWF0aGVyLmNvbYIhcnF0
+Y2xvdWQtd2ViLWRldi5tYXhjbG91ZC53c2kuY29tghIqLmZhc3RkYXRhLmlibS5j
+b22CCGltd3guY29tgggqLncteC5jb4ISKi53dW5kZXJncm91bmQuY29tggoqLnd4
+dWcuY29tgg1jcmF6aW1hbHMuY29tghMqLm1lZGlhLndlYXRoZXIuY29tMA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0f
+BGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1n
+Ni5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTIt
+ZzYuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0
+dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMHwGCCsGAQUFBwEB
+BHAwbjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEYGCCsG
+AQUFBzAChjpodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEy
+U2VjdXJlU2VydmVyQ0EuY3J0MAkGA1UdEwQCMAAwggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdgC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAW2NYtG7
+AAAEAwBHMEUCICDEBQeVvGAkGdmoFK2CHDrvVWPs4ngNUG9iYhkReanJAiEArt2f
+Gqu2dPQ30x4CzWaqQL4W4GJB4Fv/i2zMD3xHBeAAdQCHdb/nWXz4jEOZX73zbv9W
+jUdWNv9KtWDBtOr/XqCDDwAAAW2NYtImAAAEAwBGMEQCIBg2hRAhypTxCD/3Ytre
+v+7NwyP6zxArDX8aQ8LLe043AiAh/iKIAlTvhxM2CaqmpFWpByZWiIoO2V1a+geV
+uPs7fTANBgkqhkiG9w0BAQsFAAOCAQEAnTaIjTruzCTWVY8ZmBF27iZ+oPequpY5
+uXsJjsjjrkOtnphuPjDgQOxrRNSRR39t5Lrqcg8qb8/fpdFS8RQZqSKogWx4CVS7
+MSC310sVefQBLXO0K89ZgDt7Y2/0uleGKZnLSfOXTOmg4UG+3jo5Cmy/z0JtmGK+
+wc4H7iEgCfO3tgVixYWpZ7mZwbTpowhMK4h302jtBd/1sIgrc7/n1FtsFy0g3mk9
+b5Bxw+YLf/clH0se0pKKMMROvGLd+d2p9UGKoDUIwYRMCQ/2RkIkeDq5N859Ff3P
+o+4KkSjFkun/d9SAEdhvUKeIsugkTQG3cT7hhNC7KAgcZ6vEJTQYhA==
 -----END CERTIFICATE-----
-subject=/C=US/ST=Georgia/L=Atlanta/O=The Weather Channel, LLC/OU=OPS/CN=*.weather.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/C=US/ST=Georgia/L=Atlanta/O=TWC Product and Technology, LLC/OU=Digital/CN=www.weather.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3038 bytes and written 434 bytes
+SSL handshake has read 3841 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -54,27 +68,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 8DEECAFECB6230F5CFC388B2A39FCFA2E532261DD69DD3096CBE44D8FA4AD962
+    Session-ID: 9C386461C5FD06B8457D214AF1E656A0A5295751DE2C160E908235F18379C789
     Session-ID-ctx: 
-    Master-Key: DD6B43C61C31CB62F01E9FACC96906012B3BAB4CFF7884E234A9E0ABE24E8EA6561426A410951706B95A3AB6D5492DB1
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 2D7698651766E77B74681BD4C86850524B4F4CD185AA6EC622FEBC9B01145310E48AE98066354AFE7C3F5740D9D1978B
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - d7 2c fd d0 97 fe 4c ae-5e 04 f1 bd 58 7f 2f 37   .,....L.^...X./7
-    0010 - 67 2f e5 59 e3 c2 0e ec-5e dc c5 f8 bd 53 28 94   g/.Y....^....S(.
-    0020 - f5 8c 56 ac 33 1a 60 02-9d f0 9e e6 04 ca 3b 81   ..V.3.`.......;.
-    0030 - c0 85 59 08 cd d7 2c d3-37 36 54 84 72 c6 0e f8   ..Y...,.76T.r...
-    0040 - d8 ed aa b2 05 74 95 2e-f3 af 33 a1 48 4d 1d dc   .....t....3.HM..
-    0050 - 6e 5a 18 b3 7f 3e d3 79-1f 6b ea 27 fc d9 67 19   nZ...>.y.k.'..g.
-    0060 - 3b 79 96 74 c2 e4 ff bb-aa d3 1f 6b c7 c1 78 8e   ;y.t.......k..x.
-    0070 - f9 0e f4 d0 ad 07 a3 e1-41 d8 51 66 38 d3 e3 57   ........A.Qf8..W
-    0080 - e8 16 2d 1f 75 f0 17 1a-6c c7 6d ac 1c cb 39 86   ..-.u...l.m...9.
-    0090 - 4e 7a 89 e4 ad cf 63 be-af bf d0 34 e2 20 e7 fb   Nz....c....4. ..
+    0000 - 00 00 32 82 bb 92 15 b3-eb f2 b0 09 b4 09 02 e3   ..2.............
+    0010 - 75 14 42 37 70 f1 cc c5-a9 8c 4a 1d 69 b3 58 eb   u.B7p.....J.i.X.
+    0020 - e3 4a 2d 08 cc 92 e6 88-fa 74 1f 8f 5b ed c6 bb   .J-......t..[...
+    0030 - 79 76 54 d0 06 86 b4 f7-ec 8b c3 2c 67 c2 e3 bc   yvT........,g...
+    0040 - 40 10 bb 5d d7 ad ea 56-96 42 92 52 d6 fd 15 7d   @..]...V.B.R...}
+    0050 - 1f 92 b2 95 51 e5 05 bc-90 bb 6e 9b 28 f2 cd 7d   ....Q.....n.(..}
+    0060 - d9 12 e3 3a 36 66 d4 ec-1a d3 0b 95 0f 02 8a e9   ...:6f..........
+    0070 - 31 fc 17 c5 e1 d5 46 f0-36 e8 a0 58 2e b6 f8 b3   1.....F.6..X....
+    0080 - b0 a5 91 c4 7d 71 3a f0-4d 7b 40 75 61 71 dd fa   ....}q:.M{@uaq..
+    0090 - c2 9f 72 9a 47 26 35 4e-48 22 dd d2 34 f5 50 b2   ..r.G&5NH"..4.P.
 
-    Start Time: 1472788039
-    Timeout   : 300 (sec)
+    Start Time: 1577474942
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

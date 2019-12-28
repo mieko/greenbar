@@ -1,0 +1,77 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=San Francisco/O=Narvar Inc/CN=*.narvar.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFHjCCBAagAwIBAgIQBocCTb8K0VNeazZj/06tVTANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTcwNjA4MDAwMDAwWhcN
+MjAwODExMTIwMDAwWjBmMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+YTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzETMBEGA1UEChMKTmFydmFyIEluYzEV
+MBMGA1UEAwwMKi5uYXJ2YXIuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAvTITqFPF2Rvys0rPiKOaFDKNQhSMSd6hFW2Sij2l1IKCOY3yKNSMNMjE
+3R+lgXkFDD+4Q0qfoXPr2y7X2TJ/h/mOhsAW6zRsYFodfR9OUckoIl//XQWrmiv5
+JPwg0rSW43MWiMd3Xg1kPGYHP7kbaSBKEGMJ1H7oxX3GzLz++eXX+iA+wFn4TAcB
+ZfdEi3Hl9jOq3SxIlFmiiufnlpmAWtaniyHc+pKZcX2sxez8RkQQjXoea+VrKfpM
+s6YQ5xYIUxGgB553xBTwIZ8w+aNbSNl5/Oi4QdyP5bveMGel0cCt5r2faxW0a8lJ
+v0yN07yVrjrW/NmH7XldD3hKjXGfGwIDAQABo4IB3zCCAdswHwYDVR0jBBgwFoAU
+D4BhHIIxYdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFJPjFyw7KS9Tduzk2q0y4UPR
++3h0MCMGA1UdEQQcMBqCDCoubmFydmFyLmNvbYIKbmFydmFyLmNvbTAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRk
+MGIwL6AtoCuGKWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzUu
+Y3JsMC+gLaArhilodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc1
+LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRw
+czovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB8BggrBgEFBQcBAQRw
+MG4wJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEF
+BQcwAoY6aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNl
+Y3VyZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEBCwUAA4IB
+AQA8+PiqAVAPnK9P/yzW0t2Bt+wqAl/mNy9MB/ONSjiOxsOJDXt4Bd2Rgk7rheV2
+OCWMD/n4vJRKEO6+/B7PIPTDee/KrWnpjCbtD3xia5sZSLqihAAtU6FVOcuJzkDc
+ftaeyVnYRm5LemVqFO2vgRfKZngmIicX+TlcS5brKM6fhuRE+zMskuAqwPVLv/eF
++xPPWitiI7hm2lNU+gvZSw3ZZNm736iobFZbw0DPQ+s9kyoGXF18nKrzNSRQkVeI
+dO0bNnSfbSSncU44cRmFz3QsiSua7DyjEu2tz9Yk64j6mov9izZU9yuqN+n44/RH
+2w4Q+aM47NLDUbR/7PQlRN6p
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=San Francisco/O=Narvar Inc/CN=*.narvar.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3163 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 0D25242755455C8DE73352CFFFDF3B39A251707B05759786371DD2D463BAE620
+    Session-ID-ctx: 
+    Master-Key: 05C0E5698A5714BA2B86E1FD093BBDC9567FFB201E4623BA3E385E930019B993662CA7A9262066E74F85CB725785084C
+    TLS session ticket lifetime hint: 43200 (seconds)
+    TLS session ticket:
+    0000 - 94 5f f5 f1 4d d9 20 43-ad 63 ab 79 d8 1f 65 1f   ._..M. C.c.y..e.
+    0010 - de 02 4d 67 c8 4c 2e 6e-de 45 97 2e e8 3f f6 10   ..Mg.L.n.E...?..
+    0020 - fd 8a 56 1c 89 3c 4e 5b-2e 26 72 40 fd 25 5d 12   ..V..<N[.&r@.%].
+    0030 - f8 d8 90 65 7e 08 7b 49-09 7f 4e 1e 03 f3 c1 72   ...e~.{I..N....r
+    0040 - df b3 ca 7c 49 ed c6 f2-12 e3 93 de 99 70 3a 06   ...|I........p:.
+    0050 - 55 f4 b1 99 be de f3 3e-b5 4a a2 1d a1 14 6f f6   U......>.J....o.
+    0060 - b0 36 81 8e 76 42 0b c3-68 82 b9 8a fe 41 15 62   .6..vB..h....A.b
+    0070 - 6a 38 e6 91 24 ad a8 79-f6 55 2d d1 4c 32 19 cf   j8..$..y.U-.L2..
+    0080 - b4 9f 40 0a f8 e0 f2 a2-5d c7 63 d6 6a ce 24 37   ..@.....].c.j.$7
+    0090 - 89 c0 67 ee 8a c6 3f d2-19 a1 3e be 95 da c5 40   ..g...?...>....@
+    00a0 - 90 b6 2d 47 be 55 b4 01-fb 8a 2a ae 6b 27 ab 79   ..-G.U....*.k'.y
+
+    Start Time: 1577475901
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

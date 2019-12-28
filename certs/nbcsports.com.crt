@@ -1,39 +1,64 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=MA/L=Woburn/O=Acquia Inc/OU=Acquia Hosting/CN=*.acquia-sites.com/emailAddress=ssl@acquia.com
-   i:/C=US/ST=MA/O=Acquia Inc/OU=Hosting/CN=acquia.com/emailAddress=ssl@acquia.com
+ 0 s:/C=US/ST=Massachusetts/L=Boston/O=Acquia Inc/OU=Acquia Hosting/CN=*.prod.acquia-sites.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIC/DCCAmWgAwIBAgIBBjANBgkqhkiG9w0BAQUFADB1MQswCQYDVQQGEwJVUzEL
-MAkGA1UECBMCTUExEzARBgNVBAoTCkFjcXVpYSBJbmMxEDAOBgNVBAsTB0hvc3Rp
-bmcxEzARBgNVBAMTCmFjcXVpYS5jb20xHTAbBgkqhkiG9w0BCQEWDnNzbEBhY3F1
-aWEuY29tMB4XDTA5MDkwMjIxMDIwMFoXDTEwMDkwMjIxMDIwMFowgZUxCzAJBgNV
-BAYTAlVTMQswCQYDVQQIEwJNQTEPMA0GA1UEBxMGV29idXJuMRMwEQYDVQQKEwpB
-Y3F1aWEgSW5jMRcwFQYDVQQLEw5BY3F1aWEgSG9zdGluZzEbMBkGA1UEAxQSKi5h
-Y3F1aWEtc2l0ZXMuY29tMR0wGwYJKoZIhvcNAQkBFg5zc2xAYWNxdWlhLmNvbTCB
-nzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzFWggr3W7HPdoR1P6ljwiOiuYxeT
-YRy1qETt8eYszUdAdRt58FnNa0OF73kaw3KFO71zBvfZrI0DRhLqwpRrQMfYHCDs
-zNybRoCN1j36b0vDXB6mzn4p2IHC2lYCR1/LZw6MIgeOZkbplEKhu8V9RHWWckr5
-FqLltdCq9zbqL5UCAwEAAaN7MHkwCQYDVR0TBAIwADAsBglghkgBhvhCAQ0EHxYd
-T3BlblNTTCBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFCa/f76YGWHg
-rnImM/qXvic/amZtMB8GA1UdIwQYMBaAFGklkSi71ZHhzJiiHPu2/0WJRjhIMA0G
-CSqGSIb3DQEBBQUAA4GBALVy/EZRrf2Lqxm69ulcBYDcA71G5Eem7Oh04c8gj2Cs
-nV55lF3aAOLk8Nv+zFQUIAbDOujrvz4ByFUMPJFxLguJ6VkcvcTE+raBiu4811ha
-Ypc0RTs3HCGtNIZt/xUSn7UjlQr6asixGNsmJB0RsgDsdbGVZD2m8QcJ3tMIxgZI
+MIIHDjCCBfagAwIBAgIQBqSYf5kwmIFhABhyWLiGjzANBgkqhkiG9w0BAQsFADBw
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xOTA2MTAwMDAwMDBaFw0yMDEwMTQxMjAwMDBa
+MIGGMQswCQYDVQQGEwJVUzEWMBQGA1UECBMNTWFzc2FjaHVzZXR0czEPMA0GA1UE
+BxMGQm9zdG9uMRMwEQYDVQQKEwpBY3F1aWEgSW5jMRcwFQYDVQQLEw5BY3F1aWEg
+SG9zdGluZzEgMB4GA1UEAwwXKi5wcm9kLmFjcXVpYS1zaXRlcy5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDyXLzTetV/rFrBTrrriUlUcPlROSqo
+bXxMBDd3WkcbuEko7FXAfEU2+aFhvdnmEBMi+v6j1dJabQ3ViniQ/YTmK9BXewq9
+YGQcbu7WqAHKcknfsOwNusUyDHdBtckPRzwfra1fNPD0yrLn8HNWmWwkSPFJr+rG
+ay8OEcfXqE92lUue45btgj1/bMtDJWBBx93K9S+2wlKxizhA0XXH4CklQRVYVi/3
+MPKouwCil4FE4QL9XyT996YkhB6A976n9OP3VFTdB8mwaxNtbTPIxMjJaIrDtYt2
+P2EUXVouXQwVIP4VYJKt8P5h9/Z0uNPzSkMtCe6qiuyGBZUU4e/pWcxXAgMBAAGj
+ggOLMIIDhzAfBgNVHSMEGDAWgBRRaP+QrwIHdTzM2WVkYqISuFlyOzAdBgNVHQ4E
+FgQUhKkNzBSWSS/zs3NEEv/G085gncEwOQYDVR0RBDIwMIIXKi5wcm9kLmFjcXVp
+YS1zaXRlcy5jb22CFXByb2QuYWNxdWlhLXNpdGVzLmNvbTAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAy
+oDCGLmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nNi5j
+cmwwNKAyoDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZl
+ci1nNi5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYc
+aHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwgYMGCCsGAQUF
+BwEBBHcwdTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tME0G
+CCsGAQUFBzAChkFodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRT
+SEEySGlnaEFzc3VyYW5jZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMIIBgAYK
+KwYBBAHWeQIEAgSCAXAEggFsAWoAdwCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jj
+d80OyA3cEAAAAWtDjkDDAAAEAwBIMEYCIQDwk4ln31QlHbcezLQ+r1rRCOOFlrZ4
+qzt11XWvCpXVCwIhAIE8YpDtM7dtVZOe8o91Uw5b9rZHCOBFSpdKxclpb/HeAHYA
+h3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFrQ45BdwAABAMARzBF
+AiBkU59ch95aaVAwk7d4mySXq6TS88zskZAkM/sy+jkhzQIhAI1FMQa2lyP+KZwd
+2PiT8uk2vBGvhbyxHh7vC2P1RJFmAHcAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIS
+hBh1loFxRVgAAAFrQ45ARgAABAMASDBGAiEAi5anXhHMQLD6q0X17x88s8zDDU8K
+MPm08NqCT/B+KLwCIQDjXGgwjX9n4WEhcG/zTuiCimGv1pnKWTlj08lhGTZPDjAN
+BgkqhkiG9w0BAQsFAAOCAQEAl0cqI7tjmvzhX75fqeF2xBaWjrT+uJLLbP4hVnG0
+usXliOX8wW4txrezst84XRK2Js6cQhWJ+RDiiqa8M4S3rD9AE3zLzqzvoqqukhi0
+XOYkEUKDWQei1HLz8vX/EHFeer49N61jHzyImVvYFm6ONw7zUL3KQZjvnrfnQt39
+yj3V2sgptPAU12HUQL4VgyD399bvrE/vWny4tkC4QOz20EBDk+UIwbgDwCylGvOe
+1zMzZd8xupkDVEpb3kATNp5dJAElDpMH3rdJ8s88Gymcd/6Q1aDnqI5Zce6T/MS5
+O2Z7YHHe0+8mPAFflaxwW5diSOj9r2ySrGWJwH842Y7HTg==
 -----END CERTIFICATE-----
-subject=/C=US/ST=MA/L=Woburn/O=Acquia Inc/OU=Acquia Hosting/CN=*.acquia-sites.com/emailAddress=ssl@acquia.com
-issuer=/C=US/ST=MA/O=Acquia Inc/OU=Hosting/CN=acquia.com/emailAddress=ssl@acquia.com
+subject=/C=US/ST=Massachusetts/L=Boston/O=Acquia Inc/OU=Acquia Hosting/CN=*.prod.acquia-sites.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 1315 bytes and written 434 bytes
+SSL handshake has read 4660 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Server public key is 1024 bit
+Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
@@ -41,28 +66,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 688E7C91FB865FC8CD121318BE29D0B2866853815FDCBFFE5CC95256E5299B9F
+    Session-ID: 906D64C9B0D22E9BEAC54A0C61AEC7BC03790BD3E5E09AC45FBB9F953588B8DE
     Session-ID-ctx: 
-    Master-Key: 8C9103821F42E837A1125FFC254D410107A5C068CEC4A739EA410719CAE204ED0FA2B63701E08B413F8B14575DB39A08
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: EA32B4CDB910248E73C37435858BB0476BAD4DAF7E4D354A1D76E57C22E9D70594C13E8B29B7F6D408263D241F79A281
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - ad d6 93 da 40 48 56 14-c3 8d 96 0a c0 31 0a 05   ....@HV......1..
-    0010 - 93 1e 02 a3 70 0f 45 60-11 98 55 f8 43 8f a6 97   ....p.E`..U.C...
-    0020 - 47 3e 16 3b 16 ae 31 fa-e2 93 fe b9 20 99 73 50   G>.;..1..... .sP
-    0030 - 65 11 93 05 6e 3d 53 52-6a 99 9b 4c c1 3a 66 9a   e...n=SRj..L.:f.
-    0040 - c5 67 16 88 fc a7 31 51-a3 7c 56 a8 2c e6 eb 08   .g....1Q.|V.,...
-    0050 - 86 d9 17 a1 13 33 89 6c-67 f9 f2 e9 f2 6d 3f 5a   .....3.lg....m?Z
-    0060 - 3c e4 76 a7 08 36 c9 40-6d 0d f1 20 30 d5 cf c6   <.v..6.@m.. 0...
-    0070 - 60 bb 42 83 fb 97 87 6d-de 65 57 ee 68 83 f0 ab   `.B....m.eW.h...
-    0080 - cc d8 0d 3d dd e7 1c 11-eb 4f 22 2d 4a 3f 79 f4   ...=.....O"-J?y.
-    0090 - 09 b2 e7 dc ae 59 54 f2-52 2c 09 1d 15 17 98 e8   .....YT.R,......
-    00a0 - c0 a8 fb 3a 6c 83 1c 14-fa fe f5 ed c8 db 07 aa   ...:l...........
+    0000 - 12 51 fa 50 2d 55 fa 6f-02 1f 8f a6 8b e4 b8 61   .Q.P-U.o.......a
+    0010 - 83 25 ab 23 37 89 c5 2c-8e ef 17 5b 66 50 0f b5   .%.#7..,...[fP..
+    0020 - 08 f5 e6 6e 7e ba bf 57-e2 ff 1e 3a 58 af 05 5e   ...n~..W...:X..^
+    0030 - 92 f5 8f be a4 c2 ab f0-7c 24 91 1b c8 eb dc 12   ........|$......
+    0040 - ea e5 80 6a d6 eb 0a b6-5d c7 5d ba 02 65 64 e4   ...j....].]..ed.
+    0050 - ae 59 d8 2e 22 a4 27 dc-66 62 96 0b de 98 7c a2   .Y..".'.fb....|.
+    0060 - 09 07 d8 da ad 06 39 63-e4 45 9a 16 7b 23 2d 8c   ......9c.E..{#-.
+    0070 - 73 de 11 0c 9c 88 86 7a-89 11 03 00 e3 56 53 b6   s......z.....VS.
+    0080 - 02 80 c5 0f 4a 70 59 9c-23 0c 70 b1 3f ea 85 a0   ....JpY.#.p.?...
+    0090 - 05 12 aa 0e ad 2e 91 87-47 5e dd ca 9c 07 f2 de   ........G^......
+    00a0 - c6 a8 51 b7 3c 00 b4 77-80 c1 c6 72 54 50 b6 f3   ..Q.<..w...rTP..
 
-    Start Time: 1472789880
-    Timeout   : 300 (sec)
-    Verify return code: 21 (unable to verify the first certificate)
+    Start Time: 1577475577
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

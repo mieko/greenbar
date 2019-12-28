@@ -1,65 +1,82 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=ID/ST=South Jakarta/L=South Jakarta/O=PT. Tempo Inti Media Tbk/CN=*.tempo.co
-   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
- 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
-   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+ 0 s:/CN=www.cantika.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEuDCCA6CgAwIBAgIQGldVBBK5WoZAn7k4dgPDQjANBgkqhkiG9w0BAQsFADBB
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
-aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUxMjAyMDAwMDAwWhcNMTcwMTMwMjM1OTU5
-WjB1MQswCQYDVQQGEwJJRDEWMBQGA1UECBMNU291dGggSmFrYXJ0YTEWMBQGA1UE
-BxQNU291dGggSmFrYXJ0YTEhMB8GA1UEChQYUFQuIFRlbXBvIEludGkgTWVkaWEg
-VGJrMRMwEQYDVQQDFAoqLnRlbXBvLmNvMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
-MIIBCgKCAQEA3R7fzSWFodgXSiBaAtPOjwlnIa+oJHuyTy71NmeV2tNaaKnkijeJ
-AYvmf9/r4w9hcx6eqviQ8qHW2hEvM53iaS8rWOZQSueNoJ7JP/+8sv2ltCWqhYyA
-PRCl172CxcngtP7Wayog3VMoav7+yEwUzxwcDLLr8TEZKVn7ADdKWRIFh37AYj7m
-YodPGDmeVIqs7tk39ULnxhWz2qeWsZQWP+pdaVyVJPmJGK/yAC+ymyj8aFg2/2Lr
-9997Rj3s2PEfUjKgMTgfr+6l961rMS5VVQ9Iv+2KUp/BA3dDxIiLlx53ZLSLr7n1
-Ao2awmteDrdqyXG7vSPZ686htfVB8b5OvQIDAQABo4IBdjCCAXIwHwYDVR0RBBgw
-FoIKKi50ZW1wby5jb4IIdGVtcG8uY28wCQYDVR0TBAIwADBuBgNVHSAEZzBlMGMG
-BmeBDAECAjBZMCYGCCsGAQUFBwIBFhpodHRwczovL3d3dy50aGF3dGUuY29tL2Nw
-czAvBggrBgEFBQcCAjAjDCFodHRwczovL3d3dy50aGF3dGUuY29tL3JlcG9zaXRv
-cnkwDgYDVR0PAQH/BAQDAgWgMB8GA1UdIwQYMBaAFMJPSFf80U+awF04fQ4F29ku
-tVJgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly90ai5zeW1jYi5jb20vdGouY3Js
-MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBXBggrBgEFBQcBAQRLMEkw
-HwYIKwYBBQUHMAGGE2h0dHA6Ly90ai5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0
-dHA6Ly90ai5zeW1jYi5jb20vdGouY3J0MA0GCSqGSIb3DQEBCwUAA4IBAQBt/zVD
-1p0Ejxc0bp/ghkQQZSk6w1G6E37EK3TFpGlWtNu5NYINhDiC2kG8/UYDu8je+tcL
-CrIfmH/9WEBSTaGVYxq1CGx9OrrAA2jzEmVGFOQvOSmKGDGN9l6WETt2UWhDHQX4
-xm66+/eDzRZn4Q+UYWS0OqLFsjQuiBvYjv3pw1PqrlA+HNRDODB2tD8WXLQbvc6N
-rm8gcd4m6blp/8KqvqgZ6tHxF7XYNZjNQiYx7cO8jbc+YS/SGUja2dRmNpxsHr7M
-Qt1XGjq9S70/MXGohZxebCvFyhX3jhDqkBgV8SQ36/BlXdaNPZTPP7K/DRkHUC6+
-pLcGc9l/eltj4b0s
+MIIFrjCCBJagAwIBAgIQBR1pRhq0bllxdvRn+cLTeTANBgkqhkiG9w0BAQsFADBc
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMRswGQYDVQQDExJUaGF3dGUgUlNBIENBIDIwMTgwHhcN
+MTgxMjA0MDAwMDAwWhcNMjAwMTAzMTIwMDAwWjAaMRgwFgYDVQQDEw93d3cuY2Fu
+dGlrYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDN74c2b9L7
+MUSbN0Bl/tW+50BAAyubuEH5+rXsoggMSoO7WECK2ThLM33DfPPdzaNMxq7QzEZp
+FypOGr0X4K+ooF7+RnbewAw2TCy+ilI/ihmsnuHOcPN2SpjnTW5cUYwFdIrgqSLr
+g3hsmlMePGqfegO1EbwCKekgln3eWvxWdym968RpNjirg42p2dY2KEm7MygaWabw
+ccrNsF/2/07ovBxNbbn0lDtIWFr5x7AbXvfGaNEszbNl5WFVZO0kD0828F3itObE
+rJ1BqbeMN3Lk5Z18/X+gy6VbKjfZxglDZ4n4fraOoGwiVwTjOdwLjS+YuX5sDeaX
+EX204nUhgL7pAgMBAAGjggKsMIICqDAfBgNVHSMEGDAWgBSjyF5lVOUweMEF6gcK
+alnMuf7eWjAdBgNVHQ4EFgQUMHWOc8cZNoKsyzS8Hpq0aRM3+eYwJwYDVR0RBCAw
+HoIPd3d3LmNhbnRpa2EuY29tggtjYW50aWthLmNvbTAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDoGA1UdHwQzMDEwL6AtoCuG
+KWh0dHA6Ly9jZHAudGhhd3RlLmNvbS9UaGF3dGVSU0FDQTIwMTguY3JsMEwGA1Ud
+IARFMEMwNwYJYIZIAYb9bAECMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRp
+Z2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQIBMG8GCCsGAQUFBwEBBGMwYTAkBggrBgEF
+BQcwAYYYaHR0cDovL3N0YXR1cy50aGF3dGUuY29tMDkGCCsGAQUFBzAChi1odHRw
+Oi8vY2FjZXJ0cy50aGF3dGUuY29tL1RoYXd0ZVJTQUNBMjAxOC5jcnQwCQYDVR0T
+BAIwADCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AKS5CZC0GFgUh7sTosxncAo8
+NZgE+RvfuON3zQ7IDdwQAAABZ3bc0PsAAAQDAEgwRgIhAMYcAQS/33tnZPlcvFUE
+9+ZotuPJK1kYRlruEM+6iD82AiEAzRY9ZYEyqpnKZ9uI0wXKMXgxsM17XsDNuaFi
+ntnQrqEAdwCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAWd23NHi
+AAAEAwBIMEYCIQD/x4+X1VXi04uXH95IefEZGGRk2Th0Y5NFMt4qizC48QIhAOoJ
+BdmAqT9t9jTqH78RAHLgDR2eudcEMKhHV3m3R3YTMA0GCSqGSIb3DQEBCwUAA4IB
+AQBNRcostZqnl7elU11VW1GIlXvBgGJbfMEuSrvnW1jSpObQYPc78P75S5UrG/vR
+bbIvfBbeBK1TZFwjtsMD5ClGu4/KqB7QfNSMG3jGv3WTt/GbFOIjDOXNxwaX71I5
+vqLgIbb/gXRVmaU7WrsRKAm8X9W1hYTgIMsBWjCKhEZr6UvzfpqAAla91zCID9Mj
+pZRl27oEU+qrqDrZg5Q8aqmfwzhYzGyzdVhShh1Dsq2w8jvzjgjPos1DNFW92EEN
+SMnYJkt88r8yqUsqUwcObOaqQ5zUVM3cRqE3UPwcvVXaohiS/lnCQSt4Klz7Hnr5
+9had9O+NCM+mD9TfHylIAUFD
 -----END CERTIFICATE-----
-subject=/C=ID/ST=South Jakarta/L=South Jakarta/O=PT. Tempo Inti Media Tbk/CN=*.tempo.co
-issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+subject=/CN=www.cantika.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
 ---
 No client certificate CA names sent
-Server Temp Key: DH, 1024 bits
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3120 bytes and written 506 bytes
+SSL handshake has read 4246 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : DHE-RSA-AES256-SHA
-    Session-ID: 923548CF4B449E5B808FA3E806A1011EBFA04BF95A0BC5AB96856F7BF4A72B11
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 78489D438580C071A29174E079E9FD86A06ED564DD17BC97708EFADD8BAAB33D
     Session-ID-ctx: 
-    Master-Key: F6F634E3C9481934866F36865862D0587F78A51D8B7B4A80C85DA3C3683602CCA73BF6ACB24D234C3A52F373D639825E
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472789835
-    Timeout   : 300 (sec)
+    Master-Key: 9D968DECAC2AD59E4B72A1B234A400425C416CCB14AD4F8C0782BA6ADFF9287E4FE1FBD6B476C091BAF316F9B79D23CC
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 98 d9 5b d5 77 a6 30 0f-60 34 04 fa 9e b2 4d 7d   ..[.w.0.`4....M}
+    0010 - 23 33 74 33 ee 7c 6b d4-e5 df 9a 2f f4 6c ca 73   #3t3.|k..../.l.s
+    0020 - a3 ca b5 8f 60 7f cd 61-c4 7c 83 ac 15 be 59 88   ....`..a.|....Y.
+    0030 - e5 d1 e7 b0 54 fc a0 7a-99 de ae f7 67 af a2 5f   ....T..z....g.._
+    0040 - 05 3e 5f 62 c8 7c 19 9e-82 70 f3 13 f1 36 4f f9   .>_b.|...p...6O.
+    0050 - 43 84 0c 12 ed 03 00 07-8e 04 78 31 db dd 7f 92   C.........x1....
+    0060 - 31 48 b5 33 47 39 53 8a-65 f1 a6 a3 77 3d e1 89   1H.3G9S.e...w=..
+    0070 - a7 3d f4 d8 43 5f 43 36-c1 04 c4 91 ae 6d 8b 2a   .=..C_C6.....m.*
+    0080 - f0 45 d3 65 58 01 90 f1-69 be 80 d5 65 33 10 fe   .E.eX...i...e3..
+    0090 - 5a f3 bb be 64 54 fc 72-9b 66 60 0a d7 cd be 29   Z...dT.r.f`....)
+    00a0 - e8 7e c1 a4 2c 0f 50 7d-50 27 01 4e 28 40 38 6d   .~..,.P}P'.N(@8m
+
+    Start Time: 1577475064
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

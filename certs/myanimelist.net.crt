@@ -1,48 +1,55 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
  0 s:/CN=*.myanimelist.net
-   i:/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEtDCCA5ygAwIBAgIQPNmMQRSOjh877yVQLotiDzANBgkqhkiG9w0BAQsFADBm
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UECxMU
-RG9tYWluIFZhbGlkYXRlZCBTU0wxIDAeBgNVBAMTF0dlb1RydXN0IERWIFNTTCBD
-QSAtIEczMB4XDTE1MTIxMTAwMDAwMFoXDTE3MDIwODIzNTk1OVowHDEaMBgGA1UE
-AxQRKi5teWFuaW1lbGlzdC5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
-AoIBAQCkaxPb+eYQGhBHRcU0shbsBaZwyafwHHMqfouC29qTkZVh8fU9guhLid+n
-Z01tOZRYEcm2p2XD+oP+H0P/p92NzQMFUgbbvc+o8gP7cclwHmaH54oykrfEGAeP
-oZZHSGNCUeR5Dw7QCPrqyYm7vy114slmIop6vF0EcO8CEbtvAJdg2d8Wh3wtPJh7
-cbooZEsqrgSL1mplRHmn2007YbBHiY+TlXh/dIURe2N0tAqJMT/SA/een0JnEPft
-hLw5DNcp6OTJxZNTry12+LhLot7bqTJ1vRMGUV245MBc4iO+j41FfCrAjXSY6AF9
-ZCrAtmLMGLK2+rjx9i3mMrTTP2y1AgMBAAGjggGmMIIBojAtBgNVHREEJjAkghEq
-Lm15YW5pbWVsaXN0Lm5ldIIPbXlhbmltZWxpc3QubmV0MAkGA1UdEwQCMAAwKwYD
-VR0fBCQwIjAgoB6gHIYaaHR0cDovL2d0LnN5bWNiLmNvbS9ndC5jcmwwgY8GA1Ud
-IASBhzCBhDCBgQYGZ4EMAQIBMHcwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdl
-b3RydXN0LmNvbS9yZXNvdXJjZXMvY3BzMEEGCCsGAQUFBwICMDUMM2h0dHBzOi8v
-d3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDAfBgNV
-HSMEGDAWgBStZSKFkNA746FJizf58QsdXxegdzAOBgNVHQ8BAf8EBAMCBaAwHQYD
-VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFcGCCsGAQUFBwEBBEswSTAfBggr
-BgEFBQcwAYYTaHR0cDovL2d0LnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDov
-L2d0LnN5bWNiLmNvbS9ndC5jcnQwDQYJKoZIhvcNAQELBQADggEBAASqRPAd8tu3
-vQZWsQc3uqDzBp8vEWSaI/TcoIE4PpaeE+TDWPIifrotjBR2sluy43jTzirjeuIX
-zv3TN7PshTESMlOk/9ZBCSbn3bL4S1w64MHt5yYCHuo2NsYgdZIlZOOsS7wXydV7
-fWnRkOoJ9O8LS4Uu2zua9sH1n4+EnPrUk5ZbBIFw+4ga99EI5h6mdZ7DyDwFE1Pf
-l9a0nNdugRlMg7PqhESnVT5q8KtyqWWDVVVyOYZRzuqMANUWwi5g1nD6DuC18j36
-mN6io31kDFSeWHbuT3pXPz2B5Mlp70+QRQWyjBQHcTAjK/vUhbiv91G8sTyFf3RI
-p+pXWlxWRSc=
+MIIFeTCCBGGgAwIBAgIQAhVTSd+9rK270jpZaF7WejANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTEyMjMwMDAwMDBaFw0yMTAxMjMx
+MjAwMDBaMBwxGjAYBgNVBAMMESoubXlhbmltZWxpc3QubmV0MIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsyGZFCEOF8LnJsExkJAyRyIt/4lKAncJ3Ra9
+pchr6OnMpm9B8g0fmhx30oNImlCjXcEJe/R3LDGx/N5Zq8WIpm98EUmSXamyM1l+
+a7sziQaaWSmIxX/e+70nFmU4Guh13MFGVBj/+A4+stGVugU+JnO8gdllizuUeKPt
+PGGNCmS8vcIEf/+49v7AbIgkS1ieUG0kUdpeY3cT4XgVYY13UI4nN8yVCA1ObcEm
+15vq0CBfO2dSLcLuLinR3b7VCTUNzxsluztZmTF6iPGsActJ2QG5FixwW/i5Eb4b
+rQMs8C2fAe9GjzByb3dhVu78aI9legxe8xWgjxzkXGl2duqftQIDAQABo4ICizCC
+AocwHwYDVR0jBBgwFoAUWaRmBlKge5WSPKOUByeWdFv5PdAwHQYDVR0OBBYEFHMj
+0JYBY54aBZZ5/hkQaJpF/JUxMC0GA1UdEQQmMCSCESoubXlhbmltZWxpc3QubmV0
+gg9teWFuaW1lbGlzdC5uZXQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnNj
+YTFiLmFtYXpvbnRydXN0LmNvbS9zY2ExYi5jcmwwIAYDVR0gBBkwFzALBglghkgB
+hv1sAQIwCAYGZ4EMAQIBMHUGCCsGAQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0
+cDovL29jc3Auc2NhMWIuYW1hem9udHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRw
+Oi8vY3J0LnNjYTFiLmFtYXpvbnRydXN0LmNvbS9zY2ExYi5jcnQwDAYDVR0TAQH/
+BAIwADCCAQEGCisGAQQB1nkCBAIEgfIEge8A7QB1AKS5CZC0GFgUh7sTosxncAo8
+NZgE+RvfuON3zQ7IDdwQAAABbzK8TYYAAAQDAEYwRAIgeNrQt/FKlQcScjy+RFVC
+E2VndSt9kV1GOjV4+9yQDx4CIHutMRWAHtTMVtk3RZbN4XMqQx/IL0JGmG4uHWON
+0mcTAHQAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFvMrxOJAAA
+BAMARTBDAiB/Oabl6Vkt+YDzZk2tT100c2ZN1GuUGw9hAGxOmu2oywIfVFgmVOx9
+QCEpdsSMgCuoTZIqGeZOVQqjHsVxgAniATANBgkqhkiG9w0BAQsFAAOCAQEApy7P
+H/7G7Zjcmkwdn1RFN/LHKXcjeVH6zj4rc7dGdgf7KRQ0OM+nw4MooBbIM8H44qw9
+55dVaS0REyOVx6fsVqgi3XV1Rg+HbmLaFTP0Ijh7sF6PU/qnVqoqycAnnVViyENW
+AlRJkK0g0N3b/7QH868oTm5Hx/Q8FEnul+0xIretTuo8EhxoVLpWIMIC17NVS9gg
+mE+bHptPchYMz9zYrzPrWiK3Z811btNUDuUzROcCvqHbsYJYutihGzR2QggVvLn8
+DxxGs06ZQo6fu7B8ruJS9mM8TNkGa/DO1OZsWteZ6pbX7h6egtbFqOelPt3wXxqJ
+PDiA2mJwgqiulG36lA==
 -----END CERTIFICATE-----
 subject=/CN=*.myanimelist.net
-issuer=/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA - G3
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3004 bytes and written 434 bytes
+SSL handshake has read 5504 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -53,27 +60,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 36276FC4417D2629EA9AB6347387A094167448417194825ABB01EADE8A5F0C06
+    Session-ID: 2A6CC342201DF62BAA417D626D2E60ADC3C8808DFDFB27C84B707FDAF6D3B710
     Session-ID-ctx: 
-    Master-Key: 69E2A2AF491D39B469F6199E04CD0DA4E71C9754F750967B464085E7392ED315A3810970B0434EAB2D7CECB4A8FFB361
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: AFF081A4E78C805627510DDFA7A163C2C68D6FD686DD4695338ECFCB08FE9C7E1203526578200553BDB2D4117A701CA7
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - 27 ce 4f 9c 5e 17 6e 0a-cd a0 c8 fe e9 0c 09 23   '.O.^.n........#
-    0010 - f0 c2 0a b4 4b ab 2d f3-2c ff b9 de 10 6b 6d 21   ....K.-.,....km!
-    0020 - 72 e1 11 e6 c6 22 8f a3-dd 19 d1 7c e9 4f ba 83   r....".....|.O..
-    0030 - b8 0f 4c 33 85 cb 96 0e-1e a0 b0 08 20 ad 43 a5   ..L3........ .C.
-    0040 - 0a 8c b3 3c e6 f1 43 37-53 ef 0a a6 02 71 88 4b   ...<..C7S....q.K
-    0050 - 9d c0 8b 39 f3 fa e7 e7-d8 c0 f1 e9 a5 f2 b8 5d   ...9...........]
-    0060 - 98 9c 60 ca 20 43 2b 1c-91 55 71 5f d9 b1 37 1f   ..`. C+..Uq_..7.
-    0070 - d5 97 78 19 8f 5e 6e 38-44 c3 a1 82 08 9b 77 4a   ..x..^n8D.....wJ
-    0080 - ed 8b 72 6c 77 ab 81 d9-3f 14 19 7e 6d 50 a1 c6   ..rlw...?..~mP..
-    0090 - 07 b7 4b 7f 91 2f 71 a7-ca 04 b7 f9 dc d3 f4 0f   ..K../q.........
+    0000 - f0 40 c8 e8 e7 f3 74 7c-f8 88 a9 43 81 91 0e 9b   .@....t|...C....
+    0010 - bc 2a 96 69 b0 7e 3a ad-10 f8 e2 59 0b 00 ef 4b   .*.i.~:....Y...K
+    0020 - 09 3c e5 b2 00 06 a8 ca-d8 88 55 61 c9 06 c6 b9   .<........Ua....
+    0030 - 77 fc 0b d1 53 0d 48 e4-ff 8c 5e 47 5e 46 28 46   w...S.H...^G^F(F
+    0040 - bb 46 f8 ec d7 d6 09 07-59 5f 9d 90 57 b9 44 83   .F......Y_..W.D.
+    0050 - fc d2 9e f3 a2 59 cf cb-10 d3 e0 be 78 2f 0e 9c   .....Y......x/..
+    0060 - 76 2c 74 dd 71 fb bc e4-c7 fa a5 9f 90 a5 8c 3d   v,t.q..........=
+    0070 - 22 73 23 82 89 0d 00 ce-13 af 77 03 01 53 ab 3f   "s#.......w..S.?
+    0080 - 19 74 62 5e 39 8b 92 30-3b 4c 89 51 f8 e0 9b 61   .tb^9..0;L.Q...a
+    0090 - b6 57 83 20 b4 75 bf 00-d1 f6 8f ff d5 93 d4 27   .W. .u.........'
+    00a0 - e5 41 fb be 05 0d 57 62-23 17 0b f2 52 ef 20 ee   .A....Wb#...R. .
 
-    Start Time: 1472789389
-    Timeout   : 300 (sec)
+    Start Time: 1577475178
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,49 +1,59 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=San Francisco/O=Slack Technologies, Inc/CN=*.slack.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=US/ST=CA/L=San Francisco/O=Slack Technologies, Inc./CN=slack.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE7jCCA9agAwIBAgIQJ85dBpYNN5a56Pa7AA0t6TANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwMTI2MDAwMDAwWhcNMTcwMjE4MjM1
-OTU5WjByMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UE
-BwwNU2FuIEZyYW5jaXNjbzEgMB4GA1UECgwXU2xhY2sgVGVjaG5vbG9naWVzLCBJ
-bmMxFDASBgNVBAMMCyouc2xhY2suY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
-MIIBCgKCAQEA34++uRDAttV+Kk7pQyryqQDBFBh3jqiqK+sXWj22peZJpuXXuIvf
-9/sZykydlypTjipopgJqiyK0ui+Rrc05uhlFg8NfUxu5uibG1J02N1oA7gDJmB9V
-ijAYFixQXG6iMjrskp6PLdqGEPVELMDQvbNKwllKzN+gx0DW5F+HSTN7jviVThB8
-PgxZ0XPjQbbx63Ttc1XbPHsOiQvJGWuDxf2ZRN9tT7UZguriRtB5ieDrxvupX7Pp
-oWmchVqubWI3BnhgQl4H2Yu5kZb5LhieudDic0lag3dtrT1xdTwxt+pOjBA3c71j
-4+K+0DwXNfPb4x5mCsisRkYguwU76I6DewIDAQABo4IBrDCCAagwIQYDVR0RBBow
-GIILKi5zbGFjay5jb22CCXNsYWNrLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQE
-AwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNy
-bDCBoQYDVR0gBIGZMIGWMIGTBgpghkgBhvhFAQc2MIGEMD8GCCsGAQUFBwIBFjNo
-dHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVn
-YWwwQQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291
-cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
-BQcDAjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xafDBXBggrBgEFBQcB
-AQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5jb20wJgYIKwYBBQUH
-MAKGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MA0GCSqGSIb3DQEBCwUAA4IB
-AQCwg6K1Ro+cEyd37PK6Tz8Lq8eVypxT7oG/v1qMC8XXkmadZqI+LVxjltsn/sB1
-PgJzUeRbVZVYXUtsmFVhmSYStmXdK0xG4Vdkvu0eHpRvAp7hBRelCSMANd/l5k/z
-FCj6kVTnIej3zqT6yKHxxCb+alB2og18+yj3vUScUOPqJN8eeo3MYrT1RgbGu+dl
-vlK2bdxLFvvMQlj70d+qUwrm7Ayt0fMDqYoVah1XUDGFLfPZkHy8LG9V0qWuf+fQ
-f3+XJH9AuevP3QlfkyTFow3BtKkCbwkcToSA4p1kHm/N6tcQL8FsXdKQybZgqLzF
-ggLk2IYTdtzZsxYK96maAwmg
+MIIHGTCCBgGgAwIBAgIQBh3eOmYhdHQ4TTZVG+hHijANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTgwMjA4MDAwMDAwWhcN
+MjEwMjEyMTIwMDAwWjBpMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNV
+BAcTDVNhbiBGcmFuY2lzY28xITAfBgNVBAoTGFNsYWNrIFRlY2hub2xvZ2llcywg
+SW5jLjESMBAGA1UEAxMJc2xhY2suY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAqb0QCgBUkwHwC1AUT1N1W6wfbKSUZGSQ9Pf7EovdVIt1f8hrq5KZ
+OvVUaU/5qsS9UMm1GGqhjVrFqRKv//rZ/VaIThNaLVGQ3yTWCmnPxTZBvEOH1oLP
+i2V+XgDcX2drRUUfFELQy8EZVABwQu5Y3FluB1S7Nv1EH2tOsug5koMIdtMetUo/
+nKPzpuVC/4C/8oPN3+37cSriAImfxrifrrSCLkMscnwh6VcSuajnlCgw/iVcQzEE
+0OGht+KmFgIvjTWmKLx44MvkKqPUnvBudKk4k+9V527g9uNM0rxCVXWb1hf5w08I
+VvEC5/N78HrBl/q/e2oaygp95z/CQ5aJqQIDAQABo4ID1zCCA9MwHwYDVR0jBBgw
+FoAUD4BhHIIxYdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFPla7+E8XELNsM7Mg46q
+uGwJyd0tMCEGA1UdEQQaMBiCCXNsYWNrLmNvbYILKi5zbGFjay5jb20wDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBrBgNVHR8E
+ZDBiMC+gLaArhilodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc2
+LmNybDAvoC2gK4YpaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1n
+Ni5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0
+cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwfAYIKwYBBQUHAQEE
+cDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYB
+BQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJT
+ZWN1cmVTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADCCAfYGCisGAQQB1nkCBAIE
+ggHmBIIB4gHgAHYApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFh
+d2Q95wAABAMARzBFAiEA42uacv79w94og76vu/L9nzZJAsU0398rJZuBAY8EY30C
+IFCuAzawnV4AOtOEEp7ybdy/0SLBgZ7bBO3gs0EhkOYCAHYAh3W/51l8+IxDmV+9
+827/Vo1HVjb/SrVgwbTq/16ggw8AAAFhd2Q9zQAABAMARzBFAiBIhbiWxOmsFEmC
+2I6ZBg8Qb+xSIv0AgqZTnIHSzaR0BwIhALoijpGV0JB2xBgW88noxeHdCeqWXQ/a
+HPDAd/Q37M+WAHYAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFh
+d2Q+IAAABAMARzBFAiEA0p6Cq67EzeVhxYSpNJYU8Ys7Pj9c4EQPmPaAvnLDL0wC
+IBnOHO2DWoBi+LH6Z/uicH+4nbb4S15zV96NqFn9mXH0AHYAb1N2rDHwMRnYmQCk
+URX/dxUcEdkCwQApBo2yCJo32RMAAAFhd2Q/4AAABAMARzBFAiEA2C3VUu67nO5T
+e2Q8okaIkPftUdE+GHyKkZbqmJMg550CIBFZW53z4BUmtP4GDBEA85D/EnDBPOx2
+OC6cgoRW7sz/MA0GCSqGSIb3DQEBCwUAA4IBAQBUh0yybzRV4ednO+RM4uifnBkf
+S/9r4IHqvFyYgyofd1hygwD3i/pT10V+yF2teqL/FuwsInbjrvGpwFH/uiuhGgzc
+hJ5TOA0/+A/RYNo7sN7An9NBYvedJOlV0iDUhVuQpGefEY3VHqtg0qNu9YoAAl67
+pDCmmQQoNKHDdq2IFq8taF8ros+stqC+cPBipVLxXe9wAFnTkjq0VjB1VqKzLDQ+
+VGN9QV+gw0KI7opJ4K/UKOTnG7ON0zlKIqAK2pXUVsQa9Q5kMbakOk3930bGrkXW
+dqEt/Oc2qDvj/OFnFvaAiKhWUmwhu3IJT4B+W15sPYYBAC4N4FhjP+aGv6IK
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=San Francisco/O=Slack Technologies, Inc/CN=*.slack.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/C=US/ST=CA/L=San Francisco/O=Slack Technologies, Inc./CN=slack.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3030 bytes and written 434 bytes
+SSL handshake has read 3654 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -54,27 +64,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 9D4E7010CC494E830AB5B2EE29985BAFAD028C1E4CCEAFB0BC84A67EF1D6C3D7
+    Session-ID: 43EFDFD47EBB3B59A9741A130D82CA3B885D03125E404C51C5FBE84EEA37EAB3
     Session-ID-ctx: 
-    Master-Key: 86825883D1F4707B65BB2412745AD66D9F983C7B3441C3D69FA80B782DF2EEF534661B26016DE0C104AA107986E717A2
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 46F878BA0D73D8CBC66A807A7AED59247E0AE0565146CB4EE13A724E5B90E8F47CD5B9768F0D1D3A86D18C4689CFCC0E
     TLS session ticket lifetime hint: 10800 (seconds)
     TLS session ticket:
-    0000 - a3 f8 35 21 1e 85 c3 5e-bd 0b e9 90 95 a7 6c 04   ..5!...^......l.
-    0010 - 5d 57 f6 49 bd 36 64 17-54 94 c2 0a 47 ec ff 75   ]W.I.6d.T...G..u
-    0020 - 03 bb bd 2e 81 4a d3 97-7c eb 0d 58 b4 6c c1 d2   .....J..|..X.l..
-    0030 - 5b 46 09 34 e0 7c 12 63-d3 4d a4 86 27 23 9d 1d   [F.4.|.c.M..'#..
-    0040 - bf a3 7c 85 b2 08 77 7b-b4 e4 c3 8d 05 d4 41 e1   ..|...w{......A.
-    0050 - 70 59 69 b5 44 d8 64 9a-da 0d a6 90 67 2c 50 fe   pYi.D.d.....g,P.
-    0060 - 13 5c ed d8 23 cf 3b 99-6b 18 ab 55 a0 03 5c 5f   .\..#.;.k..U..\_
-    0070 - f2 2b f4 e2 9c a9 cf 09-bd 79 5f a4 58 60 5d ec   .+.......y_.X`].
-    0080 - 63 97 54 4c 12 13 48 2a-f8 37 0b 44 66 df 02 e7   c.TL..H*.7.Df...
-    0090 - 32 83 d4 b1 47 48 9f 86-e6 b3 6e 25 cf 8a a3 f5   2...GH....n%....
+    0000 - 7b 3f a1 53 ac 18 1f e2-8b 6a 5a 45 dc 83 c5 de   {?.S.....jZE....
+    0010 - ad bb e3 64 c9 51 eb 4f-40 e1 58 75 5f 71 e2 fb   ...d.Q.O@.Xu_q..
+    0020 - 40 3d 3e 50 97 c1 d4 7f-51 98 42 81 fc 0d 0d 86   @=>P....Q.B.....
+    0030 - 17 d6 ff 02 3a 53 c7 76-68 66 e2 dd 6c 30 0b 57   ....:S.vhf..l0.W
+    0040 - a2 0c 2e 87 ed 9f 08 0a-6f af 77 ed 60 69 96 68   ........o.w.`i.h
+    0050 - 2f 86 23 68 57 49 81 81-62 8b 0f b6 79 2b 5d e8   /.#hWI..b...y+].
+    0060 - 48 18 cb c1 2c ff c5 da-40 0f 17 27 96 47 a3 34   H...,...@..'.G.4
+    0070 - b2 b3 54 0f 20 e4 06 59-28 69 72 01 9b b3 df e3   ..T. ..Y(ir.....
+    0080 - cd 78 6c 23 04 d2 b6 91-a1 8c 89 0d 95 5f 6a 6e   .xl#........._jn
+    0090 - 5a 77 17 e0 dd 4b 82 16-f3 ee c4 4c 6c 66 00 69   Zw...K.....Llf.i
 
-    Start Time: 1472788145
-    Timeout   : 300 (sec)
+    Start Time: 1577475095
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

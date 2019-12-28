@@ -1,64 +1,62 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=5010624/street=760 Market Street/postalCode=94102/C=US/ST=California/L=San Francisco/O=A Medium Corporation/CN=medium.com
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Delaware/serialNumber=5010624/C=US/ST=California/L=San Francisco/O=A Medium Corporation/CN=medium.com
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
  1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHbTCCBlWgAwIBAgIQAXIJXg4/j1mj36u6AplJejANBgkqhkiG9w0BAQsFADB1
+MIIHOjCCBiKgAwIBAgIQCKfj9u8gdru4ZGLwtU+igTANBgkqhkiG9w0BAQsFADB1
 MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
 d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
-IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE1MDUyMTAwMDAwMFoXDTE3MDgxODEy
-MDAwMFowgfsxHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRMwEQYLKwYB
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE5MDgyMTAwMDAwMFoXDTIxMDkxMzEy
+MDAwMFowgc8xHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRMwEQYLKwYB
 BAGCNzwCAQMTAlVTMRkwFwYLKwYBBAGCNzwCAQITCERlbGF3YXJlMRAwDgYDVQQF
-Ewc1MDEwNjI0MRowGAYDVQQJExE3NjAgTWFya2V0IFN0cmVldDEOMAwGA1UEERMF
-OTQxMDIxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQH
-Ew1TYW4gRnJhbmNpc2NvMR0wGwYDVQQKExRBIE1lZGl1bSBDb3Jwb3JhdGlvbjET
-MBEGA1UEAxMKbWVkaXVtLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
-ggEBAMJ5uNNChXbZlJ3VYCwKWHysD7dm1c13FAmoCyj4rZzJ9KLJfr4LO8mkjSsE
-w1eLLjMZiu4DUt6YB36VVbe5bgAbBl6J5x/xzlVLDJqgJ78RoNQiiFaW6+LHsFaG
-DzeyaZwez8KiXK43HNMc1Wa4jNrrp45OuU04COV2OeWFa3P2Ja9ftQAe1wRkYTM8
-A7ayhnEiAmH2KaYnhSVTOL21DMrlKTITWk0+JPh20KUzDz8EEOmGHbrSrGtt0wEX
-m8e/Uk2WZ0MORaW2s3GpwILSofxdijqIqIjehWXyAgyMmmp4LcSpWkJD+3+2ItpB
-saW1JsTt8cFykVH4WWfVzxAbPA8CAwEAAaOCA3AwggNsMB8GA1UdIwQYMBaAFD3T
-UKXWoK3u80pgCmXTIdT4+NYPMB0GA1UdDgQWBBR7GHOgQf6cryEwueILh93bR51b
-AjAlBgNVHREEHjAcggptZWRpdW0uY29tgg53d3cubWVkaXVtLmNvbTAOBgNVHQ8B
-Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRu
-MGwwNKAyoDCGLmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZl
-ci1nMS5jcmwwNKAyoDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWV2
-LXNlcnZlci1nMS5jcmwwQgYDVR0gBDswOTA3BglghkgBhv1sAgEwKjAoBggrBgEF
-BQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzCBiAYIKwYBBQUHAQEE
-fDB6MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUgYIKwYB
-BQUHMAKGRmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJF
-eHRlbmRlZFZhbGlkYXRpb25TZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADCCAX4G
-CisGAQQB1nkCBAIEggFuBIIBagFoAHcApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+4
-43fNDsgN3BAAAAFNd6+NDQAABAMASDBGAiEA3U45pj8ApBLUdJKIVYcJAukS/X6O
-EfweA8kfKHzXlK0CIQDNcrIWQFeIaHZh7p4XUt8Z4BI5DIeIJxNtgKLFmU4DlQB2
-AGj2mPgfZIK+OozuuSgdTPxxUV1nk9RE0QpnrLtPT/vEAAABTXevjP8AAAQDAEcw
-RQIhAIpAHraUpwfmkF9jhfwt4AvuuCWczbB7DQV2/Z1vG9plAiBd/rSSce6w3lr2
-MD1NiEevNEcGwYWv42qyiegzv23XdQB1AFYUBpov18Ls0/XhvUSyPsdGdrm8mRFc
-wO+UmFXWidDdAAABTXevjkMAAAQDAEYwRAIgaZBcG7OVCgkuSND+oo+omw0oStJQ
-UrgaIKV9G/GzLigCIE095iASbajfLDFiSn1s9hF5J88FXT7ewsFrbeGL4+CJMA0G
-CSqGSIb3DQEBCwUAA4IBAQCPyLJimw9Q61D94Rc0L16kiOrB9C6vkrQ0vcFOqj5K
-WCWOv7/zXDLhukSWGRRX69x5g0Tsp8yu3ELPiVW7e9uPGqYjlRBvASQR5wbZ5yKt
-lTFqOrp9pRqxn1U/PWWWKjWdqugluQUGE/JwtB56VvSZMaU+nlU74Qyp4MCTqWLr
-VhdNx7h7Lxe6F4nby3RhVXysMFOk8maE/5afBNQn/Y0g8O/aofBnLAWyON6xYM8o
-tnYEoU45NQmGWqbnEu9mdJxZBIBrtMui9MWTLMzW/xY2BGPcU16fXZl48XBlQ9tW
-JDXfzrnuhS3Hum1JPBnlGx0zjPLpkS+VlK7rQ1pR6Poc
+Ewc1MDEwNjI0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQG
+A1UEBxMNU2FuIEZyYW5jaXNjbzEdMBsGA1UEChMUQSBNZWRpdW0gQ29ycG9yYXRp
+b24xEzARBgNVBAMTCm1lZGl1bS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQD0Q6WTHD847m3oDPYFSO9zI5js0q4kS/zw4wcOJdpwPUC0B9ufZwX0
+A5r8TALyh1Hlxk42EN4bxcpnuDYcHabxTVKTwKS7K3QgbmRoAqsjvFmcBEI1EqpK
+4f2WiuljlOEAbQN5IIkCSRyx3YNfrm82GZ4he+fhbJ0FTOvy86/hquBJ3AJxT/iZ
+hqYeoW7BuBodk0jiDkRZF7NjWOHxL52Rk9Nns1NnevPldgZajkRBg53GDSESGWmm
+biM4AMz7maUgrArYyRr3t6Ayb6heeydACvxJS4ZXCKuWr2vuQ+sQRDVP9sIeFr/m
+oih0mrYGYFPkOs8iHkqrDNb90iEVurh5AgMBAAGjggNpMIIDZTAfBgNVHSMEGDAW
+gBQ901Cl1qCt7vNKYApl0yHU+PjWDzAdBgNVHQ4EFgQUe//CpicS3HcCt9lK0w1X
+LSPBW+0wFQYDVR0RBA4wDIIKbWVkaXVtLmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0
+dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5jcmwwNKAy
+oDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5j
+cmwwSwYDVR0gBEQwQjA3BglghkgBhv1sAgEwKjAoBggrBgEFBQcCARYcaHR0cHM6
+Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAHBgVngQwBATCBiAYIKwYBBQUHAQEEfDB6
+MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUgYIKwYBBQUH
+MAKGRmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJFeHRl
+bmRlZFZhbGlkYXRpb25TZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADCCAX4GCisG
+AQQB1nkCBAIEggFuBIIBagFoAHUAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZk
+No4e0YUAAAFssb63SgAABAMARjBEAiAMntDEarpBgrkflvWb46rb5Zb+basHB9xP
+ijBZpkp76gIgPjiZGAEvXKRJb+o6sfywjH1tiDUJ+/RIYNzR3PGU8/EAdwBWFAaa
+L9fC7NP14b1Esj7HRna5vJkRXMDvlJhV1onQ3QAAAWyxvrddAAAEAwBIMEYCIQCn
+rhhVyZPWWrIDpaJTPYPpS63pN+wGRA9+LKNyq2Hz2wIhAIgNKpRaqcONYw9ps9aP
+VDfzkY2j9a8mFlPnT2X2EC2EAHYAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq
+/16ggw8AAAFssb64qwAABAMARzBFAiEA6OEWDZoHLW0Va4THuEnm5xWEtgGH6O9F
+D3qXdvTxXhcCIChrfuffciEeorQ1gs4cq+e351MBlYSs0WobaZj1QVEXMA0GCSqG
+SIb3DQEBCwUAA4IBAQAX0/WsA0HhEkrvkkOp9Zs2LCK3kJ0rY9TsrK7gQTV+Uxu8
+9WewGohPtjDEPheXuz7+LeEWZ/gDKU7JAQ80zDVXHyMFru5Id4WhYfvbh+BrY+d7
+beg5bAF8knnNWnvwWjs6iXXuuJVE2UVruL4g1AU0vT+aQ49vgYtTFMxVNPqkJeDb
+YsonNk2jn/rpz04bLvMJ1To3eMyWPOC4uMPgaG1Zmqn1ysm2inCWfCqxjgGO/S1B
+4JrHEaQHgEi13M29EUMqB3azOqcov4m1QZH0ygih6UFPol0+InswHa84ZTDmPOpt
+gSl68MrGmFqTfywSCfStLmMZJWjfW/3OHFzvGMX2
 -----END CERTIFICATE-----
-subject=/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=5010624/street=760 Market Street/postalCode=94102/C=US/ST=California/L=San Francisco/O=A Medium Corporation/CN=medium.com
+subject=/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Delaware/serialNumber=5010624/C=US/ST=California/L=San Francisco/O=A Medium Corporation/CN=medium.com
 issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3593 bytes and written 434 bytes
+SSL handshake has read 3694 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -66,15 +64,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: A8EA1DB696F362AFFBEB772CD28E879CBF7B8AC2B37D89F1F0975F152F02F4D8
     Session-ID-ctx: 
-    Master-Key: 386F0ED079C4646160387C1D99F2731385788BCCC32ACEC6C2C706A53F1880F78C94DD8C5B445E83D111FB82245806E1
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788223
-    Timeout   : 300 (sec)
+    Master-Key: BC4A33FAF93FF7AEA9E44D2A751925477BCB064163108F641A41B076ED9C8319D2C07C34974004E7BB30FAC0D708D784
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 35 7d e3 3b 61 c1 ba 91-9d 1b af c8 e3 29 99 51   5}.;a........).Q
+    0010 - 1d 1c 3a c5 f0 20 13 86-64 ca 2f 90 6a 83 b0 b9   ..:.. ..d./.j...
+    0020 - 66 2c 8a 98 3d 32 5a 23-4c 07 fd 49 9f c0 51 23   f,..=2Z#L..I..Q#
+    0030 - 98 4a d7 0e bf 4c ac 60-0f f9 80 ba 1f 32 41 11   .J...L.`.....2A.
+    0040 - 46 7d 1d 05 85 f0 f7 8d-e0 58 c3 0f 8d d7 8b 2f   F}.......X...../
+    0050 - 32 97 7c 6e 42 ba cb d0-77 29 d8 43 3c 36 b2 e8   2.|nB...w).C<6..
+    0060 - 4a 81 6f d0 15 d8 8b 31-41 3d d9 0f e8 b1 ed f9   J.o....1A=......
+    0070 - 1f 58 bd 3d c7 d0 41 14-f1 48 51 db 39 38 43 9c   .X.=..A..HQ.98C.
+    0080 - 16 34 31 4b 30 48 f7 fc-64 d8 d5 fc 94 39 6c 39   .41K0H..d....9l9
+    0090 - 30 81 16 12 2f ef 68 21-30 ea 72 a9 3d 9b c6 ee   0.../.h!0.r.=...
+    00a0 - c1 ca a1 81 73 a3 9d 06-1b 30 7b 38 f4 3f c4 40   ....s....0{8.?.@
+
+    Start Time: 1577474937
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

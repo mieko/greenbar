@@ -1,62 +1,52 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=GB/ST=Avon/L=Bath/O=Future Publishing Limited/OU=IT Operations/CN=clients.futureplus.co.uk
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
- 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
- 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 0 s:/CN=5gradar.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIG8jCCBdqgAwIBAgIQD4E9qgKVATeyKwn1nvUwcDANBgkqhkiG9w0BAQsFADBw
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
-d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
-dXJhbmNlIFNlcnZlciBDQTAeFw0xNDAxMjMwMDAwMDBaFw0xNzAxMjcxMjAwMDBa
-MIGKMQswCQYDVQQGEwJHQjENMAsGA1UECBMEQXZvbjENMAsGA1UEBxMEQmF0aDEi
-MCAGA1UEChMZRnV0dXJlIFB1Ymxpc2hpbmcgTGltaXRlZDEWMBQGA1UECxMNSVQg
-T3BlcmF0aW9uczEhMB8GA1UEAxMYY2xpZW50cy5mdXR1cmVwbHVzLmNvLnVrMIIB
-IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA015CWH2TtccAdZ8PCJQwApt5
-XI1VOoD2ONh25qtA6Xuour3zX2YkwQaY8w4c+c1ZIXiK2vz8twH5JpJz0ZsAOZa1
-PDUdO/Kv670aZjjO/biYusyFF7x+2kgWIsQz/f3eWA2e2XNCtBkS6Gv0PhLTFE9J
-sFD/mJXHcBs+S/46ZAB+SEIsFGOmcuWgy+EWCiLCeg0pXgizDlIp6v82ahWuybas
-je0j+MUrO1kumnOdhNq6u9VL0nG2q06YtKVf8eLaZdWa3HxNU8HhEVcLKrKr8G0n
-c82SuRrYZxvhN/2SUbWwDKDEAXR4GPVFlB2fHtsbJ+dLVzdUoC7Q+55qeeyz2wID
-AQABo4IDazCCA2cwHwYDVR0jBBgwFoAUUWj/kK8CB3U8zNllZGKiErhZcjswHQYD
-VR0OBBYEFJjL6Zi8oKJ3nrqvV9ueVdUvZjBwMCMGA1UdEQQcMBqCGGNsaWVudHMu
-ZnV0dXJlcGx1cy5jby51azAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
-BQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0dHA6Ly9jcmwzLmRp
-Z2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nMS5jcmwwNKAyoDCGLmh0dHA6Ly9j
-cmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nMS5jcmwwggHEBgNVHSAE
-ggG7MIIBtzCCAbMGCWCGSAGG/WwBATCCAaQwOgYIKwYBBQUHAgEWLmh0dHA6Ly93
-d3cuZGlnaWNlcnQuY29tL3NzbC1jcHMtcmVwb3NpdG9yeS5odG0wggFkBggrBgEF
-BQcCAjCCAVYeggFSAEEAbgB5ACAAdQBzAGUAIABvAGYAIAB0AGgAaQBzACAAQwBl
-AHIAdABpAGYAaQBjAGEAdABlACAAYwBvAG4AcwB0AGkAdAB1AHQAZQBzACAAYQBj
-AGMAZQBwAHQAYQBuAGMAZQAgAG8AZgAgAHQAaABlACAARABpAGcAaQBDAGUAcgB0
-ACAAQwBQAC8AQwBQAFMAIABhAG4AZAAgAHQAaABlACAAUgBlAGwAeQBpAG4AZwAg
-AFAAYQByAHQAeQAgAEEAZwByAGUAZQBtAGUAbgB0ACAAdwBoAGkAYwBoACAAbABp
-AG0AaQB0ACAAbABpAGEAYgBpAGwAaQB0AHkAIABhAG4AZAAgAGEAcgBlACAAaQBu
-AGMAbwByAHAAbwByAGEAdABlAGQAIABoAGUAcgBlAGkAbgAgAGIAeQAgAHIAZQBm
-AGUAcgBlAG4AYwBlAC4wgYMGCCsGAQUFBwEBBHcwdTAkBggrBgEFBQcwAYYYaHR0
-cDovL29jc3AuZGlnaWNlcnQuY29tME0GCCsGAQUFBzAChkFodHRwOi8vY2FjZXJ0
-cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEySGlnaEFzc3VyYW5jZVNlcnZlckNB
-LmNydDAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQCL5kuCvmpZXoks
-rTnoALhWKVU+YVwVyA3x7bZwXG2UxqIwIezUMJKXeMEimTl86lGvfEa0bVT9GcVn
-6L+vS+izM+LSu24MKSE7OYag+YRGWXdubpt+Scy0O3oFPOf2DUIofuQkhHIxdoFp
-L7UUCFGnfoMXORiwNipf0WgGFGRdgKdz7IqCT9VzaK4LNtjnVm2/r9VbeMP07LJS
-5q7fGUYRWXGXuV7GC5PPtXJC3SgnG98gpN703yYcJZidoZRu/2rEe7sjS6t376vM
-K0thLPbmy7OzBVaXtxPMuDJX3K3h4t3reradaHuKZcQV1UahfZnvUX6d9JjdBpo/
-VfMAl8Jx
+MIIFpjCCBI6gAwIBAgISA9jcr17/9im+GN5XdReVzthmMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMTEwOTAwMzlaFw0y
+MDAzMTAwOTAwMzlaMBYxFDASBgNVBAMTCzVncmFkYXIuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvwvmQhIxL+rwY8vhF51t8eYexQY5WWntnwGG
+EO6J2mRQ2V2/l6oJutNpPAYHQs1aLP9BsZ9WoILS9ApwoP8h5bsuCXKl1Dv8F9Ox
+xfy1Jo2wj1eo2JMIbe8ZcIk1kJINNKxi45mt5dLiJo1N9liCQHS8Bczg5zDWVRx7
+GMqPdVEpjs9pyU/YJ5Qn5YWb57JEfZK0YzSZTloj30bQeyfwhnEzX1SIcHQlIKJC
+M6e4JcuHBuMpOXMu+iWdgp9ZSM8p1o8KnsPjoJfz+O3qQmFoGrf/t6PqVNUuYFKD
+sT16c8ZsLyTXOnd0SqzfjzauaK9jjiZ2me26CXENg6SAiEWZbwIDAQABo4ICuDCC
+ArQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRvaJdfQIrXPhbO/8C1u8iJkvdNUjAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MG0GA1UdEQRmMGSCCzVncmFkYXIuY29tghdjb25zZW50LmNtcC41Z3JhZGFyLmNv
+bYIUbGl2ZS5mdGUuNWdyYWRhci5jb22CFXN0YWdlLmZ0ZS41Z3JhZGFyLmNvbYIP
+d3d3LjVncmFkYXIuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIS
+hBh1loFxRVgAAAFu9GdGKwAABAMASDBGAiEAkwz26B7Erye6eM+YYtk+vORO4BOS
+4R7GxGHEBhXJTGQCIQD9bsBWJoNMAhFjqqzV8Y88/9fcX4PiOFVsglK5B917XgB2
+ALIeBcyLos2KIE6HZvkruYolIGdr2vpw57JJUy3vi5BeAAABbvRnRhUAAAQDAEcw
+RQIgQ5dPEZjFIPm4fGUaQlxvubGSpZwLSTbADxL4rnwCXH8CIQD/Ts/6zI+bHevX
+Ktl+SMOw6mODMtTqx+1RYvRBIShT6DANBgkqhkiG9w0BAQsFAAOCAQEAAifdTCE6
+Ee17DUxDOKFPj5Wqb6IjWXgeLvdofcBIrsO7w6fm+40ajuDTkUtTbYv4F6N/wTjV
+W7xDkih4pJF3Mh03vJ1sPhCYKoWiy4MezssqsA37BvTq8yLTh7tlYSz9h4UYJMWC
+iE57F2U44phKq8RY53noADerZGJP1q00kEF1zv/GvJTfGMPmKu4VAJK4eB6v1FTX
+c1JDmSJk/iovuIFboXQMwtPohPBEwTx/JlJ4OeaBWg9W8C1ZLy+n6T/v27DNZ/+i
+x5VhIbzt+gkLc7JRGLKK97rABCsPpTWOPWEyJRfIbNpGos5c1MHd9t8joEkGXfUf
+RQb1fhN+uOT72A==
 -----END CERTIFICATE-----
-subject=/C=GB/ST=Avon/L=Bath/O=Future Publishing Limited/OU=IT Operations/CN=clients.futureplus.co.uk
-issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+subject=/CN=5gradar.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4677 bytes and written 490 bytes
+SSL handshake has read 3337 bytes and written 378 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA384
 Server public key is 2048 bit
@@ -67,27 +57,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-SHA384
-    Session-ID: 6BF87A3526B85650865C9119F495FEE883EC337D29E1B4B0B076FC5628BD755A
+    Session-ID: 44BD54AAC58BEA3D72564B1CB982384AE5494D61FBA2A87FA0C86A6109280A6D
     Session-ID-ctx: 
-    Master-Key: 36DCD58A152F9616784E518E0247598D219F398D5BDF27F1A0466D595555FC0072C2636C14513919985A9520A074041F
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: CD9FFBF7F2F649AFB500E5EBA4C50B9E788C341784C353BC65B6101E9A6C30DE6A169685AF2990F621A32132ED517CE5
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 14 68 71 42 23 ad ae 4a-39 66 cd a1 41 54 76 d4   .hqB#..J9f..ATv.
-    0010 - 78 7d c4 be 30 82 ad c2-37 e0 25 0e 46 89 eb 58   x}..0...7.%.F..X
-    0020 - 78 77 5f d0 ae a9 62 18-c2 93 d5 1f 32 81 a9 d0   xw_...b.....2...
-    0030 - 07 eb 5c 92 46 d6 8e 90-86 8f 6c 73 85 30 0a 9b   ..\.F.....ls.0..
-    0040 - 2a d5 ed c9 f5 d8 e8 b7-b5 ec 5d f8 11 60 51 69   *.........]..`Qi
-    0050 - 5e ea 8c 6a 49 04 b0 46-93 cc d1 41 54 d3 b6 cc   ^..jI..F...AT...
-    0060 - a9 6a 2a 00 e3 fc 61 e5-0b c3 1e 59 f3 cc c5 e8   .j*...a....Y....
-    0070 - 2f c5 02 73 ac a5 d3 cd-48 74 0d aa 9a 85 54 9d   /..s....Ht....T.
-    0080 - b2 0f 18 a9 0b 22 1b 9f-52 af 93 9d 2e b4 11 df   ....."..R.......
-    0090 - b6 13 a3 52 65 29 bc 90-c6 e3 65 8b 29 c7 05 f9   ...Re)....e.)...
+    0000 - e7 32 6b 65 0d a6 4e 76-f1 29 c1 ba 38 e9 d4 b8   .2ke..Nv.)..8...
+    0010 - 7e f9 e6 95 c4 27 9e af-cf 32 19 b7 b3 d1 10 ea   ~....'...2......
+    0020 - b5 1d f3 11 f8 8b 0b 41-45 f8 cf e5 d5 ca 3b c0   .......AE.....;.
+    0030 - 4d f5 b1 e5 51 46 e5 61-19 17 84 bc 1a 0f e1 d8   M...QF.a........
+    0040 - 9b b4 c5 ad 9b 1e e6 8e-d1 74 5d 57 2d 54 27 54   .........t]W-T'T
+    0050 - 9b 2c 8f fa 00 ec a5 d2-ba 1b 49 bb 7e 5e d3 6b   .,........I.~^.k
+    0060 - 4f 76 25 4b b0 f4 3f a5-ca b9 f1 1a 68 30 4b 41   Ov%K..?.....h0KA
+    0070 - ef 93 38 84 ca e0 c7 0e-dc 70 dc 2b d1 f2 06 21   ..8......p.+...!
+    0080 - 5f 8f 22 f2 0c 4d 6f f9-4a 32 25 7e e5 27 61 85   _."..Mo.J2%~.'a.
+    0090 - cc fc 57 59 59 6d f1 c5-a5 8a 77 13 ea 1f 28 02   ..WYYm....w...(.
 
-    Start Time: 1472790364
-    Timeout   : 300 (sec)
+    Start Time: 1577475492
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

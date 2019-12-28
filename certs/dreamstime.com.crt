@@ -1,59 +1,50 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=Tennessee/L=Brentwood/O=Dreamstime.com LLC/CN=*.dreamstime.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/CN=dreamstime.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIG6TCCBdGgAwIBAgIQIaHjHvsv7NYlyDSgFGXUdDANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTYwMjI0MDAwMDAwWhcNMTkwMzE2MjM1
-OTU5WjBtMQswCQYDVQQGEwJVUzESMBAGA1UECAwJVGVubmVzc2VlMRIwEAYDVQQH
-DAlCcmVudHdvb2QxGzAZBgNVBAoMEkRyZWFtc3RpbWUuY29tIExMQzEZMBcGA1UE
-AwwQKi5kcmVhbXN0aW1lLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
-ggEBANr5SU3ZZQyikdba7/vy7ZVnVFRxKkMvNyGqCWPy/Ca0P+wM+7PXr+EGUenB
-UyTGEROYLCnd8TCcJFDnLQm8+7q+muJiaXe1DYvr5s9jOMqohzdLDLdcOdfY5jaR
-XN5vRGIM3oTRc8RBJwkfdfZ5On+k8Gl4DhtwzqG6C+utWMORq5oMuNARvpsAXge1
-8VPSA2YOLNfSvzZi1dG100WG2oL08BuGekLTm0Txzk+S6ooDNslBXyz9QpIid0AN
-aH3eWRS+pTIS3OBrAaAFdQwtognX6pzPE/bqKWG36ZksdJ7mCe6EMDjdpPknjIYV
-ru9mu9pNQjJKs2wagZd77SJlAGkCAwEAAaOCA6wwggOoMCsGA1UdEQQkMCKCECou
-ZHJlYW1zdGltZS5jb22CDmRyZWFtc3RpbWUuY29tMAkGA1UdEwQCMAAwDgYDVR0P
-AQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9nbi5zeW1jYi5jb20v
-Z24uY3JsMIGdBgNVHSAEgZUwgZIwgY8GBmeBDAECAjCBhDA/BggrBgEFBQcCARYz
-aHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xl
-Z2FsMEEGCCsGAQUFBwICMDUMM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNv
-dXJjZXMvcmVwb3NpdG9yeS9sZWdhbDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
-BQUHAwIwHwYDVR0jBBgwFoAU0m/3lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUH
-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
+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
 -----END CERTIFICATE-----
-subject=/C=US/ST=Tennessee/L=Brentwood/O=Dreamstime.com LLC/CN=*.dreamstime.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/CN=dreamstime.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3558 bytes and written 434 bytes
+SSL handshake has read 3235 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -64,28 +55,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 437E349641B081A0CA88146D40FF40F61086A6CED7EC90E3FF84D4673B7BDAE2
+    Session-ID: ABE1DA98C1A22B477B053F43F641457161A9B9B84F30D527AA90F83823871353
     Session-ID-ctx: 
-    Master-Key: 019DE7BC8FCD6F1A3ECC7763DB4C2D8CD31F79A7C0A1755B8278E2136443D5AD8EDCD71183985D39EC02100FCC1789EF
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 8852C3C78A7A08BA7FEB9B08C63D78E0FE65BDE520549D88A33F2A7D34A08EAC3A81A0B9F102DEF1AC09737C0A2801AC
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - 10 8f df ad 96 5e 2a e5-cd 64 02 74 13 a7 16 7a   .....^*..d.t...z
-    0010 - 40 a2 3e 51 44 7c 6d 41-63 ab d2 72 3f 24 1c a6   @.>QD|mAc..r?$..
-    0020 - 28 b2 cf 96 db 22 a1 03-95 2d db 27 08 01 ab 78   (...."...-.'...x
-    0030 - 22 a6 31 32 d0 61 a0 21-04 59 3d 63 c8 34 e9 c5   ".12.a.!.Y=c.4..
-    0040 - 1e 26 d1 7c d4 47 6c f9-57 fc 80 da f0 9d a0 6b   .&.|.Gl.W......k
-    0050 - 51 ed 81 87 07 b2 26 57-4f a1 d3 9e da d7 28 fe   Q.....&WO.....(.
-    0060 - 1a 3a 30 1f a5 b8 55 a0-4f 82 e7 cc fd ea c7 cd   .:0...U.O.......
-    0070 - 62 9b 8d a2 88 0b 47 18-88 c0 3e df 6b 2a fb e1   b.....G...>.k*..
-    0080 - 87 32 37 4e 92 07 a1 05-0a a2 4f 67 a3 9f 7e ed   .27N......Og..~.
-    0090 - 40 4c 43 8e b3 32 cd f2-93 7b 6a 15 94 65 ac 2b   @LC..2...{j..e.+
-    00a0 - 06 29 ff 0e 4f e7 0f b7-76 14 32 d5 b1 8d 04 c7   .)..O...v.2.....
+    0000 - 36 a4 7f a9 43 2f 90 80-25 82 5f c1 31 91 1f a6   6...C/..%._.1...
+    0010 - 48 71 2a 46 c6 fb bf 70-7b 47 21 d2 fc 1e 36 0e   Hq*F...p{G!...6.
+    0020 - ba 33 c7 95 32 1e 38 49-e9 b9 27 d6 4c d3 37 06   .3..2.8I..'.L.7.
+    0030 - bb 96 a8 5d 87 1f c9 2a-3d 44 5d 38 5f 3c 7b 83   ...]...*=D]8_<{.
+    0040 - 41 be 7b 57 ef ac b9 f9-e5 3a 6a 90 31 63 b0 e5   A.{W.....:j.1c..
+    0050 - 3f f4 a8 9b 04 27 ea 9e-8e 03 b8 68 4a 91 a0 0f   ?....'.....hJ...
+    0060 - 51 5c 9f 4b 08 68 6b fd-d3 ef aa a3 a9 9d e9 39   Q\.K.hk........9
+    0070 - 87 54 fd b8 39 0f cc c7-ab 78 29 52 e1 b7 69 93   .T..9....x)R..i.
+    0080 - 68 5b 84 ba 15 5b 48 09-e9 07 1c 46 7f c4 42 c7   h[...[H....F..B.
+    0090 - cb a0 76 bc 85 8a 38 1f-63 a2 9a f1 a9 af 21 fe   ..v...8.c.....!.
+    00a0 - 88 15 cc 99 55 e6 6e 69-07 e0 14 7c f0 e3 1d c2   ....U.ni...|....
 
-    Start Time: 1472789995
-    Timeout   : 300 (sec)
+    Start Time: 1577475284
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

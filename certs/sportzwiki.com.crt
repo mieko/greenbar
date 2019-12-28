@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=bollywoodfirst.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdDCCBFygAwIBAgISA32BteNNlouL66iqoPXsDf5OMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMjgwMDMzMThaFw0y
+MDAyMjYwMDMzMThaMB0xGzAZBgNVBAMTEmJvbGx5d29vZGZpcnN0LmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANgeQ4W3eVz43V95Xv3vUBVF5Xwn
+A+PRHJebOWLZ4vA7tWfONZwTDKu0f8OtYehOHlq4h7+NgFkdtpOkHJvHy/KrDLGz
+nqrQUbDri7Hhq4GPX3ToGRQT4KZp6p7h3IqkX2/SX2gnJKptnmrgA8cOtBGecGuj
++tsRLaKn+3p5bUqKpmU657E05q2W4ftsO8wRvRraOeKqZp82eRyUng4C7FPluUNK
+f5hg3T3a0PQUxQnTYm7MLDzTbgSsB7kIgMtLeKYruyzKSJFlxmqKAzxTVdsQJ4S7
+Au5/KuwHbI2DxDT9v4EmYJSRy1keKJZBlcYP4I8rOCdBJ67DXc8Cq/Lg2+ECAwEA
+AaOCAn8wggJ7MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUA0qPwmKLpvEw/5MRQbZ6
+eaEV/v4wHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzA1BgNVHREELjAsghJib2xseXdvb2RmaXJzdC5jb22CFnd3dy5ib2xs
+eXdvb2RmaXJzdC5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEE
+BgorBgEEAdZ5AgQCBIH1BIHyAPAAdwBep3P531bA57U2SH3QSeAyepGaDIShEhKE
+GHWWgXFFWAAAAW6vpBzBAAAEAwBIMEYCIQDxZEkcrRQP5DeANyxhBFjV0qbDqr4L
+IM2hastbxvIL0gIhAPrgWpr5QEy0PsDsuuydK2AMTYNmojF5lmrHTtjcckPcAHUA
+sh4FzIuizYogTodm+Su5iiUgZ2va+nDnsklTLe+LkF4AAAFur6QczQAABAMARjBE
+AiBdi4ip/JtFGlHcAjnIKtvTOA5oZkpuqKZzW5DtremGkgIgedXU6y2UZW6F38S9
+hGVJe9+UyQWYNnU5q+Z0IYN1TQkwDQYJKoZIhvcNAQELBQADggEBAHwRsr3leSMU
+5c6JitIz2Ue4ISeEmmtgn5ukT6qJ6uhKqJQJuH2cnAnx/fqyJuOG80XsfsIhlADm
+I/Bp6xom4aJs6oaPN3U+qUNnAK3JGElYKsCN6128yGQWzJzfuCBt+cdSq5B+6cLb
+/3GGry5Fp9wIRjn7B/CmbCk+R9t1d19jjeLyuKFvfJzxltirX/w0qwk8kdKnK24k
+J5rbei8ElTqRWK/dC/aUtsnWtQK9JZ+tZUjCYc2LL5X9Gm+1AG6es5fwG68aCDBR
+QVyZkrcaL3ng+QJUpqy8wHU4sb/2Ho2qlOtMKu8/4Kmv/fznKiUD7+rC+Qo5nwgm
+VDL7w0QmsTg=
+-----END CERTIFICATE-----
+subject=/CN=bollywoodfirst.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 3214 bytes and written 289 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: EE804C2D5B5FD345830A93AD3EB9497FE0A6F21CBDA47FEDF978CED31C051E93
+    Session-ID-ctx: 
+    Master-Key: 2C0219FB2DC6EB2A450C197C1C917B51A610DB3759F001CB1EF1347E5A6AC5DAAE45D3692DE4BBD92C74BB644C3295E5
+    TLS session ticket lifetime hint: 3600 (seconds)
+    TLS session ticket:
+    0000 - 8d e0 50 9c 0e c0 90 1d-22 77 5e 3b f2 a0 63 6f   ..P....."w^;..co
+    0010 - 19 be 00 1b 17 84 7b 0d-20 53 31 9f 41 b8 3a 70   ......{. S1.A.:p
+    0020 - 12 28 46 cf 48 c0 07 88-cc 88 6d 09 3c 13 24 be   .(F.H.....m.<.$.
+    0030 - 2b a3 88 e4 05 3d 97 2c-94 36 e2 4b f5 e3 94 55   +....=.,.6.K...U
+    0040 - 4a 3f 89 1f ca 68 ad 7c-6c 38 33 fb 47 58 eb eb   J?...h.|l83.GX..
+    0050 - e6 59 18 12 2c 23 4f 89-ef 42 93 ca 66 b0 14 34   .Y..,#O..B..f..4
+    0060 - c7 95 16 ef 7a ae f7 28-28 44 be 83 a7 47 20 6f   ....z..((D...G o
+    0070 - fa 7a 27 61 2a 34 f9 80-f1 5d 41 7d bb a8 47 e7   .z'a*4...]A}..G.
+    0080 - 31 de b0 70 9e 70 66 42-dc 23 fe 09 5f 62 12 df   1..p.pfB.#.._b..
+    0090 - 07 dc b7 8a 39 0f 1f a2-0e dc c1 f6 bd ca b5 3f   ....9..........?
+    00a0 - c9 c3 3d 9a 9a ac 1e 8d-d7 9f ac 3a f2 85 6b 1b   ..=........:..k.
+
+    Start Time: 1577475758
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

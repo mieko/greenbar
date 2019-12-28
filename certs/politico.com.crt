@@ -1,80 +1,87 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=Virginia/L=Arlington/O=iRides, LLC/CN=*.politicopro.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G2
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=US/ST=Virginia/L=Arlington/O=Politico LLC/CN=*.politico.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEwjCCA6qgAwIBAgIQLw36eHylwcsKzY5Cy+/D5DANBgkqhkiG9w0BAQUFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzIwHhcNMTMxMjExMDAwMDAwWhcNMTcwMjA4MjM1
-OTU5WjBmMQswCQYDVQQGEwJVUzERMA8GA1UECBMIVmlyZ2luaWExEjAQBgNVBAcU
-CUFybGluZ3RvbjEUMBIGA1UEChQLaVJpZGVzLCBMTEMxGjAYBgNVBAMUESoucG9s
-aXRpY29wcm8uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu+27
-4dbrtHnuvj6mdRtQy08r2IiZtLzvvm7qofcj3uBp7CnoWS4ClCliNpTa4m9XCOVY
-TFY6SUvbvIyJRZl1mD9rUFspH+byBeSDzACw6YWoeS7m6ov8Aeoanu1lYTD3WPeG
-8b95J3V6NCJnL4me92FuSnTVvwPDqq9RnNF/2ktwUgmPqw6OoDnt8o5kUcrnv853
-s5a+uQH/M9yjls2Uq+MHtdJuNmJryQnngMyKty+Xyzbb+ZojFHrNxXtPWnjJ7EZX
-fuFCgQcji7gBiqCax6YgTxkutGyvpzfNQe5WAj4dzHGkgkLpOa58yRPQTiXes9PN
-SsMJ4uo1hss24jb1wwIDAQABo4IBjDCCAYgwLQYDVR0RBCYwJIIRKi5wb2xpdGlj
-b3Byby5jb22CD3BvbGl0aWNvcHJvLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQE
-AwIFoDA6BgNVHR8EMzAxMC+gLaArhilodHRwOi8vZ3Rzc2wyLWNybC5nZW90cnVz
-dC5jb20vZ3Rzc2wyLmNybDBMBgNVHSAERTBDMEEGCmCGSAGG+EUBBzYwMzAxBggr
-BgEFBQcCARYlaHR0cDovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL2NwczAd
-BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAUEUrQcznV
-W2kIXLo9v2SaqIscVbwwcgYIKwYBBQUHAQEEZjBkMCsGCCsGAQUFBzABhh9odHRw
-Oi8vZ3Rzc2wyLW9jc3AuZ2VvdHJ1c3QuY29tMDUGCCsGAQUFBzAChilodHRwOi8v
-Z3Rzc2wyLWFpYS5nZW90cnVzdC5jb20vZ3Rzc2wyLmNlcjANBgkqhkiG9w0BAQUF
-AAOCAQEAFiMXtuOm0SwiTMs+dKu2nlJmxCiEzkM+bFPRUaz6uGEsXo4zZ2d8oKdn
-Xx/g1HLgSyjT1kOoKBwItIvG2yqlrWxqsp2thzr0zCJ7c+zrcxz7OngxgXlJoYWA
-pXR+pldU8RgPOpc3aeIzX81R0w13j2Iymw5iIRh+yCCuRAttLmLpVmVmCZploUW6
-JJ28UlK2iADVvHpVVuf7hi85P799hMGQuTSSMTg6oNeikscju4MUAAhhbbElUhJ4
-YZfnF5SqL5W0gLb9nZCZ2bLpF5XcHVaVpMIRTgCrdGHI3ESzcjPZxdBghvYLkK3Y
-vVmuwkHs77ZL3/odyogiDN0oPXoUAA==
+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
+mzRk1At8rPBcfg==
 -----END CERTIFICATE-----
-subject=/C=US/ST=Virginia/L=Arlington/O=iRides, LLC/CN=*.politicopro.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G2
+subject=/C=US/ST=Virginia/L=Arlington/O=Politico LLC/CN=*.politico.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3029 bytes and written 442 bytes
+SSL handshake has read 3626 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : ECDHE-RSA-AES128-SHA
-    Session-ID: 76A8C559036A0A60E5484496516501EBE91AA6423384B2306C43A829390CF287
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 321517866D7AB576AEB61B20D23BA49EDB19ABF023B81F431C166F80C70BFCEB
     Session-ID-ctx: 
-    Master-Key: 8CB326AED1C2FBCF9F450F95AE4A792790B250A30F4AA8A1DD12EEDAF85462B188990957243B0304401E9A7DFEF1939F
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 7200 (seconds)
+    Master-Key: 19B3EF30F78F1B8188F0492B999DB0C5DBA1CBDCC996FCE0589302C8EBEEC9A175BBFA31CBFD1947AC17864FCD5E73CD
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - 18 7e 9c 25 a9 07 5a 3b-b4 16 33 49 3b 61 e7 df   .~.%..Z;..3I;a..
-    0010 - 16 03 3d 98 70 96 8d 21-71 58 43 33 0b a7 97 8e   ..=.p..!qXC3....
-    0020 - 50 ed 64 4c 5c 7f d3 d7-6c 63 ad 63 e9 ab 30 ec   P.dL\...lc.c..0.
-    0030 - 8f 91 36 34 f1 36 07 73-f6 44 f8 af 01 f2 1d 33   ..64.6.s.D.....3
-    0040 - 50 84 d0 0e b0 7d 53 22-c4 31 65 33 0e f2 85 66   P....}S".1e3...f
-    0050 - e2 a7 85 38 50 db 53 05-05 b8 92 83 10 cb 00 22   ...8P.S........"
-    0060 - 06 04 0a a5 38 4e 8f 38-02 71 0d da 5e 0a d4 be   ....8N.8.q..^...
-    0070 - bc fc 15 71 99 0f 4e f0-c3 99 3d 98 5e 91 40 06   ...q..N...=.^.@.
-    0080 - 92 fd 92 a5 2d 93 bf b5-41 42 69 e2 f8 99 3c 0b   ....-...ABi...<.
-    0090 - 4c 20 7a b9 93 0a 5d 5c-2b 21 c0 24 ba ad 05 77   L z...]\+!.$...w
-    00a0 - 5b 93 99 85 2f e9 eb 33-c6 8a 4a 30 ab 02 5d 4a   [.../..3..J0..]J
-    00b0 - 24 c9 dc ea 74 db 4a 58-9d be 1d 9a 52 d3 98 c3   $...t.JX....R...
+    0000 - a5 25 96 e5 36 4b aa ce-7b 8b e5 ce 9f c3 70 26   .%..6K..{.....p&
+    0010 - 5c 47 fd 54 d2 03 38 b1-1d 3a ab 56 02 c7 fd 23   \G.T..8..:.V...#
+    0020 - 2a 8f d0 f2 67 81 c6 71-76 ca 3a 04 dd 55 8c ff   *...g..qv.:..U..
+    0030 - d1 17 f9 81 8c 96 33 69-5c db c2 e6 e6 27 af f5   ......3i\....'..
+    0040 - 53 0a c4 39 b0 87 97 a5-ed 02 52 63 64 13 ef 22   S..9......Rcd.."
+    0050 - 32 87 ed 0f f3 1a 31 8c-1c a5 22 53 1c a4 30 5f   2.....1..."S..0_
+    0060 - 27 e9 e5 55 0e 69 86 f5-04 15 5a 57 51 be a5 81   '..U.i....ZWQ...
+    0070 - df 5e 45 86 83 66 a1 60-14 4d 06 6a 30 40 e6 4d   .^E..f.`.M.j0@.M
+    0080 - 33 1b 42 a4 5f be 0b d8-ee b4 aa de c1 a1 15 ef   3.B._...........
+    0090 - 11 fc 3c 83 3f dd 9d 37-75 1a f2 b0 df 4e e3 e9   ..<.?..7u....N..
+    00a0 - 91 d7 1c a2 82 f6 18 86-33 a6 fe dc 05 01 34 a9   ........3.....4.
 
-    Start Time: 1472788546
-    Timeout   : 300 (sec)
-    Verify return code: 21 (unable to verify the first certificate)
+    Start Time: 1577475940
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

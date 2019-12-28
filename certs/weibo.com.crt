@@ -1,80 +1,134 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=CN/ST=Beijing/L=Beijing/O=Sina.com Technology(China)Co.,ltd/CN=*.weibo.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 0 s:/C=CN/ST=Beijing/O=Sina.com Technology(China)Co.,ltd/OU=Sina.com Technology(China)Co.,ltd/CN=sina.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust CN RSA CA G1
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust CN RSA CA G1
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE6DCCA9CgAwIBAgIQKxO/evFOsX9AbX7gQPGt9zANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDgwNDAwMDAwMFoX
-DTE3MDgwOTIzNTk1OVowczELMAkGA1UEBhMCQ04xEDAOBgNVBAgTB0JlaWppbmcx
-EDAOBgNVBAcUB0JlaWppbmcxKjAoBgNVBAoUIVNpbmEuY29tIFRlY2hub2xvZ3ko
-Q2hpbmEpQ28uLGx0ZDEUMBIGA1UEAxQLKi53ZWliby5jb20wggEiMA0GCSqGSIb3
-DQEBAQUAA4IBDwAwggEKAoIBAQDdSO1TuXdZSiY15ExhCjevY07pHMJAs1UhcHV6
-YUP+AuhfItMPNH6fgQoFX3kUcQBLfh7Yut/RagCmYMkKF1l96V3MqBU1ZiT7CfGc
-gNYAxPp4/bhq5yP0muQoteh1J8uRXcJszH1d/LmlP6mQwQdxsX/UMLaxItMnmb9b
-3BdTlRKINFyUhhQ9z8BA+VT4Fcwlh5uI1akL7c0bKlZOmpkzGg2bEQc+gh7vDOOS
-eLOaBZ/E2PN5cKYoratp9GZCbD55Oz8g64OmZ+VD0frXgqauzOkg4+GqNqOq6j1H
-ZZZ4k7eHZuefyxabEkRsoNSXN2cf1dmfUXLjqdBPZBBbYdSpAgMBAAGjggFrMIIB
-ZzAhBgNVHREEGjAYggsqLndlaWJvLmNvbYIJd2VpYm8uY29tMAkGA1UdEwQCMAAw
-DgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9zcy5zeW1j
-Yi5jb20vc3MuY3JsMGEGA1UdIARaMFgwVgYGZ4EMAQICMEwwIwYIKwYBBQUHAgEW
-F2h0dHBzOi8vZC5zeW1jYi5jb20vY3BzMCUGCCsGAQUFBwICMBkMF2h0dHBzOi8v
-ZC5zeW1jYi5jb20vcnBhMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAf
-BgNVHSMEGDAWgBRfYM9hkFXfhEMUimAqsvV69EMY7zBXBggrBgEFBQcBAQRLMEkw
-HwYIKwYBBQUHMAGGE2h0dHA6Ly9zcy5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0
-dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3J0MA0GCSqGSIb3DQEBCwUAA4IBAQBf9FHQ
-8rXbCX3QGtxgg0MwUmJd6rYb6uhtkHrMetk+zyWGncYf1wwlvzaJ94pXZ9Fgr6xP
-sxvAVzHy/qjodRhPn9ptB5ofn5OhWiig2dLs+MOaHS9D+KB7PNWLq7bc4VX1F5oj
-3KQTMyj7Q6tttYrDaytZwAibzdj5bSOhSrhMZeHw3khfvveLCivGgvC0ht7xHMhk
-RIdpgJG1Z55Car2ISxvkHfYeXgtW5px/SRVyq3wdF1WylpfR0Ww11tJwKPNDJg7S
-qxcFgRWq9GB1F5S0xhnqTekymOoed4dNyBG6BoMNw+wFgP+V6q5GPKTkpsgTt220
-JU6rJb4YXRXrJpaV
+MIIQOzCCDyOgAwIBAgIQA8hzBp+kvq6mbjj0/j5EfDANBgkqhkiG9w0BAQsFADBf
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR4wHAYDVQQDExVHZW9UcnVzdCBDTiBSU0EgQ0EgRzEw
+HhcNMTkxMjAzMDAwMDAwWhcNMjExMjEwMTIwMDAwWjCBijELMAkGA1UEBhMCQ04x
+EDAOBgNVBAgTB0JlaWppbmcxKjAoBgNVBAoTIVNpbmEuY29tIFRlY2hub2xvZ3ko
+Q2hpbmEpQ28uLGx0ZDEqMCgGA1UECxMhU2luYS5jb20gVGVjaG5vbG9neShDaGlu
+YSlDby4sbHRkMREwDwYDVQQDEwhzaW5hLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAM1dOO5rkr8sHmpCa5YdHCb/uV/x5Gw2Tpps6fy1bn02WQMc
+aToH/NE9eLPgf3kHCCDVttAhrpBm5CXhwFNSKLXiy614TaFWveGVriKZvqIx04UW
+3XZf7vLsD6K31ofGr1k4sbWA10H03JdqARzMHj4ecZEzwjzRLHvUpcMQniWPd6Z6
+oA9lWJ6sogJulB58e4aWy+FEot0v/OPBsDrGRvN8NDegLQqpmP82XcfSewojbpVE
+FUFaGLJVBggrCPzXfW5lorsPqNP7+VML8SagmcGBUEVKSKYQ+d1WJo5f+zTMALiz
+xjiFyUuMM7f4Eqj92PxIM6it84/YkYd1ODcFROUCAwEAAaOCDMUwggzBMB8GA1Ud
+IwQYMBaAFJGfXjEVrhCfrWDB98HMqkg0LwwmMB0GA1UdDgQWBBTcDg+FklQChcuu
+Z236TWThbFI6OjCCCYoGA1UdEQSCCYEwggl9gghzaW5hLmNvbYIMd3d3LnNpbmEu
+Y29tgg0qLnNpbmEuY29tLmNughN0b3AuZWR1LnNpbmEuY29tLmNughEqLjUxeGlh
+bmNoZW5nLmNvbYIddmlwLnN0b2NrLmZpbmFuY2Uuc2luYS5jb20uY26CDSoudC5z
+aW5hanMuY26CFCoucGFzc3BvcnQud2VpYm8uY29tgghzaW5hLm5ldIIhKi51Y2Vu
+dGVyLmZhbnMuc3BvcnRzLnNpbmEuY29tLmNughIqLm5ld3Muc2luYS5jb20uY26C
+DyoueW95by53ZWliby5jboIUKi5pbWcubW9iaWxlLnNpbmEuY26CGCoubmJhLnNw
+b3J0cy5zaW5hLmNvbS5jboINKi5kbXAuc2luYS5jboIHc2luYS5jboILc2luYS5j
+b20uY26CGCouZnR4LnNwb3J0cy5zaW5hLmNvbS5jboISKi5jaXR5LnNpbmEuY29t
+LmNuggsqLndlaWJvLmNvbYIYKi5jYmEuc3BvcnRzLnNpbmEuY29tLmNughUqLmZh
+c2hpb24uc2luYS5jb20uY26CFCouaW1wcmVzcy5zaW5haW1nLmNughEqLmVudC5z
+aW5hLmNvbS5jboIRKi52aWMuc2luYS5jb20uY26CECouc3Rhci53ZWliby5jb22C
+DSoubWl4LnNpbmEuY26CEyouc3RvcmFnZS53ZWliby5jb22CESoubWl4LnNpbmEu
+Y29tLmNuggh3ZWliby5jboITKi5ob3VzZS5zaW5hLmNvbS5jboITKi5waG90by5z
+aW5hLmNvbS5jboIKKi5zaW5hLm5ldIIUdG9wLmJvb2suc2luYS5jb20uY26CF3Au
+eW91LnZpZGVvLnNpbmEuY29tLmNughEqLmdndC5zaW5hLmNvbS5jboIKKi5zaW5h
+LmNvbYIPKi5iaXoud2VpYm8uY29tghppLmd1ZXNzLnNwb3J0cy5zaW5hLmNvbS5j
+boIQKi5jai5zaW5hLmNvbS5jboIZKi5pc2hhcmUuZG93bi5zaW5hLmNvbS5jboIa
+Ki5tbHN6cC5zcG9ydHMuc2luYS5jb20uY26CDmNyZS5kcC5zaW5hLmNughIqLmJs
+b2cuc2luYS5jb20uY26CF2lzaGFyZS5kb3duLnNpbmEuY29tLmNughoqLnV0aWxz
+LnNwb3J0cy5zaW5hLmNvbS5jboIYKi51ZmMuc3BvcnRzLnNpbmEuY29tLmNugg4q
+LnNpbmFlZGdlLmNvbYITaW1nLmRtcC5zaW5hLmNvbS5jboIYb3Blbi53ZWF0aGVy
+LnNpbmEuY29tLmNuggwqLnNpbmFpbWcuY26CEyoudmlkZW8uc2luYS5jb20uY26C
+GSouZmFucy5zcG9ydHMuc2luYS5jb20uY26CE2x2c2hpLnppeHVuLnNpbmEuY26C
+Cioud2VpYm8uY26CDyoud2F4LndlaWJvLmNvbYIZKi5zYWdhLnNwb3J0cy5zaW5h
+LmNvbS5jboISKi5jYW1lcmEud2VpYm8uY29tghphcGkuc2xpZGUubmV3cy5zaW5h
+LmNvbS5jboIlYWRtaW4ubmlrZWNoYmwyMDA4LnNwb3J0cy5zaW5hLmNvbS5jboIN
+Ki50di53ZWliby5jboIUKi5zcG9ydHMuc2luYS5jb20uY26CDyoudXMuc2luYWlt
+Zy5jboITKi5iaWdkYXRhLndlaWJvLmNvbYIUYWRtLmxlanUuc2luYS5jb20uY26C
+ESoucGF5LnNpbmEuY29tLmNughAqLmRhdGEud2VpcGFuLmNughgqLmFwaS5zcG9y
+dHMuc2luYS5jb20uY26CGWkub2Rkcy5zcG9ydHMuc2luYS5jb20uY26CGioubWF0
+Y2guc3BvcnRzLnNpbmEuY29tLmNughIqLmZ1bmQuc2luYS5jb20uY26CEnd3dy5z
+aW5haW1nLmNvbS5jboIPKi5zanMuc2luYWpzLmNughNhbGwudmljLnNpbmEuY29t
+LmNughMqLmFkYm94LnNpbmEuY29tLmNughZ2LmZlZWQubWl4LnNpbmEuY29tLmNu
+ghkqLmRhdGEuc3BvcnRzLnNpbmEuY29tLmNugh5hZG1pbi5mb3J1bS5zcG9ydHMu
+c2luYS5jb20uY26CCSouc2luYS5jboIZKi5nb2xmLnNwb3J0cy5zaW5hLmNvbS5j
+boIYKi5taXguc3BvcnRzLnNpbmEuY29tLmNughVnYW1lYXBpLmcuc2luYS5jb20u
+Y26CEyoubXVzaWMuc2luYS5jb20uY26CFGxpY2Fpc2hpLnNpbmEuY29tLmNughtm
+b3J1bS5zai5zcG9ydHMuc2luYS5jb20uY26CHyoubG9naW4uZmFucy5zcG9ydHMu
+c2luYS5jb20uY26CECouYWQuc2luYS5jb20uY26CFXMuaW1nLm1peC5zaW5hLmNv
+bS5jboIUKi5iZWFjb24uc2luYS5jb20uY26CDSouYXBpLnNpbmEuY26CIHRlc3Qu
+bmJhY29hY2guc3BvcnRzLnNpbmEuY29tLmNugg0qLmltLndlaWJvLmNughUqLmZp
+bmFuY2Uuc2luYS5jb20uY26CFCouaXZpZGVvLnNpbmEuY29tLmNughIqLnRlY2gu
+c2luYS5jb20uY26CCnNpbmFpbWcuY26CFWludC5kcG9vbC5zaW5hLmNvbS5jboIZ
+Ki5pbmZvLnNwb3J0cy5zaW5hLmNvbS5jboITb3Blbi5ib29rLndlaWJvLmNvbYIP
+Ki5hcGkud2VpYm8uY29tgg8qLnV2ZS53ZWliby5jb22CFmNsdWIuc3RhcnZpcC53
+ZWliby5jb22CEyouZ3JpZC5zaW5hZWRnZS5jb22CEWkuc3NvLnNpbmEuY29tLmNu
+giFhZG1pbi5ldXJvMjAxMi5zcG9ydHMuc2luYS5jb20uY26CEyoucGFzc3BvcnQu
+d2VpYm8uY26CEyouYXN0cm8uc2luYS5jb20uY26CEiouYXV0by5zaW5hLmNvbS5j
+boIMKi5jai5zaW5hLmNughIqLmNoZW5nZHUud2VpYm8uY26CFioubGljYWlzaGku
+c2luYS5jb20uY26CCXdlaWJvLmNvbYIOKi5zYy53ZWliby5jb22CGW1hdGNoLmxv
+dHRlcnkuc2luYS5jb20uY26CCyouc2luYWpzLmNuggR0LmNughIqLm1haWwuc2lu
+YS5jb20uY24wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2VydC5j
+b20vR2VvVHJ1c3RDTlJTQUNBRzEuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5kaWdp
+Y2VydC5jb20vR2VvVHJ1c3RDTlJTQUNBRzEuY3JsMEwGA1UdIARFMEMwNwYJYIZI
+AYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9D
+UFMwCAYGZ4EMAQICMG8GCCsGAQUFBwEBBGMwYTAhBggrBgEFBQcwAYYVaHR0cDov
+L29jc3AuZGNvY3NwLmNuMDwGCCsGAQUFBzAChjBodHRwOi8vY3JsLmRpZ2ljZXJ0
+LWNuLmNvbS9HZW9UcnVzdENOUlNBQ0FHMS5jcnQwCQYDVR0TBAIwADCCAX8GCisG
+AQQB1nkCBAIEggFvBIIBawFpAHcApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fN
+DsgN3BAAAAFuyjyn7gAABAMASDBGAiEA+D8gMlNJ6CfHEz0HWfsWad3Qauy+I6z+
+KDCc/J+CBxkCIQDlYGDoQQ/NKvm5igFw7+l4riIbdG1Omh/eTNX4aBSbCQB2AId1
+v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABbso8qI4AAAQDAEcwRQIg
+c0/7RQnP3Sc9G+/ccWJ3607i3nwD0SkUcXeUNaLXmEoCIQCfVr/7LA5k21lNj9xs
+anPBJgFf+FifjInEKT5C6Tf1ewB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/T
+M5a1toGoAAABbso8p5kAAAQDAEcwRQIhAO83jSVL4X0uoCpbnQzK4WDYceA0zVUc
+wZ8e7ABED1X7AiB+D9qA6X3+Z1OPrxhOLvDhbmEgHlcJ80/xLNx0BuHfDTANBgkq
+hkiG9w0BAQsFAAOCAQEAJTExEGxK/eIQR0p4fm3pXBYRDFKxxiFaFNegauqVAeFq
+PSqmUbyeI7mvkvUeSJYVF3QDp2q4xgMicWMm8XBg/lehNP9HtI+n8Q3SZog+aKwR
+o3qFFc+gQPJ2Tw2M3XjhAUkzarIukTUzywbhMadgESMVF7McTArYO5cxrowBcESK
+2CyB9FFxWQgVkTvqLnG9qxT3vzc6YUXmYWJpKijbxp1XEg9wPDWryRT+5KiWSrHt
+Qm3h6TBUALduWhyIoIkFnYvEAK64MJG/00VqmIarA+eN4j+3GEA73nFfBmAwLs7O
+Iz8qU+4k0Qc+C1zBOIi5iQPTPFEuoQf01tkbhH1TDQ==
 -----END CERTIFICATE-----
-subject=/C=CN/ST=Beijing/L=Beijing/O=Sina.com Technology(China)Co.,ltd/CN=*.weibo.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/C=CN/ST=Beijing/O=Sina.com Technology(China)Co.,ltd/OU=Sina.com Technology(China)Co.,ltd/CN=sina.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust CN RSA CA G1
 ---
 No client certificate CA names sent
 ---
-SSL handshake has read 4151 bytes and written 622 bytes
+SSL handshake has read 5780 bytes and written 514 bytes
 ---
-New, TLSv1/SSLv3, Cipher is RC4-SHA
+New, TLSv1/SSLv3, Cipher is AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : RC4-SHA
-    Session-ID: 1B219F2224A6CEF0D80A758E19DAF881993B239398AE915E4547DC12D60019CF
+    Protocol  : TLSv1.2
+    Cipher    : AES256-GCM-SHA384
+    Session-ID: 773719DF5135210D87838E40C0EC9A092AA6EF1528DA15BF5D810367E4FE4FA3
     Session-ID-ctx: 
-    Master-Key: 86F3FE3994B707995BE7A18EB5C379010AAAEC0619DF17EBADAD0FD3521AA2D6F8364E779B6D98DA2D627061EAB39667
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 016496F10E3316550D7FA6D1290996B40A5AFB3BAAEF66E76C2327308550A6FA570A40C43C9DC016313F12BA2B64DB5B
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 7d a1 23 05 6f a5 46 3a-4b 4b 07 60 b7 4f 0e ee   }.#.o.F:KK.`.O..
-    0010 - 81 8b 0b bc 3c a5 d2 33-0c c2 8d 1f 24 db 86 63   ....<..3....$..c
-    0020 - 62 a5 80 8c 37 09 48 f3-d9 b7 0d 36 66 b4 74 20   b...7.H....6f.t 
-    0030 - 3a e9 ef f7 1c 77 6c 06-e4 48 57 bc b2 1b 2d c4   :....wl..HW...-.
-    0040 - c8 a0 61 b2 d1 1e 58 53-79 14 08 2b 2f 1a cb 6d   ..a...XSy..+/..m
-    0050 - fc f8 be 4c ce e9 f1 f7-2d a5 f0 e8 97 de f4 cd   ...L....-.......
-    0060 - 92 e5 fe 3f 86 55 e8 b9-10 06 4e 24 6e bb bb c0   ...?.U....N$n...
-    0070 - f1 80 c7 12 51 ee d7 6a-e2 df 3b 2d f1 93 67 a0   ....Q..j..;-..g.
-    0080 - f5 a6 ce af fb e1 58 2f-df 62 47 56 bc aa cf 5a   ......X/.bGV...Z
-    0090 - 7c c8 5d 1d ba 67 7f f7-d5 57 52 1f c7 e7 62 05   |.]..g...WR...b.
+    0000 - d0 05 f2 b4 50 5e e8 27-db 54 a2 68 c7 6d 16 54   ....P^.'.T.h.m.T
+    0010 - 05 ba 64 29 66 04 a4 03-51 5b 70 a8 07 d7 32 3d   ..d)f...Q[p...2=
+    0020 - d0 02 b5 55 e5 40 ec 97-e2 9c 51 47 d3 69 16 75   ...U.@....QG.i.u
+    0030 - 62 5c fa 50 48 29 46 90-ab fe be 2a 23 cf 30 20   b\.PH)F....*#.0 
+    0040 - 12 08 b8 d9 38 79 97 43-6b ce da 08 50 78 70 f3   ....8y.Ck...Pxp.
+    0050 - 85 05 a2 08 94 1f 26 a6-7d a0 6b 35 f4 1c a9 8b   ......&.}.k5....
+    0060 - 8c 23 37 53 c7 ac 67 16-2a 8e 28 25 27 54 dd 67   .#7S..g.*.(%'T.g
+    0070 - e9 22 5a ea c5 fc ca 8d-b3 48 55 57 c9 1c 6d 1e   ."Z......HUW..m.
+    0080 - b8 46 3b ed 7b ff bb a0-90 ed 2e 56 d9 b5 ed c1   .F;.{......V....
+    0090 - 67 4f 47 77 93 32 d1 dc-1d 95 80 74 ae cc 4e 10   gOGw.2.....t..N.
 
-    Start Time: 1472787827
-    Timeout   : 300 (sec)
+    Start Time: 1577474780
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,49 +1,58 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=FR/ST=Hauts-de-Seine/L=Levallois Perret/O=L Odyssee interactive jeuxvideo.com/CN=*.jeuxvideo.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.jeuxvideo.com
+   i:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+ 1 s:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFCjCCA/KgAwIBAgIQBn6E0AE7GWzQok5RRls2KzANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTYwMTIxMDAwMDAwWhcNMTgwMTIwMjM1
-OTU5WjCBiTELMAkGA1UEBhMCRlIxFzAVBgNVBAgMDkhhdXRzLWRlLVNlaW5lMRkw
-FwYDVQQHDBBMZXZhbGxvaXMgUGVycmV0MSwwKgYDVQQKDCNMIE9keXNzZWUgaW50
-ZXJhY3RpdmUgamV1eHZpZGVvLmNvbTEYMBYGA1UEAwwPKi5qZXV4dmlkZW8uY29t
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1F8mPxFY88/0fn7hqDWE
-nUIcgLtNi+D4cPc3E/uQhklOafEXl5wv6I4g02I5y016yH9lExxTzhi7FZ4Ohopg
-T5Ms6nyd6zzLxOAbYs0KDZhRwo/dkxn6GaPCq9ri3gsXHvCtU8bbfpFtAQUGi2Zs
-Cleql0C/726EqAY8u2hnytPuDZ7UixyT6VMmvNFCZmdhSp7rThR35Uc+RxMZJpTz
-nhgWczig8EIaa5RrX6E3pG+2Yw2r3Wr9TOmjsTqxgQNDECH5PrXvOoP7E/T57UTx
-a7phbSIxrsZN233eGz7zL5bOc5sWZhiAAMBOEufmEmwdp4KmQH1lGw7bTT02e/MM
-UQIDAQABo4IBsDCCAawwKQYDVR0RBCIwIIIPKi5qZXV4dmlkZW8uY29tgg1qZXV4
-dmlkZW8uY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIw
-IKAeoByGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3JsMIGdBgNVHSAEgZUwgZIw
-gY8GBmeBDAECAjCBhDA/BggrBgEFBQcCARYzaHR0cHM6Ly93d3cuZ2VvdHJ1c3Qu
-Y29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUFBwICMDUMM2h0
-dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdh
-bDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU0m/3
-lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNo
-dHRwOi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ24uc3ltY2Iu
-Y29tL2duLmNydDANBgkqhkiG9w0BAQsFAAOCAQEADZA9tnS2n7FwQ37iMZvocbON
-lTQh3+wVT1kt8tzPWccUD2o3RrMHeP+t7yqd109jhZfSNtXm5piJCU71P1lYTr9Z
-OTu4kePhRhQrlpBjZQV66xmtmI60IqkJI8ekaAFMTIW/EjEDn0cxoW1CTZKU09ej
-dxZrXqR0UAFrndczcYfV85FF2y/BqxxKtmNUYaGdcHvAhad5BG+JbMPWrCNO3kfC
-5Q+K7+Qtp3wjJ1FqTUhQvAbaIsXrH/oYf2ne15gBRiwveznpvzCZ7u2TDCqYs5QS
-cOAYxQd/kf9NpEeYeakmlpsrM/6zjJK57HvOnU1oHXW9fa75u+nhG8beXKYLiw==
+MIIGgDCCBWigAwIBAgIQZKhjNoGlLsPtk9zHvKJkVjANBgkqhkiG9w0BAQsFADBf
+MQswCQYDVQQGEwJGUjEOMAwGA1UECBMFUGFyaXMxDjAMBgNVBAcTBVBhcmlzMQ4w
+DAYDVQQKEwVHYW5kaTEgMB4GA1UEAxMXR2FuZGkgU3RhbmRhcmQgU1NMIENBIDIw
+HhcNMTkwMTE2MDAwMDAwWhcNMjEwMTIwMjM1OTU5WjBjMSEwHwYDVQQLExhEb21h
+aW4gQ29udHJvbCBWYWxpZGF0ZWQxJDAiBgNVBAsTG0dhbmRpIFN0YW5kYXJkIFdp
+bGRjYXJkIFNTTDEYMBYGA1UEAwwPKi5qZXV4dmlkZW8uY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuFw5fEKvo70oHnvOKIJJjPbdcrnAVktFLHPu
++LSKlHyEOG5v1VoZppCK8ovQpv84wP23RJuQXJcpELYSF1dJTFNOVM84K4tKWEgX
+Svv34dfpAXSVMzALFakX3c3Q6CXdc4iSmogn5fOVZ2gcsqrNT3C1uozwiAO44WXt
+f19aEI5wRyWZDb889hVwm/eVF28CM4npFQfExp4fwJmBQIaOFWu+uK4+aJ3Zwgdo
+Bx3fOQEPWnrpGkJvXfQjL4MCVSzPKxGEz3LeVgf8v168xErweFVcix6A1XxVyrK6
+r+qzI2Pa1Iesivlb1jycGv2JFbZ8S6+gMdRtHjC4OX/RM7glWQIDAQABo4IDMjCC
+Ay4wHwYDVR0jBBgwFoAUs5Cn2MmvTs1hPJ98rV1/Qf1pMOowHQYDVR0OBBYEFF2R
++U3qL49BuwfSbhCx4UvFQtUvMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBLBgNVHSAERDBCMDYGCysG
+AQQBsjEBAgIaMCcwJQYIKwYBBQUHAgEWGWh0dHBzOi8vY3BzLnVzZXJ0cnVzdC5j
+b20wCAYGZ4EMAQIBMEEGA1UdHwQ6MDgwNqA0oDKGMGh0dHA6Ly9jcmwudXNlcnRy
+dXN0LmNvbS9HYW5kaVN0YW5kYXJkU1NMQ0EyLmNybDBzBggrBgEFBQcBAQRnMGUw
+PAYIKwYBBQUHMAKGMGh0dHA6Ly9jcnQudXNlcnRydXN0LmNvbS9HYW5kaVN0YW5k
+YXJkU1NMQ0EyLmNydDAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudXNlcnRydXN0
+LmNvbTApBgNVHREEIjAggg8qLmpldXh2aWRlby5jb22CDWpldXh2aWRlby5jb20w
+ggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB1ALvZ37wfinG1k5Qjl6qSe0c4V5UK
+q1LoGpCWZDaOHtGFAAABaFbYrSEAAAQDAEYwRAIgOik3hA6s9RzKj3cMg+HVspdw
+UJblCjomNmhTTvbZh9wCIBkyYUNscrsPFklQwIhdDOsw3G91sTMcpAEbx1GNXvp3
+AHYARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAFoVtitSAAABAMA
+RzBFAiEAjaFrDFAJqtTxO7hLqA8YXCxwkbHcI5RiO5KxbegaSywCIEpkpwFuLyP8
+e6PyAmPvQUgRnDfyjKD76N/qFq6sb43uAHYAXNxDkv7mq0VEsV6a1FbmEDf71fpH
+3KFzlLJe5vbHDsoAAAFoVtitXgAABAMARzBFAiEA3VUVwqvm3jtU+/6fw1Nz92JC
+SMN7nFkNijd5ukutVqoCIAZuiYsJunR32mbKx9Zi8pDAKjD+u80pCAlzaBLO7aRv
+MA0GCSqGSIb3DQEBCwUAA4IBAQCTsF7IOXPLI+OJuME9cNj6iotJjxFyRWE7IesO
+tyOrG2yXcG0tQ7momPR33Z1AuAfwm64FjmzVsoj1akIGVNjXBvEfN4wlbATG3slb
+Oqly3VLbpnJJbAFhphYaf/7YlEA/K3lKKOvMmp/GymVts22+cIxSnJ5kWONpj5Or
+z7ffLunMUjW0A1arWXgg1CDeuvVj9FMdawqs6YrqyWWRby+lx52s8sWQmDFhE8ct
+eVwV9+WY7yzj4ktzDC3e63ni49AZCGkPlu/Ricz6QWPsYn8FkGCealT71aclpevp
+Rs2b1XLNk6jyBacFNSscqNfoiVdi7cUsdq+5JmNRl1nJ/vbs
 -----END CERTIFICATE-----
-subject=/C=FR/ST=Hauts-de-Seine/L=Levallois Perret/O=L Odyssee interactive jeuxvideo.com/CN=*.jeuxvideo.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.jeuxvideo.com
+issuer=/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3063 bytes and written 434 bytes
+SSL handshake has read 5101 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -54,27 +63,10 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: E7C62BBA1500030F1EC9AB1EDE42EACF9A8FE9248038D11C673074729CC25ED5
+    Session-ID: 95292415E6CD9D6BBE6F919988EB3892EF63575D2CFB5ADA0F7BF31C5DA05248
     Session-ID-ctx: 
-    Master-Key: 62BDD57C439436AF49CBB8C7E66234CAAE2D03FCA59B192E04E7C7213C6AB8BBF93DF9AC332698902F013FE20B643F0C
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
-    TLS session ticket:
-    0000 - 10 97 84 ea 67 ff 0a da-0b 2e 67 83 5b 57 ae a6   ....g.....g.[W..
-    0010 - fe bd d8 79 4d 4b 0c 78-5a 00 6b 79 3a ea cf 28   ...yMK.xZ.ky:..(
-    0020 - 74 bb 41 9b 49 88 17 38-15 da 41 98 42 9d 38 d2   t.A.I..8..A.B.8.
-    0030 - fa 01 0e 59 1c 55 6e 8b-ac 50 e7 22 51 6f 76 33   ...Y.Un..P."Qov3
-    0040 - 23 91 93 e5 3f 89 00 e3-a3 f8 9f 27 48 ac ed 72   #...?......'H..r
-    0050 - a6 2f ab 91 0c 2f bf 9d-8e fd 4b 0e d3 2f 68 83   ./.../....K../h.
-    0060 - 05 6c cb 40 a2 47 ec 2b-1f 23 0f 55 b8 86 34 55   .l.@.G.+.#.U..4U
-    0070 - 53 f6 2a c5 7a b6 31 f7-a8 7f 17 09 c6 8e 4f b3   S.*.z.1.......O.
-    0080 - 11 63 b5 1b 1d 1c b8 d7-0a 9a 7f bc 01 c5 aa 40   .c.............@
-    0090 - 45 c3 23 29 11 bf 5c 44-f3 ca 8a e9 50 c2 89 cb   E.#)..\D....P...
-
-    Start Time: 1472788819
-    Timeout   : 300 (sec)
+    Master-Key: D300288782E3DABC9F498420E6A8D81460A98D665A2E831F516AA8B6FEAABFD5CB5772E9633D57183A791FD2D4CE5E58
+    Start Time: 1577475759
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

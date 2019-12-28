@@ -1,53 +1,66 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/jurisdictionC=TR/businessCategory=Private Organization/serialNumber=436165 / 0/C=TR/ST=\xC4\xB0stanbul/L=\xC4\xB0stanbul/O=D-Market Elektronik Hizmetler ve Ticaret A.S./OU=Technology/CN=www.hepsiburada.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=TR/jurisdictionStateOrProvinceName=Istanbul/serialNumber=436165 / 0/C=TR/ST=Istanbul/L=Istanbul/O=D-Market Elektronik Hizmetler ve Ticaret A.S./OU=Technology/CN=www.hepsiburada.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFWjCCBEKgAwIBAgIQU5Zh6AE65lSYK3gx72VYsDANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTQxMTE5MDAwMDAwWhcNMTcwMjE3
-MjM1OTU5WjCB6TETMBEGCysGAQQBgjc8AgEDEwJUUjEdMBsGA1UEDxMUUHJpdmF0
-ZSBPcmdhbml6YXRpb24xEzARBgNVBAUTCjQzNjE2NSAvIDAxCzAJBgNVBAYTAlRS
-MRIwEAYDVQQIDAnEsHN0YW5idWwxEjAQBgNVBAcMCcSwc3RhbmJ1bDE2MDQGA1UE
-CgwtRC1NYXJrZXQgRWxla3Ryb25payBIaXptZXRsZXIgdmUgVGljYXJldCBBLlMu
-MRMwEQYDVQQLDApUZWNobm9sb2d5MRwwGgYDVQQDDBN3d3cuaGVwc2lidXJhZGEu
-Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA48IhZMMWnH30mMxu
-H34rBQk1LzjjkLzI6a4tlWlFqPSVsTiwtBirPPFPEGHIkf3/wVrog9eE2Or4lmaU
-02g+bdGLkbuQ2MwwpahKax7mzaSye3jj1E+rmfm6zZSw4ZR8VWaly4Q+y6s83vO5
-BfbD9O8UhqVYBxH6pybL1Bklt0nkNlmckpasC07A9FUANqYeTYcvECMZCYXmMRqW
-uYSjbUGDEqSxa0C5I6RAtttB+Mj7rs0j0wvgvf7QNV5SKmn7/ZCeSZqdqhPhZiqM
-6Y2Kx20SQuKRgyw3rfafbWfvTIvhH9soUFYPCCF2WhY9ao6vNQZCKlNP0fa5DjQi
-111dIQIDAQABo4IBbTCCAWkwHgYDVR0RBBcwFYITd3d3LmhlcHNpYnVyYWRhLmNv
-bTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAchhpo
-dHRwOi8vc3Iuc3ltY2IuY29tL3NyLmNybDBmBgNVHSAEXzBdMFsGC2CGSAGG+EUB
-BxcGMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1jYi5jb20vY3BzMCUGCCsG
-AQUFBwICMBkMF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBhMB0GA1UdJQQWMBQGCCsG
-AQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBQBWavn3ToLWaZkY9bPIAdX1ZHn
-ajBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9zci5zeW1jZC5j
-b20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9zci5zeW1jYi5jb20vc3IuY3J0MA0GCSqG
-SIb3DQEBCwUAA4IBAQBNaUhtMh/miP/E14zq5o0zK7l44vZxOi2OvA70jxfytTyL
-yAcjY0JeyrZVQkpWxcQxymzsSpfBAwDtN4vLQFad8stdyHDVtnxPk+QJZqxL/r5u
-xxygP/K/68JBRY+lyNvtVhGtjD9hJZIBZlZ3b+FWjnn7CvMxbDOeC39wPB3w98Bn
-XTMj4UhLWM/6k+9HgrGCnJH5DTDasDF2GsUIoUCS1odmklHPDHzAHOXAGDHGNTTs
-oHZqwq18k+QBL1TX+56LLQTlrXAKQx6+vGbOK+1e28ST+7dkUkYizxWUSQ41n+Wd
-blvD2a8pQSZ1ITagjHsne7Qoamkv/UYESi7eKbXF
+MIIIADCCBuigAwIBAgIQDzs+ijSuBsOdTQMTZhUR7DANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE5MDIxODAwMDAwMFoXDTIxMDUxOTEy
+MDAwMFowggECMR0wGwYDVQQPDBRQcml2YXRlIE9yZ2FuaXphdGlvbjETMBEGCysG
+AQQBgjc8AgEDEwJUUjEZMBcGCysGAQQBgjc8AgECEwhJc3RhbmJ1bDETMBEGA1UE
+BRMKNDM2MTY1IC8gMDELMAkGA1UEBhMCVFIxETAPBgNVBAgTCElzdGFuYnVsMREw
+DwYDVQQHEwhJc3RhbmJ1bDE2MDQGA1UEChMtRC1NYXJrZXQgRWxla3Ryb25payBI
+aXptZXRsZXIgdmUgVGljYXJldCBBLlMuMRMwEQYDVQQLEwpUZWNobm9sb2d5MRww
+GgYDVQQDExN3d3cuaGVwc2lidXJhZGEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAtaVEzxdjCAptipmDaChnmUrCIcGIGDOqS19mZIaaAzE26MhN
+zIMcaui5ebWJsv17sAx81NesinAOVCVVtkM2FJWX9QR8F+xi+jjGftt6oTXu7XK8
+Ntqit7z+Eznez+geOKaoNB491zZOdAHWUqLlLcOJ8d++bUgpnEvAb7G6v+7ePKmu
+BlDtwOb7yIdXZI/5mq450ixBqmhE3iGHroz8lOQI41fQawV66cxCjFTY43AzYBSf
+/QCWivehOj6xu24Z5VS5FLTUprlO9HDG/Zxizrl0efbm4i7gYLFJK0Q0GdS4Wd8K
+ki2kbHltdXQyKDZDOq5xMy4is36lmiMT0eENIQIDAQABo4ID+zCCA/cwHwYDVR0j
+BBgwFoAUPdNQpdagre7zSmAKZdMh1Pj41g8wHQYDVR0OBBYEFA8smkv2eioOJqxG
+Jk0DSQLKacjkMC8GA1UdEQQoMCaCE3d3dy5oZXBzaWJ1cmFkYS5jb22CD2hlcHNp
+YnVyYWRhLmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0
+LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5jcmwwNKAyoDCGLmh0dHA6Ly9jcmw0LmRp
+Z2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5jcmwwSwYDVR0gBEQwQjA3Bglg
+hkgBhv1sAgEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29t
+L0NQUzAHBgVngQwBATCBiAYIKwYBBQUHAQEEfDB6MCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5kaWdpY2VydC5jb20wUgYIKwYBBQUHMAKGRmh0dHA6Ly9jYWNlcnRz
+LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJFeHRlbmRlZFZhbGlkYXRpb25TZXJ2
+ZXJDQS5jcnQwCQYDVR0TBAIwADCCAfkGCisGAQQB1nkCBAIEggHpBIIB5QHjAHcA
+pLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFpAGU5+QAABAMASDBG
+AiEAz8T2SVRiT0NlOZhs5d21QOR5uz7VRJSUJPUL+8Nw+jcCIQDz0SpI4i4W/VuO
+cEDLWxepYtVoUSYJRPlczsJ2XMiNPgB3AFYUBpov18Ls0/XhvUSyPsdGdrm8mRFc
+wO+UmFXWidDdAAABaQBlOl4AAAQDAEgwRgIhAOTCKhApyPNkIxiwlqZqpydBeSyj
+f/Fuo5FlatGHkR5lAiEA5VHAUDcoZC97/1HEmcZlB0Nu2dChj+ahUfaDlKbPul8A
+dwDuS723dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9ywAAAWkAZToDAAAEAwBI
+MEYCIQDcDK43kvzU4/SE0eJdSSM9+AbeTgbkXDbRRzlO81BlYgIhAMmfkTjTed+k
+sCx+fL0+kbD9CxmDPEYNAUsqqAQE36DTAHYAu9nfvB+KcbWTlCOXqpJ7RzhXlQqr
+UugakJZkNo4e0YUAAAFpAGU6CwAABAMARzBFAiEApgWUIboEEncRto8wV0qpvvof
+DYkhaCrUu9OxpeYMo5wCICymkIj349JWdley32NF9Ms2++r4iDaZtS222rFXP7oX
+MA0GCSqGSIb3DQEBCwUAA4IBAQDXDbjle6WUbsl/9Kg6hPti2yXxF8XKsr5g9Yg4
+0OTqEngwaRWQm8MQB9Jz0PMb3H/fKMvqTJIqOMyaSWZ0kSGr5+EOX2nW9KEwFppG
+jrD1bKTjVi5+Lc0oOaF6zB9MYvrL30GCSZwtQO+ToqW/jLyN729MwpO7sv4l9tQc
+vVkEP0mVQ60KsRK/oZg/FI5ie73UIboond4LJOvDP02NIrnZGMDzBwn7nAhzObZG
+X729NPOjbsXZ3VHmVwj30kp+r1YO+ooWUeRgCE+5IAesPvW4Cb7jYB4wBaUdkE5I
++tzQRx2oR/SkgxW7pNBL+rkwiYElnXiXWh8QXiCw8+aeXkW0
 -----END CERTIFICATE-----
-subject=/jurisdictionC=TR/businessCategory=Private Organization/serialNumber=436165 / 0/C=TR/ST=\xC4\xB0stanbul/L=\xC4\xB0stanbul/O=D-Market Elektronik Hizmetler ve Ticaret A.S./OU=Technology/CN=www.hepsiburada.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/businessCategory=Private Organization/jurisdictionCountryName=TR/jurisdictionStateOrProvinceName=Istanbul/serialNumber=436165 / 0/C=TR/ST=Istanbul/L=Istanbul/O=D-Market Elektronik Hizmetler ve Ticaret A.S./OU=Technology/CN=www.hepsiburada.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4121 bytes and written 650 bytes
+SSL handshake has read 3816 bytes and written 378 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -55,15 +68,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-SHA
-    Session-ID: 4802FD8CEF4196AFEDB4DFF9C4A682C9DBC62C8F8C5D220A10DE29DBB6418105
+    Cipher    : ECDHE-RSA-AES256-SHA384
+    Session-ID: F3DF53F2EAFA3FDB0AF316732E9F44423A0F696F8A8157ED72311C16EAAD320F
     Session-ID-ctx: 
-    Master-Key: 4C4D6EC89A790456696FAE4CD721A464DED86A0C24EE6C7B42838CE27368E87613227E1F6296C1B654DED5B2B511B483
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472789417
-    Timeout   : 300 (sec)
+    Master-Key: 3E72E1C5C843A80A51333B5803007278C4EE95D099C15F4A662A7B1AEDB8BEBDBB9EBFFFAD3F6E9A4173569AA343CD59
+    Start Time: 1577475025
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

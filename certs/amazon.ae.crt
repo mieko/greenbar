@@ -1,0 +1,69 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=www.amazon.ae
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFhTCCBG2gAwIBAgIQCGxZQd+sF+D84TGAl5wtsDANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTA0MTUwMDAwMDBaFw0yMDAzMzAx
+MjAwMDBaMBgxFjAUBgNVBAMTDXd3dy5hbWF6b24uYWUwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC4tnvUBBVl/ViwcIMS3o5evYYFQ04TERbo5KE4E9q3
+4tU9CMMu3PmoAcx29RGhrfJUMZHbCYj7qpnuoZyzIyq6Qdt93SZEVQVCcIPvb0m0
+deVYB1XFk0X+S94QRmXhNxEN3bLSCg+NVhulWBQEKCdRP896lCkkNqH27g8zStj4
+8DNFlwZEfnM0Nbnn1rHKsy97uFLVmyjXL9WIWrXBY1tQa9P64du9EfcttKdgBL3O
+pl1sEhviqTm+TTjAa8GiBqsxR6391KJBj70lh2VQw6r6TImVhoE1NY3p8i36ESzq
+8qSZ/MtdXegMGRdZZ7D559cPyqEcMGwem2EIVRMWRM0BAgMBAAGjggKbMIIClzAf
+BgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUbG4IQf2k
+shI1kTJCLwkaxaq3kUAwOQYDVR0RBDIwMIINd3d3LmFtYXpvbi5hZYIJYW1hem9u
+LmFlghRvcmlnaW4td3d3LmFtYXpvbi5hZTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6
+Ly9jcmwuc2NhMWIuYW1hem9udHJ1c3QuY29tL3NjYTFiLmNybDAgBgNVHSAEGTAX
+MAsGCWCGSAGG/WwBAjAIBgZngQwBAgEwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUF
+BzABhiFodHRwOi8vb2NzcC5zY2ExYi5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUH
+MAKGKmh0dHA6Ly9jcnQuc2NhMWIuYW1hem9udHJ1c3QuY29tL3NjYTFiLmNydDAM
+BgNVHRMBAf8EAjAAMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYApLkJkLQYWBSH
+uxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFqIqwFiAAABAMARzBFAiEA9JLmg1wI
+m16uHT1u078iES6JpULF1xeRvOnXa92wxYICIH+vbHKQYeYmd1sYdpogDe/WW/df
+5uNfT88ZihVPiI+ZAHcAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8A
+AAFqIqwB/AAABAMASDBGAiEAi1P697VCbRV1Ltlx+g2qZlTnmujp/QRntC3fHbZ7
+XTwCIQDvpvbwXof1jYHY0+/uVCv1/BxSuRsdRVlzCntWkF8S2zANBgkqhkiG9w0B
+AQsFAAOCAQEAZVKZqt6xztT7VOcAf7XUXS5F9NUkpc8V4iH450xjXnV6bFzjiu2l
+I04xoWCA4O/I6A04G7PADMgCAX0hq4wiMmoJ4zJQjnf4ujgfuoVwY2Drwr0xysy1
+8PRj5GQPebD5hOicmcVamyyTF8B6I9CFm1BbecODSTFTwrjBohVkwH/wdFExJBuV
+FV7lzBaRGn81ORw1Ib6hjlEiMR43AdDxgAM+uyIYn76sAZgOxnLe4/g3DmLInRxk
+DoR2GFUcUczHBptKUpNuKuRKI2ka1VMTzM7Vlmg+jUIVlhZg9YGxyS7CaARGdGNT
+w8Uwwla+3zlFhffGN/eKKeamAFuGmywOvw==
+-----END CERTIFICATE-----
+subject=/CN=www.amazon.ae
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5353 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: E8691381D2424C4CDCAFAFA4952EA185C4E869EAAAE0B17DB00720B18C2EF938
+    Session-ID-ctx: 
+    Master-Key: 6BA466C28CB6B4C750EE0B7131D297317E6067F375787627982AE8E87E3E2D8AAD9D1A67A9A04AE124191617B1A10E37
+    Start Time: 1577475388
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

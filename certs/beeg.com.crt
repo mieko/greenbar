@@ -1,4 +1,4 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.beeg.com
@@ -12,21 +12,21 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFRjCCBC6gAwIBAgIRAK9jYj3vDAuLGLwfC0cNQrIwDQYJKoZIhvcNAQELBQAw
+MIIFRjCCBC6gAwIBAgIRAOUqnTSHBystIIm/lXUQoiIwDQYJKoZIhvcNAQELBQAw
 gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
 BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
 VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
-Q0EwHhcNMTUwMTE2MDAwMDAwWhcNMTgwMTE1MjM1OTU5WjBXMSEwHwYDVQQLExhE
+Q0EwHhcNMTgwMTE1MDAwMDAwWhcNMjEwMTE0MjM1OTU5WjBXMSEwHwYDVQQLExhE
 b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxHTAbBgNVBAsTFFBvc2l0aXZlU1NMIFdp
-bGRjYXJkMRMwEQYDVQQDFAoqLmJlZWcuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
-AQ8AMIIBCgKCAQEAptX19fJax21NvQkO7IfdAna4oXksvSivjTK5RZMmLTWhou8R
-xtPkRpvA/ZKd28KPmxcdOcK+Oz2rKlL321N6RJLI1K/zC4yOU9RVTmyqcIkWHVZp
-7P8BLyZ6mCXCn/B76D6QD+H2wv5IX+3ot03g2+8tCAnJno1tspcskFDiR9qMph57
-GZLkBwsn9CAPAEqh1eLD6uyViwMLj/T8qQ79j+aM23QPHNaW9J79ugIo0BiWRRRX
-qtuPwL/+vJSjGIqK+xFGhH9C5JmM4yxSxCQKf6wS90iSFe7yy3a+Ot+35svhxwCZ
-lrYaIRg5MVNFdgh+aTG5Crt3DFqO8v38Szk2qwIDAQABo4IB0TCCAc0wHwYDVR0j
-BBgwFoAUkK9qOpRaC9iQ6hJWc99DtDoo2ucwHQYDVR0OBBYEFDvcF46dfqECnqwt
-fcHNGttXoF88MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
+bGRjYXJkMRMwEQYDVQQDDAoqLmJlZWcuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAy/xsOLjDMAwKTYOPI7FoKART0jQUqSu17aRKYnsETiD4MVf/
+wYWCCVUz0iEQXIfFc/VjoOS16FfSFzAoMNDOY7gwXHPZrcXra1gMni8Mhtk3JsgB
+TMndFln0h706u/m11KJNfnb9tpYAjwc4MC/IJdFqHE4rodrint+dfESGHiBko+nK
+tNuJQ1hdBQYq7omNykl0mTZjlRRVZSuaEpxp6EfAQLPRMMfMevo4Eq/W7X56mZa8
+7EN1vlBcSsCpucJ10V2zSDw5SStwsoUyQDCdc6G2ZGQC/14mDUXfusZuFd3K23+W
+wuyZ57aNT1EoaxNu4ch819n9SdqTusIpwkaP2QIDAQABo4IB0TCCAc0wHwYDVR0j
+BBgwFoAUkK9qOpRaC9iQ6hJWc99DtDoo2ucwHQYDVR0OBBYEFKUuwmufiEBLbeOL
+pnVl7x0Qm+EAMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
 MBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQBsjEBAgIH
 MCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20vQ1BTMAgG
 BmeBDAECATBUBgNVHR8ETTBLMEmgR6BFhkNodHRwOi8vY3JsLmNvbW9kb2NhLmNv
@@ -34,22 +34,21 @@ bS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3JsMIGF
 BggrBgEFBQcBAQR5MHcwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuY29tb2RvY2Eu
 Y29tL0NPTU9ET1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQw
 JAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTAfBgNVHREEGDAW
-ggoqLmJlZWcuY29tgghiZWVnLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEATKmW9UJC
-yuLt8crh8ftJVTvlHWLOzf5nKOvGnJbAKIVdIwlo3EbadezLqV6rXVu+tXEmnfWM
-8MLXg6LpcwgsbzVqqyPyfrH1E6HIeqB2WWaTNh3ROVTjicKJc9NHV478I3I4RUWO
-3KzumE/gn0Z08Wp5oThIb/g3wgPKp0xNcqWgLWqHo2MHLJeVvKz3m3a6ZEGNH9b9
-JvnDSkUWLjtNVxJgfCv1FTdgO6eG78Y/mAnUbfC/WAW1gwnh1Sr5Iy2Joy5e7NeI
-btQH9lvftjDFQPHUYmwx7GCk1GCd5OKG97o8K0dEaU2yqJ7qK5gN3cqMTvNxdQo0
-VatNbdYfz6xLfw==
+ggoqLmJlZWcuY29tgghiZWVnLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAEiJGuFSz
+82OleR2V3TesgQ4ILLx8hwOx0YpKtCgGdSfcW5qb0jEloquPhZb6Nl6hPt7WidvB
+SLiSgynEd6b6xXZ6o3C4GEvRwYEquqwnqt3iB5blOcJ9qyXhJUe/7Azq8uIrxHTk
+rehYwvdOperZx29uSQZyIkxyMiu9WVSxygwKMQ+OZq8FlzhZcRsNa62Mzf5E2fGC
+NRgpo+CK4KilnlBv3AhaluJ81pjCMVjQsd7BMcyZOH5bScXeEPg6bKek0XZ/LCqn
+tgmOznIx5gINC3/MhoXFcfwWfucupyQKMtFBbrPhc6YSXJyXhLm1lQ5oZXKmBJ63
+BFimjx5+raAO+g==
 -----END CERTIFICATE-----
 subject=/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.beeg.com
 issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 6068 bytes and written 434 bytes
+SSL handshake has read 6047 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -60,28 +59,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: C67385F870D88C04CDB279A43F5DB0849F20FB6B2FE93D6F8A7088DFB410CBA2
+    Session-ID: D2C094A49035F1DAEF39C5FD9C426B3FFF283F19A0B858A3BF9C5E44873A1D51
     Session-ID-ctx: 
-    Master-Key: 17C316EA3FBF2FCBF3D9075D1A917C348D7F34031F25F8056BBCF6F9A4C18061B74C93CDA0DDCF4B35227F6E45A26A2C
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 1200 (seconds)
+    Master-Key: 3056093BF1067DA73EDF8E389A72CB8741020FD4692B3BA1E9778452664A43B0FF175B6C4F4341218915F033B7B0671A
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - d1 2c 9d 9b fd 23 70 78-4e 5d fb ad d1 f2 5e 3c   .,...#pxN]....^<
-    0010 - bb 3e ea c9 05 d2 27 60-73 12 56 b4 c6 44 d1 88   .>....'`s.V..D..
-    0020 - 54 01 28 e6 32 3b 3d 68-82 03 80 e5 92 53 99 b4   T.(.2;=h.....S..
-    0030 - 35 5f 08 b6 93 07 a5 df-74 a1 c3 af 9c 25 fd 76   5_......t....%.v
-    0040 - 60 28 da c6 3a a0 78 0b-51 93 b4 28 00 c4 05 fe   `(..:.x.Q..(....
-    0050 - 4a ce 78 28 fd f5 b3 81-ef c4 66 ca 3b 67 d0 d3   J.x(......f.;g..
-    0060 - c9 cf 22 5c 63 b5 f1 63-68 74 db f0 c5 3b 74 a8   .."\c..cht...;t.
-    0070 - 24 57 8d c6 eb a6 ed 10-b1 99 33 b2 ac 44 ea d0   $W........3..D..
-    0080 - 65 79 e2 62 99 33 71 7f-59 8a cf ad fc e6 0e d2   ey.b.3q.Y.......
-    0090 - cc e1 ba 30 51 05 76 62-db 39 1b 98 51 ce 69 04   ...0Q.vb.9..Q.i.
-    00a0 - e6 87 91 8a 88 b0 46 91-29 19 14 7d a2 d4 3c 16   ......F.)..}..<.
+    0000 - 9f bc 79 40 64 fb 07 c2-6d fc 47 4c 90 ab 24 c1   ..y@d...m.GL..$.
+    0010 - bf 83 40 00 57 0a 9a 27-dc 77 bf a8 46 4d ec 8b   ..@.W..'.w..FM..
+    0020 - c9 5e 13 0f 13 30 96 3d-ae 1c 6c cc 95 a9 7b f5   .^...0.=..l...{.
+    0030 - 8e f5 3b 99 4e f0 e2 32-73 ec ad 39 d3 93 63 2d   ..;.N..2s..9..c-
+    0040 - d8 66 78 1f 44 16 a6 89-c1 aa f5 97 d4 4f f6 06   .fx.D........O..
+    0050 - 84 86 ef c1 0f 65 be 6d-87 e8 5f ce 3d fe a2 ee   .....e.m.._.=...
+    0060 - 17 75 5a d7 fc 5d 60 72-cd 77 9d 90 1d 0e f5 da   .uZ..]`r.w......
+    0070 - c1 cc 7b 6c 71 79 fe 52-eb 57 26 c6 e6 49 45 9b   ..{lqy.R.W&..IE.
+    0080 - 9c 04 a5 b8 98 c6 a1 51-da 71 69 d6 4e ad f1 05   .......Q.qi.N...
+    0090 - 8e 73 c8 15 3e 08 03 54-06 42 f8 9b 12 72 25 ab   .s..>..T.B...r%.
 
-    Start Time: 1472788327
-    Timeout   : 300 (sec)
+    Start Time: 1577475171
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

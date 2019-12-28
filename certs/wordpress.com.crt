@@ -1,66 +1,62 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/jurisdictionC=US/jurisdictionST=California/businessCategory=Private Organization/serialNumber=C2804985/C=US/ST=California/L=San Francisco/O=WordPress.com (Automattic, Inc.)/CN=wordpress.com
-   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
- 1 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
-   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
- 2 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
-   i:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+ 0 s:/OU=Domain Control Validated/OU=EssentialSSL Wildcard/CN=*.wordpress.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHXjCCBkagAwIBAgIJAJvK1siOBbx2MA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
-VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
-MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
-cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
-dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTE1MDcyNDE3MDgzOFoX
-DTE3MDcyNDE3MDgzOFowgeExEzARBgsrBgEEAYI3PAIBAxMCVVMxGzAZBgsrBgEE
-AYI3PAIBAhMKQ2FsaWZvcm5pYTEdMBsGA1UEDxMUUHJpdmF0ZSBPcmdhbml6YXRp
-b24xETAPBgNVBAUTCEMyODA0OTg1MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2Fs
-aWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEpMCcGA1UEChMgV29yZFBy
-ZXNzLmNvbSAoQXV0b21hdHRpYywgSW5jLikxFjAUBgNVBAMTDXdvcmRwcmVzcy5j
-b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDP+wyVTa5ajX5Ndy2S
-juJ8vFWw67rHRc4Sfl75n4+cSBY3EQL+H0eKFD4cVj1pC3M5uV4P+XnZW2iSaBiJ
-AzCqNgSsDJYL+Xe+YxS086Qdwi2qvo5YdpxODk63NW/iOaPPwLCGMhlvZzl4qlsc
-+wzcswmn35wl/tCXbylGKDTKyHSF1h1Aw66qGMwC3scJDIhSx4IGoeJQSPp1Nx+0
-cpfZwki5M2xZAhgOj2CzV/aLVhNOyYEiHYNhP9fv9mu8JDjxwe4FBymc/mXAO+BZ
-aOL5xOUaouAVlq3Yqss1CmHta9HWMsCAKuKKZ5gnnrJ0JhruLL0Szht051X5SNhv
-Txn1AgMBAAGjggNCMIIDPjAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUF
-BwMBBggrBgEFBQcDAjAOBgNVHQ8BAf8EBAMCBaAwNQYDVR0fBC4wLDAqoCigJoYk
-aHR0cDovL2NybC5nb2RhZGR5LmNvbS9nZGlnMnMzLTEuY3JsMFMGA1UdIARMMEow
-SAYLYIZIAYb9bQEHFwMwOTA3BggrBgEFBQcCARYraHR0cDovL2NlcnRpZmljYXRl
-cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzB2BggrBgEFBQcBAQRqMGgwJAYIKwYB
-BQUHMAGGGGh0dHA6Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0aHR0
-cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNy
-dDAfBgNVHSMEGDAWgBRAwr0njsw0gzCiM9f7bLPwtCyAzjA6BgNVHREEMzAxgg13
-b3JkcHJlc3MuY29tghF3d3cud29yZHByZXNzLmNvbYINd29yZHByZXNzLmNvbTAd
-BgNVHQ4EFgQUT0YjXTI9EN8DiQ2MZEyC4i+25d0wggF9BgorBgEEAdZ5AgQCBIIB
-bQSCAWkBZwB3AFYUBpov18Ls0/XhvUSyPsdGdrm8mRFcwO+UmFXWidDdAAABTsEL
-WVwAAAQDAEgwRgIhAN8a3RWzwFIV5sayi7QYL52t3qgzE72bXDy0QbrrsK4gAiEA
-uO6TAqrFgFOCoSPNmpO49GFoGJ9r+HAXVBt0mqVRNJIAdQBo9pj4H2SCvjqM7rko
-HUz8cVFdZ5PURNEKZ6y7T0/7xAAAAU7BC1ueAAAEAwBGMEQCIFqh4m2wyy4sxMIi
-hkadbEU4OONjBDGCFtWEQC4PJ+WKAiBCCZBConN7GGg2XtNk8cCjQ8qlkm6pxSvw
-Stuuv+uUwgB1AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABTsEL
-XYsAAAQDAEYwRAIgN6l50cKDUMyjbxBJ/RoW3h1VGiNpbn4AtkAnTY/BHikCIBpT
-BvceiGK7fLytk58UBEy9fzNScLSbA1ggq8BnbWMbMA0GCSqGSIb3DQEBCwUAA4IB
-AQAvkCYQIsq83hJCo0JMZJjFiougfCOpReoWcyGKgCrf+3REo/doc34U/DmuLdAN
-c7FrVzNiniEeXchezgEm97WsbzkgMYRJRGIqDYSEysgnssYIOqSQiREIFZl7R9fx
-a5issw4/KdJ96b0IJ9rWObHnuUZ1jn46mk+JnVB7mLftPX3igCepokJYv4CykICS
-faZ17aRP3J54a1ILxVVgYIKZg/thwaPE9IMKFTKvn7SZr7lYEzmeZ4vyPcmMnUA3
-pABdp6VoxNdQmadUM3zXF0sXAoWCiiKh7OLM+LFMfLQ/NJ48LhvHqehidEP78dee
-IiucyMkzeOuYerri8GJqXako
+MIIG2TCCBcGgAwIBAgIRAKeBC2S1KcGoaQC27YwaCGgwDQYJKoZIhvcNAQELBQAw
+gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
+VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
+Q0EwHhcNMTgwOTA2MDAwMDAwWhcNMjAwOTA1MjM1OTU5WjBdMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxHjAcBgNVBAsTFUVzc2VudGlhbFNTTCBX
+aWxkY2FyZDEYMBYGA1UEAwwPKi53b3JkcHJlc3MuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAtX8qlG2EEfbt976zryjdtGbx89fdxpoAUfwTmW6Y
+8DY0LCvtejfR3w8kPEO6e3iRwyAmXoDBtA7cU06AsUP3e5cQyoWXcrW3ijsETOd9
+aBA58CeCsZJ47KfFxCU91Fijpv1VarlJblydVx1JouEj0HlGqAghLsrDehkQwczs
+EwWtz5gOvenRGPIXVw1g/Or/QYv1fwcvOglhOgbKN2HpHnIPOp9RAFbYPWhDC7sc
+a4lK2o85siaoe7563fSd+FfsiQ6Ssh4fK2sMqXbWqoyKonem+6rCWdWPvVsIBDH2
+8v2HZ6s74CQSeMuAy5CZJOwv8emqlByp9GtuGWECqOgLpwIDAQABo4IDXjCCA1ow
+HwYDVR0jBBgwFoAUkK9qOpRaC9iQ6hJWc99DtDoo2ucwHQYDVR0OBBYEFA1qB7w5
+rS0dqQtaLzRiiA9WS7X2MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQB
+sjEBAgIHMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20v
+Q1BTMAgGBmeBDAECATBUBgNVHR8ETTBLMEmgR6BFhkNodHRwOi8vY3JsLmNvbW9k
+b2NhLmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0Eu
+Y3JsMIGFBggrBgEFBQcBAQR5MHcwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuY29t
+b2RvY2EuY29tL0NPTU9ET1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJD
+QS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTApBgNV
+HREEIjAggg8qLndvcmRwcmVzcy5jb22CDXdvcmRwcmVzcy5jb20wggF/BgorBgEE
+AdZ5AgQCBIIBbwSCAWsBaQB2AO5Lvbd1zmC64UJpH6vhnmajD35fsHLYgwDEe4l6
+qP3LAAABZayjjkoAAAQDAEcwRQIhAKz7RLxwEe2RASIQxFmK0wa5cL+UkxNsca2L
+rQY3cOjMAiARjKGfL3sPAj3NaiKaJceVxd2xKIqgVFiyn+nUNLziUQB3AF6nc/nf
+VsDntTZIfdBJ4DJ6kZoMhKESEoQYdZaBcUVYAAABZayjjocAAAQDAEgwRgIhAP6F
+dPFHxFhI07FV6PGss0u34O3IKh7t5bdInq1yzfGHAiEA2CPZamK6a3DLTOPmdFfk
+BVl51AekibMouaopWKH9cAwAdgBVgdTCFpA2AUrqC5tXPFPwwOQ4eHAlCBcvo6od
+BxPTDAAAAWWso45sAAAEAwBHMEUCIQChMawM9D4XL9Rty9yIHVt5nSAWlnWO9mUa
+5PukI4ogIQIgbbnceypgG1l21iW7p9PKMxG1aVILjVLPyM5bvEX1T/8wDQYJKoZI
+hvcNAQELBQADggEBAHs2PmSUv9MLxHibC/FugGZkr9zOgkxEVVtQlNVUZkNPGeGx
+017Vwhi37+mNHp8uyT6zTOtKw1YBEDlEKvGWH7L86hK57kP+BdpVkjiuRA7jtVZ/
+wVSzD8mUv3IT6YAN3Xe8ZRRm1wkrjgaF8tPVLDC3IAqgq7PRGKF6YMdYdC3VtO4J
+pfLhODzOmQEWgHTq/6avc2AkvOCdtOEyJNayEFcGhWGKoSkEXKt3UF5+UPn2XFyO
+hSmJErVCPQv6E8iwsAc1ugRZuEubiP0dp1RLiyLoPW8Pmzm2bidp55Tkm7zfqjjk
+O4h2j0/57jEg1LPNvtUTFgZr0ULj3tOxoSTmesc=
 -----END CERTIFICATE-----
-subject=/jurisdictionC=US/jurisdictionST=California/businessCategory=Private Organization/serialNumber=C2804985/C=US/ST=California/L=San Francisco/O=WordPress.com (Automattic, Inc.)/CN=wordpress.com
-issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+subject=/OU=Domain Control Validated/OU=EssentialSSL Wildcard/CN=*.wordpress.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4960 bytes and written 434 bytes
+SSL handshake has read 5340 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -68,29 +64,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 0A1A14B9F00A725EA4A32F846899995077CC29136CB9B719E8C66723070CDBDD
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: A9A838AA5E0AAA7B17E32D7A741E4138D89716CA25952A32BF9BC9B6AE569B99
     Session-ID-ctx: 
-    Master-Key: FB82586F48C15FB3ED20CFB351FCA7439FF639A22B22455777F03907F6319BCEDF7714562312D4781B0B3A8DBA29EF64
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 21600 (seconds)
+    Master-Key: 3300EF7EEF9B5733836F5F22B5B56D46D96CFDF8F29166182EB5AF80B7BA66C1A988F2C7A6F36BFE3EF88A9A2C381782
+    TLS session ticket lifetime hint: 3600 (seconds)
     TLS session ticket:
-    0000 - a8 e9 9a 5f b5 e3 44 93-bc a3 78 8b 74 80 19 72   ..._..D...x.t..r
-    0010 - af a7 0c b6 61 ee f3 d8-5e 05 75 3e cc 4d 54 7f   ....a...^.u>.MT.
-    0020 - a1 b8 42 7a cc d6 5c 3c-ee d7 ba b0 7c f0 11 71   ..Bz..\<....|..q
-    0030 - 3e ac c1 90 80 f7 7d 63-1c 99 82 32 60 63 cd bc   >.....}c...2`c..
-    0040 - 5a fd cd bb 7e a2 c4 a2-d2 2f 3c 84 15 b3 90 53   Z...~..../<....S
-    0050 - 7d 63 d8 1f f6 50 4f 28-92 2e df c6 53 87 ac 00   }c...PO(....S...
-    0060 - ec 22 04 cd 58 28 90 0f-2d b5 20 9c c3 54 c3 6d   ."..X(..-. ..T.m
-    0070 - 80 6e 01 f5 6b 23 98 83-a8 d5 0e cc 02 97 fe 31   .n..k#.........1
-    0080 - 49 bc a4 de be 0e a8 fd-10 e8 4b f1 a7 ae d9 53   I.........K....S
-    0090 - d2 c4 53 83 f5 e3 e3 24-4b e4 db f3 48 92 36 1d   ..S....$K...H.6.
-    00a0 - 69 b0 b9 ad 85 e6 b1 36-d7 f7 6f cf 09 87 d0 d7   i......6..o.....
+    0000 - 15 bf d4 67 8e a2 e3 ea-f6 43 16 b1 66 fe 38 d1   ...g.....C..f.8.
+    0010 - 1b 5f ea 18 a8 2d 6d ab-b3 d8 58 69 59 72 6d 1a   ._...-m...XiYrm.
+    0020 - 5a 5e 4b 00 6e 8e a6 91-64 07 98 14 0f 38 75 3e   Z^K.n...d....8u>
+    0030 - e9 b7 02 7e fc 58 53 77-6c b0 a4 fd 2d 5c a8 5c   ...~.XSwl...-\.\
+    0040 - dc 8a 8d 36 05 77 a9 4b-89 5e c5 34 ec 16 7e 5a   ...6.w.K.^.4..~Z
+    0050 - 11 4f 5b b2 a7 4d 90 83-e2 5a 35 4d c6 d5 0a 5c   .O[..M...Z5M...\
+    0060 - 9d 32 f7 c8 e0 b4 67 c3-9c 69 ee e2 48 63 09 f8   .2....g..i..Hc..
+    0070 - 4a 36 97 99 06 45 fa b1-dd 9f 71 28 b1 51 dd b0   J6...E....q(.Q..
+    0080 - f5 d6 86 69 a9 2d 37 6f-3b 4d df c1 56 5b 65 fa   ...i.-7o;M..V[e.
+    0090 - 86 29 02 1e e0 74 f9 4d-b6 a9 07 85 2c 14 1a 5a   .)...t.M....,..Z
+    00a0 - 08 4e 1e 78 e0 d0 14 8d-48 e9 bf 9d 5b e8 6b 59   .N.x....H...[.kY
 
-    Start Time: 1472787858
-    Timeout   : 300 (sec)
+    Start Time: 1577474816
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

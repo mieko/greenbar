@@ -1,51 +1,75 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=WA/L=Seattle/O=MyCompany/OU=IT/CN=localhost.localdomain/emailAddress=root@localhost.localdomain
-   i:/C=US/ST=WA/L=Seattle/O=MyCompany/OU=IT/CN=localhost.localdomain/emailAddress=root@localhost.localdomain
+ 0 s:/C=US/ST=Texas/L=Round Rock/O=Dell/CN=Dell.com
+   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
+ 1 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
+   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
+ 2 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
+   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIICpjCCAg+gAwIBAgIBADANBgkqhkiG9w0BAQUFADCBmDELMAkGA1UEBhMCVVMx
-CzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMRIwEAYDVQQKEwlNeUNvbXBh
-bnkxCzAJBgNVBAsTAklUMR4wHAYDVQQDExVsb2NhbGhvc3QubG9jYWxkb21haW4x
-KTAnBgkqhkiG9w0BCQEWGnJvb3RAbG9jYWxob3N0LmxvY2FsZG9tYWluMB4XDTA0
-MDEwMTAwMzIwM1oXDTEzMTIyOTAwMzIwM1owgZgxCzAJBgNVBAYTAlVTMQswCQYD
-VQQIEwJXQTEQMA4GA1UEBxMHU2VhdHRsZTESMBAGA1UEChMJTXlDb21wYW55MQsw
-CQYDVQQLEwJJVDEeMBwGA1UEAxMVbG9jYWxob3N0LmxvY2FsZG9tYWluMSkwJwYJ
-KoZIhvcNAQkBFhpyb290QGxvY2FsaG9zdC5sb2NhbGRvbWFpbjCBnzANBgkqhkiG
-9w0BAQEFAAOBjQAwgYkCgYEAyxroq2H8OfbPsls0/+sxocCML5w1NYOzR60D123Q
-riwwUwmlIRyPYSydaJqZXVNQ7l0fCa+CYKHjgSAHNITAYdIzYMtXB85tlYGGuQ/N
-r0B1uTLC4+OXVkzBMu3o1FF16pqvL4nBwX53lKrP41qQt9ieMP9jBToSgjCjj4Hr
-at0CAwEAATANBgkqhkiG9w0BAQUFAAOBgQAbgT9YsP6aQBspjLkqmx3fJqNcENM/
-DMNExKlviTvB67LHqBCD/zD/bbtseCNs8jLes+KovhxOQryq0cuy9uP6HN8WSj/A
-CqJA6w+sPg3UHWosy9rU1mpPhlMxPhXjFFe+3FuafsqPe+chxEFUQBdH3JirtW1s
-1mPYhPl+Runudg==
+MIIHFDCCBfygAwIBAgIQfpRaVnDcyl8AAAAAUOzLZTANBgkqhkiG9w0BAQsFADCB
+ujELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUVudHJ1c3QsIEluYy4xKDAmBgNVBAsT
+H1NlZSB3d3cuZW50cnVzdC5uZXQvbGVnYWwtdGVybXMxOTA3BgNVBAsTMChjKSAy
+MDEyIEVudHJ1c3QsIEluYy4gLSBmb3IgYXV0aG9yaXplZCB1c2Ugb25seTEuMCwG
+A1UEAxMlRW50cnVzdCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAtIEwxSzAeFw0x
+OTAxMjUwMzE3MzRaFw0yMTAxMTAwMzQ3MzRaMFQxCzAJBgNVBAYTAlVTMQ4wDAYD
+VQQIEwVUZXhhczETMBEGA1UEBxMKUm91bmQgUm9jazENMAsGA1UEChMERGVsbDER
+MA8GA1UEAxMIRGVsbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQC4VRvegD4M2Si4GvLO8v5d1k+AYYDnRb3xZ8C0JDq0bdaIMEDBq9w1qF0nyhT9
+JVAdYs5gWuRnuGiBikcHVHA7F6G438FTlpjp3FdJpfyc0H52ykR8zKmHovTst01P
+30lpfhNRF1DIpy2fzM80bGQN3PbiYY4auOFIWNragtaz0LS1t91J0AtoRi1qOO8S
+YEU7PSITnaauJu6y5lMmmsGpane5ZCHUIbS3K8udqdWG2HuYYYSh6b1s1uxAcz0Q
+9nH+vnzDvqOFV2l1Cg2h4biCshNNnAuJYRcDAIKhZdbj5M2Up47YO4KnUneFMWz/
+c0kTZE60S/asemWDmb3BPGWpAgMBAAGjggN5MIIDdTATBgNVHREEDDAKgghEZWxs
+LmNvbTCCAfYGCisGAQQB1nkCBAIEggHmBIIB4gHgAHcAh3W/51l8+IxDmV+9827/
+Vo1HVjb/SrVgwbTq/16ggw8AAAFogx68EwAABAMASDBGAiEAlXEmxGMPbH9yoeC9
+I90JiW5z2Lo2EERq0zAARRa88gsCIQDA76YsZD/OCA9iYlci1d7OzVEElQsG1wK5
+7si/gfTkxQB2AFWB1MIWkDYBSuoLm1c8U/DA5Dh4cCUIFy+jqh0HE9MMAAABaIMe
+vCMAAAQDAEcwRQIhAIg3tqUm0YwSo7wJ83chV6lh+E8nG61OLYFTHAcSEwU3AiAl
+secGSlri8IXEUxGBrH7h3LFzlIDBBch+A+bG3/+hbQB2AFYUBpov18Ls0/XhvUSy
+PsdGdrm8mRFcwO+UmFXWidDdAAABaIMevDoAAAQDAEcwRQIgbvnzDdCFfivOZZw2
+Za9KNC36fI1z9yD7G9M1BuKGBHACIQD3gC7r3nW3mW7RRTqYEvDVlJkboNI6Y50E
+6XLIzXmLdwB1AO5Lvbd1zmC64UJpH6vhnmajD35fsHLYgwDEe4l6qP3LAAABaIMe
+vDQAAAQDAEYwRAIgd6RaG0aakS/n706KF2nglSp3E9LGAORem7GgC2VvB2gCICPh
+lfXKmCdh6ZI6FWZk5HejBquRji3rxAb8X7IaIP6oMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwMwYDVR0fBCwwKjAooCagJIYi
+aHR0cDovL2NybC5lbnRydXN0Lm5ldC9sZXZlbDFrLmNybDBLBgNVHSAERDBCMDYG
+CmCGSAGG+mwKAQUwKDAmBggrBgEFBQcCARYaaHR0cDovL3d3dy5lbnRydXN0Lm5l
+dC9ycGEwCAYGZ4EMAQICMGgGCCsGAQUFBwEBBFwwWjAjBggrBgEFBQcwAYYXaHR0
+cDovL29jc3AuZW50cnVzdC5uZXQwMwYIKwYBBQUHMAKGJ2h0dHA6Ly9haWEuZW50
+cnVzdC5uZXQvbDFrLWNoYWluMjU2LmNlcjAfBgNVHSMEGDAWgBSConB03bxTP897
+1PfNf6dgxgpMvzAdBgNVHQ4EFgQUZnGTbL8KP9lHsvOX/+kwQ1mfeQkwCQYDVR0T
+BAIwADANBgkqhkiG9w0BAQsFAAOCAQEA1QIRTtZ+EqJ7QqBCVebSFerTIj7Czj0E
+Gs4SMFXDIs9PpM6JB/QgviYEBHzq7+YL86r5JM2Om06BOg2rfIie2dbjGR9OLyg8
+GP3TJ1ckntaOyswn9S8jKdQaweAWyf5PBT8h4u5w6mt0pWauVD+H8QyepBGzmfb0
+je7ArIzoEnqDxaSiKxkqLba/TO4j/cudiATPH4yVr84ypww4Q/sq4Fh3n2KP4u8G
+Dyiot1OZs2Ew5IZMWrVgfy0SBlVhVVuQGyxnh57VnwOmpdmqSx774i4xb+00apRG
+wI24lrMAxx0lPCSRKVZjnmiMm3nNx8gxj1JGtF37IzazqDDfwX4jog==
 -----END CERTIFICATE-----
-subject=/C=US/ST=WA/L=Seattle/O=MyCompany/OU=IT/CN=localhost.localdomain/emailAddress=root@localhost.localdomain
-issuer=/C=US/ST=WA/L=Seattle/O=MyCompany/OU=IT/CN=localhost.localdomain/emailAddress=root@localhost.localdomain
+subject=/C=US/ST=Texas/L=Round Rock/O=Dell/CN=Dell.com
+issuer=/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 883 bytes and written 538 bytes
+SSL handshake has read 4704 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA256
-Server public key is 1024 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-SHA256
-    Session-ID: 48DCA3AB56C301BB81F4F02525542C6FDC3F0BB6A7603D0BD013642ABD89C4FD
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 24D02D5FB11DC7B1B73992916E5694F375E2DBD3892EB4D304DCE1150F9285E7
     Session-ID-ctx: 
-    Master-Key: 67AB7F970CAF1BE374BD76ACE9D876C7670337075EF6CCD80675A43B56D73E0C8FEE280E49F00BC150FA446AB805CC19
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788228
-    Timeout   : 300 (sec)
-    Verify return code: 10 (certificate has expired)
+    Master-Key: FA4E579CDC431D5697221613A9E7EF7FD1641BF9DBCD5550B98FE76E28E1CDE6F66C7DC62AD5BE420C22363BF72F02E6
+    Start Time: 1577474959
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

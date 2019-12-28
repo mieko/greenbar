@@ -1,53 +1,65 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/postalCode=22314/ST=VA/L=Alexandria/street=901 N. Pitt Street, Suite 325/O=Magicbit, Inc/OU=PremiumSSL Wildcard/CN=*.savefrom.net
+ 0 s:/C=US/postalCode=22314/ST=Virginia/L=Alexandria/street=Suite 325/street=901 North Pitt Street/O=Magicbit, Inc/OU=IT Department/OU=PremiumSSL Wildcard/CN=*.savefrom.net
    i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFwDCCBKigAwIBAgIQDN3gblx3g34dzMeAWc8tbDANBgkqhkiG9w0BAQsFADCB
-ljELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
-A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxPDA6BgNV
-BAMTM0NPTU9ETyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
-cnZlciBDQTAeFw0xNTA0MjMwMDAwMDBaFw0xODA0MjIyMzU5NTlaMIG2MQswCQYD
-VQQGEwJVUzEOMAwGA1UEERMFMjIzMTQxCzAJBgNVBAgTAlZBMRMwEQYDVQQHEwpB
-bGV4YW5kcmlhMSYwJAYDVQQJEx05MDEgTi4gUGl0dCBTdHJlZXQsIFN1aXRlIDMy
-NTEWMBQGA1UEChMNTWFnaWNiaXQsIEluYzEcMBoGA1UECxMTUHJlbWl1bVNTTCBX
-aWxkY2FyZDEXMBUGA1UEAxQOKi5zYXZlZnJvbS5uZXQwggEiMA0GCSqGSIb3DQEB
-AQUAA4IBDwAwggEKAoIBAQC4HxlGeUeCOKvZqbYnvrDALE2WTBGn3WjXLDaaFvsp
-mDAn1Y+eC04W1hJNf6UwAAm9DTat2Ny5g8a2ZWVnIN9qIeIu5BOhv5XPWyPW02Bi
-mEnAunOSHCf4Yy+EAf2878WniWfkdQDaLuaxjEFY0zDKjmiRKORU+HOucJMC5T6k
-mMocz0rItC5PUAg16CiG5FBcn/DbYKE7ZHGpVYtxmaeiOKE1tGGB3//aI0cOPiof
-jJOPYNYN5Jyhe5ef1FBUMsCDyEvQwOk92oVjl3iW/HWlcnNQs6PdLsC/LOZbplKJ
-ETHWx4T66JT4OqxNVnSIiQxeBFtu5Jn5ZFlBS/YgKMrrAgMBAAGjggHmMIIB4jAf
-BgNVHSMEGDAWgBSa8yvaz61Pti+7KkhIKhK3G0LBJDAdBgNVHQ4EFgQU7NZOhb2B
-EEN9TsXC0CuvGkQv1dYwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
-VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFAGA1UdIARJMEcwOwYMKwYBBAGy
-MQECAQMEMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20v
-Q1BTMAgGBmeBDAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLmNvbW9k
-b2NhLmNvbS9DT01PRE9SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJlU2Vy
-dmVyQ0EuY3JsMIGLBggrBgEFBQcBAQR/MH0wVQYIKwYBBQUHMAKGSWh0dHA6Ly9j
-cnQuY29tb2RvY2EuY29tL0NPTU9ET1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25T
-ZWN1cmVTZXJ2ZXJDQS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9k
-b2NhLmNvbTAnBgNVHREEIDAegg4qLnNhdmVmcm9tLm5ldIIMc2F2ZWZyb20ubmV0
-MA0GCSqGSIb3DQEBCwUAA4IBAQB7bqvHNjTNllB0qL2SoS0wsqYE4ILTOwUwaC5N
-SxWchR+wNrbVPZAwnJwVpXJFTCt6hhsVxzENars37WfYJchr+7z9/+V7Ws5lPAWE
-KpFa9SxiBozGVgzlVCTVPAT3fsE7D+3l0P7ZzT+h8bkxeDmcNz0SJh0N+A8Wh+2a
-mT0OemTs2/TioOfLc7/Jb4QLVvWJ2xOrm7vfTmrJSwx4IK7DkcdeM29fud8GhU6a
-lBY9RSoGTsRgOik6viSXq+KkAQnt0zAKvaYwWibpxPfaZQRNgSAGoCDG6xz5g1po
-32bRlRXT5A60W/CcA9J9KV9YHwdYyt2f7ovGlzPGl0CFc2va
+MIIHbjCCBlagAwIBAgIRALrn5iqePFAW8irS1LQHgXIwDQYJKoZIhvcNAQELBQAw
+gZYxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTwwOgYD
+VQQDEzNDT01PRE8gUlNBIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIFNlY3VyZSBT
+ZXJ2ZXIgQ0EwHhcNMTgwNDIwMDAwMDAwWhcNMjAwNzE4MjM1OTU5WjCB4DELMAkG
+A1UEBhMCVVMxDjAMBgNVBBETBTIyMzE0MREwDwYDVQQIEwhWaXJnaW5pYTETMBEG
+A1UEBxMKQWxleGFuZHJpYTESMBAGA1UECRMJU3VpdGUgMzI1MR4wHAYDVQQJExU5
+MDEgTm9ydGggUGl0dCBTdHJlZXQxFjAUBgNVBAoTDU1hZ2ljYml0LCBJbmMxFjAU
+BgNVBAsTDUlUIERlcGFydG1lbnQxHDAaBgNVBAsTE1ByZW1pdW1TU0wgV2lsZGNh
+cmQxFzAVBgNVBAMMDiouc2F2ZWZyb20ubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA6PiVGzxdnc5OCZLkN00rIJg8kHDqHxLaV4BtfMm6HDy23gDc
+Q01sc9K3MT7QsAhQRvBFG60biwDX4aPF7G1inqbhG38hAOI9QGFIi1eAwBecn+Gm
+tVrWe9quhVTI3qy8UR/uZLk+iyr326AP3+VuDD5WXnIAcHevOuBLAj5/EBeKaidv
+h9GdNWTwL5B1n8LqZkSKntlAsn/H8m/BNbgh87ZRBkMXYvuCMYkt7c+tmU6HFxUe
+u7Qh1amcf3OiYy7FE/3ccxnCTrwaca0LI5Dyx6hmb2JaWDvjzGjdmm7RWKhpvDEf
+CHF7UQw3uqu91XyKXQGEvByNe3y1sJpAPqHd/QIDAQABo4IDaTCCA2UwHwYDVR0j
+BBgwFoAUmvMr2s+tT7YvuypISCoStxtCwSQwHQYDVR0OBBYEFKPOOVEdF4ivcIuy
+UHlhcncPawf6MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjBQBgNVHSAESTBHMDsGDCsGAQQBsjEBAgED
+BDArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29tL0NQUzAI
+BgZngQwBAgIwWgYDVR0fBFMwUTBPoE2gS4ZJaHR0cDovL2NybC5jb21vZG9jYS5j
+b20vQ09NT0RPUlNBT3JnYW5pemF0aW9uVmFsaWRhdGlvblNlY3VyZVNlcnZlckNB
+LmNybDCBiwYIKwYBBQUHAQEEfzB9MFUGCCsGAQUFBzAChklodHRwOi8vY3J0LmNv
+bW9kb2NhLmNvbS9DT01PRE9SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJl
+U2VydmVyQ0EuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5j
+b20wJwYDVR0RBCAwHoIOKi5zYXZlZnJvbS5uZXSCDHNhdmVmcm9tLm5ldDCCAX8G
+CisGAQQB1nkCBAIEggFvBIIBawFpAHYA7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiD
+AMR7iXqo/csAAAFi47tP2QAABAMARzBFAiEAogomSbQ2AYCHo404pcovsyV6ndyj
+8J8EzsajnxE0HegCICLPeDm1jV4mkGtWffJHFWsSz90ICr64UDBqC5/xRF9/AHcA
+Xqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVgAAAFi47tPwQAABAMASDBG
+AiEAviG3JrIK6ASddoq5QVUzBJXeMFA2/k0+gczwGiVODwgCIQCj3ShGeAM0Flr1
+1zNQfehqu8uEoJxRZEmDs5+tAMt6qAB2AFWB1MIWkDYBSuoLm1c8U/DA5Dh4cCUI
+Fy+jqh0HE9MMAAABYuO7UD4AAAQDAEcwRQIgfAMOrK9JNHDBoJBakoiCX+fXPIMa
+OejiBJ/e9nEyPtsCIQCs8lzUxlsGeuKDBVr2Jnkrz1qpaN+RYgakEd1gYdtqFzAN
+BgkqhkiG9w0BAQsFAAOCAQEAfh016/2YHK8FtnLMVTRvyknB2xtLNt1ASKxM47o4
+fK8owAxPiB8kC4R9DY4U6jeFBj6IyTKGPNYiBfbIekPNvcqfS0+tCpDYQGsyYscI
+ADqimud9CkqcB7mmLB2lOOTYdReK3Li69KNvI6jUlG3ejQPowa0RtqFhF59tUsmX
+lzr21qbzBAW39H1H8k7CL13mmHpLRAuRJqz3nzFTBvXvIgUP38s0dBrOKK+BxcSA
+6O8HyHMtrV+n7ytmgOlVv6Y/Ce1N2iBtvA/9nealD3Na7bytUpUt8bPMuoCjCUbp
+ps1rE7bHADwOcbdEHjvuVjhmrST3o/+I0c0Wy6pA+aO+Gw==
 -----END CERTIFICATE-----
-subject=/C=US/postalCode=22314/ST=VA/L=Alexandria/street=901 N. Pitt Street, Suite 325/O=Magicbit, Inc/OU=PremiumSSL Wildcard/CN=*.savefrom.net
+subject=/C=US/postalCode=22314/ST=Virginia/L=Alexandria/street=Suite 325/street=901 North Pitt Street/O=Magicbit, Inc/OU=IT Department/OU=PremiumSSL Wildcard/CN=*.savefrom.net
 issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: DH, 1024 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 2321 bytes and written 498 bytes
+SSL handshake has read 5503 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -55,28 +67,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : DHE-RSA-AES256-GCM-SHA384
-    Session-ID: C61A3B74EB4DB2808D51D037D978656BD98D9670948EC85736772DFA45B94D29
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: D81BD5E507FEAA3395121180ABDF3872D7037CAD17D75955638ABD2A8E73E84E
     Session-ID-ctx: 
-    Master-Key: 88012DD4A5259EA20B3AFA3F8ECA87B321FCCDD9FB34989CC62E0A51796ABA004C44171856012B8D2D1B85663E152BD3
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: E33BFB9A32008F342BAE5563BA592AD1F3257B78A6A202A57931C57B8D6C3F83DFAC696672AFC048768BF6D85CE70999
+    TLS session ticket lifetime hint: 3600 (seconds)
     TLS session ticket:
-    0000 - 96 4e 58 3d 6c 76 06 9d-de d7 c7 ea 00 d0 10 aa   .NX=lv..........
-    0010 - 58 d9 c6 9f f1 8a 41 78-19 b9 7b 8c 86 d5 f6 29   X.....Ax..{....)
-    0020 - b3 cc 39 31 07 2e df b9-26 f5 31 e6 4a 50 84 5f   ..91....&.1.JP._
-    0030 - 5e c2 a7 f0 79 21 f1 bf-49 61 91 3e 1f e1 d9 84   ^...y!..Ia.>....
-    0040 - bc ca 7e ad ad e8 f6 6a-00 f5 7a 70 97 43 11 c6   ..~....j..zp.C..
-    0050 - c0 33 8d 0a bd f2 25 9a-05 73 93 d6 2e 7c 6c 24   .3....%..s...|l$
-    0060 - 25 c8 c1 da 13 23 99 b8-e3 3c 9e a2 81 9c 54 ad   %....#...<....T.
-    0070 - 06 10 f5 66 14 fb bd 4b-7c 54 0b 35 14 fb ac 9f   ...f...K|T.5....
-    0080 - 89 74 1c c2 01 a8 c4 7f-db 67 fc 48 cb a2 11 64   .t.......g.H...d
-    0090 - f9 08 ef d8 d0 bc 58 14-f3 32 1f 58 bd ef 44 ac   ......X..2.X..D.
+    0000 - 00 c3 06 0c d8 3d f3 49-07 90 53 54 dc a6 2d ee   .....=.I..ST..-.
+    0010 - 72 94 d1 5c 00 b9 f6 10-bf cc d2 31 ef 48 f8 ee   r..\.......1.H..
+    0020 - bc b4 06 d7 cc df 53 ef-17 d4 8d 90 20 ee 00 66   ......S..... ..f
+    0030 - 8c d8 84 7a 34 29 e5 41-65 5d 8f 43 e4 fb 5e 11   ...z4).Ae].C..^.
+    0040 - 96 cb 17 2f 86 39 d3 41-3e ac cf 10 e1 d0 54 26   .../.9.A>.....T&
+    0050 - 0d ae af 67 9a 91 5e 08-83 f7 93 50 ae 63 db d3   ...g..^....P.c..
+    0060 - cf cd 5d 62 2d 5d 3e 35-42 30 3e 8a bb 39 d7 8c   ..]b-]>5B0>..9..
+    0070 - ba f0 4b 26 9a c3 28 1e-f4 c8 8f 9d 5d 54 22 e4   ..K&..(.....]T".
+    0080 - 79 c9 18 e3 81 e2 e2 46-e0 c2 05 a8 ed 18 e0 d2   y......F........
+    0090 - 79 32 69 c5 09 34 24 8b-f3 e1 74 98 7b 6c fb f8   y2i..4$...t.{l..
+    00a0 - b1 c6 7c ac 7c ab 79 88-8c 79 d0 df bb eb 0b 01   ..|.|.y..y......
 
-    Start Time: 1472788083
-    Timeout   : 300 (sec)
-    Verify return code: 21 (unable to verify the first certificate)
+    Start Time: 1577474862
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

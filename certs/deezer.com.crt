@@ -1,7 +1,7 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=FR/postalCode=75009/ST=Paris/L=Paris/street=10-12 rue d'Ath\xC3\xA8nes/O=Blogmusik/OU=Deezer/OU=Gandi Pro Wildcard SSL/CN=*.deezer.com
+ 0 s:/C=FR/postalCode=75009/ST=Paris/street=12 Rue D Athenes/O=DEEZER/OU=Deezer/OU=Gandi Pro Wildcard SSL/CN=*.deezer.com
    i:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Pro SSL CA 2
  1 s:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Pro SSL CA 2
    i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
@@ -10,44 +10,50 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFQTCCBCmgAwIBAgIQWoyzLt0JCtlhHX7Jan+0rTANBgkqhkiG9w0BAQsFADBa
-MQswCQYDVQQGEwJGUjEOMAwGA1UECBMFUGFyaXMxDjAMBgNVBAcTBVBhcmlzMQ4w
-DAYDVQQKEwVHYW5kaTEbMBkGA1UEAxMSR2FuZGkgUHJvIFNTTCBDQSAyMB4XDTE2
-MDYyOTAwMDAwMFoXDTE5MDgwNDIzNTk1OVowgbkxCzAJBgNVBAYTAkZSMQ4wDAYD
-VQQREwU3NTAwOTEOMAwGA1UECBMFUGFyaXMxDjAMBgNVBAcTBVBhcmlzMR0wGwYD
-VQQJDBQxMC0xMiBydWUgZCdBdGjDqG5lczESMBAGA1UEChMJQmxvZ211c2lrMQ8w
-DQYDVQQLEwZEZWV6ZXIxHzAdBgNVBAsTFkdhbmRpIFBybyBXaWxkY2FyZCBTU0wx
-FTATBgNVBAMMDCouZGVlemVyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
-AQoCggEBAMkm8fQ0F4OPDX0WMHbKS1YbFXIswtOLufkpyyDj15ZeNdnyzxBMJf77
-P8BTVKNGYm2JcqoZiI/cLCf3Zgq1jqOVLr6n+VaE7i/Z9hEROwUmoyR2OM241QOE
-qbBPFM04xE3AhNS/iPSVyoOSFPTlPcNrPBmhdLzBJKuv8a2jGDGOxhfi86kYFUCi
-wbRzFXpemLjeHEoc1LeHweNI9JuT8MLVyo5wthgOihQZoTiKAjvL1u+3wjYRiRaF
-rpJTTXLp57/Fwlov+ZdFg465bvBLnliqnlF+ychlnXNcKw109ET7FL8hGhrr1HID
-ySEvQ74OLfqYzTfrRWL1wD4fxYkOFNsCAwEAAaOCAaEwggGdMB8GA1UdIwQYMBaA
-FIDNSWy0U4QE4sr2jbFI2tgNlUtOMB0GA1UdDgQWBBT2f5aW200F1HnoS/8FPY7/
-28A4yDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggr
-BgEFBQcDAQYIKwYBBQUHAwIwSwYDVR0gBEQwQjA2BgsrBgEEAbIxAQICGjAnMCUG
-CCsGAQUFBwIBFhlodHRwczovL2Nwcy51c2VydHJ1c3QuY29tMAgGBmeBDAECAjA8
-BgNVHR8ENTAzMDGgL6AthitodHRwOi8vY3JsLnVzZXJ0cnVzdC5jb20vR2FuZGlQ
-cm9TU0xDQTIuY3JsMG4GCCsGAQUFBwEBBGIwYDA3BggrBgEFBQcwAoYraHR0cDov
-L2NydC51c2VydHJ1c3QuY29tL0dhbmRpUHJvU1NMQ0EyLmNydDAlBggrBgEFBQcw
-AYYZaHR0cDovL29jc3AudXNlcnRydXN0LmNvbTAjBgNVHREEHDAaggwqLmRlZXpl
-ci5jb22CCmRlZXplci5jb20wDQYJKoZIhvcNAQELBQADggEBAGGkT2RaS8hM17FU
-c0srwjmXew9XiV1xFVP+PYlFnzrsPTlM0ap9KcGHfH9C2/O6fNq+0kOLUG2XDfvf
-xA852ohC3xslHO8GZsauo6DISkFYcxgBcwgeue/08W4mbpP5NX3ks3GDf+ZYUXMG
-tX21r9kc7wBN5L7OrgrrS2rIx7UQM6p+OfG6IxXcV59pb3FAQn2r1Vr2LjbjajD4
-CPCKg8xYaCqYR6ZdjjZE5TcTXmn59Tg9K9H8liaEwn91SSLIkidclPcR7hN7xqFq
-/Ku5M3Z5MvA/I1j5yBEIEnFvZp9G/MNssxb2UJb5uf8gElTtgEITPfTgpX8aanYA
-HO58uGg=
+MIIGrDCCBZSgAwIBAgIRAN6FP5VUOU4Vo/PUgUG+pDAwDQYJKoZIhvcNAQELBQAw
+WjELMAkGA1UEBhMCRlIxDjAMBgNVBAgTBVBhcmlzMQ4wDAYDVQQHEwVQYXJpczEO
+MAwGA1UEChMFR2FuZGkxGzAZBgNVBAMTEkdhbmRpIFBybyBTU0wgQ0EgMjAeFw0x
+OTA3MzEwMDAwMDBaFw0yMTA4MDUyMzU5NTlaMIGiMQswCQYDVQQGEwJGUjEOMAwG
+A1UEERMFNzUwMDkxDjAMBgNVBAgTBVBhcmlzMRkwFwYDVQQJExAxMiBSdWUgRCBB
+dGhlbmVzMQ8wDQYDVQQKEwZERUVaRVIxDzANBgNVBAsTBkRlZXplcjEfMB0GA1UE
+CxMWR2FuZGkgUHJvIFdpbGRjYXJkIFNTTDEVMBMGA1UEAwwMKi5kZWV6ZXIuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAySbx9DQXg48NfRYwdspL
+VhsVcizC04u5+SnLIOPXll412fLPEEwl/vs/wFNUo0ZibYlyqhmIj9wsJ/dmCrWO
+o5Uuvqf5VoTuL9n2ERE7BSajJHY4zbjVA4SpsE8UzTjETcCE1L+I9JXKg5IU9OU9
+w2s8GaF0vMEkq6/xraMYMY7GF+LzqRgVQKLBtHMVel6YuN4cShzUt4fB40j0m5Pw
+wtXKjnC2GA6KFBmhOIoCO8vW77fCNhGJFoWuklNNcunnv8XCWi/5l0WDjrlu8Eue
+WKqeUX7JyGWdc1wrDXT0RPsUvyEaGuvUcgPJIS9Dvg4t+pjNN+tFYvXAPh/FiQ4U
+2wIDAQABo4IDIjCCAx4wHwYDVR0jBBgwFoAUgM1JbLRThATiyvaNsUja2A2VS04w
+HQYDVR0OBBYEFPZ/lpbbTQXUeehL/wU9jv/bwDjIMA4GA1UdDwEB/wQEAwIFoDAM
+BgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBLBgNV
+HSAERDBCMDYGCysGAQQBsjEBAgIaMCcwJQYIKwYBBQUHAgEWGWh0dHBzOi8vY3Bz
+LnVzZXJ0cnVzdC5jb20wCAYGZ4EMAQICMDwGA1UdHwQ1MDMwMaAvoC2GK2h0dHA6
+Ly9jcmwudXNlcnRydXN0LmNvbS9HYW5kaVByb1NTTENBMi5jcmwwbgYIKwYBBQUH
+AQEEYjBgMDcGCCsGAQUFBzAChitodHRwOi8vY3J0LnVzZXJ0cnVzdC5jb20vR2Fu
+ZGlQcm9TU0xDQTIuY3J0MCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC51c2VydHJ1
+c3QuY29tMCMGA1UdEQQcMBqCDCouZGVlemVyLmNvbYIKZGVlemVyLmNvbTCCAX0G
+CisGAQQB1nkCBAIEggFtBIIBaQFnAHYA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98M
+LyALzE7xZOMAAAFsR+cRAgAABAMARzBFAiEAy8q3/4/z372haK1NObyYA+Z10wBL
+MnS0y7LtuifRKTYCIECgrVkhqvfEt4JRMAoru/La1OLCY4q6TEEO9o2tWtfdAHYA
+RJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAFsR+cRMgAABAMARzBF
+AiEAmPO19HGucQiI8WLdtcNeACsnuslGNNoJWv9pRRwm/X8CIE6ovGiWDQF9bd0g
+ZodBqRTUOAkuvrkj8IHp3MV9bDp2AHUAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQAp
+Bo2yCJo32RMAAAFsR+cRIQAABAMARjBEAiBMMqHhREjnrmQRKKMnVgvdI9/2lS5Z
+F1mCPezYCQJchwIgUzWFZEEBYlns1Q5z0HvteV1kZPr/imfL89QJQtE+/+gwDQYJ
+KoZIhvcNAQELBQADggEBAEa9oKHx1abCscMV+UXhyw7DP99SXEe2dw7ogyuj7jCF
+g0oJEzBMb74dl97dIyPcVIjARfhHLrSZKT2kBYiq0mfqKQYQPs4vot/Q4F2EvCUt
+uTC0LGSQFtMdoWovbIXyFTMD70VSzNBW1KYmORf1HJdNI8chUZ4Ww4jGO39yqinQ
+IbIIYHZrcM4vCVsH2N7EuALTH+rtvWt/KW5rMF/LUW9Ut7Mate9VAhVzzwVdqlLC
+U7uINAYNZcIk7NuwHNQrSO7OHBpbQ/u8vxKwyRUtWvL4SDPaTpItBLwjisLQvGKo
+f7g6RlAD5Lx8e/zHcOLpa3aJoZSQESpDDmzhTOi8aeg=
 -----END CERTIFICATE-----
-subject=/C=FR/postalCode=75009/ST=Paris/L=Paris/street=10-12 rue d'Ath\xC3\xA8nes/O=Blogmusik/OU=Deezer/OU=Gandi Pro Wildcard SSL/CN=*.deezer.com
+subject=/C=FR/postalCode=75009/ST=Paris/street=12 Rue D Athenes/O=DEEZER/OU=Deezer/OU=Gandi Pro Wildcard SSL/CN=*.deezer.com
 issuer=/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Pro SSL CA 2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4961 bytes and written 434 bytes
+SSL handshake has read 5319 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -58,29 +64,25 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 70767F2A833DC166242BF3B8AC52F88FB0999268CDCCA8E15A008523F2284617
+    Session-ID: 7E8F95AF47E08ECF17FCF7F61DB5C487FD5986A5543A2484436E3998B216CAFD
     Session-ID-ctx: 
-    Master-Key: 20176F888A0DD867C221656B3232D7C3C60561355CF756B5E1A80A2F6AE0C3820FEC64DB2A73B9EE3B5C0E7F1FBE1794
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 7E730EB6D1718B7573CE65F1A8943BB7BD0D5B60E8D34A9A5E62534371AFD45486CB82BE5F0F199E3557DE1447A0BB9B
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 06 6e 8c df 64 4e 03 af-93 a2 d2 30 65 f3 1d e4   .n..dN.....0e...
-    0010 - 5a 77 25 90 f9 45 e3 c9-ba e6 43 7a 5c 37 c8 7a   Zw%..E....Cz\7.z
-    0020 - 2b c6 76 3e 08 39 d8 28-5d 6d 3d a2 f6 45 4d 0e   +.v>.9.(]m=..EM.
-    0030 - 62 21 7f 28 c0 d7 a5 be-29 0f d9 de 52 67 fb 79   b!.(....)...Rg.y
-    0040 - 61 ef cb 86 30 dc 26 21-3c 62 aa e4 4a c2 f9 c3   a...0.&!<b..J...
-    0050 - 01 92 01 d3 a0 2d 2e e5-18 f0 e8 b8 ba c1 2d e3   .....-........-.
-    0060 - 42 6d bb dd 9c 2a f5 40-87 77 38 1a 5d ff 72 04   Bm...*.@.w8.].r.
-    0070 - e9 02 b1 ea 18 13 1b 8a-80 80 4c c9 f0 1d 3a 83   ..........L...:.
-    0080 - 52 f2 ec 03 8e 17 0d 61-56 aa a6 ca 47 31 b9 7a   R......aV...G1.z
-    0090 - e7 ef aa 47 d2 e7 82 69-40 64 59 b1 97 ed 6b 1a   ...G...i@dY...k.
-    00a0 - 0c 73 60 09 07 d8 bf bf-b8 fe ad a5 6b 7c 25 5d   .s`.........k|%]
-    00b0 - b2 5f 56 29 4f 0c a0 b2-bc 0e 9f 14 83 fd 72 67   ._V)O.........rg
+    0000 - e2 4b ae 9b 1e 74 10 05-49 6d 78 bd 7a af 98 e9   .K...t..Imx.z...
+    0010 - 59 5d 97 ce 13 59 d6 fd-29 10 2b c6 b1 cc cd a1   Y]...Y..).+.....
+    0020 - 2e 56 21 7c 33 65 4f cf-61 6f 04 8c 09 84 47 c6   .V!|3eO.ao....G.
+    0030 - 71 31 be cc 82 c8 a4 d0-67 94 e8 1d aa d8 7d d1   q1......g.....}.
+    0040 - 2e 75 59 db c9 81 31 a4-55 50 5d d6 21 a4 10 38   .uY...1.UP].!..8
+    0050 - 81 72 0f 5d f2 ee 68 41-4f 29 27 bb 40 02 c3 49   .r.]..hAO)'.@..I
+    0060 - ac a5 bf da 7f 59 b4 59-de 06 bf bb ce 8d 01 8d   .....Y.Y........
+    0070 - df dd 52 09 b9 33 ff f2-b0 67 99 cb f7 15 31 07   ..R..3...g....1.
+    0080 - 74 8b 2b 03 65 97 bf 0c-4b b4 5b 9d 98 82 6f 43   t.+.e...K.[...oC
+    0090 - 24 32 e4 1c 72 28 c5 46-2b 48 91 a9 99 c4 26 6d   $2..r(.F+H....&m
+    00a0 - de 85 c4 d9 8e a9 3f f3-3a ae 6c 8d ce e0 2a 32   ......?.:.l...*2
+    00b0 - 87 14 bc e2 04 00 8c 28-7e 70 7e da 7d f0 da a4   .......(~p~.}...
 
-    Start Time: 1472789679
-    Timeout   : 300 (sec)
+    Start Time: 1577475639
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

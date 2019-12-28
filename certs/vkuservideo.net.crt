@@ -1,0 +1,66 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/C=RU/ST=Saint-Petersburg/L=Saint-Petersburg/O=Vkontakt LLC/CN=www.vk
+   i:/C=RU/ST=Saint-Petersburg/L=Saint-Petersburg/O=Vkonteks LLC/CN=www.vk
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDaTCCAlGgAwIBAgIJAIOlN0kQ4UkhMA0GCSqGSIb3DQEBCwUAMGsxCzAJBgNV
+BAYTAlJVMRkwFwYDVQQIDBBTYWludC1QZXRlcnNidXJnMRkwFwYDVQQHDBBTYWlu
+dC1QZXRlcnNidXJnMRUwEwYDVQQKDAxWa29udGVrcyBMTEMxDzANBgNVBAMMBnd3
+dy52azAeFw0xNzAzMjAyMjQ0MzBaFw0yMDAzMTkyMjQ0MzBaMGsxCzAJBgNVBAYT
+AlJVMRkwFwYDVQQIDBBTYWludC1QZXRlcnNidXJnMRkwFwYDVQQHDBBTYWludC1Q
+ZXRlcnNidXJnMRUwEwYDVQQKDAxWa29udGFrdCBMTEMxDzANBgNVBAMMBnd3dy52
+azCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK0zdRdvKqZbd53NsTjQ
+FpWQIU8N8Pns8hoc12l6UjsBkzW0dSt/Vaju/sOVx94NztdUHAj9xTgK/KntDaRt
+KFvhlUWNLBw5anrFxj1pKooMVRp9faHLgt3eEVkZN+3UugCS0D/vpDPTXAFKAgjM
+XALJqNDB/TtZJQCg2YR8IGuawLhVGpuWYLZs842DZ4R637a4H+GVyHAyFEHRA3mJ
+l2173dYbPRvZI1RXHS013I3i23nUIhio/vug09kMFlQadmb0l3/1YoPhrfLeOZuu
+OHp9iY9luMbqpYdyO/+0YbU0GaMlhMvLBrslfu6QzaBflNUwxMYUGRbxNopEHMn6
+3Z8CAwEAAaMQMA4wDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAA/9Y
+hWI80BdaeIVxKGK8MBOqhNHdfxxekGsz6ir6kDfY/WvqAAnNaMgI5VUpgMnDT2NK
+aF8W4HdkNFWjTEL1wvq0dphuc7RLOZP8Z3U3YkGhtuscyXwz/8laMWPDxIblfRYM
+8K6VktyhPCs1/BEL8ro0KNWXkNPloGJa+tLl/sXJuO93f++foGIiCdEbWms8Xmxw
+8WmO21M/apxzIiY43q3jWgTtgJA3A56wAVm74nxeD+mAhoeV5teSstwsNB4JTa8W
+G33Q0qex4UgmnIcOd20TWkdiVYHpy4WMYtjW3rDurV1fHUJWcG4b1hTiz8ODGpUR
+QOwzTxp9N5sdGxAiiA==
+-----END CERTIFICATE-----
+subject=/C=RU/ST=Saint-Petersburg/L=Saint-Petersburg/O=Vkontakt LLC/CN=www.vk
+issuer=/C=RU/ST=Saint-Petersburg/L=Saint-Petersburg/O=Vkonteks LLC/CN=www.vk
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 1514 bytes and written 289 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: A41A903EEA978C9269F81AAB036235111C111D9582E3C23A898ABE2699EC36BD
+    Session-ID-ctx: 
+    Master-Key: 486B025A168B98AE8386F53DB70E4B96206455A409369C2CD92B116D7549731472831CC61E569C6BFB6F535DA4CD9881
+    TLS session ticket lifetime hint: 3600 (seconds)
+    TLS session ticket:
+    0000 - 66 cc 7e 32 0e 86 54 ac-ad 10 27 47 42 4c 23 1f   f.~2..T...'GBL#.
+    0010 - ef 18 ab b0 d8 c5 fb 0a-d1 ee 7f 49 dc e2 49 ef   ...........I..I.
+    0020 - 8f 60 4a 2a bf b1 f8 c8-f1 61 f3 f4 d7 27 93 53   .`J*.....a...'.S
+    0030 - de 05 db 39 de 15 d7 90-9e 36 1d b6 38 4f 87 6d   ...9.....6..8O.m
+    0040 - e2 e8 1a 70 a2 44 ee eb-75 dd fb 6f 17 ac 0b bc   ...p.D..u..o....
+    0050 - da c1 a2 5a 9c 70 be be-c3 06 cd 95 09 dd 56 18   ...Z.p........V.
+    0060 - 4d 47 50 50 cd 94 01 31-37 35 3b a3 28 e2 d2 e3   MGPP...175;.(...
+    0070 - fc 53 c4 fd 14 96 7c cf-19 c7 55 42 f1 f2 31 c4   .S....|...UB..1.
+    0080 - 80 c9 ec 1b 38 76 c1 c5-38 e6 f4 18 70 60 b9 8e   ....8v..8...p`..
+    0090 - 7a 13 3e 8e 63 8f 84 35-e3 48 6a 04 bf 7f e4 4a   z.>.c..5.Hj....J
+    00a0 - af ce b2 ca 38 e3 d0 ea-f2 7c 07 5b 32 d7 51 06   ....8....|.[2.Q.
+
+    Start Time: 1577475643
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

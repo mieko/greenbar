@@ -1,2 +1,0 @@
-"eksisozluk.com": "A+"
-

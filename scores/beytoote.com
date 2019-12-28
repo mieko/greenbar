@@ -1,2 +1,0 @@
-"beytoote.com": "A"
-

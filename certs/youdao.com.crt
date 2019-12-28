@@ -1,54 +1,59 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=CN/ST=Beijing/L=Beijing/O=NetEase Youdao Information Technology (Beijing) Co., Ltd./OU=Youdao Dept./CN=*.youdao.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=CN/L=\xE5\x8C\x97\xE4\xBA\xAC/O=\xE7\xBD\x91\xE6\x98\x93\xE6\x9C\x89\xE9\x81\x93\xE4\xBF\xA1\xE6\x81\xAF\xE6\x8A\x80\xE6\x9C\xAF\xEF\xBC\x88\xE5\x8C\x97\xE4\xBA\xAC\xEF\xBC\x89\xE6\x9C\x89\xE9\x99\x90\xE5\x85\xAC\xE5\x8F\xB8/OU=IT Dept/CN=*.youdao.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFHjCCBAagAwIBAgIQLSGd2LYQ2QIqlYpuDkzSbzANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwNjE2MDAwMDAwWhcNMTgwOTE0MjM1
-OTU5WjCBozELMAkGA1UEBhMCQ04xEDAOBgNVBAgTB0JlaWppbmcxEDAOBgNVBAcU
-B0JlaWppbmcxQjBABgNVBAoUOU5ldEVhc2UgWW91ZGFvIEluZm9ybWF0aW9uIFRl
-Y2hub2xvZ3kgKEJlaWppbmcpIENvLiwgTHRkLjEVMBMGA1UECxQMWW91ZGFvIERl
-cHQuMRUwEwYDVQQDFAwqLnlvdWRhby5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
-DwAwggEKAoIBAQCZRhMbOuG/CkPAwBfvOwX9j6pf8gAGhD0r/pDG4ysj5d+zMYXo
-p1EDpDguRaZrhX74KKqeLhtQDbA3adI29bWnNiwDkpBiXAMd/HEYBLonI+f8/LIv
-sbYeJv7PmAvjEO1rGouEaPXQlzKFFN6vFWHZwfCY7DomozjXd0Fb6F7Nki9O4Efk
-vs1kjGUuIJkiJV9kmAut/5lrtexwzEtxXiWTDjUKP5yxNBm1oy62D57mS88od3kG
-W6UfAUCRMS8UCdzUGTh5y0KYerbyrq0AxSmWv25ugTpO4oKxb4FdS7C4gedH+Hih
-O3HRwR7s6+CFA9LPxY6HZvxSQGFmAXfFnoDLAgMBAAGjggGqMIIBpjAjBgNVHREE
-HDAaggwqLnlvdWRhby5jb22CCnlvdWRhby5jb20wCQYDVR0TBAIwADAOBgNVHQ8B
-Af8EBAMCBaAwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2duLnN5bWNiLmNvbS9n
-bi5jcmwwgZ0GA1UdIASBlTCBkjCBjwYGZ4EMAQICMIGEMD8GCCsGAQUFBwIBFjNo
-dHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVn
-YWwwQQYIKwYBBQUHAgIwNQwzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291
-cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
-BQcDAjAfBgNVHSMEGDAWgBTSb/eW9IU/cjwwfSPahXibo3xafDBXBggrBgEFBQcB
-AQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nbi5zeW1jZC5jb20wJgYIKwYBBQUH
-MAKGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3J0MA0GCSqGSIb3DQEBCwUAA4IB
-AQB9G/8jxqCyw3Ytg9aCtb4kP4+0FxZOgD8A1geazLwZU6Ap+E1BfGl+znLWjUaL
-+1Bdp1giTHY/3NNJXjKUYmNFuejbh+dvFe2LWVwSlo05OLN/fuGUfLnUDUiM4EpI
-x45vmdvp0R/bfumtrdtOEBcNVWndRNIOinddgzbqK2YOq0qMrWIBnzmbDemgCE5j
-yhdWPU4m11pWlpO3WWsJN5blbJP2EfLDtc7Ql9ovvKFdLFcU+ruZ+nogmja8gIA6
-iTvTCv9sCJNfEjeIgFStilchDfuRvJM+ieUf4+ZByLv4x8YEEehlgpJoGNfBawXd
-gyudUyUiT43WqfAMulIWC7JI
+MIIGlzCCBX+gAwIBAgIQBcey+GOphncA7Sc8Wv4flzANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAe
+Fw0xODA3MTEwMDAwMDBaFw0yMDEwMDkxMjAwMDBaMIGCMQswCQYDVQQGEwJDTjEP
+MA0GA1UEBwwG5YyX5LqsMTkwNwYDVQQKDDDnvZHmmJPmnInpgZPkv6Hmga/mioDm
+nK/vvIjljJfkuqzvvInmnInpmZDlhazlj7gxEDAOBgNVBAsTB0lUIERlcHQxFTAT
+BgNVBAMMDCoueW91ZGFvLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBANAGgiwSZnytI+TGLCoWgGfwYT/XsYsnZYAiFr4r8zSdrV/MScs4keUT/h6g
+DO4BASnvU2UPbZ3wc64GtnUl1NaRmEUiyjTWEUIXNxdE9YJq9jxj0GGd1PpEKvFW
+QELBXZtzAlrradbZZgPKpcbxM/2Jf4/BoSV3UbNMNp5xPT5C0ARB6xxl35/Fu9vi
+k6vQK32CeKRsbn0vX3Wj3JfU7SYAW+5Yvz2RU3RAn+ohx2Nj3DQbYEwEdtOka0E5
+aahMMNaBnkHjcw3ryVgehYMw0omiVPuHlTHjkB0NRnDuQ9Tv8MU3cQAneBhTWlbL
+EAF5vFZVrE/BE0tN8hIxPFxyj1cCAwEAAaOCAyowggMmMB8GA1UdIwQYMBaAFJBY
+/7CcdahRVHex7fKjQxY4nmzFMB0GA1UdDgQWBBQlXI0/SorzSrT9bCw5KmZ+AF5X
+wzAjBgNVHREEHDAaggwqLnlvdWRhby5jb22CCnlvdWRhby5jb20wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA/BgNVHR8EODA2
+MDSgMqAwhi5odHRwOi8vY2RwMS5kaWdpY2VydC5jb20vR2VvVHJ1c3RSU0FDQTIw
+MTguY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0
+dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMHQGCCsGAQUFBwEB
+BGgwZjAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AxLmRpZ2ljZXJ0LmNvbTA9Bggr
+BgEFBQcwAoYxaHR0cDovL2NhY2VydHMuZ2VvdHJ1c3QuY29tL0dlb1RydXN0UlNB
+Q0EyMDE4LmNydDAJBgNVHRMEAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgA
+dgCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAWSIby1nAAAEAwBH
+MEUCIQDbrEoQbLzp6hfLfhFexSLDhoythbSY73dr5kGGqOJceAIgboGmKljfyTIR
+4ShWLvb9VrOkizW/rut9SmBEQumjlr4AdgCHdb/nWXz4jEOZX73zbv9WjUdWNv9K
+tWDBtOr/XqCDDwAAAWSIby4zAAAEAwBHMEUCIAo+OJ/xJ8H2y4WH98fUzOV8IuTt
+Xjbi0C0ZBeNAq+90AiEAkAv4HOZNU5zgtAVhA3AYw8kmh9wNEtUfvS+4eA/99a0A
+dgDuS723dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9ywAAAWSIby24AAAEAwBH
+MEUCIEP7uXe8Xpas35eVRaHe+zzeXli7M4EzpswM8dxx1d0lAiEAuLG824lTcr8A
+0QM6IeiXQ+Ra40kvbiROYgLEPuS6hLwwDQYJKoZIhvcNAQELBQADggEBAJTGfF0p
+xMOZRS8RmviTQYPcANTi2gQfNvJmHebLJAoXTjXCp4eaAo53P7I17r0iCild5Tma
+9v1UQxu+ZXgntLerZedLA1AEvPtjWBgARJ42T1dwsG3GRcxPsY4KkIVy1gtROfER
+mfDRyVgctWLpbTmKdR3O5uSw90JeA5HxE07BTILkejYstB4Y06pR42lbYbtn01fU
+TYIb9Yllgn/C6Z02sNkFkJEhxqAzLGNqc+a4JfhoF8JHMcTEDFB10PAdhyQT8DBK
+BgLAVh5LCHPZV9411tkK/2BzWi7OY2mbHFARFJvk+DqWZ8veqICJh5vaLg3uVWVI
+jHPA8BuY0nNlAQ8=
 -----END CERTIFICATE-----
-subject=/C=CN/ST=Beijing/L=Beijing/O=NetEase Youdao Information Technology (Beijing) Co., Ltd./OU=Youdao Dept./CN=*.youdao.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/C=CN/L=\xE5\x8C\x97\xE4\xBA\xAC/O=\xE7\xBD\x91\xE6\x98\x93\xE6\x9C\x89\xE9\x81\x93\xE4\xBF\xA1\xE6\x81\xAF\xE6\x8A\x80\xE6\x9C\xAF\xEF\xBC\x88\xE5\x8C\x97\xE4\xBA\xAC\xEF\xBC\x89\xE6\x9C\x89\xE9\x99\x90\xE5\x85\xAC\xE5\x8F\xB8/OU=IT Dept/CN=*.youdao.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4193 bytes and written 434 bytes
+SSL handshake has read 3511 bytes and written 318 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-RC4-SHA
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -56,28 +61,24 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 022DFAC72E0D0CEA51CA7478D0203624C142849ECECEDA93110EFBFC1315965C
+    Cipher    : ECDHE-RSA-RC4-SHA
+    Session-ID: AC449A93A3779623A94E0402E7AE06EE82A9CB940BE2B805D07F1831B4D8BCFF
     Session-ID-ctx: 
-    Master-Key: 7BB137303910C549492DF4B9B9D473B06B60E4FFB233205683B035D49D41AED2B4C1FF02DC3FEEF8E21045A1110C5891
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 600 (seconds)
+    Master-Key: A99B4FB3E6F127B55011723ABAE1A8AE91A724F63D87BBEDB633C5DD50A32AF9B3E5A8974F6CC1FB26C1E1096A4691A8
+    TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 17 93 a1 9d 98 90 ef 4b-8d 10 43 21 a2 a6 e7 e3   .......K..C!....
-    0010 - 43 44 fc ad 7b 34 18 4f-47 43 ff 65 9f 51 67 d1   CD..{4.OGC.e.Qg.
-    0020 - bd 3c d8 cb 34 39 6c 79-9b e3 4d 47 37 a4 0b cf   .<..49ly..MG7...
-    0030 - 62 0b db 56 f3 d0 6b c2-97 ee 1a 02 29 5e 3d ea   b..V..k.....)^=.
-    0040 - ff 0f e0 cb 83 6e ba 24-1a ae e6 1c 31 53 57 6a   .....n.$....1SWj
-    0050 - 2d 09 80 40 55 ea 0a dd-bb 90 56 6c b8 d0 cd 95   -..@U.....Vl....
-    0060 - f2 23 15 8b 33 30 c1 de-20 f0 1a 8f eb d8 b9 a8   .#..30.. .......
-    0070 - e4 13 ca 8e ef d7 74 96-5d 18 89 55 21 11 5c ef   ......t.]..U!.\.
-    0080 - 8a 27 2d 34 ad 0f 1a b1-dd 22 45 d5 fc 2a 86 8d   .'-4....."E..*..
-    0090 - fc ae 2b c1 78 8d 30 cc-4a 16 f8 05 bd a3 31 11   ..+.x.0.J.....1.
+    0000 - dc b6 b9 b0 a8 ec 4f 2a-70 aa fa d7 c6 27 3b 06   ......O*p....';.
+    0010 - 81 89 fd a6 62 d2 90 38-01 6a 03 4b a4 45 8f d3   ....b..8.j.K.E..
+    0020 - 2b 81 f1 48 97 61 a8 f3-1b 0b 68 7d 5b 8c 49 d4   +..H.a....h}[.I.
+    0030 - 65 f3 7a 9e 08 f3 e0 fd-e7 c9 96 d0 2c 55 09 a9   e.z.........,U..
+    0040 - 1b 40 4b e7 d9 dd 43 f8-fd b2 e6 3a 14 cc 59 37   .@K...C....:..Y7
+    0050 - d6 55 bb db 39 94 e7 57-a8 3b 14 53 00 b0 6b b5   .U..9..W.;.S..k.
+    0060 - 40 9d 94 3d d7 39 37 48-61 59 53 f1 83 be 14 3a   @..=.97HaYS....:
+    0070 - de 3c f4 ab 19 d8 78 41-a8 94 e6 a7 e7 38 17 1f   .<....xA.....8..
+    0080 - f3 86 30 b7 1d ad 29 d7-bd 4c 37 09 46 93 5d a4   ..0...)..L7.F.].
+    0090 - 5d a3 91 d3 56 a0 2f b3-d7 a6 40 bd 70 4e 59 47   ]...V./...@.pNYG
 
-    Start Time: 1472788336
-    Timeout   : 300 (sec)
+    Start Time: 1577475045
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,0 +1,68 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=router-95216439.default.svc
+   i:/CN=openshift-service-serving-signer@1548535196
+ 1 s:/CN=openshift-service-serving-signer@1548535196
+   i:/CN=openshift-service-serving-signer@1548535196
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDnzCCAoegAwIBAgIIdvzDlNASSY8wDQYJKoZIhvcNAQELBQAwNjE0MDIGA1UE
+Awwrb3BlbnNoaWZ0LXNlcnZpY2Utc2VydmluZy1zaWduZXJAMTU0ODUzNTE5NjAe
+Fw0xOTAxMjcyMTA0NTBaFw0yMTAxMjYyMTA0NTFaMCYxJDAiBgNVBAMTG3JvdXRl
+ci05NTIxNjQzOS5kZWZhdWx0LnN2YzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAMocL3gNRIoZCZ7KfTVR07dRNGSPcVRuJxuMVparuHrinNxF1lbcYGV7
+WFIiG72v+Dqc971RzlIvU4z3TGiaLhRFa8PHq4K+YY736CI66WeYnsC2Wv6Tb8jY
+imUjBd+tskdO3JnxneCU/6s3D9+KLkALvPP/Jt5mVLIRFXWb8mHE8Bhf7YQnMiNv
+4Ot79AVfClV7VOoSu2jPEpKQsX9wEln0+m1DzIPpKHdkXVUNDB2T09zusPpAC8NT
+tn7tWZ4ZMuK+oKdhREGYpDUmVg354Iw8tpkXnjt0KkgG/hJLM3uy9nPjv56m5Qu3
+WDdG7ruOc5vUzHOHdvYZMIAekQbCAtkCAwEAAaOBwDCBvTAOBgNVHQ8BAf8EBAMC
+BaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADBRBgNVHREESjBI
+ghtyb3V0ZXItOTUyMTY0MzkuZGVmYXVsdC5zdmOCKXJvdXRlci05NTIxNjQzOS5k
+ZWZhdWx0LnN2Yy5jbHVzdGVyLmxvY2FsMDUGCysGAQQBkggRZAIBBCYTJDMwMjIz
+ZmQ1LTIyNzctMTFlOS1hMGQzLTAwNTA1NjAwNjhmODANBgkqhkiG9w0BAQsFAAOC
+AQEAmOnpL17LH69qK4uWe+6GBOqw5YkhroivjqQ5aFe6Q3Z5nTdG/SsB8KLiRC49
+OyRdeMaoswu5tQRX6dz33uzTRjkb4Tv0f4X1AEtGqEx3HgfXMcTt7AHNY+xEd7Ct
+K4zJ2AhEsuWdn4dXbrnXSBe4CI7K0vsDg181coWrIZU5xfsuxC0+3rQI1P5n5vsi
+ssWCYUOVjdF3r0PT20sMtkUY9Cqa/rxELHYT27kDpfPMMdOfjUp18K3ZqkbKzYSG
+FXKrBe4J9rLMKozyHE7d4i6v0nglSwoOP1bOqULylIKeUf8VP9r2hVkdy60DonhT
+UgoZYlPffBdg/u3dq2r5ljXKng==
+-----END CERTIFICATE-----
+subject=/CN=router-95216439.default.svc
+issuer=/CN=openshift-service-serving-signer@1548535196
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2370 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: C7E5329621F7357A88C93B4C70E490612F04C4C4058152CEEE71BD18DB4D2C4B
+    Session-ID-ctx: 
+    Master-Key: 9EC255BCD68C3DA48F806446D0513C5393E70FF9ADCB941C5B4FA9B303C0112EF92CC3DD7B1AE6455D28675A76477DC6
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c2 ab a6 96 84 ec fd 84-bf 64 34 4b 1d aa b6 03   .........d4K....
+    0010 - 13 fd 6c 98 63 a2 14 41-a2 19 22 d6 43 aa ee c6   ..l.c..A..".C...
+    0020 - b9 56 84 3c 4d 69 2e f5-8c 25 4f 9d 45 48 01 13   .V.<Mi...%O.EH..
+    0030 - 10 23 0a be ff 74 66 b9-44 bd 22 5d a6 5d bc 02   .#...tf.D."].]..
+    0040 - 11 f7 e1 ab ef 7e 63 9e-e0 65 24 b9 c9 48 ce 0d   .....~c..e$..H..
+    0050 - f5 97 10 dd 89 96 97 ca-c6 ba a9 a7 6a e9 cf 7d   ............j..}
+    0060 - ac 88 6f fa 6c 69 9a 57-00 4c 1c df b2 ae 61 e3   ..o.li.W.L....a.
+    0070 - 81 ae f8 3f 2b 3d a0 3a-27 84 14 ee 33 26 d0 70   ...?+=.:'...3&.p
+    0080 - d5 df 4c 38 5e db 9a 76-b0 ea 8e 82 db 02 79 25   ..L8^..v......y%
+    0090 - 7d a8 37 f2 9e e6 40 5a-8d b4 6a 4d 59 de ab 49   }.7...@Z..jMY..I
+
+    Start Time: 1577474989
+    Timeout   : 7200 (sec)
+    Verify return code: 19 (self signed certificate in certificate chain)
+---

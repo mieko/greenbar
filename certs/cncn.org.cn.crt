@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=api.cncn.org.cn
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Encryption Everywhere DV TLS CA - G1
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Encryption Everywhere DV TLS CA - G1
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFhDCCBGygAwIBAgIQCjrX0W7SNui7KFVS92MpaTANBgkqhkiG9w0BAQsFADBu
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS0wKwYDVQQDEyRFbmNyeXB0aW9uIEV2ZXJ5d2hlcmUg
+RFYgVExTIENBIC0gRzEwHhcNMTkwNTE2MDAwMDAwWhcNMjAwNTE1MTIwMDAwWjAa
+MRgwFgYDVQQDEw9hcGkuY25jbi5vcmcuY24wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCbmuALa4wQUl5GDicLAP47P1U9Gp37cznWJxL57K1/7pGnCoZf
+TGDJ14Xwz/X1Lk5Gj6z29Abq6HxGF7SABuERUSHI/sJcFGWTlkbLymE15azSpCqn
+cZAmojMsXVayUbvGw45TicHtjyU2SOeMdZu17RnP8Gort3hGhu2AhC+SONEJntxy
+z4GynR+oIU8hJpk9Kn7w0YhHk4oAepiv61bsat/PQFkBoun82X61RSk0nv+v3JbA
+sKVZmAb4WGZx/qbDzVFb59IlbEzBwgjpRTqW7PX+Yy4k4JnQ9wWt6BIwzDHzsfka
+1Il/ij07JwBfeDBifp6K/yrmxEfYmJjnNL3vAgMBAAGjggJwMIICbDAfBgNVHSME
+GDAWgBRVdE+yck/1YLpQ0dfmUVyaAYca1zAdBgNVHQ4EFgQUJGwQEcmfxIDcGK8g
+bi9IiMZZ830wGgYDVR0RBBMwEYIPYXBpLmNuY24ub3JnLmNuMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTAYDVR0gBEUwQzA3
+BglghkgBhv1sAQIwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQu
+Y29tL0NQUzAIBgZngQwBAgEwfQYIKwYBBQUHAQEEcTBvMCEGCCsGAQUFBzABhhVo
+dHRwOi8vb2NzcC5kY29jc3AuY24wSgYIKwYBBQUHMAKGPmh0dHA6Ly9jYWNlcnRz
+LmRpZ2ljZXJ0LmNvbS9FbmNyeXB0aW9uRXZlcnl3aGVyZURWVExTQ0EtRzEuY3J0
+MAkGA1UdEwQCMAAwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwDuS723dc5guuFC
+aR+r4Z5mow9+X7By2IMAxHuJeqj9ywAAAWq+TX7DAAAEAwBIMEYCIQCvwH4NpaNh
+a3/Nn837UO1Fxp+9NdO2OLQUoM4+htqcswIhAKEH5WKTEGJicwCV5Et0on7sejqk
+MDKIIFJ44R1iHQgVAHYAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVgA
+AAFqvk16FAAABAMARzBFAiBymXcNpVJY2v+i16yEtnGO5PZl5Lvu2K2Gdh7bManM
+AwIhAOI+hAobs5Wh6y0b6v18IpRtnN+mAPD9zuf2vkZ/cKyXMA0GCSqGSIb3DQEB
+CwUAA4IBAQCRjZ0dvteA67NtTkNE/TYu52ncUpHSOMcqnDyyZLzB4/OIqBXoO39N
+DDoWank2ZzagXL+i29G5zz//S4X4dQZZBdU2p4/J3cCoj6XOm5Q3X29hj+A7TQYO
+23TDQv8T7AvOCQhfmE4V5R1invYpimXc73jHgvBF2DdNFX68sqdR/IYMMO7XgDWA
+i68Cb4qIj/gkF5WknUuDOvI29o3qtw1jvAP809o+piur5JppEQn76QX21QeyzB85
+oKvpbHFWN8iO8VqtrpNtKDVQHG45IvltN+B3uYugHWQQ/to8B1HcPaXdH+ByJiOx
+LEC0Cm8iC6L8Q/Nw5vHgN6eU56iVb5qn
+-----END CERTIFICATE-----
+subject=/CN=api.cncn.org.cn
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Encryption Everywhere DV TLS CA - G1
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3287 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: ACC70D382B714E638B41C7C8D5599FA2E33AF32B7D018814426D7A1B31868D14
+    Session-ID-ctx: 
+    Master-Key: D9BF5F4F1DE2654884FED1B73B8BDC900BAF2AC37B3D48E03853BCC046029E7F03936A675D77CFB70B0FB77DD5D1749F
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f3 a2 a9 4f 3b 89 55 30-61 51 58 f6 b0 9c c8 1a   ...O;.U0aQX.....
+    0010 - 91 c1 4e d0 43 d6 9b 53-3d 61 96 ab 63 00 ae ab   ..N.C..S=a..c...
+    0020 - b3 3c 95 f2 cf 81 4d 99-6d 03 9a 4a c3 4b b4 ba   .<....M.m..J.K..
+    0030 - 45 cc 48 8b d1 b2 e3 bd-99 f7 5b 49 f2 f7 c7 b0   E.H.......[I....
+    0040 - 98 b0 16 86 b4 43 ea 04-b5 7d fb bd da 02 14 6b   .....C...}.....k
+    0050 - 8d 12 da c8 92 b0 22 e5-a2 83 ff 5d be 5d 0c d4   ......"....].]..
+    0060 - 21 8d fb 83 6a e6 a2 e3-6b 3b 1b c8 b7 27 02 3b   !...j...k;...'.;
+    0070 - f4 05 15 e9 83 85 bb 55-0c 94 95 90 67 2b 24 3a   .......U....g+$:
+    0080 - dd ca fa 4c 2d f4 f3 ed-21 78 09 39 50 e9 48 d6   ...L-...!x.9P.H.
+    0090 - de 65 7c 93 e3 25 e8 ec-aa 56 c0 09 f5 1d 34 de   .e|..%...V....4.
+    00a0 - 96 c1 2c b4 a2 df cb 08-bc e7 4b 8c 60 b9 b6 64   ..,.......K.`..d
+
+    Start Time: 1577475068
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

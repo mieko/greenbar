@@ -1,51 +1,38 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=CA/ST=Ontario/L=Ottawa/O=Shopify Inc./CN=*.shopify.com
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
- 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 0 s:/O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
+   i:/O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFRDCCBCygAwIBAgIQDkrFyclKvLeYqco5hWvOdjANBgkqhkiG9w0BAQsFADBw
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
-d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
-dXJhbmNlIFNlcnZlciBDQTAeFw0xNTAzMjYwMDAwMDBaFw0xODAzMzAxMjAwMDBa
-MF8xCzAJBgNVBAYTAkNBMRAwDgYDVQQIEwdPbnRhcmlvMQ8wDQYDVQQHEwZPdHRh
-d2ExFTATBgNVBAoTDFNob3BpZnkgSW5jLjEWMBQGA1UEAwwNKi5zaG9waWZ5LmNv
-bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKVZare3yW8u6s1okd3t
-X9X5gtbAnl+OEjO2TUi38SP9rHGNDvRTpRuBJ5jYU2tCImH3jI+3pQR6A9rERavE
-PA2I7gOMRclcrJBnPYVXmopD6KephrSNHywISIy/GHdOU9TTSGpjQUp/N5aSE2Jl
-Q5IUkAUrLyiHntQkXuh2u1+eH+bQXmluxIQG53LK6wjopcykl5WsFEpDAXdO4joi
-y6/vTZIPUaKVS/nTKoDxEvDQ5n1aEwo30YcwrrCaMwMeW0ylkiXClO51cSgVUik6
-Svpxj/2HzVw7I3GlWuiWeFdAbP/X7kFfoBlJyJ4irjZQ7cqTM8EZbD+GnUJG7h55
-qgsCAwEAAaOCAekwggHlMB8GA1UdIwQYMBaAFFFo/5CvAgd1PMzZZWRiohK4WXI7
-MB0GA1UdDgQWBBRDXM1SEspeuVXykrOxlCUghkaHhTAlBgNVHREEHjAcgg0qLnNo
-b3BpZnkuY29tggtzaG9waWZ5LmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYw
-FAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0dHA6Ly9j
-cmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nMy5jcmwwNKAyoDCGLmh0
-dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nMy5jcmwwQgYD
-VR0gBDswOTA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cu
-ZGlnaWNlcnQuY29tL0NQUzCBgwYIKwYBBQUHAQEEdzB1MCQGCCsGAQUFBzABhhho
-dHRwOi8vb2NzcC5kaWdpY2VydC5jb20wTQYIKwYBBQUHMAKGQWh0dHA6Ly9jYWNl
-cnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJIaWdoQXNzdXJhbmNlU2VydmVy
-Q0EuY3J0MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQELBQADggEBALaxyCFE+p0j
-/aFddHnZBEQoP72VK4vPVGqmjUIzNg8ZC7GlNayYQZtOM99AkvpDXk45Paoqg2/3
-3NCYYSNuFdvk9bOs6lurEnyBgU9xejQH6YtvFKafl1qbiC4yjyw6w5KwmS1nuIX5
-aqaDss9e29QSOxftJ6I6jyPQ5nJD598Jm0wlewYXRfnn+AeOY6vYd7bIyHjAe6lp
-G9IdsbYneHFuiRpwms4WY64M8M5dk1zS0rm1Iqkh2YB0xqIT7kD2KrOdc1gPaSj0
-w9xTaBrliFx36ZiDYO4OEteZ9AhJJzNlrCvJmV31QFyQGiIjBkkXwt02glGpK7Hh
-9qVysQjaXPY=
+MIIDcDCCAligAwIBAgIRAMG86QyPrk56ia2mySBy/X4wDQYJKoZIhvcNAQELBQAw
+SzEQMA4GA1UEChMHQWNtZSBDbzE3MDUGA1UEAxMuS3ViZXJuZXRlcyBJbmdyZXNz
+IENvbnRyb2xsZXIgRmFrZSBDZXJ0aWZpY2F0ZTAeFw0xOTEyMDYxOTM4MzZaFw0y
+MDEyMDUxOTM4MzZaMEsxEDAOBgNVBAoTB0FjbWUgQ28xNzA1BgNVBAMTLkt1YmVy
+bmV0ZXMgSW5ncmVzcyBDb250cm9sbGVyIEZha2UgQ2VydGlmaWNhdGUwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDoeEADSe5bmhQD0JG9BxHLlGN7V8GX
+0S/i2mLUZ9BvvC7er8aIZ8eKTGd4wSrMdWE7VnZIFedjq+6nWwodAijKh4Za6my9
+nK3jEzMfEXfpvTXulcPmYUxRPmINYDbAFHLTwmhBrIYe9YjMxhuypOy6/ktfNN8L
+mRzXIwbFlG77MLgSCaIT7W3XiOQ/4Fgs5jLLlA8DovEDtJKTdf75r7HN5I1TJWCE
+vVPCgHxUtzFWL4Xe+zuTot9bR7meQN4MjUaoxBYxRIB7RzpJkmPtt8T6TTGwyFRO
+buKM3626/bEImXvcZQ+FrI5wJXWd1eAj0mcRW7xD0i0h659LJlQqNZrHAgMBAAGj
+TzBNMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMB
+Af8EAjAAMBgGA1UdEQQRMA+CDWluZ3Jlc3MubG9jYWwwDQYJKoZIhvcNAQELBQAD
+ggEBACiEmPyj00+SlF0kEIWqhQ/XeOmXYAv5K8t0p8gUeJNh/YnDxVgmBGmMxFV0
+yRm/eS94UY9KIflBSJRnbfcH3mE35u4X3t3tVpXsA4NMm5kodBcYG8yZPSaBaLr1
+QtZcPO5wmD7L0FYZTL3T2Fyc+TJWZGCXLIph7yO3dtaQQWsSJHuPiZj3IZGU32gl
+0u8E8s2GYofv+0WUazEYH4XtymsuM3NSX3w26JDlB1j1gWuhaYykoNL6mCdeVz6Z
+sdRJ+Iv/8yHx/ujX85JPsA4gIl3NAPy/ImFEysycKaHoFEnjakwcwM1LQxNbw4v/
+8/QoKSlKpJDU6NHvfiXEDDGNv6g=
 -----END CERTIFICATE-----
-subject=/C=CA/ST=Ontario/L=Ottawa/O=Shopify Inc./CN=*.shopify.com
-issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+subject=/O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
+issuer=/O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3235 bytes and written 434 bytes
+SSL handshake has read 1521 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -56,28 +43,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: ABB2658A3FF9E465BE2C28B13E18633DB53D080BB27EE41D06AF73C7DE5FC635
+    Session-ID: 7405283633C6ACD30BD6D88BBF43DFAC5F4AD33BC276E913BD398406EC6CE5C2
     Session-ID-ctx: 
-    Master-Key: F728CEEB4604F577A8A7FC196CD9E0AE361924625EA551A5C83629EF5EB879D75101DA3876856071AD38690706DE6746
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: D981BC85D4B9704774CE671D7F3E58E93F3E1B0B2474D010F5BA74626A112B492950387455AD9F3181F206F34D3C4D42
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - 3d 99 aa 1f e7 ad 4b 53-a2 9a b9 fb ae 24 3b 27   =.....KS.....$;'
-    0010 - 2b d6 17 df 0b 53 f5 e5-6d 1c 0f 23 b3 18 89 ad   +....S..m..#....
-    0020 - 2a de 64 b8 0a 8b f3 f1-99 8e 10 d1 59 56 5f 21   *.d.........YV_!
-    0030 - 04 04 0c 4c 97 57 86 75-45 d5 6b 30 7c 0f 72 fc   ...L.W.uE.k0|.r.
-    0040 - 50 a8 de 38 14 85 ff cc-ea ae 47 9f b9 5c 8a 78   P..8......G..\.x
-    0050 - 1a c6 ea 3b 43 e5 94 59-08 ba 1e 5a a0 98 fe a8   ...;C..Y...Z....
-    0060 - 34 75 ab 89 7d 6b 0f 32-6a a1 20 55 2f 86 f8 eb   4u..}k.2j. U/...
-    0070 - fd 56 c0 c0 cc 80 8c 44-ff 59 6c 98 f9 40 3e ee   .V.....D.Yl..@>.
-    0080 - 47 51 fa 87 8b 28 ad 49-44 39 7a 0a 67 70 e9 3b   GQ...(.ID9z.gp.;
-    0090 - 69 74 a0 06 1b 28 0d 81-d1 1c f0 ee 66 2a 7c 0d   it...(......f*|.
-    00a0 - e8 5a ef c9 1a 77 3e aa-dc 7f cb f8 a7 68 24 c6   .Z...w>......h$.
+    0000 - 0f 9e ef 8b 3d b1 ef d9-cf 23 bd 6f ff 0e e5 de   ....=....#.o....
+    0010 - 56 f7 e1 9a b1 d1 00 dd-19 70 97 a0 54 3e be 45   V........p..T>.E
+    0020 - a2 62 de 12 76 45 26 97-3c c2 53 78 85 21 c7 78   .b..vE&.<.Sx.!.x
+    0030 - f8 a9 21 12 85 f4 58 29-d2 c0 b2 9c 94 87 24 31   ..!...X)......$1
+    0040 - 66 05 49 e7 91 0d 36 fb-5e d4 ff 88 c9 6b 41 27   f.I...6.^....kA'
+    0050 - 7c 53 1c 99 e6 4d 30 60-f1 83 39 96 ab ae 68 e0   |S...M0`..9...h.
+    0060 - 21 2f dc 59 0e 71 bf c3-56 fd 77 fd 3a 58 84 2f   !/.Y.q..V.w.:X./
+    0070 - 1a f7 14 0e 86 68 bf 37-1b 34 71 92 ef bd 19 44   .....h.7.4q....D
+    0080 - 86 8f 2e 22 12 fd 3b 59-8d 63 40 e0 7d fb 00 01   ..."..;Y.c@.}...
+    0090 - 3e 7d d4 1a 4d f4 b0 64-51 a4 1b 62 19 d6 f4 96   >}..M..dQ..b....
+    00a0 - 90 5d 9c b2 8c 53 81 c2-bd 1c 3b 98 78 22 d6 3e   .]...S....;.x".>
 
-    Start Time: 1472788328
-    Timeout   : 300 (sec)
-    Verify return code: 0 (ok)
+    Start Time: 1577475330
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
 ---

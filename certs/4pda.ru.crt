@@ -1,78 +1,84 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl312988.cloudflaressl.com
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+ 0 s:/CN=*.4pda.ru
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
    i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIID8jCCA5egAwIBAgIRAL2cR9LqCccBDcvqlys11c8wCgYIKoZIzj0EAwIwgZIx
-CzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAOBgNV
-BAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTgwNgYDVQQD
-Ey9DT01PRE8gRUNDIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIgQ0Eg
-MjAeFw0xNjAxMDMwMDAwMDBaFw0xNjEyMzEyMzU5NTlaMGwxITAfBgNVBAsTGERv
-bWFpbiBDb250cm9sIFZhbGlkYXRlZDEhMB8GA1UECxMYUG9zaXRpdmVTU0wgTXVs
-dGktRG9tYWluMSQwIgYDVQQDExtzc2wzMTI5ODguY2xvdWRmbGFyZXNzbC5jb20w
-WTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARD1gCrGEjZAS1dnPU01IdTBQ88pax/
-/YoM6ultVQO4p0eNbdpWXva6cgWTJk04k5DpMVRULxousbP/3mIw4tTlo4IB8TCC
-Ae0wHwYDVR0jBBgwFoAUQAlhZ/C8g3FP3hIILG/U1Ct2PZYwHQYDVR0OBBYEFAxO
-xcbAwByTPQM/CJBQTUCvF4iCMA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8EAjAA
-MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysG
-AQQBsjEBAgIHMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5j
-b20vQ1BTMAgGBmeBDAECATBWBgNVHR8ETzBNMEugSaBHhkVodHRwOi8vY3JsLmNv
-bW9kb2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZl
-ckNBMi5jcmwwgYgGCCsGAQUFBwEBBHwwejBRBggrBgEFBQcwAoZFaHR0cDovL2Ny
-dC5jb21vZG9jYTQuY29tL0NPTU9ET0VDQ0RvbWFpblZhbGlkYXRpb25TZWN1cmVT
-ZXJ2ZXJDQTIuY3J0MCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC5jb21vZG9jYTQu
-Y29tMDoGA1UdEQQzMDGCG3NzbDMxMjk4OC5jbG91ZGZsYXJlc3NsLmNvbYIJKi40
-cGRhLnJ1ggc0cGRhLnJ1MAoGCCqGSM49BAMCA0kAMEYCIQCqXiLT4BVGzzwbxuXn
-VkWWJRz5R4u6WVkBHlMTA0RP6QIhAO3D8f7GB0ds9hHQTwhqPo+QlI0DkLS247Qt
-fcoN5t58
+MIIGKDCCBRCgAwIBAgIRAJL1jWXivxDPhDZLbsxp/8UwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0xOTEyMTYwMDAwMDBaFw0yMjAxMTQyMzU5NTlaMBQxEjAQBgNVBAMMCSou
+NHBkYS5ydTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALwcOdYy08VR
+/pD+ZSipyTXm7Q6xf3P1VM2R+/MY7ealpBfhUylxQc6GWW2ZnA2NcCIs9Np5QwcG
+ho5BTsARybRCFJx/XCO6REiMaVCWMBPkp6ac2YmugvEeGMCOWfj16SxhvxOrAQiO
+1wsYqrsIK5opo0CRLhw2/2MfBuLG+lzJ5y9eVJC7qPW2vzQrn0c4lT6nDj9CG/Fp
+AcG1y95Qz+SaRGg7WGPf/Z6aYkQLGt8KP+VnFMgheZgqknp9Hn8VcOmtFTB5EkN+
+p1+gBeYUOFmHayzTSPqBOgTK5HCU7CfCUfn2RTvoaNvpak9fBOzhOb+yiC75iGw3
+FhJZ8917PIECAwEAAaOCAvcwggLzMB8GA1UdIwQYMBaAFI2MXsRUrYrhd+mb+ZsF
+4bgBjWHhMB0GA1UdDgQWBBTgvNGLRFo5/DGSERmwer3BQjg4WDAOBgNVHQ8BAf8E
+BAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIBFhdodHRw
+czovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEBBHgwdjBP
+BggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNBRG9t
+YWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcwAYYXaHR0
+cDovL29jc3Auc2VjdGlnby5jb20wHQYDVR0RBBYwFIIJKi40cGRhLnJ1ggc0cGRh
+LnJ1MIIBgQYKKwYBBAHWeQIEAgSCAXEEggFtAWsAdwBGpVXrdfqRIDC1oolp9PN9
+ESxBdL79SbiFq/L8cP5tRwAAAW8OMyrrAAAEAwBIMEYCIQDR1sTpAg5zGiBOR/90
+GjUVykSx0VL9OmDQzMWI+6qmtQIhALEKvrh02a3k+G+Hg5wo8E8U37bLZZ47oYdN
+cFAqbuigAHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAFvDjMq
+3AAABAMASDBGAiEA8nSPgFMHzMwo25FC/3L4c4jUdQGPDHPeiIdIu3QhlJUCIQDS
+NdfrtDxYhK/DsntsL/lEDyy7pade7AO5fRB8eWcrzwB3ACJFRQdZVSRWlj+hL/H3
+bYbgIyZjrcBLf13Gg1xu4g8CAAABbw4zKuQAAAQDAEgwRgIhANSkn7ZU7zSUBtn/
+CItw1L9mvlyYESdUWgAxMF2X361bAiEAq064uyfg+HCeE+yJBELj6jZmjlzKZ9/U
+jhxyZtLKYZswDQYJKoZIhvcNAQELBQADggEBAAOPaKr/6ULPAlr3YN2/IlIQAjQ2
+vHdeNa87wtdxtfieIEQ2qF9+eNgVBvjV9xMMJAUC4P88eY/1LUufqLSpVufLerTh
+WZK8iAoaQoo4iOoZRVGWR2B0/yiei5yYVPlQv30QHNqko3Lxl55XCpfAF9CSUtQb
+zamDhMfTX1hkidCtm5msD9sjA/3vGRmPElGHXZjkst0WP+gbTwbUbQMx41NrzBtg
+5Kt13aLUUldf8r5cnKUi/5TQhER39xRDxK9laMo3Hv/psO5+62DhWFZNJOvsqRMI
+acEgV1aM8nYiIY5m+I14YnrM9N/I4E966Kzh+2w0J8mYIJbTm0BBX6SyOyM=
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl312988.cloudflaressl.com
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+subject=/CN=*.4pda.ru
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3416 bytes and written 434 bytes
+SSL handshake has read 5175 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
-Server public key is 256 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
-    Session-ID: 3399159001CC5027D08C89C41172E7E2C6446DCA90D9BA7C9545BEC0EA03ADBF
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: AEFA165CA795F2A1584964E96963BFBCEC224F14AB092D708A2F91F2EEE26BCB
     Session-ID-ctx: 
-    Master-Key: 4F5D1A3D8E0E28F272C6FDD900732913710FCD58CAF73CA774F72FA25CCB7EC7432C0DD0F2AE17C0C4D4F920479BE79B
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 138E56EDED87E3CF3F2D87CC93C335C16EEEB7F30FC95DBC4813C923A72E198A772A50D5118AC6B8F7E94604DB0AB05F
     TLS session ticket lifetime hint: 64800 (seconds)
     TLS session ticket:
-    0000 - 67 3e 33 d7 cc 57 79 4c-b2 85 a3 1c c8 1b 69 31   g>3..WyL......i1
-    0010 - e1 13 cd 5f eb bb 48 10-8b 8a c3 15 27 1b 85 f7   ..._..H.....'...
-    0020 - 6c 8e 86 4b 62 57 90 1c-ae 51 67 5a 88 a0 69 48   l..KbW...QgZ..iH
-    0030 - 76 2e f4 d4 fc 8e 96 8b-d1 36 bf 3b e5 35 50 f8   v........6.;.5P.
-    0040 - f2 2a e6 06 e6 91 06 17-df e0 a4 16 f0 d1 1a e1   .*..............
-    0050 - 93 da e2 16 db 7b f4 2b-95 a0 b3 9a 27 fa 00 af   .....{.+....'...
-    0060 - 51 f2 dd a0 a3 ff cc ad-0c 2e 6b 5d cf c0 0c 2f   Q.........k].../
-    0070 - bb aa 92 25 8a 9a d7 c4-52 88 aa 25 82 e9 08 e9   ...%....R..%....
-    0080 - 0d d0 a5 9c e2 a0 64 a9-ad 63 46 ba 05 dd 84 2a   ......d..cF....*
-    0090 - 3c 17 ca e5 99 70 2f 06-ca 8d bc af df 02 1f e8   <....p/.........
-    00a0 - 82 ea 3a 54 43 89 29 b9-23 64 2c 05 5b 55 ac 99   ..:TC.).#d,.[U..
+    0000 - 83 6e 63 1d 7d 95 1c 0e-08 cb ad 33 31 20 7e 0c   .nc.}......31 ~.
+    0010 - 3c 09 ff 8b dc 4e fa 7c-70 19 05 9b 7a 54 a0 34   <....N.|p...zT.4
+    0020 - 52 92 90 7d 72 2d 64 31-62 0e 53 d6 13 2a 87 85   R..}r-d1b.S..*..
+    0030 - aa 45 28 cc a5 e0 15 d3-81 c5 f1 06 c2 2f 77 01   .E(........../w.
+    0040 - e8 e0 2f 4f 26 79 3f d0-cf a3 6c af 34 cd 2c 3c   ../O&y?...l.4.,<
+    0050 - 9a 96 41 20 30 a6 a5 c0-97 e3 69 75 8b 70 22 2d   ..A 0.....iu.p"-
+    0060 - 62 ed be 7d 86 1c 7c 93-dc 64 66 34 cc 9d 14 cb   b..}..|..df4....
+    0070 - b7 47 62 da 12 22 9c 18-f3 c2 a3 0f 5e e2 e8 55   .Gb.."......^..U
+    0080 - 3b 0f 97 86 57 11 26 a5-e9 83 1d 63 a8 b8 0c bc   ;...W.&....c....
+    0090 - df 33 c1 e6 f1 22 f1 92-ab 20 e5 d7 8b ee f3 39   .3..."... .....9
+    00a0 - 08 7f 47 bc 9d f9 7e 51-b5 8e 62 2d 4d d7 cc 68   ..G...~Q..b-M..h
 
-    Start Time: 1472789138
-    Timeout   : 300 (sec)
+    Start Time: 1577475969
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

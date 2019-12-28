@@ -1,0 +1,77 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=video.corriere.it
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWjCCBEKgAwIBAgISBHM39c+AKKfBa+/QD9ofxeUbMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMjAwODQ4NTVaFw0x
+OTA2MTgwODQ4NTVaMBwxGjAYBgNVBAMTEXZpZGVvLmNvcnJpZXJlLml0MIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl/DwYacmLgFgx8ZxZgiOUaMP3GV2
+Kss+WUhOxZM6Yt7k2owo8hKPmWOtqFZ2wi/7TbSE9Pc1lBwe/T7qyxSa1haEuiOz
+8NhUjwBpioPQPYBsggzSjKnXkA2dt7de4NCUqYLabZHn57IWijjP6uFWycUshpLe
+TdMeDN8wC6gWFeTZUJru3BkS+ywJj77Iypwd5xcIcVW5wodZ+ymaPfJhRM4PJNEe
+Pj1Mu4miwvTQqvo4swTZuQKlnrbKKH4goZ8LLkQhCH7FNBbW56lVfJ8HAAB5ZgF3
+5cyvx7486fkQy0a2zEYqHyd9LHVKVTVqwGfYwBFMuOEczq2fxZUKmbzPDQIDAQAB
+o4ICZjCCAmIwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQCR69oQrZcjAUNjuGns+9g
+Ufh0yzAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMBwGA1UdEQQVMBOCEXZpZGVvLmNvcnJpZXJlLml0MEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAVYHU
+whaQNgFK6gubVzxT8MDkOHhwJQgXL6OqHQcT0wwAAAFpmoDxfQAABAMARzBFAiEA
+opS8ok29BV3WpW+Lx+9n0725SAxqb/GhF2PkvAk1XO0CIHxmguLqDfML87XzBU2L
+n1kLC4ZTyCL7j1ODJgmNBvORAHYAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHH
+aFRL2I0AAAFpmoDwSQAABAMARzBFAiAxXeTH+ZHJEHt7QBah1qK9cnwGPj9mkXCk
+Ejs5Nb3S8QIhAJXSEkuPtlhHUP0E7rwQ2GxnW+P14eO9SEGBncHu4BwyMA0GCSqG
+SIb3DQEBCwUAA4IBAQBoWhSezHF2KYdzDJrxQzI2AsLnJYD8KCp+XxJijivtJsfH
+8y137DKjiaRicMxSiCREr+3F9jQxzbDdnOtt1yKJFoMTqbxmpiBijeBC93eHOEsm
+Mz1wdqb+bdUmIlPjPfc450BDZDH0BKsjF2qSQBtRQkmtDK+vcHhBrOt6tBxx/Naq
+9jkAGrwWfA0rXRjheqL8pokS6wS+yQNfgLvpq5QKC43BWkaWUobSGHfRXTVKnVWO
+OBMUoXLLcpK3LAG7zaIWUchy3p0ETuFZ4JRtI7B4sL1SJQ+W4X41pXtdaUD+PNy4
+TvhtqI9RiZBd1JcFmVFXXlR8zfuFRbMoRh78dnZS
+-----END CERTIFICATE-----
+subject=/CN=video.corriere.it
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3205 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 93DF0CD41D5FBDF964D31412489279A73332C13EA9DB45ADD15AE1BD55913515
+    Session-ID-ctx: 
+    Master-Key: 5210F5F40BEECE7AC59268E2DC80F2161F402AC65BEAE2F625AB82C1CAE5B6E5A0F21B33FCB1C3DE3C59D5F2525EAB1A
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 1c e5 11 c9 c1 fb 2d 40-94 4c 35 8c 19 2e 63 cf   ......-@.L5...c.
+    0010 - eb b8 48 38 9f f6 91 f8-70 1e f7 8d 14 81 3d 87   ..H8....p.....=.
+    0020 - fe 06 db ad 78 05 42 5f-c2 0b 90 62 ee 2f ce 4a   ....x.B_...b./.J
+    0030 - 46 05 12 13 36 cc 65 91-18 c2 bc f1 39 30 13 62   F...6.e.....90.b
+    0040 - 27 40 0a a6 00 4b b0 75-8e 12 17 6a ee 3e 69 00   '@...K.u...j.>i.
+    0050 - 2d 77 0f 68 66 76 37 05-0d ba b5 60 17 3f 71 07   -w.hfv7....`.?q.
+    0060 - 4e e3 01 05 d5 20 64 62-f5 4a 5a 0a 3e 83 b8 28   N.... db.JZ.>..(
+    0070 - 2f a1 58 13 fc 06 e8 dc-be 2b 77 f9 fd 3e dc 03   /.X......+w..>..
+    0080 - 88 cc c2 54 3b b8 15 6f-00 16 4a 82 22 f3 58 2a   ...T;..o..J.".X*
+    0090 - 4f 6d e5 14 b3 d5 52 45-8b e7 3f bb 45 7c 1e 96   Om....RE..?.E|..
+
+    Start Time: 1577475937
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
+---

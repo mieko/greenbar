@@ -1,63 +1,58 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=Mountain View/O=SmugMug, Inc./CN=*.smugmug.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/CN=smugmug.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIG7jCCBdagAwIBAgIQe/JcPgu4PFXCkUKf4L1jVjANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTYwMjE4MDAwMDAwWhcNMTcwMzE5MjM1
-OTU5WjBqMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UE
-BxQNTW91bnRhaW4gVmlldzEWMBQGA1UEChQNU211Z011ZywgSW5jLjEWMBQGA1UE
-AxQNKi5zbXVnbXVnLmNvbTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIB
-ALFC5EKR65ew5UPa1ujy8bxrEPhy/1F62RQVFHaBbaYSycr2HKLnuC7HzAI0CpJV
-yuvsDVCS7/XnNMIcNtWWQ9aAAtCcXQYRmCcBtZ6rIH7KSBz2gJnt+efBNOsU/DsW
-7N5v2fo3ZkduBUEjNQvKg/jFfm9HKQAvzWF4wkRQeIs1nUb9DdC/FhrUoPM9ud18
-2R6qG+YWQtw6+3m/VkGJRetLSquhmR5eudOprb/nlCtwMbmv5ESAEjFC9gNy9k3g
-7YhAZAQXjJqd/vyR/raXELVsqraUUgOVjsaKorT5tgzWfnbYBqEEifn/NVZojAKw
-j5UbxvlJRTfY90f3diKQDKsuK9WsHVIrlnkp2KawEjCdJmQCfOTWUszL+Ub1dYpj
-zMHJBLrfz7X7aQhSfghP37PUvDU7WJEmGYGDu5F/Wbp1DdGV79ElYPFH/uIb4AP3
-MNqAqbHqS0Nyv3N/CTSjbOeWfowRFO8HGNmevvD/mUt4wAZjZAH9eDh/w3lPujOU
-rwxUx/yEjLJ1OfWHM9b4zKqTUi3fWh4wvmaX64ianZH/uUUx2gBYzJwtc4YWMuG0
-AlGBlxXVPwX4307poPheAt5uCGdplQ6Qz94oaU6b2F7qaMFciOrOv3JLjXd3Ktmd
-8Qae/qvxd4HpCqa8elCOOFQUeYYjmaL35QZcQK5Hf7yfAgMBAAGjggK0MIICsDAl
-BgNVHREEHjAcgg0qLnNtdWdtdWcuY29tggtzbXVnbXVnLmNvbTAJBgNVHRMEAjAA
-MA4GA1UdDwEB/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3lt
-Y2IuY29tL2duLmNybDCBnQYDVR0gBIGVMIGSMIGPBgZngQwBAgIwgYQwPwYIKwYB
-BQUHAgEWM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3Np
-dG9yeS9sZWdhbDBBBggrBgEFBQcCAjA1DDNodHRwczovL3d3dy5nZW90cnVzdC5j
-b20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVnYWwwHQYDVR0lBBYwFAYIKwYBBQUH
-AwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFNJv95b0hT9yPDB9I9qFeJujfFp8MFcG
-CCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2duLnN5bWNkLmNvbTAm
-BggrBgEFBQcwAoYaaHR0cDovL2duLnN5bWNiLmNvbS9nbi5jcnQwggEEBgorBgEE
-AdZ5AgQCBIH1BIHyAPAAdwDd6x0reg1PpiCLga2BaHB+Lo6dAdVciI09EcTNtuy+
-zAAAAVL2XHasAAAEAwBIMEYCIQCmZYisPXEJvkCCdMPdCx5Iw26+ZQHVeMNQqqjZ
-Vc7NbQIhAI+EeRjuGUdD5pcRibaWip1HBM4Xl6DabZtQSaRpxEaiAHUApLkJkLQY
-WBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFS9lx28gAABAMARjBEAiA7UoNe
-2o9CvPkuO/J8o2Ps0YHqtqpdBK1ejAiiawBGnwIgboapyCrGHk9CNIWQg9aUjtp2
-pB0yp4YvB4t9nsmbdHwwDQYJKoZIhvcNAQELBQADggEBANXM1KF/eYwe2mJ0WKq5
-3IsMb1U078GvT/pNHkLMNvXvH+kuvbGkLrkPrmQhMX73jbCLbirh8Mqygj23BlYM
-HIbVn1zX4o5KpNQ7y5reeWIaFxdGTwSRtd9GRk2l/+HwSIlF+tpSWQNc+LzcJ92j
-M7R3E2hKGdJHuGUlQ71AEDvJf4AAGVvL3Xw6bJP+xSCLQHKHE7uKsXf3jvFBE7JS
-5CogMYjw0ReQ5Bp+tnUWY+JLhT7ucH4rAW/iUXtonO0HPU68gsi4FW4IyPBUhJTr
-RO+bbmL9Y7Rdgi1n37NSt6BJvGPsy4d121rZestTtD/8JBFWs3iRJk3WIr+p8e09
-Ek8=
+MIIFbjCCBFagAwIBAgIQDMAMGLmk2bTS3uOV2ldUPTANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTExMjQwMDAwMDBaFw0yMDEyMjQx
+MjAwMDBaMBYxFDASBgNVBAMTC3NtdWdtdWcuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAtlb7yXnRFkIbU4qgja2D+s1nFK4VtJUFh8rZ8i5oWUDV
+U4skEkGu3alZlaRogAzWJuwTkOg13Zb7MOsBBtThxWmXVsoTiLNmsZqGvhkttKgx
+riL0+O+RMNn6Dd81XN9h/SI61wU3+1ChIwZeRznFNJts28m1isIJTjYxzIuN4oGw
+GfHVN6MIDeG6TEymeCX8tZtH/uNpTfogxCt3Jl0ht9TOATEsGK4+F8Ubu6x0Nt+0
+LTalbi3LWIC7kLXsvATN84XBCVBWS2Yui9gHtRtkriU4cf3m6uyDJ5D8y3e1UjQk
+V1bg4rBOnbhyQH3YZ1BVGi6bDquTD7R58pTCQH3IXQIDAQABo4IChjCCAoIwHwYD
+VR0jBBgwFoAUWaRmBlKge5WSPKOUByeWdFv5PdAwHQYDVR0OBBYEFK8OnCHo7a+9
+lOgGIiqsWt8psU3IMCUGA1UdEQQeMByCC3NtdWdtdWcuY29tgg0qLnNtdWdtdWcu
+Y29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5zY2ExYi5hbWF6b250cnVz
+dC5jb20vc2NhMWIuY3JsMCAGA1UdIAQZMBcwCwYJYIZIAYb9bAECMAgGBmeBDAEC
+ATB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnNjYTFi
+LmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5zY2ExYi5h
+bWF6b250cnVzdC5jb20vc2NhMWIuY3J0MAwGA1UdEwEB/wQCMAAwggEEBgorBgEE
+AdZ5AgQCBIH1BIHyAPAAdwCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80OyA3c
+EAAAAW6ez9b4AAAEAwBIMEYCIQDpvjRI2YOdsbXpbAT2toqTveHMmWHbKVl5NqvJ
+UhFT/AIhALUweWr9L+O7nVHhqU3c8nQO/qIKG1uRnPIt1WmcbVsxAHUAh3W/51l8
++IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFuns/XhwAABAMARjBEAiBsIaP5
+fktLzryrZQEAgvary7JXEAn1og3kJWCJNrYDYAIgYxRdeTjaXKYvca4eSgTQ8szm
+33IeA66dlB3P8ELg1TwwDQYJKoZIhvcNAQELBQADggEBAKBOL+3EmMdLbLSegAbo
+3woZqOCnxq0r6UlL+SRWH6vapLZf/eWxdaWU0R/rPVlWwMMHCkWYJS8NwAhTpOEb
+WhQlwu2Z8kHJmkSSEmSoVh+qTWBDBS8Eqg4CaDZxOJJRqkZX/+5cysYwJRsP8uSA
+TLFdKhJohaLsOGLThtpe4hqqDx+2FAkyVwKpaE79ifWT4oC+GKx0j7rBXVnTDMmx
+3YrirbfNmZRjJTVpbMLLd62/CHsW8xGLRPt97u6/6Bp0iR6Vnk2O8eeS48Pok6NT
+qNkps8cE7AIZSPZvsBLYrY1p5peLYU0rAoNmvVJAUAx5S2hpli94k7gEw+7HXG7Q
+MjA=
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=Mountain View/O=SmugMug, Inc./CN=*.smugmug.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/CN=smugmug.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3798 bytes and written 434 bytes
+SSL handshake has read 5330 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Server public key is 4096 bit
+Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
@@ -65,27 +60,10 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 1460DE6295831E17DD6ABDE35E9EAA35B5F062870CDE7F3CF46FF7C620FF26E0
+    Session-ID: 928884D12F510CF6EE0323743FBA31D3D4F74C474704376FD927CE7919459931
     Session-ID-ctx: 
-    Master-Key: A73AB6E4B9E27739A9E069B3B66AD37692F14B4851A0982CB4A0EC7CD9B7DB8484368581959AA48A73734F4BEF4D6171
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
-    TLS session ticket:
-    0000 - c3 9b f5 f9 23 31 d3 54-5d e9 2f 3a cd f1 f7 d6   ....#1.T]./:....
-    0010 - 5c b4 b6 ea f4 2e e6 ba-d7 18 13 aa d8 12 9a 88   \...............
-    0020 - f3 70 54 58 26 d3 af 61-a6 b3 54 7d f7 0c fe 80   .pTX&..a..T}....
-    0030 - 7a 66 b2 8b d2 aa 13 cb-a1 ff 91 7c 7c 86 cc b5   zf.........||...
-    0040 - 7c db 6b 2d 98 33 c5 53-cb 56 ec 4b e0 b2 5c d5   |.k-.3.S.V.K..\.
-    0050 - 15 68 9e 13 91 55 85 f9-24 a8 71 5e 55 f8 28 c8   .h...U..$.q^U.(.
-    0060 - 64 be 8a ac c5 22 ec 83-ac 5b d9 a9 4d 04 a9 7e   d...."...[..M..~
-    0070 - 43 02 6f 72 fe 31 dd 89-4d 79 58 2b fb a5 6f dd   C.or.1..MyX+..o.
-    0080 - 67 f2 cb 4e e0 ed 48 4b-74 c1 75 46 ee 7e de e4   g..N..HKt.uF.~..
-    0090 - a5 a7 f6 bf fd e9 e6 81-f4 7b e0 f0 09 07 87 41   .........{.....A
-
-    Start Time: 1472790404
-    Timeout   : 300 (sec)
+    Master-Key: 36166998588A2AFCD2BFC95A2B693055C033E73DE5805E40F14434F0AA6E27884344F018C4605F85E58EF95C63A4AB60
+    Start Time: 1577475963
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

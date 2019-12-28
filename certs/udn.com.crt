@@ -1,54 +1,56 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=TW/ST=Taiwan/L=New Taipei City/O=United Daily News/CN=*.udn.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/C=TW/L=New Taipei City/O=United Daily News/CN=*.udn.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIF4TCCBMmgAwIBAgIQZi00B0HOF4w9db9+g3SLlzANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE2MDgxODAwMDAwMFoX
-DTE3MDgxODIzNTk1OVowaDELMAkGA1UEBhMCVFcxDzANBgNVBAgMBlRhaXdhbjEY
-MBYGA1UEBwwPTmV3IFRhaXBlaSBDaXR5MRowGAYDVQQKDBFVbml0ZWQgRGFpbHkg
-TmV3czESMBAGA1UEAwwJKi51ZG4uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
-MIIBCgKCAQEA2pu77OKaQFJpnOb1tu96C8GSoTTiGiRJFR4DTDS0uhjBTfZLih2e
-gALQhGSvaoHKRunQMbuyYOVEePWCt1SH7HclJTHmfNBmu/gxMhLz96nHvK9qVZXm
-X4UX9uNZ5tHpHlrwhYICEDJ4ucRfwk91m4i/fhCYcZQXoO1AC3uxuOaNQ3tty9R0
-ExKuEwDcBiklELdoOPNavZgLQHisRl70lbwDXM0zVtp+65jcfwI9Eridu4pL/h1F
-3DuuRhoXvRXZPGBB/P6FOlNRJrwS61BcFaZH/0UpdavqZ8B3MjwkwWfirTKqpPWa
-GAhbD9M9tM7/Xs+Ykq5hCZ6L7FvhqU+kbQIDAQABo4ICbzCCAmswHQYDVR0RBBYw
-FIIJKi51ZG4uY29tggd1ZG4uY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWg
-MGEGA1UdIARaMFgwVgYGZ4EMAQICMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5z
-eW1jYi5jb20vY3BzMCUGCCsGAQUFBwICMBkMF2h0dHBzOi8vZC5zeW1jYi5jb20v
-cnBhMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3Js
-MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBRfYM9h
-kFXfhEMUimAqsvV69EMY7zBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0
-dHA6Ly9zcy5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9zcy5zeW1jYi5j
-b20vc3MuY3J0MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA3esdK3oNT6Ygi4Gt
-gWhwfi6OnQHVXIiNPRHEzbbsvswAAAFWnIDWVwAABAMARzBFAiBzAbQ7ZRFYaSts
-NoDqiVB6JEmrsbtqsU+DyO5mWR3KoQIhAKFhO9JBEkIwugc9C6+sbSdjo9XVYIuO
-lMS12xaHnY2jAHYApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFW
-nIDYrwAABAMARzBFAiBMkWLzc6ky82dVXK6pbXco6khvFbCf4lynPWC/THqncAIh
-ANzc2gOlOTTToDSzALBdw4zK0XTbTkMLlBBTlbVxhMFpMA0GCSqGSIb3DQEBCwUA
-A4IBAQA8PIiIqgthDfXvWrQP58CbGJ9w3VIadotm/EdS04+SNdR1t3dOCOp01N8C
-n+/Af0ljqVXfBUCdcfYbaxBkpgUm66eOtOcxtiqPgp4jwNyKH57/hhdPB6w7JCOM
-+//gjWeEcwloZ8A+G5vhCp8l3txs0Avz2w1ZznKfsV8RdsshgFy7VT3EOuEI42++
-OlN5VDQtnYpK8CP6k0Th3g/JfJ8y3QpN4aBzY+WM6406qr0F/cBydNYiBGMvFxwd
-Hv7YcuEfQC54MwuAkYJi8DeSiuiY9D5cZ4YAMzqKJynZ4wxh4ybUd5JEpL7cl49B
-LpYeKrnPAz4ckqK1qMINFvLzPEnZ
+MIIGiTCCBXGgAwIBAgIQDmMPyAWp6bY5bOXYwnj5VTANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkwMTIyMDAwMDAwWhcN
+MjAwNDIyMTIwMDAwWjBXMQswCQYDVQQGEwJUVzEYMBYGA1UEBxMPTmV3IFRhaXBl
+aSBDaXR5MRowGAYDVQQKExFVbml0ZWQgRGFpbHkgTmV3czESMBAGA1UEAwwJKi51
+ZG4uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr9u/qFVeYOwE
+e2wdYc8Qzmz6vciaWyUh+Wwnzl+o6CUu0740fMKh7EmHRxEXIqOxaBphkBm7Abn0
+NhZ0jtNxwu4FRbKD3BCu2rnvloQTaFjdwm/K/PKKKy5h3wzF8OLnY++U1yZAGvQ8
+1Hc5J7lguO2i90hRcVka3Y5yo6CHdMZVqK8Xt1/IXZKLlZmO/2IPAfkFuTRvhC1D
+OYRtH3WeBRCoFm4Ve8GMeABqVl9jeVT4e5TtAcMLX+ygAHXvvM1StGfajrQgj2us
+N8KfsmGgYlghPRMoR4Up84Slf08qRN4v71vcRwZ2eUPx//S//D1ZBjr3GhIt0G1R
+92jrtRVYlQIDAQABo4IDWTCCA1UwHwYDVR0jBBgwFoAUD4BhHIIxYdUvKOeNRji0
+LOHG2eIwHQYDVR0OBBYEFPeuNibFit/11QUs8YIu3cpGlwS0MB0GA1UdEQQWMBSC
+CSoudWRuLmNvbYIHdWRuLmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9jcmwz
+LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3JsMC+gLaArhilodHRwOi8vY3Js
+NC5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc2LmNybDBMBgNVHSAERTBDMDcGCWCG
+SAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20v
+Q1BTMAgGBmeBDAECAjB8BggrBgEFBQcBAQRwMG4wJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEFBQcwAoY6aHR0cDovL2NhY2VydHMu
+ZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNlY3VyZVNlcnZlckNBLmNydDAJBgNV
+HRMEAjAAMIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkAdwC72d+8H4pxtZOUI5eq
+kntHOFeVCqtS6BqQlmQ2jh7RhQAAAWh00c4wAAAEAwBIMEYCIQCdHp+gzSVy2OaM
+cOnQKhhBp7bnloqMpYGoU366wWIbmwIhAMe9nhm+SRIOHpe1NGyFNAOkvVODAtAQ
+JdFJwSTx4/9SAHUAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFo
+dNHO9QAABAMARjBEAiBQChaQSk1dEnD0uGunffEPjp4Do5M21rivE2vAa2ntHQIg
+WWuKDpJ0dKdy1yIyhzwXgvEG/NcC2VGcg6l7b5GUbfsAdwBvU3asMfAxGdiZAKRR
+Ff93FRwR2QLBACkGjbIImjfZEwAAAWh00c+EAAAEAwBIMEYCIQC3fPHTMfHqwAwa
+rQ5LH8VWILA8O00hvRduTz34FTP92QIhAJ8rPZ8yh0NDQuHAj5E+IIkRvJ4bRxvr
+K2WA1wKq2m6HMA0GCSqGSIb3DQEBCwUAA4IBAQBdo7StEYVZh/003C5DWOPlf/On
+pYzX3qTZq+1KTf518qPsN6RcIgIJl8D5ap5FpUclye145u9ETFt/av4AGjE/j9I5
+MZPJrHixg0B37K4wuMHd51QbbNFxIXmHyCHPNHUib0GHnYFRPlZVk4YxVp7C6uqQ
+kD+9RrcODhvKqXbxF8knc22JgdLyYVYZgfav6tfsf8pJbv48qDShitJtkwsrMzIF
+DjjPglLwjI8iwmtAwGhfxMbTwIW2mgEl/UH+W/kPOW3M5vmsn+HHRyJ+ITGFHl6p
+H6nCO2II8simYl7J6yjFQcPt4w220xI83Dcp91Wva3MKnvFKUkNV+Qij7Cxl
 -----END CERTIFICATE-----
-subject=/C=TW/ST=Taiwan/L=New Taipei City/O=United Daily News/CN=*.udn.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/C=TW/L=New Taipei City/O=United Daily News/CN=*.udn.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3506 bytes and written 434 bytes
+SSL handshake has read 3510 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -59,27 +61,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 9B2E1618AC5E67BB3D1277D072BB6EE700A5EEBB84E60E7DDED34AF7D01320F9
+    Session-ID: 9A78EAD5EEEE24B199F6742E46D0268EF06DAA4B052292BD4AF0C59FC253AFEA
     Session-ID-ctx: 
-    Master-Key: 7AECC215A7E6E9A88776B8C2AB7DF3B93747AD83377A833D36883307ACC657CEA571EF8FA5BFA9E90D2DFDB5CBF11FC5
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: A16B18498E4F360841A72E42060ADFCD7169C8BB10D74E154CE535BF7BDAB1AF280CB8A7F773D5F54D4A80D27BB4BE6F
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 37 94 c8 96 ce 89 bb c4-f2 05 ea a2 a9 fb ff 04   7...............
-    0010 - 1a 7e 57 23 ba 76 66 04-fa 87 62 4f a4 0f b8 25   .~W#.vf...bO...%
-    0020 - a8 65 5e 7a d8 51 4b a1-ad 4b f0 0c a3 c1 12 61   .e^z.QK..K.....a
-    0030 - 4b 7d e6 c5 8c 68 9b 6d-87 29 68 32 47 ea fd ca   K}...h.m.)h2G...
-    0040 - 6b 45 6e f8 65 a8 7e df-f0 77 90 77 a3 7f a6 b6   kEn.e.~..w.w....
-    0050 - 32 61 86 34 d8 8a 82 47-29 6e f1 c0 3e ac 19 06   2a.4...G)n..>...
-    0060 - e1 f6 7c 03 a6 eb 72 2d-90 18 9a fa 5a f3 79 5a   ..|...r-....Z.yZ
-    0070 - 98 e5 25 e3 cf 62 ef 83-19 70 fd 8d b4 df 5b cb   ..%..b...p....[.
-    0080 - 4a 4b 85 24 87 1c b8 e9-5a 32 19 8c ba ca 81 12   JK.$....Z2......
-    0090 - 88 61 78 d6 e5 f4 64 8d-04 1b e8 cc 81 70 28 7f   .ax...d......p(.
+    0000 - 00 00 13 a0 49 e4 65 9b-4f 71 cc dc 57 19 ec 6e   ....I.e.Oq..W..n
+    0010 - 09 a5 b0 96 e5 47 ef 46-cf b6 63 e6 69 11 09 cc   .....G.F..c.i...
+    0020 - c3 c2 d9 2c db 7c 58 14-79 30 1a aa 12 87 90 e7   ...,.|X.y0......
+    0030 - 36 34 e4 29 6b 2a 15 d1-fc 98 a1 5e 03 0b b1 ae   64.)k*.....^....
+    0040 - 3e f0 49 d5 31 67 c5 27-b8 d8 f2 0a e4 56 73 3e   >.I.1g.'.....Vs>
+    0050 - 55 b7 ff 34 14 db f0 42-96 25 01 5c 07 53 63 c2   U..4...B.%.\.Sc.
+    0060 - 0c 99 7c d7 ad 53 27 6d-59 01 44 44 56 54 9d 6e   ..|..S'mY.DDVT.n
+    0070 - f5 f0 20 47 a0 2d 5b 98-cb 8b 8c 1f 92 c6 4d 92   .. G.-[.......M.
+    0080 - 38 94 43 d5 32 ab d9 69-bd 55 b2 83 bc 42 8d b3   8.C.2..i.U...B..
+    0090 - 33 9a 27 7d e6 ab b9 1c-e2 9a de 1e b4 ea b8 f5   3.'}............
 
-    Start Time: 1472789536
-    Timeout   : 300 (sec)
+    Start Time: 1577475065
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

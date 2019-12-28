@@ -1,4 +1,4 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:/OU=Domain Control Validated/CN=*.duolingo.com
@@ -12,43 +12,50 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFJDCCBAygAwIBAgIIEmdg60RcmZowDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
-BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
-GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
-LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
-cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMTUwMjAyMTkwMTM5WhcN
-MTcwMjA1MjE0NDM1WjA8MSEwHwYDVQQLExhEb21haW4gQ29udHJvbCBWYWxpZGF0
-ZWQxFzAVBgNVBAMMDiouZHVvbGluZ28uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
-AQ8AMIIBCgKCAQEAxKD8T3lk6W2RhkWtjNp43xGL5ddxefzuk6Rcyk76sQmTMDDl
-gwGTGfmNcifgHT+hdC7eZCETRkDkTHTOz/QhyFVial2VTVhy1xI8YKPMtwM1JR7c
-+Oywc/pL2rnH9pm6i8bHtiBrt8XsMWrMIBexd1q9obX1KZhHgNGm1Eef2qJp4avP
-1YPEeBEzmWTdRJ/iQeBgjQap/rb+1/eNRoD2vhyI0AYh5K9/FIt2ovLwJSntEchl
-7FnO+CQMN4sb7wXRiLERL+zXFo94XtR4m6Kckm9qTDjEQS70g63WOkCyjMn3InOb
-93lCW+M/Gv/aYs6NtvH1pECEgqhC194HpX/ZEQIDAQABo4IBrzCCAaswDAYDVR0T
-AQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDgYDVR0PAQH/
-BAQDAgWgMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jcmwuZ29kYWRkeS5jb20v
-Z2RpZzJzMS04Ny5jcmwwUwYDVR0gBEwwSjBIBgtghkgBhv1tAQcXATA5MDcGCCsG
-AQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRv
-cnkvMHYGCCsGAQUFBwEBBGowaDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZ29k
-YWRkeS5jb20vMEAGCCsGAQUFBzAChjRodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFk
-ZHkuY29tL3JlcG9zaXRvcnkvZ2RpZzIuY3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSD
-MKIz1/tss/C0LIDOMCcGA1UdEQQgMB6CDiouZHVvbGluZ28uY29tggxkdW9saW5n
-by5jb20wHQYDVR0OBBYEFFuLkSwZUk1rFrgO3SUBZjDOVoZTMA0GCSqGSIb3DQEB
-CwUAA4IBAQAGBYlFjKGTA/V7kY28NuqO170FFz/HJT4KDwHMBcWfucS4gyEugecO
-05cnHm67YE/r7D/T3uXUP7z2ZHFePOa7bIx8DG2BtUdXcBo7OhCtcnycjkcmt2ij
-4nFmyDTF327yeNeS7JRi1QFnFBJdUo3r63kk0QFgtOdzpYLyX/Fpuf40nq8kOUzF
-sL1WtL2aTlP1XTlRiHgeDkDz1ssMfEhP1hLYnMN0wRwdnyNcgJSGARtcqB7hVa7h
-mHeZ0dzAYwxup470G/Ig/18e6mPFkHJdQTT9ixiXYF2wvsid4VpsCQgQDZT/jcuA
-v4G4KYWXbb8yA6EGam3jad1Sg0l1T7Dw
+MIIGsjCCBZqgAwIBAgIJAKHOiG4snnSFMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTE5MDExODE2MTQzMFoX
+DTIxMDExODE2MTQzMFowPDEhMB8GA1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRh
+dGVkMRcwFQYDVQQDDA4qLmR1b2xpbmdvLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBANErdniF0CXbpomTGEBaH3kxA2di94oxl1AL23M6K0TSkejo
+p3JPxz1EF7ylc3YXJv6h6+JhEgc9k4z8TYk01ftR+EJo2CxSNsKPOD47BErMqk2G
+pMPlIIttAmIYFG17yQNkxprN2lCL93+YdsOfYqpQj5bGG7QnK3zJLtZVUbGYf/iv
+qwBbOAN4YOgwR7FvZaF4DlyIa00L/PbeK2EWWyky6z1uCfhRyxBEwh8lkYSESqBi
+D6rPDaJwODsgUM6rTlK6aVWQOx7BSoTBji7nU6YsDbgE0awS0LJ5phm4CE5qbM5F
+qM9GPL0cwBnl7pjGdgGrXu04nudgZlzOvzHIjCkCAwEAAaOCAzwwggM4MAwGA1Ud
+EwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMA4GA1UdDwEB
+/wQEAwIFoDA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmdvZGFkZHkuY29t
+L2dkaWcyczEtOTA3LmNybDBdBgNVHSAEVjBUMEgGC2CGSAGG/W0BBxcBMDkwNwYI
+KwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRkeS5jb20vcmVwb3Np
+dG9yeS8wCAYGZ4EMAQIBMHYGCCsGAQUFBwEBBGowaDAkBggrBgEFBQcwAYYYaHR0
+cDovL29jc3AuZ29kYWRkeS5jb20vMEAGCCsGAQUFBzAChjRodHRwOi8vY2VydGlm
+aWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvZ2RpZzIuY3J0MB8GA1UdIwQY
+MBaAFEDCvSeOzDSDMKIz1/tss/C0LIDOMCcGA1UdEQQgMB6CDiouZHVvbGluZ28u
+Y29tggxkdW9saW5nby5jb20wHQYDVR0OBBYEFCXo6KShYwtO99xPg042cRood8AA
+MIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdwCkuQmQtBhYFIe7E6LMZ3AKPDWY
+BPkb37jjd80OyA3cEAAAAWhhvgwoAAAEAwBIMEYCIQDhvRW6zzcFuFtXKQ8C+ntl
+dXcohiGtss4+7fBT+N22qAIhAKnv4ku5qT8w+4s/oWGiLlIo4jpqL3aBmAZQJApi
+FePPAHYA7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo/csAAAFoYb4SLAAA
+BAMARzBFAiEA+2EqmhCsYLDpzB1bIupCDrZ93tiTXt2w53WsDVl8kngCICEKfXIq
+3GWEXYzLfpuUCOKga8a20Zz/87wG8Wig958EAHUARJRlLrDuzq/EQAfYqP4owNrm
+gr7YyzG1P9MzlrW2gagAAAFoYb4XEgAABAMARjBEAiAdfkJwE/MLdZi0RTzPByrZ
+Ay0D0LnFqkomyp1XjEfArgIgLBSyKDUuytjvt2aHQNQpPFWxR9XBIdQ3+V7tDyn9
+EMYwDQYJKoZIhvcNAQELBQADggEBAK8gvf6e5U1PknDh1mWp+o3yF/neeknmAUWP
+EZ4MFOu0N278weFuN4ICMuiPtH5JRQqCoP+b+8NMFR6s1nG/OvTk44kT8va7env2
+IaDW6s9ZmMDeVqexgG8eWbZWWgxJE+L6bm6cr4lWty0fsv91m0RbywfQ1KTBebEh
+EQ9lriTArcGq2SjRm+yhJMe6BeQpy0iygGnA5TUsvThgBdGdNs45NfrL41KRH3bG
+XSxT92+3P5zu3PTw/QXPsiinei63kFGP9sPy88grBwFu/l5JIOfc9M05tbM34Yyd
+oRkfjE7h/CXtM92IZ6ZC+ASATtoNMqgQzuql9Jw0feIrzPIZiac=
 -----END CERTIFICATE-----
 subject=/OU=Domain Control Validated/CN=*.duolingo.com
 issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5421 bytes and written 434 bytes
+SSL handshake has read 5814 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -59,28 +66,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 4995CE95B514865ACCFEB8EF3F758EABA9055A2281C1320EF20788DEE102B64A
+    Session-ID: 114F95F6AAFD4B42F01ABF9E5EFFE033687EAA48767E449AE4DDF2B653232136
     Session-ID-ctx: 
-    Master-Key: E2701B86AC9E1DB2DC5550EECC9CC85726B585781BDA731C60F338CC0A65C23BFC7FED425E514F33390A988E128B84FE
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: B04AEA95B94BD4577E28818D72F99E9A5DB3710313E194D7E7FCA084CFDCF796CF9B9DD00FFCAF0A10016E209423DD48
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 2e 4b 8e a5 ee 10 c8 33-ee 6e 1a 30 d6 86 6d cd   .K.....3.n.0..m.
-    0010 - 3e a5 99 08 ee 81 87 14-2c 7b 46 7c 75 89 3b 5c   >.......,{F|u.;\
-    0020 - 3f ff e0 f2 d8 7b 37 1a-48 f2 1a 17 47 17 29 18   ?....{7.H...G.).
-    0030 - 52 be 40 05 c0 df ab 1f-8d b1 37 8b 97 0a f5 1c   R.@.......7.....
-    0040 - 2b 6a 4c 85 27 dc 58 ca-0c 5c 05 f6 93 7f 41 37   +jL.'.X..\....A7
-    0050 - 8b 47 a5 78 0c 70 76 8b-4d 81 32 85 a1 d5 3a 76   .G.x.pv.M.2...:v
-    0060 - e8 b2 14 5f 82 c7 12 7f-61 ba 53 81 f5 71 7d 55   ..._....a.S..q}U
-    0070 - e4 b1 f4 c8 2a 0d dd 32-b0 15 1e f4 2e 47 32 35   ....*..2.....G25
-    0080 - 8f 53 a2 b2 06 cf dd 90-3f 87 9a ac ab 53 6d 21   .S......?....Sm!
-    0090 - b2 d5 df 6c b2 b7 27 2e-d6 de 8f ec a4 e4 0d 23   ...l..'........#
-    00a0 - 70 f0 67 3c 49 f8 96 e4-87 99 9c 29 25 ac 8e 7c   p.g<I......)%..|
+    0000 - 5b f8 98 d6 d9 5f 01 88-55 f7 30 00 e6 13 3e 28   [...._..U.0...>(
+    0010 - 0e 19 9c bb 22 de 13 a3-b4 0f 26 12 ec 7f 61 ba   ....".....&...a.
+    0020 - 3b 4d 19 03 65 d8 66 b3-7c 0b 55 2c 9e 5a 0e 51   ;M..e.f.|.U,.Z.Q
+    0030 - 33 af a4 ee 8f 43 47 03-2e e7 06 40 79 9c 3d 33   3....CG....@y.=3
+    0040 - cc 60 d3 41 48 ca d0 2b-c9 15 a8 1f dd 0a 73 dc   .`.AH..+......s.
+    0050 - 81 4e 07 f3 55 28 34 06-76 c9 86 2c 5d 87 3e 8a   .N..U(4.v..,].>.
+    0060 - e2 de 12 79 44 a1 3f c5-fe 91 2f 25 ed bf 7c 6e   ...yD.?.../%..|n
+    0070 - 2e b7 c0 06 6c 50 38 b1-8d 32 d5 14 f2 b0 c0 b3   ....lP8..2......
+    0080 - 53 10 23 1f 45 8b 0e aa-a7 ee 66 a4 b9 6e 21 f4   S.#.E.....f..n!.
+    0090 - d9 a5 6a 3b 33 20 fd b0-0b 49 ac 3f 85 bb dc cc   ..j;3 ...I.?....
+    00a0 - 5d f7 94 d5 75 f4 3a b2-86 72 a1 ce 6e 78 81 45   ]...u.:..r..nx.E
 
-    Start Time: 1472789045
-    Timeout   : 300 (sec)
+    Start Time: 1577475226
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

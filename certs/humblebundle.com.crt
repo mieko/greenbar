@@ -1,67 +1,57 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/serialNumber=4903485/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/C=US/postalCode=94108/ST=CA/L=San Francisco/street=201 Post St/O=Humble Bundle, Inc./OU=COMODO EV SSL/CN=www.humblebundle.com
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Extended Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Extended Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 0 s:/CN=www.humblebundle.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHjjCCBnagAwIBAgIRAOviI/0ZOtTBp6d+9odfxVQwDQYJKoZIhvcNAQELBQAw
-gZIxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
-BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTgwNgYD
-VQQDEy9DT01PRE8gUlNBIEV4dGVuZGVkIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZl
-ciBDQTAeFw0xNTAxMjEwMDAwMDBaFw0xNzAzMjAyMzU5NTlaMIIBDjEQMA4GA1UE
-BRMHNDkwMzQ4NTETMBEGCysGAQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgEC
-EwhEZWxhd2FyZTEdMBsGA1UEDxMUUHJpdmF0ZSBPcmdhbml6YXRpb24xCzAJBgNV
-BAYTAlVTMQ4wDAYDVQQREwU5NDEwODELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDVNh
-biBGcmFuY2lzY28xFDASBgNVBAkTCzIwMSBQb3N0IFN0MRwwGgYDVQQKExNIdW1i
-bGUgQnVuZGxlLCBJbmMuMRYwFAYDVQQLEw1DT01PRE8gRVYgU1NMMR0wGwYDVQQD
-ExR3d3cuaHVtYmxlYnVuZGxlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
-AQoCggEBAMLk6poZsWEhEEPMTmMKJ5UauUgRnVJAiqgRL4cgpmioSVe/fwk5yxV7
-ZFv/QKXLDuVQxKda4SgWKCgUEFB2hxpB/xeMr3Zid1ySbHk0pLL5eTVsN81uOp0U
-IDZL1daoYXWkv6vZz4+qX/NNlqy1TnizUN+rLC9ugOOO0em2u1XKDCpH5MsfEHaJ
-fvv3tkA093gFH2rGdN1vOrd5o53LhoGlssi80+WOaQo2xrgXTnDObTTLv1M8h+mQ
-850c2t9h5zmMxKO2LPC9ezbsb/1+iDc+JsFDXelb7eNYjlrouFQj04+8KHAWe6Jw
-F1x0HcyigtRDJhMSwXy2rPjRBTJQGjECAwEAAaOCA14wggNaMB8GA1UdIwQYMBaA
-FDna/8ooFIqodBMIueQOqdL6fp1pMB0GA1UdDgQWBBRfzkINSludynrnoDoLFJeD
-dOi02DAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggr
-BgEFBQcDAQYIKwYBBQUHAwIwRgYDVR0gBD8wPTA7BgwrBgEEAbIxAQIBBQEwKzAp
-BggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9DUFMwVgYDVR0f
-BE8wTTBLoEmgR4ZFaHR0cDovL2NybC5jb21vZG9jYS5jb20vQ09NT0RPUlNBRXh0
-ZW5kZWRWYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3JsMIGHBggrBgEFBQcBAQR7
-MHkwUQYIKwYBBQUHMAKGRWh0dHA6Ly9jcnQuY29tb2RvY2EuY29tL0NPTU9ET1JT
-QUV4dGVuZGVkVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAkBggrBgEFBQcw
-AYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMDEGA1UdEQQqMCiCFHd3dy5odW1i
-bGVidW5kbGUuY29tghBodW1ibGVidW5kbGUuY29tMIIBfAYKKwYBBAHWeQIEAgSC
-AWwEggFoAWYAdQBo9pj4H2SCvjqM7rkoHUz8cVFdZ5PURNEKZ6y7T0/7xAAAAUsO
-VWcMAAAEAwBGMEQCIBtBOgqEXrnLHjlrQp3l3ycrln7uCKefrvQ3R5PXwTwqAiBA
-7GMHUWQUAIrm4OH8vbJZYG02BfRLEqKd2z3sM+iergB2AKS5CZC0GFgUh7sTosxn
-cAo8NZgE+RvfuON3zQ7IDdwQAAABSw5VZwEAAAQDAEcwRQIgJ85AdT98evoL/Ehg
-i0AbpmAICFXmiShBdi00r1BoMzUCIQDSp5MEYwlZPt6LiRa6OIXSfocGWPw8lwbX
-eV4Ep3T70AB1AFYUBpov18Ls0/XhvUSyPsdGdrm8mRFcwO+UmFXWidDdAAABSw5V
-ZjgAAAQDAEYwRAIgPwQO8/an2BA4RFRDBkpzXqPcGaoPLc5+h3KnB+3TxqUCIFn2
-qZsCNLlwwwaWJ3K0Yhi9Jtl6wl4ky/PCPJP5MizhMA0GCSqGSIb3DQEBCwUAA4IB
-AQAk1fgTy6HMj2TaL5z/Ra5XyWNFQAf7rRLWS73TFiWipXNioT+0dcHDT7uP6t75
-4fDyNnndSmd4zO/zlbKlSapgKqlACai3ScT3Nt262npRiSx95uX2AOTt6VkdMAj/
-L9XCXcSHvTvH/Nm7MSAQHoATt00aiPM39s++drvsoCTCIWStalmL1UGZ4et1oBLX
-f25MBocUm2Klv2HqsIrx75s3CvKq2EW/C+MrYGjkS2yNFTCcfQqXgufxGyO5bXKC
-8PZrue/7ppPz7mMdAUUYuUFc+jBrz+u0CwP4XMR89acn6WfY9Br8js72Vc59UvEm
-Ki3E7wc12uQkrFt8j/d6e2eu
+MIIGQTCCBSmgAwIBAgIQAbRe0oEkl2ngnZP3FD18QzANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRSYXBpZFNTTCBSU0EgQ0EgMjAxODAe
+Fw0xOTA0MDkwMDAwMDBaFw0yMTA0MDgxMjAwMDBaMB8xHTAbBgNVBAMTFHd3dy5o
+dW1ibGVidW5kbGUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+uBGfzC1L9EAYUdYXmyzgLFilvb6hDH2iTUDMOH8o9mgiDXrIChri6apU0C3+yr68
+PwC6jnGCS/vDmMzE8YFU1cG5s3dQ1+uas3/aigzwKKq9frwtW7PyeYdMx9S+CQpo
+HIsewG8FrTQPO72JGZjwQeC9rBvMzJiFJygD0GwyvJNn7rfx5NeMYE6tzZQ4MoF/
+5E9TX9pB65KMoZ6m86ND8C2WKN3vynV8ooWMwD/ObVMl1bQUAUTEnr7xz6BFu0R1
+qxnt0bwcxZUhZrx/fVEnQTRY+kFNFs6/B5mPIQdgIsdiT55hVDCKYroX1FA5uanM
+44LdRgZq62Yo8+1HPzjf7wIDAQABo4IDODCCAzQwHwYDVR0jBBgwFoAUU8oXWfxr
+wAMhLxqu5KqoHIJW2nUwHQYDVR0OBBYEFM4uNZ2vauQ1BkqJL5U5UNbmKjSbMDEG
+A1UdEQQqMCiCFHd3dy5odW1ibGVidW5kbGUuY29tghBodW1ibGVidW5kbGUuY29t
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+PgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NkcC5yYXBpZHNzbC5jb20vUmFwaWRT
+U0xSU0FDQTIwMTguY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAECMCowKAYIKwYB
+BQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQIBMHUG
+CCsGAQUFBwEBBGkwZzAmBggrBgEFBQcwAYYaaHR0cDovL3N0YXR1cy5yYXBpZHNz
+bC5jb20wPQYIKwYBBQUHMAKGMWh0dHA6Ly9jYWNlcnRzLnJhcGlkc3NsLmNvbS9S
+YXBpZFNTTFJTQUNBMjAxOC5jcnQwCQYDVR0TBAIwADCCAX4GCisGAQQB1nkCBAIE
+ggFuBIIBagFoAHcA7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo/csAAAFq
+Au7rLwAABAMASDBGAiEAsKZXUQIp9agYH6reE17xwA6Dezp/2t8N2M9F36gsu18C
+IQDHdCct1YNAZ7E+rWOBji9bAoqPmm23ByaA6wurzQqanwB1AId1v+dZfPiMQ5lf
+vfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABagLu7EQAAAQDAEYwRAIgU+wB6NINEQC+
+SHxkIHvc+zdbE0RjAXleGtyKKMbiI0QCIAVCkQ32CCktFufZQDLPwzMhGtIeX4VL
+YW8b1KTD75zyAHYARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAFq
+Au7qsgAABAMARzBFAiEAuCrmVqpMILaSdo1ofUJZxd2pdxiLohFovx+oywK1+WMC
+IFEZYqrcUHt9/0GtHUagNE0yfT73zPbexv752rg/Dw8ZMA0GCSqGSIb3DQEBCwUA
+A4IBAQA7bMg4m5ORMB5PP8rZs0VVQTHfo2FgEq64+uqUp6FnWn8kjz00cw5c+UJX
+aYMH1Pf+X26V/z8QK/tB05w5eebY8gxmcObckvFAdmwMsZbWhPXibX2xHCzy63TJ
+yIP8zZZA+wwA+f6M3qlw9nS8GzbhM93X6/s7RRqM2tvlAZW1/w+tivYgsTXxeD8i
+ou8jLUZUX52y6v3Pvn6C5UiG+qFMWJ1E3crhvmr6VDcEhqTh+ALihSwL3XGF4zrz
+4u92bTEk/NeetnAqhAdIg2NDCtX0A4TCwF11IlldJMI2yCXzE4lKaiIoYONvYGaU
+W1039LtsHFwu6Ki1sqvRA75Bdk0B
 -----END CERTIFICATE-----
-subject=/serialNumber=4903485/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/C=US/postalCode=94108/ST=CA/L=San Francisco/street=201 Post St/O=Humble Bundle, Inc./OU=COMODO EV SSL/CN=www.humblebundle.com
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Extended Validation Secure Server CA
+subject=/CN=www.humblebundle.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 5568 bytes and written 434 bytes
+SSL handshake has read 3440 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -69,29 +59,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: A7DCC214BA9444A8344CC052B081C4105D821A2C087895353E7488FC8CA09F50
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 00A717D870CC0EC91D2D06A9CDF0A6008A1001B222096EB0DDC3D5029021FD71
     Session-ID-ctx: 
-    Master-Key: 0FD7AD7314DA5B671CABEE9503874BAEE45FCC4F34C2B9E1243AB55068A03A1260675933D0CC56EA91B9D21DE0195BE7
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 5049917283F5F2FE279C3695FCAB9D20125A35662B2CB3D0D56917C030D7C7B9EA8902250135365BC06CD9461C88E4E7
     TLS session ticket lifetime hint: 64800 (seconds)
     TLS session ticket:
-    0000 - 67 3e 33 d7 cc 57 79 4c-b2 85 a3 1c c8 1b 69 31   g>3..WyL......i1
-    0010 - 92 74 24 1c a0 1f 00 b8-fb 3d 0a 45 a1 a0 34 1c   .t$......=.E..4.
-    0020 - fa 2a 50 d0 b7 d6 7f 23-ca 89 ec a9 b5 53 e2 03   .*P....#.....S..
-    0030 - 77 ec 77 c9 02 03 ae 01-33 4e 16 51 2f 3c 83 f6   w.w.....3N.Q/<..
-    0040 - 4f 44 06 60 7c 02 17 f0-1a 9d bb 63 66 5c f1 94   OD.`|......cf\..
-    0050 - 36 54 42 a4 8e 84 6a d9-2d 3f c8 65 15 81 64 72   6TB...j.-?.e..dr
-    0060 - f6 a3 7b 6b 47 15 01 64-0d 1d a2 9c 54 ae 32 11   ..{kG..d....T.2.
-    0070 - 66 90 d5 47 2d a1 46 aa-15 33 23 85 b9 ab 2c 28   f..G-.F..3#...,(
-    0080 - 4c d9 55 d9 f7 8d 3b 52-ca e5 2d 3f e5 84 13 eb   L.U...;R..-?....
-    0090 - 3c a6 74 ba 7b 7b e2 a7-ff 83 86 f6 7a de e8 c0   <.t.{{......z...
-    00a0 - 9a 7f 57 57 ee 76 fb 96-72 ef b2 6c cf 8e 9d e0   ..WW.v..r..l....
+    0000 - 35 7d e3 3b 61 c1 ba 91-9d 1b af c8 e3 29 99 51   5}.;a........).Q
+    0010 - 69 36 f0 59 10 f5 65 4c-79 ed 63 ce b4 52 7e 23   i6.Y..eLy.c..R~#
+    0020 - be 7e 67 62 eb d7 44 53-33 11 60 8b f0 77 68 de   .~gb..DS3.`..wh.
+    0030 - 88 b1 24 ff 49 e3 3b 35-28 7c 6d 2f 43 f3 cb 32   ..$.I.;5(|m/C..2
+    0040 - 9a a4 76 74 70 0b 12 91-83 21 6f 38 51 f8 54 3d   ..vtp....!o8Q.T=
+    0050 - 8c 5a 95 14 2a 6a 71 13-db e3 be 80 a4 c1 08 30   .Z..*jq........0
+    0060 - f2 8a 7b 70 9c 6d 69 a9-ec 0b fb d4 2c 07 b2 d3   ..{p.mi.....,...
+    0070 - f5 45 db b1 75 8d 4d 81-b7 34 27 00 81 c5 48 33   .E..u.M..4'...H3
+    0080 - 87 3d e6 5f 84 59 10 bf-e0 43 47 2a 70 62 0d 8e   .=._.Y...CG*pb..
+    0090 - aa c5 36 22 a9 e8 ee 5a-16 a5 74 cd 2c 7a d9 89   ..6"...Z..t.,z..
+    00a0 - 83 10 29 96 3e f8 24 fd-db cd 6c d4 9e 3b 51 b5   ..).>.$...l..;Q.
 
-    Start Time: 1472789695
-    Timeout   : 300 (sec)
+    Start Time: 1577476086
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

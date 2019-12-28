@@ -1,64 +1,63 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/postalCode=94103/ST=California/L=San Francisco/street=989 MARKET ST STE 300/O=Zendesk Inc./OU=PremiumSSL Wildcard/CN=*.zendesk.com
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 0 s:/C=US/postalCode=94103/ST=California/L=San Francisco/street=1019 Market St/O=Zendesk Inc/OU=Operations/OU=PremiumSSL Wildcard/CN=*.zendesk.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGvzCCBaegAwIBAgIQKdgbTSZmDG/jLY8ia48DCTANBgkqhkiG9w0BAQsFADCB
-ljELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
-A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxPDA6BgNV
-BAMTM0NPTU9ETyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
-cnZlciBDQTAeFw0xNDA4MjYwMDAwMDBaFw0xOTA4MjUyMzU5NTlaMIG3MQswCQYD
+MIIHRDCCBiygAwIBAgIRAMeP6nf/FEhJ4L3mkudke4gwDQYJKoZIhvcNAQELBQAw
+gZUxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE9MDsGA1UE
+AxM0U2VjdGlnbyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0xOTA2MTgwMDAwMDBaFw0yMTA2MTcyMzU5NTlaMIHEMQswCQYD
 VQQGEwJVUzEOMAwGA1UEERMFOTQxMDMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAU
-BgNVBAcTDVNhbiBGcmFuY2lzY28xHjAcBgNVBAkTFTk4OSBNQVJLRVQgU1QgU1RF
-IDMwMDEVMBMGA1UEChMMWmVuZGVzayBJbmMuMRwwGgYDVQQLExNQcmVtaXVtU1NM
-IFdpbGRjYXJkMRYwFAYDVQQDFA0qLnplbmRlc2suY29tMIICIjANBgkqhkiG9w0B
-AQEFAAOCAg8AMIICCgKCAgEAzOpUXezvL059xzUJC5Pklj6lXXjf4wykLDdodjQI
-ildtztzSQiMjUI+gVnAe7jOi1eLrNzfqZltl1iT9usbIgk0T92hfZxLnHopyS5J3
-LHUkXgIjwJridgqoR+nkjxcKlAYQFTd2x7+p6ymWzy4IkHxvZcDAidhQ8JlyGYYp
-eQcR0b/YJs6auwDoY3CGPYH7Q9VzH2W0IH0CyFYDKtYphBJWTrpqUQt5F5QRlxm7
-l76oQy3t6cUMwlNzyvGwIUhZrEivu0dISvhO+FU1oU8wF8DGQ/Te7VKCB2EmUedN
-L/yzeOmg0uEpEMcZfgPWYwuJAZ92c36JHlEeiCfi/IUhHzecX22hWfqVFG/MsnM6
-dQ7FOEOsvRMZAUZt8yjAhb2hHB5A6ARclhR8WO7GdGlCFF/zazrSFxNaErmBGYjE
-5s8pHoNkXLuNZwLP0DkWlwHjMDR9SzrvjYPzZ32Lgfw0vE5Mfw30rL8ASFAaqSp6
-iPA+P5hGNzeB2GGHlVkMfvp/copqW3rf7OB++iWU6PEW3wGUUql13+zvXIOhYmX7
-SbpfO8JWlLupxGFF4YwZMLdqBt2jNWRA23IeCgjomRzQG406QHz2ZSdw0H0tPzM7
-vHDFRozxekq3MHhWiCtQqmfyVGTYUSyvtBMOEktu3/wurbKGfMNmSwwyXnUJShcT
-fMMCAwEAAaOCAeQwggHgMB8GA1UdIwQYMBaAFJrzK9rPrU+2L7sqSEgqErcbQsEk
-MB0GA1UdDgQWBBSGFYLxbsNHSAR1bYJnre+qTU8yGDAOBgNVHQ8BAf8EBAMCBaAw
-DAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwUAYD
-VR0gBEkwRzA7BgwrBgEEAbIxAQIBAwQwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9z
-ZWN1cmUuY29tb2RvLmNvbS9DUFMwCAYGZ4EMAQICMFoGA1UdHwRTMFEwT6BNoEuG
-SWh0dHA6Ly9jcmwuY29tb2RvY2EuY29tL0NPTU9ET1JTQU9yZ2FuaXphdGlvblZh
-bGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcmwwgYsGCCsGAQUFBwEBBH8wfTBVBggr
-BgEFBQcwAoZJaHR0cDovL2NydC5jb21vZG9jYS5jb20vQ09NT0RPUlNBT3JnYW5p
-emF0aW9uVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAkBggrBgEFBQcwAYYY
-aHR0cDovL29jc3AuY29tb2RvY2EuY29tMCUGA1UdEQQeMByCDSouemVuZGVzay5j
-b22CC3plbmRlc2suY29tMA0GCSqGSIb3DQEBCwUAA4IBAQBhdxI9RiqEhD/V6DWI
-gz2pm89c/cCUQDdX1OgT/SeD19vSH7ekgtP1llUXa217yNSKQ8yeYnbkBNrO22F+
-XCwzLMql5MQIkd/Usk/mkk/2CcXyMdXwinT0mfzrUEh6cK778eG8fzs3PLLjYlwc
-4kNV1Yce2wmtNCT+eykSlZ7vqWvaIVp93w80Yrn+i9V6bQkVeD4G819o+MDI1GV6
-H2xqs0Cpmg9pEkbdthM2eCPv+OfvpRN+NANdJJpwcCccBcnRqQfBDiadXcFSqxQR
-qYoU/2UMx92ol9n9TBcVE20JiS3Ba2JFfIxglHFmXEhQIwi9JSUkAleHvRRmNc7v
-QZkC
+BgNVBAcTDVNhbiBGcmFuY2lzY28xFzAVBgNVBAkTDjEwMTkgTWFya2V0IFN0MRQw
+EgYDVQQKEwtaZW5kZXNrIEluYzETMBEGA1UECxMKT3BlcmF0aW9uczEcMBoGA1UE
+CxMTUHJlbWl1bVNTTCBXaWxkY2FyZDEWMBQGA1UEAwwNKi56ZW5kZXNrLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALpld3pMUNaGhl9odpOazD0M
+xkkEDHxWV0n+pRDWJRC/h0/qT+1DN4e4Z0hVzl5b19nzhkxEbWuQ2laopebJgc0Y
+4N4cLY4nUqi7utax3fUbPfiAjif2UrYV0AlBAwvlyNRBzDUxogpMFKjIFD6SPMYF
+VlVJqPOhRSzzoV5GHIKggtTNHZZikBnfWCZZaznrfm7NsHj7Jn6nHxn1ZsU5tUqA
+c3bc1WrtvKI6CCVJw338ZMVEePFBA7TZQOqscbRsSipEDHDNRYOQmGeRp0BStnHQ
+TnWlrmfc5pfTaIq/KDZygK6P1ZFoX7uPEUBG8pQsS46a4TZ412jzT9UgXcTd4h0C
+AwEAAaOCA1wwggNYMB8GA1UdIwQYMBaAFBfZ1iUnZ/kxwklD2TA2RIxsqU/rMB0G
+A1UdDgQWBBS/Y3UV5oVXe5AZn1RejrKQXCIi2DAOBgNVHQ8BAf8EBAMCBaAwDAYD
+VR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSgYDVR0g
+BEMwQTA1BgwrBgEEAbIxAQIBAwQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0
+aWdvLmNvbS9DUFMwCAYGZ4EMAQICMFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9j
+cmwuc2VjdGlnby5jb20vU2VjdGlnb1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25T
+ZWN1cmVTZXJ2ZXJDQS5jcmwwgYoGCCsGAQUFBwEBBH4wfDBVBggrBgEFBQcwAoZJ
+aHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNBT3JnYW5pemF0aW9uVmFs
+aWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29j
+c3Auc2VjdGlnby5jb20wJQYDVR0RBB4wHIINKi56ZW5kZXNrLmNvbYILemVuZGVz
+ay5jb20wggF7BgorBgEEAdZ5AgQCBIIBawSCAWcBZQB1ALvZ37wfinG1k5Qjl6qS
+e0c4V5UKq1LoGpCWZDaOHtGFAAABa2rTy3gAAAQDAEYwRAIgSDLVvow3xL9ZIkb5
+YhOEbPI1BZWVaZtyBAis85prJX8CIFbrD/RYgIgAJlldcK5Ume1vz9rvaOOnYo0f
+2e838qkFAHUARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAFratPM
+WQAABAMARjBEAiBxHnWourZVqc54m1NWccfwuE7f70WfQoXVLHKxCSSToAIgBANl
+G2B6UTqb1ciABokcX8IJvZOzLWkmPqIvTiwlQfYAdQBvU3asMfAxGdiZAKRRFf93
+FRwR2QLBACkGjbIImjfZEwAAAWtq08uZAAAEAwBGMEQCIF/8HOxl4FREw3IP8IOD
+6GPZZn8qSJgXBOCTB+5bsS6NAiAIpgHC43bHq3qheY2bgaolkRoVFXXfbszc0jSc
+bLrdGjANBgkqhkiG9w0BAQsFAAOCAQEANAQqETHvEtaqRd0jacHLdJXv81rw4tdk
+P8cJ+4FX4/a3xZD5sh05ozl7gLNx7P7Eppe0eWVf7H6NDDDMQ3OB7jcdlnC+DR7P
+r8013Opa3Z9tQ9CXB+78ESIuqYKL2Lgy13xSIuFXcYfFPsOoQ7EUwpXI4bA1Q83L
+vfczXKuc3F2oy1aSMwcZ3aeyg1iGYdK1dIYsLSJbPpaGIPKgYsrpO1kAwfD+mqxs
+yYvHz6WuqvHZbPchJznhEr49i6AmNVuKJba5cwOJxnd+i0sUBrnVViYA+uyiUvHi
+lz+lQvXaH4JfKyumj99Oj7rNVsoc3f9SlbJGOtbghRArHfHY/xZcUA==
 -----END CERTIFICATE-----
-subject=/C=US/postalCode=94103/ST=California/L=San Francisco/street=989 MARKET ST STE 300/O=Zendesk Inc./OU=PremiumSSL Wildcard/CN=*.zendesk.com
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
+subject=/C=US/postalCode=94103/ST=California/L=San Francisco/street=1019 Market St/O=Zendesk Inc/OU=Operations/OU=PremiumSSL Wildcard/CN=*.zendesk.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5622 bytes and written 434 bytes
+SSL handshake has read 4102 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
-Server public key is 4096 bit
+Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
@@ -66,28 +65,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 0204E24DCCBFA5DAC1D37F523EB7001FD258F5A1FE145C98C3B42D2EB31C487E
+    Session-ID: 9389FDD086A1E8C5AE7A08D752E8697FB81EF85763927E3EAFD608063C10F359
     Session-ID-ctx: 
-    Master-Key: 0A04AAAA885E15BEA7FEAC1A89CB25BC235AB3EC6E89C6DC17049321A27726A1A829D940209AD138D54846E5DF5D8195
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: E373196FCF6FE93AE0655AAD7F52917F1CC13C5786C9392AF1966BF664837FA0F4F254D856EB941E17A77A148EA5DFA2
     TLS session ticket lifetime hint: 1800 (seconds)
     TLS session ticket:
-    0000 - 6d 38 94 d7 e4 51 3e ba-65 4e 8c da 43 64 2b c3   m8...Q>.eN..Cd+.
-    0010 - 62 49 11 08 c3 60 1a 2b-f3 1b 41 d5 2e 7f 3e 18   bI...`.+..A...>.
-    0020 - e4 a0 2f 89 56 ae c1 ce-b0 18 fa 73 dc 3e ec 42   ../.V......s.>.B
-    0030 - a8 3d 61 f9 bf 59 be 4b-b8 2a 1f 60 ba 49 70 ff   .=a..Y.K.*.`.Ip.
-    0040 - c6 6b 93 75 05 ce 12 ad-a6 ae 07 91 12 d2 f2 d5   .k.u............
-    0050 - 90 21 9e 15 48 20 12 0f-3a 41 eb 3b 9d d9 2e 0c   .!..H ..:A.;....
-    0060 - 96 05 7b 41 1a ce 5d c7-6d 0e 80 5b cd cc 99 a5   ..{A..].m..[....
-    0070 - 10 ae 90 01 cf 02 30 ed-67 ff 02 c7 e5 a6 7f 84   ......0.g.......
-    0080 - d5 5e cf bf 1b 3f b1 35-b1 be 73 cd b6 2d dd 9e   .^...?.5..s..-..
-    0090 - c7 0d 0d 4e 0b 76 31 31-d8 a5 0d 3e 0b 8d fa 53   ...N.v11...>...S
-    00a0 - f5 c1 23 ac 4e 55 57 ea-6b aa 12 25 dd 90 c4 6e   ..#.NUW.k..%...n
+    0000 - d9 35 e3 65 4f 29 95 64-0a 39 16 dd a6 9f 0e 0c   .5.eO).d.9......
+    0010 - 3e 4d 81 32 2c 76 6d 45-35 48 80 fe b1 6d aa ca   >M.2,vmE5H...m..
+    0020 - b0 0a 87 72 cf 77 52 4a-0b 48 e8 44 10 8f 4e 39   ...r.wRJ.H.D..N9
+    0030 - 1b 90 10 10 0f bb 60 6f-f9 6c 73 b6 d2 e9 0b d5   ......`o.ls.....
+    0040 - d4 f1 ef 06 39 57 06 9f-86 34 08 51 f5 d3 1e 9a   ....9W...4.Q....
+    0050 - f3 8c 93 2b a7 d2 84 f6-73 52 24 6a 8d 95 7c 43   ...+....sR$j..|C
+    0060 - 13 4e 8c 3a 9b 18 80 4e-25 75 e9 3d 53 78 83 38   .N.:...N%u.=Sx.8
+    0070 - 59 f0 fe 8f af b8 cf 61-b3 7f 5a 3f 63 99 c3 7c   Y......a..Z?c..|
+    0080 - bb d3 39 17 aa 8b ba 11-ce 65 4b 7a bb 40 08 8c   ..9......eKz.@..
+    0090 - 2d 0f 87 1c ac 95 34 d3-ee 1f 6d 55 c4 77 06 01   -.....4...mU.w..
+    00a0 - 14 c6 90 48 20 a3 c1 93-63 f5 9f 63 7e 12 0b 49   ...H ...c..c~..I
 
-    Start Time: 1472788184
-    Timeout   : 300 (sec)
+    Start Time: 1577474866
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

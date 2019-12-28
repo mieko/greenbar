@@ -1,54 +1,57 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=DE/ST=Berlin/L=Berlin/O=BILD GmbH & Co. KG/OU=Betrieb 0513/CN=*.bild.de
-   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+ 0 s:/C=DE/ST=Berlin/L=Berlin/O=BILD GmbH & Co. KG/OU=Betrieb 0513/CN=*.ak.token.bild.de
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFuDCCBKCgAwIBAgIQfloaDS6cPCNyxmHlJzJ5QjANBgkqhkiG9w0BAQsFADBB
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
-aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUxMDI2MDAwMDAwWhcNMTcxMDI1MjM1OTU5
-WjB3MQswCQYDVQQGEwJERTEPMA0GA1UECBMGQmVybGluMQ8wDQYDVQQHFAZCZXJs
-aW4xGzAZBgNVBAoUEkJJTEQgR21iSCAmIENvLiBLRzEVMBMGA1UECxQMQmV0cmll
-YiAwNTEzMRIwEAYDVQQDFAkqLmJpbGQuZGUwggIiMA0GCSqGSIb3DQEBAQUAA4IC
-DwAwggIKAoICAQDYXBai6Cw/h4PSazPfxCOC63MJPqyEPNdPiK4vKI0WrWTL7DvO
-WdwcbjgaLetNmeeuh/z+9c+3+vDNCZ3+xmUdoMWD0rNcY5hstssmhpqXMeLgQGC5
-cKBXryeVNIHq2dMlVZ4+Fo46a+m4LdL7AGUfUKbkg04iEC/15jnKFegUISsXiR4C
-BLX25l7czfNfpqHJUseYTA/iZ3DSy1GQUdJhufTw/C/40I25WGlrwP3GZoMIbnwn
-1a6oi8E6jOW4fUqKsw2PnV4sGR7d0VhuEUIKx0f5pVyoyaQtlHLU77saJblSo3m7
-LOQFjjMOldQN1T6G80r+CtPqbux3xUQhsVGhB3qhQ3n4C9m1qwIHwJfx9rgsSxn4
-4PNUAwDJxqFtvhAgtiGBP7cBv75qpDcacfaHEH/alta0h8+BiHCLvPuRmFWKohBZ
-5PQvyzIKzkn6OXVFigKEPz5gzU4sXsBCzEuhvMmYDYP7PGPTBT6SnutxpToiUtu4
-7xZvyy+5Xqi0zmWpX3bjdshDpqv5WhYUn/CxhMDSkvKYg0fAwyi4NdPmnhTh9x8Q
-gmDsAaXSORUMbteJ+5dmpg85u2ZpKW+Ca1LltQ8ncybUElICjCFI2KU/cxOk8N1s
-ZSuwAZGLVRMt5Saic6TSFbBl2/OqI1YQiltg0SFhW3GquIx13Z93i518bQIDAQAB
-o4IBdDCCAXAwHQYDVR0RBBYwFIIJKi5iaWxkLmRlggdiaWxkLmRlMAkGA1UdEwQC
-MAAwbgYDVR0gBGcwZTBjBgZngQwBAgIwWTAmBggrBgEFBQcCARYaaHR0cHM6Ly93
-d3cudGhhd3RlLmNvbS9jcHMwLwYIKwYBBQUHAgIwIwwhaHR0cHM6Ly93d3cudGhh
-d3RlLmNvbS9yZXBvc2l0b3J5MA4GA1UdDwEB/wQEAwIFoDAfBgNVHSMEGDAWgBTC
-T0hX/NFPmsBdOH0OBdvZLrVSYDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vdGou
-c3ltY2IuY29tL3RqLmNybDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
-VwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vdGouc3ltY2QuY29t
-MCYGCCsGAQUFBzAChhpodHRwOi8vdGouc3ltY2IuY29tL3RqLmNydDANBgkqhkiG
-9w0BAQsFAAOCAQEARkjeNWxxT7GFGJipToLgxWjdkhulOFoHd2QISia4GPNtWL9c
-aUqyxibovCHKxJ+vOX3QeWQDmDbvZD3xPypgQpNucw4MVgSfDR7hDVnLUpX0zX5c
-Ml9s/liam+IJKx7qPJnum9gGE0Ab5CS+GIq0XUDhn1C3gElBYrtAO1YQzDa1mKFL
-jl72CNsLf/gat5nuNTwWSTJvXEkG7QVd94WW9t2p+Gxi9YGgvWMLhDzgT0Ruq5zV
-C2SPe2/FUQhMXGZEJ3yPUBCtsVeJ8IJUH7RvMlHz2EgS83IpTHylcgxzRHkZlykH
-RxP8U7Fa+ZWz3/WLWnUmt27ZQamM1UZI5UP2ag==
+MIIGCTCCBPGgAwIBAgIQBqvnSyfDAFP5onOT5503UDANBgkqhkiG9w0BAQsFADBc
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMRswGQYDVQQDExJUaGF3dGUgUlNBIENBIDIwMTgwHhcN
+MTkwMzIwMDAwMDAwWhcNMjAwNjE4MTIwMDAwWjCBgDELMAkGA1UEBhMCREUxDzAN
+BgNVBAgTBkJlcmxpbjEPMA0GA1UEBxMGQmVybGluMRswGQYDVQQKDBJCSUxEIEdt
+YkggJiBDby4gS0cxFTATBgNVBAsTDEJldHJpZWIgMDUxMzEbMBkGA1UEAwwSKi5h
+ay50b2tlbi5iaWxkLmRlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+u27y/3CCEOkt2FxeMelG4jLn++uiRNPhouCfHwQQkGUtUqjTxIIoCg4PV+dZgpXp
+hQ/rQSrk00/b61LGWqNp5FJBDqOXe+wl/WkJke61sLImK7r2vUZbk9YW4pA9OpPO
+heOtQLxZWEsmvi7KFDBmAJe9ZgW/twS/QJrYTa3Xfx4nEHKT+X22m/IEqp2hIBJH
+EKH+QgwFUXJcMYC7oVNpyKUtOI2/o3cu0PcpDQ2AGtV4HO4KwzC088Uw0AqkwhpC
+vl6iAAqTJq9owT18JC9WNvvr1eRhdPmZ4pb6N2L8JvwBDEsd2pJ3Nn4f/bZwsS47
+byQovbpeH50GuW+UXICArQIDAQABo4ICoDCCApwwHwYDVR0jBBgwFoAUo8heZVTl
+MHjBBeoHCmpZzLn+3lowHQYDVR0OBBYEFG2syfnojjw//NDfWL3tOGJjPds0MB0G
+A1UdEQQWMBSCEiouYWsudG9rZW4uYmlsZC5kZTAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDoGA1UdHwQzMDEwL6AtoCuGKWh0
+dHA6Ly9jZHAudGhhd3RlLmNvbS9UaGF3dGVSU0FDQTIwMTguY3JsMEwGA1UdIARF
+MEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2lj
+ZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMG8GCCsGAQUFBwEBBGMwYTAkBggrBgEFBQcw
+AYYYaHR0cDovL3N0YXR1cy50aGF3dGUuY29tMDkGCCsGAQUFBzAChi1odHRwOi8v
+Y2FjZXJ0cy50aGF3dGUuY29tL1RoYXd0ZVJTQUNBMjAxOC5jcnQwCQYDVR0TBAIw
+ADCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1ALvZ37wfinG1k5Qjl6qSe0c4V5UK
+q1LoGpCWZDaOHtGFAAABaZr7fegAAAQDAEYwRAIgB97VXeM6dFut2leVY+I7Anm4
+cpUnUUHS4wheaHhUbXsCIHiiA8GD7ysTuNYEMHQFAu1bl9MMh1BQ79iE88/SYpo7
+AHcAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFpmvt/JQAABAMA
+SDBGAiEAgcg65tEpj3VRTwN0Hr73w73f78y1zvJ6obwiK29gtI0CIQDOVNKys88F
+9B0rvGJowtWqcPQkV2AnhULHxMU5afW3RDANBgkqhkiG9w0BAQsFAAOCAQEARoBo
+kqDM0hV/BX8jQEFCFiIAlXuFHou0ZJ/QFbYXVOpu6ALSVFh4nUUv3Q8Vag6VNKxH
+aAbvR3JGfK7pcwuzqp75AKSVyCG0gtAWJUvhhqMYKBYWPQFYQendZ/Hsx+X2kOHR
+KumnL8w7DKbUoMA9wBJjSHsxO6d5HCKFbnRfxqlNrZW4ifAV39rNahce368oHMhT
+BkQlkbZlOZCFqSLSq0fbAcNop+mYsfcJB5ubpiC6x3J4f3DNcPEhdmxuqalkZ1rL
+R1GJA9Sz8VZOYQJ3dIo2p5CEc7TAwnZGa9CpYDYlQIgLkJ7o2VytNKbB0pvcKnIr
+P9tDhPEI3aWeGI08vg==
 -----END CERTIFICATE-----
-subject=/C=DE/ST=Berlin/L=Berlin/O=BILD GmbH & Co. KG/OU=Betrieb 0513/CN=*.bild.de
-issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+subject=/C=DE/ST=Berlin/L=Berlin/O=BILD GmbH & Co. KG/OU=Betrieb 0513/CN=*.ak.token.bild.de
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2415 bytes and written 434 bytes
+SSL handshake has read 3371 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
-Server public key is 4096 bit
+Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
@@ -56,29 +59,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 5F4F1AB068C065790883994B52AF323139241E17EC1AD3ECA7F0206C0AEAAA5E
+    Session-ID: 344144D31CBC497473AE2949E060C6221A54E5C6AFEE3FBAF2F887CFCE36F897
     Session-ID-ctx: 
-    Master-Key: F802A4E4FD1F4582B1894FF4B9C31E6A7BF973CCE92247941FD191CA88852D76BE8F43F2FD6D227059E6B508A3B14A3D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: F35D2362C40C120858C04BD7D4FCFB9745BA90CCC1C68E6CB6F4C18F1004B801551ADE5D3AA72E8783AF3F4B3A0D5A31
+    TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - 17 96 a2 fe 55 01 51 90-ea c2 0f b3 44 5d 4f 0e   ....U.Q.....D]O.
-    0010 - cc 9a 04 b1 d7 1b 3a 30-43 37 5e a2 f3 50 f5 c8   ......:0C7^..P..
-    0020 - 34 38 09 41 03 e5 e0 e8-3b 29 f5 3e db ed 93 1e   48.A....;).>....
-    0030 - 26 fa f6 a0 38 7e 70 6e-0e 4f d6 29 4d a0 da b7   &...8~pn.O.)M...
-    0040 - 9c 73 18 a0 59 f0 11 dc-a9 d5 a8 c5 58 a7 d7 4d   .s..Y.......X..M
-    0050 - c4 81 84 b8 aa 1f aa 3b-fe 38 91 d4 ac 4a 82 e5   .......;.8...J..
-    0060 - 2d 43 d5 57 ee c4 15 a7-36 e0 16 37 57 c4 d1 48   -C.W....6..7W..H
-    0070 - 9b 04 d7 ca a2 0c a2 97-e9 2a 42 7a bb 48 73 c7   .........*Bz.Hs.
-    0080 - aa 55 a7 c8 ee df 16 b2-46 57 91 72 ce 1d ef 61   .U......FW.r...a
-    0090 - d0 1b 60 92 aa 9c f9 54-28 e1 52 1e c8 ff 2d ff   ..`....T(.R...-.
-    00a0 - c5 56 22 9e be e5 45 95-52 59 ba 28 a6 21 18 3f   .V"...E.RY.(.!.?
-    00b0 - 34 f3 34 9c 4d 01 3b f4-d5 62 14 e9 55 fc c8 4e   4.4.M.;..b..U..N
+    0000 - 67 b7 34 01 09 6b df 03-ad 52 c5 72 92 a9 4b 6c   g.4..k...R.r..Kl
+    0010 - 23 a6 0c 2e b1 9a b7 9a-47 8e 67 bb cc a8 43 c3   #.......G.g...C.
+    0020 - 38 f0 85 44 3f 6d eb 1c-d3 a6 5f 8c b9 8f 22 5a   8..D?m...._..."Z
+    0030 - 57 04 7b 32 e6 f1 3a 67-de 66 53 b3 ea 40 c0 c2   W.{2..:g.fS..@..
+    0040 - d6 45 47 0b 5b 0e dc 29-55 9a 3d 97 33 98 ff ed   .EG.[..)U.=.3...
+    0050 - ab 0f 08 02 02 2b e6 ce-d9 e1 46 4b 63 f3 bf a7   .....+....FKc...
+    0060 - 4f c7 f8 92 c9 dc c5 53-d3 19 16 b8 a3 11 ae a0   O......S........
+    0070 - 20 7a 66 af 2f 71 76 4b-a3 f4 28 51 6f 03 a0 bf    zf./qvK..(Qo...
+    0080 - d2 e5 6f 5e 56 d1 33 d7-eb 87 ae c3 d8 ae 41 ad   ..o^V.3.......A.
+    0090 - 41 57 c4 64 43 fb f4 6c-89 46 a9 bf 8b b6 69 89   AW.dC..l.F....i.
 
-    Start Time: 1472788347
-    Timeout   : 300 (sec)
-    Verify return code: 21 (unable to verify the first certificate)
+    Start Time: 1577475142
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

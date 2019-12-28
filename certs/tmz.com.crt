@@ -1,27 +1,122 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
-no peer certificate available
+Certificate chain
+ 0 s:/CN=wbdevops.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIM0TCCC7mgAwIBAgIQBbYmMtMoAzWvxS6aGqiw/zANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTEwMTcwMDAwMDBaFw0yMDExMTcx
+MjAwMDBaMBcxFTATBgNVBAMTDHdiZGV2b3BzLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAKST+9H00g5o1sT01KPF2pFnBcybqFKupzaiZ8J5xrba
+uSGeh3b6FkMia5wgGLck4uxUJG7k1TNQJub6xe9yTaXQ4/g15Ch2XZBfBy8gXgG2
+NqmaS6AUpioWe9ae/dDE0qduHP3k7AR+fDQvU3fyz/e2sHTw/u1bHUxxlMTDRRoW
+MzTeznCNigAoTAZKln5OB3O22dMWlYYLGUA43QfsLC9xOVrfdau6eE/nV/p4ajdb
+1KbESkuxQWDjuES5w4PBarXQNwHEmsJAJMxYHyCV2zrnJDFQi2BqaOJTQUqifjmE
+MFaBSz9aT/W8w42dUee/AdP6Ll6uBnS4lJX9wUYysB0CAwEAAaOCCegwggnkMB8G
+A1UdIwQYMBaAFFmkZgZSoHuVkjyjlAcnlnRb+T3QMB0GA1UdDgQWBBSCz6qQmaZg
+IbZ+0Avxk2Ovxg9SqjCCB4UGA1UdEQSCB3wwggd4ggx3YmRldm9wcy5jb22CFiou
+ZmlzaHdyYXBwZXItbWFpbC5jb22CFGZpc2h3cmFwcGVyLW1haWwuY29tgg10ZWxl
+cGl4dHYuY29tghJjYW5kaWRseW5pY29sZS5jb22CEnRydWVjcmltZWRhaWx5LmNv
+bYIUKi5ydXBhdWx0YWxrc2hvdy5jb22CDiouanVzdGtla2UuY29tgg4qLnJ1cGF1
+bHR2LmNvbYIKdG16MTIzLmNvbYIVc2hvdXRyYWdlb3VzLW1haWwuY29tggt0bXph
+cHBzLmNvbYIMKi50b29mYWIuY29tghUqLmNyaW1ld2F0Y2hkYWlseS5jb22CEyou
+dG16dmlkZW9zbG90cy5jb22CF3RoZXByZWFjaGVyc3R2LW1haWwuY29tgg8qLnRt
+enNwb3J0cy5jb22CDXRtenNwb3J0cy5jb22CDCoudG16MTIzLmNvbYITc291dGhv
+ZndpbHNoaXJlLmNvbYIXY2FuZGlkbHluaWNvbGUtbWFpbC5jb22CD2Zpc2h3cmFw
+cGVyLmNvbYIUdGhlaHVzdGxldHYtbWFpbC5jb22CDSouZXh0cmF0di5jb22CEWxl
+dHNhc2thbWVyaWNhLnR2ggp0b29mYWIuY29tghoqLmNyaW1ld2F0Y2hkYWlseS1t
+YWlsLmNvbYINKi50bXphcHBzLmNvbYIScnVwYXVsdGFsa3Nob3cuY29tghIqLmV4
+dHJhdHYtbWFpbC5jb22CE3RoZXBlb3BsZXNjb3VydC5jb22CEXN1cHBvcnRhbWFu
+ZGEuY29tghIqLnRoZXJlYWwtbWFpbC5jb22CEyoubGV0c2Fza2FtZXJpY2EudHaC
+DHRtenRvdXJzLmNvbYIUKi50aGVwcmVhY2hlcnN0di5jb22CEGV4dHJhdHYtbWFp
+bC5jb22CB3Rtei5jb22CEW9iamVjdGlmaWVkdHYuY29tgg4qLm1vbWxvZ2ljLmNv
+bYIVdG16bGl2ZXR1cmtleXRvc3MuY29tggt0aGVyZWFsLmNvbYIUKi5jYW5kaWRs
+eW5pY29sZS5jb22CFCoudHJ1ZWNyaW1lZGFpbHkuY29tggxqdXN0a2VrZS5jb22C
+E3RoZXJlYWx0YWxrc2hvdy5jb22CE3N0ZWFsc29udGhlcmVhbC5jb22CDioudG16
+c3RvcmUuY29tghcqLnRtemxpdmV0dXJrZXl0b3NzLmNvbYIVKi5zdGVhbHNvbnRo
+ZXJlYWwuY29tghl0bXpsaXZldGhhbmtzZ2l2ZWF3YXkuY29tghEqLnRvb2ZhYi1t
+YWlsLmNvbYIOaWNlYW5kY29jby5jb22CGyoudG16bGl2ZXRoYW5rc2dpdmVhd2F5
+LmNvbYIOKi50bXp0b2RheS5jb22CDHRtenRvZGF5LmNvbYIYKi50bXpob2xseXdv
+b2RzcG9ydHMuY29tggx0bXpzdG9yZS5jb22CFSoudGhlcGVvcGxlc2NvdXJ0LmNv
+bYIPdGhlaHVzdGxldHYuY29tghgqLmV4dHJhdHYud2FybmVyYnJvcy5jb22CD2p1
+ZGdlbWF0aGlzLmNvbYILZXh0cmF0di5jb22CFmV4dHJhdHYud2FybmVyYnJvcy5j
+b22CFSoudGhlcmVhbHRhbGtzaG93LmNvbYITaWNlYW5kY29jby1tYWlsLmNvbYIJ
+Ki50bXouY29tghEqLmZpc2h3cmFwcGVyLmNvbYITKi5zdXBwb3J0YW1hbmRhLmNv
+bYIRKi5qdWRnZW1hdGhpcy5jb22CFnRtemhvbGx5d29vZHNwb3J0cy5jb22CDSou
+dGhlcmVhbC5jb22CFmp1ZGdlbWF0aGlzdHYtbWFpbC5jb22CDG1vbWxvZ2ljLmNv
+bYIVKi5zb3V0aG9md2lsc2hpcmUuY29tgg4qLnRtenRvdXJzLmNvbYIPdG9vZmFi
+LW1haWwuY29tgg5ydXBhdWxzaG93LmNvbYIYY3JpbWV3YXRjaGRhaWx5LW1haWwu
+Y29tghUqLmljZWFuZGNvY28tbWFpbC5jb22CFmJlbmVmaXRzZm9ydHZoaXJlcy5j
+b22CFyouc2hvdXRyYWdlb3VzLW1haWwuY29tghkqLmNhbmRpZGx5bmljb2xlLW1h
+aWwuY29tggxydXBhdWx0di5jb22CEHRoZXJlYWwtbWFpbC5jb22CECouaWNlYW5k
+Y29jby5jb22CECoucnVwYXVsc2hvdy5jb22CDyoudGVsZXBpeHR2LmNvbYIYKi5q
+dWRnZW1hdGhpc3R2LW1haWwuY29tghNjcmltZXdhdGNoZGFpbHkuY29tgg4qLndi
+ZGV2b3BzLmNvbYIYKi5iZW5lZml0c2ZvcnR2aGlyZXMuY29tghMqLm9iamVjdGlm
+aWVkdHYuY29tghEqLnRoZWh1c3RsZXR2LmNvbYIWKi50aGVodXN0bGV0di1tYWls
+LmNvbYIZKi50aGVwcmVhY2hlcnN0di1tYWlsLmNvbYISdGhlcHJlYWNoZXJzdHYu
+Y29tghF0bXp2aWRlb3Nsb3RzLmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9j
+cmwuc2NhMWIuYW1hem9udHJ1c3QuY29tL3NjYTFiLmNybDAgBgNVHSAEGTAXMAsG
+CWCGSAGG/WwBAjAIBgZngQwBAgEwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzAB
+hiFodHRwOi8vb2NzcC5zY2ExYi5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKG
+Kmh0dHA6Ly9jcnQuc2NhMWIuYW1hem9udHJ1c3QuY29tL3NjYTFiLmNydDAMBgNV
+HRMBAf8EAjAAMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcApLkJkLQYWBSHuxOi
+zGdwCjw1mAT5G9+443fNDsgN3BAAAAFt2ual6gAABAMASDBGAiEA9pmpRr+XqQJD
+OEm6nvZTqKMauyR0DNj1jxkDCoom2VYCIQCHa3vKdh/8NpMWKhL/bd6QCi/3hdFS
+CLmUPIx4fVh4xwB1AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAAB
+bdrmplwAAAQDAEYwRAIgDXbuIOfi03BvhoA7XV3BaUNxi56SH0AwHxWx1flBIMoC
+IFvc+2zkEZvqn7DMsCQYSXm2v7Au/Bsn33Bp8IEDadF3MA0GCSqGSIb3DQEBCwUA
+A4IBAQCG2wDJqZmlinHGuRtdBd+/GnF5qO1KsFZqamuKxygdxjI36pYEELfW7+W1
+6MNk2Mly1gVML/QUWQWHcAMWeTejGz5Vw8XyVUyqUWCcqoUzsoLbkTh6nwfVGRtv
+hTKtOJzYT/zL010AngiVgYXjFaQAKHxvC8jeWS2qRqvKsi99+m1IerPXYz8n9DII
+/xYaAIhriGemQGhZYa0saLWIJ2JPFA6uhl6cl8IXdA3ui4A9DX8Ziasz+0YDyexF
+OQIR40wicg5CM4itN25Lt6hEMdJR1BsNUxDP710f7LSUla1lgTOI4xwblFV2TiPL
+XRkSbTpwjXbpjhuBF/lvhJ6/qTtf
+-----END CERTIFICATE-----
+subject=/CN=wbdevops.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 7 bytes and written 308 bytes
+SSL handshake has read 7384 bytes and written 322 bytes
 ---
-New, (NONE), Cipher is (NONE)
-Secure Renegotiation IS NOT supported
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : 0000
-    Session-ID: 
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BA83AF11BA5D68AD35E5D2854BA61A1A01CEDBEC0EB8E6B698DDFDEAC63C241D
     Session-ID-ctx: 
-    Master-Key: 
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788813
-    Timeout   : 300 (sec)
+    Master-Key: 4D41E954A9CC32F5AA725EB13A5BFB83CBB9B62F2215B7230CC0061756F1FE11414B115DCB82D710D4ECCED2CA971FEF
+    TLS session ticket lifetime hint: 43200 (seconds)
+    TLS session ticket:
+    0000 - a3 45 1c 8e 43 34 0a a0-f8 49 c6 97 24 f2 ac f1   .E..C4...I..$...
+    0010 - cb cf b4 b4 4e d0 78 80-7e 2e 8a 1d 2b 5b 83 8f   ....N.x.~...+[..
+    0020 - 37 cb 61 9e 91 92 04 20-39 69 4b e9 44 b7 21 a6   7.a.... 9iK.D.!.
+    0030 - c8 cc 90 99 a2 89 73 0b-8c 29 3d 5d fa 1c 56 a9   ......s..)=]..V.
+    0040 - d8 19 14 40 d3 16 de 1e-76 c1 bd c3 77 0a ae 7b   ...@....v...w..{
+    0050 - 3a 88 d0 72 af 4a 5a 73-03 c1 30 b1 2f b6 f3 38   :..r.JZs..0./..8
+    0060 - 9b ab 9d 16 46 9f 40 64-be ab de 48 d0 bd c0 0a   ....F.@d...H....
+    0070 - e0 e3 b6 64 2a 06 c3 fe-fe 89 1e 19 ae e7 47 bb   ...d*.........G.
+    0080 - a6 4d 43 00 10 c2 39 6e-e1 fb c8 9a 9c 25 7d 3e   .MC...9n.....%}>
+    0090 - df d0 c0 db 6a 4c cf da-91 bb 4d 62 cd 29 68 7a   ....jL....Mb.)hz
+    00a0 - 99 4d b5 a1 0c 4d 64 a8-79 2c 9d ca 3b 13 db b7   .M...Md.y,..;...
+
+    Start Time: 1577475788
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

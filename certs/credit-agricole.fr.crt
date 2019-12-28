@@ -1,52 +1,63 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=FR/ST=HAUTS-DE-SEINE/L=MONTROUGE/OU=ADS Administration/O=Credit Agricole SA/CN=www.credit-agricole.fr
-   i:/C=FR/O=KEYNECTIS/CN=CLASS 2 KEYNECTIS CA
- 1 s:/C=FR/O=KEYNECTIS/CN=CLASS 2 KEYNECTIS CA
-   i:/C=FR/O=Certplus/CN=Class 2 Primary CA
- 2 s:/C=FR/O=Certplus/CN=Class 2 Primary CA
-   i:/C=FR/O=Certplus/CN=Class 2 Primary CA
+ 0 s:/C=FR/postalCode=92120/ST=Hauts De Seine/L=Montrouge/street=12 place des Etats-Unis/O=Credit Agricole SA/OU=Unified Communications/OU=Multi-Domain SSL/CN=www.credit-agricole.fr
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFDzCCA/egAwIBAgISESFKtcnxCpyBRDklBmrlJjvrMA0GCSqGSIb3DQEBCwUA
-MEAxCzAJBgNVBAYTAkZSMRIwEAYDVQQKEwlLRVlORUNUSVMxHTAbBgNVBAMTFENM
-QVNTIDIgS0VZTkVDVElTIENBMB4XDTE2MDEwODE0MjY0MFoXDTE3MDEwODE0MjY0
-MFowgZUxCzAJBgNVBAYTAkZSMRcwFQYDVQQIFA5IQVVUUy1ERS1TRUlORTESMBAG
-A1UEBxQJTU9OVFJPVUdFMRswGQYDVQQLFBJBRFMgQWRtaW5pc3RyYXRpb24xGzAZ
-BgNVBAoUEkNyZWRpdCBBZ3JpY29sZSBTQTEfMB0GA1UEAxMWd3d3LmNyZWRpdC1h
-Z3JpY29sZS5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMzjZEpP
-Fvg5sRiQE/lqt5aTInlgUFpkmcOHwc/465hRGh5dCq+qMhPYelkjJ2z9sWWvgjZ0
-UYFee1DeOumKTMs+YrxX9eK1QWv/MvIbON+3qOY4kUK03kRSsZdDeEbBsdXs0X9k
-4oAZ9k9lTDhDo4wmLP+HlfbChdEUF+Xbq39xuxctcKeGuqmZ72JR3QqARZ/c6QLY
-WQW9kKditFqUAk5RJEpiT1NTF6AQ7VQKy6innbloDMo5W4TjyoEJrbTRj1Ou9qNF
-6ku6ViQmE5MgLRm+qoalABvEDcEwsciL7wVtf5HHfT8L0XDpI8RWuzHlKK0DMTfB
-09Dauto5iomJWf0CAwEAAaOCAaswggGnMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQD
-AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBNBgNVHREERjBEghZ3
-d3cuY3JlZGl0LWFncmljb2xlLmZyghZ3d3cuY3JlZGl0LWFncmljb2xlLmZyghJj
-cmVkaXQtYWdyaWNvbGUuZnIwTwYDVR0fBEgwRjBEoEKgQIY+aHR0cDovL2NybC1z
-c2wuY2VydGlmaWNhdDIuY29tL2tleW5lY3Rpcy9jbGFzczJrZXluZWN0aXNjYS5j
-cmwwRAYIKwYBBQUHAQEEODA2MDQGCCsGAQUFBzABhihodHRwOi8vb2NzcC1zc2wu
-Y2VydGlmaWNhdDIuY29tL3NzbC1vY3NwMEUGA1UdIAQ+MDwwOgYNKwYBBAGBrVoC
-BQIFATApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3Lm9wZW50cnVzdC5jb20vUEMw
-HQYDVR0OBBYEFB10ny3kHWLIwwZsVcvCyzCqgIE5MB8GA1UdIwQYMBaAFAARQd87
-nTvLuKLBM5KogczlfeeZMA0GCSqGSIb3DQEBCwUAA4IBAQBZXycqPrJ6NgqNkn6C
-Lxb7z9Ot6rBZTY+PCfhZQgDvhy/V7x5g5+6hTuTSbfN8eL5xeCI1oHK5R+NtGx6U
-cQRyqPqYtVb9OcCnYsOAonC5qNMBMc+lkKwoYDISVDYhG8JZGqY8F+ptG2tb8kHp
-JjqVyePIeNRwdJDpdp1I2ciMwIBzvOOt2I0i8Bo6asWivJZKP1MzVU8mQczj/KU8
-ZjEk+7aSBV3iDb9HxSA/XmN5lVYJLyWQ2Z+M0jG3rYK7GH+u9BlY1LDj1Z5s31Se
-bnbmpwgApxsTUWcbysmua9uuBxj1sDwVS6c2Bg4kzXU61XxJ2PEvtCk5On39ZlEh
-PdRk
+MIIHATCCBemgAwIBAgIRAOOSG+JXVv14mtxd/yYr6OswDQYJKoZIhvcNAQELBQAw
+gZUxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE9MDsGA1UE
+AxM0U2VjdGlnbyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0xOTEwMjMwMDAwMDBaFw0yMDEwMjIyMzU5NTlaMIHmMQswCQYD
+VQQGEwJGUjEOMAwGA1UEERMFOTIxMjAxFzAVBgNVBAgTDkhhdXRzIERlIFNlaW5l
+MRIwEAYDVQQHEwlNb250cm91Z2UxIDAeBgNVBAkTFzEyIHBsYWNlIGRlcyBFdGF0
+cy1VbmlzMRswGQYDVQQKExJDcmVkaXQgQWdyaWNvbGUgU0ExHzAdBgNVBAsTFlVu
+aWZpZWQgQ29tbXVuaWNhdGlvbnMxGTAXBgNVBAsTEE11bHRpLURvbWFpbiBTU0wx
+HzAdBgNVBAMTFnd3dy5jcmVkaXQtYWdyaWNvbGUuZnIwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC5gd1okvEIygYv3YxlXQDedfo6meBUu91i9qYTLoJ8
+1DfkMMK5c/ObEVdhB5bohXVPgzOLdrmWr880JPRLgaRRDexW58dLbCl4D93s48IF
+vgqBokRwXNFfuhZOb1AH6Uu1sXLh/bsnWybQ7MYb/FXOQjQ2yr89DsqyH37WoirJ
+bCkSxB5bpepmS0TUwIMpGak8GQ3bZ6K31ap2Qbt2bs3rnJlmzofio/hwPflcYHAS
+bgkxTNJhiZ8QcVBuKTRgvOygl3G6/qsND1w94eGpVz6fjo/mvON8Sn1mAsBhT0dJ
+BZzoJbSNm/79n1I0jpkmA8y73JaCkAJGL/AwRu+mHM7NAgMBAAGjggL3MIIC8zAf
+BgNVHSMEGDAWgBQX2dYlJ2f5McJJQ9kwNkSMbKlP6zAdBgNVHQ4EFgQU75+cEUCg
+377VGgMWsGiOmaCWPpIwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEoGA1UdIARDMEEwNQYMKwYBBAGy
+MQECAQMEMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgG
+BmeBDAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLnNlY3RpZ28uY29t
+L1NlY3RpZ29SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0Eu
+Y3JsMIGKBggrBgEFBQcBAQR+MHwwVQYIKwYBBQUHMAKGSWh0dHA6Ly9jcnQuc2Vj
+dGlnby5jb20vU2VjdGlnb1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25TZWN1cmVT
+ZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29t
+MDUGA1UdEQQuMCyCFnd3dy5jcmVkaXQtYWdyaWNvbGUuZnKCEmNyZWRpdC1hZ3Jp
+Y29sZS5mcjCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AAe3XBvlfWj/8bDGHSMV
+x7rmV3xXlLdq7rxhOhpp06IcAAABbfeoaXIAAAQDAEgwRgIhALfTJlzRXHYFkDYG
+1mpGAMXUQzFBrrsyvHfS2dvQRcm5AiEAs+KoeSUkhsxoxMuzvrkDyZ5Z0TTNhdcd
+2hQklhJCkoMAdwBep3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW33
+qGldAAAEAwBIMEYCIQDEhTy0Q5ain5aTOwGeVCeE0Qtdid90Mq1OIqZSNPuJfQIh
+AKrPkoB8InuZIySSGN/fXHLaYBMyvmylqOXKMqyVUADXMA0GCSqGSIb3DQEBCwUA
+A4IBAQCADNA6pmG8fCBT3clfMojjSXccejczC8/1O+ITdp7UwI6bAPYOQZ9RBcjx
+XuArN5ww3lbqY6Us5shkMTPdbVguUcNqUv7XBJ7YymtEmcxB2wTZYfEjU3XsTSWV
+iRAlYqjcEBo7FIIosZd+dbyEp4DPVyUjl8KrXTBOsSq4lmT89pdcMlZpBdbZA53S
+D5er3Nny6H7q4oZbU2UTFM7atp+S2MOAtWz/r3GOa3xoYOH4K0tE0DsJqUw1e2UW
+1gnsjTI2ovZNPbBaa8pzWuooT4Ii15Fm91rRiOXJB6ce4uA3iTpvkAu8mvz8hnFk
+ww6rTK6CCwJyb/c3QRE3ev2KxcqC
 -----END CERTIFICATE-----
-subject=/C=FR/ST=HAUTS-DE-SEINE/L=MONTROUGE/OU=ADS Administration/O=Credit Agricole SA/CN=www.credit-agricole.fr
-issuer=/C=FR/O=KEYNECTIS/CN=CLASS 2 KEYNECTIS CA
+subject=/C=FR/postalCode=92120/ST=Hauts De Seine/L=Montrouge/street=12 place des Etats-Unis/O=Credit Agricole SA/OU=Unified Communications/OU=Multi-Domain SSL/CN=www.credit-agricole.fr
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3953 bytes and written 434 bytes
+SSL handshake has read 6542 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -57,29 +68,25 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: AA012CD0AAA9F3D9879519ED1A568C029091597B5E5DE40075F4F778882A3500
+    Session-ID: DB04CF19534EBFE4757689D01B1F3E92BC2701A91D47C4A4AD41D219A49CA2E4
     Session-ID-ctx: 
-    Master-Key: A6C9C056567EAF4C2E9E716708E788D3B6DB8755074E9637526EC89A8798F881C6A511D1FADBD275D79193B9E4B0A2F6
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 2978A7B796774168DA93E039298577B064472ADA20918B055FC2B8756A86B9DB4EA7853D9DA24F56C345DE3C788156B0
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 6c 68 a1 3d aa 59 0d ca-71 8e 4d 0f 06 f5 7b ef   lh.=.Y..q.M...{.
-    0010 - 98 f1 ef 57 9b 8b 42 cb-cc ac b8 2c 7c fe 1d 24   ...W..B....,|..$
-    0020 - 05 62 0e d6 29 c3 fc 36-ab eb 32 71 35 38 8d 84   .b..)..6..2q58..
-    0030 - 47 9c 60 c9 59 42 a2 69-ac 0d 52 89 b5 51 94 33   G.`.YB.i..R..Q.3
-    0040 - 12 50 c7 0d 4f fd da a6-12 aa ad a7 45 18 ea c2   .P..O.......E...
-    0050 - 84 40 d4 0d 4b a6 96 82-0b 53 6a c4 46 5a f3 66   .@..K....Sj.FZ.f
-    0060 - 28 11 ee 5b 5d 68 f1 17-c0 12 de 78 a7 7d ce 14   (..[]h.....x.}..
-    0070 - 2b 5d 4b f4 0f b0 2b 5b-00 6d 9e cf 95 e8 b9 05   +]K...+[.m......
-    0080 - 07 e8 ae 35 af f1 e5 e3-a0 eb 6f 7d e4 48 43 33   ...5......o}.HC3
-    0090 - 61 c8 c6 e9 3d 51 4c 95-35 7a 0e fa 7b 28 42 47   a...=QL.5z..{(BG
-    00a0 - 03 7e 4f bb 09 1d c5 3e-9b 3a 8d f3 12 31 72 00   .~O....>.:...1r.
-    00b0 - 67 02 a0 97 5d 03 cb c1-61 5c 57 32 88 87 1e b0   g...]...a\W2....
+    0000 - 9e a3 19 8f 73 c9 a0 29-db ec 8d 0a ef c9 1b bd   ....s..)........
+    0010 - 61 a4 7b 3d 62 f1 fc e7-68 16 03 b3 6b 2a 85 e3   a.{=b...h...k*..
+    0020 - 00 39 1a af 8b fb 07 bb-c7 52 67 04 1a f0 6b 60   .9.......Rg...k`
+    0030 - 9d a4 17 1b d5 28 74 5b-8b ae db b0 43 1e 44 b7   .....(t[....C.D.
+    0040 - 1f 62 04 1f 25 b5 e7 b1-7a 88 a4 84 47 17 d5 b2   .b..%...z...G...
+    0050 - 21 09 d7 a1 8e af 28 e1-c3 3a ef 6b f8 f7 bb 93   !.....(..:.k....
+    0060 - 9a 5f 68 9b 0c 53 a3 ac-0d e9 90 22 19 5f 64 3b   ._h..S....."._d;
+    0070 - 73 4f d3 46 13 0a 9e e6-9c be 87 53 68 f1 fc 6a   sO.F.......Sh..j
+    0080 - 9e 8b fe dd d5 ba 6c 23-9b 5c ac d0 c7 e8 ea 83   ......l#.\......
+    0090 - a3 66 b8 90 4e cb b9 8b-51 60 fa 52 67 35 bd 96   .f..N...Q`.Rg5..
+    00a0 - f3 12 8e 8d 5e a5 89 7c-32 84 60 06 66 4d c5 d0   ....^..|2.`.fM..
+    00b0 - b0 99 78 ad 3b ff 21 21-cb 69 a0 0f 28 ce dc ee   ..x.;.!!.i..(...
 
-    Start Time: 1472789865
-    Timeout   : 300 (sec)
+    Start Time: 1577475733
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

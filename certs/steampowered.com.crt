@@ -1,71 +1,71 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Washington/serialNumber=602290773/street=Suite 500/street=10900 NE 4th St/postalCode=98004/C=US/ST=Washington/L=Bellevue/O=Valve Corp./CN=store.steampowered.com
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
- 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 0 s:/CN=steamcommunity.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIJIDCCCAigAwIBAgIQCS7hWqFgX+M1Zl1OfsONTjANBgkqhkiG9w0BAQsFADB1
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
-d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
-IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE1MTEyMDAwMDAwMFoXDTE4MDIwNzEy
-MDAwMFowggEPMR0wGwYDVQQPDBRQcml2YXRlIE9yZ2FuaXphdGlvbjETMBEGCysG
-AQQBgjc8AgEDEwJVUzEbMBkGCysGAQQBgjc8AgECEwpXYXNoaW5ndG9uMRIwEAYD
-VQQFEwk2MDIyOTA3NzMxEjAQBgNVBAkTCVN1aXRlIDUwMDEYMBYGA1UECRMPMTA5
-MDAgTkUgNHRoIFN0MQ4wDAYDVQQREwU5ODAwNDELMAkGA1UEBhMCVVMxEzARBgNV
-BAgTCldhc2hpbmd0b24xETAPBgNVBAcTCEJlbGxldnVlMRQwEgYDVQQKEwtWYWx2
-ZSBDb3JwLjEfMB0GA1UEAxMWc3RvcmUuc3RlYW1wb3dlcmVkLmNvbTCCASIwDQYJ
-KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMNVVhzfwhY/XjCfrVYUeuEArpKtEOiz
-VIs1sE9C1GY5eeDNlIboPebjHnJj99qVZXX5WVyPcymztPhJePToTNiONHVYDhtr
-Z9qW0BhG1kT6lr1oRbx1W6pvKjZjM+Amwm5avDi30YNPKXob+o5WqQ5lysQy6ySD
-VnNTtotAn5tkiixnmceuv/9UQcJVRMXyTBQYPdU9oTvp8qgo93B63lTTwLbNTWuV
-7nmGNIr6cV+7dTB7sotphX0BTD7SHlPbN4F7KVUQE3//QLglxWzRBHd69PgG8Te6
-l3PrmpRlMpyetXT12f7mnK+Pw9SOZxcCisN0WyEL3tbOxH7eTqVCGtMCAwEAAaOC
-BQ4wggUKMB8GA1UdIwQYMBaAFD3TUKXWoK3u80pgCmXTIdT4+NYPMB0GA1UdDgQW
-BBTgZVYZqKqrRfykD/Ag3AdWfZMuPjCCAbYGA1UdEQSCAa0wggGpghZzdG9yZS5z
-dGVhbXBvd2VyZWQuY29tghR3d3cuc3RlYW1wb3dlcmVkLmNvbYIUYXBpLnN0ZWFt
-cG93ZXJlZC5jb22CGHN1cHBvcnQuc3RlYW1wb3dlcmVkLmNvbYIUa2dzLnN0ZWFt
-cG93ZXJlZC5jb22CH3BhcnRuZXJ1cGxvYWQwLnN0ZWFtcG93ZXJlZC5jb22CH3Bh
-cnRuZXJ1cGxvYWQxLnN0ZWFtcG93ZXJlZC5jb22CGHBhcnRuZXIuc3RlYW1wb3dl
-cmVkLmNvbYIWcGFydG5lci5zdGVhbWdhbWVzLmNvbYISc3RlYW1jb21tdW5pdHku
-Y29tgg13d3cuZG90YTIuY29tghFwYXJ0bmVyLmRvdGEyLmNvbYIRdmFsdmVzb2Z0
-d2FyZS5jb22CFXd3dy52YWx2ZXNvZnR3YXJlLmNvbYIXZm9ydW1zLnN0ZWFtcG93
-ZXJlZC5jb22CFmFwaS5zdGVhbWNvbW11bml0eS5jb22CFWhlbHAuc3RlYW1wb3dl
-cmVkLmNvbYIXY29tbXVuaXR5LnN0ZWFtLWFwaS5jb20wDgYDVR0PAQH/BAQDAgWg
-MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAw
-hi5odHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2ZXItZzEuY3Js
-MDSgMqAwhi5odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2ZXIt
-ZzEuY3JsMEsGA1UdIAREMEIwNwYJYIZIAYb9bAIBMCowKAYIKwYBBQUHAgEWHGh0
-dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwBwYFZ4EMAQEwgYgGCCsGAQUFBwEB
-BHwwejAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMFIGCCsG
-AQUFBzAChkZodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEy
-RXh0ZW5kZWRWYWxpZGF0aW9uU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwggGA
-BgorBgEEAdZ5AgQCBIIBcASCAWwBagB3AKS5CZC0GFgUh7sTosxncAo8NZgE+Rvf
-uON3zQ7IDdwQAAABUSXnH6EAAAQDAEgwRgIhAONRWfUYP0XEW7ffcI7f1DFd9dkN
-JBU2A93IUgEkmWOcAiEAwigfxBN/MgEVdjSwdSfTe3RyErkuIKKvy8ahISh+MYIA
-dwBo9pj4H2SCvjqM7rkoHUz8cVFdZ5PURNEKZ6y7T0/7xAAAAVEl5x/KAAAEAwBI
-MEYCIQD12j1BFokhW8sPlHEHrPysC7bISjIdMPCuAz8y8CjuQwIhAJqbOlBl3P2B
-oedCO/0noZNRdvoiHjo5CC7PZcSezEXpAHYAVhQGmi/XwuzT9eG9RLI+x0Z2ubyZ
-EVzA75SYVdaJ0N0AAAFRJecgpgAABAMARzBFAiEAvw2MjXMO3mTgPXcOC0mQSPV7
-ptR8zZDaE2T3uvEaQqYCIDWKOmSK1r2FFO5gA12X4aEs7Hsvm/xm3u/45OUPpTwb
-MA0GCSqGSIb3DQEBCwUAA4IBAQC0M6IZcZGZg3BOZMjj2ZGgoYZvjcGQ2llU2Pt3
-E3K+8Zuh0jUU+dH9FRM9mox71aTsVOj1RRyydsKOO4tPcAimusWsKrOIhSz7Majb
-xCJYHehEg0BBKwCRcIIn1CxbkY4ltXQy6XpCdJ3+uk2t0HUuLMdeIDx65jpkUBpq
-GlzbAAkrNwAeXqNXsbtYJcPKGb/9JarN3KWxTrr5jHtbsZF3afawe5KvdJVSoxOb
-3U1IRIqGnwlbzhII87pKWAXoa0w1zkXMbHfx7UPP5UBinXMn19YDDo1gumMNe4M/
-PEm1FqE12j/eVQpWpnubOHsPp3pc5q+n0RyCaBzTH1yMvykr
+MIIJUDCCCDigAwIBAgISA1T0IxzeOhCrdpo8wUqrpHoEMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMjAwMTE3MDZaFw0y
+MDAyMTgwMTE3MDZaMB0xGzAZBgNVBAMTEnN0ZWFtY29tbXVuaXR5LmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMaKdSwX9mlU0cZD7hyQyAZn1vaC
+9iKk/EyIjEJoch9YiWnFtPKBKvmqNAm1YaP4AERVyfsYymy4mHj9vR6s0KyHOTgJ
+1P0CqEZGQNPbABW/NCbWctwScYoWxvQsK5pcSzPXN8odNFvVpsKsWAHpkqvImuH2
+3IJETqmeosotzkVNcLOcjuC6ewdB56+wA8JObgZeyoS5SkhkQSeECVhDJBXWqCuo
+fTGiOVv0teOR4tIPMYRv33ADCd6SomCE8nq1P9Kg3mC4d5rLbcz5JSX5un14t0GY
+BKgrjkUuGDf68M+OvXR58Fq3QiGxhJ9x0TByGzOJYuQJJHi9AgyGEghG+pcCAwEA
+AaOCBlswggZXMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUv6woqn2kGuXPxvqT6wTX
+vkxShV8wHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzCCBA8GA1UdEQSCBAYwggQCghNhcGVydHVyZXNjaWVuY2UuY29tghdj
+b21tdW5pdHkuc3RlYW0tYXBpLmNvbYISY291bnRlci1zdHJpa2UubmV0gg9kYXlv
+ZmRlZmVhdC5jb22CCWRvdGEyLmNvbYIOZm9ydW1zLmw0ZC5jb22CDWhhbGYtbGlm
+ZS5jb22CDmhhbGYtbGlmZTIuY29tghVoZWxwLnN0ZWFtcG93ZXJlZC5jb22CB2w0
+ZC5jb22CFGxlYXJud2l0aHBvcnRhbHMuY29tghNtaWRuaWdodC1yaWRlcnMuY29t
+ghVvcmFuZ2UuaGFsZi1saWZlMi5jb22CEXBhcnRuZXIuZG90YTIuY29tghBwbGF5
+YXJ0aWZhY3QuY29tggZzLnRlYW2CDnNvdXJjZS5sNGQuY29tghNzb3VyY2VmaWxt
+bWFrZXIuY29tgg5zdGVhbS1jaGF0LmNvbYIIc3RlYW0udHaCEnN0ZWFtY29tbXVu
+aXR5LmNvbYIQc3RlYW1kZXZkYXlzLmNvbYIOc3RlYW1nYW1lcy5jb22CEHN0ZWFt
+cG93ZXJlZC5jb22CC3N0ZWFtdnIuY29tghhzdG9yZS5jb3VudGVyLXN0cmlrZS5u
+ZXSCFnN0b3JlLnN0ZWFtcG93ZXJlZC5jb22CFnN0b3JlLnRlYW1mb3J0cmVzcy5j
+b22CG3N0b3JlZnJvbnQuc3RlYW1wb3dlcmVkLmNvbYIQdGVhbWZvcnRyZXNzLmNv
+bYIUdGhpbmt3aXRocG9ydGFscy5jb22CDnVuZGVybG9yZHMuY29tghF2YWx2ZXNv
+ZnR3YXJlLmNvbYIXd3d3LmFwZXJ0dXJlc2NpZW5jZS5jb22CFnd3dy5jb3VudGVy
+LXN0cmlrZS5uZXSCE3d3dy5kYXlvZmRlZmVhdC5jb22CEXd3dy5oYWxmLWxpZmUu
+Y29tghJ3d3cuaGFsZi1saWZlMi5jb22CC3d3dy5sNGQuY29tghh3d3cubGVhcm53
+aXRocG9ydGFscy5jb22CF3d3dy5taWRuaWdodC1yaWRlcnMuY29tghR3d3cucGxh
+eWFydGlmYWN0LmNvbYIXd3d3LnNvdXJjZWZpbG1tYWtlci5jb22CFnd3dy5zdGVh
+bWNvbW11bml0eS5jb22CFHd3dy5zdGVhbWRldmRheXMuY29tghJ3d3cuc3RlYW1n
+YW1lcy5jb22CFHd3dy5zdGVhbXBvd2VyZWQuY29tgg93d3cuc3RlYW12ci5jb22C
+FHd3dy50ZWFtZm9ydHJlc3MuY29tghh3d3cudGhpbmt3aXRocG9ydGFscy5jb22C
+End3dy51bmRlcmxvcmRzLmNvbYIVd3d3LnZhbHZlc29mdHdhcmUuY29tMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDw
+AHUAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAFuhplYOwAABAMA
+RjBEAiBNy/NCBQ6/F64/JQGkqxUGA7ywFH1DSLUYGBmI4CoEagIgXMBL/EsfhRww
+9lBMXbk6DtqIDaLpcaPuOvY4+AWqZuYAdwAHt1wb5X1o//Gwxh0jFce65ld8V5S3
+au68YToaadOiHAAAAW6GmVhEAAAEAwBIMEYCIQDnUGB2IVtiaLoYsPlE5zcZ7kOj
+/YK4t7VGaHwd/VGTdwIhAOH8uvmy8/ZOmgPW2WOMW1L95VdgtGFMhESZG8Q6bB6h
+MA0GCSqGSIb3DQEBCwUAA4IBAQBAG2dYRM9Avp+VuOeN6T0D9mt1Igv5+rxbtUio
+uru0jWVisuJFOLHW8iu3ISZMPKBbGzZLP/Ktmzj5Xn1GVB7yonK8Yh2tm7O+JC0y
+/PmeFvw3BuuRcQVAoGYv4+shIpehii+YV2iOjgJzQm2bgzC/6YvAN/K+vAWU1PzS
+gQIML8u9Myse8sx8Pr5/hXAT8TkYhZxprV2R11STbujQ18w/K8xmFdqtT86ZIzMn
+ro8sMcRPlrUejsgbBdd7QTRa1ut7pcopYOyj+ebocAtAMt8nz4FbNR62jCyNS8LJ
+cirqkZ6rQnr7gJjJYpH+RJmLe5T7iU5UbzTl8wzReIKcGW3C
 -----END CERTIFICATE-----
-subject=/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Washington/serialNumber=602290773/street=Suite 500/street=10900 NE 4th St/postalCode=98004/C=US/ST=Washington/L=Bellevue/O=Valve Corp./CN=store.steampowered.com
-issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+subject=/CN=steamcommunity.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4207 bytes and written 434 bytes
+SSL handshake has read 4219 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -76,27 +76,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 106F20B8EA5347418B153EFB6934946FDC098AE7E0A49A78A73626079128174B
+    Session-ID: F0410C724E407958A3A8C40BE5083560A6DF61C5CE9A8A1ABE206E4446AE0CEC
     Session-ID-ctx: 
-    Master-Key: B59EB994EFB35A035C0D112892814605B2D5527541F78CD729E2A58ECE986A3CA996946842E30325FC71E47F54D0F644
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 68D5689FAEE57DDE547E7C5AB2C67AFA30E1C67F16B0F9B1679B4F7A420279E1F1897E288F752A154A5241F3CE4B230A
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 54 78 29 70 14 49 47 1b-d7 7a ab b3 3a c1 b2 09   Tx)p.IG..z..:...
-    0010 - b6 5b 59 ac 2c f1 1c 62-96 ed 6a f2 f6 11 b1 92   .[Y.,..b..j.....
-    0020 - ac c7 bb ec 1a 74 57 4b-f1 af f4 79 37 1e 4a a3   .....tWK...y7.J.
-    0030 - 0b d2 ad 64 83 a0 87 11-a2 b7 5e a7 66 47 98 66   ...d......^.fG.f
-    0040 - 79 3e 8d 12 fc 2c c2 14-c9 65 4d df ec 43 69 74   y>...,...eM..Cit
-    0050 - 41 4a 3a 3a 1b 9a 73 c8-c8 1a 93 b7 4a 73 69 9e   AJ::..s.....Jsi.
-    0060 - 9e d9 f4 4d 09 d0 48 1c-ce 05 68 66 31 99 65 1c   ...M..H...hf1.e.
-    0070 - 95 9d 32 92 7c 19 39 82-75 96 c5 72 80 a5 40 52   ..2.|.9.u..r..@R
-    0080 - c9 ad 8c 24 69 18 b3 cc-62 0a 62 24 ac 64 1f 15   ...$i...b.b$.d..
-    0090 - 6b b4 3f b7 82 e4 d6 99-4c 98 84 8c 7f 9b e3 db   k.?.....L.......
+    0000 - 00 00 09 0d c3 a2 d1 99-eb 75 d1 8c 6e f2 69 ce   .........u..n.i.
+    0010 - 15 66 29 d2 9a 5f cc cb-23 ce cc b8 90 1d 2b 7e   .f).._..#.....+~
+    0020 - 40 e5 08 c8 78 b2 f5 98-31 83 12 f7 2f 32 c7 3b   @...x...1.../2.;
+    0030 - d5 f6 e1 3c e3 93 3f f0-31 ae ec 31 43 fa ce ca   ...<..?.1..1C...
+    0040 - 2f 3e 43 4c 7b 44 9c 7e-cc e7 ca 32 31 5e b6 e8   />CL{D.~...21^..
+    0050 - c2 8f d8 4b db 9c db aa-c1 14 01 7c 5e d2 04 be   ...K.......|^...
+    0060 - 89 90 89 23 61 3b 78 ad-f7 76 b5 c0 c6 55 08 0d   ...#a;x..v...U..
+    0070 - b8 e2 1b c8 fd 03 78 bd-ec 2f 58 20 20 9d 49 d4   ......x../X  .I.
+    0080 - 27 b8 76 d8 4c 01 a8 59-9c d7 a0 c9 a4 79 cc e2   '.v.L..Y.....y..
+    0090 - 7b d4 c1 9a 1f 8c d6 a0-d7 35 26 59 16 67 11 9a   {........5&Y.g..
 
-    Start Time: 1472788034
-    Timeout   : 300 (sec)
+    Start Time: 1577474898
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

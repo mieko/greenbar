@@ -1,0 +1,68 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/C=CN/ST=CN/L=Beijing/O=Beijing Knownsec Information Technology Co., Ltd/OU=Jiasule business department/CN=default.ssl.cdn.jiasule.com
+   i:/C=CN/ST=CN/L=Beijing/O=Beijing Knownsec Information Technology Co., Ltd/OU=Jiasule business department/CN=default.ssl.cdn.jiasule.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID5DCCAswCCQD0L+sQOnX0DzANBgkqhkiG9w0BAQsFADCBszELMAkGA1UEBhMC
+Q04xCzAJBgNVBAgMAkNOMRAwDgYDVQQHDAdCZWlqaW5nMTkwNwYDVQQKDDBCZWlq
+aW5nIEtub3duc2VjIEluZm9ybWF0aW9uIFRlY2hub2xvZ3kgQ28uLCBMdGQxJDAi
+BgNVBAsMG0ppYXN1bGUgYnVzaW5lc3MgZGVwYXJ0bWVudDEkMCIGA1UEAwwbZGVm
+YXVsdC5zc2wuY2RuLmppYXN1bGUuY29tMB4XDTE2MDExMTIwNTAzM1oXDTI2MDEw
+ODIwNTAzM1owgbMxCzAJBgNVBAYTAkNOMQswCQYDVQQIDAJDTjEQMA4GA1UEBwwH
+QmVpamluZzE5MDcGA1UECgwwQmVpamluZyBLbm93bnNlYyBJbmZvcm1hdGlvbiBU
+ZWNobm9sb2d5IENvLiwgTHRkMSQwIgYDVQQLDBtKaWFzdWxlIGJ1c2luZXNzIGRl
+cGFydG1lbnQxJDAiBgNVBAMMG2RlZmF1bHQuc3NsLmNkbi5qaWFzdWxlLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKgr8VwNW71zjSW6IwjptkIo
+DIJIVdrDieNOipIrp5ovCIj/Butoaf0xV+SW+cpWyr6ktKabPJthQbB5WIHdlBbL
+7rPNFifeCMpfpdWezZ6yJ/XlccrqZWo0Vyo9IxuYJY5YKxCIKeOPBpisi/cF7Hgk
+FYgz0++6/X87BJwLYtL2tz2p0F+F8zH16xipw207jlmwZhT8c9wvzgN1NLx3WkCJ
+T59D+/MUGbfjricMx6KpKsH6+iZ8l5yyX5Y3/7danE0XSZ8+At6WhNI7Av+CLg3t
+JWYBVPvsRvX0yExstS5Ab+4RCi9r1CIZ8s8X3xWCfCKp74oeSQLPhtoa0ZdboucC
+AwEAATANBgkqhkiG9w0BAQsFAAOCAQEAWiDiP7Qr93w9fIaXEmd2ISb1oqOcu09t
+SOUdH82ehgMXx7BP4HN5PBCq8LbULz73gzR4pOeBMLJTxzgtQrZnLLK3LtlmzUke
+nAetj456VMwjFDjnaktL+1FpHFxQ3Yqe8fRyOWHpuYjdBQKNZ/Jz2eO/TX3fLeVQ
+/AwevZRw7aqcZG0VYkyW9vHNjTpNPhXnCBy90Y7iNRilfRikCcetFqrgdSc3S22y
+h7HFz2hK699fpGvtuYdQIuB1bPckBwhNxLmVyAAV+BwsUxksDQMQwTzL99An1IP/
+htTou3UAxats1hiLfMMT7g9r9Flh9Gw2CgjbFwXK3C5Ljw/vqO0Hig==
+-----END CERTIFICATE-----
+subject=/C=CN/ST=CN/L=Beijing/O=Beijing Knownsec Information Technology Co., Ltd/OU=Jiasule business department/CN=default.ssl.cdn.jiasule.com
+issuer=/C=CN/ST=CN/L=Beijing/O=Beijing Knownsec Information Technology Co., Ltd/OU=Jiasule business department/CN=default.ssl.cdn.jiasule.com
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1670 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 200DBB98AF045AF067EABD7B3DC77F56CD3D1710804FA2C25123D8E3C722EEB2
+    Session-ID-ctx: 
+    Master-Key: A87E4A7FE1FB6F2C46AFB39A2B72F6CEE65559B497248F2C34173223887CA9DBD364A2E028B10FF0346DB321C4418B14
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - b1 04 6e 3a 57 2e 20 cd-05 eb a9 22 f5 fc 5e c3   ..n:W. ...."..^.
+    0010 - 1d c4 ae 54 47 fd 34 42-ed 4b 81 9e 5d 72 41 55   ...TG.4B.K..]rAU
+    0020 - 62 fa 0c 12 bd 6a 4a 95-6b b2 b5 23 52 06 d7 39   b....jJ.k..#R..9
+    0030 - 16 ec b2 54 41 80 1d f7-2d d3 f9 cd f2 32 87 6d   ...TA...-....2.m
+    0040 - e4 d0 a4 c4 fb a9 62 90-eb f3 84 94 f1 35 33 7b   ......b......53{
+    0050 - 22 fd 6e 1c 22 53 d9 f8-07 1e d7 69 6f 20 f3 87   ".n."S.....io ..
+    0060 - 8c 68 5d ab a0 67 e0 aa-5b 4d 34 ad 2b b4 7f 61   .h]..g..[M4.+..a
+    0070 - df e0 9d ab 38 ef 42 6a-c2 11 b9 5d 8d 28 88 2a   ....8.Bj...].(.*
+    0080 - da 8b c8 5a eb af 62 31-d5 1a 1e 6b e7 73 2f fa   ...Z..b1...k.s/.
+    0090 - 9c 1a 0c d0 54 e0 8b bf-21 89 87 67 41 5c 4d ca   ....T...!..gA\M.
+    00a0 - a3 43 53 eb a3 29 4d db-df 62 af ec 46 51 b4 f0   .CS..)M..b..FQ..
+
+    Start Time: 1577475109
+    Timeout   : 7200 (sec)
+    Verify return code: 18 (self signed certificate)
+---

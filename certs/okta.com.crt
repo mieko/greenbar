@@ -1,51 +1,59 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=San Francisco/O=Okta, Inc./CN=support.okta.com
+ 0 s:/C=US/ST=California/L=San Francisco/O=Okta, Inc./CN=community.okta.com
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFwzCCBKugAwIBAgIQDmaRfEwGNVy5zOL838S9rjANBgkqhkiG9w0BAQsFADBw
+MIIHEDCCBfigAwIBAgIQCXf5PA2aeVFZu1glaCO2YjANBgkqhkiG9w0BAQsFADBw
 MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
 d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
-dXJhbmNlIFNlcnZlciBDQTAeFw0xNjA2MjAwMDAwMDBaFw0xOTA2MjUxMjAwMDBa
-MGoxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1T
-YW4gRnJhbmNpc2NvMRMwEQYDVQQKEwpPa3RhLCBJbmMuMRkwFwYDVQQDExBzdXBw
-b3J0Lm9rdGEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzyTR
-KBvL5Rqv6oy+8FJGyW6p1EBnVEqofVvJGZfHbPXDcvvfMZMmFdY9xWYuCJGfPWbE
-rIADJ7AJ6g65fgJZO9iaUV0d6cCaLYz4HH3sCg4PA8IjMOpvhCfZGCL9DCMoDJNN
-1I1Y7UL9ofYqvNsXZwfpzHfSoJbxcUiWp84fQHrEykOaEfORWJW58GWhElqa1bjO
-NZr1JzHZlCcqfSY7ndqieCIoLyc3Mt2kexL4RtL2V9w2Lw253kieSjMS5UNF2eXD
-ENKuFYt5IFmmOwnb1aJa0HrJMFQQTtidafGu1YiCHqTogWxu0fiCFe24++MiT3cq
-ivyE95ZjEeEATQPeLwIDAQABo4ICXTCCAlkwHwYDVR0jBBgwFoAUUWj/kK8CB3U8
-zNllZGKiErhZcjswHQYDVR0OBBYEFFQs5kI+CJY5puD8DJJ1NIQYojdxMIGOBgNV
-HREEgYYwgYOCEHN1cHBvcnQub2t0YS5jb22CEmNvbW11bml0eS5va3RhLmNvbYIS
-ZGV2ZWxvcGVyLm9rdGEuY29tgg1oZWxwLm9rdGEuY29tgghva3RhLmNvbYIMd3d3
-Lm9rdGEuY29tghF3d3cub2t0YS1lbWVhLmNvbYINb2t0YS1lbWVhLmNvbTAOBgNV
-HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1Ud
-HwRuMGwwNKAyoDCGLmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNl
-cnZlci1nNS5jcmwwNKAyoDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEy
-LWhhLXNlcnZlci1nNS5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggr
-BgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIw
-gYMGCCsGAQUFBwEBBHcwdTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNl
-cnQuY29tME0GCCsGAQUFBzAChkFodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20v
-RGlnaUNlcnRTSEEySGlnaEFzc3VyYW5jZVNlcnZlckNBLmNydDAMBgNVHRMBAf8E
-AjAAMA0GCSqGSIb3DQEBCwUAA4IBAQBDYFq/TLAMvmm0/cWfj2eBvhQ3lOKW8+9V
-rMDZDbCHfN1bU1+oh3yO7HRX8jbnIj/cG9TGpE+7e1PzYLG8EWyds3BGd20wKKJT
-k82LwY0ZLh0Ak2cZEETuqK5PQneYMsyVezqfsu3E71LxETQXnGqY3+GB5+178E8y
-Zt75JNO7GqQqYemaGWkiJE97NwnsZTSz0RwmXE6sQ2JDsXgr8609HrzRs4+VuXAY
-aw33GIuoO+54U2lvyF+LrjyBXVagaokeEZMaWST4JY7QidO/9aK17tptUcl38Xrb
-pIHkEroRWk21mEBxvMDF1MUUFyIIbby7gWmYkED5pGA/Sl4NyAlL
+dXJhbmNlIFNlcnZlciBDQTAeFw0xOTA1MjgwMDAwMDBaFw0yMTA1MjgxMjAwMDBa
+MGwxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1T
+YW4gRnJhbmNpc2NvMRMwEQYDVQQKEwpPa3RhLCBJbmMuMRswGQYDVQQDExJjb21t
+dW5pdHkub2t0YS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDP
+JNEoG8vlGq/qjL7wUkbJbqnUQGdUSqh9W8kZl8ds9cNy+98xkyYV1j3FZi4IkZ89
+ZsSsgAMnsAnqDrl+Alk72JpRXR3pwJotjPgcfewKDg8DwiMw6m+EJ9kYIv0MIygM
+k03UjVjtQv2h9iq82xdnB+nMd9KglvFxSJanzh9AesTKQ5oR85FYlbnwZaESWprV
+uM41mvUnMdmUJyp9Jjud2qJ4IigvJzcy3aR7EvhG0vZX3DYvDbneSJ5KMxLlQ0XZ
+5cMQ0q4Vi3kgWaY7CdvVolrQeskwVBBO2J1p8a7ViIIepOiBbG7R+IIV7bj74yJP
+dyqK/IT3lmMR4QBNA94vAgMBAAGjggOoMIIDpDAfBgNVHSMEGDAWgBRRaP+QrwIH
+dTzM2WVkYqISuFlyOzAdBgNVHQ4EFgQUVCzmQj4Iljmm4PwMknU0hBiiN3EwWAYD
+VR0RBFEwT4ISY29tbXVuaXR5Lm9rdGEuY29tgg1oZWxwLm9rdGEuY29tgghva3Rh
+LmNvbYIRd3d3Lm9rdGEtZW1lYS5jb22CDW9rdGEtZW1lYS5jb20wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8EbjBs
+MDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc2hhMi1oYS1zZXJ2ZXIt
+ZzYuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc2hhMi1oYS1z
+ZXJ2ZXItZzYuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUH
+AgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMIGDBggr
+BgEFBQcBAQR3MHUwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNv
+bTBNBggrBgEFBQcwAoZBaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lD
+ZXJ0U0hBMkhpZ2hBc3N1cmFuY2VTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADCC
+AX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHcAu9nfvB+KcbWTlCOXqpJ7RzhXlQqr
+UugakJZkNo4e0YUAAAFrAAuIMAAABAMASDBGAiEAhv78WpSbign0j/y66t2iDp+Z
+tb9Sg6RdeBxpzA2q45kCIQCAf8j4V/tCatW0qxpZyuApDj9ax+AVYRgnRTPhf+1v
++QB2AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABawALiUgAAAQD
+AEcwRQIhAOqLlfhkoKfrwN+NcwBWbALEaVd463EzfCDelnOo9Q44AiB8n7zyu2mx
+YKmiR6pQgdd0WNGkIDstqKUWjjcWccol7wB1AESUZS6w7s6vxEAH2Kj+KMDa5oK+
+2MsxtT/TM5a1toGoAAABawALh9AAAAQDAEYwRAIgfnt85Y60qzK02twMOOh5rwBq
+oBvk1iluUAuNNc0TyO8CIChqP/SLP1OZMvdpg2FTKBwtsIIwlZQeki1GXvvLAQik
+MA0GCSqGSIb3DQEBCwUAA4IBAQCc+t0GZ0Nt4Qe4NtEMuOInqBawfEYlJctGmoxo
+PMHoIoYd38SAk39MP955ksWGrCireyz41Sw4sgzzzhNK4iRSxrp6fKfTNbcm8E0O
+2zOJgHGCX9slWW8B/M6pfsN2cl8nP2QxTrnpXlProq+sWYB7KuJGQVlWxBhVUkL3
+cW5dIDpY6f1N862AinNSzKmPBcGJ5dOxA75V4P+cHu+gynaBmXPQ7jNPa00aiUGi
+RLV7R2+KiD5rz6I7ODHsJzdNN72n/xB3xNkVcy+AIWWP4ymNgVlQ6R4eCb8f/Sn2
+rDQd/o8hzRwtuGAjob/mUtOxtK5uHaZX1xsxOIqY1onOuX0P
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=San Francisco/O=Okta, Inc./CN=support.okta.com
+subject=/C=US/ST=California/L=San Francisco/O=Okta, Inc./CN=community.okta.com
 issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2170 bytes and written 434 bytes
+SSL handshake has read 3706 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -56,29 +64,25 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 8D6E4FBEDAEA09F8D38B704D0F50D1A016097E85B9D886C339518BAB6434DCF4
+    Session-ID: C52DF23327695A3EB1946F8A09F2CBC7F5AE20FF36EDA22A9D945E5B6AC7E869
     Session-ID-ctx: 
-    Master-Key: BBDD67154DDF0078007AC951DF6354B821D28F1C702A229FAA43FE336BB15A9A49A3DF90A6D0AB71FC76C8F5030C1A1F
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 67C7F996716B8A0CA5400108FA67790C0529BE6208CB90C8941DB974A978E7A7EDEF91F47472F04B4FA708251E6D3876
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - b9 26 75 14 9a c1 55 a6-ed 98 75 1f 52 8c ca 3f   .&u...U...u.R..?
-    0010 - 52 e8 ab 48 b6 68 98 c1-49 1c 1d b8 5d 7b 8e b2   R..H.h..I...]{..
-    0020 - a4 89 ea 75 07 3a 3c d3-8c 39 ed 04 05 95 bd cd   ...u.:<..9......
-    0030 - 48 da 9f 3e bb f7 6c 44-06 b0 26 53 67 38 6b 14   H..>..lD..&Sg8k.
-    0040 - f9 b8 58 4a 7e a5 11 cb-43 38 61 18 6f 87 15 c5   ..XJ~...C8a.o...
-    0050 - 76 09 2d 47 08 4b 0f ff-e9 26 8c b1 c8 52 81 80   v.-G.K...&...R..
-    0060 - 9d 5d 66 17 db e2 d6 ac-7e 0b b8 28 ba cc f8 39   .]f.....~..(...9
-    0070 - 0b c4 b9 21 f2 4a 77 d8-e5 47 9e 8e e3 1f 23 99   ...!.Jw..G....#.
-    0080 - 7f f5 8a b9 f3 cb 9a 7e-d4 5a 59 20 86 79 05 f8   .......~.ZY .y..
-    0090 - 90 c2 4b 51 79 35 64 17-5f b0 85 48 80 ba 01 90   ..KQy5d._..H....
-    00a0 - d2 85 38 35 88 04 cb 0d-bf 94 37 93 b1 3a b1 6e   ..85......7..:.n
-    00b0 - 8b 4e 4b 60 42 27 ad 75-67 5d b5 ee a0 5e 43 89   .NK`B'.ug]...^C.
+    0000 - a4 e7 e2 97 e9 9f e2 40-d9 4e de e4 63 4f 3a e0   .......@.N..cO:.
+    0010 - 44 f1 58 e7 42 81 e9 4c-16 b1 48 73 a8 c2 d0 5b   D.X.B..L..Hs...[
+    0020 - 32 a7 4a 93 b1 04 3b e9-70 45 00 b3 35 35 6c 50   2.J...;.pE..55lP
+    0030 - fd 57 38 7c 17 4b ed b9-a5 38 b4 ed b4 b2 0f 80   .W8|.K...8......
+    0040 - 76 cb ca f2 4f e9 e1 51-59 09 82 b9 f0 57 16 f2   v...O..QY....W..
+    0050 - 91 16 e5 3a 15 9e 42 e0-32 5d 43 8f fc e2 0b ac   ...:..B.2]C.....
+    0060 - 5b 61 4e d7 49 e8 f6 1d-8c ba 3f 4e fb ca fb 71   [aN.I.....?N...q
+    0070 - 3e fd 51 ec 89 a5 86 d9-42 8b 4f a6 b9 ca 3d 27   >.Q.....B.O...='
+    0080 - eb b8 be 00 73 ab 62 56-19 55 61 5e f4 ec 15 54   ....s.bV.Ua^...T
+    0090 - 7a d8 ad 8e 99 37 08 85-e7 69 0a 45 47 09 44 b3   z....7...i.EG.D.
+    00a0 - 4c 9f d9 27 7a b0 e9 e8-2b bc 42 47 e1 9d f2 76   L..'z...+.BG...v
+    00b0 - 2b 34 4d 72 e9 00 98 c8-da b4 22 1c a8 0c ab 02   +4Mr......".....
 
-    Start Time: 1472789040
-    Timeout   : 300 (sec)
-    Verify return code: 21 (unable to verify the first certificate)
+    Start Time: 1577475127
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

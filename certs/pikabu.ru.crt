@@ -1,27 +1,69 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
-no peer certificate available
+Certificate chain
+ 0 s:/CN=finance.pikabu.ru
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGWDCCBUCgAwIBAgISBPrNOcw1UaCve2PlZkLgF/WLMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMDMwNTA4NDRaFw0y
+MDAzMDIwNTA4NDRaMBwxGjAYBgNVBAMTEWZpbmFuY2UucGlrYWJ1LnJ1MIICIjAN
+BgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAxn+2+8vfZXOfJQw88LqDMpYKiHf9
+XC0o8FtT4YyCTUP9JFd8R7o+djOhNu6lOcZcaM94lAhIOXxK59izNR2LjUXpa54Z
+px+ByAoslRzfk48t2j4YJ36WWnVmSvZnmIekNhgWsAvrx8WI7+J0Ug1UDHO7MrxB
+ENhrEN+lUn39cFKDvEsQvwAzVCzZ6Q/hzDf3Krrl5CiFAQfyYxGJAj2rYJqVnhJy
+Tm3HfMoePE8scZ6vMYcv3HCCqM5Uen0PspnulUEa2UK2qLMxPpEs3zFTklms0gHn
+BS6LIfz9mJ5E3YVmtfBvPGx7TqDIF+CSFCznNx1UyGkJGey3R2JUX56eRL7xur9M
+U614cq/xLMlmE7myTX3rMrg5+hvTL+mv73uV6SL/ScUK4aR5wP3gH6nxlf6agChc
+JiFUnyQF7WZr+V4LSa+ZBGBE5i5TQ7kV1zdNB7Dbq5p88StdzjviU+CYyKtkM/dN
+/5RDkUeblsfqJmKRs6BjRuzZHRbabXb43+ZHygxMeor8Gn9B/oQZCUJegI+4NF3B
+qU870AtapAZtkM33SEwaFYAbNmTczVRqG+1os67t2/omcjxF4fAIaEPusQywILOe
+rp3dQqAM3tUlSfBG4eJjpUDZkWv1iJFKugEARRcyLXg18JtIyht5p14sMDTLVvcA
+riMS3stgNtYRbe0CAwEAAaOCAmQwggJgMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+sHpdPOH4iI+IJC6jHu/8iYXcrVkwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl
+7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5p
+bnQteDMubGV0c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5p
+bnQteDMubGV0c2VuY3J5cHQub3JnLzAcBgNVHREEFTATghFmaW5hbmNlLnBpa2Fi
+dS5ydTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQIGCisGAQQB1nkC
+BAIEgfMEgfAA7gB1APCVpFnyANGCQBAtL5OIjq1L/h1H45nh0DSmsKiqjrJzAAAB
+bspgEr0AAAQDAEYwRAIgCbbzgSjEbbgpbzZuhcCQAwyowd0lUU3gjjqeJIf1Iw4C
+ICzRgN2ZgNRd7SdcA1gZYd2fNxOST7gkFfXA9aKLVGsaAHUAB7dcG+V9aP/xsMYd
+IxXHuuZXfFeUt2ruvGE6GmnTohwAAAFuymAS4wAABAMARjBEAiA2S3cd6iORBaao
+MfJ5CgCiaD3XkqMtn9xSZ4YV9ygDpAIgQHJayJVZhqfARAUbv9zyONpWhghWj35C
+J6javqeAmgYwDQYJKoZIhvcNAQELBQADggEBAFyYFiTAjzvJ5uHGlCmPugGcmG3G
+1tvFMnsZTV+C5F8wSl/2SFlh8ELM4xQeriqND0Qt84C9axZhn2zIM+tfspDVJAy5
+42YsFRh3/Av3RDSleyokkcmByZ0Dw7OK5pT9/1aqERs7LIii6JFULEjfFw5Kdgwy
+cVnci9b+uITUOxJZFIMiWBco4OxO5fcz2BjLnlfFN0oW4Mn5s5I3znwMS1MnMpzM
+b1sSAVEYNkP8rixRDugaolgyGKqFkR1SUXl6GEeTYJ1wtgCmmjO3NiFy88HDiOCi
+X3EViLXlhzZnnFFF1JSHX1FDOjv55jiwrBTmQYzQSMF73QkW0OT5cMsgYmE=
+-----END CERTIFICATE-----
+subject=/CN=finance.pikabu.ru
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 0 bytes and written 308 bytes
+SSL handshake has read 3535 bytes and written 289 bytes
 ---
-New, (NONE), Cipher is (NONE)
-Secure Renegotiation IS NOT supported
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : 0000
-    Session-ID: 
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 01D20FB8207AAC724D02774B03646FA17A2904F9C2EEDBE49620DACE56189D03
     Session-ID-ctx: 
-    Master-Key: 
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472789033
-    Timeout   : 300 (sec)
+    Master-Key: 4A3D10E5AE3960A782811AD0F59CC596806F74902DB18807703C8237281B2E2ECD8CFAD6CD76ECD32EDE8AE66757B9F2
+    Start Time: 1577475253
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,57 +1,52 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/jurisdictionC=CZ/O=Seznam.cz, a.s./C=CZ/ST=Praha/L=Praha/businessCategory=Private Organization/serialNumber=26168685/OU=System Support/CN=www.seznam.cz
-   i:/C=US/O=thawte, Inc./CN=thawte EV SSL CA - G3
- 1 s:/C=US/O=thawte, Inc./CN=thawte EV SSL CA - G3
-   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+ 0 s:/CN=www.seznam.cz
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGIDCCBQigAwIBAgIQAmXHuJC/GnM/gimUs3RVljANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMR4wHAYDVQQDExV0
-aGF3dGUgRVYgU1NMIENBIC0gRzMwHhcNMTYwODI0MDAwMDAwWhcNMTYxMjIxMjM1
-OTU5WjCBvzETMBEGCysGAQQBgjc8AgEDEwJDWjEYMBYGA1UECgwPU2V6bmFtLmN6
-LCBhLnMuMQswCQYDVQQGEwJDWjEOMAwGA1UECAwFUHJhaGExDjAMBgNVBAcMBVBy
-YWhhMR0wGwYDVQQPExRQcml2YXRlIE9yZ2FuaXphdGlvbjERMA8GA1UEBRMIMjYx
-Njg2ODUxFzAVBgNVBAsMDlN5c3RlbSBTdXBwb3J0MRYwFAYDVQQDDA13d3cuc2V6
-bmFtLmN6MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3W+cC4bDv41M
-xwYF8KZ9NCg4rtUcpAqwC5R8gK8B38UWXoQsAxB1ARIPfkpRrxd8GL50W8f05aHq
-n8N3D/gKlsHmtDKdnCkEL8WHmD5qJeQF3Vu/II4M7caqxQ/K0Ds/kGYCBDwwKxQK
-oYtVxgrRVeqAPYQv+bsWcJtqTpmsWpZ3FpJWDGIHkL7p21N88u96jukhidW4wCDE
-Yvb5CS7rWCRFnEY6dbF2fEv9tqLFJ2NPAbrPiPjyLmCQ8D3sHte4Y4KAYNslrFhO
-cCKWHoJaRhzspNHTBxiLNb6lQIGF0Kc5rdmnRpqE0Vm3HVJLihmX80k7KX6MqGKG
-g3BMQZ8/rwIDAQABo4ICkDCCAowwIwYDVR0RBBwwGoIJc2V6bmFtLmN6gg13d3cu
-c2V6bmFtLmN6MAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIw
-IKAeoByGGmh0dHA6Ly90aS5zeW1jYi5jb20vdGkuY3JsMHwGA1UdIAR1MHMwaAYL
-YIZIAYb4RQEHMAEwWTAmBggrBgEFBQcCARYaaHR0cHM6Ly93d3cudGhhd3RlLmNv
-bS9jcHMwLwYIKwYBBQUHAgIwIwwhaHR0cHM6Ly93d3cudGhhd3RlLmNvbS9yZXBv
-c2l0b3J5MAcGBWeBDAEBMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAf
-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
+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
 -----END CERTIFICATE-----
-subject=/jurisdictionC=CZ/O=Seznam.cz, a.s./C=CZ/ST=Praha/L=Praha/businessCategory=Private Organization/serialNumber=26168685/OU=System Support/CN=www.seznam.cz
-issuer=/C=US/O=thawte, Inc./CN=thawte EV SSL CA - G3
+subject=/CN=www.seznam.cz
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3453 bytes and written 434 bytes
+SSL handshake has read 3184 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -59,29 +54,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: D52631447EB4438FF67677DF4DBEFDE8841102BF25E4ED716AF16B160BCE5B82
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 475C52A945519DB6FF46DF4DC6BA757EF6BACC03581DD77FEB69FFDB0C855CA0
     Session-ID-ctx: 
-    Master-Key: 2A7299AB2A43414421A126B3B53AE1802223B4A3342216D523A10A12649EEF563A17FBF9A3BD93CA03D3D858DF99038F
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: FA70C71D8C6E5C4424A13EC8C884D8C5F8696CB6B8E86B6F86D5387FF96FF4CFE341874F8DFC3F1406B5C3F533BB0332
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 92 b5 19 4a 12 b0 c2 86-1a 06 cf 50 31 5d 7a 71   ...J.......P1]zq
-    0010 - f5 fc ff 33 db 40 87 1a-ad 0a 27 4b 4c 98 99 d4   ...3.@....'KL...
-    0020 - fe 63 73 40 ce 0b ee cf-31 e4 b3 26 c7 97 81 a7   .cs@....1..&....
-    0030 - 3d 8b 02 bc 33 10 28 7f-19 32 bf af cd 5e 00 b0   =...3.(..2...^..
-    0040 - 7f f6 d1 83 92 dd 38 63-f4 b6 7b 6a 17 62 03 06   ......8c..{j.b..
-    0050 - fd a0 81 04 2f f0 99 7f-af 2d 8d 8e 8c d7 5a 57   ..../....-....ZW
-    0060 - 33 40 5a db 36 0f 64 39-58 62 01 ea a5 53 ca b5   3@Z.6.d9Xb...S..
-    0070 - 97 e0 bc 75 0e 7c 02 c4-bb 10 c0 09 5a 18 c0 dc   ...u.|......Z...
-    0080 - dc f6 2f 92 fb f2 1c 18-ef cc 59 d6 11 69 3a c9   ../.......Y..i:.
-    0090 - de d5 39 22 bd cb e4 1e-b7 7d 1b 02 81 0d fa 8a   ..9".....}......
-    00a0 - 93 b7 b9 69 3a cf 1a 22-f3 3a 0d ba c3 11 7a 21   ...i:..".:....z!
+    0000 - 0f cf 11 89 c3 1b a9 64-9c 2b 2b fb 3c 4a 54 d5   .......d.++.<JT.
+    0010 - 17 24 eb 77 1e 53 ac c0-44 fe c2 f3 f4 51 87 09   .$.w.S..D....Q..
+    0020 - 7c d6 65 83 b0 91 47 ff-41 28 68 58 a2 af fb cd   |.e...G.A(hX....
+    0030 - f8 d3 dc 4b da 9a 37 fb-02 a4 6e 67 47 3e ec 95   ...K..7...ngG>..
+    0040 - 32 08 72 3e ef c1 04 9f-57 89 db a5 7a 79 f6 72   2.r>....W...zy.r
+    0050 - 36 4a 9d e5 7f 6b da 39-0d 80 43 db 13 b4 58 9a   6J...k.9..C...X.
+    0060 - 26 ee a5 54 25 ea 65 4b-fc 91 46 70 ee c5 36 75   &..T%.eK..Fp..6u
+    0070 - 62 14 6f b5 86 1d c2 0f-a5 4c 4c 3e 84 a0 45 5c   b.o......LL>..E\
+    0080 - 65 aa 93 65 28 86 ca a8-1b 3d ff 9c 5f d0 b8 3e   e..e(....=.._..>
+    0090 - fb b7 9e ab 64 44 f0 08-8a cb a3 68 36 a0 7d 51   ....dD.....h6.}Q
+    00a0 - ba 9a 44 9b 48 5b a6 74-23 ab 88 52 df 46 46 63   ..D.H[.t#..R.FFc
 
-    Start Time: 1472788176
-    Timeout   : 300 (sec)
+    Start Time: 1577475118
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

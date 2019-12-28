@@ -1,50 +1,56 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=DE/ST=Berlin/L=Berlin/O=Idealo Internet GmbH/OU=Operations/CN=*.idealo.de
-   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
- 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
-   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+ 0 s:/CN=*.idealo.de
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEvjCCA6agAwIBAgIQKIzL31TEVRlPL/bnKG4kyjANBgkqhkiG9w0BAQsFADBB
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
-aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUwNTI4MDAwMDAwWhcNMTcwNzI2MjM1OTU5
-WjB5MQswCQYDVQQGEwJERTEPMA0GA1UECBMGQmVybGluMQ8wDQYDVQQHFAZCZXJs
-aW4xHTAbBgNVBAoUFElkZWFsbyBJbnRlcm5ldCBHbWJIMRMwEQYDVQQLFApPcGVy
-YXRpb25zMRQwEgYDVQQDFAsqLmlkZWFsby5kZTCCASIwDQYJKoZIhvcNAQEBBQAD
-ggEPADCCAQoCggEBAJxaEtO0YVgOB85Nt4/IY4RbR8nZcml89IAXQ4nK7Ihk8wvx
-m80X4ZP8+NOnLXD2tgK47UpC4c2lwitKH+lKpgL4cLXworESS15cikQjc17v64RB
-fHizKcQ4Eu5kvgpmnPcNwdmQOLVumnw2QMPVNv1VaOp/WOAazvB9pSLVOAc/Hojw
-mvAl/LluQjAo71wSYnRFX3qkICn9GNhWW6dECN8hn3OmrgzZEQKK0IPCyqGhRjY4
-hCl1kmVrTuJR+V1tMc+6nda4SV2tqMBPuvqSaH+g0IRcSq2XpMOm8NhCxAWcRKcj
-Ht/Ay8FMSXMd7B1P64TTrZaBT6unN9AVD6zu5VUCAwEAAaOCAXgwggF0MCEGA1Ud
-EQQaMBiCCyouaWRlYWxvLmRlgglpZGVhbG8uZGUwCQYDVR0TBAIwADBuBgNVHSAE
-ZzBlMGMGBmeBDAECAjBZMCYGCCsGAQUFBwIBFhpodHRwczovL3d3dy50aGF3dGUu
-Y29tL2NwczAvBggrBgEFBQcCAjAjDCFodHRwczovL3d3dy50aGF3dGUuY29tL3Jl
-cG9zaXRvcnkwDgYDVR0PAQH/BAQDAgWgMB8GA1UdIwQYMBaAFMJPSFf80U+awF04
-fQ4F29kutVJgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly90ai5zeW1jYi5jb20v
-dGouY3JsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBXBggrBgEFBQcB
-AQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly90ai5zeW1jZC5jb20wJgYIKwYBBQUH
-MAKGGmh0dHA6Ly90ai5zeW1jYi5jb20vdGouY3J0MA0GCSqGSIb3DQEBCwUAA4IB
-AQBdSiNkzRPClq8Z8RkSeySGPuteZmlGNOp9ghKEUZ9jeLms4c31vzCZmGyuFQGt
-/q2nr8bvS2ZOIbxsw0SB8MAJIBIrOskoSaUaYghYY2jvnPHOkzdPKKbjyGInTM8X
-2tRDGXzY+RCnGQfYYbkvdPN03uTl978NK/4moxwF0cWkld2Qy4260cHScCTHEMb1
-/tQKeRF9WE/ObHUKMPjoe9YAt0o1SAPAFlK37A0gMHegBHXIPWE4Roy+WEAwi4+V
-XymO6IyGCC0uZbejmSP2WEzNkacN78Sa3k7ppH3d3CACmUfRDjvlD0J7QYAArF42
-grAe2reJr7ThiAJfxgS26nlR
+MIIGHDCCBQSgAwIBAgIQBrXO7BYhL76oIaK76u5HJDANBgkqhkiG9w0BAQsFADBc
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMRswGQYDVQQDExJUaGF3dGUgUlNBIENBIDIwMTgwHhcN
+MTgwMzA5MDAwMDAwWhcNMjAwMjA3MTIwMDAwWjAWMRQwEgYDVQQDDAsqLmlkZWFs
+by5kZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALFM1CC3K4y2V9U4
+ZCAMpBH9Shr81hCJaGKNFKqsz0zu8DI9FS+BC5/JOQ9RAgBx/vw/6LNQ/KcEq1rr
+UWF7T3q7B25zwlFJ/fnCtD133BiltQ6OaQVp1OiPiLb4IDvy+kDt0Msqy1OFuah9
+U6oYe6VSIJiHSHm8osoctax1PrxOf+jWY5Mp4c5XoHOhmgwJ0NZZYpsaxiL0kDxg
+G3kAaxbYttiRG1pwzeY3Q7QPaDjS0A+w/HzvrGT95PEnCuxcaGoTRapSbR15u3qN
+23Wv3dnG7WHNQOOcvQ8ZJv6VV4HM8SL82tEnMn94U4lqGKXTy/iOfZn7hQoJ+Fj4
+oj1dLmcCAwEAAaOCAx4wggMaMB8GA1UdIwQYMBaAFKPIXmVU5TB4wQXqBwpqWcy5
+/t5aMB0GA1UdDgQWBBSBKnhwxa3vCH+qUM4oIdne1FPO9TAhBgNVHREEGjAYggsq
+LmlkZWFsby5kZYIJaWRlYWxvLmRlMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwOgYDVR0fBDMwMTAvoC2gK4YpaHR0cDovL2Nk
+cC50aGF3dGUuY29tL1RoYXd0ZVJTQUNBMjAxOC5jcmwwTAYDVR0gBEUwQzA3Bglg
+hkgBhv1sAQIwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29t
+L0NQUzAIBgZngQwBAgEwbwYIKwYBBQUHAQEEYzBhMCQGCCsGAQUFBzABhhhodHRw
+Oi8vc3RhdHVzLnRoYXd0ZS5jb20wOQYIKwYBBQUHMAKGLWh0dHA6Ly9jYWNlcnRz
+LnRoYXd0ZS5jb20vVGhhd3RlUlNBQ0EyMDE4LmNydDAJBgNVHRMEAjAAMIIBfgYK
+KwYBBAHWeQIEAgSCAW4EggFqAWgAdQCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jj
+d80OyA3cEAAAAWIKWKJAAAAEAwBGMEQCIEjbqR83Xrf9h1x+yQNfmJoljS33LimM
+ZzWLDJkwU6lqAiBoiddzDPupefALuvVa1LV55Wr0Mh3TY5bozB13+DqKgAB3AG9T
+dqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABYgpYo2AAAAQDAEgwRgIh
+AOP2L8tK+WZg3dL+/BaDoRl4PNEBAfGGdlCWnWSo8HzoAiEAtnC/l4kl72lLGBi+
+gYsCdqhLlI2S8YIkcUDSt6ATJK4AdgC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQ
+lmQ2jh7RhQAAAWIKWKL6AAAEAwBHMEUCIEEovWuvalX6wnMxP702mLIh3nc8Lehv
+qS4EWIXNHNicAiEAqt833cZzjcNa/yN0Z/BwndVSRuY/AxyzuHFtqjNf/tUwDQYJ
+KoZIhvcNAQELBQADggEBAG3PLws5rBUXmJr9vsvEXmeZU5an/FZXXsCpqQnxTJ2j
+PMR3v+LgCQtxea2mg0ivUZCoKAgUCcS+cROhiqabVjkNeTERYYtp24QqmgvSxh/e
+xyNN9W+XVXWyGCcP9GzYyrfU9q6STbw1jBCfoIDkinAUUi4Tfr1k3pZpRnLr128V
+Dg1Ne6Tt2+Ugr1WFD2OjzfutFQkb16OW0E4ZkkFAYtCISHmgzYmUSMdPBHdqJ58R
+fYT0ytLxFhIdQmt0rRdhIAocyN4KT9OXK5PV7nxWpHS7x46y8U4oJ+Cv2tspn1j4
+tlaA5SdomcpUkPxJalQv6c5pUU6Cg5GQSvoFeKkZ/68=
 -----END CERTIFICATE-----
-subject=/C=DE/ST=Berlin/L=Berlin/O=Idealo Internet GmbH/OU=Operations/CN=*.idealo.de
-issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+subject=/CN=*.idealo.de
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA1
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2932 bytes and written 434 bytes
+SSL handshake has read 3452 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -52,15 +58,28 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: D97DE6559D95B4B7EE04B85BE9D78A8E8F89591DB40C606FC27B86A944B78DBC
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BDFAA883100A64BF1EA760CF62CC44CADB945D683B6EB76E155187BA21590A7E
     Session-ID-ctx: 
-    Master-Key: ABE4AAE2886AAA51757B4E780CBB82558E2F849F86C6C0E82835F519C052A2CDD64F526445C2CB1292F64418FD05E278
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472790229
-    Timeout   : 300 (sec)
+    Master-Key: D872F7A32A91D0BDBBF18421F3CC6FB2EBEF356BCF3346B967457986EE4EF7D964D5D0D5B603DCA4BD5D39B9AD216A16
+    TLS session ticket lifetime hint: 3600 (seconds)
+    TLS session ticket:
+    0000 - 73 3e ec fe 20 11 18 b6-56 89 5d 2e ee d2 bb f2   s>.. ...V.].....
+    0010 - e4 1a 7b f2 4f 98 9d dc-3a c2 0d d8 f9 1d ab 25   ..{.O...:......%
+    0020 - 9c 38 86 1e 2e 8d df 53-3c b6 49 ea 30 67 00 f5   .8.....S<.I.0g..
+    0030 - 29 0e 97 bb a1 54 9d 99-22 d2 ac 08 29 8f a0 bf   )....T.."...)...
+    0040 - b0 6f 3e 22 bc 2e f5 f4-49 ed 66 2f 7b 86 99 e6   .o>"....I.f/{...
+    0050 - d4 15 6b a5 22 47 0c 93-f2 77 62 88 85 7a f3 b2   ..k."G...wb..z..
+    0060 - 04 2b ba 42 f0 04 4c 61-21 99 2c 43 ce 9e 72 f5   .+.B..La!.,C..r.
+    0070 - 26 9e 3e e0 fa 28 00 32-c2 72 b0 37 99 57 1a 02   &.>..(.2.r.7.W..
+    0080 - 86 8d 62 7e f3 37 cf 45-af da 4f 36 50 18 e2 b2   ..b~.7.E..O6P...
+    0090 - e6 dd d2 a1 aa 6e 14 05-da bb 08 22 76 5c 2c 28   .....n....."v\,(
+    00a0 - 33 13 73 32 7c 0c 3f c5-4c f3 73 fe 1c fb 9c e8   3.s2|.?.L.s.....
+    00b0 - 7c 7a 74 ed 48 17 89 45-51 09 82 d7 30 6d 7f 3e   |zt.H..EQ...0m.>
+    00c0 - 0d b6 6c 03 3e fe 6d 33-69 c2 5f 98 8a 54 27 b6   ..l.>.m3i._..T'.
+    00d0 - fd 35 c8 ba d6 17 8c c8-94 9e 55 11 00 95 20 e5   .5........U... .
+
+    Start Time: 1577475679
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

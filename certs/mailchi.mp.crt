@@ -1,0 +1,77 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=mailchi.mp
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTDCCBDSgAwIBAgISA4q6TAeGXz+jg58QAVJcy1/tMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMjYyMjI1MTdaFw0y
+MDAzMjUyMjI1MTdaMBUxEzARBgNVBAMTCm1haWxjaGkubXAwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQCiPCcJZbTU1J38Ac/pHV7eFEmjV5RUeOoQZouU
+BE8TRUE97H0PhBFsUpy9QVIHznoUwuhb6pSNe7fM+K68eZPs6GuvbYRmC4yYjml/
+jfXpieWmIA8pAsmXNda0LzWsobAF1xddYqM+2hYaGaE6fkcsrH8NW2TRyWVz/MYG
+tFLMy//XAN7s5Yy4hED84bcb31adkr69oW0VlAf9Sq2IByLDE6+j0h+wTiEWfBOT
+sg7FnPJB6xxIR50FTbxOdokoDIHjyeYdyBMyUFvpE0E0+XR1FV1BvMU+nYpk5i7u
+eZRPnii1WDTAaadfSnv+iL/nHzK/cHe6q5pRymWeAokMbxobAgMBAAGjggJfMIIC
+WzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPpAvOUF5I0yJNnOJyE81Z8jyfMhMB8G
+A1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAu
+BggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAv
+BggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8w
+FQYDVR0RBA4wDIIKbWFpbGNoaS5tcDBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AF6nc/nfVsDntTZIfdBJ4DJ6
+kZoMhKESEoQYdZaBcUVYAAABb0SHU9cAAAQDAEcwRQIhAKftHCQGnys6HAh2v9VT
+7r0Zpw7no0LRKSyljIIlpuBfAiBOVjD8SV8HfKxwriP77/r4/ISpUifIJDbK1GTM
+DZkDNQB2ALIeBcyLos2KIE6HZvkruYolIGdr2vpw57JJUy3vi5BeAAABb0SHU8gA
+AAQDAEcwRQIhAJrHLP+N9pgTHA7ZXcwPnWUDLOb9hXDez5ugAbTtuuTOAiA4zBT7
+HO6w/Ce0afgRV1UhuHgbgA+6HzjmVFLfUJ7RRTANBgkqhkiG9w0BAQsFAAOCAQEA
+PCWjn0O6RqjbTIsz/NGjTFIzIveTJtW7zNV8HnokiOi+pKD8Gb0SkWMAD3JIBcsy
+9eFGV8jpfI7z1jQZRPWV/EzTHW8UxO1JCJLv+9LaZ6gXx23RiCmXJ3lwR+bOaerO
+sQvcyJ4jg/VfQqwKOy92CMvvp1kqkvBy4/t2LAfUvE4+71GUxTjjmWBDNbilpk/4
+r9/LFkppNTrmqJV3c542lHYkoIPuOvvKANcsHF0mJlO/vTauelPvsoaC1gfHJMkv
+JfAmvxtMz9nBrJVUVuiw02APT09w7T/pxAdIStutOkQxzqb1/auQXGTaV8uNCyIP
+b1UtLuVFVhjMUy6dcsF5hQ==
+-----END CERTIFICATE-----
+subject=/CN=mailchi.mp
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3191 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 4270E0348AF9A00EED21B12D9D9B1B2731E56AD2F1D5758AD0E3AB71794B9BEF
+    Session-ID-ctx: 
+    Master-Key: F0020351C9FEAE5D53E556C17B12DDCD9D5CF343A54F5D24A1ED3D09EE233445BEBBCF6F68628DAE87DAD5BB8EB706AC
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 00 00 0e a0 03 44 fb 07-b8 1c 78 8f 26 ab 94 ab   .....D....x.&...
+    0010 - 84 9a cd 7b d8 90 aa 93-d5 86 01 61 eb d1 d2 a5   ...{.......a....
+    0020 - 4d 97 28 6e 78 90 7e a6-dc 32 12 f5 f2 7d 8c 90   M.(nx.~..2...}..
+    0030 - cf af f7 e6 ef e2 3f 9b-82 ff 6c 02 3c ea 72 02   ......?...l.<.r.
+    0040 - 2f 23 0d 26 0b 25 c4 18-45 06 31 52 0d 94 59 c1   /#.&.%..E.1R..Y.
+    0050 - 45 92 a6 06 0d 9e e9 a5-74 9a 77 97 7b 23 75 63   E.......t.w.{#uc
+    0060 - d4 2b 6b 81 de 42 94 16-1e 57 ef f9 74 85 e8 64   .+k..B...W..t..d
+    0070 - 3d d7 a5 86 fa 6e 8a ed-51 a3 63 1f 47 49 5d 07   =....n..Q.c.GI].
+    0080 - 68 67 2a 2d cd 49 70 7a-33 b9 6d 9d 03 e0 f4 26   hg*-.Ipz3.m....&
+    0090 - 83 7a 9c 52 37 bc 47 f6-4d 9c 9a f4 78 c7 7a ea   .z.R7.G.M...x.z.
+
+    Start Time: 1577475935
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

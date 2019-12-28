@@ -1,48 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/OU=GT78848040/OU=See www.rapidssl.com/resources/cps (c)14/OU=Domain Control Validated - RapidSSL(R)/CN=*.rapidgator.net
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.rapidgator.asia
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEtzCCA5+gAwIBAgIDAWQqMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNTAxMDMwNzQyNDBaFw0xODAxMzEwMjA0MjdaMIGUMRMw
-EQYDVQQLEwpHVDc4ODQ4MDQwMTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
-bS9yZXNvdXJjZXMvY3BzIChjKTE0MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
-YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEZMBcGA1UEAwwQKi5yYXBpZGdhdG9yLm5l
-dDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOfIvCS7TLBBoxbbgFr7
-tKVdKiaWaDrSRTSEpRoWV/3WLzjA0/w97T+GW+wHYoqniMhI24txU8L6KoJ1EeOz
-9hG2x3jskMQhWpmRiJLXoWB8jIAvvJWjcQcAK9Btv863XjuYO3si6fC5zNeF5oMm
-UItJBvNmN4y5yD+VJLFIApXK5G3lYg7wzS3O6F7LqMI+qlrjs57TCkqruLbuDs5O
-kVA42UmOWrWAqnXp26zRGdEXiNzWmt/Fx/me6t6xFSDa3qyxsnqEIXdkT2O2ehev
-bKuL0PPn0dlOBoeTL2xQsmbiDQEe+2GhmUbcupH24GZlROh/zIqjL3UP/CXv74jg
-9xUCAwEAAaOCAVwwggFYMB8GA1UdIwQYMBaAFMOc8/zTRgg0u85Gf6B8W/PiCMtZ
-MFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2d2LnN5bWNkLmNv
-bTAmBggrBgEFBQcwAoYaaHR0cDovL2d2LnN5bWNiLmNvbS9ndi5jcnQwDgYDVR0P
-AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjArBgNVHREE
-JDAighAqLnJhcGlkZ2F0b3IubmV0gg5yYXBpZGdhdG9yLm5ldDArBgNVHR8EJDAi
-MCCgHqAchhpodHRwOi8vZ3Yuc3ltY2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAA
-MEUGA1UdIAQ+MDwwOgYKYIZIAYb4RQEHNjAsMCoGCCsGAQUFBwIBFh5odHRwczov
-L3d3dy5yYXBpZHNzbC5jb20vbGVnYWwwDQYJKoZIhvcNAQELBQADggEBAAJ4Zt1L
-cwFPnjLIoNEtX/vE/hIh/Da3RPkq09+f8tnsU4XuOn48v+9j0wE2LB/P3drky7zn
-WA2rPxJSW2Anw28S4bCZxcvh0eHOZcI5/YqF4xxVwJTENMNAOYfNO4i5yH2Zymls
-PR+dPFtmL/94rtY+e8eU659CB+dQDDMpQCnoVbSu0G/3pInQtmeoRro3RZqbT3XF
-/ptAQKno5HsAq4Y1rNf8SXB4/j91+9srzeT2jv2JMgqH6XpBksBnqPCF0mfbJv5a
-NaunNUPuKwufvt16A0I0PcLM6XvDmXqoVF9tqHweMqsPmjPKFQEHzSx9yfT9SgHr
-I78QRmLAatTcp70=
+MIIG2jCCBcKgAwIBAgIRAMEL8pVxHYisaiFQeTOhZlIwDQYJKoZIhvcNAQELBQAw
+gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
+VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
+Q0EwHhcNMTgxMTEwMDAwMDAwWhcNMjAxMTA5MjM1OTU5WjBeMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxHTAbBgNVBAsTFFBvc2l0aXZlU1NMIFdp
+bGRjYXJkMRowGAYDVQQDDBEqLnJhcGlkZ2F0b3IuYXNpYTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMG+MmTMDyhSfPPqvCGAG7jQmlqyW3vjRha4z5ge
+tfc8+S/NkKhDeXhnHhiRqult2BaCUVvfMGXPzwK5uS2FhrmwQ8ilyv4mlUa0Bbzo
+0OZA+CYZqYFt5zirYYflPHXpAvQXhliKPEphqxEjm24dlKFKcocYzlSEWqsm1mjm
+6ib4PrTC+Rk6zuXy+DOMJ1N43vshlSmHQ1jGr7vrtwFVm7ZKSdziHgZXXNTfD6hm
+n2r2Y103PYvp8deSjuYSa20awuEd99dwUJza9Z4g8VXW4R9+trODbtFMUQLDksx/
+6WScNDRWpapzWHH8Fw0/2CipmvIy5g+wv3SuiqSIWCVNvBkCAwEAAaOCA14wggNa
+MB8GA1UdIwQYMBaAFJCvajqUWgvYkOoSVnPfQ7Q6KNrnMB0GA1UdDgQWBBS0pbRq
++mkobb7K1U8ztZCBNdZCqjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEE
+AbIxAQICBzArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29t
+L0NQUzAIBgZngQwBAgEwVAYDVR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5jb21v
+ZG9jYS5jb20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNB
+LmNybDCBhQYIKwYBBQUHAQEEeTB3ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LmNv
+bW9kb2NhLmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVy
+Q0EuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wLQYD
+VR0RBCYwJIIRKi5yYXBpZGdhdG9yLmFzaWGCD3JhcGlkZ2F0b3IuYXNpYTCCAXsG
+CisGAQQB1nkCBAIEggFrBIIBZwFlAHUAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUuga
+kJZkNo4e0YUAAAFnNfDT0AAABAMARjBEAiBCOghMwnQnOvYGn643P07PQ4lIbph4
+KRjGZhJG+FxaJgIgSvQGAV00eTEiojAAHxX5mxh1sIFT34vZiwvoFmSWGeIAdQBe
+p3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAWc18NPoAAAEAwBGMEQC
+IDCbqVSf1zPX4mU0No48IBI/YTgojEPJfsypWMsEC52fAiA/1ioY42UtEFXJYphY
+LiZ/ZDe6nQWluSkNA+J7K8hJSAB1APCVpFnyANGCQBAtL5OIjq1L/h1H45nh0DSm
+sKiqjrJzAAABZzXw0+4AAAQDAEYwRAIgazQ7IBEm4MHe425buS9ikVmTXpyl9XD5
+PUnb58DMubACIFS6tmu1B8wmCiz528Q/TGbu7AiFjPeF4KS8v41Vi9oxMA0GCSqG
+SIb3DQEBCwUAA4IBAQBwF6kU7OgnQBBp6lnRjIApSKr6hABtatd9s7yvUKjhs9O9
+L9P/c6UJ/fPHdvKZEbOlMl80IyYDq+RgpwIP0corO+3heZwOEttiENSmWjUjVd5/
+Nxi52WgRqabI8Z6vROfIDl1Y9dBgqT5pzuhX7EHOBkKFxW7tcoSi+6uI5DfyXKsw
+4bG9luhs7yMzR77KHA1dzLQ9u2mtMjyHfTFp8HJQlmuH3xzLs8HnNiMgNNPeuhqq
+Vhv/6EXzgJwgHfu+SF4BPuD19k3HisJjv6bBILLXMb/5daxSIQxnsxI9vfeIY45y
+3bcciiPaPm1lSOtSmYkL4pZFRqO0jIH3o2W4Iwd6
 -----END CERTIFICATE-----
-subject=/OU=GT78848040/OU=See www.rapidssl.com/resources/cps (c)14/OU=Domain Control Validated - RapidSSL(R)/CN=*.rapidgator.net
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.rapidgator.asia
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2954 bytes and written 434 bytes
+SSL handshake has read 5382 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -53,28 +65,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: D5B6163DEE06C7C54430AD5B01C954A275ADEBF52311DD0C49F030352A608C1B
+    Session-ID: D6627B12B8F1C349F2D90C3308360CE845AE54FA68E6480FF0978C5FAFF27B52
     Session-ID-ctx: 
-    Master-Key: D778A5DA51F199FF085990F7A50360401900C1FC51EA06C5606D7AEF5645B99735F2DBE845D550168047ED80F31E3A6D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 69D191C5768DFB5871BE0D6AFB9DC36B3FD84A5AC84648DC4F25F34508D322CE3CD384FB8131EE963C77222A1463DD4F
+    TLS session ticket lifetime hint: 3600 (seconds)
     TLS session ticket:
-    0000 - b8 d9 bd c9 7b 5d f7 a6-a0 90 19 39 35 33 36 ec   ....{].....9536.
-    0010 - f7 84 1b 7f ed 7a d0 12-a8 b8 e8 0e 73 4d e6 5f   .....z......sM._
-    0020 - 33 b0 b7 9b b4 02 17 18-3c 90 85 21 c2 2f 39 e6   3.......<..!./9.
-    0030 - 35 70 68 cc 7e 91 37 e6-20 a1 1c a7 ae e1 29 ca   5ph.~.7. .....).
-    0040 - ad 61 05 a1 15 71 bf 9d-2b 71 05 e9 24 41 db ec   .a...q..+q..$A..
-    0050 - 36 3e 27 d5 c6 3c b0 b5-1e 11 92 64 e8 90 85 d3   6>'..<.....d....
-    0060 - 50 fd a2 70 4a b3 79 e0-8f 71 f3 90 13 f0 99 66   P..pJ.y..q.....f
-    0070 - 83 6d b8 67 41 b2 d9 85-cf 9c 13 4f fe 6c a6 72   .m.gA......O.l.r
-    0080 - bd e3 c0 b7 ba 4a 1d 8a-6c a6 0d 00 40 de 68 59   .....J..l...@.hY
-    0090 - 11 a3 da ea 70 34 cf 68-bc 97 53 80 f6 01 19 8b   ....p4.h..S.....
-    00a0 - 4a cb 26 3f 19 a7 3b 3b-72 ce 28 57 0f bc ed 4a   J.&?..;;r.(W...J
+    0000 - 61 8f 4a b5 75 f8 01 df-54 56 86 ff 09 a9 be ee   a.J.u...TV......
+    0010 - 78 ad 1c 0e aa b8 c0 50-cd 86 31 ee f0 8a c6 aa   x......P..1.....
+    0020 - f3 5c df 90 43 be 04 61-36 dc bd d2 65 59 28 3c   .\..C..a6...eY(<
+    0030 - bc 35 8f 7b 61 9d 59 87-68 10 29 7a 18 3d 54 7c   .5.{a.Y.h.)z.=T|
+    0040 - 82 29 d7 c4 fa 59 46 66-f1 03 33 11 81 31 9b 40   .)...YFf..3..1.@
+    0050 - 88 ce 16 41 4f f4 78 4c-76 04 40 26 65 ac 19 5b   ...AO.xLv.@&e..[
+    0060 - 47 c9 64 17 44 50 89 60-e2 93 23 bc 4a 34 8b a1   G.d.DP.`..#.J4..
+    0070 - 04 b1 f3 a3 fa f5 dc e0-4c 5e 0f c7 6a ed d8 e2   ........L^..j...
+    0080 - dd b7 e2 6e ff 9a 14 26-56 e6 01 5f 25 69 dd 36   ...n...&V.._%i.6
+    0090 - 54 51 66 69 2e 91 e2 b0-44 86 b4 7c 73 69 b4 cd   TQfi....D..|si..
+    00a0 - 37 06 fc 97 e6 15 08 ce-1d 38 48 ea b4 02 cd af   7........8H.....
 
-    Start Time: 1472788725
-    Timeout   : 300 (sec)
+    Start Time: 1577475444
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,0 +1,67 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/C=AU/ST=Some-State/O=Internet Widgits Pty Ltd/CN=*
+   i:/C=AU/ST=Some-State/O=Internet Widgits Pty Ltd/CN=*
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID3DCCAsSgAwIBAgIJAJOrJGhYD+EyMA0GCSqGSIb3DQEBBQUAMFExCzAJBgNV
+BAYTAkFVMRMwEQYDVQQIEwpTb21lLVN0YXRlMSEwHwYDVQQKExhJbnRlcm5ldCBX
+aWRnaXRzIFB0eSBMdGQxCjAIBgNVBAMUASowIBcNMTgwMTE2MTIzMTQ4WhgPMjEx
+NzEyMjMxMjMxNDhaMFExCzAJBgNVBAYTAkFVMRMwEQYDVQQIEwpTb21lLVN0YXRl
+MSEwHwYDVQQKExhJbnRlcm5ldCBXaWRnaXRzIFB0eSBMdGQxCjAIBgNVBAMUASow
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDbGacjkhbIIyuTJ74AomnC
+TA9OnnPLtA+wfoNvng8zksUH/FCF2GRuCe1giOoASin38uW2b8CJ5wUsO+Z8UyCq
+0acx95VmbhD8RcQB0ARe+edO4VM2Dl9B9dc9e2NCZ+7uJy6kpu1wRVGepeIIok8+
+YAcAAHGVSzqAXbne28nlJ6+bHH+NoMkvdxHrY8/EHCV6DtWRpO5JoltjFNKhZDqN
+g0xQJ1WCNtnXasObQdDMRG14a5J2XetCMeq02rsSO9+oLNcX5WO3/bWyLfVeFgOC
+/yMuQeFvUlZueQyGawneP+LwArjJ89ysNYdJFhzwM1Lq6JGcYgg9u6k6d3F1FDsn
+AgMBAAGjgbQwgbEwHQYDVR0OBBYEFCLekS9KgjYQvzldPvA+4uc8QIBvMIGBBgNV
+HSMEejB4gBQi3pEvSoI2EL85XT7wPuLnPECAb6FVpFMwUTELMAkGA1UEBhMCQVUx
+EzARBgNVBAgTClNvbWUtU3RhdGUxITAfBgNVBAoTGEludGVybmV0IFdpZGdpdHMg
+UHR5IEx0ZDEKMAgGA1UEAxQBKoIJAJOrJGhYD+EyMAwGA1UdEwQFMAMBAf8wDQYJ
+KoZIhvcNAQEFBQADggEBALTneeSrpS/Sm1YU8fuVIVAs1ssOwg4Z4QYD5t8YrxU0
+/lvzIRWi+uep2a4ecPa9T1GuVVHI0mcSP+W0wqjdHbJYAfNRjWISXM9FsmsJicbF
+DO6mX06t3H83iMNxfw+oPsInOKKJIxbA/nZDzL9tlJCQo8cZQs3IErAPtOUHJyUX
+yaHtzxuULwWrM0By0//T+KtHJol4Ez3CNA3DpBycwQQphnsZBKgbKwxzIHR3kvOT
+AIq8hIpBAwmP1d0IieM59iQQCmt+fHr1QnOV8rYZyU69H+rp2n1qlxw76Bmo7unG
+Ld3++y9UEGouqBWHfzG5Pytce7O0arwtggBpiO98uPA=
+-----END CERTIFICATE-----
+subject=/C=AU/ST=Some-State/O=Internet Widgits Pty Ltd/CN=*
+issuer=/C=AU/ST=Some-State/O=Internet Widgits Pty Ltd/CN=*
+---
+No client certificate CA names sent
+---
+SSL handshake has read 1340 bytes and written 538 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES128-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES128-SHA
+    Session-ID: A4D06CA6244F9CDF19DFED69CEB7D55ED5DE1B8A51FAB47636CB937A475C10DB
+    Session-ID-ctx: 
+    Master-Key: FCA26A8E36C7F09B809866FB465AA110F89962612F1EFE29FEE5942D149BB84178EFF91D05E518D74D459685CEEFBE2F
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 31 c7 31 6b dd 77 a2 93-b9 fb 2f 86 01 11 1e 43   1.1k.w..../....C
+    0010 - a3 d4 6f 6f 9a eb 6e 5e-53 96 13 f1 a4 ba 4a f9   ..oo..n^S.....J.
+    0020 - fa aa e4 df a9 a3 6d 30-79 8c 9f df 33 c6 a6 07   ......m0y...3...
+    0030 - 13 ad f5 42 9d 99 9f 49-7e b1 9e 62 01 9b 11 d5   ...B...I~..b....
+    0040 - 3b eb 9a 97 36 bd a9 29-61 98 db e2 0c e1 f3 ee   ;...6..)a.......
+    0050 - 94 36 33 8b e4 b8 6e fb-be 60 3e cb 6a 6f 81 9f   .63...n..`>.jo..
+    0060 - c6 16 be ee 9e 8c b5 4d-fa 44 e6 84 f4 6a 19 9c   .......M.D...j..
+    0070 - 58 a1 79 33 c2 02 bf b1-61 4f 98 d1 18 e9 1b 07   X.y3....aO......
+    0080 - a0 d9 bd 21 e2 9d dc 0c-0b 95 a4 66 40 c8 60 14   ...!.......f@.`.
+    0090 - 79 eb ff 47 52 08 62 6d-52 af 78 fe a7 59 4b dd   y..GR.bmR.x..YK.
+    00a0 - 8c 33 8a 49 f2 15 d8 83-15 bf 65 c0 07 45 60 29   .3.I......e..E`)
+
+    Start Time: 1577475706
+    Timeout   : 7200 (sec)
+    Verify return code: 18 (self signed certificate)
+---

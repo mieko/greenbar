@@ -1,51 +1,54 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=CN/ST=\xE5\x8C\x97\xE4\xBA\xAC\xE5\xB8\x82/L=\xE5\x8C\x97\xE4\xBA\xAC\xE5\xB8\x82/O=\xE5\x8C\x97\xE4\xBA\xAC\xE5\xA5\x87\xE8\x99\x8E\xE7\xA7\x91\xE6\x8A\x80\xE6\x9C\x89\xE9\x99\x90\xE5\x85\xAC\xE5\x8F\xB8/CN=wangzhan.360.com
-   i:/C=CN/O=WoSign CA Limited/CN=WoSign Class 3 OV Server CA G2
- 1 s:/C=CN/O=WoSign CA Limited/CN=WoSign Class 3 OV Server CA G2
-   i:/C=CN/O=WoSign CA Limited/CN=Certification Authority of WoSign
- 2 s:/C=CN/O=WoSign CA Limited/CN=Certification Authority of WoSign
-   i:/C=IL/O=StartCom Ltd./OU=Secure Digital Certificate Signing/CN=StartCom Certification Authority
+ 0 s:/C=CN/O=\xE5\x8C\x97\xE4\xBA\xAC\xE5\xA5\x87\xE8\x99\x8E\xE7\xA7\x91\xE6\x8A\x80\xE6\x9C\x89\xE9\x99\x90\xE5\x85\xAC\xE5\x8F\xB8/L=\xE5\x8C\x97\xE4\xBA\xAC\xE5\xB8\x82/ST=\xE5\x8C\x97\xE4\xBA\xAC\xE5\xB8\x82/CN=*.360.com
+   i:/C=CN/O=WoSign CA Limited/CN=WoSign OV SSL CA
+ 1 s:/C=CN/O=WoSign CA Limited/CN=WoSign OV SSL CA
+   i:/C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Trusted Network CA
+ 2 s:/C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Trusted Network CA
+   i:/C=PL/O=Unizeto Sp. z o.o./CN=Certum CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE8jCCA9qgAwIBAgIQPJNDAUiGU3AYr5FxyPiE9zANBgkqhkiG9w0BAQsFADBS
-MQswCQYDVQQGEwJDTjEaMBgGA1UEChMRV29TaWduIENBIExpbWl0ZWQxJzAlBgNV
-BAMTHldvU2lnbiBDbGFzcyAzIE9WIFNlcnZlciBDQSBHMjAeFw0xNjA0MjkwMDI3
-MjRaFw0xOTA0MjkwMDI3MjRaMHkxCzAJBgNVBAYTAkNOMRIwEAYDVQQIDAnljJfk
-uqzluIIxEjAQBgNVBAcMCeWMl+S6rOW4gjEnMCUGA1UECgwe5YyX5Lqs5aWH6JmO
-56eR5oqA5pyJ6ZmQ5YWs5Y+4MRkwFwYDVQQDDBB3YW5nemhhbi4zNjAuY29tMIIB
-IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+xyxaIopJR9IsuI9Qk3jJ3E
-6pQeA/MbdbMZBHMeYLiNtoeu+/sAlctWariOd8RsCZLNuo0j1tqze5hWSkjO+5FY
-2B1EZiawGWi6kNt7+iJMtL2CBMlaxPArOSUZc4G/SVBP133McHf+H10G+1BM3NkG
-OKR2QY/3/Bvvs33SOaWUbs6aOBqp7USfPyraBLYZ0NAj2kYXxx/IX3FDNf1fg9PQ
-fhdYwhpcKhc3QdZTK/MlwOkcpfhszdDi8wJBb6ItzTAGVnxlTLN6Qz9wM3+iOkzI
-mnFfPxscJUw+AI0ILGosAda8J6zkDwEH2JWempOit6snG2f2Krhsdxm887O8OQID
-AQABo4IBmzCCAZcwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMC
-BggrBgEFBQcDATAJBgNVHRMEAjAAMB0GA1UdDgQWBBRrAx6BFacl5Wy8+0gXb0jA
-rKmNdzAfBgNVHSMEGDAWgBT5i+wEOGo/qgbGlK1zlSqwyOa4+zBzBggrBgEFBQcB
-AQRnMGUwLwYIKwYBBQUHMAGGI2h0dHA6Ly9vY3NwMS53b3NpZ24uY29tL2NhNi9z
-ZXJ2ZXIzMDIGCCsGAQUFBzAChiZodHRwOi8vYWlhMS53b3NpZ24uY29tL2NhNi5z
-ZXJ2ZXIzLmNlcjA4BgNVHR8EMTAvMC2gK6AphidodHRwOi8vY3JsczEud29zaWdu
-LmNvbS9jYTYtc2VydmVyMy5jcmwwGwYDVR0RBBQwEoIQd2FuZ3poYW4uMzYwLmNv
-bTBPBgNVHSAESDBGMAgGBmeBDAECAjA6BgsrBgEEAYKbUQEBAjArMCkGCCsGAQUF
-BwIBFh1odHRwOi8vd3d3Lndvc2lnbi5jb20vcG9saWN5LzANBgkqhkiG9w0BAQsF
-AAOCAQEAm/jo34ymk6qadXTo0poKN4k/0siBo+ltat/gXX/1zhfqtI1VHUujLNwH
-xmXNGi5kmuV/AymaSDOB5o25GfzvUVB5sDcXE4Jvp2Ll9474qh65lXxjn4pmI+oj
-mJdItM6+6ojmM10lDZZcUafKaTx7NacLnSTR82sdQCOssmT/y+NtG3zkpHVuK/f6
-TRbUepnDNA/NW8CEQWNW0l5eTM0VgzcjhJ/WZc6z2BXFGYJmYYLRNKRjoXm1EOGn
-D+btlotj/nsTWz3BTD+O0uqhVELYvDccc/bXHq9sTYZ/wo6h76IpDvI9OSjUEJ6U
-zb1XL8NZv5c+Skr1bvgd+IPvUjfw3A==
+MIIFvTCCBKWgAwIBAgIQRAa+Qw78myY/6KBjmZ13qDANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJDTjEaMBgGA1UECgwRV29TaWduIENBIExpbWl0ZWQxGTAXBgNV
+BAMMEFdvU2lnbiBPViBTU0wgQ0EwHhcNMTcwMzE1MTIwMDAwWhcNMjAwMzEzMTIw
+MDAwWjByMQswCQYDVQQGEwJDTjEnMCUGA1UECgwe5YyX5Lqs5aWH6JmO56eR5oqA
+5pyJ6ZmQ5YWs5Y+4MRIwEAYDVQQHDAnljJfkuqzluIIxEjAQBgNVBAgMCeWMl+S6
+rOW4gjESMBAGA1UEAwwJKi4zNjAuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAtmD20c1vhzj0TcE8UFq9J3FBjh2ZMDEFRnjnYHBK1E2V9IsWqT1P
+dRklOJwyXLAFlnP/FtNf5eoGeSmTfTYqgPojdkuWVugCWkBdN47DlqaGwQUCrfZ3
+n6oyIiV2Uj6miqzVrq8KSYmmLPFKLH656HEVDAc6U9b+ZrjMq6eB1RrIKUjdhbm4
+bd9iDriCdB6BXbmPGgBBL3AsFFum47smjS2vj0g74uHCs3hPomXn2AryZI8FaY+k
+GSnuoEQWhYZb61Jc9SyNZQFNunAnU1lob2v/vKzkK0LjZPSjKKYd/RRpL+1IQj2f
+lmI/tACmpAFSWugMRn9XcQmqHVTT0lYWywIDAQABo4ICezCCAncwDAYDVR0TAQH/
+BAIwADA8BgNVHR8ENTAzMDGgL6AthitodHRwOi8vd29zaWduLmNybC5jZXJ0dW0u
+cGwvd29zaWduLW92Y2EuY3JsMHcGCCsGAQUFBwEBBGswaTAuBggrBgEFBQcwAYYi
+aHR0cDovL3dvc2lnbi1vdmNhLm9jc3AtY2VydHVtLmNvbTA3BggrBgEFBQcwAoYr
+aHR0cDovL3JlcG9zaXRvcnkuY2VydHVtLnBsL3dvc2lnbi1vdmNhLmNlcjAfBgNV
+HSMEGDAWgBShE1TcVnMsJ4LKyITv7r8A/V+rVjAdBgNVHQ4EFgQUDnmksVN+OChx
+0hebWf7aCsx1HYYwDgYDVR0PAQH/BAQDAgWgMIIBIAYDVR0gBIIBFzCCARMwCAYG
+Z4EMAQICMIIBBQYMKoRoAYb2dwIFAQwCMIH0MIHxBggrBgEFBQcCAjCB5DAfFhhB
+c3NlY28gRGF0YSBTeXN0ZW1zIFMuQS4wAwIBARqBwFVzYWdlIG9mIHRoaXMgY2Vy
+dGlmaWNhdGUgaXMgc3RyaWN0bHkgc3ViamVjdGVkIHRvIHRoZSBDRVJUVU0gQ2Vy
+dGlmaWNhdGlvbiBQcmFjdGljZSBTdGF0ZW1lbnQgKENQUykgaW5jb3Jwb3JhdGVk
+IGJ5IHJlZmVyZW5jZSBoZXJlaW4gYW5kIGluIHRoZSByZXBvc2l0b3J5IGF0IGh0
+dHBzOi8vd3d3LmNlcnR1bS5wbC9yZXBvc2l0b3J5LjAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwHQYDVR0RBBYwFIIJKi4zNjAuY29tggczNjAuY29tMA0G
+CSqGSIb3DQEBCwUAA4IBAQBRIE5JCZWeyMvzNjz/bQMdl8h0sqMJMh2Zocif5Y4D
+3MaPzVFKg8skwFBIejf8NlEw6pem89TghGeeaqOy0SO/LqFCgSrcTM9fDA5nCSrq
+Jfr/eE9Fx3Yn7slXD242khgEr4G67oys7Df01YhqR3N4ofx3QC1sKPaowaaYomlp
+yC8w/65JM+EJ/YdXQZTsqTeF1BwvLdVM/CAala2HCyzUA4YmDbB5iocRJW9T8oST
+G4SjNAytNhH2yKGt6GL/WmiqDjOMCqGQZKPO28OxW8NNnC8DTlVsIDKj98nVxTui
+SvyySIBCVeiTODSiDl7TZvdigm1ry7y0Q0U8HT94d1gB
 -----END CERTIFICATE-----
-subject=/C=CN/ST=\xE5\x8C\x97\xE4\xBA\xAC\xE5\xB8\x82/L=\xE5\x8C\x97\xE4\xBA\xAC\xE5\xB8\x82/O=\xE5\x8C\x97\xE4\xBA\xAC\xE5\xA5\x87\xE8\x99\x8E\xE7\xA7\x91\xE6\x8A\x80\xE6\x9C\x89\xE9\x99\x90\xE5\x85\xAC\xE5\x8F\xB8/CN=wangzhan.360.com
-issuer=/C=CN/O=WoSign CA Limited/CN=WoSign Class 3 OV Server CA G2
+subject=/C=CN/O=\xE5\x8C\x97\xE4\xBA\xAC\xE5\xA5\x87\xE8\x99\x8E\xE7\xA7\x91\xE6\x8A\x80\xE6\x9C\x89\xE9\x99\x90\xE5\x85\xAC\xE5\x8F\xB8/L=\xE5\x8C\x97\xE4\xBA\xAC\xE5\xB8\x82/ST=\xE5\x8C\x97\xE4\xBA\xAC\xE5\xB8\x82/CN=*.360.com
+issuer=/C=CN/O=WoSign CA Limited/CN=WoSign OV SSL CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5030 bytes and written 434 bytes
+SSL handshake has read 4566 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -56,28 +59,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 8B44DD54907E890662D067BF5552C04D5887C71BC8A981047FC0FE9BCD0E3234
+    Session-ID: 593DDA5991620B50E05E0B4A6739FE70FF9099F8BB1D9A988F3460E13BD77B50
     Session-ID-ctx: 
-    Master-Key: B93E25F0C904849502B945E2B99616AFFA06FEEAA56C6BD480C39432C1DDE4F78111E207B05D5205507E370F3F6EFB06
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 0308A41F0A69576FD2C1EA0188B714454A611D98F82FCF1BF241C173A67403EBBE72788EC6C7C28738C9B229A94006C5
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - a5 08 67 c9 76 1a 1d 2c-60 38 15 2f 85 e9 ce ad   ..g.v..,`8./....
-    0010 - 21 7c a3 95 45 b5 43 16-c7 c5 ed 14 58 ae 45 7e   !|..E.C.....X.E~
-    0020 - af fd fb 5d 19 65 3c 4c-a9 aa 7d af ae 48 32 da   ...].e<L..}..H2.
-    0030 - 7f dd 83 53 c1 29 44 cc-3f 1e d6 e0 17 ba 36 a2   ...S.)D.?.....6.
-    0040 - f2 6d f5 99 c5 3a ee 52-97 22 40 72 2d 0f b6 37   .m...:.R."@r-..7
-    0050 - ec cc f1 d7 e3 27 70 0d-f2 e7 51 a3 5f 24 5b a6   .....'p...Q._$[.
-    0060 - 2b 9c b5 31 cd 12 51 80-1a 9f b1 31 8b 97 ad 77   +..1..Q....1...w
-    0070 - 16 46 50 af 0f 41 ae ea-35 32 99 1e 3c 97 84 2a   .FP..A..52..<..*
-    0080 - 3f ed ad 50 7b 66 cb 39-8a ab 78 41 4f 57 a0 7e   ?..P{f.9..xAOW.~
-    0090 - 72 88 83 01 29 c7 12 2e-25 b9 eb 73 64 02 b7 cb   r...)...%..sd...
-    00a0 - 03 30 96 22 bc 97 6d 7d-c1 35 12 0f 1d 7e a1 b8   .0."..m}.5...~..
+    0000 - 01 4e d7 6f 9d 53 1e 4d-82 95 d4 c8 bf 16 f1 6a   .N.o.S.M.......j
+    0010 - 6d 48 96 38 0d 12 88 e7-47 17 56 66 22 2b 19 bf   mH.8....G.Vf"+..
+    0020 - 71 de 56 1e 16 2f c7 97-b0 c3 a2 cf f3 f4 53 aa   q.V../........S.
+    0030 - 6c b4 bc 0c 20 9a 01 f0-12 10 2f 32 c9 18 30 4d   l... ...../2..0M
+    0040 - 07 b0 5e c3 24 48 ba 24-a7 e6 f8 a1 23 b1 d9 a4   ..^.$H.$....#...
+    0050 - 28 67 2b 78 17 92 c6 d8-53 bd e3 39 bc 2a 70 80   (g+x....S..9.*p.
+    0060 - ec 83 ff 4c 2a 97 c4 1e-dd 2a 15 9f c2 31 2b 88   ...L*....*...1+.
+    0070 - 23 cb 49 7d e8 03 2a 45-ec f5 bd 36 77 e1 dc b3   #.I}..*E...6w...
+    0080 - 26 a4 4a eb e8 ee 4c 29-15 22 92 38 b1 86 91 28   &.J...L).".8...(
+    0090 - e7 23 f1 58 f6 79 89 74-47 b1 23 0b 1c bb 9a 79   .#.X.y.tG.#....y
+    00a0 - 2d b5 06 c0 fe 99 d7 18-f2 6a 16 35 ae 95 3c 8f   -........j.5..<.
 
-    Start Time: 1472787944
-    Timeout   : 300 (sec)
+    Start Time: 1577475056
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

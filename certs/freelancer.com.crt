@@ -1,82 +1,91 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=GT15331554/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.freelancer.com
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+ 0 s:/C=AU/ST=New South Wales/L=Sydney/O=Freelancer Technology Pty Limited/OU=SysEng/CN=*.freelancer.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEszCCA5ugAwIBAgIDBEVAMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNTA1MTAwNzU4MjhaFw0xNzA1MTExNDE4NDNaMIGUMRMw
-EQYDVQQLEwpHVDE1MzMxNTU0MTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
-bS9yZXNvdXJjZXMvY3BzIChjKTE1MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
-YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEZMBcGA1UEAwwQKi5mcmVlbGFuY2VyLmNv
-bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL8A1rOKr0JiN1evUbs2
-M8RhQro7oKhFV194x+4MUAiVvy4hK5qmsOqLXF1osXLRwOeUyi4i7Sk1DxPV2mGk
-n6NOmE4AJwZwIOeLBNTJdbkalEFveQYSrdbBlDlmBgLxlg/d82DYuBZyBV6L6OBi
-jqNxTh0BWZOr4ZAknBEkp8hHYxIPTiZEnRSKIvBMPb2S5zFKrDh1GhHjb1izBNDF
-B/3pHTQyhl7FflS/HdKn8tjN31uVVBn28NPxi3BEsSxpchfrtgQJYDQy610nRAC3
-/jqTvWAOcoWDXfipioAX/ZmA9OLVweVKLJCyI/ybJYUFVpNgmdP4v3gFLMcA9pPR
-li8CAwEAAaOCAVgwggFUMB8GA1UdIwQYMBaAFMOc8/zTRgg0u85Gf6B8W/PiCMtZ
-MFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2d2LnN5bWNkLmNv
-bTAmBggrBgEFBQcwAoYaaHR0cDovL2d2LnN5bWNiLmNvbS9ndi5jcnQwDgYDVR0P
-AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjArBgNVHREE
-JDAighAqLmZyZWVsYW5jZXIuY29tgg5mcmVlbGFuY2VyLmNvbTArBgNVHR8EJDAi
-MCCgHqAchhpodHRwOi8vZ3Yuc3ltY2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAA
-MEEGA1UdIAQ6MDgwNgYGZ4EMAQIBMCwwKgYIKwYBBQUHAgEWHmh0dHBzOi8vd3d3
-LnJhcGlkc3NsLmNvbS9sZWdhbDANBgkqhkiG9w0BAQsFAAOCAQEAS91HgVAl9XDU
-7kghuUfWFXe3F9Yv9sfeMy/uN8O7CMp8uhCPTxs4eidnZFW1gQlEl2NiJdm71nT4
-u7OU3RWZ47s/mgsL7jzY8igVngAjnWDIZev8RUZtErBEtI64yOFRAbPLjZyzQhaC
-rTXNt0z58b3ijJEL8xakgmrh8vRshcJJfWu2dpaIcXnbqYdIig5LjxoC3UJKA2Ly
-FHQYY7Q7PjECVrUpVwZNmKU8mcdJ7+fq9uxB7pLY3VDEL+t8VQY8gy+nFdc0ogd8
-dGGGW6ratA0a/GqfIyBfWN02FaKZGJbpVG5MbNt9bCCjueo9yq6vGHCNrGTYlukG
-GRiwJvL+YA==
+MIIH0zCCBrugAwIBAgIQCY8932VkB7C+hirkisgFpzANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTgwNjExMDAwMDAwWhcN
+MjAwNzEzMTIwMDAwWjCBkDELMAkGA1UEBhMCQVUxGDAWBgNVBAgTD05ldyBTb3V0
+aCBXYWxlczEPMA0GA1UEBxMGU3lkbmV5MSowKAYDVQQKEyFGcmVlbGFuY2VyIFRl
+Y2hub2xvZ3kgUHR5IExpbWl0ZWQxDzANBgNVBAsTBlN5c0VuZzEZMBcGA1UEAwwQ
+Ki5mcmVlbGFuY2VyLmNvbTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIB
+AOS1+lI5RAj9q8+r9KCQ8cIZLKFyRjADPC/PIujS6A1NMrPmAvqzHUDDO3zV/NpC
+E+pyDgCVhKLzTsU7voulp+GWK8/J0aLi0njRbMFiRysDf4NicbXPBRAzT2PeNPfO
+6Fvw/81/gzMb9/6mi3yWLvD21UDwT/xTC14h4v+7yT1PuZo3MYhBLyQGS5Wc0QU2
+rTjXb4719XL6RtTm6AhvjxyGFaw9DPi7xvHsuMh1IhIqTlnXrGLy/SLXc7/xd8Kh
++p6Vb0ntmo1afsgkX9MeIYxBnbR6/vU0KRqGIEA3l69fEGpGYFRZx1AwZ2rUc6JL
+KVFRIkWrWFiXv5rmV2ueeI96zSkUDdklSIBch0s75Dvg3mSj6z8u7mAUnYy/b/rt
+FxMBcWCtEj2yBMq2zT/7bjNyc3euGP4x8VMVTU3trO3uQvhILsk8aipmncAi+fkr
+WqzoRiPoiUcBl5LfXR+hnxisOz7xVAUbexHm8jl8Frzt01mVfTv/zFkYTlqY5XPh
+XX1qkuZZTMIiOgPe/Kl7bkGc24Cccu9drmzWstyWu+lvjYbZARlCpGnA84XH+VXT
+eG/qCDurzwkUNEk/ouEzuUsN12Yio/CIIn2jV7LmKH9GfONDxglUiqDActogDZfg
+ab2Z9aoU8mmeICcjzGRFDade4wM2PZ1888bt5WHAUR7RAgMBAAGjggNpMIIDZTAf
+BgNVHSMEGDAWgBQPgGEcgjFh1S8o541GOLQs4cbZ4jAdBgNVHQ4EFgQUZYBN0ReD
+bkwU/URgIAykS94E89IwKwYDVR0RBCQwIoIQKi5mcmVlbGFuY2VyLmNvbYIOZnJl
+ZWxhbmNlci5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjBrBgNVHR8EZDBiMC+gLaArhilodHRwOi8vY3JsMy5kaWdpY2Vy
+dC5jb20vc3NjYS1zaGEyLWc2LmNybDAvoC2gK4YpaHR0cDovL2NybDQuZGlnaWNl
+cnQuY29tL3NzY2Etc2hhMi1nNi5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEw
+KjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZn
+gQwBAgIwfAYIKwYBBQUHAQEEcDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5k
+aWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0
+LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIw
+ADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHcApLkJkLQYWBSHuxOizGdwCjw1
+mAT5G9+443fNDsgN3BAAAAFj8GFjQQAABAMASDBGAiEAhNfIt+YTjzocUzhr0Xa3
+b+neJdZyan3P5vYi253qS04CIQCedar4jizhFsQ/kCZDW6FLJhA2UxTn3XA7880a
+/gkfIwB2AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABY/BhZAwA
+AAQDAEcwRQIhALfzCu8CWGgiTIb2OdGveYfKNXgD4TU3UROnUxsXh3oOAiBzB10b
+cjebgik9gIwgN+gz9v6tLcbCbL6Q6tXvCD/bKQB1ALvZ37wfinG1k5Qjl6qSe0c4
+V5UKq1LoGpCWZDaOHtGFAAABY/BhY2IAAAQDAEYwRAIgYe0dv+1JQtvuF6liR8MN
+kKNl0Ria8qqvzp6IsngBRFgCIGwetvjDChf7DMkvtlWHz75jMxFNYtpe5EcB+/y6
+pPnaMA0GCSqGSIb3DQEBCwUAA4IBAQCQcNVBz4hYHLoxfavH8ZuR1EQk6VVwWNMc
+56MqFGuweWTTj8DPa/IWqIk0oUBGECm3Podi1u0lTUyUOvcwXcQDQEWdiKDYofRS
++6tpVe7qhp2KxQiCKmnVGChk7kQ+BCK6MWDC2yHiI3UbohCEc//StKiBS0UEjnjG
+KCONfE1AQK93i7DhUqgzrmJJZjKR/O4207R4Xoo+jn9wkYv2euToUUIEtnqrXRU6
+JYVaf+NRgJHxicc3gOBzpvY8+VftuInq8aqc1vbb6utx2Qd21lg2JV9bXnXfGpOJ
+Sb9i7LQBOOxbXCP6mgbAuf03017mFJkd/Xhq52Bxvj0k/XiZ1rZd
 -----END CERTIFICATE-----
-subject=/OU=GT15331554/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.freelancer.com
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/C=AU/ST=New South Wales/L=Sydney/O=Freelancer Technology Pty Limited/OU=SysEng/CN=*.freelancer.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3846 bytes and written 430 bytes
+SSL handshake has read 4112 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-RC4-SHA
-Server public key is 2048 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 4096 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-RC4-SHA
-    Session-ID: 51D606F1B8B483F899EFEF0021C4B638CCF8CF71B6CE9A0F9CAA365314D9023E
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 9C486EBA5C341C48DF2B0D8D2A3433F3E0E53085B5B87A18643E660E8C1EC9DA
     Session-ID-ctx: 
-    Master-Key: 22D203CAA3F9CD6E636DB1BC267909BB8313AEB81905C714A2BF944AEE4DB71660A4F7E90C7E273D18CB161B8AD2D1C0
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 226D798E7035941F6A8D4A84D36E94F0EA70A3B05068F53C1453D9CA29FDB196BD5A5B66F33149C0A6F0D9CF9E6851AD
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - 8f a0 02 e3 fc ca 2a 33-80 c0 dd bb dd 9f 44 33   ......*3......D3
-    0010 - dc 03 9f 70 a5 22 0a 1f-14 e9 e1 73 e4 53 dd 9f   ...p.".....s.S..
-    0020 - f7 c0 a0 ad 04 44 84 a4-34 6d c6 66 3b 2f d0 a6   .....D..4m.f;/..
-    0030 - 71 cc 4f af 6b 31 02 6d-bd 02 00 7d 0e d1 96 ff   q.O.k1.m...}....
-    0040 - e2 9f c8 ac 62 85 0e 27-16 de 9a 9d e0 5d f1 db   ....b..'.....]..
-    0050 - 0d 46 2e 8e 36 18 82 6a-ac ad 27 7c c6 46 7b c8   .F..6..j..'|.F{.
-    0060 - bb f1 1e ab fc f0 38 ff-ad 63 2f 9d 20 12 95 8c   ......8..c/. ...
-    0070 - b5 7a 9f 2c 9f d1 56 71-a5 98 f0 13 59 95 35 7d   .z.,..Vq....Y.5}
-    0080 - e1 eb 77 8c d8 e6 79 9a-8e 58 6f 59 39 ec c6 16   ..w...y..XoY9...
-    0090 - 6e 5a b7 10 1d 49 96 d5-67 ff 9a 2b 06 13 66 b1   nZ...I..g..+..f.
-    00a0 - af ca 55 82 f9 be 58 a8-f7 f5 6c 33 96 e9 69 a0   ..U...X...l3..i.
+    0000 - 3f 34 34 34 b2 36 26 d4-d3 f9 99 30 6a 6d 82 43   ?444.6&....0jm.C
+    0010 - dc 81 b7 86 f1 e1 0e 12-86 0f 67 ad 98 0f d2 5d   ..........g....]
+    0020 - 0a 96 05 57 ae 83 1b 30-47 65 55 3d 82 3e ad 5c   ...W...0GeU=.>.\
+    0030 - c6 d8 73 22 84 6c ad 91-96 68 05 da 45 ee 9e cd   ..s".l...h..E...
+    0040 - b6 68 ad ae 0b a4 92 48-65 77 33 66 44 df ee 79   .h.....Hew3fD..y
+    0050 - 82 88 f2 31 33 8f fe 14-b0 0c 8b 52 d8 cf 7a 29   ...13......R..z)
+    0060 - ee d5 cb cd b0 19 e6 34-d4 14 54 b8 41 04 4a 7a   .......4..T.A.Jz
+    0070 - 80 ae a7 7f 49 1b f1 d3-cf 0e 94 dc b4 6b 78 67   ....I........kxg
+    0080 - b9 5d ed bc b4 83 5b 0d-be ec eb c1 3f 26 c5 e2   .]....[.....?&..
+    0090 - eb aa 69 ce 9b 22 32 75-f1 eb bc d7 6c c1 ef 41   ..i.."2u....l..A
+    00a0 - bb fa d6 bf 47 a6 4a 58-61 f9 1f dc 84 78 49 ea   ....G.JXa....xI.
 
-    Start Time: 1472789956
-    Timeout   : 300 (sec)
+    Start Time: 1577475875
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

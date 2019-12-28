@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=antpedia.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUTCCBDmgAwIBAgISAyhnyXJ4mV/kRqGaC1x/yHamMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMDUwMjU5NDFaFw0y
+MDAyMDMwMjU5NDFaMBcxFTATBgNVBAMTDGFudHBlZGlhLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAPte8A7EGA/PAKHeRkxknGlwKbZvGQ8L7wdM
+PAScKqyVjm+134XU6NtHLcrHFim6iJ4vDxyddkSQJiOoRDa6yJZ0pDxwqgzJsxuz
+5dok8b0HiILVip0iPEHz2skGJfH9SldM7VTySrkD7ThNC204wCAcDJKcehrpgQ27
+AUE7jH0LzH3uw0d75KLu5KU/d8ekfPYB62dijyu5Vc7+2hO7wk8Q6gGhv8ZM+FqN
+PYobagQhm/6RKaFzRcvsrB9g/SP9551XgN8wt8k4INRXXUfIiTwvGYunGwBUwaSN
+JVaCMCxSJAzPyXZGpUkm8cCIdDjoqJCp+87BYe8svUC/963ILhMCAwEAAaOCAmIw
+ggJeMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU+dyVlFpyHZRMFzfDmmW1y44YEnMw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzAXBgNVHREEEDAOggxhbnRwZWRpYS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgDwlaRZ8gDRgkAQLS+T
+iI6tS/4dR+OZ4dA0prCoqo6ycwAAAW45t9ypAAAEAwBHMEUCICungZwAlvPk5heI
+ScVLBSrrUgh3xeXiUaabu4dGIzCxAiEAvcSM0eHIH3xRtoNRsgmjQ/kZG5XBugkh
+NbxIrA9Y6ToAdwAHt1wb5X1o//Gwxh0jFce65ld8V5S3au68YToaadOiHAAAAW45
+t9zQAAAEAwBIMEYCIQCaTw0dSh0FiWK2Pk/soeUu06Ye9A3hBJrn6izHQ7MclQIh
+AIs5LhiSV64mpZ87Sm0BIuemoKUYvoglbcwETY8CvfXBMA0GCSqGSIb3DQEBCwUA
+A4IBAQA4sC8borzrLxtvdYppxyFwkZbyoiI0D8h/yQicqleT5Dx/i2Z935dQDFeY
+lTOn4HKl9sFArGzSygHCAwlK0vtJxGZ8O4G71CS0a75QY5LA8HpoKIka8rW9wn00
+aCHUrZdkAZ6YoJ7i5GErZNn5Vu386twojHvnAD3AfNqH96fEduyq45LKUuZ4E9ZE
+zj4PLlzsLLZfGvXU2OKQvCCJ3oA07/XeOWsSZ21q4odDApNxkjtR/LZtbFXZw45G
+OE9b87l2Wlagy6Oks5v0x76bnJRuIl7GjRgF2j1blCwmZG/TL9039kjQUeepvFeT
+2dYJhNcsrBrYoAScdKtpeYAIShDX
+-----END CERTIFICATE-----
+subject=/CN=antpedia.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 3179 bytes and written 289 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: BE1C8CED0AEE012E34CF453D6103C45988E90A35F35E747F7B58E9524E896DCD
+    Session-ID-ctx: 
+    Master-Key: CA19B664F56E4709AA17720C257CA0849113B95683E8C87E539008C534C20A96F0C9514DEE880EFA48BE00B13A93EF16
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d8 03 fc 61 1f 6e c2 e1-f0 c1 ab d1 79 70 42 2b   ...a.n......ypB+
+    0010 - 0e 9b d5 ef 69 42 62 17-f9 74 91 15 ff 11 85 a6   ....iBb..t......
+    0020 - 7a a6 91 4e 2c bb d2 62-00 25 d3 e1 c5 c9 64 0c   z..N,..b.%....d.
+    0030 - 9f 8a 13 ff 4c 64 ff e8-30 21 b8 40 4e 61 72 dd   ....Ld..0!.@Nar.
+    0040 - a7 bb 0e 59 3f a8 89 34-4d 2e 8f ea e3 ce b2 1d   ...Y?..4M.......
+    0050 - 6b 4e 0e 81 8f 29 5f a1-ac 7e 21 ca ff c8 b1 a5   kN...)_..~!.....
+    0060 - 71 ae a4 96 ce 36 01 ac-e5 b1 ec ee 5e 11 5b 11   q....6......^.[.
+    0070 - a3 99 fd a7 29 f0 3d f6-93 b7 ec bf b4 6c c7 39   ....).=......l.9
+    0080 - e5 4a 0d 57 4b 76 68 97-f7 b6 55 95 c9 d5 19 0c   .J.WKvh...U.....
+    0090 - 0c f8 0d f9 52 ec 2c 0c-8f a3 14 df a2 cf 97 3d   ....R.,........=
+    00a0 - 0f 06 fd 8a 4e 06 3f 49-f2 e9 e7 11 9c e7 14 54   ....N.?I.......T
+
+    Start Time: 1577475462
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

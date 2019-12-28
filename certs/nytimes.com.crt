@@ -1,74 +1,101 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=nytimes.com
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+ 0 s:/C=US/postalCode=10018/ST=New York/L=New York/street=620 8th Ave/O=The New York Times/OU=The New York Times/OU=Multi-Domain SSL/CN=nytimes.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
    i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
  2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
    i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIF6jCCBNKgAwIBAgIQCYbyxt5ebC+GUNKhuyD4WDANBgkqhkiG9w0BAQsFADCB
-kDELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
-A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxNjA0BgNV
-BAMTLUNPTU9ETyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
-QTAeFw0xNTA1MjEwMDAwMDBaFw0xODA1MjAyMzU5NTlaMFwxITAfBgNVBAsTGERv
-bWFpbiBDb250cm9sIFZhbGlkYXRlZDEhMB8GA1UECxMYUG9zaXRpdmVTU0wgTXVs
-dGktRG9tYWluMRQwEgYDVQQDEwtueXRpbWVzLmNvbTCCASIwDQYJKoZIhvcNAQEB
-BQADggEPADCCAQoCggEBAK3IRNzgIq3L37KEVQ0dQQb/pQWqVwssGL5nabxrlyGP
-jPX/zu+UllP10PAKeAh0EmbD+4ZNouLHl54IRNIq+2Pn+9WebJl9gX2xW8FrcIkx
-vqBPcByoz5UXJBZ/UvDzN9NK4/jGFThn2UPIIjPzDsP4gdV24pNLJ/O+FVLduP3j
-7RNNmQYRDCFLtQ58lFFCQXvJ1KgjSgw53+iNTHPt+xB4vnGTF/6/ThbdkrtH5oX+
-HafsNmImUUiGoGvWcND6CP8D6QkItH1836z7pw2oUJzTDp6/o/jBKHGJ3vtx6cnt
-197WqYK8br3dJesd2xp8tGMG1l8e8ZdY3g0OcBTKR48CAwEAAaOCAnEwggJtMB8G
-A1UdIwQYMBaAFJCvajqUWgvYkOoSVnPfQ7Q6KNrnMB0GA1UdDgQWBBREfjXSvqmM
-jKOiyuKIMFi7TGQQeDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
-HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEEAbIx
-AQICBzArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29tL0NQ
-UzAIBgZngQwBAgEwVAYDVR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5jb21vZG9j
-YS5jb20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNy
-bDCBhQYIKwYBBQUHAQEEeTB3ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LmNvbW9k
-b2NhLmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0Eu
-Y3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wgb4GA1Ud
-EQSBtjCBs4ILbnl0aW1lcy5jb22CEiouZXdyMS5ueXRpbWVzLmNvbYISKi5sZ2Ex
-Lm55dGltZXMuY29tgg0qLm55dGltZXMuY29tghYqLnByZC5ld3IxLm55dGltZXMu
-Y29tghYqLnByZC5sZ2ExLm55dGltZXMuY29tghEqLnByZC5ueXRpbWVzLmNvbYIW
-Ki5wcmQuc2VhMS5ueXRpbWVzLmNvbYISKi5zZWExLm55dGltZXMuY29tMA0GCSqG
-SIb3DQEBCwUAA4IBAQBibLLw4+Cfr0FUU75QuUVmHJ6tKtdjB8iYc8whC4yWcmdS
-oeZPkE/JcB60rIFQDsyEiTCWzwMgntBJDX795CPXmu93Ktq5W9lE4IsQ6Q0l4OCC
-/PGbeUMriiiHbikiiIRPZXRxOOT+GdhRTJr6M3huLR8uu32xipsLqYATKPzd8Kfy
-Zh6Rg2jHp+eCqLd/I89vLVqE5tzw9ArEWPSwNkwkqGbrd8xwMP8EIQcLGMhTkYr9
-BqoU7rkoggfmIcBJeVT+zRIjwuB5Z6liW5BRm07c3y8Zf2R7axZi9go5ei2EKiTc
-DHfC+R5dUhguUruXSdQikwtF84KYrqQZSVQ+cSRa
+MIIJhTCCCG2gAwIBAgIRAL/WIxvqWarWy1Zu0IeNYO0wDQYJKoZIhvcNAQELBQAw
+gZYxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTwwOgYD
+VQQDEzNDT01PRE8gUlNBIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIFNlY3VyZSBT
+ZXJ2ZXIgQ0EwHhcNMTgxMTI5MDAwMDAwWhcNMjAwMTE4MjM1OTU5WjCBxDELMAkG
+A1UEBhMCVVMxDjAMBgNVBBETBTEwMDE4MREwDwYDVQQIEwhOZXcgWW9yazERMA8G
+A1UEBxMITmV3IFlvcmsxFDASBgNVBAkTCzYyMCA4dGggQXZlMRswGQYDVQQKExJU
+aGUgTmV3IFlvcmsgVGltZXMxGzAZBgNVBAsTElRoZSBOZXcgWW9yayBUaW1lczEZ
+MBcGA1UECxMQTXVsdGktRG9tYWluIFNTTDEUMBIGA1UEAxMLbnl0aW1lcy5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCqpbxBef7yIpiL7/xkUbY2
+RvDRMmjPiv/HMaFM4KjqowJg2JTbqJmFhiJFuzKndVcUIpO37lVQ/Oallob9fPBY
+cqAf0e6gFgueeucjHXPnID44qnZGFwj0wtnNmy7ItckEEVhT2OaCpROaeUI4jWHj
+83NkAnxKHDDuH472BfRNeBgmsoXwdywV421vL9A1yhOpkvNrZBrj6u32i3Fz1+Gt
+Snh4j4LvVC8ewXz3k70YH32gnkAaPOW/X0xTGJ63cqMIuVKq6dBCmhzCbPzVBerr
+581FuXJ2Cyq/7242H/+XOu+h86nbETzG44TuoxOG2fnd+WhuUUKGKo6M5D3zjlw9
+AgMBAAGjggWcMIIFmDAfBgNVHSMEGDAWgBSa8yvaz61Pti+7KkhIKhK3G0LBJDAd
+BgNVHQ4EFgQUhiKsBlfdhdBgPQMAt93uFtyZBTQwDgYDVR0PAQH/BAQDAgWgMAwG
+A1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFAGA1Ud
+IARJMEcwOwYMKwYBBAGyMQECAQMEMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2Vj
+dXJlLmNvbW9kby5jb20vQ1BTMAgGBmeBDAECAjBaBgNVHR8EUzBRME+gTaBLhklo
+dHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9DT01PRE9SU0FPcmdhbml6YXRpb25WYWxp
+ZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3JsMIGLBggrBgEFBQcBAQR/MH0wVQYIKwYB
+BQUHMAKGSWh0dHA6Ly9jcnQuY29tb2RvY2EuY29tL0NPTU9ET1JTQU9yZ2FuaXph
+dGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAtQGA1UdEQSCAsswggLHggtueXRpbWVz
+LmNvbYIVKi5hcGkuZGV2Lm55dGltZXMuY29tghEqLmFwaS5ueXRpbWVzLmNvbYIV
+Ki5hcGkuc3RnLm55dGltZXMuY29tgg4qLmJldGEubnl0Lm5ldIITKi5ibG9ncy5u
+eXRpbWVzLmNvbYIXKi5ibG9ncy5zdGcubnl0aW1lcy5jb22CGCouYmxvZ3M1LnN0
+Zy5ueXRpbWVzLmNvbYISKi5kZXYuYmV0YS5ueXQubmV0ghcqLmRldi5ibG9ncy5u
+eXRpbWVzLmNvbYINKi5kZXYubnl0LmNvbYINKi5kZXYubnl0Lm5ldIIRKi5kZXYu
+bnl0aW1lcy5jb22CDSoubmV3c2Rldi5uZXSCESoubmV3c2Rldi5ueXQubmV0ghUq
+Lm5ld3NkZXYubnl0aW1lcy5jb22CCSoubnl0LmNvbYIJKi5ueXQubmV0ggsqLm55
+dGNvLmNvbYINKi5ueXRpbWVzLmNvbYIZKi5wYXlmbG93LnNieC5ueXRpbWVzLmNv
+bYIRKi5zYngubnl0aW1lcy5jb22CEiouc3RnLmJldGEubnl0Lm5ldIIXKi5zdGcu
+YmxvZ3Mubnl0aW1lcy5jb22CESouc3RnLm5ld3NkZXYubmV0ghUqLnN0Zy5uZXdz
+ZGV2Lm55dC5uZXSCGSouc3RnLm5ld3NkZXYubnl0aW1lcy5jb22CDSouc3RnLm55
+dC5jb22CDSouc3RnLm55dC5uZXSCESouc3RnLm55dGltZXMuY29tghAqLnRpbWVz
+dGFsa3MuY29tggtuZXdzZGV2Lm5ldIIHbnl0LmNvbYIHbnl0Lm5ldIIJbnl0Y28u
+Y29tgg50aW1lc3RhbGtzLmNvbYIbd3d3LmJlc3RzZWxsZXJzLm55dGltZXMuY29t
+ghx3d3cuaG9tZWRlbGl2ZXJ5Lm55dGltZXMuY29tMIIBAwYKKwYBBAHWeQIEAgSB
+9ASB8QDvAHYAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFnYAxy
+sQAABAMARzBFAiBsjMEzQ01LJnfg8SWtJi+wQ/2NrVih667zOk9JD/KAxwIhAOvJ
+ND92OVh2cozY7QXv0vsfzWszxn9tEVaNc3ezXlQDAHUAXqdz+d9WwOe1Nkh90Eng
+MnqRmgyEoRIShBh1loFxRVgAAAFnYAxzBgAABAMARjBEAiBFD4mv+quaSJL/sb4J
+b0zh1w6xe+NBCLxCgr2DLtCZIwIgICd9NO8Mj0obKpS0eB49ZNlj3J7JjKMXCQJG
+GSlfyIgwDQYJKoZIhvcNAQELBQADggEBAEdGZx2Iilb59sTUqgyo92XdwUxpEXUD
+25W06NhOezqUJHfw7YxsCuXdSNPAcoMgVuvEo2A4JG9skf62rBFar6sdsBy1OucP
+/njdSXTN5XuTOwaxO/g4uF8iGGrdR6pYjyeh9DcaIPCPagOxMi0QLd32twYeBzRu
+ZG4sc6JGdmEo9z4Xw5SHkm+x88cLuBiTlcsYgVTFhW+LFwNbILArbP+BCRCTJvOf
+yevlPpxHGRs2HA/k0LUOvx6MjCj7Xk8i36OxwBkYLr5HDZ2dapAOGKy+tZrOX2z1
+3u4v0J/Ctz93eUTpt9nCObmbPHxOlP3MRRQwnUyMbFh8qrnLPXjl23o=
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=nytimes.com
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+subject=/C=US/postalCode=10018/ST=New York/L=New York/street=620 8th Ave/O=The New York Times/OU=The New York Times/OU=Multi-Domain SSL/CN=nytimes.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA256
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4962 bytes and written 434 bytes
+SSL handshake has read 6022 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
-Secure Renegotiation IS NOT supported
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: AC8EAD049AA4F218E9A91A08FC5AC43B04BF13339E47E39BACB0F4C2D5E4DE2C
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: DAF0E88E901E42A0757275C1E7D1C9044104B8F18CACCF9D59B492594A74D38C
     Session-ID-ctx: 
-    Master-Key: A22E1CABE9E802F0B8F2C264090A0BFC9C90329E1C99BA91FF1CD60E7F869304D9AFEFC4C5E16197B151A58DD1EB8504
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472787940
-    Timeout   : 300 (sec)
+    Master-Key: 343A60DA5E30AFF0A94CA5FCAC9BB35235F90B525669309A68052C188FD962831A5534DBB06F098D8A830393BEA4304B
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - 6a 81 8b 4f 8a bf 52 9e-8e 84 65 1c ed e6 19 bf   j..O..R...e.....
+    0020 - 55 01 c2 e7 16 38 b0 22-db be 1d b7 87 9e ab c6   U....8."........
+    0030 - 12 15 6f 42 7f 26 e0 4b-2b c9 19 2f c5 ea 12 cd   ..oB.&.K+../....
+    0040 - de a1 d4 47 12 2a 1a f5-06 33 29 54 ba 99 4f 7f   ...G.*...3)T..O.
+    0050 - 05 f5 46 43 7b 8d 11 9f-9d 3b 7e 25 5d bb 0e 50   ..FC{....;~%]..P
+    0060 - f7 02 91 bb e7 81 38 ed-f9 13 a1 9c c4 33 13 20   ......8......3. 
+    0070 - 41 13 80 3f d7 10 80 d0-22 40 fe 09 1c a3 ca 8b   A..?...."@......
+    0080 - 27 5f f7 d8 36 fd 87 e0-e1 c7 ad 3b 02 2f 5d fd   '_..6......;./].
+    0090 - c6 be fc ae be bd ff 4a-25 0a 60 16 86 3c 43 0e   .......J%.`..<C.
+
+    Start Time: 1577474843
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

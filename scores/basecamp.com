@@ -1,2 +1,0 @@
-"basecamp.com": "A"
-

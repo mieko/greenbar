@@ -1,52 +1,59 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=San Francisco/O=Quizlet, Inc/CN=*.quizlet.com
+ 0 s:/C=US/ST=California/L=San Francisco/O=Quizlet, Inc./CN=*.quizlet.com
    i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
  1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFIzCCBAugAwIBAgIQAllU06yT9E18O2v7Mu2G7TANBgkqhkiG9w0BAQsFADBN
+MIIGpzCCBY+gAwIBAgIQBbVzUUngjXeuiN6vz3zWzTANBgkqhkiG9w0BAQsFADBN
 MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTUxMjEwMDAwMDAwWhcN
-MTkwMjA1MTIwMDAwWjBpMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
-YTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEVMBMGA1UEChMMUXVpemxldCwgSW5j
-MRYwFAYDVQQDDA0qLnF1aXpsZXQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
-MIIBCgKCAQEAtEdEhLL5PGt87V+PboQTT8EafdfQpNtfwsHPtq1LVWnKD6aoayWK
-HKPy6PjOfE8SDsYb/EC/5PrnfWmgQsnkVHNHrKDaKYxacsqqwq6xOaFXfr8Z465w
-dmdF4kaFH9e1FpeRpyh5IMWIaKl51pNBfVXSKFkzhQ5lJGEL9gRgOnWDWyCzuKan
-5sFKUg9+zLGs5LbvoIGDwIqZ3BVfRISAbwI01FSYurVWR+29GU50nqe3cEVsGCxL
-Y/dH589xY/3xPpRpA+cC+A7VsHhRTFJZdJ3BtTa9s3ZGHhE+/z3UU1sw0uXPj75N
-+2ZehvtG2XO8fzJIiFlrVvwTQGsE8+mZ4QIDAQABo4IB4TCCAd0wHwYDVR0jBBgw
-FoAUD4BhHIIxYdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFMsjkTKDTSZeXrlvC3NZ
-V+rwG00pMCUGA1UdEQQeMByCDSoucXVpemxldC5jb22CC3F1aXpsZXQuY29tMA4G
-A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYD
-VR0fBGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hh
-Mi1nNS5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNo
-YTItZzUuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEW
-HGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMHwGCCsGAQUF
-BwEBBHAwbjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEYG
-CCsGAQUFBzAChjpodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRT
-SEEyU2VjdXJlU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQEL
-BQADggEBAJ2LiCw9L+KiYEEuvOxifH7mjU/9Ro0vhRPt6LPDWSJn9027u+o9XztT
-kPS8+LOEWfqksKvhQTiCmjJ3H/oiRil0vC0PZTKVValZSXXCW877FlwyEbAZJy/P
-x5RsuGwR+JesRLl5zAl/67m3LMNOoS4bBlMXxLvyWQzEsOsF/y9P+HXqGW8j5X3W
-S0k8VrqDCMvHEqgKOriAYNU8k9xlza486F5vhVvK3Oa3Dkud6MMhkwM8RIdlBG30
-tGr+T2Ude9Mxd4FLhI1X3hBNkvp/1y0iovpn/EhX/cyrEQcDq3bjaqSO/mhl9h7u
-wwPwsn6Qe0YSrOgpW11sZzLJpY263xI=
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkwMTE1MDAwMDAwWhcN
+MjEwMzAzMTIwMDAwWjBqMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+YTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEWMBQGA1UEChMNUXVpemxldCwgSW5j
+LjEWMBQGA1UEAwwNKi5xdWl6bGV0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALRHRISy+TxrfO1fj26EE0/BGn3X0KTbX8LBz7atS1Vpyg+mqGsl
+ihyj8uj4znxPEg7GG/xAv+T6531poELJ5FRzR6yg2imMWnLKqsKusTmhV36/GeOu
+cHZnReJGhR/XtRaXkacoeSDFiGipedaTQX1V0ihZM4UOZSRhC/YEYDp1g1sgs7im
+p+bBSlIPfsyxrOS276CBg8CKmdwVX0SEgG8CNNRUmLq1VkftvRlOdJ6nt3BFbBgs
+S2P3R+fPcWP98T6UaQPnAvgO1bB4UUxSWXSdwbU2vbN2Rh4RPv891FNbMNLlz4++
+TftmXob7RtlzvH8ySIhZa1b8E0BrBPPpmeECAwEAAaOCA2QwggNgMB8GA1UdIwQY
+MBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBTLI5Eyg00mXl65bwtz
+WVfq8BtNKTAlBgNVHREEHjAcgg0qLnF1aXpsZXQuY29tggtxdWl6bGV0LmNvbTAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsG
+A1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNo
+YTItZzYuY3JsMC+gLaArhilodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc3NjYS1z
+aGEyLWc2LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIB
+FhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB8BggrBgEF
+BQcBAQRwMG4wJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBG
+BggrBgEFBQcwAoY6aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0
+U0hBMlNlY3VyZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMIIBfwYKKwYBBAHW
+eQIEAgSCAW8EggFrAWkAdwDuS723dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9
+ywAAAWhO3lnnAAAEAwBIMEYCIQCbamZW172y2DJ2LXz7TWDGdvpFDTLLfp8hmqao
+reLSkQIhAICMN+1en8FT44HQ+SGTovIW6GtHu+fHpJh7yvaJkR9WAHcAh3W/51l8
++IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFoTt5avQAABAMASDBGAiEA7K9Z
+5Mf/fsnJWwNOkowUBISihYapBCJRtHLPMuVJJzMCIQCtOdYoJ1bL43ctSDf6mv58
+xPPt4PeJAJMyqIMIx1kPxwB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgia
+N9kTAAABaE7eW0YAAAQDAEYwRAIgDBBsqmF2uh3xPHRRZNBzv7nOqPs/QzXH9/KI
+Nopx27ACIC8fckmrgrhpBDHKaklevBZwJs9msoZWJzyDmLKLzUr/MA0GCSqGSIb3
+DQEBCwUAA4IBAQC+qrR3qC0Sj2T3iZXzfSa5e99UW4PnolvOv5iodJ5qUPeQot48
+pchljtR4O9X7hsSVwOzXCOUelfBBNgku/i9q/y9nPyCwpwxADwFJUl+K1vZSN5Oy
+MnBysN3bSSTu7+/chnnqV4Vu1Ck2qu3QzMjJwTaqtwCMn6CNYhQuDUb6pkhwTpHc
+LJBCOBuoDLC79Uz9TYDaqZxAlEu2y9T5aUdpXbe3uHYWpmUCN84ugjhStVof0fFe
+BjWLNVPBjL27/OTFzt6hn/fh+IOfI6r8tWMfJMN3fBOlJe8tiaOFdWYiaPg4igOW
+JwYUR0M2wgVQ7QMf2gXTjtgRuJ+Zu9Im6QnO
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=San Francisco/O=Quizlet, Inc/CN=*.quizlet.com
+subject=/C=US/ST=California/L=San Francisco/O=Quizlet, Inc./CN=*.quizlet.com
 issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3168 bytes and written 434 bytes
+SSL handshake has read 3513 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -54,29 +61,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: FFB40C3B2B89DAC513E2F1A5E22EE33253455107554657DD7ACA3FB6C3DD55B2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: CDF7E9E14F3D99A2D6DC41D027FB19CF1E6AEF0DDCC3E229AAA40A5CE0BAE559
     Session-ID-ctx: 
-    Master-Key: EC13955B709D04CB6BBDD3EC4602BD62408E9D809A75FD514EB2F23188ECA8826C3BBD5E1F64682C0D2FEBEB842E72CE
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 4124DAA3DB3EB6D5E8AF801DA480B73B0E73C6A3EBFC503255A4211F5998952AA1C84B7A46E00B6B94ACB88FEDAF596A
     TLS session ticket lifetime hint: 64800 (seconds)
     TLS session ticket:
-    0000 - 67 3e 33 d7 cc 57 79 4c-b2 85 a3 1c c8 1b 69 31   g>3..WyL......i1
-    0010 - 36 f9 84 99 47 e1 41 cf-68 01 83 95 f3 5a 72 b9   6...G.A.h....Zr.
-    0020 - 5d 9c e5 ad 68 df 35 4a-44 c9 a0 b5 a5 b8 3e 2a   ]...h.5JD.....>*
-    0030 - 70 e3 7d b6 26 e4 66 a1-17 bb 85 f1 db fa 0d c2   p.}.&.f.........
-    0040 - c9 dc 4e 5c ad e8 59 2c-b2 71 56 13 7e 86 43 2b   ..N\..Y,.qV.~.C+
-    0050 - 83 0e ea e6 cf 61 5f 9b-f6 a1 e9 2b 2b 1f 03 2a   .....a_....++..*
-    0060 - cf be 16 ad 88 dc 23 c5-37 5b e3 cd 51 4d d7 51   ......#.7[..QM.Q
-    0070 - 22 4a 41 4c ed bd 66 79-56 ac 57 34 cc 90 58 2d   "JAL..fyV.W4..X-
-    0080 - c3 8b 11 87 87 21 90 33-80 59 c7 6b 2b 63 76 68   .....!.3.Y.k+cvh
-    0090 - a7 af bf 3f 3d aa 8a b3-e9 b5 bc 0a 2b 0e b9 60   ...?=.......+..`
-    00a0 - fd a1 2c 2b 74 b7 bb 37-64 55 f9 eb 07 cb f0 c5   ..,+t..7dU......
+    0000 - 83 6e 63 1d 7d 95 1c 0e-08 cb ad 33 31 20 7e 0c   .nc.}......31 ~.
+    0010 - d0 79 ba 1a 3a bb 8d 88-e4 86 aa e6 48 f3 ce f5   .y..:.......H...
+    0020 - fd c2 67 69 2f 2a 2e b7-1a cb 05 4e 6e 17 f8 7d   ..gi/*.....Nn..}
+    0030 - 12 2e d5 56 2d 32 33 cc-d7 1a 9e cf c2 f4 80 68   ...V-23........h
+    0040 - 32 80 0e 29 72 75 cd ce-26 1a d9 ed dc 3e e8 ac   2..)ru..&....>..
+    0050 - 21 f4 cf 3e 4a c0 d4 d9-f2 6c 79 42 d0 c8 9d 97   !..>J....lyB....
+    0060 - de 72 fc 85 36 07 6c 6e-ac a3 96 67 b8 c3 89 84   .r..6.ln...g....
+    0070 - 7c 9c cb 9a f2 74 7a dd-51 66 f9 86 ac c2 a3 90   |....tz.Qf......
+    0080 - c6 f8 2b 09 8e 0f 84 b5-9c 7f a9 2f 53 bc ce 57   ..+......../S..W
+    0090 - d9 b1 07 39 d5 2b d9 87-3a 9c d9 a5 ea 3b 5c e3   ...9.+..:....;\.
+    00a0 - 6b 10 0d d0 2d 82 9e da-3d 6b 62 99 2b 91 a7 60   k...-...=kb.+..`
 
-    Start Time: 1472789560
-    Timeout   : 300 (sec)
+    Start Time: 1577475330
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

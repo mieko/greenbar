@@ -1,83 +1,76 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/OU=EssentialSSL Wildcard/CN=*.avito.ma
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 0 s:/CN=ssl936092.cloudflaressl.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFRzCCBC+gAwIBAgIRAIDW7ny1cYh+tBOuwVTmXPkwDQYJKoZIhvcNAQELBQAw
-gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
-BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
-VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
-Q0EwHhcNMTYwNzE3MDAwMDAwWhcNMTcwNzMxMjM1OTU5WjBYMSEwHwYDVQQLExhE
-b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxHjAcBgNVBAsTFUVzc2VudGlhbFNTTCBX
-aWxkY2FyZDETMBEGA1UEAwwKKi5hdml0by5tYTCCASIwDQYJKoZIhvcNAQEBBQAD
-ggEPADCCAQoCggEBAK0EWbKVaIRM5S6tO8dt+V10kqGGIJAv1d6jXr4+VvFcrGsD
-eaolLm91n0tX0PgqY+9UWIq2Lihz07UISm28HftmxIRKtVnTiRW0NKF7LuAH/VGs
-osLt5TBIEFoKEX+xQiBQ3v6WnSRU3R0aB8BtBn+7oE2MjW9JMfCL6JjMeuVoHC2N
-aGrUzmpBw0NlqsiMMrM/QH3TTMLGsizkM1sl10o0Kr9SCQMcrm1n16PYM9CFVaYZ
-VLb5b6z0oe3CBLqyVkXfPNk34uF4o8Plw0aNASZ8Ju/NgyMD0hwQF0bkiH7CW+mu
-+0/Cg9ZsZhU7BNwG1w4EYPb92DMH3njPEfcWGe8CAwEAAaOCAdEwggHNMB8GA1Ud
-IwQYMBaAFJCvajqUWgvYkOoSVnPfQ7Q6KNrnMB0GA1UdDgQWBBSPlMCJmM5qOpLE
-QdcvOOabV0Z+bjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUE
-FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEEAbIxAQIC
-BzArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29tL0NQUzAI
-BgZngQwBAgEwVAYDVR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5jb21vZG9jYS5j
-b20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNybDCB
-hQYIKwYBBQUHAQEEeTB3ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LmNvbW9kb2Nh
-LmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0
-MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wHwYDVR0RBBgw
-FoIKKi5hdml0by5tYYIIYXZpdG8ubWEwDQYJKoZIhvcNAQELBQADggEBAE2U9hA/
-v/eKz/wQ8FfStydn0As3mhiOiMArW4vdbvtGXToDi5WxYXm9vcNAAlzd+5ynRV/v
-bcnH/1U3s9URkgMi0zYq3H6AMtOh8gXPi/jdcm30ZPAHqerRvZtk3kecMASWkMkK
-KH+e03goLpEBYdilNuMFhvdSDb+MIA9RtnCR8gEvidHZ+ZG0i2Sw38mVwI9rfj1u
-vOmmVjVGOhdTRZjK/75GnkmRKo6pu8O2VFpEZFaXQ98/+jZLmSl8vtE22AFUgNG7
-egHe1IZdQq/3ZLUrxasGVcc6bdNwHb5I/5wwlUybr4PSNzPlk/xYmm3+949qmsCc
-nn4lmm7v6t7ZICE=
+MIIErDCCBFOgAwIBAgIQJ0uCeP/88RmBIelGBskD2DAKBggqhkjOPQQDAjCBkjEL
+MAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UE
+BxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxODA2BgNVBAMT
+L0NPTU9ETyBFQ0MgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQSAy
+MB4XDTE5MTIxNjAwMDAwMFoXDTIwMDYyMzIzNTk1OVowJjEkMCIGA1UEAxMbc3Ns
+OTM2MDkyLmNsb3VkZmxhcmVzc2wuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD
+QgAELq8yorS3AnoWcy7FXpHDI4fBfTqxGkfMAHYFfyl6hzf0RceF9PwFWQP2oecj
+spQ5aRD4RjL1GYzxJx6ORnAeL6OCAvQwggLwMB8GA1UdIwQYMBaAFEAJYWfwvINx
+T94SCCxv1NQrdj2WMB0GA1UdDgQWBBQGGRdBIAJXC+KoG1CY7VO9GRqhTDAOBgNV
+HQ8BAf8EBAMCB4AwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIB
+FhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwVgYDVR0fBE8wTTBL
+oEmgR4ZFaHR0cDovL2NybC5jb21vZG9jYTQuY29tL0NPTU9ET0VDQ0RvbWFpblZh
+bGlkYXRpb25TZWN1cmVTZXJ2ZXJDQTIuY3JsMIGIBggrBgEFBQcBAQR8MHowUQYI
+KwYBBQUHMAKGRWh0dHA6Ly9jcnQuY29tb2RvY2E0LmNvbS9DT01PRE9FQ0NEb21h
+aW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EyLmNydDAlBggrBgEFBQcwAYYZaHR0
+cDovL29jc3AuY29tb2RvY2E0LmNvbTA8BgNVHREENTAzghtzc2w5MzYwOTIuY2xv
+dWRmbGFyZXNzbC5jb22CCiouYXZpdG8ubWGCCGF2aXRvLm1hMIIBAwYKKwYBBAHW
+eQIEAgSB9ASB8QDvAHUAB7dcG+V9aP/xsMYdIxXHuuZXfFeUt2ruvGE6GmnTohwA
+AAFvD+UwDgAABAMARjBEAiBpCGT0nNdnY/Z1ro67RY8miB2cdNgUVw+oD0DvV2Lr
+CwIgVBV2JsnZnd3jEVxy2LWnnnBSLwen/qlwbxuNwz26KwMAdgBep3P531bA57U2
+SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW8P5TAIAAAEAwBHMEUCIQDy9eev0qj5
+fbYYQBMYAT7UGJ2heD/pJa6f5va62sLN6wIgIF1xS8Bs4LFD4hRwpCaJlfzHiiP2
+EP9niJtHdtXzOTYwCgYIKoZIzj0EAwIDRwAwRAIgaBV3gSLaWIPEZfhf78p7eGDC
+CcDMBPG5+BhXnuLMXzoCIA6DgXjshka9xZ7fbEXSCAQiZSr93CZR+uiACNmi/htH
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/OU=EssentialSSL Wildcard/CN=*.avito.ma
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+subject=/CN=ssl936092.cloudflaressl.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3576 bytes and written 434 bytes
+SSL handshake has read 3559 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Server public key is 2048 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
+Server public key is 256 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 3A72B37FD6F3015A9189627737CAC7FA5CFAD29595D5DFF37E849B9EDC5824ED
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: 55D52AC3293975B9DEF244F4B90F9BAC7A626AAE17BD93A7C49188DBF0DAB0D8
     Session-ID-ctx: 
-    Master-Key: 04D2D30129DEED1E9C0BD547BAD70BBE045079E75454E69F7208C51C3F580E536472FDB2A24C59CA5A3D5962180872ED
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 2D14660CF50670692FD1B9018650FB531BF2DC39AA655F09D9F285AC4380D2C0FB57E95427B522E153F00CB9CCA6C655
     TLS session ticket lifetime hint: 64800 (seconds)
     TLS session ticket:
-    0000 - 67 3e 33 d7 cc 57 79 4c-b2 85 a3 1c c8 1b 69 31   g>3..WyL......i1
-    0010 - 45 6e 3f 15 be 2b 83 2e-dd 51 b8 fa 38 16 6b 58   En?..+...Q..8.kX
-    0020 - c4 34 93 3c 2c f0 ea e9-c3 fd b8 04 82 0f f4 2d   .4.<,..........-
-    0030 - d1 09 f8 9b a7 a6 82 ff-0f 89 aa 8a 7e 53 3a 74   ............~S:t
-    0040 - 1f 35 4d 85 dc 31 2b 7e-38 78 1d aa 64 bf 50 a0   .5M..1+~8x..d.P.
-    0050 - 84 b1 1b 30 0c fd e3 ff-e0 05 be 85 08 23 9d 21   ...0.........#.!
-    0060 - 6e 4e ce c4 de e3 19 de-5a f6 29 ed 25 fa 84 85   nN......Z.).%...
-    0070 - 6b 42 84 2b 28 a9 36 5f-d4 f4 2a 99 19 3c 1a 7a   kB.+(.6_..*..<.z
-    0080 - b9 e8 e0 16 a8 88 8c 83-f5 21 38 98 d9 28 d0 94   .........!8..(..
-    0090 - 2a 24 76 cc 93 bc 22 d7-50 b8 1e d0 c1 ea 2e 21   *$v...".P......!
-    00a0 - 3e a9 89 cb a1 c0 e3 05-c5 db bf d2 2c 2e 3b 8d   >...........,.;.
+    0000 - 35 7d e3 3b 61 c1 ba 91-9d 1b af c8 e3 29 99 51   5}.;a........).Q
+    0010 - 1d e9 35 f5 e9 65 78 ce-11 ec 07 90 c0 3c 5f c8   ..5..ex......<_.
+    0020 - 89 68 cd d7 78 7b f1 1c-e9 53 d3 9c 32 37 9c ff   .h..x{...S..27..
+    0030 - c7 3b 6e 38 72 7d 12 10-77 09 f8 0a 0a 66 ec 69   .;n8r}..w....f.i
+    0040 - f7 79 da f2 5e 0d 8e 8b-f3 76 c1 1a c6 97 72 2b   .y..^....v....r+
+    0050 - bf 4b c2 75 69 4a 54 b7-f3 d4 2c e2 c7 f6 f9 e3   .K.uiJT...,.....
+    0060 - be e3 f2 b8 2c 94 f5 32-c8 e9 33 3c 7d 3a 75 93   ....,..2..3<}:u.
+    0070 - 32 ff 2e 91 b1 9b 77 89-97 bc d2 e0 32 35 85 7e   2.....w.....25.~
+    0080 - 73 57 d0 1f c6 29 45 85-a0 c7 30 aa ed 32 15 67   sW...)E...0..2.g
+    0090 - d7 af 44 63 62 99 97 60-04 0e 3c 54 8e c9 74 d6   ..Dcb..`..<T..t.
+    00a0 - 06 63 bc 6c 97 38 30 25-97 12 87 3c 39 57 38 d2   .c.l.80%...<9W8.
 
-    Start Time: 1472790165
-    Timeout   : 300 (sec)
-    Verify return code: 20 (unable to get local issuer certificate)
+    Start Time: 1577475520
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

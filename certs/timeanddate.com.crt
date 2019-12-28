@@ -1,50 +1,58 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=NO/ST=Norway/L=Stavanger/O=Time and Date AS/CN=*.timeanddate.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G2
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G2
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.timeanddate.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEtDCCA5ygAwIBAgIQe1Mk6SCLitAO0jkqDV/XXjANBgkqhkiG9w0BAQUFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzIwHhcNMTQwNzI4MDAwMDAwWhcNMTYwOTI1MjM1
-OTU5WjBpMQswCQYDVQQGEwJOTzEPMA0GA1UECBMGTm9yd2F5MRIwEAYDVQQHFAlT
-dGF2YW5nZXIxGTAXBgNVBAoUEFRpbWUgYW5kIERhdGUgQVMxGjAYBgNVBAMUESou
-dGltZWFuZGRhdGUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
-yIStZUmvp0PUFyRXYr6pmn0Jo8970pxZ3azZxPieStpf2wX8h54lWUXTFOedEhy/
-n9VzGHkB6CvPr+DwfMjvPEIrjMPAaeDU8/1f2Zs04U6vxTfqACFQdOMBU1J8XBsZ
-HOOPIecOPo5yDI5A5zDrTOMajuZ7wCG9guLUJqzlo1wrsRnrIts+hWH9zSUCl6pn
-ppMkiTsWprUy/+khMC/8edVvffVA1FEqZ68L4gMyO9FNY5ekoZ6I2E3Ocp6/VdGI
-d7yzul3C/+jhVWgNRkDgqhpN+Jz5hKf3+5RdnbP/AGQaBqF/+ucoLRQSYWRYTrhR
-E8f2hlRRF5hBru+eL1GJywIDAQABo4IBezCCAXcwLQYDVR0RBCYwJIIRKi50aW1l
-YW5kZGF0ZS5jb22CD3RpbWVhbmRkYXRlLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB
-/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ2Iuc3ltY2IuY29tL2di
-LmNybDBlBgNVHSAEXjBcMFoGCmCGSAGG+EUBBzYwTDAjBggrBgEFBQcCARYXaHR0
-cHM6Ly9kLnN5bWNiLmNvbS9jcHMwJQYIKwYBBQUHAgIwGRYXaHR0cHM6Ly9kLnN5
-bWNiLmNvbS9ycGEwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1Ud
-IwQYMBaAFBFK0HM51VtpCFy6Pb9kmqiLHFW8MFcGCCsGAQUFBwEBBEswSTAfBggr
-BgEFBQcwAYYTaHR0cDovL2diLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDov
-L2diLnN5bWNiLmNvbS9nYi5jcnQwDQYJKoZIhvcNAQEFBQADggEBAIcDCnmkhQGv
-BnCFzfVpySklKK+rTNRrhTjsYsCm7LXyHVWERyMPdR/pv+PU1O4SvqIUnvcOLEyo
-8o0tfl8laHctv3/GCpXU7sYxIQFxshLca8dyrJ9BxGXTE7dP87wLy5xe7Ct9QJ39
-6BACoJ7lkXhED6jCid+dlLP0tVHOAcPU4t2xUhqhVL7vZibW2nCrHtkTni46zQH2
-Qqn3x1gb0pLQPieKHik5n5zD0jB40tSsrL2c8EfaqCrav7A4obWhr6FHXfLTLjIy
-w65w9evk2MhD19bxPH+uqgVfnoswvo94ijgM1mX4yan+vnJ7qYhKBOFxZ6bwfQA2
-mD6Zxjo7A7s=
+MIIGfTCCBWWgAwIBAgIQIdEB2tmXmbYPRogXHXuL3TANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTE5MTAwMzAwMDAwMFoXDTIxMTAzMDIzNTk1OVowXjEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMR0wGwYDVQQLExRQb3NpdGl2ZVNTTCBXaWxk
+Y2FyZDEaMBgGA1UEAwwRKi50aW1lYW5kZGF0ZS5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCyrEYPOJO3TwlRd0Gen8yiRgoLOAdXnpz4ZhmuxwWu
+OXfJdhLPxPZK6qBEGMdCiQ83Aq1wFypBNdMCp8ivZyP0O9axTQb+sTLySVI9FMzo
+oA8EnFUEIqE0/M1gSvtPOFxo+YWGYtyIDuY0n6N9yI7DExImwwwmo92o4ChI2TYH
+Bp9jnqmG9pPzquiYOWIV8y+1l0BBjmxspdDVCka4NtLuJ8o4HpOjT1Ff3fILqk9j
+Vkxyp0cqQecfIYamikTQW7KC7r9D+OtgX33MxNz3PkoHU1zxksmX3QZo2X32ZifH
+onxwLO5j6l3h0LTXtJzBkVxgHaaZm7Y9xCaJ5nGs2RBtAgMBAAGjggMDMIIC/zAf
+BgNVHSMEGDAWgBSNjF7EVK2K4Xfpm/mbBeG4AY1h4TAdBgNVHQ4EFgQUb51DlUay
+f790OhIABLAVHCOubnkwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAgcwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMIGEBggrBgEFBQcBAQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQu
+c2VjdGlnby5jb20vU2VjdGlnb1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2
+ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMC0G
+A1UdEQQmMCSCESoudGltZWFuZGRhdGUuY29tgg90aW1lYW5kZGF0ZS5jb20wggF9
+BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/
+LmqXaJl+IvDXAAABbZC73hcAAAQDAEcwRQIgbt4/Nr/eU2dKqsQNffBuPxr99Tdh
+k6m7QGFbb0hi6jMCIQDT6srl595jRnA8EC1u1WFExBSFZSbbwfBAcHYofN9h1gB1
+AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABbZC73f8AAAQDAEYw
+RAIgd9WSycH2dKcY4vXesBXOLNbJqBbEMcXG8KnAuKfulcICICxzdPAj/v++IYdA
+zeUoP5gJpHsYXBAPUOK3iV/WXE+LAHYAVYHUwhaQNgFK6gubVzxT8MDkOHhwJQgX
+L6OqHQcT0wwAAAFtkLvd3QAABAMARzBFAiEAlzWGn2xn6UVJkCQlBKsLEVlue8eS
+Z8e0xvzn7a+dspsCIAHfah2TV16UbW2r6IWAPhAJ9murQqb3cHv/aNY8OXS3MA0G
+CSqGSIb3DQEBCwUAA4IBAQCXGfjpSmAd5DsPGiti6IidXjBc7eZ6xay+ynfnasQz
+MchI/4MndVE2hXyIJfacluJEGnL0hZkPFrPmeFd8Uv0+7HCpsUbzZX7+v3mOVD+C
+ViOk/7O7U3OnhOVnJUUr37osMG0BHeO5pnXpRQ3qMdqRkNWlIArgP4/5jRheb6CO
+T/arPPGifwyLuoM4wR69R+SRVUmmGzKAX+o9wEI3P6FzdD9dBE0IN497/A6rVYcI
+y1ib87Zj5ZV49H0sP+e490G2ULj3wgQqqmHXptlDMD5BG3PY9TrAiL52lTUwOFRv
+6CKUU796Z7X8h+r1n3VzZjhVhZDdcJI9D2GE4+RPcIUY
 -----END CERTIFICATE-----
-subject=/C=NO/ST=Norway/L=Stavanger/O=Time and Date AS/CN=*.timeanddate.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G2
+subject=/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.timeanddate.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3919 bytes and written 434 bytes
+SSL handshake has read 5319 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -55,29 +63,25 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 19967BC2A4BD8D9CF76A50868B1E2A733D7AC6FB822CB187C3B0D38A4F7719AF
+    Session-ID: 6A5509F97413001B93A4A73DA5A3BEFBB8B9C295D30D76FB4AE6919271B76624
     Session-ID-ctx: 
-    Master-Key: 1C6AE18A0B80021517C199851FF097F1864F200CC1187B93472614385051A0E90B1A05BE71978A85E7FDEC47A657B410
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 3279EE44002CC153F022299D05FB4226DA9DAE41FA2B3808B5CD809D29140D47A5C967B717365F915DB4DA989F560804
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 2e 20 cc 44 ce 70 60 d8-59 f3 04 87 93 2e b9 04   . .D.p`.Y.......
-    0010 - c4 c2 da 75 26 cf 58 14-68 75 09 08 d0 cf 1c df   ...u&.X.hu......
-    0020 - d7 36 1b e9 32 16 d2 8b-64 b2 d1 93 50 cd bc c9   .6..2...d...P...
-    0030 - 25 b4 e0 5e 78 6a 6f cf-9c 9e 28 8a 74 4a 6b 4f   %..^xjo...(.tJkO
-    0040 - 25 16 81 b2 be 6e 28 52-13 2f 5c 4a a1 e8 1a 5f   %....n(R./\J..._
-    0050 - 52 32 0d a9 c9 fe 1c 3b-7b 72 ea 56 29 6e 15 b9   R2.....;{r.V)n..
-    0060 - d1 99 af d7 51 a1 34 80-e3 e2 94 d5 d8 05 50 b4   ....Q.4.......P.
-    0070 - 5f 13 bf 6a b1 bd d3 e1-b4 ca f8 d9 14 27 6d 48   _..j.........'mH
-    0080 - 3e 22 36 31 1b 15 36 b5-6c 63 19 ca fe 26 a7 27   >"61..6.lc...&.'
-    0090 - ae a6 ac ec 53 45 15 92-97 10 37 c4 7d e5 39 78   ....SE....7.}.9x
-    00a0 - bd e6 bb 94 dd b4 98 a8-28 f0 80 b5 17 74 81 97   ........(....t..
-    00b0 - b5 fc 06 ac 87 45 19 fb-a4 45 06 6d ec 59 f5 66   .....E...E.m.Y.f
+    0000 - 4c b0 55 66 c0 a2 5d 7b-bb 0d 93 13 01 e1 03 e7   L.Uf..]{........
+    0010 - bc 50 af 32 a0 7a 0f b7-65 49 87 b2 e0 d6 1d 54   .P.2.z..eI.....T
+    0020 - 24 84 44 37 49 44 82 47-56 e8 c5 7a d8 67 14 00   $.D7ID.GV..z.g..
+    0030 - d6 95 4c ef e7 0f 0c ed-3d 81 fa 03 73 89 d0 e4   ..L.....=...s...
+    0040 - 1f eb b1 6a 8e fd ad fe-73 61 ff 24 12 71 cf fc   ...j....sa.$.q..
+    0050 - 20 65 47 83 fc 4b 4b 71-8b 1e 74 50 16 6b 88 38    eG..KKq..tP.k.8
+    0060 - 3a 5e 6a 00 ea b3 a5 57-27 97 e1 18 34 de 44 a3   :^j....W'...4.D.
+    0070 - d6 24 8a 54 8b 6f 21 da-d2 b8 ac 38 a9 73 57 bd   .$.T.o!....8.sW.
+    0080 - ed 9b e2 8a 30 0f 1b 41-ec 19 5f 5d 01 54 b4 30   ....0..A.._].T.0
+    0090 - 0a 31 72 35 ae f5 4b f1-8a 31 8d e4 32 6e c5 46   .1r5..K..1..2n.F
+    00a0 - 4f 75 8a e3 14 98 1f 90-14 d5 21 7a dc 60 53 82   Ou........!z.`S.
+    00b0 - e1 e1 f1 80 53 c2 47 fa-36 4d 4f 59 b1 1c da 83   ....S.G.6MOY....
 
-    Start Time: 1472788735
-    Timeout   : 300 (sec)
+    Start Time: 1577475022
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

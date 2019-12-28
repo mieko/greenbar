@@ -1,7 +1,7 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=TW/ST=Taiwan/L=Taipei/OU=Web Services/O=Yong Sheng Technology Co., Ltd./CN=*.mobile01.com
+ 0 s:/C=TW/ST=Taipei/L=Taipei/OU=IT Dept./O=Yong Sheng Technology Co., Ltd./CN=*.mobile01.com
    i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
  1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
    i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
@@ -10,75 +10,79 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFXjCCBEagAwIBAgISESGNLqffdN5ChxnSRiqYTDaDMA0GCSqGSIb3DQEBCwUA
-MGYxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYD
-VQQDEzNHbG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hB
-MjU2IC0gRzIwHhcNMTUwOTA4MDY0NTM1WhcNMTgwOTA4MDY0NTM1WjCBiTELMAkG
-A1UEBhMCVFcxDzANBgNVBAgTBlRhaXdhbjEPMA0GA1UEBxMGVGFpcGVpMRUwEwYD
-VQQLEwxXZWIgU2VydmljZXMxKDAmBgNVBAoTH1lvbmcgU2hlbmcgVGVjaG5vbG9n
-eSBDby4sIEx0ZC4xFzAVBgNVBAMUDioubW9iaWxlMDEuY29tMIIBIjANBgkqhkiG
-9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxFtOK96rgM+rOknSafDYYAcH0uhkDTuqSjax
-t4GXnspzIYtrwknfQVqxu3+hG2MOEKMC8EJRCl71xNWm8qQbglKFvmjzAw+jiZTG
-F13T3rsXFkzKyIdBnBTOhXh45lkqPNhiMz1fP7rRVBWs8CNOIfSgn+EEmjoE6vmN
-i4xAxfFwZ5lLt4NuU9A9bVl6kwTQXuVbO2HHPn/Z0mCfCOHSBNTFKdnktegEa6ej
-w4nGR9886MtAbY0KIwwtnyzjt4htVDINi3OEzoJurnYmRqfZ5leFg9GzCUdJKabr
-lQARA5NYZ+Y5qp4CNAjw8SOJJFTyDqmcM51S2muZw2G0oHcvSwIDAQABo4IB4DCC
-AdwwDgYDVR0PAQH/BAQDAgWgMEkGA1UdIARCMEAwPgYGZ4EMAQICMDQwMgYIKwYB
-BQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMCcG
-A1UdEQQgMB6CDioubW9iaWxlMDEuY29tggxtb2JpbGUwMS5jb20wCQYDVR0TBAIw
-ADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0fBEIwQDA+oDyg
-OoY4aHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9ncy9nc29yZ2FuaXphdGlvbnZh
-bHNoYTJnMi5jcmwwgaAGCCsGAQUFBwEBBIGTMIGQME0GCCsGAQUFBzAChkFodHRw
-Oi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc29yZ2FuaXphdGlvbnZh
-bHNoYTJnMnIxLmNydDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AyLmdsb2JhbHNp
-Z24uY29tL2dzb3JnYW5pemF0aW9udmFsc2hhMmcyMB0GA1UdDgQWBBQzdk87swDW
-m5w3K4kOqNGJAHDxADAfBgNVHSMEGDAWgBSW3mHxvRwWKVMcwMx9O4MAQOYafDAN
-BgkqhkiG9w0BAQsFAAOCAQEAwaePiqu3uK3oLeMsIKBtyq0YS+T4GAAPA6VrIsrU
-cVrvp6MWb1T0dU2cgCrL9iGVTBQ5hJMMhkl8eRv5aTgcdC8JYzkEOlUvxAKQPl/0
-ak2UUiSGqCvxjnucviSYdxR6S1c7hwlaAtzbdh5/1K9jSVdb6+KBM8au4aCjJ+sV
-7qTKKTOTS6ScRX24IOk0R7RuKkh9q5NOVdWZzL7/3dCHESxaYEITA8D/oYL2iRjT
-bHGRtr4V4eoFykvaoKY9mM/SPtg6feit+AJGFIT+2s1Mr1LjU37jhjowFbXQor4F
-iIgzYn/V19osvzeTVQLXEZ9Eqe12ONenkgCluXHwhDGGdQ==
+MIIG4zCCBcugAwIBAgIMKM7t3nhVHZsA42atMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
+bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTgwNzMwMDcxMjM1WhcNMjAwOTA4MDY0NTM1WjCBhTELMAkGA1UEBhMC
+VFcxDzANBgNVBAgTBlRhaXBlaTEPMA0GA1UEBxMGVGFpcGVpMREwDwYDVQQLEwhJ
+VCBEZXB0LjEoMCYGA1UEChMfWW9uZyBTaGVuZyBUZWNobm9sb2d5IENvLiwgTHRk
+LjEXMBUGA1UEAwwOKi5tb2JpbGUwMS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDD2xJ0JF+SycRagbnzznlKlcMtgYi2MP1IK7iDu7CXe4KVOYu2
+aSVupmvhhzUaRa9TpiiT/Q7rHF0kwqJXtbb/vv91BXxKZKxMxMKUVBUP2rCQgpUz
+IPggLFVC+92jCj+Zv8BtM69OQok5coFo5i5SZr9z+9VgLHe1L+UO1iCwBdLkj6b2
++y4odKfZBwv1dWrfMbltqAmnaR7bi+FEnf+EojyaKB6OxIz1CwNjxOdAFc1AnrTd
+CiFtb4m4UjMhyuEO2MgvpkDkJqM8Fb+kN4wEQq9U5xPefJcQjXKu6npxXZeUod8z
+GHB4jtI/0Qu00UKn7tpurd6fxHNNSKZYyEaRAgMBAAGjggNvMIIDazAOBgNVHQ8B
+Af8EBAMCBaAwgaAGCCsGAQUFBwEBBIGTMIGQME0GCCsGAQUFBzAChkFodHRwOi8v
+c2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc29yZ2FuaXphdGlvbnZhbHNo
+YTJnMnIxLmNydDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AyLmdsb2JhbHNpZ24u
+Y29tL2dzb3JnYW5pemF0aW9udmFsc2hhMmcyMFYGA1UdIARPME0wQQYJKwYBBAGg
+MgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3Jl
+cG9zaXRvcnkvMAgGBmeBDAECAjAJBgNVHRMEAjAAMEkGA1UdHwRCMEAwPqA8oDqG
+OGh0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5jb20vZ3MvZ3Nvcmdhbml6YXRpb252YWxz
+aGEyZzIuY3JsMCcGA1UdEQQgMB6CDioubW9iaWxlMDEuY29tggxtb2JpbGUwMS5j
+b20wHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB0GA1UdDgQWBBT7axsX
+4pS6wsggPVHmiloX8DQEmjAfBgNVHSMEGDAWgBSW3mHxvRwWKVMcwMx9O4MAQOYa
+fDCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHYAVYHUwhaQNgFK6gubVzxT8MDk
+OHhwJQgXL6OqHQcT0wwAAAFk6ggd0wAABAMARzBFAiEAqxwBdBbXYS4jjTtXCTNQ
+82sXHXMm2eQDGTcGV6GGvbMCIFQmbcKixzqJRIEzSix/cAxfengX4yDGQEZOhh8U
+8hjLAHYAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFk6ggasAAA
+BAMARzBFAiEA9PSGwfQww/1QbGDoi7wBdX8BS4Lx6WNkU9t58aJHRNoCIDKntsQ7
+uTLoqtsORHPwAEFQrE4du3gzsrXJDlJqIzz+AHYAb1N2rDHwMRnYmQCkURX/dxUc
+EdkCwQApBo2yCJo32RMAAAFk6ggd8QAABAMARzBFAiBfTTUgFiGDZzSB3Deyap0Q
+p8lUKm2rU4/f+Tgsr1W65QIhANOoOcsGqr8NubbugLvzPfxArsaboOBSJHxZiy6a
+EYBIMA0GCSqGSIb3DQEBCwUAA4IBAQAaQs2QxXZ1M0FsQW55pVrFKPNcC/BcADwi
+O+mcn/8u9VvUOl7Pb+DLfTuagY8jnhxEnVS2VQfuiAdvWWDQ/tnjbL0SruU46WBj
+HWlS6xh2AkqQ4g67LG0hmDsMB4vA3DhvQ9bZcjoqOn80FknQgwRjI+GSJr2o5gA7
+ZThG9EmK3rv6c409OoY1anajAZ59OpZWF/8kKFXlm2X+9YLbZfdwd1+4hhuVxoWo
+Volru6EjZPJO/dJ2ncugxR6o405rmiukEfxP3DgRm/V6kILKq+K/KnOqtdM2vm3L
+WERyPPaIz1TCwr5OaB6hLvLTNqUlBdzKHKfIfk/wtQ3sOJyvcevM
 -----END CERTIFICATE-----
-subject=/C=TW/ST=Taiwan/L=Taipei/OU=Web Services/O=Yong Sheng Technology Co., Ltd./CN=*.mobile01.com
+subject=/C=TW/ST=Taipei/L=Taipei/OU=IT Dept./O=Yong Sheng Technology Co., Ltd./CN=*.mobile01.com
 issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
 ---
 No client certificate CA names sent
-Server Temp Key: DH, 1024 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4395 bytes and written 506 bytes
+SSL handshake has read 4432 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
-Compression: zlib compression
-Expansion: zlib compression
+Compression: NONE
+Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : DHE-RSA-AES256-SHA
-    Session-ID: 4916C8657E245127342D454EB26DC3C640D8C4E2CD249E99301EDF90AE530E0D
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 6C24B19C1F8BF83EE5BAB5C14F1094E05704BE1C17AE89487144CC26CE2E1887
     Session-ID-ctx: 
-    Master-Key: 6B160218FBAE52FC51603BEFAA71079978CD2D955940690153627AAB13CC481B60A54B2F7C3C01F6B1E733FBE5B44738
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 1A3FA58B00FC9E986511CC03A072329A7BCCD541EC410B4A18FC4758E73E605E99D4D0160C91ABB79DC9F455B8542E5C
+    TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - fc 3e 4f 73 90 b8 80 32-31 70 69 08 a3 6c ad 32   .>Os...21pi..l.2
-    0010 - 71 c6 82 13 8d 9e a7 57-cc 1e 85 11 f4 f7 7c 0f   q......W......|.
-    0020 - 1c 8a 77 cc f9 b7 33 45-76 49 76 73 2c a8 21 d7   ..w...3EvIvs,.!.
-    0030 - 98 d8 e8 00 37 94 0f d8-cb 0e d2 4a 06 c4 06 fc   ....7......J....
-    0040 - cb db bc 5b bf 6c e2 4b-b0 20 4d af 26 25 b9 ef   ...[.l.K. M.&%..
-    0050 - 65 7f 55 bb 12 ab b9 ed-2f 7d de af 68 25 20 1a   e.U...../}..h% .
-    0060 - 7f 36 f7 30 26 eb 35 4c-b1 da e8 e1 0b 57 0c 0e   .6.0&.5L.....W..
-    0070 - ce e2 38 44 73 87 d4 9a-78 37 7d b5 25 cd 04 e2   ..8Ds...x7}.%...
-    0080 - a1 28 fe b9 54 34 6e 90-1a 9d ac 2d 6d 7e 69 49   .(..T4n....-m~iI
-    0090 - 70 2e 28 ee 91 19 f3 8b-bf 81 c1 be 11 b5 44 d5   p.(...........D.
-    00a0 - 18 4b 4b 9b 7f 59 c9 83-f2 a9 45 e8 64 7a 20 ba   .KK..Y....E.dz .
+    0000 - 51 1a 7a 75 5a 48 9b f9-ab 1f 98 bc 77 38 a5 ac   Q.zuZH......w8..
+    0010 - 3a a9 ee b1 59 20 bf 3d-cb f2 e9 43 c1 f8 23 01   :...Y .=...C..#.
+    0020 - 70 2c 6b e1 b1 90 8d 72-94 37 e6 95 54 af 65 98   p,k....r.7..T.e.
+    0030 - 14 0c a0 09 fb 8a c8 5d-34 b8 4a cb e2 93 bc 0b   .......]4.J.....
+    0040 - 87 31 0d 9e db 7c 7a f4-ca e3 26 0f 43 5f 2c 75   .1...|z...&.C_,u
+    0050 - 10 39 1a 7d f0 0f 8a 75-15 b9 ee 1a 76 4d 95 bc   .9.}...u....vM..
+    0060 - aa b1 d2 e9 93 9a c8 cb-63 a4 82 a0 b9 f8 39 58   ........c.....9X
+    0070 - b8 67 6d 79 45 3c ac a6-4b 92 2e 5b 1f e6 38 c9   .gmyE<..K..[..8.
+    0080 - 3f bd d3 58 b1 cf f6 f9-62 d3 cb 97 78 d8 df 99   ?..X....b...x...
+    0090 - ea 5b 81 1e 7a 1b 68 fb-0d 86 25 e1 1a 2f bc c5   .[..z.h...%../..
+    00a0 - df ed e6 ef e9 79 2b 73-28 62 80 fa aa 73 69 25   .....y+s(b...si%
 
-    Compression: 1 (zlib compression)
-    Start Time: 1472789684
-    Timeout   : 300 (sec)
+    Start Time: 1577475665
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

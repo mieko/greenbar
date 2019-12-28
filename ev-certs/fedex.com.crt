@@ -1,59 +1,58 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=2803030/C=US/postalCode=38120/ST=Tennessee/L=Memphis/street=942 S Shady Grove Rd/O=FedEx Corporation/OU=WSAS/CN=www.fedex.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Delaware/serialNumber=2803030/C=US/ST=Tennessee/L=Memphis/O=FedEx Corporation/OU=WSAS/CN=www.fedex.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGezCCBWOgAwIBAgIQQJyjVETMyVs26u/x0DTIajANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTUxMDE0MDAwMDAwWhcNMTYxMDEz
-MjM1OTU5WjCCAQYxEzARBgsrBgEEAYI3PAIBAxMCVVMxGTAXBgsrBgEEAYI3PAIB
-AgwIRGVsYXdhcmUxHTAbBgNVBA8TFFByaXZhdGUgT3JnYW5pemF0aW9uMRAwDgYD
-VQQFEwcyODAzMDMwMQswCQYDVQQGEwJVUzEOMAwGA1UEEQwFMzgxMjAxEjAQBgNV
-BAgMCVRlbm5lc3NlZTEQMA4GA1UEBwwHTWVtcGhpczEdMBsGA1UECQwUOTQyIFMg
-U2hhZHkgR3JvdmUgUmQxGjAYBgNVBAoMEUZlZEV4IENvcnBvcmF0aW9uMQ0wCwYD
-VQQLDARXU0FTMRYwFAYDVQQDDA13d3cuZmVkZXguY29tMIIBIjANBgkqhkiG9w0B
-AQEFAAOCAQ8AMIIBCgKCAQEAw+ghSYS3tZUsWNmG5XQaXdyibg1PU6/b+koigsjM
-UXOoFokMNTV/z715kf5ORU+oAnaCfmCF6Wg7vrwIEhbx81HVH69ofVXVdmq32GGx
-B6Txbdny2xQ4ytTp8TCkIwItb57aafSoVSu91pjiOkzWeOcroX/sjWQKBo9Gbjsb
-yjud3/Aw4FpTMZ94I4QizWxKr2HsbX6ZnGwLmDhliT0TsagicCQI5EMffxW/teX+
-5K802dFT2AYtb/EJllfHMR+m1vb8Hytek5F4M8sXFHIWyRA524RF5T3XHsW1410a
-YdsQGeGtcJQ7Nu0Mk3bP/vmdPDdDD4OXnlgbPriYT7KY4QIDAQABo4ICcDCCAmww
-GAYDVR0RBBEwD4INd3d3LmZlZGV4LmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQE
-AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwZgYDVR0gBF8wXTBb
-BgtghkgBhvhFAQcXBjBMMCMGCCsGAQUFBwIBFhdodHRwczovL2Quc3ltY2IuY29t
-L2NwczAlBggrBgEFBQcCAjAZGhdodHRwczovL2Quc3ltY2IuY29tL3JwYTAfBgNV
-HSMEGDAWgBQBWavn3ToLWaZkY9bPIAdX1ZHnajArBgNVHR8EJDAiMCCgHqAchhpo
-dHRwOi8vc3Iuc3ltY2IuY29tL3NyLmNybDBXBggrBgEFBQcBAQRLMEkwHwYIKwYB
-BQUHMAGGE2h0dHA6Ly9zci5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9z
-ci5zeW1jYi5jb20vc3IuY3J0MIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYA3esd
-K3oNT6Ygi4GtgWhwfi6OnQHVXIiNPRHEzbbsvswAAAFQZ8OgvAAABAMARzBFAiBB
-1eYQ2zfUuAuqbAWipsohFEhUJLwdOcnID3saiE2TWQIhAILTb3tKNUZapq1T/MNP
-rIS3OBK9tbv+Z1WiEE7qAmJCAHcApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fN
-DsgN3BAAAAFQZ8OhBQAABAMASDBGAiEAh2IxSQCI5o3giKLp0plurXP5T5GDKSd+
-YvjPddqxwP4CIQDyqZ17JUjZafQ3E+Vr0zOJdk9ADVAgT70fpdD6qRJAuDANBgkq
-hkiG9w0BAQsFAAOCAQEARuFvzzYs/URVcQY8BJf2uOmRPUIEH1idaxdC5cZBxi0m
-T40WoTdglUVXBWoRYK/BKDzc41I4qNKdT8K/rnb3qzUus2sxNtGKgW0NKlixOp1E
-PKlpJsXJxfbmiWQjT/eIYEoZlFYRQ0lzUORho2tXh4PkZJAp8wj3IlwJ7TcvOiC3
-iAbSQ56gUBZkjUDnyA7nnHknDcE+LgHTb1JbwQ6odme1LB/Dm8mhAYmjKHoEECvu
-ruS8Pib0Uw4KVUMr8ZTECwGPLmh7RpxVnyTXxK9DHQnrkLKF5mxMU5qjTkfcdZLe
-Met+1nAf/ODjbLujGjQeSCzRkyLoeMeU9FzG4GiwVg==
+MIIG6TCCBdGgAwIBAgIQAlNIQuPpP6CxU6ABYmvflDANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE5MTAwOTAwMDAwMFoXDTIwMTAxMzEy
+MDAwMFowgdcxHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRMwEQYLKwYB
+BAGCNzwCAQMTAlVTMRkwFwYLKwYBBAGCNzwCAQITCERlbGF3YXJlMRAwDgYDVQQF
+EwcyODAzMDMwMQswCQYDVQQGEwJVUzESMBAGA1UECBMJVGVubmVzc2VlMRAwDgYD
+VQQHEwdNZW1waGlzMRowGAYDVQQKExFGZWRFeCBDb3Jwb3JhdGlvbjENMAsGA1UE
+CxMEV1NBUzEWMBQGA1UEAxMNd3d3LmZlZGV4LmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAMPoIUmEt7WVLFjZhuV0Gl3com4NT1Ov2/pKIoLIzFFz
+qBaJDDU1f8+9eZH+TkVPqAJ2gn5gheloO768CBIW8fNR1R+vaH1V1XZqt9hhsQek
+8W3Z8tsUOMrU6fEwpCMCLW+e2mn0qFUrvdaY4jpM1njnK6F/7I1kCgaPRm47G8o7
+nd/wMOBaUzGfeCOEIs1sSq9h7G1+mZxsC5g4ZYk9E7GoInAkCORDH38Vv7Xl/uSv
+NNnRU9gGLW/xCZZXxzEfptb2/B8rXpOReDPLFxRyFskQOduEReU91x7FteNdGmHb
+EBnhrXCUOzbtDJN2z/75nTw3Qw+Dl55YGz64mE+ymOECAwEAAaOCAxAwggMMMB8G
+A1UdIwQYMBaAFD3TUKXWoK3u80pgCmXTIdT4+NYPMB0GA1UdDgQWBBT9pGQkpsyT
+/rgV31BJ1IeZr6XIjzA4BgNVHREEMTAvgg13d3cuZmVkZXguY29tgglmZWRleC5j
+b22CE2RldmVsb3Blci5mZWRleC5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8v
+Y3JsMy5kaWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2ZXItZzIuY3JsMDSgMqAwhi5o
+dHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2ZXItZzIuY3JsMEsG
+A1UdIAREMEIwNwYJYIZIAYb9bAIBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3
+LmRpZ2ljZXJ0LmNvbS9DUFMwBwYFZ4EMAQEwgYgGCCsGAQUFBwEBBHwwejAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMFIGCCsGAQUFBzAChkZo
+dHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyRXh0ZW5kZWRW
+YWxpZGF0aW9uU2VydmVyQ0EuY3J0MAkGA1UdEwQCMAAwggEFBgorBgEEAdZ5AgQC
+BIH2BIHzAPEAdwCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAW2y
+d9TMAAAEAwBIMEYCIQDngM59WYaQqsYd295Y9LoNtkmqAS68z6a8mPTPmG557gIh
+AJo8uSxVA1m+hAn8+EbgwGvgHPJkSEBoHXP6WBu2Y/fgAHYAVhQGmi/XwuzT9eG9
+RLI+x0Z2ubyZEVzA75SYVdaJ0N0AAAFtsnfVGwAABAMARzBFAiBaL7/XVgpq9ovu
+Si8IsyGBfcLQpc1F1v11+6vWQcMNxwIhAK0Cf2Ba1uVQPvgjtYV/VXrkbboY+Wj/
+dHvnPDO3VgaPMA0GCSqGSIb3DQEBCwUAA4IBAQA6ugrBpvN/KO5rfwRaOJsj6PAj
+SVraik2WpimfE7vUkme1X1H1GIDF/fS8vK7c1vu1dMWdP5YyOxb78QqutGqGC95k
+qLDhI9ExqJi6J047vlJotZAuPSBv0JleiIrSdRzWkG0T9zSXgyI7RHq/rstq3SH/
+kEVF9Xz1e6En6/nVvbGTTc2jLL15KGJR0FHxO5bUyapI2X7GEB0AJjjXa6GHsfwg
+r5JXMvopw/R4a6a2bogBSF3eqZC1NJ6HoBBpkm71Gyicc2Xd4GdaNk7+jB7GLsP/
+iMrl1d3o/1FBhj4oK+VVXbz7okixel0/xfiGIh99lKMRf+Sr3sZduSWStynN
 -----END CERTIFICATE-----
-subject=/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=2803030/C=US/postalCode=38120/ST=Tennessee/L=Memphis/street=942 S Shady Grove Rd/O=FedEx Corporation/OU=WSAS/CN=www.fedex.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Delaware/serialNumber=2803030/C=US/ST=Tennessee/L=Memphis/O=FedEx Corporation/OU=WSAS/CN=www.fedex.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4923 bytes and written 434 bytes
+SSL handshake has read 3672 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -64,29 +63,25 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 9E3A8058717BE088480DC414F29CD04F51DEE71D440B708E11AFD6B36AA5D316
+    Session-ID: 2A8CDF43FA3721E644013227772CCAF2A01CB876A93A69E2C7A3A52C4F7FD684
     Session-ID-ctx: 
-    Master-Key: 307874FF5A5A5397CF25EF4C6B44069C847F90A2846B122347A7E6D030D1D278CA8935943E3D5E174F32CA656EFDAB3D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 9438E79C637F393C09ABDEEF099DCA48E408F9AB5D7ADD8718B15D1D96341A56E4EF89572E52F49571E91CFCACA85B21
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 4f 11 ce 1b e5 6f dd bf-e2 cc 66 40 c8 fb a3 d7   O....o....f@....
-    0010 - c2 4f 33 4d 50 57 c4 42-15 87 d1 6b be 80 6c 1a   .O3MPW.B...k..l.
-    0020 - 18 c9 43 70 ef 5d f9 38-7a 6f fb 6e c8 a6 d2 c3   ..Cp.].8zo.n....
-    0030 - f3 14 f5 a5 6b d6 b8 eb-0b ce c3 ba 34 0c 00 d5   ....k.......4...
-    0040 - 0f 94 fa a6 e9 9f 37 66-2f b2 a5 a3 b9 5c 20 c3   ......7f/....\ .
-    0050 - 0f a5 7b b9 b8 0f d9 9d-64 45 21 25 62 6a 4a 34   ..{.....dE!%bjJ4
-    0060 - 03 ee d6 7d 0d b6 f5 d1-ed d3 14 5c d5 e4 14 b5   ...}.......\....
-    0070 - 7f 41 9e 62 49 4f 53 b0-53 83 ee e4 7a 3c db 32   .A.bIOS.S...z<.2
-    0080 - c7 78 45 11 bf 40 e6 45-3c 53 46 0c e7 77 e9 51   .xE..@.E<SF..w.Q
-    0090 - ec a0 c5 ed 27 ca b6 29-da a4 e3 77 88 2d 31 2d   ....'..)...w.-1-
-    00a0 - dd 88 77 47 a5 c1 22 b3-9e 38 3a 58 e2 04 91 fa   ..wG.."..8:X....
-    00b0 - d9 a3 d0 d3 f9 fe 8d e4-eb f4 11 fc 86 6c 19 a4   .............l..
+    0000 - d6 00 76 d1 36 35 4d 4b-d4 5b b9 07 c7 1c b5 0f   ..v.65MK.[......
+    0010 - 69 f3 f9 72 fc 1b 9f 49-8d 33 7b c3 96 06 88 a4   i..r...I.3{.....
+    0020 - 82 52 b2 7f 45 6d 48 be-60 eb 86 d1 7d 71 cb 7a   .R..EmH.`...}q.z
+    0030 - 7b 12 e6 39 c2 75 60 3c-ab a5 93 dc f6 ca 6a dd   {..9.u`<......j.
+    0040 - 58 24 68 88 dc c7 9f 57-e8 cf 16 35 7d 55 03 8d   X$h....W...5}U..
+    0050 - 44 ef 36 2e 7b 1a a0 a3-0e 40 42 2c da 64 a6 2a   D.6.{....@B,.d.*
+    0060 - 60 1c dc 63 13 f2 0f 43-b0 1e b7 95 70 ab 9c 60   `..c...C....p..`
+    0070 - 30 4d 56 52 5a d0 cd 3d-2f d7 ab 7f 40 0c d4 2b   0MVRZ..=/...@..+
+    0080 - 78 f1 f7 d1 b0 5d 8f 7a-26 bc 18 01 5c f4 79 2f   x....].z&...\.y/
+    0090 - b0 8c 76 c0 cc 66 6c 33-e3 c1 03 e8 ee 09 0e ce   ..v..fl3........
+    00a0 - 87 bc 7a 2e 50 b7 b1 49-1b ad ae 0e 47 e3 b6 8b   ..z.P..I....G...
+    00b0 - 8b 23 d8 ef 7f 7b e1 08-0e fa 77 6f a7 10 79 a2   .#...{....wo..y.
 
-    Start Time: 1472788223
-    Timeout   : 300 (sec)
+    Start Time: 1577474941
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

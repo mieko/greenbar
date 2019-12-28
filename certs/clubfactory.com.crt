@@ -1,0 +1,82 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=*.clubfactory.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFazCCBFOgAwIBAgIQDnjLF8lvhXccK/jXcDATqzANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTA3MTEwMDAwMDBaFw0yMDA4MTEx
+MjAwMDBaMBwxGjAYBgNVBAMMESouY2x1YmZhY3RvcnkuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtcRRn4fjWEibLDOkostfXTzr2q5D989h41Lx
+nx06rXcH03ihX/OmGgpQzLdJMqR/7O9RWjvEQtIbKWO5iG5JKU2q/jTjXChYF4mt
+lP8W6Bp9YAjc09m4U+Se5RYKo1TP9itaE1cj47Z+4koUA1zpLtaSK6A+1N+VPG34
+vSExK4RQ+EJCSRQmC30NOqAGd85pFN3tN/t5ymgA56dHoGJ8fjZfMotQNNKn7gkB
+bfVMPviuiyQEGlEVcpCTp/C2CRFhuV3H/Pe3cyscHdl6pQPdMIoHaZcNyY2vj3U0
+CRD8DSbsY0Gk6AqAHzmrAkO2v5m+g4wUceFr28YluZijXZPUQwIDAQABo4ICfTCC
+AnkwHwYDVR0jBBgwFoAUWaRmBlKge5WSPKOUByeWdFv5PdAwHQYDVR0OBBYEFFFH
+sPSrj3LFCm5wDf6gWZgROB7RMBwGA1UdEQQVMBOCESouY2x1YmZhY3RvcnkuY29t
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+OwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5zY2ExYi5hbWF6b250cnVzdC5j
+b20vc2NhMWIuY3JsMCAGA1UdIAQZMBcwCwYJYIZIAYb9bAECMAgGBmeBDAECATB1
+BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnNjYTFiLmFt
+YXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5zY2ExYi5hbWF6
+b250cnVzdC5jb20vc2NhMWIuY3J0MAwGA1UdEwEB/wQCMAAwggEEBgorBgEEAdZ5
+AgQCBIH1BIHyAPAAdwC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAA
+AWveeFBEAAAEAwBIMEYCIQCPBKjTApoZqgf7fcTf0OmV3VDrFgCejGTTR1eYaQTh
+qgIhAOYUPUyyRmfjgSzzRsBZcK4xpx/5zRVPcaSMGRLzIZLCAHUAh3W/51l8+IxD
+mV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFr3nhQeAAABAMARjBEAiAGHxN3OJpR
+twSoCsDtbrk68aToZTcUjzQAoz0oiTc9wQIgWBdgw6J7iC1AouaqX5COmRTN+1ls
+R88Q0VTts2lAHBcwDQYJKoZIhvcNAQELBQADggEBAA/9UlRQZFYbPRoTAu+G6l0z
+5WtXGMutMjhZ+CKchmECISxOFBb32a1tNfr9BwJaZHFjNFJtrIcm/Boi+9OPRov3
+njhZa9CU6LgTaJKjjqcHGHsNJjbpvASpxTXsbcRP6G8jAS3ztdpBcBP947rZ0+mT
+w5XjvfX9Pqt/0vEeTiOb3gRFemiYtfmXHMl9ntKEwiDS/mVG9lY4RlXkhpSs38G9
+kILsGS9AezI5iesvxcscJcDvegm+NsdO/Mmg8WsFi0zbLdoZTy4WoOy6PCExmICh
+9MgKrywHZyAByKH+lvAv0rN93UHOR9fwk/L+rBCroV2Z0aeUlNjuDpqiIQmgUQA=
+-----END CERTIFICATE-----
+subject=/CN=*.clubfactory.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5490 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 1ECAACD2F5C1B63AA728F787E20AC118CB87010FADAA92CF97837154E3425BE8
+    Session-ID-ctx: 
+    Master-Key: 8E8EAC4F6DE881A522411055B47D6087CB631E185A97061BAB80E67B88655FA271D7E6E8938D527F2813E2096A1E83AC
+    TLS session ticket lifetime hint: 43200 (seconds)
+    TLS session ticket:
+    0000 - c3 a5 8b b2 7f 71 c3 e3-6b 51 dc 14 42 50 ea 23   .....q..kQ..BP.#
+    0010 - 32 29 55 cd 8e de d7 53-f2 1f 87 de 18 ec 61 b9   2)U....S......a.
+    0020 - 19 a9 2e 6f 40 d8 29 76-a2 66 b2 59 98 9c da 8a   ...o@.)v.f.Y....
+    0030 - 33 20 d6 85 72 f0 df 3d-2e 3c f3 84 c8 d0 34 4e   3 ..r..=.<....4N
+    0040 - f2 e4 2a 06 22 24 4a 31-87 91 71 aa 64 04 2e c3   ..*."$J1..q.d...
+    0050 - ef 5a 44 fc 33 81 eb 71-0e ba 18 d5 48 ac 3e 8b   .ZD.3..q....H.>.
+    0060 - 93 77 77 e5 f3 07 73 62-a4 d6 e3 7f 79 b1 13 de   .ww...sb....y...
+    0070 - 83 35 d0 3e fe 61 24 08-ff 1b e8 a0 b3 d8 e1 b4   .5.>.a$.........
+    0080 - 12 11 5c 94 78 73 d4 c3-39 eb c2 23 60 0f 9a da   ..\.xs..9..#`...
+    0090 - 38 d8 5b e5 fa b4 79 db-fb c8 f6 fe 7e 5c 0c 6d   8.[...y.....~\.m
+    00a0 - 45 10 79 cb 9f 4f 8d 8e-8a ce c4 92 e6 c4 a7 47   E.y..O.........G
+
+    Start Time: 1577475611
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

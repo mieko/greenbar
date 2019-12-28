@@ -1,0 +1,64 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/C=JP/ST=Some-State/O=SAKURA/CN=proxy100.www.sakura.ad.jp
+   i:/C=JP/ST=Some-State/O=SAKURA/CN=proxy100.www.sakura.ad.jp
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDKjCCAhICCQCTB+o/OHXXozANBgkqhkiG9w0BAQsFADBXMQswCQYDVQQGEwJK
+UDETMBEGA1UECAwKU29tZS1TdGF0ZTEPMA0GA1UECgwGU0FLVVJBMSIwIAYDVQQD
+DBlwcm94eTEwMC53d3cuc2FrdXJhLmFkLmpwMB4XDTE2MDgwNTA0MDUxMFoXDTI2
+MDgwMzA0MDUxMFowVzELMAkGA1UEBhMCSlAxEzARBgNVBAgMClNvbWUtU3RhdGUx
+DzANBgNVBAoMBlNBS1VSQTEiMCAGA1UEAwwZcHJveHkxMDAud3d3LnNha3VyYS5h
+ZC5qcDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMQ1/t7ysIOVsPWC
+vap9VOkmmHGLDflvna76JFWyAzj2suSBwvThc7twUSBjOoyfWJ1AjCUHG0rpj4tA
+ozQvp0ldV2Gb+2hFwXPkccj5PWE2llCe0IvH3uWqNJ7AVNQOOLejInhwV+dViIW8
+326IpqCTlK3uIwBs4x9t3DCHhwmrGy/YwAX9LnqJTvLhqzYjwuLb7sRar8fgJTxJ
+i8/RABMvoFHHvZ6YbMZmisJriCepXy9AQ8hle2MRylpLam5onZcIif4jH7he6poy
+iec3NWFUs6vFSyp21wU+WNB82hfyp/XNZr4UzTbVHaG25XwlM376/9gbL5GVLKj6
+FlppSsECAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAKlw8qC/D6eAAJOED4u0imE3u
+ulLgmWJEXrY/F69zwo2tx7E8B0GmkOb+S0hQ+2X96HQ7dV9LOTbSnV46dwmzVPD0
+HmjrJAjrcvj2rBe02Tp9Rf+dGnyS4QVA6Tvu6wFpYV/30vSoSSfLbxJEORURE1of
+bBEGPNYnf2Ky95AdDEwu5KuOt2bZ844nS4MjFf5IlrzYxG3XzG9WGoJd1lAIzQvU
+CkNH84zHFllPbL2hfSFBelclg9IVjZTzGr6SoCAVQCltMaz5jBqhPDRx3kUHWffJ
+y+zjYkICDiPbVMxqZyft88Jc48pOKiUbeg4n8YiwJ4uMSG2XnEn6SOrvAMK9zQ==
+-----END CERTIFICATE-----
+subject=/C=JP/ST=Some-State/O=SAKURA/CN=proxy100.www.sakura.ad.jp
+issuer=/C=JP/ST=Some-State/O=SAKURA/CN=proxy100.www.sakura.ad.jp
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 1451 bytes and written 289 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: B83B332FC85244589DD17A0C656E2F3656650F542030F187D41776C66C9C34E6
+    Session-ID-ctx: 
+    Master-Key: 59542780D3D7F953CCB1DF451A2E11125DD23EE435B3A5029C11313B5BA3990EC35D5AD234E36A4891CF31A744D2F633
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c7 8e ac 0f ba dc 0b a7-9e 29 33 4c c0 8f 27 d3   .........)3L..'.
+    0010 - 43 8c de 8d 27 f1 22 f5-d5 3d 46 1f b9 0b df 2f   C...'."..=F..../
+    0020 - 50 b1 a4 71 dc 0e 55 c3-bc 33 d1 1a 71 00 87 1f   P..q..U..3..q...
+    0030 - 51 c5 d3 a2 2a ac 6a 14-b1 f3 9b 32 2b 54 67 a7   Q...*.j....2+Tg.
+    0040 - 75 29 96 86 d7 f0 e5 8f-ba 60 78 63 e5 13 99 25   u).......`xc...%
+    0050 - 08 2f 36 71 10 37 17 e7-3d b9 9d c2 e8 63 3f ca   ./6q.7..=....c?.
+    0060 - 61 00 73 ea ee 4e fb f5-26 61 b9 01 5f bb 5d 0f   a.s..N..&a.._.].
+    0070 - d0 60 3c 67 42 4c 0c fb-4a c2 b4 47 e7 39 ac 20   .`<gBL..J..G.9. 
+    0080 - d8 b1 9b 89 76 61 64 6f-65 9d 2a 2b 55 b9 b3 63   ....vadoe.*+U..c
+    0090 - 31 18 71 6a 70 db 59 c1-74 fe ab 4d c8 fc cb 0b   1.qjp.Y.t..M....
+    00a0 - f9 61 08 c5 5d 31 ea a4-be 02 1a 73 fc dc 14 2c   .a..]1.....s...,
+
+    Start Time: 1577476060
+    Timeout   : 7200 (sec)
+    Verify return code: 18 (self signed certificate)
+---

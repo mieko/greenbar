@@ -1,54 +1,56 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=NZ/L=Wellington/O=Xero/CN=*.xero.com
-   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
- 1 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
-   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
- 2 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
-   i:/C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
- 3 s:/C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
-   i:/C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
+ 0 s:/C=NZ/ST=Wellington/L=Wellington/O=Xero Limited/OU=IT/CN=*.xero.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFGDCCBACgAwIBAgIQA4UZdG7bM6gAAAAAUNgOeDANBgkqhkiG9w0BAQsFADCB
-ujELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUVudHJ1c3QsIEluYy4xKDAmBgNVBAsT
-H1NlZSB3d3cuZW50cnVzdC5uZXQvbGVnYWwtdGVybXMxOTA3BgNVBAsTMChjKSAy
-MDEyIEVudHJ1c3QsIEluYy4gLSBmb3IgYXV0aG9yaXplZCB1c2Ugb25seTEuMCwG
-A1UEAxMlRW50cnVzdCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAtIEwxSzAeFw0x
-NjA1MDkwMTIyMTlaFw0xNzA3MDIwMTUyMTdaMEYxCzAJBgNVBAYTAk5aMRMwEQYD
-VQQHEwpXZWxsaW5ndG9uMQ0wCwYDVQQKEwRYZXJvMRMwEQYDVQQDDAoqLnhlcm8u
-Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAneouXo5VIKiHwmSG
-90YqmGTvlB3xCME7cJu9zTA1LtBqHJJ2uDtjKs1ah6cOSSPSpOr6/2wsDwv5svKa
-kQVhRvz5T2G/f2YqvHcYirODw0xZ4np+a3eoI7xoBpF+0lVAHu+jAS1dSaPbGINa
-z9hoXb1dWdKyIA9XJuAiAQYgh4po+BrOOlalRCLwn5Qfo2CbOQtRyyKcnkqvxd8l
-bhOvJEt/AzUd+sYeat9BqbS6GQt89alerv/yfoR+3SgQLmoyehNuZOp9jqXSZS3N
-ytkw2N1xohPuUCAKHiGRa0LYn+KZU1rvsfR0CE5NxlmAMpSofR+RgL4AFc9n2UN+
-yePOJwIDAQABo4IBizCCAYcwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
-AQUFBwMBBggrBgEFBQcDAjAzBgNVHR8ELDAqMCigJqAkhiJodHRwOi8vY3JsLmVu
-dHJ1c3QubmV0L2xldmVsMWsuY3JsMEsGA1UdIAREMEIwNgYKYIZIAYb6bAoBBTAo
-MCYGCCsGAQUFBwIBFhpodHRwOi8vd3d3LmVudHJ1c3QubmV0L3JwYTAIBgZngQwB
-AgIwaAYIKwYBBQUHAQEEXDBaMCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5lbnRy
-dXN0Lm5ldDAzBggrBgEFBQcwAoYnaHR0cDovL2FpYS5lbnRydXN0Lm5ldC9sMWst
-Y2hhaW4yNTYuY2VyMB8GA1UdEQQYMBaCCioueGVyby5jb22CCHhlcm8uY29tMB8G
-A1UdIwQYMBaAFIKicHTdvFM/z3vU981/p2DGCky/MB0GA1UdDgQWBBSboTqZccQj
-XOpFntXj/eBWQekj8zAJBgNVHRMEAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQAev2Z9
-s+AZunf0cIOaTqRTRLEzLn3/SeA605uRZpfnYpc52K2xsuPp+kgLWr3Eq4bzqzcO
-tlHWZ+YEBDx8XE5Gvx97a5Wm/n93AM6zLEc6VssloZr008fKe0KFLboi5qQr1Yix
-Ib3zzrMX72LLYqybo/H65dVsMG6gzJtSMKhWMDotwekUwSUJKP7CxQgJoVhoDVA6
-OAaRBcPGxojID2+5zVtd+JQJZW1vuUrAMhBXGnJvs2yWzErNLjIUL3CaNStCy+r1
-vHEUxRWi1Nh72iqa8NE9X8KorYOr48u5brJeotBoCvIBOkDgVV8p6+mPQ3/clMoj
-GfbKAZyfqXtIOlUf
+MIIGBjCCBO6gAwIBAgIQB6iSLPauF29udLSlNDj3ZjANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAe
+Fw0xOTA1MjMwMDAwMDBaFw0yMDA4MjExMjAwMDBaMHAxCzAJBgNVBAYTAk5aMRMw
+EQYDVQQIEwpXZWxsaW5ndG9uMRMwEQYDVQQHEwpXZWxsaW5ndG9uMRUwEwYDVQQK
+EwxYZXJvIExpbWl0ZWQxCzAJBgNVBAsTAklUMRMwEQYDVQQDDAoqLnhlcm8uY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwqeW9/QaOTBIi5J/ga73
+0tPIO3nvyg+iX/6/GX2iLUZn32qic5bzAZNFK5/Wi1wKskWIID+uEc5FXwlE24qv
+CACmrOzW2dhK0M9csmQhe2QOdA4u581/7wu5HmtqC9XjB8myPihWE5GXVTZqeKEw
+XEtPbQYHr/UEUIHMJ96Q6eTrlSyH/PebrEmjcQtsLIDHXXbsm7oCUF29ors8cp4f
+VTZ0W2rJAyo73eoKzoBu/EvyATH9KuZGxbYDM+Xzw3UY3elBg0XNy9hxKZyvJbjb
+kaphAHzqydsFjZAbArI0jjlmGo6xNEK5okPrh9gumwcj3+RyJvF3T4CL68jLTTJk
+IQIDAQABo4ICrDCCAqgwHwYDVR0jBBgwFoAUkFj/sJx1qFFUd7Ht8qNDFjiebMUw
+HQYDVR0OBBYEFHIGDIIgn0tMPYLqI8w6XhHF1JdiMB8GA1UdEQQYMBaCCioueGVy
+by5jb22CCHhlcm8uY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NkcC5nZW90
+cnVzdC5jb20vR2VvVHJ1c3RSU0FDQTIwMTguY3JsMEwGA1UdIARFMEMwNwYJYIZI
+AYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9D
+UFMwCAYGZ4EMAQICMHUGCCsGAQUFBwEBBGkwZzAmBggrBgEFBQcwAYYaaHR0cDov
+L3N0YXR1cy5nZW90cnVzdC5jb20wPQYIKwYBBQUHMAKGMWh0dHA6Ly9jYWNlcnRz
+Lmdlb3RydXN0LmNvbS9HZW9UcnVzdFJTQUNBMjAxOC5jcnQwCQYDVR0TBAIwADCC
+AQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AO5Lvbd1zmC64UJpH6vhnmajD35fsHLY
+gwDEe4l6qP3LAAABauSQzlIAAAQDAEcwRQIhAISeDZNC+P98Gs6KGZzYu2iQna74
+L599tariB33R1V3cAiBOxCjrF4trSS+Bq3MlkIW+Zl7V6MyUxeY8onbHdl0SVQB2
+AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABauSQzyMAAAQDAEcw
+RQIgBRqjoZxYUZUmSk+/+Qqwr8P9cq4beKCOeSVjJENmNaQCIQDEp5pbp/q0IyL6
+yvojXm4kO8FE2yuQeF8BhuPBYE6PpjANBgkqhkiG9w0BAQsFAAOCAQEAn04ynZIB
+NYtWTENhBoVq7BvqgtY40SzQOf3kTWnVIIHNah0y6H17vzrXjrjB2bf2mwEzlwP7
+rrUdFtDkiNxnGmZXCYe3TpjX7rnHwikNzVfNaS7UEO3KxGptAGGah9IDXwpgZBgL
+A8BU15Rz0SuYJ71ez5TOGu/5qJE98BTuZHYxetVPJE2IrKBmNW3YMhxREZ8FsS03
+LYx+RUMJO7Np9gfejmE6tmCNjy/CVvil52oAwzu3Cn7oG1QFtmA4p88T9zrmQ1QA
+uWkMttyWqhpcXOwdECQABoUcWt8GpECcJDVfkgnR7Qm6LdmutDZxAxiHVaPwdYIV
+wlRca+Riu4hJrw==
 -----END CERTIFICATE-----
-subject=/C=NZ/L=Wellington/O=Xero/CN=*.xero.com
-issuer=/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
+subject=/C=NZ/ST=Wellington/L=Wellington/O=Xero Limited/OU=IT/CN=*.xero.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5198 bytes and written 666 bytes
+SSL handshake has read 3370 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -56,15 +58,24 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-SHA256
-    Session-ID: 57BA138744D2ABF3F17D8E7C67C310752617846F51712FC6720869B0604D5211
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C278A919CE0E1952D6778BFBF0667CE4438D83EF5200D198CAA80A5937B35BB2
     Session-ID-ctx: 
-    Master-Key: E505ADAF0E2240B23AC5240FA2DB9E7F4C76798C8D929BF84F2A254EB3981DBBC23600E31DAB9EE05D58D8B58CC67B85
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472790233
-    Timeout   : 300 (sec)
+    Master-Key: 437993EE3F2269E074D67354A88155219526E566E24A993F711FF64977FE0089B365653805687D0330B9F6E1322FA3CF
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 00 00 2d 96 4c d2 06 dd-37 aa c7 94 a3 a5 d3 56   ..-.L...7......V
+    0010 - 3e 76 2f c7 9b 72 f0 da-6b 34 75 96 c3 03 3a 99   >v/..r..k4u...:.
+    0020 - 6c 41 4d ab 52 6b a6 8e-ee 72 19 01 c8 7a 72 03   lAM.Rk...r...zr.
+    0030 - 43 7e 31 a9 f7 bd a8 97-53 0a c1 ea c1 19 27 d7   C~1.....S.....'.
+    0040 - 0e b6 7c d9 39 c9 ca 02-dc ff 22 af 45 04 26 34   ..|.9.....".E.&4
+    0050 - 2f 58 85 c2 b5 7d 63 65-5c e7 6c e7 26 9c 69 2b   /X...}ce\.l.&.i+
+    0060 - 6b 66 d9 34 34 f2 ac 82-02 b5 e6 09 32 d1 e3 9f   kf.44.......2...
+    0070 - 5b 88 85 6b ad 9f be 67-f7 22 15 84 09 08 0a df   [..k...g."......
+    0080 - dc a4 6b 11 28 a6 c3 5c-70 e8 51 44 6c c0 3e 80   ..k.(..\p.QDl.>.
+    0090 - cd d3 ae f1 e2 fc 57 95-3d e7 51 69 3d 55 5e ca   ......W.=.Qi=U^.
+
+    Start Time: 1577475595
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

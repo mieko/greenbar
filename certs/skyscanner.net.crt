@@ -1,0 +1,79 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=skyscanner.net
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVDCCBDygAwIBAgISBAHoYGQlRXnOlAEB3sGpKy6aMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMDkwODExMDZaFw0y
+MDAyMDcwODExMDZaMBkxFzAVBgNVBAMTDnNreXNjYW5uZXIubmV0MIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt+sA6bO4kUn+046TeKE70HCvbgId9fbB
+8hh/LFCtlBQ04q3mn6NEB9AYcSqg6q8hapiMp8EIEO9ljXC8tFOtUCIYrsGe95eE
+NVNG9hFuwQiNKfrPLY4NLkrPSxSZkj3BUfJfeD/odRDBIexZtd2BACi0p/nntQQW
+HVzHi774fmimlXrKYg6mG7nULnPC/xvALwSRxUvXoqwm+c0xgQOzXEeXKBe9VRj0
+apJ620DhHgqlEhqwgHKUebmewrWYjxQ9yeKinjWivEQTKTp2mvEKgsbuJn13iOa7
+SKR2Hr8NGcxCOwGfru2e9mMshPQOruax+6viND6acHDw4AdAOZKmzQIDAQABo4IC
+YzCCAl8wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTc6vCAT13kkpayt62pahGVqpzK
+mTAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRj
+MGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5v
+cmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5v
+cmcvMBkGA1UdEQQSMBCCDnNreXNjYW5uZXIubmV0MEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcA8JWkWfIA0YJA
+EC0vk4iOrUv+HUfjmeHQNKawqKqOsnMAAAFuT25sGgAABAMASDBGAiEAiBZFz2VS
+RZFA4lT9E1OmMvC6vQqbx6QGFX5HEqOGwx0CIQCwhZxVEfYpWx8r4waJLfpBnOiz
+MOoElpbztWidTwfNagB1AAe3XBvlfWj/8bDGHSMVx7rmV3xXlLdq7rxhOhpp06Ic
+AAABbk9ubEIAAAQDAEYwRAIgQCJzpzZfCpTYdZo9uEuS/Hx8+crxADtfR79Fvcqh
+KBwCIDrUw1Jnvjt8wo9JuEmKz3s7mYT9OL387Z7OJk+z6VKtMA0GCSqGSIb3DQEB
+CwUAA4IBAQBnst7bOLmENIXMXb6dS5Yc2JZZhrsn6yOYXLpV+L/sIbts2RSn6KOm
+ySW5atwypcZ4hf3hab7NkIPPVDsZC6iBiyFyhMiHfLVrmTzp0jGtFRiUhGnL+Zgf
++pNFGOw3tq271nTtxrYfjQBtd5DXwbCZzAsh6z4rIV/P4tEZg5/fgzL0UQj7Rwks
+2yyofFvrwxS1yHzZcQaGgkJS4yCj5AI8ZAJDVYjbaPcuWjtPILao/E6H58Um/1YV
+kAed/Gd54WZROhD96bM3EH11O+ESWidmFlEV5P/snG/G6sL2dDSEirh9jqeQ98tU
+FLuKdydbdcy64DRX3fFBap4g9OH7uhzu
+-----END CERTIFICATE-----
+subject=/CN=skyscanner.net
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3231 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: CA475B5D8E55BCAD4080F69ACDBA735499EE0F4D228E8445F7AFBFC5E507F8F8
+    Session-ID-ctx: 
+    Master-Key: E0846EFF494EAC9087ADDE9C0CDBB22CF4942E4B48E03F3456E11732F9C187D1B30CB88275FCAB5099178990723639E9
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 88 32 db 65 15 6e 0b 29-12 4d f1 a8 75 0c 57 90   .2.e.n.).M..u.W.
+    0010 - 13 11 f6 67 ff 6b e8 0d-1b f7 1e 81 0f a2 1a 20   ...g.k......... 
+    0020 - 7b db 9a 53 a2 6e 75 5e-2e 16 f8 30 0c 00 46 7f   {..S.nu^...0..F.
+    0030 - 66 10 fe 82 7d 39 96 98-77 7e b5 e2 57 45 db 46   f...}9..w~..WE.F
+    0040 - 90 5e 42 52 02 e9 1f e4-25 10 ff c9 f6 48 77 c6   .^BR....%....Hw.
+    0050 - 5f eb de f8 cf 06 8e a9-25 cd 94 7a ed 73 90 3c   _.......%..z.s.<
+    0060 - 30 da b2 ec 29 d1 60 f1-28 29 8f 7f e7 17 d8 98   0...).`.()......
+    0070 - 7e ed fd 40 45 a4 38 49-d7 a5 e8 5b f3 82 06 64   ~..@E.8I...[...d
+    0080 - d4 04 24 43 7d c9 13 23-83 42 f7 63 f9 04 8f 3b   ..$C}..#.B.c...;
+    0090 - 19 10 ba 43 74 2d d6 b1-c6 3f 20 19 76 97 dd 4a   ...Ct-...? .v..J
+    00a0 - 2f e4 ca fa cd a5 34 5b-4e 05 30 8c 82 b4 57 bd   /.....4[N.0...W.
+    00b0 - c3 67 7a 70 3a 62 fe 47-52 a9 4f 97 63 59 a9 1b   .gzp:b.GR.O.cY..
+
+    Start Time: 1577475970
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

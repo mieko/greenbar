@@ -1,71 +1,82 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=JP/ST=Kyoto/L=Kyoto-shi/O=Hatena Co., Ltd./CN=www.hatena.ne.jp
-   i:/C=JP/O=Cybertrust Japan Co., Ltd./CN=Cybertrust Japan Public CA G3
- 1 s:/C=JP/O=Cybertrust Japan Co., Ltd./CN=Cybertrust Japan Public CA G3
-   i:/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
- 2 s:/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
-   i:/C=US/O=GTE Corporation/OU=GTE CyberTrust Solutions, Inc./CN=GTE CyberTrust Global Root
+ 0 s:/CN=www.hatena.ne.jp
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFnDCCBISgAwIBAgIUcSanZfbsNw5MmfjUKeTUJwaJNu8wDQYJKoZIhvcNAQEF
-BQAwWjELMAkGA1UEBhMCSlAxIzAhBgNVBAoTGkN5YmVydHJ1c3QgSmFwYW4gQ28u
-LCBMdGQuMSYwJAYDVQQDEx1DeWJlcnRydXN0IEphcGFuIFB1YmxpYyBDQSBHMzAe
-Fw0xMzEyMDYwMjQxMjZaFw0xNjEyMTMxNDU5MDBaMGcxCzAJBgNVBAYTAkpQMQ4w
-DAYDVQQIEwVLeW90bzESMBAGA1UEBxMJS3lvdG8tc2hpMRkwFwYDVQQKExBIYXRl
-bmEgQ28uLCBMdGQuMRkwFwYDVQQDExB3d3cuaGF0ZW5hLm5lLmpwMIIBIjANBgkq
-hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1epHR35K4uLnroU089C8Ub7T2Ypi3qZu
-23jlqzm2Ektdjd6v++hp7nP9FAbsa+xz0up7cEFjuk+YvN9teeFNEoQI5aDY6Js6
-qqOGLtPYOOMKa9GDtoZ0R92KhaiS3JOX1eUfVmP5bKvVFnmNEHTEbOzVPhywW47O
-tSJNU0Wi4QG51025/cZFksiQRhgSm1NmnAT5xVv44UVVbr954y0DPqPdAV71GC16
-9OxGEG84w7K7BMGdJHcekN69f6vKX6W+8vkCMN1jPYol6CH6BSazPNYXxKq4bUPO
-mUEGGQ9mq9EwB5MuROVl8eVqM4JrMSevts1K8UPaggodL9EOi1r8gwIDAQABo4IC
-SzCCAkcwCQYDVR0TBAIwADCBuAYDVR0gBIGwMIGtMIGqBggqgwiMmxEBATCBnTBX
-BggrBgEFBQcCAjBLGklGb3IgbW9yZSBkZXRhaWxzLCBwbGVhc2UgdmlzaXQgb3Vy
-IHdlYnNpdGUgaHR0cHM6Ly93d3cuY3liZXJ0cnVzdC5uZS5qcCAuMEIGCCsGAQUF
-BwIBFjZodHRwczovL3d3dy5jeWJlcnRydXN0Lm5lLmpwL3NzbC9yZXBvc2l0b3J5
-L2luZGV4Lmh0bWwwGwYDVR0RBBQwEoIQd3d3LmhhdGVuYS5uZS5qcDCBngYIKwYB
-BQUHAQEEgZEwgY4wMwYIKwYBBQUHMAGGJ2h0dHA6Ly9vY3NwLmN5YmVydHJ1c3Qu
-bmUuanAvT2NzcFNlcnZlcjBXBggrBgEFBQcwAoZLaHR0cDovL3N1cmVzZXJpZXMt
-Y3JsLmN5YmVydHJ1c3QubmUuanAvU3VyZVNlcnZlci9jdGpwdWJjYWczL2N0anB1
-YmNhZzMuY3J0MAsGA1UdDwQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
-BQUHAwIwHwYDVR0jBBgwFoAUc6gIUym4FfuZgOXFN9j4OXukEwYwVQYDVR0fBE4w
-TDBKoEigRoZEaHR0cDovL3N1cmVzZXJpZXMtY3JsLmN5YmVydHJ1c3QubmUuanAv
-U3VyZVNlcnZlci9jdGpwdWJjYWczL2NkcC5jcmwwHQYDVR0OBBYEFBS6fkZb0gTe
-OcuVFEHHzEbPDsNDMA0GCSqGSIb3DQEBBQUAA4IBAQADWLlSs4iVIognU+DV7/x8
-zRLGtOySg8Iuv9xGQ7qpDsa8UCDI28v31BntHPC1JHLH3jSd4exU086M7jylWJ7S
-FdYmvcJ/N/u0NcjxjcgG0e9bcV8M36P7xE5KVBFNItlSyGKuYJw1+Wo42HnkHSk3
-eINPTjI6gfkjQEiORy78Etjwz4FhBNKvaNtses81gSs8F4aAZUysryAdLGW5c+ZB
-Fm3VvI89fYXuZwSEP6QsGSLIPGhbZmSd2hc9H4lqFQvZSYb4rLIHSsxnEzqwhoTa
-mQzMVWszXYineVmZHoAIXXa5dMFKYuEga9qcyiJCASATaUmLDA+SpYZaUT1zZLTa
+MIIFaTCCBFGgAwIBAgIQCHXlkvnKH+ECAMsk8t08cTANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTEwMTAwMDAwMDBaFw0yMDExMTAx
+MjAwMDBaMBsxGTAXBgNVBAMTEHd3dy5oYXRlbmEubmUuanAwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDQNnIMO/Ni+lVyrX0ZNc5q7MCAuS2d9j92YNlR
+QJudvYgqRJFW+PobMFWOKYyAzWlAQ9BoajDNoq0ou2ED3RZ+dgMhFgKVhy6SaF/n
+IoAvvYDYKfSI5Hh+XOhQvs3TBxzlLObjxpzUZzl3FQTgcefVxeZho0Wk+omVwVrh
+u9TMORetdfBTbYGco5O5PmIU6caSFdo7539PLH2NmspOJbv72P7eSoncviCXCdyr
+cYm6qZAVBPx+hsT0MTU2jbsviD/N3ja+I2plOHfSshmcobWRWlKst/Rd9Jfxl8bF
+1rQv6m+uNoqRxtWUX/WEtWca3fC7prs5Brtbvy1KgGScX+4jAgMBAAGjggJ8MIIC
+eDAfBgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUB+tc
+0pwaKWDCSRWZJDRko/8Lsc0wGwYDVR0RBBQwEoIQd3d3LmhhdGVuYS5uZS5qcDAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsG
+A1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwuc2NhMWIuYW1hem9udHJ1c3QuY29t
+L3NjYTFiLmNybDAgBgNVHSAEGTAXMAsGCWCGSAGG/WwBAjAIBgZngQwBAgEwdQYI
+KwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5zY2ExYi5hbWF6
+b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQuc2NhMWIuYW1hem9u
+dHJ1c3QuY29tL3NjYTFiLmNydDAMBgNVHRMBAf8EAjAAMIIBBAYKKwYBBAHWeQIE
+AgSB9QSB8gDwAHYApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFt
+swi+HQAABAMARzBFAiEAr5zhC8xr5R77hvo7Jq6LK+1l1fxucqkD2sjd7c7ZfXoC
+IB+AQtTjjE3gU9EhOD6fgtTCn2b48jxnTJrVW/UsvZQeAHYAh3W/51l8+IxDmV+9
+827/Vo1HVjb/SrVgwbTq/16ggw8AAAFtswi+kAAABAMARzBFAiAwfta+yoytvalD
+IQxU/JUpl587lRpdexgWuP/MFBMCBwIhAPJYFCW25FTsHx5BZMWdwk7irR2sVOXf
+CSf/ARv6VpbFMA0GCSqGSIb3DQEBCwUAA4IBAQCQIdXBvqkjGpObE4xqjNCeYoSz
+iHeag4bnCh39bjVTsN8kpBTcERqBRQljdpyjTYBjZk0mX8GM0J3ER2BZkhb/zjKs
+ysGmwyniGEthe4gnwk8KdcyweO+ouguAUXa4D50088Dt4l57bT4tmNiCOAnDO7XP
+VVkjogqrMiEJg3Irn6lDcI685CwffHRL5282EfdNFO/w8rCO2DBltj7/attOocsu
+BharyiTzPpQhzwXFg7or6M2T7fofOl2qZ5sLwMGJOv1LPoPH2RWu5yq/67bj9eH2
+mGb65x/aoQm73bqKHSzoOlQywlZ2HROVadxiapC66nW65ROdFIYnhruU9t2j
 -----END CERTIFICATE-----
-subject=/C=JP/ST=Kyoto/L=Kyoto-shi/O=Hatena Co., Ltd./CN=www.hatena.ne.jp
-issuer=/C=JP/O=Cybertrust Japan Co., Ltd./CN=Cybertrust Japan Public CA G3
+subject=/CN=www.hatena.ne.jp
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Server Temp Key: DH, 1024 bits
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4309 bytes and written 506 bytes
+SSL handshake has read 5488 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : DHE-RSA-AES256-SHA
-    Session-ID: D8E0764B288C01BF4CDB49F835069D340FCA96CB185EAA565D5756E103BA3193
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: DD9837D6DF89801CA24087A946D6D6776B2E0F2F2A908376000DBDD92C3202CC
     Session-ID-ctx: 
-    Master-Key: 890455EF2E93646875E583FB2DC3EC441BABF37263C5A34D7004117D7B50451A3BD998585AD8BE633B9FA43E63C7327D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788383
-    Timeout   : 300 (sec)
+    Master-Key: A3378E6F540309FDCDF4C151C6E7B9A6B09FB722060F1CC9E1A0ED90253806F8BFA45F0962BA83F0F2608AA9D35AECE5
+    TLS session ticket lifetime hint: 43200 (seconds)
+    TLS session ticket:
+    0000 - ab 3e bd 93 cf c0 a0 00-b2 6d 00 67 49 a0 46 1a   .>.......m.gI.F.
+    0010 - 3e 5a 38 4f 13 73 d5 23-54 4e 2a 04 35 31 a5 d7   >Z8O.s.#TN*.51..
+    0020 - 4f 42 42 ee 02 bb 18 a3-69 2c 56 d3 f9 a0 67 3d   OBB.....i,V...g=
+    0030 - e5 b9 2e dd c7 8e 2f e7-55 ae ac 58 8a 72 72 15   ....../.U..X.rr.
+    0040 - 64 9b 3b c0 1f 94 ec 92-fe 3f 73 8c e9 cc c4 c1   d.;......?s.....
+    0050 - 1f ff 65 1e 50 4b c1 d2-51 89 f4 ca 06 a4 da 93   ..e.PK..Q.......
+    0060 - 73 93 6f 6c 52 5f f8 2d-f0 e1 d3 ef e3 21 3e 96   s.olR_.-.....!>.
+    0070 - e0 c1 8a 9a 9c 4b 3b 7c-00 8d 04 22 3d e2 6f 54   .....K;|..."=.oT
+    0080 - 55 52 cc 7b 41 45 fc c1-4c b6 4c 1b c3 4e fe ab   UR.{AE..L.L..N..
+    0090 - 03 40 b8 29 c0 fe 8a 81-01 e3 8e fd bc f8 92 65   .@.)...........e
+    00a0 - bd 20 7f 4d cd 9f 7d 70-67 95 70 0c 3c 61 bd b0   . .M..}pg.p.<a..
+
+    Start Time: 1577475286
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

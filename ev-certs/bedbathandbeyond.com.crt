@@ -1,60 +1,61 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/jurisdictionC=US/jurisdictionST=New York/businessCategory=Private Organization/serialNumber=315602/C=US/postalCode=07083/ST=New Jersey/L=Union/street=650 Liberty Avenue/O=Bed Bath & Beyond Inc./OU=TECHNOLOGY & OPERATIONS/CN=www.bedbathandbeyond.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Extended Validation SHA256 SSL CA
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Extended Validation SHA256 SSL CA
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2008 VeriSign, Inc. - For authorized use only/CN=VeriSign Universal Root Certification Authority
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=New York/serialNumber=315602/C=US/ST=New Jersey/L=Union/O=Bed Bath & Beyond Inc./OU=TECHNOLOGY & OPERATIONS/CN=www.bedbathandbeyond.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIG7zCCBdegAwIBAgIQES2GuHuA4sYnydqWaaAW1zANBgkqhkiG9w0BAQsFADCB
-ijELMAkGA1UEBhMCVVMxHTAbBgNVBAoTFFN5bWFudGVjIENvcnBvcmF0aW9uMR8w
-HQYDVQQLExZTeW1hbnRlYyBUcnVzdCBOZXR3b3JrMTswOQYDVQQDEzJTeW1hbnRl
-YyBDbGFzcyAzIEV4dGVuZGVkIFZhbGlkYXRpb24gU0hBMjU2IFNTTCBDQTAeFw0x
-NjA1MTEwMDAwMDBaFw0xNzA1MTEyMzU5NTlaMIIBJTETMBEGCysGAQQBgjc8AgED
-EwJVUzEZMBcGCysGAQQBgjc8AgECDAhOZXcgWW9yazEdMBsGA1UEDxMUUHJpdmF0
-ZSBPcmdhbml6YXRpb24xDzANBgNVBAUTBjMxNTYwMjELMAkGA1UEBhMCVVMxDjAM
-BgNVBBEMBTA3MDgzMRMwEQYDVQQIDApOZXcgSmVyc2V5MQ4wDAYDVQQHDAVVbmlv
-bjEbMBkGA1UECQwSNjUwIExpYmVydHkgQXZlbnVlMR8wHQYDVQQKDBZCZWQgQmF0
-aCAmIEJleW9uZCBJbmMuMSAwHgYDVQQLDBdURUNITk9MT0dZICYgT1BFUkFUSU9O
-UzEhMB8GA1UEAwwYd3d3LmJlZGJhdGhhbmRiZXlvbmQuY29tMIIBIjANBgkqhkiG
-9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1JxklX6CSE2uX+fgmzeht9fGu0erN803LNFt
-fjavAWT40TkTWa1qyGsUkTlksSe2u/zNIJDoapeIXS/uwNbZUxsXVzY//+21zuYn
-HkJ0kqOTl2U1v5AsXfUf1tU5nvrLhKFqxpbBdR/3sUUZ7uUhQCbO1Z5J+oRVKQ3N
-f7NgFNzSC1qNPrr3+DmVU8nQ+lFZiIJo5BFS+XigGiM++zlPtRClgiRr4bIpBEhH
-4TCWfpEH3g1iYKWJeh7xT4hwNIJQjuASdeKlYSYc2fiKMXTmajKlbibLcI6IX6xi
-HIouDhvkDAyR15n7MsKTs2yIsxewhAGNFrlMqbjjD2REnUO+gwIDAQABo4ICsTCC
-Aq0wUAYDVR0RBEkwR4IYd3d3LmJlZGJhdGhhbmRiZXlvbmQuY29tghd3d3cuYmVk
-YmF0aGFuZGJleW9uZC5jYYISd3d3LmJ1eWJ1eWJhYnkuY29tMAkGA1UdEwQCMAAw
-DgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBv
-BgNVHSAEaDBmMAcGBWeBDAEBMFsGC2CGSAGG+EUBBxcGMEwwIwYIKwYBBQUHAgEW
-F2h0dHBzOi8vZC5zeW1jYi5jb20vY3BzMCUGCCsGAQUFBwICMBkMF2h0dHBzOi8v
-ZC5zeW1jYi5jb20vcnBhMB8GA1UdIwQYMBaAFLJt4+QUD4w8c0KmWpka0xR1tobb
-MCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9zaC5zeW1jYi5jb20vc2guY3JsMFcG
-CCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3NoLnN5bWNkLmNvbTAm
-BggrBgEFBQcwAoYaaHR0cDovL3NoLnN5bWNiLmNvbS9zaC5jcnQwggEFBgorBgEE
-AdZ5AgQCBIH2BIHzAPEAdgDd6x0reg1PpiCLga2BaHB+Lo6dAdVciI09EcTNtuy+
-zAAAAVShu/nvAAAEAwBHMEUCIQD07r1Xasjg+rFSPXmMxbfL+owxH3YdrePIcf6K
-8kcitwIgaItCQUVe7fu2sJJe0OwZSKOLyfgIbgJtG4uuK3yEHXcAdwCkuQmQtBhY
-FIe7E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAVShu/oNAAAEAwBIMEYCIQCnjlSq
-xSZFqQY7tw1lc8dkUJq+1OVY47kbXrsq2q2JMgIhAK5X25IHN69DFbkr13IYuo+E
-cVI4bTpbYIDTZgWzTrmJMA0GCSqGSIb3DQEBCwUAA4IBAQC5hgFUXHTKE+4Os8H2
-2wBfTDru5CI7vMBXph7mOdz+dfTcbwWrRs+5Ec6RHLRRNRvN6+fpDNp8ye6xWviM
-qQfSGh1iikVYrotqk4K4Dvp32+dIrojkk7tP8vpzur0yyZBBT69UDz3y/H3tUZK0
-Sn8K+1VJDXZ6XOmWEJEsxlPC+fbT2VEHAidPQW2GWAsuqkRB2MZlZo8nQI0GhpRb
-ZnlyeMplIXrXc1wfGSUYrW9c+LwYVHh39zeUd2cGG5w0j0bzcu6Lnm8FMhYOU0qM
-59zByLhPEnmYage2wT4QRhzp5Rpnc6FJxldUfYy83aRwSO5TxAxw7g/R7pVd9BN6
-3LWv
+MIIHezCCBmOgAwIBAgIQAYt+DhDzMS6yIoL2RMLA0DANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE5MDQwODAwMDAwMFoXDTIwMDUxMDEy
+MDAwMFowgfgxHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRMwEQYLKwYB
+BAGCNzwCAQMTAlVTMRkwFwYLKwYBBAGCNzwCAQITCE5ldyBZb3JrMQ8wDQYDVQQF
+EwYzMTU2MDIxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpOZXcgSmVyc2V5MQ4wDAYD
+VQQHEwVVbmlvbjEfMB0GA1UECgwWQmVkIEJhdGggJiBCZXlvbmQgSW5jLjEgMB4G
+A1UECwwXVEVDSE5PTE9HWSAmIE9QRVJBVElPTlMxITAfBgNVBAMTGHd3dy5iZWRi
+YXRoYW5kYmV5b25kLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AMBYFy7b8l8w87gNtqRilbtGb8gcr2nt7KwGwALT3REw1YgSZToX71JiL+ftGahK
+pRSm8is5iNhHyRPsXyTGhFAnONPbypy5PHrJrPbDjzu/RRwmo56806q4nsbvxUg2
+ArfMAKUD//HLszkbjlxHCyy+EqcHwCyzyVWGSmgzKletmELWb4B6vQRFbAlcK7te
+o4sGbAsvo60DIAAWfJ7C5d9Pa9dlNuhaKbuPA0mr3NhRk2QpHzRh7Jan0BU2ituV
+xYS+L+dfE91uGxyx//2kmjF5GWVQQEqqvL/GqiG6kfFop4+ZnHKcIQ60/1VS6sRI
+AgSySEask55zs/4d/q9ulP0CAwEAAaOCA4EwggN9MB8GA1UdIwQYMBaAFD3TUKXW
+oK3u80pgCmXTIdT4+NYPMB0GA1UdDgQWBBRskdH7kE+qlLa115RPles65oZknTCB
+qAYDVR0RBIGgMIGdghNiZWRiYXRoYW5kYmV5b25kLmNhghRiZWRiYXRoYW5kYmV5
+b25kLmNvbYIZYmxvZy5iZWRiYXRoYW5kYmV5b25kLmNvbYIOYnV5YnV5YmFieS5j
+b22CF3d3dy5iZWRiYXRoYW5kYmV5b25kLmNhghh3d3cuYmVkYmF0aGFuZGJleW9u
+ZC5jb22CEnd3dy5idXlidXliYWJ5LmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0dHA6
+Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5jcmwwNKAyoDCG
+Lmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5jcmww
+SwYDVR0gBEQwQjA3BglghkgBhv1sAgEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93
+d3cuZGlnaWNlcnQuY29tL0NQUzAHBgVngQwBATCBiAYIKwYBBQUHAQEEfDB6MCQG
+CCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUgYIKwYBBQUHMAKG
+Rmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJFeHRlbmRl
+ZFZhbGlkYXRpb25TZXJ2ZXJDQS5jcnQwCQYDVR0TBAIwADCCAQUGCisGAQQB1nkC
+BAIEgfYEgfMA8QB2AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAAB
+af6cENwAAAQDAEcwRQIhAKFIF1TNYBIRQpZLMzb2dY7DGYYVBz2A8lYheqfE6xQS
+AiBy/1DhMg2JPzCQDLQIDk5j37J4PCiHGJjH3QUBu9SkpgB3AFYUBpov18Ls0/Xh
+vUSyPsdGdrm8mRFcwO+UmFXWidDdAAABaf6cEUQAAAQDAEgwRgIhAJ2mZnFFXoRB
+NTN7OeSV29xzTYW93X0kfyZWzb1wBcnnAiEAnX/xQxGkSyTCDCx6V/67cMFJvclS
+Du7oBkUM+pweWq4wDQYJKoZIhvcNAQELBQADggEBABKzP5QSFDwTzQToOmOj1jjJ
+4HvAe0/4SZYmcpYmi0iyOw/ykrWlF0VshJy3hOfvNAeIAiSNfUISnUgtVioIlPr2
+pchjphv8fbrREWLP+MtU9kHBTHsGsMswN9xft+TRnZlxRcxbwYetwhY5o58qH1iN
+kqFTl7gaXtJzuNgXqzB6h9TqdqV2VfiZsWZDxQUppltxi6i7aaaOIorATd9RvnJ3
+gEUU+2i8+xEq/Wq1gIiPur0eEy+uClL9jFSHWQVQoSRz+qvk7Xbsy4GEBum0bEhr
+8Oo51pyIjCJhAYUUNPXJoe5Ivn7xoL8II+ux/96IdNPjrY+H0lbHzqaA+1GqnL8=
 -----END CERTIFICATE-----
-subject=/jurisdictionC=US/jurisdictionST=New York/businessCategory=Private Organization/serialNumber=315602/C=US/postalCode=07083/ST=New Jersey/L=Union/street=650 Liberty Avenue/O=Bed Bath & Beyond Inc./OU=TECHNOLOGY & OPERATIONS/CN=www.bedbathandbeyond.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Extended Validation SHA256 SSL CA
+subject=/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=New York/serialNumber=315602/C=US/ST=New Jersey/L=Union/O=Bed Bath & Beyond Inc./OU=TECHNOLOGY & OPERATIONS/CN=www.bedbathandbeyond.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3793 bytes and written 434 bytes
+SSL handshake has read 3786 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -65,27 +66,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: CC0E7AC984C18C7CCB5405246FD6A9CCD991EA08AB55668EAD711FDD880EA033
+    Session-ID: 89A6E8C4C5789DD9E46EC0E7A34BAA64AD14E557E21CCC707FF0B97184EC330F
     Session-ID-ctx: 
-    Master-Key: 077C0D6F3D6D203365E1A6B7C3E4375EE5DF560921C0FFD6B156E8FAEB18F83FF79F834633D129FD673166FD288DC897
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 6491278498ECE0ECFDAEF72D693AC17D538E8A960EC8C5D08AB0C9931CA234184965BF1367CBCD0BC3D226FDC09597C8
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 67 b3 b3 7b df 05 a4 76-dc ee 40 a6 ed e9 e6 e5   g..{...v..@.....
-    0010 - a8 f6 af 4f 40 50 d1 bd-ba 19 73 6f b8 62 4d 97   ...O@P....so.bM.
-    0020 - 16 0a 9f e0 9b 18 34 4e-71 aa 29 d2 8f ce a2 c7   ......4Nq.).....
-    0030 - de 16 bf 68 10 3c c1 03-fb 32 2c c6 7f d2 e9 5f   ...h.<...2,...._
-    0040 - 1a 1e ee ad b0 da d1 43-73 b7 74 34 78 1e e9 ce   .......Cs.t4x...
-    0050 - c9 4f ad 47 8a 42 09 1c-bf 5a 48 b6 c4 16 ad e5   .O.G.B...ZH.....
-    0060 - c2 d9 5f 33 0d 6e 4e 48-67 c1 33 9a 3e c5 c9 7b   .._3.nNHg.3.>..{
-    0070 - 43 51 6d 3f a8 a0 c1 4f-f6 60 e2 8c 99 64 a6 d6   CQm?...O.`...d..
-    0080 - 2b 16 5f 09 91 91 3a 32-22 00 a6 0d 74 28 84 3c   +._...:2"...t(.<
-    0090 - 7a e7 d9 f5 bc 91 6d 18-91 ae a3 43 c6 43 f4 b3   z.....m....C.C..
+    0000 - 00 00 27 a3 df 47 65 86-14 4f a7 22 d3 4d 8b 9e   ..'..Ge..O.".M..
+    0010 - 27 df 40 29 c6 c8 91 02-c5 60 41 91 9a e2 79 59   '.@).....`A...yY
+    0020 - 7e e7 62 6e d5 f5 2b 10-6c b7 72 3f 06 c8 87 bf   ~.bn..+.l.r?....
+    0030 - 0c 72 e4 bc 2d e8 3d f6-44 21 5a 72 79 58 82 40   .r..-.=.D!ZryX.@
+    0040 - e8 92 24 ee 8d ed df 1a-84 9c 12 02 b0 39 f6 3f   ..$..........9.?
+    0050 - 9e 11 0f 13 da 47 48 62-40 0d 29 eb b5 79 d1 1e   .....GHb@.)..y..
+    0060 - 3d 40 ab 48 92 2a d5 96-55 fd dd 28 40 e2 25 a8   =@.H.*..U..(@.%.
+    0070 - 35 18 4c 43 2b 45 d1 df-3d 22 7d 1c ba da 7e 35   5.LC+E..="}...~5
+    0080 - 7b 10 a9 6d 0b 44 e5 35-b0 4e f5 89 22 c4 f5 e9   {..m.D.5.N.."...
+    0090 - f9 fc ce ea 75 ab 38 c1-35 8b 29 1f 51 44 6c 65   ....u.8.5.).QDle
 
-    Start Time: 1472789271
-    Timeout   : 300 (sec)
+    Start Time: 1577475629
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

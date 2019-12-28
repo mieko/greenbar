@@ -1,47 +1,61 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/OU=GT91339487/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.1fichier.com
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G4
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G4
-   i:/C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+ 0 s:/OU=Domain Control Validated/CN=*.1fichier.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=AlphaSSL CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=AlphaSSL CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIErDCCA5SgAwIBAgICCRAwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCVVMx
-FjAUBgNVBAoTDUdlb1RydXN0IEluYy4xIDAeBgNVBAMTF1JhcGlkU1NMIFNIQTI1
-NiBDQSAtIEc0MB4XDTE1MDgxNzAxNDEyOVoXDTE3MDUyNTEwMjI0NlowgZIxEzAR
-BgNVBAsTCkdUOTEzMzk0ODcxMTAvBgNVBAsTKFNlZSB3d3cucmFwaWRzc2wuY29t
-L3Jlc291cmNlcy9jcHMgKGMpMTUxLzAtBgNVBAsTJkRvbWFpbiBDb250cm9sIFZh
-bGlkYXRlZCAtIFJhcGlkU1NMKFIpMRcwFQYDVQQDDA4qLjFmaWNoaWVyLmNvbTCC
-ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALFaL2qh+Cygjikx7ZKd8o3O
-ZS8dgn8xKFFZElKLjEMmlvBCwOWer+2QKv3mya2U5/P1o6Wb7aMqAlAlpAmwSGee
-DWM9rk4ptnfp/RUfqYxl8MjSz1WbthhR9gvpNlKxKZp5j+RNjLcdXMtIlOlAvr2T
-dY4kH3tds+VrVQiJStQOCXqNss4oJWLXEErcKCqPr07cgDMm8GRurm3FLOek3QN5
-fI/Jby1uGCfw+KfgRyRGi3YmktmYBYEOJkemjmh5jy05MyNccQ6dQrSXS6BTAJHB
-8EsPOCABXpQ8CfO/O/qT1ns5dnu8kekgNhioPPYth/oDFYVVaSApgrl9LQfMxKkC
-AwEAAaOCAVQwggFQMB8GA1UdIwQYMBaAFPO1VgzECbC0zx+q+d0jVvB36KH5MFcG
-CCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2d6LnN5bWNkLmNvbTAm
-BggrBgEFBQcwAoYaaHR0cDovL2d6LnN5bWNiLmNvbS9nei5jcnQwDgYDVR0PAQH/
-BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAnBgNVHREEIDAe
-gg4qLjFmaWNoaWVyLmNvbYIMMWZpY2hpZXIuY29tMCsGA1UdHwQkMCIwIKAeoByG
-Gmh0dHA6Ly9nei5zeW1jYi5jb20vZ3ouY3JsMAwGA1UdEwEB/wQCMAAwQQYDVR0g
-BDowODA2BgZngQwBAgEwLDAqBggrBgEFBQcCARYeaHR0cHM6Ly93d3cucmFwaWRz
-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
+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
+JCrGMQ==
 -----END CERTIFICATE-----
-subject=/OU=GT91339487/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.1fichier.com
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G4
+subject=/OU=Domain Control Validated/CN=*.1fichier.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=AlphaSSL CA - SHA256 - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3072 bytes and written 434 bytes
+SSL handshake has read 3621 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -52,28 +66,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: B013CBAC90CCAC2BA3607B1BB1166A9F3BFDB1CA276E4989E763B71F52676375
+    Session-ID: 5FA0EBAFC9F7262C8FC9295166AC4D0658B0897399E23D173E0893060D3E29C4
     Session-ID-ctx: 
-    Master-Key: CF60923C6122B7C1A5D5DBF021673125A20E2130C4C4920A8C27C80B3177061B014D81839528C87318DCCDF04B8B5A1E
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 9609F54E7296D0DCDFECFEBE1AC7011B4649D6C84D829A93C4B461351DF15BBCBB13A91D36A2594F798AA563570CFDDB
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - d3 4e 36 5a 54 ab e2 dc-48 cd c6 4e 8d 77 79 92   .N6ZT...H..N.wy.
-    0010 - c1 3c 9e 52 0d 8e 8d f6-9d 4b 5e c7 69 3a a3 32   .<.R.....K^.i:.2
-    0020 - 0f e5 56 38 fe 67 17 b4-d1 95 aa fb d9 24 b1 a4   ..V8.g.......$..
-    0030 - 2f 1c 3b cc 89 fa 59 b1-d3 5e d6 7c 13 5b 2e b8   /.;...Y..^.|.[..
-    0040 - 59 ba f6 60 d3 4b a0 8f-99 f0 4a 1a c1 03 e7 fa   Y..`.K....J.....
-    0050 - af 80 42 38 31 3d 4e 83-70 1e f0 9a bd b7 d4 87   ..B81=N.p.......
-    0060 - c7 9e 38 62 74 90 96 48-82 af 69 80 82 86 bd f8   ..8bt..H..i.....
-    0070 - 86 17 bc 70 de b5 30 ec-ba f3 65 dc 66 4b 12 07   ...p..0...e.fK..
-    0080 - 24 5b f5 32 a6 16 04 d0-ab 37 dc e2 69 a2 ad c2   $[.2.....7..i...
-    0090 - 10 a0 30 e2 a9 fb a4 42-f7 5c e6 43 f8 ad 7d e4   ..0....B.\.C..}.
-    00a0 - eb 7c 79 58 89 83 65 c9-c0 da 85 7e 12 aa 2a f7   .|yX..e....~..*.
+    0000 - 1a 46 2b 8d 79 be 3d 6a-82 62 b6 0a ab f2 26 12   .F+.y.=j.b....&.
+    0010 - ad 56 15 6f b0 81 0d 7b-9b 00 da 5b a2 f8 57 06   .V.o...{...[..W.
+    0020 - c5 0b 5d da 2e 99 ff 8d-04 24 89 d7 20 ad d6 36   ..]......$.. ..6
+    0030 - 12 85 53 33 20 21 47 13-61 35 95 35 f3 d6 71 69   ..S3 !G.a5.5..qi
+    0040 - ed 29 e1 da 6a 39 e8 d9-45 68 c6 36 98 31 f9 9a   .)..j9..Eh.6.1..
+    0050 - 23 e4 b3 df bb b0 77 c6-93 d1 64 46 ee 9d 40 5a   #.....w...dF..@Z
+    0060 - fa 9c 0c 5c f2 53 87 fb-e4 26 98 7e f7 23 f3 1c   ...\.S...&.~.#..
+    0070 - fe 4a e5 70 b7 d3 1b 49-fa ae 9d 29 0c 28 40 ac   .J.p...I...).(@.
+    0080 - 81 cc 35 7e f8 26 4a 6a-ae 6e d8 d3 c2 e6 67 f4   ..5~.&Jj.n....g.
+    0090 - e8 a6 9b 7c 4c 3e 8d 09-43 bf 56 a5 44 32 fa 21   ...|L>..C.V.D2.!
+    00a0 - 06 98 45 9d 49 84 fd 39-58 cd 63 c0 b0 0f d0 44   ..E.I..9X.c....D
 
-    Start Time: 1472789812
-    Timeout   : 300 (sec)
+    Start Time: 1577475492
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

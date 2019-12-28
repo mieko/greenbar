@@ -1,49 +1,54 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=PL/ST=Malopolskie/L=Krakow/O=Grupa Onet.pl SA/OU=IT Operations/CN=*.onet.pl
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=PL/ST=MAZOWIECKIE/L=WARSZAWA/O=Ringier Axel Springer Polska Sp z o.o./OU=IT Operations/CN=*.onet.pl
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE7zCCA9egAwIBAgIQJUka9XMvKyTGRlCVtXa0vDANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMjEwMDAwMDAwWhcNMTcwMjA3MjM1
-OTU5WjB7MQswCQYDVQQGEwJQTDEUMBIGA1UECBMLTWFsb3BvbHNraWUxDzANBgNV
-BAcUBktyYWtvdzEZMBcGA1UEChQQR3J1cGEgT25ldC5wbCBTQTEWMBQGA1UECxQN
-SVQgT3BlcmF0aW9uczESMBAGA1UEAxQJKi5vbmV0LnBsMIIBIjANBgkqhkiG9w0B
-AQEFAAOCAQ8AMIIBCgKCAQEAvP9M/67ewpGi8dk4WIc5vgp9It/LiE/p9gRcHWaq
-ETTv/yAMxzLeiVhwy21UQAo3o5x3SMgfF5GOg+/gOiKbRkL8WEy26Hkzuedj7H8V
-qxhfhhVLcJI2Uqhb2fzBsPtjm95sD1K/B86A3ouEgt6UrQb5+s9u7tW4kmXXF48N
-yuxR8JXu2oDeBin4MW/LYBsfoCztNLIZ2ADErU9KM0VCJskkvwi1MPz+X+AM3qWK
-v4mI2rCL+a8Nlp3i9Y95qg5UVonUmBWrx/sdaNhbtmkG5+VUIbsYzrXYSr+0ReLu
-nu68XM71qRD5QYI20Jokvk6gs95hHfxhil2agnMRTIlzqQIDAQABo4IBpDCCAaAw
-HQYDVR0RBBYwFIIJKi5vbmV0LnBsggdvbmV0LnBsMAkGA1UdEwQCMAAwDgYDVR0P
-AQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9nbi5zeW1jYi5jb20v
-Z24uY3JsMIGdBgNVHSAEgZUwgZIwgY8GBmeBDAECAjCBhDA/BggrBgEFBQcCARYz
-aHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xl
-Z2FsMEEGCCsGAQUFBwICMDUMM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNv
-dXJjZXMvcmVwb3NpdG9yeS9sZWdhbDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
-BQUHAwIwHwYDVR0jBBgwFoAU0m/3lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUH
-AQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ24uc3ltY2QuY29tMCYGCCsGAQUF
-BzAChhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNydDANBgkqhkiG9w0BAQsFAAOC
-AQEAKJSE8zdH+P7/YlsHohyTL2pyKCWnEP0qJoY2Lluioup3wHCXvOHHfLpec0l6
-fsEatizspz6RmR2xuVQOdkdZ/2qunl6M1PtFFYHzeHtMFzAt33fpjG4o3gLkAQMn
-rP8zCCrK52ekA58hpKn3nAqAV30hINibq7TIUTdxWZzkLCihlX6cj5B3qYBGZfyn
-yDvN3ztE9lqvFDM2JFVFWyDyXLXGPzDmexcSiLsE2ge86yOlfQCrc7szcs7RADFq
-JeDdiDzEyAj9RUOhdO+RGNg82MqYKGL1wGWlg4V9Q8totBpGQJU+9K6SI00qz04y
-7eH/nUqC/4DcpOO1SWnO8Sf73Q==
+MIIGKDCCBRCgAwIBAgIQDfqLsnraXiMxUiHLCdfEOzANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAe
+Fw0xOTA0MTgwMDAwMDBaFw0yMDA2MTYxMjAwMDBaMIGTMQswCQYDVQQGEwJQTDEU
+MBIGA1UECBMLTUFaT1dJRUNLSUUxETAPBgNVBAcTCFdBUlNaQVdBMS8wLQYDVQQK
+EyZSaW5naWVyIEF4ZWwgU3ByaW5nZXIgUG9sc2thIFNwIHogby5vLjEWMBQGA1UE
+CxMNSVQgT3BlcmF0aW9uczESMBAGA1UEAwwJKi5vbmV0LnBsMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyG38BPyg+QyADurKOa8LnGqe8s9xurM9eoyJ
+/05uZrcX7wxE6MtZKJedEHSp5YPFw3iCc0n3YqgMl6SKqV0DN/SeKpBRFX7qlVPT
+lACFIMiCu+/Bk8drqj/9mRYQrnnSvre+Th9IB+L1+lAKJ06cG8UR6QVZurQ7mmWa
+GMDZmgH3mvgwpkLZdsrb4ZcEPT4U9PeTmS+F3YS92prd1NanXcaGwINsCfeCgZet
+B6mnFz5fhCzRYhRui2idCRpAZVgGPNPR26++li+iWjlEw12fclQ/AJAChj7gpAXK
+TZJ+cHHI9Sl2kkHmvPQuElY95GqHnvKIogbZPDXctGvfySAzYQIDAQABo4ICqjCC
+AqYwHwYDVR0jBBgwFoAUkFj/sJx1qFFUd7Ht8qNDFjiebMUwHQYDVR0OBBYEFMX9
+R5Jt++/ZvT4sneQEEa1S1Rc2MB0GA1UdEQQWMBSCCSoub25ldC5wbIIHb25ldC5w
+bDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jZHAuZ2VvdHJ1c3QuY29tL0dlb1Ry
+dXN0UlNBQ0EyMDE4LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsG
+AQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB1
+BggrBgEFBQcBAQRpMGcwJgYIKwYBBQUHMAGGGmh0dHA6Ly9zdGF0dXMuZ2VvdHJ1
+c3QuY29tMD0GCCsGAQUFBzAChjFodHRwOi8vY2FjZXJ0cy5nZW90cnVzdC5jb20v
+R2VvVHJ1c3RSU0FDQTIwMTguY3J0MAkGA1UdEwQCMAAwggEEBgorBgEEAdZ5AgQC
+BIH1BIHyAPAAdgDuS723dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9ywAAAWow
+u+byAAAEAwBHMEUCIQC6gqzTYCVR4AMreOiRfB0ITbdMXHwFHyntEFait+Gz5QIg
+cN5fHtOVUeA1M1EoSIP+k/t/dYAa+KZ1AUXs6IfAtDIAdgBep3P531bA57U2SH3Q
+SeAyepGaDIShEhKEGHWWgXFFWAAAAWowu+aXAAAEAwBHMEUCIF82Oz/MU7UHjLpN
+TRT03yDtdyj6qv2tulMAGmq+AQE1AiEA1vhDKB/jN+0zOtsZis9oayLLpNzBnB41
+ZRSAw6yA0NkwDQYJKoZIhvcNAQELBQADggEBAAfr4/OQD8N5QzGpbxD+XPydkHl1
+VzCj91ASOLaNvOuBhVx++C4D0AB5o7FCiQFM03rQhZQmgeqN0tqJZCGiZO3KQ6R7
+gsfORWhgxzlhaag17BFMXa31m14T5HHT1zNAKTfuh4pyH9+E1OzGhp22nv4H3pUh
+W5w2wJUAU8p7adndZnAXhhkI4JnVn5AtOZAKSjlm6F+PlH5PE2tBKT5VtSMr4z+t
+HgHGrSFAuEWipTlgjHUcSml0ld5P5vS/MBNJhXqSQr5kFpelLcOT5E6e4Y5a9Pgs
+bn/h2re/qMoSNsfNHXsQDqr6aa3bYjxO3rvaHZpty9E/dHdOaRlufub8kEc=
 -----END CERTIFICATE-----
-subject=/C=PL/ST=Malopolskie/L=Krakow/O=Grupa Onet.pl SA/OU=IT Operations/CN=*.onet.pl
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/C=PL/ST=MAZOWIECKIE/L=WARSZAWA/O=Ringier Axel Springer Polska Sp z o.o./OU=IT Operations/CN=*.onet.pl
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3052 bytes and written 434 bytes
+SSL handshake has read 3420 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -54,28 +59,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 7EF738FDA699C4ADE1755575A2B1F2C0DD86AECD66F4D0A1137566F6CE975AD5
+    Session-ID: 90F97AA168AA7C91F0D54374D0E17C503810D7CC4DC48D81B6529438A38EAD91
     Session-ID-ctx: 
-    Master-Key: E206AFE759BE33693CD899E0079B3269DB6D3F047557EE1343EA3E6C4584C5168053D32579B964C58EF22C9A7CC74765
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: A37032E5E03D17657941ADEDA73F6CE9B90762DCE5ADDA5D0175B55B0727DDBA3F58E2A7ECEB660113B3A63ECD55B411
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - 4d 76 04 18 20 76 46 8a-d8 1e 6a ea c8 43 46 80   Mv.. vF...j..CF.
-    0010 - 1c c6 e8 5e a8 c7 40 6b-ff 8e 02 cd be 43 e3 29   ...^..@k.....C.)
-    0020 - 72 65 ba ac cc 81 e4 d2-73 5b 9f 7a 6b 25 d4 fb   re......s[.zk%..
-    0030 - 0c 2a eb 90 ba de 48 7b-22 55 b9 1e 93 8c d4 c3   .*....H{"U......
-    0040 - ec 6b 07 8c 96 72 8e d2-d7 ca f8 03 22 ef 55 83   .k...r......".U.
-    0050 - 8c 10 d8 97 b8 8d 37 43-49 5c 52 c0 d0 ce b9 f0   ......7CI\R.....
-    0060 - 50 6e ac 69 8c 46 7a 0e-1b c7 ca 04 5c 2b ba 61   Pn.i.Fz.....\+.a
-    0070 - 88 3e 0c 01 14 84 f1 62-52 65 42 78 64 e2 36 f3   .>.....bReBxd.6.
-    0080 - d6 8f 85 62 3d 31 c2 b5-33 47 76 a5 f4 a5 59 f3   ...b=1..3Gv...Y.
-    0090 - e4 25 8e 7e 97 f8 df a3-b0 f5 57 34 39 30 2f 4e   .%.~......W490/N
-    00a0 - 73 e3 83 1d d4 66 3d 1f-14 b5 99 19 9a 89 3d 48   s....f=.......=H
+    0000 - 3f a9 37 bd d8 cb e3 14-72 ae 19 4b ca ab e1 17   ?.7.....r..K....
+    0010 - e4 94 8f 44 bb 1e 92 ad-ea f2 f6 c9 df b4 20 71   ...D.......... q
+    0020 - 4f f6 59 3c 95 6d 0a e7-a7 dc e4 00 79 78 1d 84   O.Y<.m......yx..
+    0030 - c4 f2 b7 3b b2 0f 58 b2-7c c0 cc 34 b2 23 62 af   ...;..X.|..4.#b.
+    0040 - d7 8f 88 58 67 1f 0e 17-68 18 07 08 96 09 cf 60   ...Xg...h......`
+    0050 - 65 2b 9b ff 60 93 de 92-a8 c3 f8 26 7c 22 e2 e2   e+..`......&|"..
+    0060 - a0 e5 1e c8 ed 89 9a 4b-8b 7f 35 f2 1d f3 2b 40   .......K..5...+@
+    0070 - 8b 9d 26 42 24 0e 10 a7-d3 cf 79 d6 e5 bf 32 9c   ..&B$.....y...2.
+    0080 - 08 1f ec 09 42 63 63 3e-99 df 70 43 53 88 84 ef   ....Bcc>..pCS...
+    0090 - d7 b7 43 ac 68 58 f2 4d-41 9a 4a 3f 18 61 da 15   ..C.hX.MA.J?.a..
+    00a0 - f8 a9 5e 5a e8 a0 9c ea-bb 8c 32 7e 3e 89 bf 18   ..^Z......2~>...
 
-    Start Time: 1472788095
-    Timeout   : 300 (sec)
+    Start Time: 1577475135
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

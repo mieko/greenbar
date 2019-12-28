@@ -1,57 +1,65 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=RU/postalCode=127015/ST=Moscow/L=Moscow/street=B. Novodmitrovskaya, d. 23, str. 5/O=Ivi.ru/OU=IT/OU=PremiumSSL Wildcard/CN=*.ivi.ru
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 0 s:/C=RU/postalCode=127015/ST=Moscow/street=4 kab. 408/street=B. Novodmitrovskaya, d. 23, str. 5/O=Ivi.ru/OU=IT/OU=PremiumSSL Wildcard/CN=*.ivi.ru
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
    i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFujCCBKKgAwIBAgIQX6MC/JlPZYjakGUHhG6bqTANBgkqhkiG9w0BAQsFADCB
-ljELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
-A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxPDA6BgNV
-BAMTM0NPTU9ETyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
-cnZlciBDQTAeFw0xNDEyMjMwMDAwMDBaFw0xOTEyMjIyMzU5NTlaMIG8MQswCQYD
-VQQGEwJSVTEPMA0GA1UEERMGMTI3MDE1MQ8wDQYDVQQIEwZNb3Njb3cxDzANBgNV
-BAcTBk1vc2NvdzErMCkGA1UECRMiQi4gTm92b2RtaXRyb3Zza2F5YSwgZC4gMjMs
-IHN0ci4gNTEPMA0GA1UEChMGSXZpLnJ1MQswCQYDVQQLEwJJVDEcMBoGA1UECxMT
-UHJlbWl1bVNTTCBXaWxkY2FyZDERMA8GA1UEAxQIKi5pdmkucnUwggEiMA0GCSqG
-SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCbDStzWM9oNu2uQgpMvSg85ZA+iCmomRgK
-YHCeakBQes9UqpFFGocppRdAyZRtUBnafbUKBBURZKmAfrRZQ067Rc3EAqL3ExZf
-IgLBMNIKXijqLzZiuFdU+6MULOfS6CHIotMm3IL2kPI30ElBtVKMCnIGryt/uQdG
-bgDad8yhvXqpSbIgTdp8ETmXZ90Flk7AWAsQqHda+shogNImWfjaWunGKDD2LlVL
-3C9AYQb18QUnNaySEfdRv8h/y+x1IXIccqjIEiW1qrPpXVAiWjwrwnFLZFnzImVB
-CC1HPoqL/Dhjx0oUuPYdqlqDCwpAGobwfvM5aYHed5XIQ+MHCH/xAgMBAAGjggHa
-MIIB1jAfBgNVHSMEGDAWgBSa8yvaz61Pti+7KkhIKhK3G0LBJDAdBgNVHQ4EFgQU
-L5A9RhdfZ5lfAwiIunl2VlyVA58wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
-MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMFAGA1UdIARJMEcwOwYM
-KwYBBAGyMQECAQMEMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9k
-by5jb20vQ1BTMAgGBmeBDAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3Js
-LmNvbW9kb2NhLmNvbS9DT01PRE9SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2Vj
-dXJlU2VydmVyQ0EuY3JsMIGLBggrBgEFBQcBAQR/MH0wVQYIKwYBBQUHMAKGSWh0
-dHA6Ly9jcnQuY29tb2RvY2EuY29tL0NPTU9ET1JTQU9yZ2FuaXphdGlvblZhbGlk
-YXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw
-LmNvbW9kb2NhLmNvbTAbBgNVHREEFDASgggqLml2aS5ydYIGaXZpLnJ1MA0GCSqG
-SIb3DQEBCwUAA4IBAQBiyfpJey7+eRpt2Lyxm2LhU4LTor/LqcOlYUAaJT9tyer6
-a0ySCqPwgM/PEVUdDxio4pTPwgeC3KQeTWpqeP6NYM85OAziP6kpXGXdbtLiCk9m
-hNK+Y2WP5mueniD3NLKYGQ3knmYvbPFildDRgGfRjtgGDex7X+6DywAY00OqrBEO
-75HQrHp7PXxnAtrTT3xNh7ZVu0FXHprhvLILfhjoHyzlj0S36ig9F715Ir/ZCqSX
-ZCdZxMj1CxrMbWnRe5VHeeQr8OII/6iNkCI0X//ZkmMO4AOFAVpzV2B3w3nynKrC
-KjV1/ncVgvgg19WP6iY0hqelhU/2UNmuVuq7YV2m
+MIIHOTCCBiGgAwIBAgIQI3evsHo3Cvb+wabl8N6d1jANBgkqhkiG9w0BAQsFADCB
+lTELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMT0wOwYDVQQD
+EzRTZWN0aWdvIFJTQSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTZWN1cmUgU2Vy
+dmVyIENBMB4XDTE5MTAzMDAwMDAwMFoXDTIxMTIyOTIzNTk1OVowgcAxCzAJBgNV
+BAYTAlJVMQ8wDQYDVQQREwYxMjcwMTUxDzANBgNVBAgTBk1vc2NvdzETMBEGA1UE
+CRMKNCBrYWIuIDQwODErMCkGA1UECRMiQi4gTm92b2RtaXRyb3Zza2F5YSwgZC4g
+MjMsIHN0ci4gNTEPMA0GA1UEChMGSXZpLnJ1MQswCQYDVQQLEwJJVDEcMBoGA1UE
+CxMTUHJlbWl1bVNTTCBXaWxkY2FyZDERMA8GA1UEAwwIKi5pdmkucnUwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDFassKpphEl+TT24zrid1/0WMRdfBN
+B/DMYpE7BRE7X0Y1YEABa87gkaLYH5zUVI77AFf3pWXnK5URuucBUmpCBZxsQxDD
+1z8zoQwz0KgKCif22cDheIbudI3DCiZHZK/TwTEtnvFPICKYgeKeBUyq9RW3Eyw4
+ekLR0yIYB2K/MuakDUW5v7cPU0Q2pxBOKA/oN5MClmqlHUU9BIA/SDzbrEm6QGTG
+b5rgWEpyq7UxQuk6LYqB9eagb4SuvhbT6a339s8OfVwuhtZR6GornP1a613x0ww3
+nyzoRNGd8SlafJSpVOClJJO2lqIsSyISI9fn3PV0/TivuBw17CbKq+8nAgMBAAGj
+ggNWMIIDUjAfBgNVHSMEGDAWgBQX2dYlJ2f5McJJQ9kwNkSMbKlP6zAdBgNVHQ4E
+FgQUQQvT+HTv48V3WSFOeLnBLl7M0iIwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB
+/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEoGA1UdIARDMEEw
+NQYMKwYBBAGyMQECAQMEMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAgGBmeBDAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLnNl
+Y3RpZ28uY29tL1NlY3RpZ29SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJl
+U2VydmVyQ0EuY3JsMIGKBggrBgEFBQcBAQR+MHwwVQYIKwYBBQUHMAKGSWh0dHA6
+Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JTQU9yZ2FuaXphdGlvblZhbGlkYXRp
+b25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNl
+Y3RpZ28uY29tMBsGA1UdEQQUMBKCCCouaXZpLnJ1ggZpdmkucnUwggF/BgorBgEE
+AdZ5AgQCBIIBbwSCAWsBaQB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+
+IvDXAAABbhy2hiwAAAQDAEcwRQIhALXZQrYMW67SwA0iq4gbZ/WBOTG9T/hR0pYa
+fuJRqn2BAiA03HPvDJr7V2AY49I8YtBSP5fLdhSKZEqzBwgDrUjR8QB3AESUZS6w
+7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABbhy2hiEAAAQDAEgwRgIhAMgU
+lWjHhROa0QaXWSpSippQKVnn5qdVqucuSlz4pVeQAiEA3uG5CfqwtdZ8b+Y0THr/
+AE7LQjpTn7H0TXJgyE2XofAAdgBVgdTCFpA2AUrqC5tXPFPwwOQ4eHAlCBcvo6od
+BxPTDAAAAW4ctoXwAAAEAwBHMEUCIQCipTdOB35cZbtFEZ59VChikbpIjG8ynvVb
+PPgJpU5jAwIgVAQX48dOzZ/fzn5N9MYkUdtqNbdrSoskN9Yj7lnUhz8wDQYJKoZI
+hvcNAQELBQADggEBAF/myXB/e8RGyUzBGnhr6/gO3Kw0YyQ83ma1r0gnFz4et03q
+X51GnpWAYzFCMYLI6qQx+jM1otLWucCdKNecInPKjnTVWMfgrh7eiKGroJTUVOad
+nKWsyjLRvPsY2MpEEV1KDC+bd2YEy6+00EQV4A5uUtTbry6adB1OOuUglTbAmSN2
+0G4UVOWDSPy+2paJIHfp2zjSo/lyO6oTUoDKCgVZMyZrq0AfRSrHzYTkCni7/w1g
+pz1StY0kjsqYR1S5rFY7FPZRXPEdfYXEk0goOVi1OuxbPj93xumoDUzTWLZAFTpH
+Mk0ioF7fIo9trCr3oe+kN1gs2tn/kikHN4sDM9k=
 -----END CERTIFICATE-----
-subject=/C=RU/postalCode=127015/ST=Moscow/L=Moscow/street=B. Novodmitrovskaya, d. 23, str. 5/O=Ivi.ru/OU=IT/OU=PremiumSSL Wildcard/CN=*.ivi.ru
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
+subject=/C=RU/postalCode=127015/ST=Moscow/street=4 kab. 408/street=B. Novodmitrovskaya, d. 23, str. 5/O=Ivi.ru/OU=IT/OU=PremiumSSL Wildcard/CN=*.ivi.ru
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Organization Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5084 bytes and written 434 bytes
+SSL handshake has read 6236 bytes and written 514 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -59,28 +67,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 91C3A49B598BA656F92B0697EEA20887F7AB2152E94EDF7C4D871BB9C472ECD6
+    Cipher    : AES128-GCM-SHA256
+    Session-ID: D8B695ACC2C758256F5F8A00036A8433B66BF019E8C42662F289F32528C326C7
     Session-ID-ctx: 
-    Master-Key: 06A08B586D4BB1290CDA88BA27F2DA3532A05BED9A1C9DA6C858BB1B60FF12B2E1BEC7435CCAB6CD84EEEA0521852905
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 600 (seconds)
+    Master-Key: A8C1D7177C9E71EA81DB7EB2C7C0433B83DCBAAFDD7D2A1173BDA46DCB6A19FB3AEA9A485E72E695956F6232581C61F3
+    TLS session ticket lifetime hint: 100800 (seconds)
     TLS session ticket:
-    0000 - a9 96 62 45 a6 1b 65 f2-5d 15 75 2c 79 ab af 9e   ..bE..e.].u,y...
-    0010 - 7b 78 4f 53 df 29 51 02-df 99 20 ad 4f 2d 61 19   {xOS.)Q... .O-a.
-    0020 - ab 5e 9e c8 1c 4e b8 54-80 5b 66 26 5d ec fc 22   .^...N.T.[f&].."
-    0030 - 57 d0 6c 86 92 16 ab 02-17 14 ce f4 1d 51 09 19   W.l..........Q..
-    0040 - 03 d3 58 16 81 21 e6 fd-12 ca e5 5a 18 3e e2 5d   ..X..!.....Z.>.]
-    0050 - e1 55 73 8d b4 95 2b e3-8a c5 5c 9f d8 88 7a fe   .Us...+...\...z.
-    0060 - 53 5c 95 4c 2c 63 b0 b1-99 50 05 c6 28 a9 5a 4f   S\.L,c...P..(.ZO
-    0070 - 0f 19 06 6e 24 f7 ef ba-ab 8d 56 e6 62 67 29 e6   ...n$.....V.bg).
-    0080 - e2 bc 1a 10 a2 1a cd 42-44 a1 3e bd 4c 97 fd 3d   .......BD.>.L..=
-    0090 - c9 7b 50 ef 31 71 80 27-94 d5 0a 88 cf 62 bf 31   .{P.1q.'.....b.1
+    0000 - 92 ed f9 c8 f2 46 b6 c8-0a 3f 06 c2 96 59 13 7b   .....F...?...Y.{
+    0010 - fb 00 77 5c dd 0e 84 36-f3 1a 7c 49 5e d9 fb 38   ..w\...6..|I^..8
+    0020 - df dd 61 73 fa 3e c8 5a-41 e3 bc 04 0b a6 5d 31   ..as.>.ZA.....]1
+    0030 - f1 87 55 99 f7 2d 0a d2-8f 14 30 c4 f4 d3 02 d9   ..U..-....0.....
+    0040 - 50 7f 1d 40 4c 8f 72 b8-0d 49 b9 91 62 40 c4 23   P..@L.r..I..b@.#
+    0050 - 29 c1 7f ad 3b 88 d5 bf-bc 51 b7 4e 70 f7 b1 89   )...;....Q.Np...
+    0060 - b3 98 5e fe 60 c5 21 55-8f e5 26 7d 14 00 28 1c   ..^.`.!U..&}..(.
+    0070 - 57 59 cc ce 02 bb 0e a9-64 06 94 d3 64 e1 7e e9   WY......d...d.~.
+    0080 - 18 69 1e 27 3f 6b 9b e4-33 8a b8 98 30 f7 9a 3c   .i.'?k..3...0..<
+    0090 - 2f 48 1d 5a 94 4c 8f e3-2f d4 cc 4a 39 c7 83 e4   /H.Z.L../..J9...
+    00a0 - 40 d7 d2 8b c6 ae 4c 0b-52 00 78 a2 42 a5 17 53   @.....L.R.x.B..S
 
-    Start Time: 1472790754
-    Timeout   : 300 (sec)
+    Start Time: 1577475096
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,0 +1,79 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=5gradar.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFpjCCBI6gAwIBAgISA9jcr17/9im+GN5XdReVzthmMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMTEwOTAwMzlaFw0y
+MDAzMTAwOTAwMzlaMBYxFDASBgNVBAMTCzVncmFkYXIuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvwvmQhIxL+rwY8vhF51t8eYexQY5WWntnwGG
+EO6J2mRQ2V2/l6oJutNpPAYHQs1aLP9BsZ9WoILS9ApwoP8h5bsuCXKl1Dv8F9Ox
+xfy1Jo2wj1eo2JMIbe8ZcIk1kJINNKxi45mt5dLiJo1N9liCQHS8Bczg5zDWVRx7
+GMqPdVEpjs9pyU/YJ5Qn5YWb57JEfZK0YzSZTloj30bQeyfwhnEzX1SIcHQlIKJC
+M6e4JcuHBuMpOXMu+iWdgp9ZSM8p1o8KnsPjoJfz+O3qQmFoGrf/t6PqVNUuYFKD
+sT16c8ZsLyTXOnd0SqzfjzauaK9jjiZ2me26CXENg6SAiEWZbwIDAQABo4ICuDCC
+ArQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRvaJdfQIrXPhbO/8C1u8iJkvdNUjAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MG0GA1UdEQRmMGSCCzVncmFkYXIuY29tghdjb25zZW50LmNtcC41Z3JhZGFyLmNv
+bYIUbGl2ZS5mdGUuNWdyYWRhci5jb22CFXN0YWdlLmZ0ZS41Z3JhZGFyLmNvbYIP
+d3d3LjVncmFkYXIuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIS
+hBh1loFxRVgAAAFu9GdGKwAABAMASDBGAiEAkwz26B7Erye6eM+YYtk+vORO4BOS
+4R7GxGHEBhXJTGQCIQD9bsBWJoNMAhFjqqzV8Y88/9fcX4PiOFVsglK5B917XgB2
+ALIeBcyLos2KIE6HZvkruYolIGdr2vpw57JJUy3vi5BeAAABbvRnRhUAAAQDAEcw
+RQIgQ5dPEZjFIPm4fGUaQlxvubGSpZwLSTbADxL4rnwCXH8CIQD/Ts/6zI+bHevX
+Ktl+SMOw6mODMtTqx+1RYvRBIShT6DANBgkqhkiG9w0BAQsFAAOCAQEAAifdTCE6
+Ee17DUxDOKFPj5Wqb6IjWXgeLvdofcBIrsO7w6fm+40ajuDTkUtTbYv4F6N/wTjV
+W7xDkih4pJF3Mh03vJ1sPhCYKoWiy4MezssqsA37BvTq8yLTh7tlYSz9h4UYJMWC
+iE57F2U44phKq8RY53noADerZGJP1q00kEF1zv/GvJTfGMPmKu4VAJK4eB6v1FTX
+c1JDmSJk/iovuIFboXQMwtPohPBEwTx/JlJ4OeaBWg9W8C1ZLy+n6T/v27DNZ/+i
+x5VhIbzt+gkLc7JRGLKK97rABCsPpTWOPWEyJRfIbNpGos5c1MHd9t8joEkGXfUf
+RQb1fhN+uOT72A==
+-----END CERTIFICATE-----
+subject=/CN=5gradar.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3337 bytes and written 378 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-SHA384
+    Session-ID: D014FD653092DBC4A3FB2384CEA221E068A83601C3542055B4C9854285C13518
+    Session-ID-ctx: 
+    Master-Key: 38CABBBB2DEC2D332F59BD58B6C3BC544918EDA4E703220135FC0A8C64DDB74EF8C034453DBDC11AAB0ECB3D585D6174
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - e7 32 6b 65 0d a6 4e 76-f1 29 c1 ba 38 e9 d4 b8   .2ke..Nv.)..8...
+    0010 - b5 eb 5b 54 53 15 ce cc-d1 08 6f ff 67 27 3a 65   ..[TS.....o.g':e
+    0020 - d4 a9 12 ef 06 aa 96 3d-2d 32 89 d7 62 ba f0 c6   .......=-2..b...
+    0030 - e8 8b bc d9 c3 d8 93 30-94 a9 c2 a4 bc c3 58 87   .......0......X.
+    0040 - a8 8c c0 ef 3a a2 82 e4-9e 73 80 53 b1 bf 60 fd   ....:....s.S..`.
+    0050 - 3b 2b 52 b6 35 86 d2 12-40 60 b1 be de 3f ab ba   ;+R.5...@`...?..
+    0060 - 46 f8 96 43 ed 8c 76 d9-d4 ef a3 d7 b8 0a db 4b   F..C..v........K
+    0070 - 70 12 0c fd 21 8c e2 86-10 2e 75 f9 f9 a5 ca 69   p...!.....u....i
+    0080 - b9 7c 36 cf cb 01 b7 f4-11 ed 7c 79 13 50 68 52   .|6.......|y.PhR
+    0090 - 8d 3f 79 65 30 3c 93 10-65 36 8e 61 ae f5 8d fb   .?ye0<..e6.a....
+
+    Start Time: 1577475702
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

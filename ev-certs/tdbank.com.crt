@@ -1,62 +1,67 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/jurisdictionC=CA/jurisdictionST=Ontario/businessCategory=Private Organization/serialNumber=AD/C=CA/postalCode=M5K 1A2/ST=Ontario/L=Toronto/street=55 King St W/O=The Toronto-Dominion Bank/OU=TDCMAB/CN=www.tdbank.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=CA/jurisdictionStateOrProvinceName=Nova Scotia/serialNumber=1010197/C=CA/ST=Ontario/L=Toronto/O=The Toronto-Dominion Bank/OU=TDCMAC/CN=www.tdbank.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHAjCCBeqgAwIBAgIQSSgQIttKvbymLARpniUZgTANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTYwNzA4MDAwMDAwWhcNMTcwNzA4
-MjM1OTU5WjCCAQMxEzARBgsrBgEEAYI3PAIBAxMCQ0ExGDAWBgsrBgEEAYI3PAIB
-AgwHT250YXJpbzEdMBsGA1UEDxMUUHJpdmF0ZSBPcmdhbml6YXRpb24xCzAJBgNV
-BAUTAkFEMQswCQYDVQQGEwJDQTEQMA4GA1UEEQwHTTVLIDFBMjEQMA4GA1UECAwH
-T250YXJpbzEQMA4GA1UEBwwHVG9yb250bzEVMBMGA1UECQwMNTUgS2luZyBTdCBX
-MSIwIAYDVQQKDBlUaGUgVG9yb250by1Eb21pbmlvbiBCYW5rMQ8wDQYDVQQLDAZU
-RENNQUIxFzAVBgNVBAMMDnd3dy50ZGJhbmsuY29tMIIBIjANBgkqhkiG9w0BAQEF
-AAOCAQ8AMIIBCgKCAQEA1pTNpOv9KirmaQOHv2af7/Y3UNNnpvLt3LKfN94rOcgY
-WphPQJFTKUZr3f+2NEgyr9y+w4S2R+5LX8oxHOzQBp1ftMJc6ow//eBNwPwiL6Q8
-hHvmsa94UsJyXSLO8hI/7VUfCt0h3B3s34ycZbiA0kjR03NUSB6LlP/sJNnW69ZZ
-AgVlubHXTDkqMJ16/GpWl/J2iAqvcFzYOc9K2TLV9JH0hh0yOCbYZ6uB6ShmI1lR
-Kz3tMPoEsMcV+nL/oahkpsfbs7H+SvFT5q3uNo+QcYsyXdAB5n2e/4zpug8Oe4fn
-rbtPKQFrszBsoPn13pQ0OJrvmtR4HqEens20OGq9KQIDAQABo4IC+jCCAvYwgZgG
-A1UdEQSBkDCBjYISZXNlY3VyZS50ZGJhbmsuY29tgg9iYW5rLnRkYmFuay5jb22C
-CnRkYmFuay5jb22CEW9ubGluZS50ZGJhbmsuY29tgg53d3cudGRiYW5rLmNvbYIM
-bS50ZGJhbmsuY29tghpjdXN0b21lcnNlcnZpY2UudGRiYW5rLmNvbYINbXkudGRi
-YW5rLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggr
-BgEFBQcDAQYIKwYBBQUHAwIwbwYDVR0gBGgwZjAHBgVngQwBATBbBgtghkgBhvhF
-AQcXBjBMMCMGCCsGAQUFBwIBFhdodHRwczovL2Quc3ltY2IuY29tL2NwczAlBggr
-BgEFBQcCAjAZDBdodHRwczovL2Quc3ltY2IuY29tL3JwYTAfBgNVHSMEGDAWgBQB
-Wavn3ToLWaZkY9bPIAdX1ZHnajArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vc3Iu
-c3ltY2IuY29tL3NyLmNybDBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0
-dHA6Ly9zci5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9zci5zeW1jYi5j
-b20vc3IuY3J0MIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcA3esdK3oNT6Ygi4Gt
-gWhwfi6OnQHVXIiNPRHEzbbsvswAAAFVyzwAtwAABAMASDBGAiEAxje5qB7tbzky
-fGIvvpqQfmeOrvZnnMF+Uco8CtRyFA8CIQDbCaf4NgHHtgI8+RVAg+e6+NUOwmFH
-QZz7L40U5uk8BwB2AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAAB
-Vcs8APIAAAQDAEcwRQIgYVf0gL8TyfC3532M1xOMBA+WVoTJJjR+4KrmC1tgSFgC
-IQDIwy36rMTUSgDqlUG5bca91x6O9kBjo+zPoD7G98IoJDANBgkqhkiG9w0BAQsF
-AAOCAQEAwjR6qKcg0iT36Vao6/HQe90osx2yNxKnFXa/VIYmWRw28zKNtIi29bGL
-kbgMFzzLMqPAEqzkrfx6CJFOXMp92sK1lr0t746LJThI3KObZ+uwc9GPJd94uXnd
-F/YdTOHOItJYQhYLdZSmsSs8lTXT7xbaJThfMrn8wMkfrzUQd8EIUsztCM9k6gUg
-18kXyhdaztxyTGXCtCpmHPSNp/TSf7La73W/1MdQwzh2WR4TwMBi4S0DSxzQ2Rao
-Ha99HsZ3GDwAnsWd0WJuHswokhdkELZkfzSF+uokfQ0w5PxN9zSoUYDYkMAjUh8e
-mf0rf0Bc5LhIErRUbqErbeYmJ6JD5A==
+MIIImzCCB4OgAwIBAgIQA3JTBs4uxfgXwXYZDf01qjANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE4MDcwNTAwMDAwMFoXDTIwMDcwNzEy
+MDAwMFowgeMxHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRMwEQYLKwYB
+BAGCNzwCAQMTAkNBMRwwGgYLKwYBBAGCNzwCAQITC05vdmEgU2NvdGlhMRAwDgYD
+VQQFEwcxMDEwMTk3MQswCQYDVQQGEwJDQTEQMA4GA1UECBMHT250YXJpbzEQMA4G
+A1UEBxMHVG9yb250bzEiMCAGA1UEChMZVGhlIFRvcm9udG8tRG9taW5pb24gQmFu
+azEPMA0GA1UECxMGVERDTUFDMRcwFQYDVQQDEw53d3cudGRiYW5rLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALdGVZNXndEI32A27VAx4NpaCAH7
+00/zeNunDftOOBeiEgaTFjguK8nTGxlALWPbHYhLER2f4wHvmJ2Vgwl1Ok29d5GL
+d+j+9f+UUkS5Q4tMxTnvrfrK1hHjymzM37m022InWki8Q4DZPmmBjmoPq5ztbwtP
+kRqzTjZDnqtqqNq2HXWwPQrUKdsmklt66X7Uv6cU63QEu8DJP61uybjvNRPYQuja
+j01I8N8jogy2RNAPFFDddC4Xs3aNkztaSv9bTYV4GHlwd0CBag84q+UpoZf+ytoF
+tIVheO1Y+m2UIY1vobTjCYjgT3+H2s3qoLRTP+iibUlBWqyVKfAggvOL98MCAwEA
+AaOCBLYwggSyMB8GA1UdIwQYMBaAFD3TUKXWoK3u80pgCmXTIdT4+NYPMB0GA1Ud
+DgQWBBSg2D1O+tNxADPTODIKkebA0sSplTCCAWAGA1UdEQSCAVcwggFTgg1teS50
+ZGJhbmsuY29tghpjdXN0b21lcnNlcnZpY2UudGRiYW5rLmNvbYIMbS50ZGJhbmsu
+Y29tghlzdGdhcHBzLnRkY2FuYWRhdHJ1c3QuY29tghJlc3Bhbm9sLnRkYmFuay5j
+b22CDnd3dy50ZGJhbmsuY29tghFvbmxpbmUudGRiYW5rLmNvbYIKdGRiYW5rLmNv
+bYIXZG9jcy50ZGNhcmRzZXJ2aWNlcy5jb22CGnN0Z2RvY3MudGRjYXJkc2Vydmlj
+ZXMuY29tghRkb2NzLmNjc2VydmljaW5nLmNvbYIVc3Rnd293em9uZS50ZGJhbmsu
+Y29tgg9iYW5rLnRkYmFuay5jb22CEndvd3pvbmUudGRiYW5rLmNvbYIPc3RnbS50
+ZGJhbmsuY29tghJlc2VjdXJlLnRkYmFuay5jb22CDnN0Zy50ZGJhbmsuY29tMA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwdQYD
+VR0fBG4wbDA0oDKgMIYuaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NoYTItZXYt
+c2VydmVyLWcyLmNybDA0oDKgMIYuaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3No
+YTItZXYtc2VydmVyLWcyLmNybDBLBgNVHSAERDBCMDcGCWCGSAGG/WwCATAqMCgG
+CCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAcGBWeBDAEB
+MIGIBggrBgEFBQcBAQR8MHowJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2lj
+ZXJ0LmNvbTBSBggrBgEFBQcwAoZGaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29t
+L0RpZ2lDZXJ0U0hBMkV4dGVuZGVkVmFsaWRhdGlvblNlcnZlckNBLmNydDAJBgNV
+HRMEAjAAMIIBgQYKKwYBBAHWeQIEAgSCAXEEggFtAWsAdwCkuQmQtBhYFIe7E6LM
+Z3AKPDWYBPkb37jjd80OyA3cEAAAAWRo0L6DAAAEAwBIMEYCIQDSOcslL1SScIBi
+t1C+iO9QFYq+gWx3i7BwKVPr95HwAwIhAIJvX7ZIUb74E/1BryXDNMnE2dJukMGe
+CGFtbkiuZfBQAHcAVhQGmi/XwuzT9eG9RLI+x0Z2ubyZEVzA75SYVdaJ0N0AAAFk
+aNC+yQAABAMASDBGAiEA+VgKkfyYlsrHYgMODhDcl08/8R1t9m5xz3eQKlcdkd4C
+IQC5iVmmpDoeTa/x3VT1gCU8whimIhPEWliXqUPt/4pBOwB3ALvZ37wfinG1k5Qj
+l6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABZGjQvqMAAAQDAEgwRgIhANVfjtmoZ94e
++gPGJW63NSeEejCnn0h2DuxoLesKXC8UAiEAv3oC3ZXvAM4Ursvdx0BZMSp3lAkL
+rzJZimc8z3TNl3owDQYJKoZIhvcNAQELBQADggEBAHi9APGLFPxub/Jyr3lJA4Wa
+avZGRd3CREcoEMwIpD+yH+uQd1hb4zbsYIAvSSsSVuGNGCrhrrLYksJub3kqzR/I
+D4C2zm0VtbIb8VkI0CklegUEwpWyBWgaXdBko/fzBE2mdnbSqSi8US6fOKKPBrB7
+vJnuin775fx5nACvGgOPyopaAkUzdQWAoWWws8F9PLqz0u7eWeNnltOpQ3vMVlj2
+BLWUp8uGT5L2KGfTR4kiCIkHQonlnYDDYR+vq0EK/nwEA1MfBcZQnfFY6u8pkf6N
+//Bjr2CEwWfPbLznuGMYie5UGhPA34Vcsoy9ljClos5ZVAJ1wV39hmdPVrkbQPI=
 -----END CERTIFICATE-----
-subject=/jurisdictionC=CA/jurisdictionST=Ontario/businessCategory=Private Organization/serialNumber=AD/C=CA/postalCode=M5K 1A2/ST=Ontario/L=Toronto/street=55 King St W/O=The Toronto-Dominion Bank/OU=TDCMAB/CN=www.tdbank.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/businessCategory=Private Organization/jurisdictionCountryName=CA/jurisdictionStateOrProvinceName=Nova Scotia/serialNumber=1010197/C=CA/ST=Ontario/L=Toronto/O=The Toronto-Dominion Bank/OU=TDCMAC/CN=www.tdbank.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5021 bytes and written 434 bytes
+SSL handshake has read 4074 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -67,27 +72,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: BE23EA3C725A9741545E642B834978D8EF826D0EE29C45062692A3830082C14B
+    Session-ID: F1929F2FFD986DBADFD8C67E52004300DD2D1B4140C812D3E0262007DEF45CD2
     Session-ID-ctx: 
-    Master-Key: 7AC40B57D110DFC116DABD8222679293E013860BD987D5917AC1F1435FC0E70AAC12230B422E8D796BE340388C5B98D4
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 319791CA3D06F88E99CECC439641683F0EEE05F4AF530951EDAB53385B2E2953DBE3AA84F9A63974CCB1E6BCF2B2C3DF
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 44 c1 4b a9 f9 9b fe 96-f4 a3 e0 5d 60 2b e8 1c   D.K........]`+..
-    0010 - c5 15 e5 34 6e f2 27 7a-6a c5 42 35 9f 4d 75 bb   ...4n.'zj.B5.Mu.
-    0020 - fb 3c 07 43 28 60 fc f1-88 84 1b d4 d5 9e 7b fa   .<.C(`........{.
-    0030 - e7 11 5b 9b 57 6d 4e 74-b1 d2 6c 5d 44 f7 39 20   ..[.WmNt..l]D.9 
-    0040 - 72 a1 c9 2e 4c 1a a7 ad-d4 80 9c d9 99 a0 8d eb   r...L...........
-    0050 - 6c 2a 6c b1 6c 0c 52 fa-0e 6e 06 bb e8 8e fb 72   l*l.l.R..n.....r
-    0060 - 06 f5 0a a1 c2 24 df 00-09 b7 9e ca 0b 80 39 ac   .....$........9.
-    0070 - 02 65 ea c4 3a 95 44 48-0a a7 ce d1 ee 0e fa 6c   .e..:.DH.......l
-    0080 - 17 df 94 60 a2 5d 80 e8-a5 3d 3d 65 1c 93 b2 e0   ...`.]...==e....
-    0090 - 9d f8 8c 20 f8 5b 1a 78-74 35 42 f2 9c 5d 48 59   ... .[.xt5B..]HY
+    0000 - 00 00 09 3d 49 45 ce b8-8b 82 95 0e 96 6d e1 90   ...=IE.......m..
+    0010 - 38 83 d2 47 2b 14 ed a8-7e 02 1e 5e 4e 7a d1 5c   8..G+...~..^Nz.\
+    0020 - 83 82 b1 6c 7d 35 f7 02-98 67 04 1c 99 6c 60 2c   ...l}5...g...l`,
+    0030 - 47 62 4c 51 c2 3c d2 ec-ef e5 1d 19 3a 76 ea de   GbLQ.<......:v..
+    0040 - 30 ec 9e 31 79 ca 23 99-71 1e 54 1d 1e 4d 9a 5e   0..1y.#.q.T..M.^
+    0050 - b0 46 ae a8 80 b3 47 0a-97 33 c0 79 b0 45 6d 67   .F....G..3.y.Emg
+    0060 - 89 fb a6 cc 21 f0 75 0a-a0 4f ef 1d cc 7f d7 21   ....!.u..O.....!
+    0070 - c1 1f a6 3c 7f a5 e7 67-e3 1b f7 4b 1b 65 26 8d   ...<...g...K.e&.
+    0080 - 57 5d c1 e0 53 9d 72 0b-b5 38 9b 79 db bd 01 5e   W]..S.r..8.y...^
+    0090 - f2 a5 27 58 20 73 00 c5-e1 f8 5a 94 0e ab 71 65   ..'X s....Z...qe
 
-    Start Time: 1472790657
-    Timeout   : 300 (sec)
+    Start Time: 1577475765
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

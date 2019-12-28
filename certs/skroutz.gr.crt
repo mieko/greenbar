@@ -1,49 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/OU=GT69851420/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.skroutz.gr
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.skroutz.gr
+   i:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+ 1 s:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEpzCCA4+gAwIBAgIDB0dpMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNTA5MjkxMDAxMzVaFw0xNzExMDExMDIwMjBaMIGQMRMw
-EQYDVQQLEwpHVDY5ODUxNDIwMTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
-bS9yZXNvdXJjZXMvY3BzIChjKTE1MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
-YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEVMBMGA1UEAwwMKi5za3JvdXR6LmdyMIIB
-IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv00rAR3TvG9DOEt+SP7LoElR
-J7WdQovi5JhOY5vwabwm/jwZWdHxon3gv4/Asba+gHWX6uRFvZ84+24X8usgnSjY
-Sd4mkQZdj1CG6Tyux/ivd2m1cVKmW8MRh7J6MidLoIH+o/BaW7tLnoBLyyRxO/47
-ugpfCagijQUE37xYNTw5zbek3//ce5bjekPNz/+piAlnmDVckskMVUTeiOMtQf13
-J1aVA9UUxjvzGzi/I1OMxvH8lo2ZgFNkMdiSLlw9C2Q6tD6Z2FLqv1Uzlmp2PhG7
-L5M88rYd+DhftzgCiviPSIKh5iDIWRdmdOM6GE9FXMkGLUsBhni6w2bBKOJ2xwID
-AQABo4IBUDCCAUwwHwYDVR0jBBgwFoAUw5zz/NNGCDS7zkZ/oHxb8+IIy1kwVwYI
-KwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ3Yuc3ltY2QuY29tMCYG
-CCsGAQUFBzAChhpodHRwOi8vZ3Yuc3ltY2IuY29tL2d2LmNydDAOBgNVHQ8BAf8E
-BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMCMGA1UdEQQcMBqC
-DCouc2tyb3V0ei5ncoIKc2tyb3V0ei5ncjArBgNVHR8EJDAiMCCgHqAchhpodHRw
-Oi8vZ3Yuc3ltY2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAAMEEGA1UdIAQ6MDgw
-NgYGZ4EMAQIBMCwwKgYIKwYBBQUHAgEWHmh0dHBzOi8vd3d3LnJhcGlkc3NsLmNv
-bS9sZWdhbDANBgkqhkiG9w0BAQsFAAOCAQEAOe/SdmBkYVVrrjZzse1xFLr1hXOz
-BE7J+IKWXerAZv+Hht/jTocH/MWsZCnwzcDD/CZYJtYnqp9iaWSsWMH6RH2gADLx
-Flu49n0Q1M7yT31UcQZh+4SYrQXgX72qNzlWCoGZ1mIE11Xvj62fmNJVKZQcuVTM
-JIZrasqhGkc+Xifqjy+QZZeSvO/CN79igr+icYO5uNihAjwkWzNL3zxQ0ah8T0f1
-jS2x3IFtUM5ghdUafK+LqRONUjIx7BR66lUYgE48hyWDnWXn/ql84RyNFv5bCwzj
-EEU24UHho9NPGMuejIiz2MqmdQAuWlgZxjVZqg/jN3pQ6BKKA7Cv2NA//Q==
+MIIGeTCCBWGgAwIBAgIQQINJ5t++RHlhLWG+QohwlTANBgkqhkiG9w0BAQsFADBf
+MQswCQYDVQQGEwJGUjEOMAwGA1UECBMFUGFyaXMxDjAMBgNVBAcTBVBhcmlzMQ4w
+DAYDVQQKEwVHYW5kaTEgMB4GA1UEAxMXR2FuZGkgU3RhbmRhcmQgU1NMIENBIDIw
+HhcNMTkxMDE3MDAwMDAwWhcNMjExMTE0MjM1OTU5WjBgMSEwHwYDVQQLExhEb21h
+aW4gQ29udHJvbCBWYWxpZGF0ZWQxJDAiBgNVBAsTG0dhbmRpIFN0YW5kYXJkIFdp
+bGRjYXJkIFNTTDEVMBMGA1UEAwwMKi5za3JvdXR6LmdyMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAygknzsDwxi9GFSWfeE72udtuxMTMhbSNPFAcdH9J
+y6FxZzW2qex7YF0KejIo07PVYzcHQ9H8QNSzjiUG2GjGx7LJS/63/iTsGwpT5bnG
+4LHmcuZfwvZcH5h+AS4y1hSYj6oywij3F12lwBCMs2/axcQOzgiKO2CVAkFRk+Tf
+6692/y0d75I/ZLvUd4EOuYJVuvmY1QxE9lPrq2iFhjTyBLhtSadVyLr2CTgrYZJv
+otTePhu8cCfWVLvZeG/nD8YsLI6EER57smEd6M2YF0IeGasA8ICGqvJOIwNNUTTq
+ifprDdfXlhMjTSui7aVrERHfoXQryWFQ+9KfsNsGHMt4uQIDAQABo4IDLjCCAyow
+HwYDVR0jBBgwFoAUs5Cn2MmvTs1hPJ98rV1/Qf1pMOowHQYDVR0OBBYEFGQXP4pS
+Ae9+H5/UtcHT+n/e5OG3MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBLBgNVHSAERDBCMDYGCysGAQQB
+sjEBAgIaMCcwJQYIKwYBBQUHAgEWGWh0dHBzOi8vY3BzLnVzZXJ0cnVzdC5jb20w
+CAYGZ4EMAQIBMEEGA1UdHwQ6MDgwNqA0oDKGMGh0dHA6Ly9jcmwudXNlcnRydXN0
+LmNvbS9HYW5kaVN0YW5kYXJkU1NMQ0EyLmNybDBzBggrBgEFBQcBAQRnMGUwPAYI
+KwYBBQUHMAKGMGh0dHA6Ly9jcnQudXNlcnRydXN0LmNvbS9HYW5kaVN0YW5kYXJk
+U1NMQ0EyLmNydDAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudXNlcnRydXN0LmNv
+bTAjBgNVHREEHDAaggwqLnNrcm91dHouZ3KCCnNrcm91dHouZ3IwggF/BgorBgEE
+AdZ5AgQCBIIBbwSCAWsBaQB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+
+IvDXAAABbdlTwNYAAAQDAEcwRQIhAPFmcC8mjpHOJzt+KOg9B7DJ3+tPBAB2LuZ1
+rt3XOlmYAiAJOMOsrckujrN5/0DN5sI6fzOJ0zIhuKUkQutgTLp/ugB3AESUZS6w
+7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABbdlTwNAAAAQDAEgwRgIhAOPs
+fToeWpWQfH9ogNaKTKMLhtrJ9AjmktpUA1M8zpWOAiEAtcYQ9YFCURCmuBeFHoZl
+mp4oIUy17UCPI75LYzjwuO4AdgBVgdTCFpA2AUrqC5tXPFPwwOQ4eHAlCBcvo6od
+BxPTDAAAAW3ZU8DvAAAEAwBHMEUCIFcV9ZogYoV2ITsUe821c7WQLgGsia1SZ6GU
+hIe3wNk/AiEApGaS90NRcIuvJX0g8moHnaIAwzRF2PvLVSkg56Mg9+QwDQYJKoZI
+hvcNAQELBQADggEBAAXScM/L9jTOaFuvZ8Avrt2dCFGmdJ3/kzdCLEhOz6KW/III
+1od2dec2CLoOg7U84Wt9FXx6uNLb+ApG3n1DxEMtx68rTVlH73zlCh7jKoQ9YWOC
+iQUkQShwWa2NT8OrtcnNv+dE8QiDL0rxu+59+Xzv2BqUi6QF/V+89lU2gakN8q4E
+WCmMvadmRh1Ic9cLKDXjmUaPckHL4vl2C1N80lWGX6an/d8IMsAadX0bgKAPfKCz
+jBQ4ILQA3y5kE4pFIHgQ7y/OYC3iMCcEcS6un9MFQG9rcxX2wK//L0FIcGdB2KhN
+k1HPTgrZjuMnI65Xoingpqd9LmGv6jAs8MxZNYA=
 -----END CERTIFICATE-----
-subject=/OU=GT69851420/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.skroutz.gr
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.skroutz.gr
+issuer=/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 2922 bytes and written 434 bytes
+SSL handshake has read 5208 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -51,28 +62,24 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 0217C5490C869FDD8E71A3E89483385CDCFD39BDCF4AAEF12C4B143991F05F23
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A46CA7A45EBF988D57D5FF760343C2357887AB8CE3E7FF4205421604759706C2
     Session-ID-ctx: 
-    Master-Key: 5B6062FA534D9E32EA4BA32736959F8EBA1DC3A449623E547F915967E7B6470E2A464D991C7B1E0248ED2602C1C5F5E1
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: F343F730C19BC29CFFEB88288B1CA6559D52480BFBFB0E60B13BEB621EBF07522F6551BA3C289446819555D2FC232E14
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - de 6a 09 ab a7 ad a0 5c-4c e7 81 cf 44 95 34 7b   .j.....\L...D.4{
-    0010 - 83 af 51 5c 91 6f cd 83-ad a8 08 13 e0 57 c1 22   ..Q\.o.......W."
-    0020 - 54 0e a3 6b 26 58 8b d5-58 b1 da c3 c3 f5 df 0c   T..k&X..X.......
-    0030 - 69 d0 8a 57 b2 77 a5 85-fb d2 39 68 fa 41 ac 4e   i..W.w....9h.A.N
-    0040 - c6 39 45 f6 03 26 3d a2-87 af 9e 1a 09 34 c1 50   .9E..&=......4.P
-    0050 - 64 8e 4a a1 80 ad e3 47-dd 35 aa 24 90 1b 18 4a   d.J....G.5.$...J
-    0060 - 29 7d fa 73 0d 28 58 7f-4d 49 4d 88 d3 fc ae 04   )}.s.(X.MIM.....
-    0070 - 8f 89 de 42 9e 87 66 13-9d c6 c5 3f 24 e2 06 79   ...B..f....?$..y
-    0080 - bf 37 56 a3 1f 46 f8 33-49 87 c3 3e a4 fb 2c 8f   .7V..F.3I..>..,.
-    0090 - ea 03 ba 59 d0 57 65 5d-59 7f 2b 35 01 af 16 62   ...Y.We]Y.+5...b
+    0000 - db 27 52 31 cd eb 89 85-11 f9 25 cc 0f b8 37 4a   .'R1......%...7J
+    0010 - 04 6b d4 46 52 f6 3a c6-6f 1d 35 a1 19 f1 93 a5   .k.FR.:.o.5.....
+    0020 - ae cf 63 6b 70 dd ec 48-e5 2c 96 7e 94 1a 02 30   ..ckp..H.,.~...0
+    0030 - fc 7d f8 70 fa f6 f5 1d-c8 5c d4 d3 2d 01 8d 4e   .}.p.....\..-..N
+    0040 - 5b 1a a8 ea f4 2d de 41-ac ad 13 e3 fc 8b ba e5   [....-.A........
+    0050 - 44 b0 74 d0 5e 20 e6 af-e0 4d 6b 64 87 b1 6a 90   D.t.^ ...Mkd..j.
+    0060 - bd fc 49 50 07 ec 58 84-e7 48 c4 1c 5b fd 18 6d   ..IP..X..H..[..m
+    0070 - ad 55 3a 48 8c b7 33 df-a5 a5 0e a2 da a7 21 82   .U:H..3.......!.
+    0080 - ea 92 aa 82 52 07 aa 95-52 4b 6b b9 35 02 1a de   ....R...RKk.5...
+    0090 - 0b 4d 42 9b 72 b5 86 d4-51 1d de c7 7d 2f b2 29   .MB.r...Q...}/.)
 
-    Start Time: 1472790621
-    Timeout   : 300 (sec)
+    Start Time: 1577475454
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

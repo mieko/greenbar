@@ -1,59 +1,40 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=IR/CN=*.divar.ir/emailAddress=info@divar.ir
-   i:/C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Domain Validation CA SHA2
- 1 s:/C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Domain Validation CA SHA2
-   i:/C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Trusted Network CA
- 2 s:/C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Trusted Network CA
-   i:/C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Trusted Network CA
+ 0 s:/O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
+   i:/O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGDzCCBPegAwIBAgIQbePGL1lJcJE+evPf+GY0zjANBgkqhkiG9w0BAQsFADCB
-hTELMAkGA1UEBhMCUEwxIjAgBgNVBAoTGVVuaXpldG8gVGVjaG5vbG9naWVzIFMu
-QS4xJzAlBgNVBAsTHkNlcnR1bSBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTEpMCcG
-A1UEAxMgQ2VydHVtIERvbWFpbiBWYWxpZGF0aW9uIENBIFNIQTIwHhcNMTYwNDE4
-MTAxNzU2WhcNMTkwNDE4MTAxNzU2WjBAMQswCQYDVQQGEwJJUjETMBEGA1UEAwwK
-Ki5kaXZhci5pcjEcMBoGCSqGSIb3DQEJARYNaW5mb0BkaXZhci5pcjCCASIwDQYJ
-KoZIhvcNAQEBBQADggEPADCCAQoCggEBANX6tVg667rC76JsIF9Di0yANN+7A6Fl
-VH/XUtYrdar7TC8zUpP2wW2rwTUgl0nEFSBUypiuty6qiE39bHR38DePG6BKLz5y
-uiQojCq6K51qnlJ+hYujogLkVV37qP6UPYqK4wxkhrjYqAuiih1orjPGFmVe/Wff
-ZQ5O0Vjezl9G7nLHZPG89asmlZLZ9pG0l4n+qy72aSui4zTrY1Td7xesvHG8+wHZ
-THbxrebUmfr+F2k57T7jZYn07bqf7rxA1CCt7qEBaZOalV6d492h5GOseTF5Fcdw
-3z5BZ5EDtBICokoRoorhQuYd6a98ptFBEOCV1+zB4gfvCHN7HdOCEjUCAwEAAaOC
-Ar0wggK5MAwGA1UdEwEB/wQCMAAwMgYDVR0fBCswKTAnoCWgI4YhaHR0cDovL2Ny
-bC5jZXJ0dW0ucGwvZHZjYXNoYTIuY3JsMHEGCCsGAQUFBwEBBGUwYzArBggrBgEF
-BQcwAYYfaHR0cDovL2R2Y2FzaGEyLm9jc3AtY2VydHVtLmNvbTA0BggrBgEFBQcw
-AoYoaHR0cDovL3JlcG9zaXRvcnkuY2VydHVtLnBsL2R2Y2FzaGEyLmNlcjAfBgNV
-HSMEGDAWgBTlMa2/OhGW9IO8UDzUt5CbkO7eJTAdBgNVHQ4EFgQUblQLbh3qPUbq
-xL2ROIBznefh1wMwHQYDVR0SBBYwFIESZHZjYXNoYTJAY2VydHVtLnBsMA4GA1Ud
-DwEB/wQEAwIFoDCCAT4GA1UdIASCATUwggExMIIBLQYLKoRoAYb2dwIFAQMwggEc
-MCUGCCsGAQUFBwIBFhlodHRwczovL3d3dy5jZXJ0dW0ucGwvQ1BTMIHyBggrBgEF
-BQcCAjCB5TAgFhlVbml6ZXRvIFRlY2hub2xvZ2llcyBTLkEuMAMCAQIagcBVc2Fn
-ZSBvZiB0aGlzIGNlcnRpZmljYXRlIGlzIHN0cmljdGx5IHN1YmplY3RlZCB0byB0
-aGUgQ0VSVFVNIENlcnRpZmljYXRpb24gUHJhY3RpY2UgU3RhdGVtZW50IChDUFMp
-IGluY29ycG9yYXRlZCBieSByZWZlcmVuY2UgaGVyZWluIGFuZCBpbiB0aGUgcmVw
-b3NpdG9yeSBhdCBodHRwczovL3d3dy5jZXJ0dW0ucGwvcmVwb3NpdG9yeS4wHQYD
-VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMBEGCWCGSAGG+EIBAQQEAwIGwDAf
-BgNVHREEGDAWggoqLmRpdmFyLmlygghkaXZhci5pcjANBgkqhkiG9w0BAQsFAAOC
-AQEAOv65ocS3I2wfk76xSufHom5Ku96kx3DJ6UsjvtZcthOHCTJZ5waYJjpKmxfQ
-w9WCPXkwdIApjWK01OWsJicen5UQYz0G44yALQjKTrdiuLGE1o6XpAs8DVvl+hNe
-pD8tRMRwLLWJqWE/HC7PBAoNn7UCwNYJn4zNracqH93nHnerFBeRrYZogpQfKl4r
-LqBwQMjiVluTsSY/MEj/do9PJdPi3CciHU1yjBqfrgViYCKU+I6RlmPseJwpLuDk
-i7uYsdREJWAenfdcX+5QjxqfkMx7nmDl4B2dH8wsHNwgg/pbBt8I1LjdmNFMoGP9
-gG4IFJ8hmJYrrZaH0gmw0wPa7g==
+MIIDcDCCAligAwIBAgIRAO60sXR+tu4ic8e8//X5Lr8wDQYJKoZIhvcNAQELBQAw
+SzEQMA4GA1UEChMHQWNtZSBDbzE3MDUGA1UEAxMuS3ViZXJuZXRlcyBJbmdyZXNz
+IENvbnRyb2xsZXIgRmFrZSBDZXJ0aWZpY2F0ZTAeFw0xOTEyMTUxMzUzMzBaFw0y
+MDEyMTQxMzUzMzBaMEsxEDAOBgNVBAoTB0FjbWUgQ28xNzA1BgNVBAMTLkt1YmVy
+bmV0ZXMgSW5ncmVzcyBDb250cm9sbGVyIEZha2UgQ2VydGlmaWNhdGUwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDFFGjwel6eYxiSbyY6aaJAGTeVKrNa
+XI+UJurIj6dJi0dtzHWfLl7mlKXSYITWSPR+unFdjY6Y3EsASLd8NAhGiLdsZwio
+ruJGAhqIzetSLVe6b+OtlRQv1aCHt5W3nRWVmPFgsiF7MsxekCpi1J1do8oYZPLt
+PTX/o5yWgHAdBbt3VV1FQezlV3yCYoUUzBdtBFRlZ9lo+YnZ9Ie1aqNkxMeDPZKU
+oBZnry+zbsGvcuUoynfmCFOhBiUaGbqB0lssPsxKeHR6Mh8wIBfcBL/VbF4Xjlh1
+fEgKWtAxU8paBjqEBu8QOgniDuxYvaxThIP4lZgioc4CrkNlATR2iXt1AgMBAAGj
+TzBNMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMB
+Af8EAjAAMBgGA1UdEQQRMA+CDWluZ3Jlc3MubG9jYWwwDQYJKoZIhvcNAQELBQAD
+ggEBAMJ5KTRZFlnsaiWG5mUmeyAvyH+/fonkI2bK1rJJ0p0JX+5rKQnggJgE/s3L
+OF8nXqyILF1/6s5IVvtyyHdNGPZgYt2BRvuT3O6jcoawbWWFbQdUmc9t5MEiYEuZ
+E4NGTLHt1iAb7bcuOk3VxdFLuF9lyKKm31lBoc3CcsOw6QNwhXeiZMvJ9k9nnhkX
+MJiixkrLfwdW7sk+yRdCwj+7jBC4yEoLokZqHos8Rfqf1R+POOc3qN2PZrI7z+3X
+Y6LitF1T+AzFkOpoxKb7CuOh3ABfVoo2ma7mIYGXgQBcadZeLJAONpZsYUbe3Rrq
+KyvAJyn5bfRJ2l/Peyv19YkImgY=
 -----END CERTIFICATE-----
-subject=/C=IR/CN=*.divar.ir/emailAddress=info@divar.ir
-issuer=/C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Domain Validation CA SHA2
+subject=/O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
+issuer=/O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4429 bytes and written 434 bytes
+SSL handshake has read 1521 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -61,29 +42,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 85F06BC4D4B44C468A4CAB65DC538C2277E90402171CADC4ADB5DB295A1EA710
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 59E352A0F55115693048A40FDDDF50894EAEF80A2C8AB4853EC24B3B22242397
     Session-ID-ctx: 
-    Master-Key: 7DA35138C690B5B60566590ADB291FDC3342420BC381BD1D8BC4B39C34A705DDEE7C5E992DCEE81E11D1808D3F64B035
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 88608D34E76CAF606EF6BF7C77368A57B6B4DA6BD2B215D40C44D7AC27CDCA9BD786D4C64693218CAB81DAF6E2B78E74
+    TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - 7d 0a b9 a8 cb f0 a8 7f-f2 94 9b f4 3d fe f6 bf   }...........=...
-    0010 - c6 c9 35 b1 92 04 04 a2-3d 9b 59 b9 e0 8d d1 14   ..5.....=.Y.....
-    0020 - 29 1e a8 f7 23 75 5a 7a-e2 cc c0 90 c3 3e 59 b6   )...#uZz.....>Y.
-    0030 - 67 d3 84 7e 59 00 99 aa-19 23 77 00 3a 01 59 1f   g..~Y....#w.:.Y.
-    0040 - 53 31 2b 1b 04 8a 95 1b-40 29 ae 73 36 29 d7 20   S1+.....@).s6). 
-    0050 - 01 1c a6 29 1d 27 ae b0-d2 5a 24 b5 e8 b3 b9 5a   ...).'...Z$....Z
-    0060 - ff c9 56 4a 2d f3 88 fc-0b 16 8e 04 7e e0 fa c7   ..VJ-.......~...
-    0070 - 82 b8 e6 6f 32 3c 61 d8-63 bd 8d 69 a8 9e 6d 3b   ...o2<a.c..i..m;
-    0080 - a6 58 9d de 03 0b 6d 40-e8 4c d2 ea 7f d9 82 1d   .X....m@.L......
-    0090 - ce 13 9a ca 99 87 fb 40-c4 f4 f7 d2 9e 68 6c 1e   .......@.....hl.
-    00a0 - 15 59 e6 72 f4 76 24 14-93 67 52 c2 a7 a8 b4 a0   .Y.r.v$..gR.....
+    0000 - c8 ad ff d8 c9 18 aa 75-10 ca 77 bd 68 a8 ef 38   .......u..w.h..8
+    0010 - d2 5e 2d 76 f8 fd 73 8a-a8 64 f6 fb 94 9d a2 65   .^-v..s..d.....e
+    0020 - b9 50 24 51 f6 0b ea 62-c5 49 41 21 47 62 79 e0   .P$Q...b.IA!Gby.
+    0030 - 41 13 68 2f cc 06 f9 a5-61 7d 59 2f 1f 04 68 31   A.h/....a}Y/..h1
+    0040 - 3d 7e 4c a0 ff 9f 4c de-dc e8 d6 88 3b fe 59 5e   =~L...L.....;.Y^
+    0050 - 2c 58 1a 9b da 1f 64 4d-58 05 c0 e3 58 27 d8 4e   ,X....dMX...X'.N
+    0060 - 28 f9 0e 89 a1 40 65 2b-5a c6 76 05 9a f7 c6 b4   (....@e+Z.v.....
+    0070 - 11 f0 50 eb 25 d6 62 82-bb 5b 3c 75 ab 19 e1 7d   ..P.%.b..[<u...}
+    0080 - b8 15 75 52 57 e0 7c a0-ce fd 14 2a 7a ae 65 ad   ..uRW.|....*z.e.
+    0090 - ec 14 d8 21 a4 d5 16 92-c7 22 e4 c1 bf 3f 87 0c   ...!....."...?..
+    00a0 - 53 cc b9 63 fd e3 94 3b-67 b4 5a 06 a7 ec 59 3c   S..c...;g.Z...Y<
 
-    Start Time: 1472789143
-    Timeout   : 300 (sec)
-    Verify return code: 0 (ok)
+    Start Time: 1577474978
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
 ---

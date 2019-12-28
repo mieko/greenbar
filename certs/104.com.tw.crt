@@ -1,0 +1,64 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.104.com.tw
+   i:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+ 1 s:/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE9jCCA96gAwIBAgIQfurWL0qIbck8Zt6yf70WtTANBgkqhkiG9w0BAQsFADBf
+MQswCQYDVQQGEwJGUjEOMAwGA1UECBMFUGFyaXMxDjAMBgNVBAcTBVBhcmlzMQ4w
+DAYDVQQKEwVHYW5kaTEgMB4GA1UEAxMXR2FuZGkgU3RhbmRhcmQgU1NMIENBIDIw
+HhcNMTcwMzE2MDAwMDAwWhcNMjAwMzE2MjM1OTU5WjBgMSEwHwYDVQQLExhEb21h
+aW4gQ29udHJvbCBWYWxpZGF0ZWQxJDAiBgNVBAsTG0dhbmRpIFN0YW5kYXJkIFdp
+bGRjYXJkIFNTTDEVMBMGA1UEAwwMKi4xMDQuY29tLnR3MIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAl3ghuuggROr6+5BNwk79ynr8Tyh9VNt1B9+kLbKv
+RqgWtyEeN1FfW0bHUNbyHuM2quGKxV5n0tcA+lVQSLhf+m0lKwwAkMIpx1n00HPO
+4LyOhZRq+PtWRQ3x5uCFmBsh0zeDDrPnCiGiSBbXwB5PVkXKfZYfQarq67CnZ3Xd
+pFCA8x1tBSZc5DsN2XumsfOOmZMG/jCC9RjKqtLnBv1ISdI2qXdIbptPRQjaEwF4
+b7dd3qqlXWFEJ6UeADryVqU+bvfW6kUx5E2lgyasiYeSlZHviIPZXriplN6oXGcu
+2lYYPBhwL1czzZhpXtsHERxeSTzrxaUbXXae2zYO4UFUdQIDAQABo4IBqzCCAacw
+HwYDVR0jBBgwFoAUs5Cn2MmvTs1hPJ98rV1/Qf1pMOowHQYDVR0OBBYEFLOCc3cp
+VfjBxx9EN4Kv6w103G0NMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBLBgNVHSAERDBCMDYGCysGAQQB
+sjEBAgIaMCcwJQYIKwYBBQUHAgEWGWh0dHBzOi8vY3BzLnVzZXJ0cnVzdC5jb20w
+CAYGZ4EMAQIBMEEGA1UdHwQ6MDgwNqA0oDKGMGh0dHA6Ly9jcmwudXNlcnRydXN0
+LmNvbS9HYW5kaVN0YW5kYXJkU1NMQ0EyLmNybDBzBggrBgEFBQcBAQRnMGUwPAYI
+KwYBBQUHMAKGMGh0dHA6Ly9jcnQudXNlcnRydXN0LmNvbS9HYW5kaVN0YW5kYXJk
+U1NMQ0EyLmNydDAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudXNlcnRydXN0LmNv
+bTAjBgNVHREEHDAaggwqLjEwNC5jb20udHeCCjEwNC5jb20udHcwDQYJKoZIhvcN
+AQELBQADggEBABdlTqQYpseg7ydAgYad+dszCLAzhDpHqm8hx+Gm9xxuVNciR9kx
+cm0Shy8spCFdP8E2ZWuFGD//g+RB1OuOO+MUgrxW9AzWHeFKxEwOImSpIbhY2FBE
+lp7hrziKZEqlcB2z0W2XhbLEeHFh3Qop787jWib//hlIT+d2FoKQTHn8ZWtC++Sh
+Gp1Szvgnk/PnDGLhuwEE6YtAmGpBJlVdou5sRgLMXJRdTh8Rb89Y1pfVnjEJLR3Z
+1lPaInkaUQTLUVyI16iBHWNPNK5YUf44uvRmTQFgsK+yDirUx7u6N/LSGRTkCBUe
+mxad2p1/mp15nhJ9h82gykx74l2PnISmX6Y=
+-----END CERTIFICATE-----
+subject=/OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.104.com.tw
+issuer=/C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4705 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: C01FF3A9F5C247ED69A761211ECBAE35AA4F56E88C32560B41DEAC5F6CDB7EC5
+    Session-ID-ctx: 
+    Master-Key: AB9F2560BE2046DFDFC11509D12029F4C328965A4A8BF9D4EF28C0AEFBADFE639FB8FF6F747099E7826FA5C6A95E2347
+    Start Time: 1577475048
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

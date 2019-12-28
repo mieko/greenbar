@@ -1,0 +1,75 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/C=AR/L=Vicente Lopez/O=Sociedad Anonima La Nacion/OU=Sistemas/CN=*.lanacion.com.ar
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFCTCCA/GgAwIBAgIQDUIrFo7qzHp6fKLuY4xIjzANBgkqhkiG9w0BAQsFADBc
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMRswGQYDVQQDExJUaGF3dGUgUlNBIENBIDIwMTgwHhcN
+MTgwMTE4MDAwMDAwWhcNMjAwODE3MTIwMDAwWjB5MQswCQYDVQQGEwJBUjEWMBQG
+A1UEBxMNVmljZW50ZSBMb3BlejEjMCEGA1UEChMaU29jaWVkYWQgQW5vbmltYSBM
+YSBOYWNpb24xETAPBgNVBAsTCFNpc3RlbWFzMRowGAYDVQQDDBEqLmxhbmFjaW9u
+LmNvbS5hcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANUKpaIB8SV2
+2lpF0LESP0YyOuQ6diRAKknLT6IvVU/+y/K2zKmiTgKFeOIyCm5o4bfEjJNLkWG4
+AhuX3rnBTxQ6wPw4IJEZyuZczhzMvB4+Q5EPODGDnxXJF41ParYqCfsfyMy1hFjY
+dPX0YLSKCzhxhO1zmMWDMARIn9DZqvZBp93kiSJZpzwW7ysuino22GBngFyHfRax
+TuaFs0AFP3WyfN61SFVTY2+LckucFjQ23D41SfgOCAVdi1NMisBAw5JqeC5rsaN1
+EtfbfysPrHc3k0ypkf/e+Pxr57Ndzmj5eHW2Itp0xM6zVycs5H2+rsmNBzWtzAFo
+kdgaHsBOHXECAwEAAaOCAagwggGkMB8GA1UdIwQYMBaAFKPIXmVU5TB4wQXqBwpq
+Wcy5/t5aMB0GA1UdDgQWBBQnR/bdummxRO01RXBpeBDEX8/OiDAtBgNVHREEJjAk
+ghEqLmxhbmFjaW9uLmNvbS5hcoIPbGFuYWNpb24uY29tLmFyMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwOgYDVR0fBDMwMTAv
+oC2gK4YpaHR0cDovL2NkcC50aGF3dGUuY29tL1RoYXd0ZVJTQUNBMjAxOC5jcmww
+TAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93
+d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwbwYIKwYBBQUHAQEEYzBhMCQG
+CCsGAQUFBzABhhhodHRwOi8vc3RhdHVzLnRoYXd0ZS5jb20wOQYIKwYBBQUHMAKG
+LWh0dHA6Ly9jYWNlcnRzLnRoYXd0ZS5jb20vVGhhd3RlUlNBQ0EyMDE4LmNydDAJ
+BgNVHRMEAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQCy912Wn4gl2jOttJ+/xJAnnbdA
+FaxmYZhND9XjP8fOVHNUkFySfpX3J8qQBEhdNPuViqKYVCN+YShAIkJHo2Rs5v3T
+ej6H1F3CxqvQf7ZUJXJGOUyjLqpiFSoPvzL08Y+3H617ksgyceS2sganymHasA4+
+PaJbidg+ut2bsX+yfBrwxJM1mUtP6feN7wPnGwZyPSLDLdTDESH9HNhjLajyQOQw
+/jlOcOBDx9tJnDitgypnNpoTWrEaQjGMhOesM7YvdbsPjwYJj0g4s/ESuSmDvzJD
+6iAfWZz34glzjOhHfqBO34wq5D71xP3GnIRsxYxcU9Ct0ZICFIHWtHDo1m0g
+-----END CERTIFICATE-----
+subject=/C=AR/L=Vicente Lopez/O=Sociedad Anonima La Nacion/OU=Sistemas/CN=*.lanacion.com.ar
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3115 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: EB64BB6277CE15B02C81F8828F6FF0956420ED3A8C1F7090F5C62094539FF314
+    Session-ID-ctx: 
+    Master-Key: A4E6B3B0EB985C283C9445F1ECE734638102A80CA0684091EAA91408C8EA38EF653C4803998D29712F019FDE444FE766
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 2b d8 7a 41 29 ac f5 7e-4d 1c a7 a7 26 32 71 63   +.zA)..~M...&2qc
+    0010 - a8 f4 44 03 db 22 47 02-2a f2 ce 50 71 39 45 53   ..D.."G.*..Pq9ES
+    0020 - 43 da c2 d7 f2 d6 76 22-f3 d2 06 5f da 37 16 1d   C.....v"..._.7..
+    0030 - aa 2a 5a a7 14 2b d6 a7-68 72 0f 5e 7f b9 1b 56   .*Z..+..hr.^...V
+    0040 - 87 7d 51 dd 67 52 63 cc-8c f1 11 40 ea ba 43 00   .}Q.gRc....@..C.
+    0050 - c1 71 ae 51 8b 31 e3 40-89 f4 45 8d c0 6f f0 42   .q.Q.1.@..E..o.B
+    0060 - 5a e1 09 84 e9 c4 d9 f5-9b ef 52 78 aa 9d 61 57   Z.........Rx..aW
+    0070 - fc 2c 1a 41 71 16 41 44-7a c4 8a 08 3c cb 68 c2   .,.Aq.ADz...<.h.
+    0080 - c9 c5 f3 32 8b b9 21 de-41 d6 43 72 8b 19 9c aa   ...2..!.A.Cr....
+    0090 - 6c ff 16 3f 5f df 87 24-a1 87 59 79 00 3a 04 ab   l..?_..$..Yy.:..
+
+    Start Time: 1577475495
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

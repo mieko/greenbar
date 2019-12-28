@@ -1,2 +1,0 @@
-"digikala.com": "F"
-

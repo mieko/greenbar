@@ -1,54 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/OU=Issued through Watchtower Bible & Tract Society of NY E-PKI Mana/OU=COMODO SSL/CN=jw.org
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 0 s:/C=US/ST=New York/L=Tuxedo Park/O=Watchtower Bible and Tract Society of New York, Inc./CN=www.jw.org
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFdTCCBF2gAwIBAgIQcbVBBh9HaQMs8UvVV60VAjANBgkqhkiG9w0BAQsFADCB
-kDELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
-A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxNjA0BgNV
-BAMTLUNPTU9ETyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
-QTAeFw0xNTEwMDUwMDAwMDBaFw0xNzA5MjkyMzU5NTlaMIGUMSEwHwYDVQQLExhE
-b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxSTBHBgNVBAsMQElzc3VlZCB0aHJvdWdo
-IFdhdGNodG93ZXIgQmlibGUgJiBUcmFjdCBTb2NpZXR5IG9mIE5ZIEUtUEtJIE1h
-bmExEzARBgNVBAsTCkNPTU9ETyBTU0wxDzANBgNVBAMTBmp3Lm9yZzCCASIwDQYJ
-KoZIhvcNAQEBBQADggEPADCCAQoCggEBALpF0lcZlsYwYX30n2fABsaCg7jIMrFy
-F4Ck/JgLZ5Bgu+KyY0w7e5WZ//6F80Gsmx9geB4vMFljvpnw8oblJILcRB6Nyk9J
-5zZNbVnmrormDHZeGDwz/wlhhJqeJt9MK3AAqofBTkHJt7aUXaAym6FCh8zTijrS
-uAspO/4mRP5CHr+zc3TInuhlXoCOgvC/98a44TcCOSLUBuVw/eGeS+QQ/G87KeDJ
-0vtmun7NWuPsch2qq2BVlGBppDDGB5DJzQ/bp3SLzlv4U7aRKmZ0jbMLdgyWHY8Y
-OLOXFrhGf/xO6hJKBf/iKwTH0YvhWKCfPckAVttIimpFyh1JTpe4SCsCAwEAAaOC
-AcMwggG/MB8GA1UdIwQYMBaAFJCvajqUWgvYkOoSVnPfQ7Q6KNrnMB0GA1UdDgQW
-BBQDqNsi3n8ru3ULK6Q/4qw14HZpzzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/
-BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6
-BgsrBgEEAbIxAQICBzArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21v
-ZG8uY29tL0NQUzAIBgZngQwBAgEwVAYDVR0fBE0wSzBJoEegRYZDaHR0cDovL2Ny
-bC5jb21vZG9jYS5jb20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNl
-cnZlckNBLmNybDCBhQYIKwYBBQUHAQEEeTB3ME8GCCsGAQUFBzAChkNodHRwOi8v
-Y3J0LmNvbW9kb2NhLmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJl
-U2VydmVyQ0EuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5j
-b20wEQYDVR0RBAowCIIGancub3JnMA0GCSqGSIb3DQEBCwUAA4IBAQAHTiHIb+ng
-Me4miZ2lFPnfh4SzN02E+QELmI/v7wCUEzDUykYZwqLClhTkx+cdx/GjBdvQwRPY
-PF1rLgRsWB9+FaD7uScpKnxJ6XLudibVE+1BrEEhAOdYOg1mHx/FNjoR0Ez8jNKi
-qRe97flkPzc2BZSZ2WGox4BkR1Gg8i6FgzJft3P+YSsYXCqBmN7rebbzaUsbJYnI
-FLHgZ9Aq/fB6C58kQjUjqoKim/qh+EcX0tEXZqtSXIy3dE6zQTnkOik+g5Dc3mbb
-cUWlzfY//kycBNDjm881WEGN/1J6rF7QSAybTAySm0q5TMTnuSW6puX+54MV+1Df
-qb3l1Gjtxe8I
+MIIHODCCBiCgAwIBAgIQB5tKI6Iy066sHjM3RiNKTTANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkxMTE1MDAwMDAwWhcN
+MjAxMTE0MTIwMDAwWjCBijELMAkGA1UEBhMCVVMxETAPBgNVBAgTCE5ldyBZb3Jr
+MRQwEgYDVQQHEwtUdXhlZG8gUGFyazE9MDsGA1UEChM0V2F0Y2h0b3dlciBCaWJs
+ZSBhbmQgVHJhY3QgU29jaWV0eSBvZiBOZXcgWW9yaywgSW5jLjETMBEGA1UEAxMK
+d3d3Lmp3Lm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKaPdkCl
+vz9QJfVyE+31rvVcZHr24uToiI6PD1vXoHfxxjfuhaiCHVA38PyNMDF0nvdgvZ7a
+gAvm2z7oj9QNl5mgGx4lGYPlmVpxU73/ZcW0nwNNH/og33wVCK8QesnKCx6KZfhF
+frVF9AQIf8HpOkU9ZwsAyqSd7lrbtwPr2g7X6js4ZbOohjbhE/xN6JKjd2+PajwA
+E7DC6an2i8qi05MER94r0k+HtM278VQetiVnX7XqArRtLeUS7Nc+Mcsu70n3QnOP
+xRISpfyJN5ol9fO/o/N+6aHJDsspBywlYKJhdar+6S0IDdJiKgt0bhOLkI0BgXem
+ptqzJvwxyPuh728CAwEAAaOCA9QwggPQMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjn
+jUY4tCzhxtniMB0GA1UdDgQWBBTj/jXqjo/4Gfnyq7+9HnNJIGQ/VzCCAREGA1Ud
+EQSCAQgwggEEggp3d3cuancub3JnggZqdy5vcmeCC2FwcHMuancub3Jngg53d3cu
+d29sLmp3Lm9yZ4ITcHVibWVkaWEuanctYXBpLm9yZ4IPZGF0YS5qdy1hcGkub3Jn
+gg1hcGkuaGFnMjcuY29tggp3b2wuancub3JnggxtLndvbC5qdy5vcmeCEGRvd25s
+b2FkMS5qdy5vcmeCDmFwaS5oZWI0MTIuY29tgg5hcGkubHUyMzQzLmNvbYISc3Rh
+Z2luZy13b2wuancub3Jngg9tZWRpYXRvci5qdy5vcmeCCXR2Lmp3Lm9yZ4IQZG93
+bmxvYWQ0Lmp3Lm9yZ4IOYXNzZXRzMS5qdy5vcmcwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBrBgNVHR8EZDBiMC+gLaArhilo
+dHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc2LmNybDAvoC2gK4Yp
+aHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nNi5jcmwwTAYDVR0g
+BEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGln
+aWNlcnQuY29tL0NQUzAIBgZngQwBAgIwfAYIKwYBBQUHAQEEcDBuMCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0dHA6
+Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2ZXJD
+QS5jcnQwCQYDVR0TBAIwADCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB3AKS5CZC0
+GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABbm9HLhAAAAQDAEgwRgIhAN3W
+xMmI2xxZpQ8j+b1i54GM4A2lCib78rbWZdS/QGtwAiEAgkEWAP1pV51rC2mq3hwV
+HpgjtVt7CF5QxmXF4H5BNUsAdQCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/
+XqCDDwAAAW5vRy5WAAAEAwBGMEQCIGopDfdJwwo7xv9nTOybarlnYw99oFjQTpXG
+jWHeM+3mAiA7v8MqLXlKmO7YD8ZWNrC+5mPJgNxLGBoyuRlV/NVTEjANBgkqhkiG
+9w0BAQsFAAOCAQEAkq2YMlktZopSuAT1o8DY5i1uMxwVGzoo2ModJ32kGLAcnWtF
+b/I3NxXZFF0gLMwiPVlvyFQeAQ6ALJ72eVZn8NJC5+yAy32vAc7YgjsCpCkPKMyk
+Atvq5Y8MkvP9PBCLTEdnVbixU11dpzRxTwMdoViL8R+0Uu6QBm3x1iUxyHDtifZd
+D0n/QveiE9GKDRSCgg0y7xXEPeM1LCkgI9rMvD6Ghk+PqG97E2Ixora9PHDyAV3C
+eWFMMJ3aZXuRO4H0/eVpD96c58JPdgiL623YI9A72BdpdMCKBusF72VpwkohnUMM
+cVFtfRgh60KPfsyojGoMkAhnOuPp8Y73Pm0/IA==
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/OU=Issued through Watchtower Bible & Tract Society of NY E-PKI Mana/OU=COMODO SSL/CN=jw.org
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+subject=/C=US/ST=New York/L=Tuxedo Park/O=Watchtower Bible and Tract Society of New York, Inc./CN=www.jw.org
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5030 bytes and written 434 bytes
+SSL handshake has read 3685 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -59,28 +65,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 5C38DB23073EB8FF0F07D36680B08B91AF622026DF0BA052A2EA463A10C6F05A
+    Session-ID: 4A44C01CFE12A6C6ADF4D5D5E2A160398E0255C8BE21F871BA7517270514EE5A
     Session-ID-ctx: 
-    Master-Key: 1F7E82F70D485324B8F1C8C01273183E67230B7ED8D3806853B01F59D3CEC8776F22968DD8C6FC18C3EC5A32B0431258
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 61F3339CD464277D312E61709FF74660D1EDC1950918E922E92ED020452A939DCF904E29B166D49D6A81C0425E5C5E7A
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - af 30 87 85 16 e9 39 54-db 35 db dd ce 14 51 1e   .0....9T.5....Q.
-    0010 - 76 a7 bc 3b d2 4f 98 b5-68 6a 32 9d 86 57 58 5c   v..;.O..hj2..WX\
-    0020 - 14 84 9c 96 24 dd 78 ae-61 40 ad a4 5c 94 66 14   ....$.x.a@..\.f.
-    0030 - 7c f7 2a 34 c7 54 18 63-54 8f 1f f3 12 c1 fd 2e   |.*4.T.cT.......
-    0040 - 82 4a 99 08 22 45 f9 6f-de de 22 f0 0d 26 a5 a7   .J.."E.o.."..&..
-    0050 - d6 39 b2 3a 23 68 31 b5-ff 63 5b 89 7b 85 f8 dc   .9.:#h1..c[.{...
-    0060 - 02 1b 8b 78 16 98 54 2f-08 37 3d eb 23 3b b3 61   ...x..T/.7=.#;.a
-    0070 - 2e a6 f7 0f b7 bf 60 ca-34 98 e3 3e bf a3 ad bc   ......`.4..>....
-    0080 - c7 e8 06 18 62 cf 88 cb-5e c7 12 cc 06 56 26 5c   ....b...^....V&\
-    0090 - 0a 7f 50 ef b9 84 70 a1-66 ba 06 20 59 7e 71 7b   ..P...p.f.. Y~q{
-    00a0 - 33 8d 22 16 ca c3 fa e7-37 a9 42 15 f1 a5 5d 8f   3.".....7.B...].
+    0000 - 00 00 25 62 f9 a3 36 7e-2e d1 e3 fc 79 56 e1 77   ..%b..6~....yV.w
+    0010 - a0 cc 38 b9 1c ec 4f b8-05 bb 19 bd 15 b9 2e 7c   ..8...O........|
+    0020 - 1b 65 62 13 1f 78 39 85-a1 0b e9 c3 a4 f9 6d 26   .eb..x9.......m&
+    0030 - 20 29 12 d0 f3 28 44 1d-95 13 b9 b2 56 2f c2 a8    )...(D.....V/..
+    0040 - 1d 4e 8a 0a e9 71 0f 99-2e 9f b7 4b 84 1a 39 c6   .N...q.....K..9.
+    0050 - 09 2c 14 bf 59 11 29 e9-f5 41 ba 5c 98 ef be 16   .,..Y.)..A.\....
+    0060 - 7f 22 0e 9e e6 6b 77 1c-93 e5 86 d5 58 d1 88 01   ."...kw.....X...
+    0070 - 83 6a e4 2f 3c 3f 93 ef-29 42 3d ab a5 41 7c a8   .j./<?..)B=..A|.
+    0080 - 18 4b 1b 69 f0 e6 a0 3e-5f 6b 05 13 c3 9e f3 79   .K.i...>_k.....y
+    0090 - 8e 8d 98 48 fb ef e7 17-43 b8 fb df de e9 21 44   ...H....C.....!D
 
-    Start Time: 1472789765
-    Timeout   : 300 (sec)
+    Start Time: 1577475141
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

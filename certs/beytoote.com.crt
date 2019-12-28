@@ -1,4 +1,4 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:/OU=Domain Control Validated/CN=*.beytoote.com
@@ -8,17 +8,17 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE3DCCA8SgAwIBAgIMfhqAEQV/M15OamnRMA0GCSqGSIb3DQEBCwUAMEwxCzAJ
+MIIF4zCCBMugAwIBAgIMLhZZv2KlT4b9WCd/MA0GCSqGSIb3DQEBCwUAMEwxCzAJ
 BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSIwIAYDVQQDExlB
-bHBoYVNTTCBDQSAtIFNIQTI1NiAtIEcyMB4XDTE2MDcyNTE4NDg0N1oXDTE3MDcy
-NjE4NDg0N1owPDEhMB8GA1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRhdGVkMRcw
+bHBoYVNTTCBDQSAtIFNIQTI1NiAtIEcyMB4XDTE5MDEyNDA5MDQwMFoXDTIwMDEy
+NTA5MDQwMFowPDEhMB8GA1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRhdGVkMRcw
 FQYDVQQDDA4qLmJleXRvb3RlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
 AQoCggEBANeVLLfeDoluOTyvagCtlXEh/d1/Ndl0sp3Cjbo5szzGLF3+k0PiUH04
 7wD2PMHF6EutZwQ+wnniAiJS3ZI/9MKXZNT8fb/UD0xopJdneQGYprENn64f2i6I
 YsbphwuG6qVxQoSzFEx9ezpStHJdH8L4yX59oAW17lrdwNRXu4XrT1pzztlZM30E
 zZO0YJCpFowMrVD6RSJiEADVbH73XpbulkYLSKsWH/3WDzg/WBDmRRru0g+JALzy
 MOB/ab7kiAaM3Bp959rCTkCpljclEImgnoKXrgVQYnaMJchRDOTQVkwyw9drbUmB
-0/aMAOs/nXXuVYHWbozeM/MqpnvjPpECAwEAAaOCAcwwggHIMA4GA1UdDwEB/wQE
+0/aMAOs/nXXuVYHWbozeM/MqpnvjPpECAwEAAaOCAtMwggLPMA4GA1UdDwEB/wQE
 AwIFoDCBiQYIKwYBBQUHAQEEfTB7MEIGCCsGAQUFBzAChjZodHRwOi8vc2VjdXJl
 Mi5hbHBoYXNzbC5jb20vY2FjZXJ0L2dzYWxwaGFzaGEyZzJyMS5jcnQwNQYIKwYB
 BQUHMAGGKWh0dHA6Ly9vY3NwMi5nbG9iYWxzaWduLmNvbS9nc2FscGhhc2hhMmcy
@@ -28,21 +28,26 @@ BAIwADA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY3JsMi5hbHBoYXNzbC5jb20v
 Z3MvZ3NhbHBoYXNoYTJnMi5jcmwwJwYDVR0RBCAwHoIOKi5iZXl0b290ZS5jb22C
 DGJleXRvb3RlLmNvbTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHQYD
 VR0OBBYEFPFSDzBMTC3UA9i9jJRWsx6noVMCMB8GA1UdIwQYMBaAFPXN1TwIUPlq
-Tzq3l9pWg+Zp0mj3MA0GCSqGSIb3DQEBCwUAA4IBAQAOBekB0vopXxfWvLuv+/MR
-xW4PfB7dd12458ZiWJ+O6h/6pkU91k0gr4Zj3zIqgDGYI91GRB2mXPg2sXgy9hQJ
-Ix/KUK1Sfn+8dgeqZ+lzTl4iQ8gOJwfPNiyCWjRxividKr4rSaDtaLZHgJDkNyB5
-qhbbrrXBjvheQ7LK4jNmhsMUaegcXrZbB96dozu89T/nhiwHczss4HGyrOHbZUdX
-BpS+Gm/EPVwwF6F7emDF1C6RIP1irLVRE2yEYJ2NZW8ch0fGfDcXGRNMdlZAjhBZ
-n889JCuR1zLauE/kjBjxMalzg7ucI/8KcqO8hnLPJ/VoCe4rqVhz24vRboh8Y6Ll
+Tzq3l9pWg+Zp0mj3MIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAh3W/51l8+IxD
+mV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFofxoYigAABAMARjBEAiB9YVxZOofd
+GJCjAEOjAjikbWoyuyZED7rmG1FfrIHdngIgAdKmIyQzXAX46AVaVFcQ8UMvr3e2
+6T/T+X8urBxJcOcAdgDuS723dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9ywAA
+AWh/GhVWAAAEAwBHMEUCIDgYlSYOEbhjuVaKixLZUfUGTtwN01aUdQJlDONVx+yK
+AiEA1IBYrPIUN76CNXXKVxae+T+JISFWAMxl7f1rb+ifkLIwDQYJKoZIhvcNAQEL
+BQADggEBAMKDFOEqGQs0EPEzy2DWapDSlA/aq7JxxvivK/tpLy2PKOdo9qrTZmCw
+kQZHPuhAXKJZFFhTBXfcnsaAn9ob4JOkhz7ytf6clQPxREzrtjCUjE8AQ2+JyCqj
+lLXD1aFwTL86oU35wg+NFS4wtCIH6iHhERCjhfrg5kZr1Jx70m+Rn+auzUEybVcI
+7zsCFcmH+sfd1SXnaGTEJaV/gQbWjtBgkjgxeXcnP2P25VMaeP+sFSsanI3miLZA
+djcAsmuwzuMJXlDjRCN44Kfzs09GbMLm8gQ6JyQxs38P5QCpU1L4FIxBViWhYKTC
+8ditEKMoaQ/3ki+jD+o0LXXNzG6wD8o=
 -----END CERTIFICATE-----
 subject=/OU=Domain Control Validated/CN=*.beytoote.com
 issuer=/C=BE/O=GlobalSign nv-sa/CN=AlphaSSL CA - SHA256 - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3015 bytes and written 434 bytes
+SSL handshake has read 3238 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -53,27 +58,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 4794E48BE7D374691DCBFFBC9A804EF2995D974E1A045AB914AF9AC694CB4F3F
+    Session-ID: 9AAF07679E5DF4770452E6662ABF581C452711D72DCFF4C93B1AE89ABBE33D90
     Session-ID-ctx: 
-    Master-Key: F0D76E3BE4A4A2E1BA913888086EBFBAFCB7FB83977407E3B079CCDD5E0E6D4DC00D220A06891398D910DCCB0059FACA
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 1FE5AE199DDCC78B328A9B0158A2A71172F9C92992674B2BE93DBA80B5B04AE25C1A9891D365ED119360DD91287D4C8E
+    TLS session ticket lifetime hint: 216000 (seconds)
     TLS session ticket:
-    0000 - 97 33 43 48 b9 fb d4 33-1b 5a da 42 9e 5e 04 e3   .3CH...3.Z.B.^..
-    0010 - 2a 73 a2 a3 7d d2 ab e2-2e 57 a9 10 4d 04 76 08   *s..}....W..M.v.
-    0020 - ea 9b 45 d2 ca fe c1 55-2c 32 28 94 bd 68 0b 7f   ..E....U,2(..h..
-    0030 - ad 5f 62 1d 60 f4 43 26-34 5a e9 1a 27 b4 8a 79   ._b.`.C&4Z..'..y
-    0040 - f9 a5 fa d5 d8 cf dd b1-a3 d8 3b d5 f5 49 ce 27   ..........;..I.'
-    0050 - e9 d4 36 29 fc 09 d9 07-d9 31 a6 5e 34 48 c3 98   ..6).....1.^4H..
-    0060 - 73 d1 fb 8c e1 f1 39 34-88 b1 ce dc c5 4a bd 87   s.....94.....J..
-    0070 - 2d d4 bd 57 e3 a2 ae 3e-a0 a2 21 8a 91 82 35 b1   -..W...>..!...5.
-    0080 - fe 63 59 48 c8 d7 a0 ad-61 d1 25 a6 f5 6a 54 57   .cYH....a.%..jTW
-    0090 - 73 e7 96 d4 d6 10 ce 73-97 69 9d 62 ca 3d f6 bd   s......s.i.b.=..
+    0000 - 8f 04 b6 73 42 b0 f9 d2-70 45 22 2b 09 72 2d 8d   ...sB...pE"+.r-.
+    0010 - bc 98 b4 a3 ec 0b 9e 33-7d 34 b2 e7 71 48 f7 56   .......3}4..qH.V
+    0020 - bd e7 da 31 79 26 30 7c-aa 1b 8f d5 37 d8 6a 44   ...1y&0|....7.jD
+    0030 - c1 74 82 19 f2 d4 ba f1-f2 11 f5 02 e8 90 9c 6f   .t.............o
+    0040 - 4f 27 08 14 e8 17 df 49-af 33 2b 67 bd 1f 6a 30   O'.....I.3+g..j0
+    0050 - 7e 1b b2 15 06 20 a2 be-28 fe e6 77 4b c6 58 28   ~.... ..(..wK.X(
+    0060 - 42 23 e4 1c dc 24 56 e0-ec a9 f0 bb 91 6f c5 22   B#...$V......o."
+    0070 - b5 48 d0 04 6d 3c 4a 7a-59 2f f7 79 0c a8 a8 b1   .H..m<JzY/.y....
+    0080 - 2f 2e 1a 96 2f 50 f0 c8-86 53 9a 52 f6 d3 a8 32   /.../P...S.R...2
+    0090 - fc 93 7b ce 6a 98 c7 2e-01 49 46 19 b8 36 a4 65   ..{.j....IF..6.e
 
-    Start Time: 1472790737
-    Timeout   : 300 (sec)
+    Start Time: 1577475184
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

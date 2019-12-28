@@ -1,47 +1,52 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/CN=www.sporx.com
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/CN=sporx.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIELjCCAxagAwIBAgIDCKGoMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNTExMzAwNjQ2NTJaFw0xNzAxMDEwMzUwNDJaMBgxFjAU
-BgNVBAMTDXd3dy5zcG9yeC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
-AoIBAQCnp3dJyJJ5dBIkvemREyMBK4spVIPr0dVgxS3UnETcJIwkJqVCqnYZUTQ+
-9s0W2EUoxKGHowwJ8XTBpRTSiZplP89ZC5VnCv23HPThz/MDEA6qm+gSv4KWnBSK
-HOQ/uNRiOurDTfitU+UlnraBzEVnKKFnQUsvTK0YmPSCmVZfK/Z0QnMUGNoEESV2
-/oOSFakRF5IitJ/7pJKt6XLizkG960iW1QR/EOrhTy3kNTopeSVB/EfWuLrPdTaG
-Hu5vkOmxqpBbxn3vqQs9DEHgkGPmK52lkpyMHQvcgDSfOks1diUayAbieNHynDfK
-L5THTyy39F7bPE0lfqeHztzSTOARAgMBAAGjggFQMIIBTDAfBgNVHSMEGDAWgBTD
-nPP800YINLvORn+gfFvz4gjLWTBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGG
-E2h0dHA6Ly9ndi5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9ndi5zeW1j
-Yi5jb20vZ3YuY3J0MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
-AQYIKwYBBQUHAwIwIwYDVR0RBBwwGoINd3d3LnNwb3J4LmNvbYIJc3BvcnguY29t
-MCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9ndi5zeW1jYi5jb20vZ3YuY3JsMAwG
-A1UdEwEB/wQCMAAwQQYDVR0gBDowODA2BgZngQwBAgEwLDAqBggrBgEFBQcCARYe
-aHR0cHM6Ly93d3cucmFwaWRzc2wuY29tL2xlZ2FsMA0GCSqGSIb3DQEBCwUAA4IB
-AQCB8+K2xraaEEJKAj9fwRPmFNWO6tMAqJarr3U97Gs5KQE1vkTQQDDb2U2kJGU1
-VXwfFMJTVmavLDziNxL/3r/AxVNJBGm5ZkVGLb6W5+gGO4GhVGu7Zh/s9nWEg7jK
-Z2ZWS/UK9N7Vd9ObLCYX0YMWWwHqRQ4t/Fvfrn1EIpccvo+d+CwlIDHd6OiQwd/t
-BTq8o/rviVDd+rKZcsnawboqlbKaIRpJXdVxEjV+Bf+HP3ek4U+kVu8nn3quG+A3
-bZryty3lP09jTvZe/u7WMFaUkXWHTcV0iwcH3YUw3tSZ/cHpWnqlKiUh+QYZ6O0r
-nhMuu+wnSUEWaYyxNv1HcA5X
+MIIFSzCCBDOgAwIBAgISBEVcwYQwXSWFX/fhoYEw8oGLMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMjgxNTMxMjRaFw0y
+MDAyMjYxNTMxMjRaMBQxEjAQBgNVBAMTCXNwb3J4LmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAKnMClMAMy6XkFOSmA4K0EvXZpl/V2wBmCqIFVY/
+nu+vHkXx6VWSSBAx28GZL1XboqsZHxOnDEUbuD/+mNg+c01EEhAVVhtD6zK2pJBy
+tkZ7LCtmAJhydyTWmn04oQ1usTTup9hGQI6jbPUiVijImTKKPDpvWVYAZY72Jfp4
+vQWYzqp62Cai3bJLGu/fnoE++KIhR+ZY/l2Zs4SESy6qMAHlK4SJ/kBk7r8IHKYP
+9rf2b7WKaQ07sM/+6jbEB/4gZYLnAQbNhy83uvslAssNXVHCP8hlGlN0qN4f0Q4p
+eEK68fkd/IPMrdgM9Dtuy4bSL6Oj8ku/Y15/QfoMFljEDmECAwEAAaOCAl8wggJb
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUMh0AEgWXAZ1zEiPIBrFMQdcJJ70wHwYD
+VR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4G
+CCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8G
+CCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzAU
+BgNVHREEDTALgglzcG9yeC5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
+BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
+cmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgDwlaRZ8gDRgkAQLS+TiI6tS/4d
+R+OZ4dA0prCoqo6ycwAAAW6y2loHAAAEAwBHMEUCIQCDNvaRk409UNbYwLB+Izdp
+f8JR/iMN9hWAGF216G9j6QIgTTL7lkg4im9bzQAq1TQmMPP2OrbsuVYGRSFiQHk3
+jf8AdwAHt1wb5X1o//Gwxh0jFce65ld8V5S3au68YToaadOiHAAAAW6y2lo1AAAE
+AwBIMEYCIQC8K/iGRgorAP75H9ChMy2bspeeWcao4Og+3ta7gYVDwgIhAKIj/Hnr
+OERXPAHPsRsT+gWciDfR8gKG46DbCoBxL+mNMA0GCSqGSIb3DQEBCwUAA4IBAQBV
+CoOC6i2EJ6WpId7gD+7shS8pJsndqhjfDnCEh5GlFvk89p9sMErcdvSgIRMztQ5W
+qtZM7m8kWsxgaxAFJiDOANUrjmjMgALIncPtb6AnWZj5p5juaBKJqil5guPBgcjJ
+39QC9KHDOZqGlzL2Can3bUC7+xt4Yd11KodgDgCz7rud2jkv0ZUBbwlqD6utQRps
+Ndt5AmfHkDVuBQMp+zen5IuX/d8Gz8vFpemaAyenoxrI+Gnh3gY8rqPs9LFCg2uS
+mCl7PjNzm3o4Nr51vbd1+NFTy/snCDBWxPzXZl8eKe/CTZZw6uo3r4Wz9+f5/xIl
+akDeYnQmugtusZbBRf6/
 -----END CERTIFICATE-----
-subject=/CN=www.sporx.com
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/CN=sporx.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA1
-Server Temp Key: DH, 1024 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 2835 bytes and written 498 bytes
+SSL handshake has read 3200 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -49,15 +54,28 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : DHE-RSA-AES256-GCM-SHA384
-    Session-ID: C412DAAF45705AE6900689E89EC476A95874E2B7FF788967A67FD6B64D331880
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: EA5229EAC9F922CEA10C9F3E1DD9CEBB0DB5DB1724DAA6C20C73BAF7EB3F98AB
     Session-ID-ctx: 
-    Master-Key: 24D493C985EB987B526A8A4114751C75F706F9D1BBD875E61F31785D48D34655AF3D20504783B4B465A9BBC13DC5FFB9
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472789688
-    Timeout   : 300 (sec)
+    Master-Key: E3F606FC9452AB6B8FEEE0AB5E8279822EBCB951F460E33F5D1253DE42C0693F6C87AE002432EE10D507606EC6B356BA
+    TLS session ticket lifetime hint: 100800 (seconds)
+    TLS session ticket:
+    0000 - 00 6c 3f f8 bb 37 03 74-3a 29 71 d1 47 4e 7b b9   .l?..7.t:)q.GN{.
+    0010 - a5 d7 8a 30 fd 8b 0b 65-6f 92 8d 87 23 bf f2 6e   ...0...eo...#..n
+    0020 - ba 4c 29 be f0 35 7e 25-2b 65 36 4e e1 b4 9c 47   .L)..5~%+e6N...G
+    0030 - 22 54 21 55 5c fc 90 4f-cd 33 50 06 33 3b c7 cd   "T!U\..O.3P.3;..
+    0040 - b1 58 e2 29 7b 73 4a 4e-99 72 e9 19 ab fd 58 6d   .X.){sJN.r....Xm
+    0050 - 57 a4 2a dd 9f 9d 1b 64-9f d6 5b c3 a4 f2 84 28   W.*....d..[....(
+    0060 - d0 f1 43 de 8b b4 3b ae-1b 21 a4 cc e7 f7 62 4d   ..C...;..!....bM
+    0070 - 15 95 70 1b ca 8b bb 03-a0 a2 8c 4e ee 3c 82 f9   ..p........N.<..
+    0080 - d6 c1 10 cd 81 81 d9 aa-25 b2 13 9e f1 9e 15 20   ........%...... 
+    0090 - a5 6c 9b 6c ee 5b 01 88-85 1e 4b 21 7b 71 3c e9   .l.l.[....K!{q<.
+    00a0 - 48 7d 50 1b 74 6a 74 af-49 c3 ed e5 59 ca 16 4e   H}P.tjt.I...Y..N
+    00b0 - a6 5c d5 cc de 78 54 ae-32 c2 e9 e3 87 6c d4 5b   .\...xT.2....l.[
+    00c0 - ce d8 43 36 51 88 de 81-cd cf c1 d4 b5 f3 08 ae   ..C6Q...........
+    00d0 - fb a7 4d 6d 88                                    ..Mm.
+
+    Start Time: 1577475789
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

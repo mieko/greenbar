@@ -1,49 +1,50 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=GT87008144/OU=See www.rapidssl.com/resources/cps (c)14/OU=Domain Control Validated - RapidSSL(R)/CN=*.ted.com
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+ 0 s:/CN=*.ted.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEojCCA4qgAwIBAgIDAR04MA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNDEyMTUxMTM0NDBaFw0xODAxMTYxMDQxMjVaMIGNMRMw
-EQYDVQQLEwpHVDg3MDA4MTQ0MTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
-bS9yZXNvdXJjZXMvY3BzIChjKTE0MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
-YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTESMBAGA1UEAwwJKi50ZWQuY29tMIIBIjAN
-BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjQTPBDjYTZtN2DjBpbt8nYttQ0G
-3/okrsgyAxpjV+RxdpXjGB+nFOq12VFY/oaDlBP2DopnWSJQjlRAXdpGoLMuo2KE
-kp8h8mDIZRsTxjS88/TSeN98ECvVaNEMykMMzK+jhCxsgg+K2PsE76Wf69L54lUG
-8yGW0Yg/KpWv9SCpFgsCUvCmcBNwFOHRjUulZfjzsK1nPcgQJYCRqCwXediwWFTg
-bc6mJtmiSNfOVuY93mNQxEpt4OL/4/DYwm2kY7bJFdWt4TqsNX/r7tmNmiO9jy+Z
-BRq3r14n/GHRXaM2Lzld3tLuwmwnC49p+IIDnsMrxiK45KLnfqarXkI+/QIDAQAB
-o4IBTjCCAUowHwYDVR0jBBgwFoAUw5zz/NNGCDS7zkZ/oHxb8+IIy1kwVwYIKwYB
-BQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ3Yuc3ltY2QuY29tMCYGCCsG
-AQUFBzAChhpodHRwOi8vZ3Yuc3ltY2IuY29tL2d2LmNydDAOBgNVHQ8BAf8EBAMC
-BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB0GA1UdEQQWMBSCCSou
-dGVkLmNvbYIHdGVkLmNvbTArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ3Yuc3lt
-Y2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAAMEUGA1UdIAQ+MDwwOgYKYIZIAYb4
-RQEHNjAsMCoGCCsGAQUFBwIBFh5odHRwczovL3d3dy5yYXBpZHNzbC5jb20vbGVn
-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
+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
+FZaP36WSvFm8va/bnrF1PRy5txrSKvc=
 -----END CERTIFICATE-----
-subject=/OU=GT87008144/OU=See www.rapidssl.com/resources/cps (c)14/OU=Domain Control Validated - RapidSSL(R)/CN=*.ted.com
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/CN=*.ted.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3812 bytes and written 434 bytes
+SSL handshake has read 3214 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -54,27 +55,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: FECE634D5C0F327F2B724E9099F09F4C36E16C9E0945F322B95213F4B885FCB3
+    Session-ID: B3F4006BDAA5169F8CDFCE0C61B1D535C766B1A78C3C07B851EAE21C5C992753
     Session-ID-ctx: 
-    Master-Key: 3C0C742715CD3DBE3B6BAFE98CDFBF8D056220F17EF6C32CA14BB525A0F229A459D832CBE5B330BED10A7F62ACF48778
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 4DC84B3F1772B365550B76AE49E5DEE172BC3E77DBE51058D6AF82E8383480CAE62DA41EAD73FE25A32419E856E3CE04
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - d1 41 c7 1c 96 29 70 cf-46 1c ea a6 f6 6f cd b5   .A...)p.F....o..
-    0010 - 2f 57 14 84 9f 8a 44 d7-9a 14 89 26 35 33 d8 86   /W....D....&53..
-    0020 - c0 76 6c 34 01 7b 8e 77-f5 08 85 41 70 90 6b eb   .vl4.{.w...Ap.k.
-    0030 - 2a 5d 38 09 59 b1 64 aa-35 e6 41 27 87 fe f2 98   *]8.Y.d.5.A'....
-    0040 - f9 19 be 87 a3 7c 91 6c-1e 17 8c 5e 50 5d 19 ae   .....|.l...^P]..
-    0050 - d7 60 24 f1 4e 3b 93 9d-2e 51 1e 63 f5 7d 76 b9   .`$.N;...Q.c.}v.
-    0060 - 3a c7 71 d6 2d f6 a8 d2-e2 39 84 52 12 42 54 22   :.q.-....9.R.BT"
-    0070 - 65 4f 24 10 45 35 f7 3a-98 82 1c 21 1a 5b 07 b0   eO$.E5.:...!.[..
-    0080 - 7e d0 4e 65 c4 e6 71 da-92 1f 03 ee 01 1f 3b 13   ~.Ne..q.......;.
-    0090 - c2 9f 24 e2 0e ba f1 1f-af f0 88 a0 a5 fe 69 19   ..$...........i.
+    0000 - 36 6e 62 96 14 24 b0 e1-ff 68 dd 03 69 d4 d4 c1   6nb..$...h..i...
+    0010 - 7b 0a 9e 16 a9 a6 4e 4c-2d d2 fe c0 a0 82 cf bb   {.....NL-.......
+    0020 - 9d e5 db 76 da 76 a3 f9-ee 0a 4a b6 83 dc f4 f8   ...v.v....J.....
+    0030 - 91 35 b5 b2 98 c5 ae 2a-44 cd 71 a6 9b cf b1 5d   .5.....*D.q....]
+    0040 - 8a a2 68 fd 01 6a b5 af-54 f9 6b 87 0e 9e 7a 55   ..h..j..T.k...zU
+    0050 - a9 49 7c dc 08 ea f1 69-a6 c3 25 77 52 bc 4e e9   .I|....i..%wR.N.
+    0060 - 40 7a 23 1f e1 1b a8 50-1f ce af ab a4 b2 9d a2   @z#....P........
+    0070 - 35 26 c8 1e 78 20 29 79-0c 68 eb 06 33 f4 1f 7c   5&..x )y.h..3..|
+    0080 - 80 21 f2 6c 5a a0 b9 87-e8 4d 9e 62 c3 37 d9 fd   .!.lZ....M.b.7..
+    0090 - 10 3c 6f dc b9 87 b8 ef-15 7d 2c 75 62 38 1a 64   .<o......},ub8.d
+    00a0 - d7 be 77 74 1d 32 37 f0-a8 b4 1b a8 fb a5 95 0c   ..wt.27.........
 
-    Start Time: 1472789585
-    Timeout   : 300 (sec)
+    Start Time: 1577475691
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

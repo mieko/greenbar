@@ -1,52 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=San Francisco/O=Reddit Inc./CN=*.redd.it
+ 0 s:/C=US/ST=California/L=San Francisco/O=Reddit Inc./CN=*.reddit.com
    i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
  1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
- 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFFjCCA/6gAwIBAgIQAUVJWy7Z0HpEwZlqICPJ4zANBgkqhkiG9w0BAQsFADBN
+MIIHQzCCBiugAwIBAgIQB1sC352kFlEvZM5wcfyMBzANBgkqhkiG9w0BAQsFADBN
 MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTYwODAzMDAwMDAwWhcN
-MTcxMDExMTIwMDAwWjBkMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTgwODE3MDAwMDAwWhcN
+MjAwOTAyMTIwMDAwWjBnMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
 YTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEUMBIGA1UEChMLUmVkZGl0IEluYy4x
-EjAQBgNVBAMMCSoucmVkZC5pdDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
-ggEBALgRYyfhY57St33wN7kA8edMGnKEgCyqQTJQAnfnG/XdLi0oxRg1o8BfupeW
-heE5j9hqK1jmMw0IpMk5nr4iYMHJPGA9kxb47mDYIqo9Saip5+OKXIrlB7zkW/in
-lJqkGjhtwfbmF48zEDemXfifSo3pYjQy0kYMCxsHhKZIuuZmFrOtfPc0xOTDq0bU
-ry87M55wPXj2PO/znDwXXEjS6AgGAw87kYZthfrBaWszy5ALGJkua+Qxeu0cGywy
-naEvTRHUlgrdXFszQPD3cDGiYCzA9iLUpldZWg3vYcB88f+KEosiLgfjCqBihus6
-FnqUI4DqAWbirNxuNHp1hBiaBEUCAwEAAaOCAdkwggHVMB8GA1UdIwQYMBaAFA+A
-YRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBQZZE9zMdjHXTG1SIl/Qhv0Z9cu
-bjAdBgNVHREEFjAUggkqLnJlZGQuaXSCB3JlZGQuaXQwDgYDVR0PAQH/BAQDAgWg
-MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBrBgNVHR8EZDBiMC+gLaAr
-hilodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc1LmNybDAvoC2g
-K4YpaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nNS5jcmwwTAYD
-VR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cu
-ZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwfAYIKwYBBQUHAQEEcDBuMCQGCCsG
-AQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0
-dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2
-ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAlbWaWjYG
-rHY1U8+Iw3dpp+kkZ0u9M25wkAQs3+f5gQPLrk33HXNRdKUXQqy6RFFMJ+FrK3h6
-BNphIy9XbLiyGvl5Uqb0H1h0XNCdK4TgYNXcXKihGYMCyvV/sAJs/VLLB0O0VTeQ
-TOwyW56nSLlEG4lVKV8FRLBt4yRjFA4DQMmHHvkJiKVmrfLs3ZPhS/6tOfpz4acQ
-wnO/IBCRouJO/XK53fH6GAYC9dVC+jUXEK736k4Qk/qNEzcFxtTRGli4kAWVVstR
-FptwTXoO9gfEq3ALf+tyHCRoKF42rB46S9c7BdujPCHw/9/KDeCiPBGxONH2ckWb
-jdPlbYLqJ8xJFA==
+FTATBgNVBAMMDCoucmVkZGl0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAM/pmlSjpBriKS1FgXKzqItMziu7otc9nmls8zLRaKwDHRpwVfiGWkLc
+kOfvhn79U2zqwDilJ7TKepbjXgpa7mUgs5bX5DqZPXhyfV1hFD66RRQi2wVbvdbJ
+dBGL3VrKZVJRIIpTtc3Q169FIslNKbc9eGq1nwO/REhI5dxDCHAoHwLpp+XfbjkB
+JGzlgKIBdBHed67KFVUKFvh1RVanVJUNG6IkAXXnPZSigwfA2wBH3QguOc1YxswP
+B4cOH5sdZeAJQ6j9rSxNqjZthoV43La5nsVYxRtreJ8ooV5ZX/dsL7BBBkWfF/ac
+VSU3f7X7XiFz23vruQyBNQKT2HKXwgcCAwEAAaOCBAMwggP/MB8GA1UdIwQYMBaA
+FA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBRx4FDR54BS+yMUZZ1Dp40x
+qlZpJjCBxAYDVR0RBIG8MIG5ggwqLnJlZGRpdC5jb22CCnJlZGRpdC5jb22CESou
+cmVkZGl0bWVkaWEuY29tgg9yZWRkaXRtZWRpYS5jb22CCSoucmVkZC5pdIIHcmVk
+ZC5pdIIUd3d3LnJlZGRpdHN0YXRpYy5jb22CE2kucmVkZGl0dXBsb2Fkcy5jb22C
+GCoudGh1bWJzLnJlZGRpdG1lZGlhLmNvbYIRd3d3LnJlZGRpdGluYy5jb22CDXJl
+ZGRpdGluYy5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjBrBgNVHR8EZDBiMC+gLaArhilodHRwOi8vY3JsMy5kaWdpY2Vy
+dC5jb20vc3NjYS1zaGEyLWc2LmNybDAvoC2gK4YpaHR0cDovL2NybDQuZGlnaWNl
+cnQuY29tL3NzY2Etc2hhMi1nNi5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEw
+KjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZn
+gQwBAgIwfAYIKwYBBQUHAQEEcDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5k
+aWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0
+LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIw
+ADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHUApLkJkLQYWBSHuxOizGdwCjw1
+mAT5G9+443fNDsgN3BAAAAFlRULTsAAABAMARjBEAiBcrugEb8o8AymzIh0fUN/F
+0i9SHl/xCQnCIMbXoSd+rwIgVwN50xsjJVuBP7cVxR5oSlj2USU3KVkZoAq+PIwM
+HucAdgCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAWVFQtSDAAAE
+AwBHMEUCIGo9XmyFN5b38sdORa5NThm594MGPYK4se987nB8WsvPAiEA8Imvn9QF
+63D4vIwY8d+aticvw2dbwHdoZFpCj96yRn8AdwC72d+8H4pxtZOUI5eqkntHOFeV
+CqtS6BqQlmQ2jh7RhQAAAWVFQtSGAAAEAwBIMEYCIQCH+S3U0ac6/F5Bsc5xyHpO
++UTpgz8DKiJSCfaObn3u5wIhANl9+8L/zSfwf7KPUhdPWfNnkMUFaFgRY1/HdOej
+6a4UMA0GCSqGSIb3DQEBCwUAA4IBAQC9OsE5bjOOvx0VowfFacujFxU1kYDikX90
+BH106XP7YQIExGmjZ9mo5Ai6UgMHUSIYO4sNFcZYYk6N7bd75K0i8U8X2AcoIfiC
+6VYdrw4e2rNMXW10CzIh1Co/t65QZ9KtuWXWwxQJYJuIcLsQT7MG7+K48ZJNSsB9
+VuuzqNebxSZTyhEBMsN030/Oy1CiUsq+nekZfibcAHxc5L6JG8sFnW6R4uTuGg1q
+Zsvr95KZi5lpoUOE2UkdOK2TG7ntn7JLY4C4Yv2VGKrnxGiqajcKwkdh0a6xC1EX
+Y9JObNczgauCO56+f8+xcRoZpTAE/JtywwVl++brUeoLLUdCVthx
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=San Francisco/O=Reddit Inc./CN=*.redd.it
+subject=/C=US/ST=California/L=San Francisco/O=Reddit Inc./CN=*.reddit.com
 issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4110 bytes and written 434 bytes
+SSL handshake has read 3663 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -57,28 +65,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 586BE59CBFFCACF450C09D526B92BE483887E8F553AEA162E095DF4EBF04E6F7
+    Session-ID: 7758CFFB07996F3E63BA0D73FBCC4E0B97DA45064F8AC9A77D8DEABC7B304031
     Session-ID-ctx: 
-    Master-Key: F2F2D0CF49006B012BC234926F6C0CAF1B6C9E2A441D8107C3AE7A6D4D07E034C5EA5AD33B50D644BB9497380DC3A1C2
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 1200 (seconds)
+    Master-Key: 0FEEDFEBBC2B7A7907F765EC1C213860FCB0AA1ABC9749DC92A2B234C0BE5654A703712E63C99B08B09EC76CD92FE0F2
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 61 bd cf 79 2f 42 e2 3f-08 aa f1 e2 71 a9 cf 19   a..y/B.?....q...
-    0010 - 1d ab 3a b5 a7 eb c6 76-7e 29 39 2b d0 7a d4 c5   ..:....v~)9+.z..
-    0020 - 80 67 78 b5 83 b0 60 59-58 b5 f4 61 36 39 62 37   .gx...`YX..a69b7
-    0030 - 4b 46 9b 67 99 28 42 fe-c5 11 3b 9c c0 fe 92 b2   KF.g.(B...;.....
-    0040 - f9 06 df 64 6e 33 bd fb-8c bf 44 40 b2 bb ee a6   ...dn3....D@....
-    0050 - bc 09 0c 56 b6 89 6f 6a-5f bf aa a8 d9 7f 79 ed   ...V..oj_.....y.
-    0060 - cd a5 5c a6 80 98 3a 1e-35 74 5c a3 f0 03 7a ce   ..\...:.5t\...z.
-    0070 - 54 11 a6 5c 9a 72 b8 e6-7e 08 6c a7 68 b3 89 0f   T..\.r..~.l.h...
-    0080 - df fc 33 cc 0e b5 6e b8-87 3c ce 8b 74 78 6b 96   ..3...n..<..txk.
-    0090 - 46 f5 cc 53 37 85 43 0f-73 dc 94 3d d6 2d 19 2c   F..S7.C.s..=.-.,
-    00a0 - 92 a4 c4 4c ff ea 4f d3-2f bc 9c b0 58 64 a2 ab   ...L..O./...Xd..
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - 12 e3 88 16 08 1c 49 42-8d 57 dc 9f bd a1 78 ce   ......IB.W....x.
+    0020 - c8 c6 ff c5 a6 f7 0a 50-55 a9 16 e0 52 29 dd 6d   .......PU...R).m
+    0030 - 80 a4 77 c8 38 49 71 cc-8d f7 55 55 50 6f 5e 68   ..w.8Iq...UUPo^h
+    0040 - e4 bc 90 a5 2c f0 b6 6f-f8 b6 5f 44 8b 94 8b 14   ....,..o.._D....
+    0050 - a7 21 ba e1 1a 02 04 49-19 c8 72 91 1f a6 37 08   .!.....I..r...7.
+    0060 - 35 15 fe 6c b9 4c 43 63-fd 46 35 85 fb 18 28 c8   5..l.LCc.F5...(.
+    0070 - 45 f2 48 11 40 4f dd 1a-84 88 ed df 39 a9 5a bf   E.H.@O......9.Z.
+    0080 - 81 d5 f8 6f df 56 0f 2e-1b be 2a e9 7c 3a 07 ab   ...o.V....*.|:..
+    0090 - 44 4e d1 7e 7d 01 ef 7b-01 cb 97 d0 b0 6a de 19   DN.~}..{.....j..
 
-    Start Time: 1472789309
-    Timeout   : 300 (sec)
+    Start Time: 1577474980
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

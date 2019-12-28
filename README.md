@@ -1,27 +1,44 @@
-# General Notes
+# Greenbar
+
+This is a scrape of TLS handshakes from the top 2000 sites, per Alexa.  The certificates returned
+are in `certs/`, the TLS scores according to SSL Labs are in `scores/`.  EV certs are (also) in
+`ev-certs`.
+
+I run this periodically just to see what's going on with HTTPS on the open internet.  This time,
+I didn't have a chance to gather anything particularly in-depth, but the data is up-to-date as of
+Dec 27, 2019.
+
+## Quick Facts
 
 Of the Top 2000 sites on the Web:
-
-  * 1329 return a certificate on port host:443.  Not all of which are valid
+  * 1825 return a certificate on port host:443.  Not all of which are valid
     (e.g., the site doesn't advertise HTTPS, but has something listening there
     anyway).
+  * 90 sites serve EV Certificates.
+  * LetsEncrypt accounts for 384 certificates.
+  * CloudFlare accounts for 294 certificates.
+  * Google accounts for 335 certificates.
+  * EV certs seem to run the same SSLLabs score gamut in similar proportions to the rest of the web.
 
-  * 122 sites serve EV Certificates.  That's 6.1% of the top 2000, or 9.1% of
-    sites that presented a certificate.
+## Trivia
+  * Apple.com is the largest site with a terrible SSL Labs score: F.  It's not a some weird edge
+    case, it's *actually* terrible.  Poodle vulnerability, no secure negotiation, TLS1.0 and
+    TLS1.1 enabled.  If it's all for compatibility, they're covering a range *much* larger than
+    most sites.
 
-  * A few sites use EV certificates to do stupid things.  bedbathandbeyond.com has
-    an EV cert signed only for 'www'.bedbathandbeyond.com, and if accessed, uses
-    it to redirect the client to plain-HTTP.  Presumably this is so he or she
-    can be SSL-stripped before they reach the authentication or checkout
-    process, where the EV cert is utilized.
+## Usage
+The `top-2k.csv` is just a `head -n 2000` of this CSV file:
 
-  * CloudFlare is continuing to take over the web, being the certificate
-    served for 123 of the 1329 (9%)  HTTPS-enabled sites.  Creepy, but in
-    terms of security, is very probably improving things.  104 certs are
-    Google's.
+  http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
 
-  * EV certs seem to run the same SSLLabs score gamut in similar proportions
-    to the rest of the web.
+You can re-fetch the certificates by running `./get-certs.sh`.  It requires `gtimeout` and
+`openssl` commands to be available.
 
-For future ref:
-http://siliconangle.com/blog/2014/02/26/bitcoin-weekly-2014-february-26-mtgox-is-dead-but-its-not-all-about-mtgox/
+You can then get the EV certs copied into `./ev-certs` by running `./find-ev.sh`.
+
+You can score all sites by running `./score-evs.sh`.  It requires `ssllabs-scan` (available via
+homebrew.)  My initial purpose was to only compare the *actual* HTTPS implementation of sites
+presenting EV certs to DV certs, so it currently only uses `ssllabs-scan` on the `ev-certs`
+directory.
+
+I'll update this intermittently.  The commit history will have older versions.

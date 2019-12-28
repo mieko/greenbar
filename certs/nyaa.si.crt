@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/C=EU/ST=*/O=ddos-guard
+   i:/C=EU/ST=*/O=ddos-guard
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIC2DCCAcACCQD6cDrf+5h8CTANBgkqhkiG9w0BAQsFADAuMQswCQYDVQQGEwJF
+VTEKMAgGA1UECAwBKjETMBEGA1UECgwKZGRvcy1ndWFyZDAeFw0xODAzMjgxOTI2
+MTNaFw0yODAzMjUxOTI2MTNaMC4xCzAJBgNVBAYTAkVVMQowCAYDVQQIDAEqMRMw
+EQYDVQQKDApkZG9zLWd1YXJkMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAzKzaWH/6SlOzAEg9angONqEF1Oj6XUY0bD7r0RLD4LFCJz+ijj8tvYMrnAud
+RV29cPsd81XvdC+ig7TQG6GMwpNMGf6LkBWpIyhzxpJBi5bkrF9XcgivOhR4vn2T
+PDjtKdL8gnivv1NOcJCPlCkgBHTWQjWmtz2mVT4F63kWySGYLqp6I7W/9Rx8eMDM
+L+o7zFnP0kh6ywOJa4yHWQPwWMvfdXy9uY4EL6Q0Tx3Mh5wGTZ9Q1cQLiGznsKau
+bY9rzH6u2ib/ZN3ZgtH8JtzD8A8V0s6e3cQlzLvNUrMc7yLPnpc738ZgEM2EkL3a
+ZyGo8CkpAwcH6JOUJKmrOQ7TewIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQAxdiUM
+btMJxd5fd9nXNAVy6F032z4xhAeDoNe5wVGHEJ8uqxiX3TVsSPJJnAJGWi/5E79S
+44TP+gst/MwwXZXB4CsRwy3QqB5s1NmedFM9BOBue2YPEuFc20RwHj2i6S4+doHJ
+eLuQK3wHiO+/5eUu9KB5OVrY9BT8cBmxj6pzFwiJWgNRXfLzr4SUm6fQMqm13cyC
+CzRahrGQFdPU2TkRlrXgmQwhoOavHnvBogrzD4U8j0I8yOebSGprpKehwGhzTozg
+19/Imahru19aOD42v2C75tWIU/WSzOjFw3za5TxywfaBDLszAmjoTflAid/RM1SD
+AzuxI494CzdwGm1p
+-----END CERTIFICATE-----
+subject=/C=EU/ST=*/O=ddos-guard
+issuer=/C=EU/ST=*/O=ddos-guard
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 1369 bytes and written 289 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 5D9D90D13A5AECF862A601B992EB9499E8AD07A247E982E02E4364A8A4F6E530
+    Session-ID-ctx: 
+    Master-Key: 39B282B9AA5C29F52F455ED85D6408F3BE833586F8B530491D66771CE6EB340465B8D1278CB4BAD23C9E4025A2628B02
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 4f 5d 08 ec d0 f3 ed d9-9f b3 57 57 32 39 32 78   O]........WW292x
+    0010 - b7 e4 a6 02 e0 08 e2 9f-91 e5 93 c9 49 61 91 26   ............Ia.&
+    0020 - d5 c8 28 31 1e 6c 31 9f-05 72 c0 07 1e 80 b6 70   ..(1.l1..r.....p
+    0030 - 54 81 5f 06 a4 8b bc e7-a9 69 3b 4f be 1e a8 86   T._......i;O....
+    0040 - dc 5e ce 28 c2 5d cc 39-5e 4c a5 cd 77 02 fa 13   .^.(.].9^L..w...
+    0050 - 1a 97 4a 72 20 8e 7a 1f-ee c1 f1 99 34 a0 b2 93   ..Jr .z.....4...
+    0060 - 7d 5b 3a 6c 5a 6d 70 e4-46 39 ff 88 be 21 29 7e   }[:lZmp.F9...!)~
+    0070 - a0 21 85 91 43 67 a1 3c-4e dc 9b 3c 9f bc 65 fc   .!..Cg.<N..<..e.
+    0080 - f8 29 66 91 e5 ac 11 55-1c e8 b4 b0 8f 5a 63 47   .)f....U.....ZcG
+    0090 - ee 07 c8 94 a6 26 59 5b-74 31 c7 eb b7 67 4d bb   .....&Y[t1...gM.
+    00a0 - bb e3 d2 fb cb c5 83 1a-9b db e6 b9 c7 62 31 4b   .............b1K
+
+    Start Time: 1577475436
+    Timeout   : 7200 (sec)
+    Verify return code: 18 (self signed certificate)
+---

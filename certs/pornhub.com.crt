@@ -1,86 +1,80 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=CY/postalCode=2540/L=Dali Industrial Zone/street=Block 1/O=MG Freesites LTD./OU=PlatinumSSL Wildcard/CN=*.pornhub.com
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 0 s:/C=CY/L=Dali/O=MG FREESITES II LTD/CN=*.pornhub.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFqDCCBJCgAwIBAgIQPabpcxgZlB+llHloIvb72jANBgkqhkiG9w0BAQsFADCB
-ljELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
-A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxPDA6BgNV
-BAMTM0NPTU9ETyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
-cnZlciBDQTAeFw0xNjA0MDQwMDAwMDBaFw0xOTA0MDQyMzU5NTlaMIGgMQswCQYD
-VQQGEwJDWTENMAsGA1UEERMEMjU0MDEdMBsGA1UEBxMURGFsaSBJbmR1c3RyaWFs
-IFpvbmUxEDAOBgNVBAkTB0Jsb2NrIDExGjAYBgNVBAoTEU1HIEZyZWVzaXRlcyBM
-VEQuMR0wGwYDVQQLExRQbGF0aW51bVNTTCBXaWxkY2FyZDEWMBQGA1UEAwwNKi5w
-b3JuaHViLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALueTGBw
-JR+XTf56hazqZsIqeCX1y8CrYxZCYyLs7xXTlkCC8LyNoxWq9VMcRCnlCtmE1Mjt
-aCwluSNinQ2BYr3xqj+JIDtF2570wL9AI8XLf8Q5yzNpz7W6xY3evyKRM3HbHXMv
-r8DoWG1AY+S5b9v4FcgaO+85OGdCEXRNhNS+UD9gLiVJf0gzgCbm1u21da8k2AiF
-/iiEftGJsA0oXodNye3iyd0O3ef67bNPp4cVGSL2mJvXLqu8gBlQAwfXjqoa6fGM
-Fq0aOiunBcf86DQRfFdL6sKLaBFhwHpYtTfSzVrdbqQ0KwTfiPXws/Jq3HFUguaO
-e7lf03UfQhJ9/2kCAwEAAaOCAeQwggHgMB8GA1UdIwQYMBaAFJrzK9rPrU+2L7sq
-SEgqErcbQsEkMB0GA1UdDgQWBBQcqkLLE3Ucl6QGUtZOOkNdqYCK2TAOBgNVHQ8B
-Af8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
-BQUHAwIwUAYDVR0gBEkwRzA7BgwrBgEEAbIxAQIBAwQwKzApBggrBgEFBQcCARYd
-aHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9DUFMwCAYGZ4EMAQICMFoGA1UdHwRT
-MFEwT6BNoEuGSWh0dHA6Ly9jcmwuY29tb2RvY2EuY29tL0NPTU9ET1JTQU9yZ2Fu
-aXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcmwwgYsGCCsGAQUFBwEB
-BH8wfTBVBggrBgEFBQcwAoZJaHR0cDovL2NydC5jb21vZG9jYS5jb20vQ09NT0RP
-UlNBT3JnYW5pemF0aW9uVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAkBggr
-BgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMCUGA1UdEQQeMByCDSou
-cG9ybmh1Yi5jb22CC3Bvcm5odWIuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQB002S2
-yXv11SikXlK3mhAPircJMgI09Dh1JZNczr3LTSSt+JapjCEI+2IUC3wHQbFpd+15
-rHzD6NBhJ54mBNA11HRqKFNXgSA5Bw95WfHTJY7C9llbxpUxSzqxTMWt+rUe/yXs
-dSM3BayzAHQenJ/sNf2XfIjqVtJzuWyIlHgOAeyqf2bh41ZFORXPvvYXXOR9zFn1
-E1spy24dquFDBvcUr6+GthR9gH/3RJFlvniBa9bwz6XXr5MunWUGRlb8UN3GzKLY
-EcastCZkBMLolYP8EVVDoxqiei5VH8bmFIfz7aDDoeRp/b8+Zb7jJSZkTHi4ERzV
-Lzb8j5VYA534dfFa
+MIIF+DCCBOCgAwIBAgIQDHqIdhDQmKWAFz1hbW9wxDANBgkqhkiG9w0BAQsFADBw
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xOTAzMTMwMDAwMDBaFw0yMTA0MzAxMjAwMDBa
+MFIxCzAJBgNVBAYTAkNZMQ0wCwYDVQQHEwREYWxpMRwwGgYDVQQKExNNRyBGUkVF
+U0lURVMgSUkgTFREMRYwFAYDVQQDDA0qLnBvcm5odWIuY29tMFkwEwYHKoZIzj0C
+AQYIKoZIzj0DAQcDQgAEU5hfqZ82t5grKHlHSQo5qIHK5qPRGOuYkV//97QfrI1Y
+8QAuupYL+73xLZ9jm440le9KxJblvOP87vnUdoGB0KOCA3UwggNxMB8GA1UdIwQY
+MBaAFFFo/5CvAgd1PMzZZWRiohK4WXI7MB0GA1UdDgQWBBTjxdBJcpMAqLyfpHzU
+XpVPXbzJ+jAlBgNVHREEHjAcgg0qLnBvcm5odWIuY29tggtwb3JuaHViLmNvbTAO
+BgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUG
+A1UdHwRuMGwwNKAyoDCGLmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWhh
+LXNlcnZlci1nNi5jcmwwNKAyoDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9z
+aGEyLWhhLXNlcnZlci1nNi5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAo
+BggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwB
+AgIwgYMGCCsGAQUFBwEBBHcwdTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGln
+aWNlcnQuY29tME0GCCsGAQUFBzAChkFodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5j
+b20vRGlnaUNlcnRTSEEySGlnaEFzc3VyYW5jZVNlcnZlckNBLmNydDAMBgNVHRMB
+Af8EAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdQC72d+8H4pxtZOUI5eq
+kntHOFeVCqtS6BqQlmQ2jh7RhQAAAWl3piN5AAAEAwBGMEQCIG19khOiTT4omQqG
+C5Bf5Gj9fBz8CAVmgKrOxUBZ5CqkAiBvswqgJtz0LGLOHX8dKlZG72DatHTcTHIN
+rlSNlk9wNQB3AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABaXem
+JLQAAAQDAEgwRgIhAJ9ty8Bko9+xGK7kNqH8NCXwWFERkBFkag2o1pr8gaHRAiEA
+yi2J2S5mnmfE3agsi2TYg9tzM6RiS5vLICkDWizNumUAdgBElGUusO7Or8RAB9io
+/ijA2uaCvtjLMbU/0zOWtbaBqAAAAWl3piOBAAAEAwBHMEUCIFqMg45//Q3oJ5cm
+OsNJ7wqFClx+pcUyn2N2v8g1AKTSAiEAzoFRk5FuDPrSCyvCW4GJObkALfQ+qN3j
+skwdt7fxRA4wDQYJKoZIhvcNAQELBQADggEBAEuy3WqbfuiI0V6LuY1GSu0sbGBa
+Yj0pFzS8PuqmfXIWEI1PV+KweO/QEVuhj29tHRJ6/S77A3XYQsAeT8V1lyhPIrwC
+GWSRT4eCM5OfrcezZERvZ4IuYl6kz22TF1BDVf6fJrcWbxmIswC9QfjksKq5iyhh
+oPmjbEJOuxv5BnKDATubaA8/TumR4a6r0XfESVLfiw4SHooYeW0YZKUUcO/vbODK
+a8IpVMPO6awKHfQR4VVphOEisyKUNBSJYbDStYYXJLhalFkterD+B8ekbPvWgXEs
+zsA7PTFUusYLSFdB0fQELlXS5Ys6XgOp9BBYYhVZXfJENTsk+1asXRufPtg=
 -----END CERTIFICATE-----
-subject=/C=CY/postalCode=2540/L=Dali Industrial Zone/street=Block 1/O=MG Freesites LTD./OU=PlatinumSSL Wildcard/CN=*.pornhub.com
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
+subject=/C=CY/L=Dali/O=MG FREESITES II LTD/CN=*.pornhub.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5071 bytes and written 434 bytes
+SSL handshake has read 3209 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Server public key is 2048 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 256 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 151853DA0BE985CCF35691AA1A0E25DDEACC3684B9F6E15E637A95D2707930EF
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: 9C280C0FFC2B36B55DE63646BAD178D48337392CEC34EB97E193D36114E162AA
     Session-ID-ctx: 
-    Master-Key: 9699DF4572925132464F0E3615E222D2E1BBBB48BEEE587A94F29B3B380C7121C0D35A7E167F005BFF118D415472416C
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 82C021284EF19E5644809974852C353014F64E9A10946F7E007AB9E8C7071C9CAD02DE6304FA155B015A562734178579
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - c2 72 25 bf 98 c7 3b f5-78 b6 56 be e6 bf 32 e5   .r%...;.x.V...2.
-    0010 - 2c 5d 5c e6 19 67 bb 92-dd b6 ba c6 d1 5d 24 b4   ,]\..g.......]$.
-    0020 - 2a 0e 3e 81 24 a2 c5 f0-29 3b 24 95 5f 87 13 4d   *.>.$...);$._..M
-    0030 - a5 2c 69 63 91 0c c0 90-d6 36 44 26 07 c1 cf 11   .,ic.....6D&....
-    0040 - 4c ac 24 b1 09 6f 4f 1d-4b 9d 4e e2 e5 56 d4 43   L.$..oO.K.N..V.C
-    0050 - 49 3e d7 0b 95 04 df d9-e8 5e db 8e 79 dd d2 05   I>.......^..y...
-    0060 - c6 bf c4 38 5d 38 23 43-fa 4c 94 e8 cf 51 fd 6f   ...8]8#C.L...Q.o
-    0070 - e6 f7 e3 8c 42 c9 8d 02-82 aa d1 38 06 18 4a 59   ....B......8..JY
-    0080 - 8e d6 7b 5d cb cf e0 1b-19 e0 a2 f6 8c 9a 50 11   ..{]..........P.
-    0090 - da 05 2b b8 77 56 11 f4-9a d5 68 32 53 12 e8 07   ..+.wV....h2S...
+    0000 - 4b 58 73 9d 93 1b e3 d3-25 e0 0b c9 18 f8 48 07   KXs.....%.....H.
+    0010 - c0 b3 fd 62 a9 3a c3 6b-4f ff bb 07 bb df e6 10   ...b.:.kO.......
+    0020 - 08 81 1d 8b 36 b1 f2 2a-f7 b4 e1 f1 11 71 34 ae   ....6..*.....q4.
+    0030 - 0c 4b b9 ed c8 2a 60 0c-50 4e 68 dd f8 4e 57 e9   .K...*`.PNh..NW.
+    0040 - 1b c8 e8 d4 ac 48 93 e7-c6 36 b3 49 a3 fb 89 33   .....H...6.I...3
+    0050 - 1c a1 72 76 be 58 51 ae-af 02 3c 2d 4f 1c 4d d5   ..rv.XQ...<-O.M.
+    0060 - 70 a4 86 e5 1c 77 bf 41-ac dd 62 4a 5f 81 ec 6e   p....w.A..bJ_..n
+    0070 - 99 fa be f6 e9 43 a0 d0-ab a3 d9 a0 51 7d 9e 11   .....C......Q}..
+    0080 - 94 2d a8 d0 a5 d2 a0 88-ea c9 86 31 da 83 55 2d   .-.........1..U-
+    0090 - e0 fa df b6 2c 92 59 d5-bd 3a d7 26 e3 33 34 76   ....,.Y..:.&.34v
 
-    Start Time: 1472787875
-    Timeout   : 300 (sec)
+    Start Time: 1577474805
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,68 +1,68 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=JP/ST=Yamaguchi/L=Yamaguchi City/O=Fast Retailing CO.LTD./OU=System Development/CN=uniqlo.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 0 s:/CN=uniqlo.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE+zCCA+OgAwIBAgIQd8nLcYe19F2NE74A4E5dgjANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDMyNDAwMDAwMFoX
-DTE4MDMyNDIzNTk1OVowgY0xCzAJBgNVBAYTAkpQMRIwEAYDVQQIDAlZYW1hZ3Vj
-aGkxFzAVBgNVBAcMDllhbWFndWNoaSBDaXR5MR8wHQYDVQQKDBZGYXN0IFJldGFp
-bGluZyBDTy5MVEQuMRswGQYDVQQLDBJTeXN0ZW0gRGV2ZWxvcG1lbnQxEzARBgNV
-BAMMCnVuaXFsby5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC5
-5cLx1+ULSbSySzWLDCO0OMSvvymub/ZKVLOr+ivaCg2ebCWArx7g9+DLtFKLPq8g
-wMh0Ya4p4oSOlVC64ZRjtdT3XjyxXYwAm2r8NgvIR+unMdOvFr2MBiat6dnEndC6
-qYgafuW9muf99yHBsuRuZrQniCqEvqBwGmeZpJuw6alCE/SNibiW+hOP4u3mYn5h
-QeqgdeNJ6Q4i7QxbPcl3f824cuGSTH97XAuA9ME8gAufZa3JfiGwRpBr77jmvqfA
-heUjVIEwrfTEWjAsMYO57Q3z8B8xDgiZUZs7OlOo9CFtFM6D5wkHQoh37gmceHOC
-hYYAYzA0XZJdM0qTwufhAgMBAAGjggFjMIIBXzAVBgNVHREEDjAMggp1bmlxbG8u
-Y29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
-BwMBBggrBgEFBQcDAjBlBgNVHSAEXjBcMFoGCmCGSAGG+EUBBzYwTDAjBggrBgEF
-BQcCARYXaHR0cHM6Ly9kLnN5bWNiLmNvbS9jcHMwJQYIKwYBBQUHAgIwGRoXaHR0
-cHM6Ly9kLnN5bWNiLmNvbS9ycGEwHwYDVR0jBBgwFoAUX2DPYZBV34RDFIpgKrL1
-evRDGO8wKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL3NzLnN5bWNiLmNvbS9zcy5j
-cmwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vc3Muc3ltY2Qu
-Y29tMCYGCCsGAQUFBzAChhpodHRwOi8vc3Muc3ltY2IuY29tL3NzLmNydDANBgkq
-hkiG9w0BAQsFAAOCAQEANDw/DdYNi586tMHulVaLIdnEtktO6SeHqIHvt9EL4DCt
-Nj/QUSRKH8LwZwyJny+Q87qP/HCoYkHtAU5OTPTFZTyt9aa56mrR95OJTRelBiMs
-/vFDUlFIJIPDQxf5HTNPiich5S+f+3VnW9iWWrHb8OAsztVk+FQY1OsvpypbRj4i
-36CbQcpDwbgF07lqiPJs8BR25fc3rIXm+0SJ0rttH1KOAmC9UomrxBM87xJx/R1u
-a76+SzsUYThTT7Ku5Di9cVRSNiPH/uHLEQQDEp0gTkk/w9/CaHm11z9xu4kEWiC5
-IgUyLvpelTc1H910A0cttvikRUwkS8LEdnYNWtsqlA==
+MIIFXTCCBEWgAwIBAgIQDhnMxY9Vs++gMb69gnDw8DANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTA1MjQwMDAwMDBaFw0yMDA2MjQx
+MjAwMDBaMBUxEzARBgNVBAMTCnVuaXFsby5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQC8j68yeK/YJLFduMEmDLCJPc4yQAvPJBxuNToSLfdbSmWg
+mrAvcJcYWdWu1s5hthowmwjsdEoMN7DtizjGA+so7tz31PBh6DP1CB5wuQ/jsAoR
+pz9PlFvITzGMM+hKZSQxXdDAypZByk82jIHy/DcOZIg+ZAC5jXg7zHC7kn+UsgS2
+NcDjvOnDj1KYk88iZNJVzGD/Cc1ezOiG2KSpbKcGeOWat+plQqe2zSbviLsxInYl
+oj8GbC/TTgRaix84eEqtnsvrEwnqUSogWpi8bnkBILLKVTmHG4nu3MqfQ7O1krrv
+zNUq0NYaMklQcwTW6cw1/cVeZBYP4ueYi3AsEwbJAgMBAAGjggJ2MIICcjAfBgNV
+HSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUwt3xfu/f+MbG
+zO91R9SepYS2LFQwFQYDVR0RBA4wDIIKdW5pcWxvLmNvbTAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAu
+oCyGKmh0dHA6Ly9jcmwuc2NhMWIuYW1hem9udHJ1c3QuY29tL3NjYTFiLmNybDAg
+BgNVHSAEGTAXMAsGCWCGSAGG/WwBAjAIBgZngQwBAgEwdQYIKwYBBQUHAQEEaTBn
+MC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5zY2ExYi5hbWF6b250cnVzdC5jb20w
+NgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQuc2NhMWIuYW1hem9udHJ1c3QuY29tL3Nj
+YTFiLmNydDAMBgNVHRMBAf8EAjAAMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA
+7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo/csAAAFq50NR2wAABAMARzBF
+AiBTgT0J9W/GlBKSJr6TeQxoTo/sUeMn5QUgIG7gtnf52gIhALLKrd9FanwdZtoj
+jCyMqzYbjY76Xs2EoG4rCB9Z1tQFAHYAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVg
+wbTq/16ggw8AAAFq50NS9QAABAMARzBFAiEA4mcftCk5/HU0mPN4GuGf/bwAO69/
+YU5he3nZboqJHDgCIAasEIiU6ibmZ9My2cQ5Cf6b1lK8K3JdE9pT1mtaCKCeMA0G
+CSqGSIb3DQEBCwUAA4IBAQC2SsmgYvEASGoFe/BRAgEhb+sSWzeeRGOCGNtO1aIG
+QKPrx4TykojDHeiw6b3RQivPXVHwPV4rkXdlAskH7MCwS1Ou2ZPMBMDxuoJNJJAf
+utPVkhgyeVeq2/3AFhmS9koHWNbt3+aQq6JAS91KE3IYu20X3g2vTaKe3Zwq09ZC
+bCuOfENQv1XOq8ec1FVBymbQMYV7zbLqDfNfmSTCrh+/rc34s32lpuHmUyqS1btW
+sgFgjfjPuq1/kLfV+ujPI37Y0wbNXUKiNWCTIBt9wRXZWTpsDbR0oKx+/mN36RfB
+X7YFCUKyfmfvUlZDHllOZM8MTUfWHvSMDtE9ePGG4ISw
 -----END CERTIFICATE-----
-subject=/C=JP/ST=Yamaguchi/L=Yamaguchi City/O=Fast Retailing CO.LTD./OU=System Development/CN=uniqlo.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/CN=uniqlo.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Server Temp Key: DH, 1024 bits
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4560 bytes and written 506 bytes
+SSL handshake has read 5313 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : DHE-RSA-AES256-SHA
-    Session-ID: A1C396EDBC46023F10D4C1ABC65228F55F748F7C06E9EF8CD2506288C3E4F696
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 17D6EC328A9209B7B0D0305DE145B7CE0E5EEE43C710416404CD106AE13D79ED
     Session-ID-ctx: 
-    Master-Key: E4857A09F006727E4A6909F0B39428758DB94EA2DE8D7A3C843DED0609351A90F576924C2B5523A5A54D8E39C0D292DE
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472790403
-    Timeout   : 300 (sec)
+    Master-Key: C2F24B8484A46CF6130761F637B347396F0160A8FAA8A9E32DB3AEB051B0E1CF9602355049F7F0DD30B0049A64DB3A71
+    Start Time: 1577475373
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,65 +1,69 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=Washington/L=Seattle/O=Amazon.com, Inc./CN=www.goodreads.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/CN=www.goodreads.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE6jCCA9KgAwIBAgIQH2NH8YcEtMBPEaKGbfxVKjANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDkxODAwMDAwMFoX
-DTE2MTAxMTIzNTk1OVowazELMAkGA1UEBhMCVVMxEzARBgNVBAgMCldhc2hpbmd0
-b24xEDAOBgNVBAcMB1NlYXR0bGUxGTAXBgNVBAoMEEFtYXpvbi5jb20sIEluYy4x
-GjAYBgNVBAMMEXd3dy5nb29kcmVhZHMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
-AQ8AMIIBCgKCAQEAsgEi9TNIrKnIS/paOGcZBvNnyltmeQe6zidWQYfgODTdiRga
-K6YjN2HaJDRsSN2g8WYGaDZ8QyTaUIrxXrJN5rNaodNTdCL+Ny6gmO6y4bV5lyPz
-di6jEmD0GqAN1vE1H4HM5EpldEvWcZOTg6uTFMo+8vBmVOl5p5GPg32iDQE4WOw0
-vzrspunXQHIubbCGe6YAIDezDfT4C98sqbcsr8o11Mz2my3Iy2Wve0QduAbdVtAu
-dVA3HrXoM1Nhu0RDZsHUD5oXEUJAntPEf9MpIwvMwQayB50H4XeFfH58G8l31Esj
-Oh659aWBwHxpZ7pU8vAq2fp/nR76AvaIlEhv9wIDAQABo4IBdTCCAXEwKwYDVR0R
-BCQwIoINZ29vZHJlYWRzLmNvbYIRd3d3Lmdvb2RyZWFkcy5jb20wCQYDVR0TBAIw
-ADAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
-MGEGA1UdIARaMFgwVgYGZ4EMAQICMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5z
-eW1jYi5jb20vY3BzMCUGCCsGAQUFBwICMBkaF2h0dHBzOi8vZC5zeW1jYi5jb20v
-cnBhMB8GA1UdIwQYMBaAFF9gz2GQVd+EQxSKYCqy9Xr0QxjvMCsGA1UdHwQkMCIw
-IKAeoByGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3JsMFcGCCsGAQUFBwEBBEsw
-STAfBggrBgEFBQcwAYYTaHR0cDovL3NzLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYa
-aHR0cDovL3NzLnN5bWNiLmNvbS9zcy5jcnQwDQYJKoZIhvcNAQELBQADggEBACeY
-HqrfZBf3Bc4t/x81obtm2PBOeyrIXgJIMNz+xZ7VSOuq+qi3+osWFSYPWpJQMzlE
-0lET9a4kkbI7cQM7kHhIZTp+dhrzr/rKTni3pKNYaJMsku+G2WzJ4GX/HTxKZOdm
-u+FQAe+P5/DQFOqXgQ/V6h8T8ZAvoV9dqR41JoG6B7iblivRmQIAzE4IuVoTaTmT
-3kOc3+ehxKKpjX/QEaIETTcuaWR4DiFNdruIbYKZq49hv9RnwpEJAsWjAuN8bKEN
-YkFofaPYLFu+Co55uaDZEmCw666mSAf007OvXGQlyhSHSweI04yaUbzI9ATgX8Jq
-BSJZ9KEWWMnM2afxr5k=
+MIIFejCCBGKgAwIBAgIQCzTD2BuiniTFfowmHSof5zANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTAzMTEwMDAwMDBaFw0yMDAyMjIx
+MjAwMDBaMBwxGjAYBgNVBAMTEXd3dy5nb29kcmVhZHMuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6eMDgzCtdml9CYhcW0kwBN7asW+57U9DtVbh
+vpQdasuIsbmWGTz6Wr/EBeGiUfdKnJvjg5ahqhFCipkU8/xOIbPU6F+c03fMUs6i
+0sjEDTgtiBOE8jzgn0Cx6v0SZwDWYS04qEMaN2+dYskiEUxrRSb3XIXvndGZBLKQ
++C904daZUeDzVO/x5enA2gZVa/8WLun3UYl/UTYeWZbW9bc9+7M0sIvLrTqokknK
+OX8HBd5agXr8GheXvJX9Vv+ES8XuRkjF6GU7ehat+Gwv+HR5o5O8XgkHflofuTLL
+FVLYk6wKt6fDZ6G29PLVTaArXTYn9JWzh70GVQKkaDX4Dc5fBwIDAQABo4ICjDCC
+AogwHwYDVR0jBBgwFoAUWaRmBlKge5WSPKOUByeWdFv5PdAwHQYDVR0OBBYEFFQM
+WR/+mKsYZuboVexLfidXO4tSMCsGA1UdEQQkMCKCDWdvb2RyZWFkcy5jb22CEXd3
+dy5nb29kcmVhZHMuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5zY2Ex
+Yi5hbWF6b250cnVzdC5jb20vc2NhMWIuY3JsMCAGA1UdIAQZMBcwCwYJYIZIAYb9
+bAECMAgGBmeBDAECATB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6
+Ly9vY3NwLnNjYTFiLmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDov
+L2NydC5zY2ExYi5hbWF6b250cnVzdC5jb20vc2NhMWIuY3J0MAwGA1UdEwEB/wQC
+MAAwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwCkuQmQtBhYFIe7E6LMZ3AKPDWY
+BPkb37jjd80OyA3cEAAAAWlu1avmAAAEAwBIMEYCIQDrI/3lNx/O1wHtjwTp6a13
+N4kmguZLLc/jWh3DX0cN+QIhAPo5UiPXN4AcabPiqgJNcV42SGcY8rxP1UN+2z4f
+iAOkAHUAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFpbtWtNwAA
+BAMARjBEAiBHINuZJXE9tmvZRTn2C1UBhjRaJV/ldwRKIL1nSVlILQIgWTMUce6d
+MOCJ3GXGoADPtItpZJf08E0UPn0huzPe/0swDQYJKoZIhvcNAQELBQADggEBAB+1
+AQKJ3P2z98AzGaCzsXb8sowFmqHusbre1ZZ2J7U0hdyIFog+nzcojpKP0WtJPt/3
+Hx4N8CGuiQgO63A8vFnDhZn2taPS17o+WuCQ2iuliRRSntswvhZUnFbeT4eSbwc+
+hN6zt1cGU0b6/tI7nzOd9ZYRONU6sWD7CA1CmF05aXcA818JvNTiCMYqma/o2KKP
+qMWzA8Az7GY8DXteU0kGAXE/lTjQDyKRKJTjGKdFCcqtspsIfsiHyJPSBC/CRePA
+blHEBGO3AoeR9YQGER8TAK8OImzFhVaNwjJ8Mmx3zJgrO3Yh59NuQwcIBajN4Ce+
+IJ040hG0ouh+9Io3olE=
 -----END CERTIFICATE-----
-subject=/C=US/ST=Washington/L=Seattle/O=Amazon.com, Inc./CN=www.goodreads.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/CN=www.goodreads.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2741 bytes and written 618 bytes
+SSL handshake has read 5342 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is RC4-MD5
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
-Secure Renegotiation IS NOT supported
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : RC4-MD5
-    Session-ID: 1DE2B6E575415B197C929A8ED50758D79A961A8FBB9DB0F71BB08CD9FB347EF5
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: D1F107077D8DD89C9332B108D455D9F37E3D9A96D8C30C9B8241F4791B05AC05
     Session-ID-ctx: 
-    Master-Key: 7059D11F810BB06F82C54EEC4DCB31FD7917478D54E8CFCB02907C78DE4E38D7513EE450E94C17E17EF2A11D2B6BB4ED
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788185
-    Timeout   : 300 (sec)
+    Master-Key: BF297CAAF542663ADCDC26ECF23B0C98BE70590DE601E175747262C097AC3AE3EF8F1C9E0CFD1D6975BFF1612238B2E8
+    Start Time: 1577474967
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

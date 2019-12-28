@@ -1,53 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=Maryland/L=Forest Hill/O=Apache Software Foundation/CN=*.openoffice.org
-   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
- 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 0 s:/OU=Domain Control Validated/OU=EssentialSSL Wildcard/CN=*.openoffice.org
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFLDCCBBSgAwIBAgIQAtIEU2aZ9q2oFFVDNYNpfzANBgkqhkiG9w0BAQsFADBN
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTQwMzIxMDAwMDAwWhcN
-MTcwNzIwMTIwMDAwWjB2MQswCQYDVQQGEwJVUzERMA8GA1UECBMITWFyeWxhbmQx
-FDASBgNVBAcTC0ZvcmVzdCBIaWxsMSMwIQYDVQQKExpBcGFjaGUgU29mdHdhcmUg
-Rm91bmRhdGlvbjEZMBcGA1UEAwwQKi5vcGVub2ZmaWNlLm9yZzCCASIwDQYJKoZI
-hvcNAQEBBQADggEPADCCAQoCggEBALhgYrs0ArH+X5/YI/tYkk81jNH36S19A8qb
-eM0DzAQxQSbkU9mTsDG36/kB2+hgueqrG4fR5dD1aWrSELbrgEkAweAoXQrOEuus
-r/zZgrH5k9w2Bo8pj7pL7bip30iuY48IL3XMOUuB/8dXZUl7PBiVKZLNRhIRjW2s
-lRzK/qM0DykgitrVAftIysbHvDvvo1KU2gTYnPm/qBK51SJV/b7q3q86M87fybGj
-orh58gzluPF+v//sHgYhnRQ0iU6nlysHiPPikkFkBQ9PeAlzfcBr30TE3qW6vOi/
-/cvVlUo+KoFqWcURXdAOgkldPSzLKLs67tNWFTWiueB81fIVSuECAwEAAaOCAd0w
-ggHZMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBRy
-wfQLoLI8Yr/WgFujpWhPXCBlWjArBgNVHREEJDAighAqLm9wZW5vZmZpY2Uub3Jn
-gg5vcGVub2ZmaWNlLm9yZzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
-BQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9jcmwzLmRp
-Z2ljZXJ0LmNvbS9zc2NhLXNoYTItZzEuY3JsMC+gLaArhilodHRwOi8vY3JsNC5k
-aWdpY2VydC5jb20vc3NjYS1zaGEyLWcxLmNybDBCBgNVHSAEOzA5MDcGCWCGSAGG
-/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BT
-MHwGCCsGAQUFBwEBBHAwbjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNl
-cnQuY29tMEYGCCsGAQUFBzAChjpodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20v
-RGlnaUNlcnRTSEEyU2VjdXJlU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwDQYJ
-KoZIhvcNAQELBQADggEBAB3mt5wJzoS8IoiYlxgOhXf9LoBJCrBhX6FKL7RlEDCe
-40VLQyOvfegtk733+jpClkskdHdVI84Ik/LJzX7Yp/E5PyV53TTtSVEC3dNmXpo/
-/dQjRIySk4n81vMEdFIunmDegjFjq8+MUSNCC2fUgZd+bjdMB7c4c/lg4JdY4kqG
-6oa2gCvDiXhJZNs3eY5/iQQ0Jgk9EAxOYeVjlgUGJjxX7oDstH0GIRg+FhkoqcJk
-y/Zj92ha43JmX31XHG0DBOJEjxy4mlcdTsNeEqgeK3Bkpsy65mzccmHlNAkcJWut
-P65pKTYsBgEY7sv8KYDcs2kFeVD0IPbc+D/DfUGW5dA=
+MIIGWTCCBUGgAwIBAgIRAP5yU4KgN9Ei0JWWtvPfGG4wDQYJKoZIhvcNAQELBQAw
+gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
+VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
+Q0EwHhcNMTcwNzE5MDAwMDAwWhcNMjAwNzE4MjM1OTU5WjBeMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxHjAcBgNVBAsTFUVzc2VudGlhbFNTTCBX
+aWxkY2FyZDEZMBcGA1UEAwwQKi5vcGVub2ZmaWNlLm9yZzCCAiIwDQYJKoZIhvcN
+AQEBBQADggIPADCCAgoCggIBALg7PkAAbbe8iV3aQW2k4V573elzbWzCrUUCfo+m
+B1TXEsVXc/XWuvchNKsJeaTqbetN6c4XR3AP3TcDYI4UnQISZE66waRfXOOPGC+F
+2kAWhh3uUct6vnHOISTFKFtngINMtVbWP3W0faT3NnC5HFjQ7EZIDsWTWSSByVph
+V5cLxtue48DbCupisLfu8mUexswm6M0YFi0Pj2wEAfMqYFL+Fe8hBKkN+wPS7cPu
+qYUpqtjFPQQPbLZbE+N2cEdUkEV95usBN1Ywj9Typb1vUuhX6PuZUcV8UqTxNs+C
+e9/t0t77+sb5GiuI6HX8DkCey0FWZxf5nP6OVLHQSQEKqrf+Z/qcZFL5zxpN34Wu
+8p6FKv+6mVJIEx2D1Z/o4cbib+2Ik1eFOGtzI+cfFipDLMVWnnuf8ZHoAIeytCkd
+3REIMhCGI5vdCE99aHHzSJk6bfH+S+Nm5vb6SaEhJfLs9T1pxMccgqUbwZ5yeJYr
+v2XQE+/NvIFeDeTMp4J/RcNTiHgc8gh5U6w/aucRDFW+XjaavxXvF6wOfHEG+Tnh
+B+WA1b7ndTcvYk0JGiSKTCLeuBGYu4XEN6ctr6QaWXUpzuaup9mhqDWSWjDzUEA3
+21T7Y+R6huUVJmFmuPgNbFY+vqpBH1AnXs919JPuwDJltKOCx42MJAg/QGJPuR7z
+617vAgMBAAGjggHdMIIB2TAfBgNVHSMEGDAWgBSQr2o6lFoL2JDqElZz30O0Oija
+5zAdBgNVHQ4EFgQU8DkUiVmyrqZOzEB9hxedim0sVR8wDgYDVR0PAQH/BAQDAgWg
+MAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8G
+A1UdIARIMEYwOgYLKwYBBAGyMQECAgcwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9z
+ZWN1cmUuY29tb2RvLmNvbS9DUFMwCAYGZ4EMAQIBMFQGA1UdHwRNMEswSaBHoEWG
+Q2h0dHA6Ly9jcmwuY29tb2RvY2EuY29tL0NPTU9ET1JTQURvbWFpblZhbGlkYXRp
+b25TZWN1cmVTZXJ2ZXJDQS5jcmwwgYUGCCsGAQUFBwEBBHkwdzBPBggrBgEFBQcw
+AoZDaHR0cDovL2NydC5jb21vZG9jYS5jb20vQ09NT0RPUlNBRG9tYWluVmFsaWRh
+dGlvblNlY3VyZVNlcnZlckNBLmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3Au
+Y29tb2RvY2EuY29tMCsGA1UdEQQkMCKCECoub3Blbm9mZmljZS5vcmeCDm9wZW5v
+ZmZpY2Uub3JnMA0GCSqGSIb3DQEBCwUAA4IBAQAoX2YxU9fART24uqmfpASOQIoG
+GyecJ97glh/14dKvtLiUvNutQ72V8Ri9LeNznxK8t5C+OlGBDiqrNsJ5sphHLMFZ
+VdmTzYWlHgeh3TI+MSyp0fY0RS5OITISl/yVoUhF6sKRJz9rYX4WNn8R0RgfdsI3
+t/JzQAyBsD1dw2eHdkYQMACsLksb/33rz9gUZelzqG13X1KfdtoUarJ3E0L2tyl1
+T9qYI7a0g+cfpF5ask5XijjYm31RYkn1/Z+Bw7QBgXHxy6TI3aejc3ZwvlUOqsNe
++vJ/KD0cm5VkMha8thyJhd+xROYz7BoLZnc0nXDJQs0Sto0UBG4xAjsbMk2U
 -----END CERTIFICATE-----
-subject=/C=US/ST=Maryland/L=Forest Hill/O=Apache Software Foundation/CN=*.openoffice.org
-issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+subject=/OU=Domain Control Validated/OU=EssentialSSL Wildcard/CN=*.openoffice.org
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3198 bytes and written 434 bytes
+SSL handshake has read 5525 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
-Server public key is 2048 bit
+Server public key is 4096 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
@@ -55,29 +62,25 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 36155F01930C756566C54B7239ED8B56CDC0AC4C160DA42D7978234F8820B303
+    Session-ID: 3B2C174B00564F4D4DBBD54A4DF97D943E255766096D927E34C877CAFAB5D853
     Session-ID-ctx: 
-    Master-Key: DE2E05BBF1512D28BB5D0EE24FB6703AEED8CACA4FCB9D6725FBE5D8B99391E177AE1CD874A44F78264F42E3AC01E898
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: F847DE9FC69A8215E9AFDB968753E24AEAB64250A288994F083B0D55053617F0DFEBC792D036E24D6BDE5BE6DFD48D29
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - c0 76 2e d7 b8 7e 4b 7d-01 34 ce 17 85 d4 14 fc   .v...~K}.4......
-    0010 - 05 21 8e 5f 71 5e c1 14-a4 29 bf 79 6e fc f2 3a   .!._q^...).yn..:
-    0020 - 58 76 90 57 9c eb 4d 9d-6b 05 1f 90 91 df f9 70   Xv.W..M.k......p
-    0030 - 93 53 5a 01 0a d4 b6 5f-a8 7a 62 44 75 72 ef c4   .SZ...._.zbDur..
-    0040 - 6e 11 b8 e5 50 ec ae 8e-78 88 09 7a 9a 35 25 d5   n...P...x..z.5%.
-    0050 - 7f 45 82 e6 c4 ad ee 83-5c 4b 9f 1b ba 53 34 ea   .E......\K...S4.
-    0060 - 15 82 85 9a 4d 65 b5 52-3a a7 88 d0 50 ca 42 ed   ....Me.R:...P.B.
-    0070 - bc a4 61 d1 a1 f8 fa 75-da d1 90 4e f1 f4 31 2a   ..a....u...N..1*
-    0080 - 70 1d 01 92 3d 66 01 ce-a5 48 20 18 0e 1f e5 e6   p...=f...H .....
-    0090 - 26 a1 41 b1 b0 f3 56 af-41 da f5 fe b3 81 3d 06   &.A...V.A.....=.
-    00a0 - a5 27 3d 33 ed 66 96 a7-82 75 6d bf 52 f3 ec b0   .'=3.f...um.R...
-    00b0 - d6 ff e3 d6 69 b3 d9 6f-55 9e c7 77 6b 48 4a 48   ....i..oU..wkHJH
+    0000 - 03 48 bb 0e 25 80 ec b6-6b e4 d7 57 78 96 27 10   .H..%...k..Wx.'.
+    0010 - 7e 72 28 03 63 27 39 c0-9c 83 78 f5 c0 7a 18 28   ~r(.c'9...x..z.(
+    0020 - dc e9 01 e2 9d f8 80 6d-36 d2 b2 bd b1 fd e4 14   .......m6.......
+    0030 - e5 32 9a 6b 18 08 4f ef-ef 4d d9 4f a9 72 75 23   .2.k..O..M.O.ru#
+    0040 - 95 94 d3 fd 03 d9 94 b9-6f fa 5f 9f 05 90 86 ad   ........o._.....
+    0050 - 25 57 92 b1 f4 69 7f 01-12 11 da ed 7c 59 8b b3   %W...i......|Y..
+    0060 - a3 1e ea 35 13 02 26 ce-91 75 6d 15 46 7e df 0d   ...5..&..um.F~..
+    0070 - a7 77 57 4c 51 40 f9 13-02 fb 69 4b ed 27 4d 79   .wWLQ@....iK.'My
+    0080 - 48 b8 bf 4d c5 0c df 27-f7 e5 10 84 7b c6 7f 43   H..M...'....{..C
+    0090 - 26 29 39 28 34 f0 10 c4-e8 7b c6 59 51 f9 e5 c5   &)9(4....{.YQ...
+    00a0 - 21 3f e1 47 74 b9 40 eb-f3 7a 8d 1f 0f b1 0e ac   !?.Gt.@..z......
+    00b0 - 3a 6f 1a 82 7e 05 80 e4-ad 0b d3 db 29 e8 ed c4   :o..~.......)...
 
-    Start Time: 1472789168
-    Timeout   : 300 (sec)
+    Start Time: 1577475750
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

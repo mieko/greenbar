@@ -1,63 +1,56 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=4337446/street=Suite 900/street=1355 Market St/postalCode=94103/C=US/ST=California/L=San Francisco/O=Twitter, Inc./OU=Twitter Security/CN=twitter.com
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
- 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 0 s:/C=US/ST=California/L=San Francisco/O=Twitter, Inc./OU=atla/CN=twitter.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHnTCCBoWgAwIBAgIQB3a13cqDpLnKWY9ddx+eRjANBgkqhkiG9w0BAQsFADB1
+MIIGcTCCBVmgAwIBAgIQB6JxQM/Z/JSUJ1FPhVVCbzANBgkqhkiG9w0BAQsFADBw
 MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
-d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
-IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE2MDMwOTAwMDAwMFoXDTE4MDMxNDEy
-MDAwMFowggEhMR0wGwYDVQQPDBRQcml2YXRlIE9yZ2FuaXphdGlvbjETMBEGCysG
-AQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhEZWxhd2FyZTEQMA4GA1UE
-BRMHNDMzNzQ0NjESMBAGA1UECRMJU3VpdGUgOTAwMRcwFQYDVQQJEw4xMzU1IE1h
-cmtldCBTdDEOMAwGA1UEERMFOTQxMDMxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpD
-YWxpZm9ybmlhMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2NvMRYwFAYDVQQKEw1Ud2l0
-dGVyLCBJbmMuMRkwFwYDVQQLExBUd2l0dGVyIFNlY3VyaXR5MRQwEgYDVQQDEwt0
-d2l0dGVyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMIImPpn
-AAVVtgthDhrXtYrBzAO+PBf7lPfZ+kyfRmCcaq19OuU0WhKwsguq7JbhWIEvrWCr
-R5Np44R1U8H5D7lGq57qqxiYjGhUCFFlQxphlydcXg8V6c0Wq91RW3Yv/NMRmZ3S
-pj2HAnXmJJbiBD4UnPp+uHFCNwC1sIriM5WL2j/7Y003YtUcAuowftwNU9XUC7ij
-EBNtH4mUC2qURGcpgq3m1bBS/JVXBtbRImaE05IqAseUVt9VP8IT8nwWeDOhU/d3
-l1y3lgXVRPS/74MiXXrmj+Ss3zSetg8KU/Aa23E3aZL2FKkcdWVyRSQJOyxq17lp
-pdzfbZxr/MaiWzECAwEAAaOCA3kwggN1MB8GA1UdIwQYMBaAFD3TUKXWoK3u80pg
-CmXTIdT4+NYPMB0GA1UdDgQWBBSfYnuyiA7uG3ngaSTluj9HpgsC8DAnBgNVHREE
-IDAeggt0d2l0dGVyLmNvbYIPd3d3LnR3aXR0ZXIuY29tMA4GA1UdDwEB/wQEAwIF
-oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwdQYDVR0fBG4wbDA0oDKg
-MIYuaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NoYTItZXYtc2VydmVyLWcxLmNy
-bDA0oDKgMIYuaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NoYTItZXYtc2VydmVy
-LWcxLmNybDBLBgNVHSAERDBCMDcGCWCGSAGG/WwCATAqMCgGCCsGAQUFBwIBFhxo
-dHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAcGBWeBDAEBMIGIBggrBgEFBQcB
-AQR8MHowJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBSBggr
-BgEFBQcwAoZGaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hB
-MkV4dGVuZGVkVmFsaWRhdGlvblNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMIIB
-fAYKKwYBBAHWeQIEAgSCAWwEggFoAWYAdgCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb
-37jjd80OyA3cEAAAAVNdgFLZAAAEAwBHMEUCICZCA9wZjkyHJRy3UTCYnwI21m/U
-XKRXWc7US9arx68qAiEAtK1UZMDl2wRt/o1OxInzFdQCQ+2QTIvLbHe5slXu6boA
-dQBo9pj4H2SCvjqM7rkoHUz8cVFdZ5PURNEKZ6y7T0/7xAAAAVNdgFKcAAAEAwBG
-MEQCIGF6AFQ8TKA8AqktUZ/45JJuKYHCIFIkqcPWIIDLWIZmAiA5PVUV5BBCM2AK
-ce/CeXCyim1y140g/4RxghYW6sNCNwB1AFYUBpov18Ls0/XhvUSyPsdGdrm8mRFc
-wO+UmFXWidDdAAABU12AU6YAAAQDAEYwRAIgXUM1kBRW2bTGAqVvy/aDoYTrdKvM
-I6x5p0FF2S+jGmkCIFmAWDXHV/YBi4thS8HGZc3iVCh5wwaCGM3kztEaUYmQMA0G
-CSqGSIb3DQEBCwUAA4IBAQC7+PUbZaNQAx8YEMg1Uy+cih5Iar3l5ljJ0eih/KsD
-Qo9Y8woYppEuwVC3cN0V2q0I8RXSRE105BgrZbYF2fn32CRs21/sbH0/v6VMonNo
-OEJBzeL20fjYidN1Sr39q02e7kjJNCPVg8yTlRREpSXlsfwXWFOnACSBwpRzmD43
-bRKVH6zjIPiy2wmxXP6ibb3p0ITHnosxLsf3pWXjL/YeWqQq6mUDMRKmeCRR3k1E
-03kXQyxV4AD4hccLqP4K6m17dOkpWbKWNN+/wxWy/ApMuP0hNPgoZSLQBaMidNzh
-Y63izHj1KcOdLNg8VVCCEPoEX8IlbLMIY/YTfN5XAFjs
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xOTAzMDcwMDAwMDBaFw0yMDAzMDcxMjAwMDBa
+MHcxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1T
+YW4gRnJhbmNpc2NvMRYwFAYDVQQKEw1Ud2l0dGVyLCBJbmMuMQ0wCwYDVQQLEwRh
+dGxhMRQwEgYDVQQDEwt0d2l0dGVyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAOZX2kcltfrcPTyfAAFtIAgTueiAqeU/k6M3OArrOTRJGLuLCsvj
+3a+O2Y4cxBvPyhsAgbM+nLlXtf0ziH5SDjJzLO6mVK6T71xZOjI8z01HVkbwqOnF
+VGPD82XygX4W1oajOt4d1wMpOZoc6B/Lh+y7QCFUvM+xdMD085JyrWZvaGw3oQQq
+4DbrDBaoWCbSzdbbuRk1xpgctN2xd5rF/n5Mg4UkGByTR/NEfB9luVio+bbTo4tP
+iKRbwO2nzoGGWMaS8T+UEtTpel3YXPpUsP2fkcPFzpht6eYrOi7qhtaugW8pes3j
+yPhxxp93tvNH2Or7SaBg6cM6mEiIjN2Ez8sCAwEAAaOCAv4wggL6MB8GA1UdIwQY
+MBaAFFFo/5CvAgd1PMzZZWRiohK4WXI7MB0GA1UdDgQWBBSENo9/S2lF5zjBaIIQ
+7RVsnpEMaTAnBgNVHREEIDAeggt0d2l0dGVyLmNvbYIPd3d3LnR3aXR0ZXIuY29t
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+dQYDVR0fBG4wbDA0oDKgMIYuaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NoYTIt
+aGEtc2VydmVyLWc2LmNybDA0oDKgMIYuaHR0cDovL2NybDQuZGlnaWNlcnQuY29t
+L3NoYTItaGEtc2VydmVyLWc2LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAq
+MCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeB
+DAECAjCBgwYIKwYBBQUHAQEEdzB1MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5k
+aWdpY2VydC5jb20wTQYIKwYBBQUHMAKGQWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0
+LmNvbS9EaWdpQ2VydFNIQTJIaWdoQXNzdXJhbmNlU2VydmVyQ0EuY3J0MAwGA1Ud
+EwEB/wQCMAAwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwC72d+8H4pxtZOUI5eq
+kntHOFeVCqtS6BqQlmQ2jh7RhQAAAWlZVWG+AAAEAwBIMEYCIQCZOt2dMF/436CE
+Fe7BC/fYroy24FfWkERqHaL2fSOmSgIhAKmrYz3oS314+5Mt3tvlAtKZtUMACoNI
+kUdQ8Wzqpir8AHYAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFp
+WVVjAwAABAMARzBFAiAQbTBEz6oSpOcpBz1JnXW4hWGRGkV2pwssM9ITkAA81QIh
+AJPBH6YLyk8idL0ntAig+St39IOsIRyKAosS+wqOwyOCMA0GCSqGSIb3DQEBCwUA
+A4IBAQCh0yFFh1vTQMpEgFLa6I5hoheo/LkG6MuWHrRI4raGkQtGbXdbYtudOx8b
+pb3K12l/B9OcZZWhWiW47pjOgxdny1zkJjyaAc1iye0gt/dKBc8WRtlagBlC9C8t
+Wkhvanppbnc02DvwX97kDWwUFhqFcHLTZhWIB3Q2ztp2XAFMqGFR9YzxmgCugJGV
+a1RuyY/VViiOFManXW0aPilm8o+cjWN94x510w6osrwiOSpZAJyMQgPCFaCVcLO/
+2OIPj4SMYsW1Tx9CGdqz5fufSavzmE+t1FJYWgn0YSZ5G3+I4tkMM4rbmDZQIQat
+unC9SRfZte4tT4yg6LSsLwoQRCjZ
 -----END CERTIFICATE-----
-subject=/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=4337446/street=Suite 900/street=1355 Market St/postalCode=94103/C=US/ST=California/L=San Francisco/O=Twitter, Inc./OU=Twitter Security/CN=twitter.com
-issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+subject=/C=US/ST=California/L=San Francisco/O=Twitter, Inc./OU=atla/CN=twitter.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3825 bytes and written 434 bytes
+SSL handshake has read 3515 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -68,27 +61,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 2F47A19AEA4BF1664F671D51E9F8904C9512477634EE00ADC28A4187F9EB7F51
+    Session-ID: C1041398644812B0FBCA023783C6B15DB6394F13B9E5B3D320BFACFA0792EAC6
     Session-ID-ctx: 
-    Master-Key: 16B095A3B42FD5F8843B314B4F67D6EB66C4C0106FB216D42EDABD3ABC75C27737C3B711AB5FD3E52D519B4A40FC2BC9
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 649373560B8452413D17ECB4F135ED773EABC2F4F6B1BE1EC66CDCEADDEC5C2A5580977348C972BBCF863B66B112F48D
     TLS session ticket lifetime hint: 129600 (seconds)
     TLS session ticket:
-    0000 - ec c9 53 7a fb 2d 98 2b-ab c6 77 07 51 54 fd f8   ..Sz.-.+..w.QT..
-    0010 - 73 76 f7 62 b1 2a aa fd-53 d0 91 99 1c 64 fe 16   sv.b.*..S....d..
-    0020 - f3 6e be 7c 18 13 32 f6-d2 73 47 80 61 6d 7a 11   .n.|..2..sG.amz.
-    0030 - e8 d7 3a fe 97 0a 14 a5-82 f6 a7 e5 6e 34 04 fa   ..:.........n4..
-    0040 - 21 76 12 1d e7 3a 50 7a-2d e4 97 70 f6 87 df a4   !v...:Pz-..p....
-    0050 - 30 fa 7d 7b 0f 84 f4 ea-c3 73 44 a2 aa 59 9b 50   0.}{.....sD..Y.P
-    0060 - a2 36 b2 1e e1 9b 0a 04-8d 67 a0 28 d2 37 51 36   .6.......g.(.7Q6
-    0070 - be 99 45 d7 e9 35 b6 0e-d8 93 58 71 04 94 ce 08   ..E..5....Xq....
-    0080 - ed a8 ce 61 82 7f 2f 6e-95 6e bf 02 d2 7b ae 00   ...a../n.n...{..
-    0090 - 59 26 fd 4f ec 50 7a 27-cf 44 3a d8 73 73 8b b3   Y&.O.Pz'.D:.ss..
+    0000 - 25 c1 6c db c2 50 0e 71-f8 69 d8 8c ae eb fd e3   %.l..P.q.i......
+    0010 - d3 6d f1 c7 7c f6 3e f0-a7 16 da 97 77 52 84 36   .m..|.>.....wR.6
+    0020 - 69 ce 79 36 b9 aa 6a 01-7d 63 f0 4c 95 b2 74 40   i.y6..j.}c.L..t@
+    0030 - 1a 00 1b 96 15 10 0a b5-51 ef 90 e2 66 5b 43 30   ........Q...f[C0
+    0040 - 04 47 a9 9a 86 92 76 a9-0d e6 0b 82 a5 a1 61 53   .G....v.......aS
+    0050 - 11 5e 5e 87 17 a8 80 11-51 f5 37 d0 c7 6c b7 84   .^^.....Q.7..l..
+    0060 - 26 0c e4 c0 2e 82 f3 05-21 86 d9 aa 07 e6 d4 c3   &.......!.......
+    0070 - ab e7 13 90 ad 86 f2 16-4d 8f 89 e9 cf bb 4e ca   ........M.....N.
+    0080 - 44 29 d8 3b 31 7f ab 91-23 77 13 3e b8 d8 fa 80   D).;1...#w.>....
+    0090 - 0d 2f 54 fa 4e cb 74 c8-13 7a a5 44 eb 1e 7c 7b   ./T.N.t..z.D..|{
 
-    Start Time: 1472787824
-    Timeout   : 300 (sec)
+    Start Time: 1577474804
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

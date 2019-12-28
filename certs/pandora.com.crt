@@ -1,49 +1,59 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=Oakland/O=Pandora Media, Inc./OU=operations/CN=www.pandora.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/C=US/ST=California/L=Oakland/O=Pandora Media, Inc./OU=operations/CN=*.pandora.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust TLS RSA CA G1
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust TLS RSA CA G1
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE/TCCA+WgAwIBAgIQGbjRvyZGSWSRw4y5GW9hqzANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MTAyMDAwMDAwMFoX
-DTE4MTIxODIzNTk1OVowgYExCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9y
-bmlhMRAwDgYDVQQHFAdPYWtsYW5kMRwwGgYDVQQKFBNQYW5kb3JhIE1lZGlhLCBJ
-bmMuMRMwEQYDVQQLFApvcGVyYXRpb25zMRgwFgYDVQQDFA93d3cucGFuZG9yYS5j
-b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDrITR7HbdOadaMsZ4l
-NZo576S5aqzQb33eGlvveXuM+kCbKGXjYjwGN7xLlBsZ21OIgLkOTwfuIAJGmjk2
-k9WUmNCaCWSat/Jf4iXPye5smU0So6jorMjV58srbOaYlXEqdYC87t61xQIhhKtf
-bRnWyFWyEOPz0MVhEaW5v3HJ/0cCbnkyNm8IOoIaDUb2oK4mjKpV1hvShB+bASIm
-Fh7zBn/5a1QtpNngiw8mWcGhmrRILpW5xZhaNo+mWDE2v83T3+zb5IaK+RtKrzHd
-IHoHYszg2XU9r+WbC1qRoTYRm0DSoGG1YXU+/oUQylSFPEZs9W/Xrgw/goQtBHQL
-psqNAgMBAAGjggFxMIIBbTAnBgNVHREEIDAegg93d3cucGFuZG9yYS5jb22CC3Bh
-bmRvcmEuY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMGEGA1UdIARaMFgw
-VgYGZ4EMAQICMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1jYi5jb20vY3Bz
-MCUGCCsGAQUFBwICMBkMF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBhMCsGA1UdHwQk
-MCIwIKAeoByGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3JsMB0GA1UdJQQWMBQG
-CCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBRfYM9hkFXfhEMUimAqsvV6
-9EMY7zBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9zcy5zeW1j
-ZC5jb20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3J0MA0G
-CSqGSIb3DQEBCwUAA4IBAQAwJ0KKXw2m1lkuGkKSaZmKjUwiuAts2Y56MKXbUBzy
-vpFXqH38rVKbI2GZ1lpAMQWWCx4CoSG7ITGs76U+6ZgaBL1CM5JsfZSqB7R1a7PH
-bngY0jpf0jPfPacQ4R7UwnQeLh4hcvU8jv9fA3L+32AK+PIQK38KylX8LiPjO0bp
-G0FwLf/Yf+shtslUSbKpCViqaUABp93hF5NZL4vlYqnOfv68lq/oWllQIVWgfNK9
-5zCAgWf2X8DwKuo9UilCAgVZIhtb8yl9L/fqyuloYQBxDdqB6oeJcPe9LzKM2qmp
-6LgWgWp0duCXGSNBXQe34bEPWx5157ri08jLXikWz+Lk
+MIIGmjCCBYKgAwIBAgIQD6RkWIgAUN6KPmbtPXcsLDANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR8wHQYDVQQDExZHZW9UcnVzdCBUTFMgUlNBIENBIEcx
+MB4XDTE5MDMxNDAwMDAwMFoXDTIxMDYxMjEyMDAwMFowfzELMAkGA1UEBhMCVVMx
+EzARBgNVBAgTCkNhbGlmb3JuaWExEDAOBgNVBAcTB09ha2xhbmQxHDAaBgNVBAoT
+E1BhbmRvcmEgTWVkaWEsIEluYy4xEzARBgNVBAsTCm9wZXJhdGlvbnMxFjAUBgNV
+BAMMDSoucGFuZG9yYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQC7KU0XrsZGuxwe/gLjEkbbN4175L/yoY1T9LaX1b+T96nb5GWRxUdxHAo2Uy+K
+M1mdrDyhh3mcAguivEYHPwDG11jS1I5KMafGm4/cTEnKhoxqz7VzRegbX2Ak5G16
+jDLiW+1XXXzGm3z8w0n6O62ve6VaS5nGNeUFZq9vlB1SBVwr0XzuMHf+32OHgiP6
+fSWVXNC0U0qGoldZO3OL4yzH+06//YuN09iG0CJTcZIriTcr7uaEUhKg/67N+jJX
+OxqGMXrjUMUClJZrY76yNR8QfKmgLiqJ9MfRt2qj2ZF9Jz/Ugz1Vab+c9jX9Vk0B
+mwHNjZgr1Kve9jpZo+NRyZmdAgMBAAGjggMvMIIDKzAfBgNVHSMEGDAWgBSUT9Rd
+i+Sk4qaA/v3Y+QDvo74CVzAdBgNVHQ4EFgQUEuOs1Q0ZjHbx1xwkoTnzcmbmcBIw
+JQYDVR0RBB4wHIINKi5wYW5kb3JhLmNvbYILcGFuZG9yYS5jb20wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA/BgNVHR8EODA2
+MDSgMqAwhi5odHRwOi8vY2RwLmdlb3RydXN0LmNvbS9HZW9UcnVzdFRMU1JTQUNB
+RzEuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0
+dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMHYGCCsGAQUFBwEB
+BGowaDAmBggrBgEFBQcwAYYaaHR0cDovL3N0YXR1cy5nZW90cnVzdC5jb20wPgYI
+KwYBBQUHMAKGMmh0dHA6Ly9jYWNlcnRzLmdlb3RydXN0LmNvbS9HZW9UcnVzdFRM
+U1JTQUNBRzEuY3J0MAkGA1UdEwQCMAAwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsB
+aQB1ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABaX1am4EAAAQD
+AEYwRAIgMfRIVwsgo55Oj6STgF8Uop7Yw4VU0je3fAy6qxhG3XwCICbFrj9TM+F1
+7TgyfPQrJrEbB83XuErPJ6UgAPndvFIOAHcAh3W/51l8+IxDmV+9827/Vo1HVjb/
+SrVgwbTq/16ggw8AAAFpfVqcygAABAMASDBGAiEAyzUqfIpo5VY+PK2rfd8O+QLa
+/YaPjjIIXZffqmhMNUwCIQCqTcp1DXDgNSmN5xAf3E96+w0TQ1cmdo3o1l7xw8Zk
+mQB3AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABaX1am1QAAAQD
+AEgwRgIhAJZ0jTWSR3A6IEhOn8aEVC0ZNqZutyX3I3/5EJQbst8XAiEA0GMjmn2f
+L/X4IsCDaSsgw2q5gaqDOWdI0vFXUoWaqyowDQYJKoZIhvcNAQELBQADggEBAI4b
+xPrbINj28NtiNJEtvNENkLxdC0MdpBoBV807E6KqTQXeoaYq7v8svzntGzkAL5Tm
+zH4vrZ5qc4QQgjLA+PhhdGa9S39UI4bFUvPZpjp1EJJTusXmAdgISyfLV7OwP6gk
+Gec9R2oOZ7idVTeAJIlV8uXbBtUxEBSJS5ebZT2A5uuY+D4d+8ezWBJhfEU2MY00
+CqlEYAnkTUs9Zi4E8u1aSTFlhG/b/b5rPxKCrWR/+EDLqaCUeehVh6Gu/gHnqVus
+ISLtbFwCQkrSp9GJWx4hrGFJAmL9ZGoCop8Yxa0ieu9NIhhtfM6LWqfjl/yzMg+5
+J+yPkLUigcmL01uyrDM=
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=Oakland/O=Pandora Media, Inc./OU=operations/CN=www.pandora.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/C=US/ST=California/L=Oakland/O=Pandora Media, Inc./OU=operations/CN=*.pandora.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust TLS RSA CA G1
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2785 bytes and written 626 bytes
+SSL handshake has read 3534 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -51,15 +61,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-GCM-SHA384
-    Session-ID: 9BBDF99C42DDF0467A3D103A7AD09F437929F775514211B26207A4D75DF6A835
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 0F3A2387F20EA00AB3CC709A06D9444E8E4E1E0828C359AC0AE653AD18A3BC40
     Session-ID-ctx: 
-    Master-Key: 7BEBEC7DDF7748BF367C0FBD4A94B45772180F8D966A309AF5F383C5C05A085D6F8E3E9A1D21AF7BC729E2D215A9AC24
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788155
-    Timeout   : 300 (sec)
+    Master-Key: 3C7AF3494771169563F239A08334E874665FA9C6B3A528B6971615C7B30BD26D57E72E42703CEB44CD589740D03D0BB6
+    TLS session ticket lifetime hint: 3600 (seconds)
+    TLS session ticket:
+    0000 - ad e2 0f 2a ec 82 01 cc-32 a5 28 79 b7 be 60 fa   ...*....2.(y..`.
+    0010 - 9d 3b 41 13 71 09 ee b1-24 19 6c 88 8f 6d b7 bc   .;A.q...$.l..m..
+    0020 - e7 36 3e b5 e1 c0 8d e0-6d b9 6a 0f ce 82 24 a5   .6>.....m.j...$.
+    0030 - 6b 63 9b a5 6d 52 35 03-28 90 94 28 3f 58 b6 f0   kc..mR5.(..(?X..
+    0040 - 33 c5 96 25 89 61 cd bb-ed 7f 8d 7d 12 7c 6e c9   3..%.a.....}.|n.
+    0050 - ad 10 86 e1 67 8e 7f dd-be da ae dc 90 3c 74 18   ....g........<t.
+    0060 - 26 15 e6 0e 44 3a 91 a1-5a 86 be 3a d9 cf b6 4b   &...D:..Z..:...K
+    0070 - 8c 5f 3a 2d 5b 2c 81 f8-92 b7 90 e7 aa ce 14 32   ._:-[,.........2
+    0080 - b0 91 8b f3 d2 3b 88 96-0f 28 79 49 6f 2f b4 c2   .....;...(yIo/..
+    0090 - c9 3f 10 7f ff 15 3b 69-a5 93 74 eb 5b 43 3e 97   .?....;i..t.[C>.
+    00a0 - 15 be 70 ff 04 a2 da 66-47 1b 6d a0 45 0c 41 32   ..p....fG.m.E.A2
+
+    Start Time: 1577475242
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

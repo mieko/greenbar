@@ -1,80 +1,87 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/CN=*.danawa.com
-   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
- 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+ 0 s:/C=KR/ST=Seoul/L=Yangcheon-gu/OU=Dev Team/O=DANAWA Co., Ltd/CN=*.danawa.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign RSA OV SSL CA 2018
+ 1 s:/OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
    i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+ 2 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign RSA OV SSL CA 2018
+   i:/OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE8jCCA9qgAwIBAgISESFRwrxp2DxideLz1QCZWbPfMA0GCSqGSIb3DQEBCwUA
-MGAxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTYwNAYD
-VQQDEy1HbG9iYWxTaWduIERvbWFpbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
-RzIwHhcNMTUxMTE5MDYyODE0WhcNMTYxMTE5MDYyODE0WjA6MSEwHwYDVQQLExhE
-b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxFTATBgNVBAMMDCouZGFuYXdhLmNvbTCC
-ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOTEzW+wH4PD8vIX5MtwaIIR
-OMbyR49d8hjUy4CGknjeWLYkj611483Vb3WGJ2wLcq4eoN9GkREIxXtPT1PZUNmT
-cwZ2e/oiv5XuH/4K0hBTHs2j8kV/hHjikSZalEiCw+kvrIh7we++gfuIbGGVy+nt
-dhwTEcKyV3aM6iUAgjFU4uBQM8gdWgPxfD6u6r3Gi/dvor8oBd7KdB/WRAtYgjVc
-0vEnNOiSqtZT+hRlYmXX+S3fclbqFhJxsy4s4YsFyVKF90NSU/3aDu96doWO8ZFz
-/1l6b6c99R311T+BkiByeurAjbSHtCzPc4w78aMSpn2vsKh62ZoRqQDMTzDaViMC
-AwEAAaOCAcowggHGMA4GA1UdDwEB/wQEAwIFoDBJBgNVHSAEQjBAMD4GBmeBDAEC
-ATA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBv
-c2l0b3J5LzAjBgNVHREEHDAaggwqLmRhbmF3YS5jb22CCmRhbmF3YS5jb20wCQYD
-VR0TBAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwQwYDVR0fBDww
-OjA4oDagNIYyaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9ncy9nc2RvbWFpbnZh
-bHNoYTJnMi5jcmwwgZQGCCsGAQUFBwEBBIGHMIGEMEcGCCsGAQUFBzAChjtodHRw
-Oi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc2RvbWFpbnZhbHNoYTJn
-MnIxLmNydDA5BggrBgEFBQcwAYYtaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29t
-L2dzZG9tYWludmFsc2hhMmcyMB0GA1UdDgQWBBSAEe7QIRjG/A0SbkFpcl8MO7rT
-/DAfBgNVHSMEGDAWgBTqTnzUgC3lFYGGJoyCbcCYpM+XDzANBgkqhkiG9w0BAQsF
-AAOCAQEAe/t2mSGxZQfjD8Qfut55YwQE/ZyRZ+2r/7R1dkrnEDDXcnG7lrbECcTG
-AHAbwWU/FbvNfi7m4LrtM9Ftj3E4fJRfXlRh329THTnnp6pmgvlMMGyGmLrWNJfK
-azwMrbxFP0ahPImP4dAQj/6NXBn+etvDRAew+v9MiAME22l5XPmkN7sIdF068oLv
-tim7DrYOUoPdJR0+qnqctMIe8fpGWHzHC6ferLI7ntrUcydAJKXL4tIz3fxLN04Y
-NbQWMzzT9U611LSi+UsaPejZGTvcR3pZz5xJNLc3PDnjT9/8QTjIH3wHLFBV+r7M
-Kx+ybQ3qbyo+HFeV4XacDgeow5/tsg==
+MIIGoDCCBYigAwIBAgIMK95vvxkedA6xYeoNMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0xOTExMjgwOTM0NTJaFw0y
+MjAxMTkwNjI4MTRaMHgxCzAJBgNVBAYTAktSMQ4wDAYDVQQIEwVTZW91bDEVMBMG
+A1UEBxMMWWFuZ2NoZW9uLWd1MREwDwYDVQQLEwhEZXYgVGVhbTEYMBYGA1UEChMP
+REFOQVdBIENvLiwgTHRkMRUwEwYDVQQDDAwqLmRhbmF3YS5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDxSu1NuLr2lzepoN1HQUx4QAyh70TLmsRi
+BETcClv8yOvYnKwPYlJmzq4b/Xk9mP0TfmqW9OwEsflJtV7Gwn96Tos6qqoOb08Q
+irA1fxMvODw5qII5T96UNF9i0FTAzxuFfTHcUfWCu76hQXeh0I7DgBr/eH7KNZtQ
+EXYFvTkPg+Y8EQaXaWhqmJCYov2OyYNONjcd8lRY0ZfXqcAW3SZVldlk5Nc01naq
+It3deD5xlc6iyy/as+zmd9zC1ZKIFeDtAmh6DFJGgsUQWAELbdN0Z8QlNJSsqM+u
+MpKDo9wygsG5gBBl6Mdn/y+kiKWOC5hYZvoYTZXzaSOnmQME83BbAgMBAAGjggNQ
+MIIDTDAOBgNVHQ8BAf8EBAMCBaAwgY4GCCsGAQUFBwEBBIGBMH8wRAYIKwYBBQUH
+MAKGOGh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzcnNhb3Zz
+c2xjYTIwMTguY3J0MDcGCCsGAQUFBzABhitodHRwOi8vb2NzcC5nbG9iYWxzaWdu
+LmNvbS9nc3JzYW92c3NsY2EyMDE4MFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQw
+MgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRv
+cnkvMAgGBmeBDAECAjAJBgNVHRMEAjAAMD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHA6
+Ly9jcmwuZ2xvYmFsc2lnbi5jb20vZ3Nyc2FvdnNzbGNhMjAxOC5jcmwwIwYDVR0R
+BBwwGoIMKi5kYW5hd2EuY29tggpkYW5hd2EuY29tMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBT473/yzXhnqN5vjySNiPGHAwKz6zAd
+BgNVHQ4EFgQURJfiCBvCZMKHO8GbRkS9lqKXzXMwggF/BgorBgEEAdZ5AgQCBIIB
+bwSCAWsBaQB3AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABbrFd
+DeAAAAQDAEgwRgIhAMQrATZ+cVcI4eSmGrXEbNA/k5MC7nfldhkzR0rUYKgTAiEA
+i/iNQOQaTFE75FJJJANXoARMxXYmeRF/44N1PqOWdUQAdgAiRUUHWVUkVpY/oS/x
+922G4CMmY63AS39dxoNcbuIPAgAAAW6xXQy+AAAEAwBHMEUCIGd1SVUq/c9aHgME
+8uGDN7QnCBaLMSCQkf6FFNHbSirvAiEArFYFXY7IQXRpvbktic0qFOIMP/NJXcjY
+o88T5G1AVukAdgCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAW6x
+XQ1tAAAEAwBHMEUCIHUz9W1vEIcl6h5laa125Kz/rlaUgi5GB9/sLETga1NUAiEA
+wksX8IGxRsYdA/2ahGy54b4iej6RTja6pHrjnkGzS0wwDQYJKoZIhvcNAQELBQAD
+ggEBAETa/I8eeCZJds1MYYGftsdjZeWCI+NIWVuoM8wwNTCG4bPFXvRjowJfCmHT
+i7uch25qdI5zWoKnJ+eI36DqHNhhNoskFHv+RAYnfwdEBhKaR7LE9qrOoO6XvTp1
+XYFU63Tyh06P9iZpY9hsYxBNpeKgMET0TNLWLkUItBepw/xf0rZDcY9evC7W24JC
+ICGRXBCXl23kdKcNBmyptem6yOm6lu8JX2okUnEgKc2Y9jgI2JqzFJp+LIdCP31F
+IQ3jMSWCRZ6cKv/7X6X67i31GtlY4EuM8WUKK6LXFXPLrPz0T6bB2QbliXMBRysU
+ZlewRq9msoNZoLsdnK3P1U5ItT8=
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/CN=*.danawa.com
-issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+subject=/C=KR/ST=Seoul/L=Yangcheon-gu/OU=Dev Team/O=DANAWA Co., Ltd/CN=*.danawa.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign RSA OV SSL CA 2018
 ---
 No client certificate CA names sent
 ---
-SSL handshake has read 2748 bytes and written 634 bytes
+SSL handshake has read 4258 bytes and written 514 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA
+New, TLSv1/SSLv3, Cipher is AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
-Compression: zlib compression
-Expansion: zlib compression
+Compression: NONE
+Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : AES256-SHA
-    Session-ID: EA81AA7CE08724EB6ECF655EFAA15DDB0528DBB225BA782718EF21EAE1E857D6
+    Protocol  : TLSv1.2
+    Cipher    : AES256-GCM-SHA384
+    Session-ID: 8177210B6CD57EABE52CEE9B0A047BCD597128030F4765DA5F28559FFC3DBBBB
     Session-ID-ctx: 
-    Master-Key: 9762ADD15B0596403E3935C7D5A70EA883A01D81BE213D79CF9D666EEEB4275E6CBC3D690B1445D1F327F81C3B7EDD85
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: FA4315D384CF2FB6D35F0937DCA0F44D1AD5F79E0BE9C613CBD25DCD7033AC5AE73EEE52A591E76825AD1379B43BEE01
+    TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - b2 30 f9 d4 ad 05 d5 d4-35 22 32 f5 4d 7f af 5a   .0......5"2.M..Z
-    0010 - 27 9d 4c 6f 43 63 c3 3e-25 86 5b c4 ad 2f a7 f1   '.LoCc.>%.[../..
-    0020 - c2 8c 09 c0 fe 5f 89 8c-cc 7b d0 9b d1 a7 62 12   ....._...{....b.
-    0030 - 85 93 91 cf 9e 74 ec 25-96 c7 67 85 c8 36 14 5d   .....t.%..g..6.]
-    0040 - 63 08 79 bd 3d c0 52 60-6e 26 8a b9 cf e2 08 74   c.y.=.R`n&.....t
-    0050 - 9c 7b aa 1b 8a 8d 89 63-12 25 5b c9 0b 64 89 f3   .{.....c.%[..d..
-    0060 - 01 77 43 8a 00 3d e6 76-88 b7 c9 f9 37 42 a7 3e   .wC..=.v....7B.>
-    0070 - 1b 3e 8e cd 21 ec a7 04-ee 9c 96 9e 0e 2a 34 ff   .>..!........*4.
-    0080 - c8 f1 a9 cb 9d 25 8e 22-5c c4 72 20 4b c4 9d a4   .....%."\.r K...
-    0090 - 14 ac a2 d7 02 ef ef 59-64 f8 48 ac cf 09 ab 6d   .......Yd.H....m
-    00a0 - 4a a0 80 07 ee 0d 3f fa-90 7b 5a a2 d5 84 4c 74   J.....?..{Z...Lt
-    00b0 - 9c 35 ad f9 60 09 87 18-7e b4 b7 a9 3a 67 bc 3b   .5..`...~...:g.;
+    0000 - 68 b1 b8 1a 32 86 63 0f-9f 64 1d bc 9d 6e e0 6d   h...2.c..d...n.m
+    0010 - 3f a2 f2 41 75 46 d5 6e-22 81 73 6e a0 f7 13 02   ?..AuF.n".sn....
+    0020 - 8c b1 db e8 a2 c1 43 c7-28 8c ab 27 ac 01 1f 06   ......C.(..'....
+    0030 - 72 f0 1c c6 65 c3 bf 88-4d 02 ec de 12 1a b3 7f   r...e...M.......
+    0040 - 9a 6d 99 71 d1 3f a9 40-02 5a c0 a9 f2 67 9f 8c   .m.q.?.@.Z...g..
+    0050 - 3a f2 77 a2 74 a9 8c 5c-ca ed f7 23 3b b7 79 f0   :.w.t..\...#;.y.
+    0060 - 48 be 7c 72 5d d5 f8 e4-83 60 17 93 db 5e ce 5b   H.|r]....`...^.[
+    0070 - 30 d8 3c a6 a6 db 33 6a-cd ed a8 88 8d ab f4 17   0.<...3j........
+    0080 - a1 ad ff b1 5a 44 a1 89-d8 75 99 de e3 24 f7 f6   ....ZD...u...$..
+    0090 - 8e 49 38 ed 88 7f 3c 45-42 a3 86 62 92 3d d2 ae   .I8...<EB..b.=..
+    00a0 - 2a 67 98 0e 57 90 dd c0-9a 4d 3b 4c 58 11 b2 8c   *g..W....M;LX...
+    00b0 - 53 c2 4f 34 b3 d8 51 0d-7c 43 34 b7 d1 d7 58 b7   S.O4..Q.|C4...X.
 
-    Compression: 1 (zlib compression)
-    Start Time: 1472790121
-    Timeout   : 300 (sec)
+    Start Time: 1577476040
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,51 +1,79 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=WA/L=Seattle/O=MyCompany/OU=IT/CN=localhost.localdomain/emailAddress=root@localhost.localdomain
-   i:/C=US/ST=WA/L=Seattle/O=MyCompany/OU=IT/CN=localhost.localdomain/emailAddress=root@localhost.localdomain
+ 0 s:/CN=reuters.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIICpjCCAg+gAwIBAgIBADANBgkqhkiG9w0BAQUFADCBmDELMAkGA1UEBhMCVVMx
-CzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMRIwEAYDVQQKEwlNeUNvbXBh
-bnkxCzAJBgNVBAsTAklUMR4wHAYDVQQDExVsb2NhbGhvc3QubG9jYWxkb21haW4x
-KTAnBgkqhkiG9w0BCQEWGnJvb3RAbG9jYWxob3N0LmxvY2FsZG9tYWluMB4XDTEw
-MDIyNjA4MjI0NVoXDTIwMDIyNDA4MjI0NVowgZgxCzAJBgNVBAYTAlVTMQswCQYD
-VQQIEwJXQTEQMA4GA1UEBxMHU2VhdHRsZTESMBAGA1UEChMJTXlDb21wYW55MQsw
-CQYDVQQLEwJJVDEeMBwGA1UEAxMVbG9jYWxob3N0LmxvY2FsZG9tYWluMSkwJwYJ
-KoZIhvcNAQkBFhpyb290QGxvY2FsaG9zdC5sb2NhbGRvbWFpbjCBnzANBgkqhkiG
-9w0BAQEFAAOBjQAwgYkCgYEA0vmC0IFVPGh/KoFsSXLqyULv7/yXgfhYmlPGvPIC
-JX9xFit0KUtb+sBnnJ/zTGS0AZMU7NBN/DRFDc29OXYqWU8Y8TAoWXffcyUqDX8t
-f6es7wLsCIf32oCSQAmnLkG77UIV55t4UsHNOXTloBtLqeI9yCUOtRbb2688thEC
-hjUCAwEAATANBgkqhkiG9w0BAQUFAAOBgQDJtK8uBkUV8wkCkH7+EIqU6kZtbacn
-cBXsmxuRUsDRwERtU3DDFy1ZvedgBk98vG9rGJtS9APH9Zv72spWYXnv9G7eZTFG
-ggj+zp8L8SXlOmcm8hgyJLWb4ceISZtFTjjxzaNaY8RxqAM4QfhfF+woVY+X2jNM
-ndXgFpDYolKxCw==
+MIIFgDCCBGigAwIBAgISA9TXA2XRdRboAt9BHmZu9wrVMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MjcwNDUyNDlaFw0x
+OTEyMjYwNDUyNDlaMBYxFDASBgNVBAMTC3JldXRlcnMuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuDZL/WCymCIs2u/tVTVclaUQJCXSN07bnKZr
+qV7d7rdWCgh11NcWa8NnFspNO6B/0CX5a6NWsn5sAFg4vKJSi/c7oZZTpqiU3VXH
+OYQfeOkzrjQgNjIzy+RmB+zmcBXuuzY842pqftjnXyzpGBHoLSUBVJfBQSfK9fyr
+AW5mFqwAUrWPxs+/O8hV7Eoptq5NcmuUkWxwyDXh/si3V9LgI5G8uD0tgdhHIHS1
+sDJKQfeGA48w/5g4PiEQcQO1H8GvUnBFeI20Nu+uwX7PUMiWvsIbZfM5T84GSsay
+gL6YZIouHqwAc7bDqgxGKoW7vkodTfr0fFOIH6yP8t+ANN59lwIDAQABo4ICkjCC
+Ao4wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTAHUW1uGHl8gB5v1BlrQ7gmWPUJTAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MEoGA1UdEQRDMEGCC3JldXRlcnMuY29tghJ3d3cuY24ucmV1dGVycy5jb22CDnd3
+dy5yZXV0ZXJzLmVzgg56YS5yZXV0ZXJzLmNvbTBMBgNVHSAERTBDMAgGBmeBDAEC
+ATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNl
+bmNyeXB0Lm9yZzCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AHR+2oMxrTMQkSGc
+ziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABbXFHbs0AAAQDAEYwRAIgefj9Hzu7X2a5
+HAfFk+msSBBYh4LJ3ixamXA371W6YVwCIAMXhvX+NV9xTBTPUGfW9bD7TeFiGLG0
+BFTEEg4t25MLAHUAKTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgAAAFt
+cUduuwAABAMARjBEAiB0LqTr1N9/4hqa+zImpL0ZWmqnI1feMK3pPbDh+GggHAIg
+NaZZYOTJGkUIXWsnyLJSm6ZCNR3FJMaB/rYCIK2SE9wwDQYJKoZIhvcNAQELBQAD
+ggEBAIsN2lss4g8hMnwdsGVm+HjhAZLHep2sEvgxPhuEMrztrUuZ4XkOdaYDwBR4
+vwZZQpNOxfEMGRhUD6LjamrKCevTsKT9QAntOLp458wp7iU1RUPtct2UjKSrqVqi
+yWsMMzZiRP0DTu/c9oHww0ymLWSLlqjlFC1W5rWnnrn2Dtu3PkdVv64/Kppe9Q0O
+/+gdTzbh3+2ow8Bf489eOq39oUYKDgUQ/HgwVUV8LE1cMDxmmQ6nqLjc6hIeVVdb
+Z6FQpYsX2RaT0w3/LRXCN1jgEYyK9qS28D8sk8JHQ9N6ctudnjzZVZq8ukNvYtRH
+2UKUu5zF2ga0Eq8YOuz5z2gA7ws=
 -----END CERTIFICATE-----
-subject=/C=US/ST=WA/L=Seattle/O=MyCompany/OU=IT/CN=localhost.localdomain/emailAddress=root@localhost.localdomain
-issuer=/C=US/ST=WA/L=Seattle/O=MyCompany/OU=IT/CN=localhost.localdomain/emailAddress=root@localhost.localdomain
+subject=/CN=reuters.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-384, 384 bits
 ---
-SSL handshake has read 839 bytes and written 494 bytes
+SSL handshake has read 3291 bytes and written 354 bytes
 ---
-New, TLSv1/SSLv3, Cipher is RC4-SHA
-Server public key is 1024 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : RC4-SHA
-    Session-ID: 231A3198E7307553BF0CC1E831891DD9B5AC16DC11D61E965ADBAD3C0262A665
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: AFC57E9F5BEC42D36CF56D8F544F9D7111A4684BED0CD3F757B41D88F92745B9
     Session-ID-ctx: 
-    Master-Key: 81FA4A0682A4E681A1C037E994C51289CAB1CF8F9584F7E4C110B15F9FC39DA9EC76D7D127925EB7E3AC61BC016A2074
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788359
-    Timeout   : 300 (sec)
-    Verify return code: 18 (self signed certificate)
+    Master-Key: 7B6652987C1C6D2008E8A9A2B40CFB0C3835E07849CC3431993FCEED3359867426D76CC0D33A7FAE7B8A9AC4A334DFC3
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e9 53 f8 cf a4 00 13 f2-52 63 88 b2 99 9b d4 ec   .S......Rc......
+    0010 - e9 db 4c 35 b4 2d 36 51-9e 06 7c 12 a3 f3 49 8f   ..L5.-6Q..|...I.
+    0020 - 11 d9 9d 5c f9 ae 28 ff-bf ed a0 d1 f1 7d 1a 3f   ...\..(......}.?
+    0030 - b6 d7 b4 1d e3 da 81 48-40 5c 96 49 80 cc 2d 13   .......H@\.I..-.
+    0040 - 8e 58 07 24 7c 25 e5 25-31 7d be 77 56 b6 cb c5   .X.$|%.%1}.wV...
+    0050 - a3 5e 45 3c 1a 7b 32 f6-c3 03 53 40 b5 eb 35 d2   .^E<.{2...S@..5.
+    0060 - 9b 3f f8 74 c2 28 05 4f-19 5a 0e d3 ce 38 cc e0   .?.t.(.O.Z...8..
+    0070 - bd 09 17 f1 97 4f 49 12-14 d4 40 26 59 c3 d0 2a   .....OI...@&Y..*
+    0080 - 3b ef c3 fe fc b0 be c9-6b a9 73 a9 7c f7 f2 a2   ;.......k.s.|...
+    0090 - 56 2d 35 a6 77 b2 56 dd-72 d5 c7 82 d6 1c 96 cc   V-5.w.V.r.......
+    00a0 - a4 fa 31 90 28 c7 13 96-60 13 e4 4f 55 76 e8 b4   ..1.(...`..OUv..
+
+    Start Time: 1577475084
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
 ---

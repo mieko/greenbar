@@ -1,0 +1,62 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=www.notexist.com
+   i:/CN=gaofang
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIICqTCCAZECCQDG9wED68PrZDANBgkqhkiG9w0BAQUFADASMRAwDgYDVQQDDAdn
+YW9mYW5nMB4XDTE1MTIwMTA2NDc1MVoXDTI5MDgwOTA2NDc1MVowGzEZMBcGA1UE
+AwwQd3d3Lm5vdGV4aXN0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAOITLT3cNp6TrxjiGhTjfpRXTKMutMysPEmrhYIWnSjimDkLe8mXP96jk4IB
+3tOMv2Jtqn+YbMKm2AgM4oHs5u9YB/7MZCpUPityObN8G+73PHVO5npW0EUQcZaf
+dqHB153ykKRurpXLpTRG+s2NdzWpN8pDJ1H2JNbHcd5wq6tzz/vD5maRgAkxkXhp
+RZptG0OxgYCqv+NFXC+uMINBFSPvOkkqxJckLggZc/Mueh9F7PaWA72lKoXbV4g8
+nBjcYOlPXDJKir6kD050OpVMLBeaqQZNHsbsoY9ietuf7TT58srRNpEogPSIbK9Y
+0PXvudeuiupNEzH/fFf5wucOOaUCAwEAATANBgkqhkiG9w0BAQUFAAOCAQEAGjiD
+v+DfLHOl606QFHTW60XQek5xcCRDpeGnwGS6ytTnANiK7Z19lkk38hZPVHxEArd0
+62EcYPWd2Oy1vs6MTXcJSfN9Z7rZ9fmxWr2BFN2XbahgnsSXM48ixZJ4krc+1M+j
+2kcubVpsE2cgHdj4v8H6jUz9Ji4mr7vMNS6dXv8PUkl/qoDeNGCNdyTS5NIL5ir+
+g92cL8IGOkjgvhlqt9vc65Cgb4mL+n5+DV9uOyTZTW/MojmlgfUekC2xiXa54nxJ
+f17Y1TADGSbyJbsC0Q9nIrHsPl8YKkvRWvIAqYxXZ7wRwWWmv4TMxFhWRiNY7yZI
+o2ZUhl02SIDNggIEeg==
+-----END CERTIFICATE-----
+subject=/CN=www.notexist.com
+issuer=/CN=gaofang
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1355 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: A7AE1D3D1F7E8E0007B702105CE7DFA2B455D3DFFC39200303C8E4B12D74CFA4
+    Session-ID-ctx: 
+    Master-Key: 024B10753DA18E94CC7736745D99CD4796E59EE8A0FAEB641F04CAEE01407843322F0F734F2038E38904905BAC11608B
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6e 29 b8 c9 d3 b0 b3 f8-74 2a 16 84 3d 96 16 50   n)......t*..=..P
+    0010 - 53 83 8c f4 ba 29 c3 2f-f4 8b 87 fb 60 eb c8 63   S....)./....`..c
+    0020 - 66 15 cd c0 1c dd 29 00-9e 85 8e a8 f4 c3 39 01   f.....).......9.
+    0030 - 75 eb 28 d0 98 be 00 0d-d8 4f c9 8b e2 c4 9b 61   u.(......O.....a
+    0040 - 27 3e 4d 65 c1 78 b7 77-68 df 91 46 9f 22 be a3   '>Me.x.wh..F."..
+    0050 - 54 6b 59 08 2e c3 df 4f-aa ac 2d 53 7e d0 ed 40   TkY....O..-S~..@
+    0060 - ed cd d3 9a eb 84 43 9d-09 68 ce 1d ed c5 75 29   ......C..h....u)
+    0070 - 05 a3 37 32 62 d8 c2 9a-04 5e 1d 07 4c ae 3d 0a   ..72b....^..L.=.
+    0080 - 99 35 dc 09 fe 1f d3 b5-14 53 ed 48 ac a8 94 66   .5.......S.H...f
+    0090 - e4 ef 2c b6 b1 db be d0-45 4d 68 43 66 9f be 2f   ..,.....EMhCf../
+    00a0 - c0 08 a7 d5 81 0b 52 ee-d6 9e 1d 67 6a 36 43 6f   ......R....gj6Co
+
+    Start Time: 1577475703
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

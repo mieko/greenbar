@@ -1,68 +1,77 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=Mountain View/O=Google Inc/CN=*.google.com
-   i:/C=US/O=Google Inc/CN=Google Internet Authority G2
- 1 s:/C=US/O=Google Inc/CN=Google Internet Authority G2
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+ 0 s:/C=US/ST=California/L=Mountain View/O=Google LLC/CN=*.google.com
+   i:/C=US/O=Google Trust Services/CN=GTS CA 1O1
+ 1 s:/C=US/O=Google Trust Services/CN=GTS CA 1O1
+   i:/OU=GlobalSign Root CA - R2/O=GlobalSign/CN=GlobalSign
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIH0DCCBrigAwIBAgIIGl5CY3EClwgwDQYJKoZIhvcNAQELBQAwSTELMAkGA1UE
-BhMCVVMxEzARBgNVBAoTCkdvb2dsZSBJbmMxJTAjBgNVBAMTHEdvb2dsZSBJbnRl
-cm5ldCBBdXRob3JpdHkgRzIwHhcNMTYwODI0MTAxOTUwWhcNMTYxMTE2MTAxMDAw
-WjBmMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwN
-TW91bnRhaW4gVmlldzETMBEGA1UECgwKR29vZ2xlIEluYzEVMBMGA1UEAwwMKi5n
-b29nbGUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyLctB7lK
-zwvBkXv2ER7HXp4rEqre8oD2wr9VkZoVxLGar+klyqn/QIB5fJ0LmQjkjKmX9am2
-79efj3KfJ+MY31Tp8Dj6s4Bq6x/QzBY5+jKvaVEcRypIt3n9H2BM2O3YQk6BGVDw
-b3nIrX+//uo6yCYd/BbbOClC4YtbW32oqrN2VKjckgiewZMpcPe3i2xzFkYzM+0t
-zM6m7p1XLWmywd0LPKxDTLt2DuRT/MmeQlu54V4FbGmSPwjRoAgQe6so1CaM7PJ6
-+uRN0Dt2+auarfiKW+m4g+jqrEm6RjQTe3hsG8e/xAqVrrcB6NF2RyyzNPDM+oma
-t/EM+W+fxsH3GQIDAQABo4IEnTCCBJkwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
-AQUFBwMCMIIDaQYDVR0RBIIDYDCCA1yCDCouZ29vZ2xlLmNvbYINKi5hbmRyb2lk
-LmNvbYIWKi5hcHBlbmdpbmUuZ29vZ2xlLmNvbYISKi5jbG91ZC5nb29nbGUuY29t
-ghYqLmdvb2dsZS1hbmFseXRpY3MuY29tggsqLmdvb2dsZS5jYYILKi5nb29nbGUu
-Y2yCDiouZ29vZ2xlLmNvLmlugg4qLmdvb2dsZS5jby5qcIIOKi5nb29nbGUuY28u
-dWuCDyouZ29vZ2xlLmNvbS5hcoIPKi5nb29nbGUuY29tLmF1gg8qLmdvb2dsZS5j
-b20uYnKCDyouZ29vZ2xlLmNvbS5jb4IPKi5nb29nbGUuY29tLm14gg8qLmdvb2ds
-ZS5jb20udHKCDyouZ29vZ2xlLmNvbS52boILKi5nb29nbGUuZGWCCyouZ29vZ2xl
-LmVzggsqLmdvb2dsZS5mcoILKi5nb29nbGUuaHWCCyouZ29vZ2xlLml0ggsqLmdv
-b2dsZS5ubIILKi5nb29nbGUucGyCCyouZ29vZ2xlLnB0ghIqLmdvb2dsZWFkYXBp
-cy5jb22CDyouZ29vZ2xlYXBpcy5jboIUKi5nb29nbGVjb21tZXJjZS5jb22CESou
-Z29vZ2xldmlkZW8uY29tggwqLmdzdGF0aWMuY26CDSouZ3N0YXRpYy5jb22CCiou
-Z3Z0MS5jb22CCiouZ3Z0Mi5jb22CFCoubWV0cmljLmdzdGF0aWMuY29tggwqLnVy
-Y2hpbi5jb22CECoudXJsLmdvb2dsZS5jb22CFioueW91dHViZS1ub2Nvb2tpZS5j
-b22CDSoueW91dHViZS5jb22CFioueW91dHViZWVkdWNhdGlvbi5jb22CCyoueXRp
-bWcuY29tghphbmRyb2lkLmNsaWVudHMuZ29vZ2xlLmNvbYILYW5kcm9pZC5jb22C
-BGcuY2+CBmdvby5nbIIUZ29vZ2xlLWFuYWx5dGljcy5jb22CCmdvb2dsZS5jb22C
-Emdvb2dsZWNvbW1lcmNlLmNvbYIZcG9saWN5Lm10YS1zdHMuZ29vZ2xlLmNvbYIK
-dXJjaGluLmNvbYIKd3d3Lmdvby5nbIIIeW91dHUuYmWCC3lvdXR1YmUuY29tghR5
-b3V0dWJlZWR1Y2F0aW9uLmNvbTBoBggrBgEFBQcBAQRcMFowKwYIKwYBBQUHMAKG
-H2h0dHA6Ly9wa2kuZ29vZ2xlLmNvbS9HSUFHMi5jcnQwKwYIKwYBBQUHMAGGH2h0
-dHA6Ly9jbGllbnRzMS5nb29nbGUuY29tL29jc3AwHQYDVR0OBBYEFKB/db6yKwtP
-N5jOmZnvsbxhUJWnMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUSt0GFhu89mi1
-dvWBtrtiGrpagS8wIQYDVR0gBBowGDAMBgorBgEEAdZ5AgUBMAgGBmeBDAECAjAw
-BgNVHR8EKTAnMCWgI6Ahhh9odHRwOi8vcGtpLmdvb2dsZS5jb20vR0lBRzIuY3Js
-MA0GCSqGSIb3DQEBCwUAA4IBAQB9A6yyYAMgatEaBQ1dbri4avQtYEcqvgl7JQun
-/LqDK7a7VL//70JJ1zuBCcwLmRAcpgqjdluWMaCyzYoXyAvciOsgoEDLQ3dlVEix
-dLP7afQjSZTy7hOks3/1COlzZLDKg4wcWwl0QrqT6BRq+v197fLLnRRtGRx5GMgb
-So1aqsEJAu1DLWu+ldBzpY1+wLxSYxQdZHuvUGxuFkgYbjtR7Lz/pEWdKKTbEUrX
-jqn6yctD93vL4vXlDXK+ubBoEq/ObcjSCDvcEnb+jiUuqQgOIBt+SIkx7UZT4K8H
-TE36uyYZX4JfnS4xyijV0DE4ckXz0hT14a9ME1x8+EhyEUSL
+MIIKDjCCCPagAwIBAgIQdDfRXFmrl7wDAAAAAGZTjTANBgkqhkiG9w0BAQsFADBC
+MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMRMw
+EQYDVQQDEwpHVFMgQ0EgMU8xMB4XDTE5MTIwMzE0NDA1MloXDTIwMDIyNTE0NDA1
+MlowZjELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcT
+DU1vdW50YWluIFZpZXcxEzARBgNVBAoTCkdvb2dsZSBMTEMxFTATBgNVBAMMDCou
+Z29vZ2xlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOGEfEQ/
+NB5JnM42Qx+9ssMS6o/FktWBTaFZF/lUd5QsCdBmkVNrjO25XJfYsJoT9zMrIAr5
+qpPulk3jo0rihNIbMsQoo35IyPv0JDvYNxQ/Kuy/LEiBwRewZ8To5P2DgmJD1hJ1
+dEZ7ixCQhUl7xZ87oENhuftY8BDZ705lwfUYRJm5vROpDdBu4XqQ6Sq0nL4/IWNW
+FGlwrrwG6u/FdB3I8zlrD8mkVtSnEnW0fUxLDTurns5LeZxkpAvRkaYPKw7OTXC6
+Zxpm3pZDNMrJie3pTpr1PYk2SdZBV6rb0L2A88/GJ3mWKmAhPDJtKhDKafhjimGa
+MkFy6ke1Kb2I8LECAwEAAaOCBtowggbWMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUE
+DDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRJmOxNhBC5SYMP
+Z00HqkPOMnXmjzAfBgNVHSMEGDAWgBSY0fhuEOvPm+xgnxiQG6DrfQn9KzBkBggr
+BgEFBQcBAQRYMFYwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vY3NwLnBraS5nb29nL2d0
+czFvMTArBggrBgEFBQcwAoYfaHR0cDovL3BraS5nb29nL2dzcjIvR1RTMU8xLmNy
+dDCCBJ0GA1UdEQSCBJQwggSQggwqLmdvb2dsZS5jb22CDSouYW5kcm9pZC5jb22C
+FiouYXBwZW5naW5lLmdvb2dsZS5jb22CEiouY2xvdWQuZ29vZ2xlLmNvbYIYKi5j
+cm93ZHNvdXJjZS5nb29nbGUuY29tggYqLmcuY2+CDiouZ2NwLmd2dDIuY29tghEq
+LmdjcGNkbi5ndnQxLmNvbYIKKi5nZ3BodC5jboIOKi5na2VjbmFwcHMuY26CFiou
+Z29vZ2xlLWFuYWx5dGljcy5jb22CCyouZ29vZ2xlLmNhggsqLmdvb2dsZS5jbIIO
+Ki5nb29nbGUuY28uaW6CDiouZ29vZ2xlLmNvLmpwgg4qLmdvb2dsZS5jby51a4IP
+Ki5nb29nbGUuY29tLmFygg8qLmdvb2dsZS5jb20uYXWCDyouZ29vZ2xlLmNvbS5i
+coIPKi5nb29nbGUuY29tLmNvgg8qLmdvb2dsZS5jb20ubXiCDyouZ29vZ2xlLmNv
+bS50coIPKi5nb29nbGUuY29tLnZuggsqLmdvb2dsZS5kZYILKi5nb29nbGUuZXOC
+CyouZ29vZ2xlLmZyggsqLmdvb2dsZS5odYILKi5nb29nbGUuaXSCCyouZ29vZ2xl
+Lm5sggsqLmdvb2dsZS5wbIILKi5nb29nbGUucHSCEiouZ29vZ2xlYWRhcGlzLmNv
+bYIPKi5nb29nbGVhcGlzLmNughEqLmdvb2dsZWNuYXBwcy5jboIUKi5nb29nbGVj
+b21tZXJjZS5jb22CESouZ29vZ2xldmlkZW8uY29tggwqLmdzdGF0aWMuY26CDSou
+Z3N0YXRpYy5jb22CEiouZ3N0YXRpY2NuYXBwcy5jboIKKi5ndnQxLmNvbYIKKi5n
+dnQyLmNvbYIUKi5tZXRyaWMuZ3N0YXRpYy5jb22CDCoudXJjaGluLmNvbYIQKi51
+cmwuZ29vZ2xlLmNvbYITKi53ZWFyLmdrZWNuYXBwcy5jboIWKi55b3V0dWJlLW5v
+Y29va2llLmNvbYINKi55b3V0dWJlLmNvbYIWKi55b3V0dWJlZWR1Y2F0aW9uLmNv
+bYIRKi55b3V0dWJla2lkcy5jb22CByoueXQuYmWCCyoueXRpbWcuY29tghphbmRy
+b2lkLmNsaWVudHMuZ29vZ2xlLmNvbYILYW5kcm9pZC5jb22CG2RldmVsb3Blci5h
+bmRyb2lkLmdvb2dsZS5jboIcZGV2ZWxvcGVycy5hbmRyb2lkLmdvb2dsZS5jboIE
+Zy5jb4IIZ2dwaHQuY26CDGdrZWNuYXBwcy5jboIGZ29vLmdsghRnb29nbGUtYW5h
+bHl0aWNzLmNvbYIKZ29vZ2xlLmNvbYIPZ29vZ2xlY25hcHBzLmNughJnb29nbGVj
+b21tZXJjZS5jb22CGHNvdXJjZS5hbmRyb2lkLmdvb2dsZS5jboIKdXJjaGluLmNv
+bYIKd3d3Lmdvby5nbIIIeW91dHUuYmWCC3lvdXR1YmUuY29tghR5b3V0dWJlZWR1
+Y2F0aW9uLmNvbYIPeW91dHViZWtpZHMuY29tggV5dC5iZTAhBgNVHSAEGjAYMAgG
+BmeBDAECAjAMBgorBgEEAdZ5AgUDMC8GA1UdHwQoMCYwJKAioCCGHmh0dHA6Ly9j
+cmwucGtpLmdvb2cvR1RTMU8xLmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB3
+ALIeBcyLos2KIE6HZvkruYolIGdr2vpw57JJUy3vi5BeAAABbsxsEuIAAAQDAEgw
+RgIhAN4LNMEgvoxlE37gRFtlcNuObMRA6ZNC08aPkLoPYBABAiEAsD3gauSyaOa7
+IptZVoAnR3JPYHy0mUy7Fm/AaPTjVS4AdQBep3P531bA57U2SH3QSeAyepGaDISh
+EhKEGHWWgXFFWAAAAW7MbBK4AAAEAwBGMEQCIHGo+2vjV+knsBR8NYUOqwmfrLyp
+BSeY+YU0zw5s0YDhAiALp42Dpdu6n9tcUW/NGiAAZyqsVt8ra25EZmTGcYjkJzAN
+BgkqhkiG9w0BAQsFAAOCAQEAL016giRXkXkx9yeRzEHiKAwWjnMpETv5cRFVDq2I
+XBFEPEllw0DR2eFQgRLTwusYKSl7px6eE810lpclGpIo7z5DG/berfEMizyYCL/5
+1DythBoDtvEDJ7hPdzxzzzHuvkYHm+pO+PZ9R0o3eGTvVUSZ+3vID5aDqpE1prQr
+Tc2hANEHb7Ep0lowgJUoaqe8LCCcI5eo+uOfScxEpQ3gL4bV2bOLiOZlY1m6LDsq
+l9XqRAcrsNVGoSFOYopxcYY0EnZJVI7G5DsmrOd0An2AFPc6E5QD9iPrHrAz+E8W
+mRL7N9zIq9jAUl5bHQqn1kd7Q9qs54fvJSG0d6r/p1V/3A==
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=Mountain View/O=Google Inc/CN=*.google.com
-issuer=/C=US/O=Google Inc/CN=Google Internet Authority G2
+subject=/C=US/ST=California/L=Mountain View/O=Google LLC/CN=*.google.com
+issuer=/C=US/O=Google Trust Services/CN=GTS CA 1O1
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4575 bytes and written 434 bytes
+SSL handshake has read 4347 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -70,29 +79,28 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: FBA4C7BA64AC79569750185F8BEA583C4C177C8AC31FDDDEFFF94D16B9B27D39
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: F38B8193F6BAB9C0B749AB30DF566B587D6C76B39C773E670BFCD1DB1B329C61
     Session-ID-ctx: 
-    Master-Key: 3B89A885505E455A1850E8244C6B72DC98148B23B5C95F31EDBAD6C31571EF8D2144E8665397F88ECEE8A4A71E7B40A5
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: C6F02CB206B747C4CF8592F80DE1A65E8EC89E9E3F373F0C5917F643422A275F59B9F243F62A8B7B2426370C475B48D3
     TLS session ticket lifetime hint: 100800 (seconds)
     TLS session ticket:
-    0000 - d9 16 e6 49 16 33 ec cf-6c fc 8c 82 13 ec a6 e2   ...I.3..l.......
-    0010 - 43 b0 93 84 22 c4 6e f9-aa 69 ff f4 ca 2a 67 b3   C...".n..i...*g.
-    0020 - 79 2a 39 61 1d 9f b3 9a-0e ea b0 58 a3 02 69 4f   y*9a.......X..iO
-    0030 - dc a8 f1 1f 7a d6 12 36-92 de d9 5e 47 d3 fc 6f   ....z..6...^G..o
-    0040 - 7f 06 80 3e 10 ce fb 41-20 27 d1 66 f1 39 dd fe   ...>...A '.f.9..
-    0050 - 7f 1b c7 de 61 5a e5 b6-ca f3 93 c2 05 eb c1 8c   ....aZ..........
-    0060 - 2b 61 8c 71 40 7a 9a 32-4b e3 ac 8c f0 95 b1 03   +a.q@z.2K.......
-    0070 - b7 38 31 78 df 0b 73 d2-d4 48 3b 63 70 91 9d fd   .81x..s..H;cp...
-    0080 - 68 f7 e5 16 9d 20 cb af-99 9f 19 f7 de 68 0f 65   h.... .......h.e
-    0090 - 58 83 1b aa 7c 78 36 b3-6a 1c 80 e2 10 55 bd 91   X...|x6.j....U..
-    00a0 - 31 64 86 ab                                       1d..
+    0000 - 00 6c 3f f8 bb 37 03 74-3a 29 71 d1 47 4e 7b b9   .l?..7.t:)q.GN{.
+    0010 - 75 b7 f6 6d a9 0c 2b 11-9b 17 2a 4b 33 8b 2b 36   u..m..+...*K3.+6
+    0020 - b0 78 9e de 1d 0f 5d c8-a4 b5 03 f0 e6 bb 5c 67   .x....].......\g
+    0030 - dc bc 10 6b 6d 6a 20 93-5b 82 16 ea 6d ae 8e ef   ...kmj .[...m...
+    0040 - 0e ba 79 2a da 8e 81 b7-b2 85 50 22 76 28 f4 8c   ..y*......P"v(..
+    0050 - 5e 65 ca a1 91 82 31 7c-15 7f 1f 48 42 a6 7e d5   ^e....1|...HB.~.
+    0060 - c5 20 8c b9 93 90 be dc-ea c9 ae 58 98 29 7f 9a   . .........X.)..
+    0070 - a5 67 4f 86 5c 57 14 c8-41 61 61 27 75 1b c2 60   .gO.\W..Aaa'u..`
+    0080 - e5 25 50 f7 72 c0 5d c7-fa f5 dc 7b 95 6b bd d4   .%P.r.]....{.k..
+    0090 - c8 b7 dc a4 e8 e9 1d a1-d6 89 e5 c4 8b 4b 46 5a   .............KFZ
+    00a0 - 2d 6a cd 75 9f 4d 28 9b-c3 c9 12 1d 5a 84 63 58   -j.u.M(.....Z.cX
+    00b0 - 73 e7 8c f9 41 2a 61 d4-f6 b0 f7 35 6f b1 5c 7c   s...A*a....5o.\|
+    00c0 - f5 c3 56 45 13 7b 6b 6a-af 1c be 1d 1c f5 37 45   ..VE.{kj......7E
+    00d0 - 23 bb 2f 8a 31                                    #./.1
 
-    Start Time: 1472787814
-    Timeout   : 300 (sec)
+    Start Time: 1577474770
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

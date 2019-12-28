@@ -1,50 +1,55 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=San Mateo/O=Sony Computer Entertainment America LLC/OU=MARKETING/CN=www.playstation.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/C=US/ST=California/L=San Mateo/O=Sony Interactive Entertainment LLC/OU=MARKETING/CN=www.playstation.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert Global CA G2
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert Global CA G2
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFHjCCBAagAwIBAgIQRKE7yQ1LJGvjaeKtp8CPJDANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MTEyMzAwMDAwMFoX
-DTE2MTEyNTIzNTk1OVowgZoxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9y
-bmlhMRIwEAYDVQQHDAlTYW4gTWF0ZW8xMDAuBgNVBAoMJ1NvbnkgQ29tcHV0ZXIg
-RW50ZXJ0YWlubWVudCBBbWVyaWNhIExMQzESMBAGA1UECwwJTUFSS0VUSU5HMRww
-GgYDVQQDDBN3d3cucGxheXN0YXRpb24uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
-AQ8AMIIBCgKCAQEAp6Fvt16NBW0ZJBF+RX1QGew72bVaeC6cAfK0507qtDr2c2JB
-Hzl69PCkJoO942kRyHUpsegL505qDaJIgZbWCZ2UjCOFabrDYWxF3KQsV2qc9j+o
-KEWWUGSUYUXtuKw7f4eAfjmNbEmdzDGvw/sgJMIYBlr8+UuH0nBZ0o+xhPTsW21C
-iWkh8kqtbriohjTI2eAWWtkoTYT88Kq665b2OdVETlCRMe1f1+PeCgLU/LblKCY2
-1UA/mqjpPG9LZdHf2JAZ992HJOoCtEbqspKkxn+eLNhPM0RP1v/ZNJlXi0+8902w
-Y9bFUIi0gelYvkTvSx3hKBQPmHkpf/7W0M0wBwIDAQABo4IBeTCCAXUwLwYDVR0R
-BCgwJoIPcGxheXN0YXRpb24uY29tghN3d3cucGxheXN0YXRpb24uY29tMAkGA1Ud
-EwQCMAAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
-BQcDAjBhBgNVHSAEWjBYMFYGBmeBDAECAjBMMCMGCCsGAQUFBwIBFhdodHRwczov
-L2Quc3ltY2IuY29tL2NwczAlBggrBgEFBQcCAjAZGhdodHRwczovL2Quc3ltY2Iu
-Y29tL3JwYTAfBgNVHSMEGDAWgBRfYM9hkFXfhEMUimAqsvV69EMY7zArBgNVHR8E
-JDAiMCCgHqAchhpodHRwOi8vc3Muc3ltY2IuY29tL3NzLmNybDBXBggrBgEFBQcB
-AQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9zcy5zeW1jZC5jb20wJgYIKwYBBQUH
-MAKGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3J0MA0GCSqGSIb3DQEBCwUAA4IB
-AQBI9nw6KED0IGg4yusWJtnkjDTFj9fnVu0qdJ+Kh6kwRBSNrM6Z/TY5eIRGYQG+
-BRkrv1MTxw2MazmhGCXKlX3ci5+CivkrMZAk1pPwoZjaHoIXsyFJfeWgXS0idfTE
-npSZykkM6OKKNu+Kc0wEB2rm6vjGPxh5+QId8g8SvK/qpOnft1BiZPI7FtdwE5ef
-9JXjsIRW6yOkq54bA1sOD2R5S0n3dVGV1cniGOUDO+lyI5ik+P8xnz3nsBf/Qo2B
-5gO7q2o/WkSEsPtRsqcYpyLL+MoHdI5ySTLJ3NkFp7QZSm+IRWYsC0BJRf//dtPx
-eozNcfQjO5ec3qhUCwO31GCj
+MIIGWjCCBUKgAwIBAgIQAv2mGBAhFa4AgDg32sIIezANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBHbG9iYWwgQ0EgRzIwHhcNMTkxMTA2MDAwMDAwWhcNMjAxMTEyMTIw
+MDAwWjCBlTELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExEjAQBgNV
+BAcTCVNhbiBNYXRlbzErMCkGA1UEChMiU29ueSBJbnRlcmFjdGl2ZSBFbnRlcnRh
+aW5tZW50IExMQzESMBAGA1UECxMJTUFSS0VUSU5HMRwwGgYDVQQDExN3d3cucGxh
+eXN0YXRpb24uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2pJi
+BfubIq3UeEFFR4Y4XjQhWokwAPQ5hX18bAUOo460ptwCtZ+NgQpKMtlgHGzLkhTG
+7WAg3jM0x6ab7tyWnluvs1GblbpouB7V4ypwbIh5KOj+XepWy+9NC0I8LKLX8cjQ
+J9ukRRZQ5KcQrzSy33mueBWMo5m5lFG35P08n8M7DWrijr4uvAQqCWS34n3pwpra
+L3cwR+KV6yINNP6YnpTaA73G8dLWzEOHez+ICpX9YWg7EUiiKFelXP98NJrMU8iA
+lCFC7n6dJEb7PvYl2+ZH19emh+1oWBD3TVxWmuni7AmjXKOQXW3hxxqKFuAKvOyA
+5dFrXr/Mu8mVgs/vsQIDAQABo4IC9DCCAvAwHwYDVR0jBBgwFoAUJG4rLdBqklFR
+JWkBqppHponnQCAwHQYDVR0OBBYEFCV4NuRjMkCXJuByL7WOhxPUU2F+MC8GA1Ud
+EQQoMCaCE3d3dy5wbGF5c3RhdGlvbi5jb22CD3BsYXlzdGF0aW9uLmNvbTAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHcGA1Ud
+HwRwMG4wNaAzoDGGL2h0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEds
+b2JhbENBRzIuY3JsMDWgM6Axhi9odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGln
+aUNlcnRHbG9iYWxDQUcyLmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgG
+CCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAEC
+AjB0BggrBgEFBQcBAQRoMGYwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2lj
+ZXJ0LmNvbTA+BggrBgEFBQcwAoYyaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29t
+L0RpZ2lDZXJ0R2xvYmFsQ0FHMi5jcnQwCQYDVR0TBAIwADCCAQQGCisGAQQB1nkC
+BAIEgfUEgfIA8AB2AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAAB
+bkH4JPEAAAQDAEcwRQIhANmZNHNFFIl+JyRetnmObKCJjkc9oUp+Kv07+Vwltiph
+AiApmAYp94zj/9FMptpcokO2eSTQGg7Gsk1NS8qQrfe/ZwB2AF6nc/nfVsDntTZI
+fdBJ4DJ6kZoMhKESEoQYdZaBcUVYAAABbkH4JJkAAAQDAEcwRQIhAKRsLnAeuxNO
+BsI7EJ9a7e8uBWFm6cHHEhR5oVbr7VhqAiBj3Dpl/pSV7N7Yrhe5pfyJPMZW2CuV
+JNuQNJnLygb3WjANBgkqhkiG9w0BAQsFAAOCAQEAW/eDuyWUw/7KN4+4E4TkKlFt
+vGq4Qdw8rPKLOH3D1QV/kbJHFJLa9DSRsv520kYEaU8YeDEK796P+YQclpg6Qo3i
+POPCFaGURIuqLLj0+ckzCyF/3x1RtlGT6ltTV2uHJ2qG8iJKJD/jVeaHsn0DcAnv
+dlXIiu2LchgVZhBa5OZwd09bIQveTwDJv7DTEPL3DZZhZEfH19uupJ2yLPwmzlOT
+a0txcD5JgK4GCnFBoW+ZwqLRcieNoMJSgRssw0t2pnU9jZOCIy18wPCJ4AhA5isf
+8ciDvjzWW9ZWNSaMMpFFBXzmriJX6oKaQyTjN7NcZ+VdFU6Ed0qlWUvRaKyjkA==
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=San Mateo/O=Sony Computer Entertainment America LLC/OU=MARKETING/CN=www.playstation.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/C=US/ST=California/L=San Mateo/O=Sony Interactive Entertainment LLC/OU=MARKETING/CN=www.playstation.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global CA G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3311 bytes and written 434 bytes
+SSL handshake has read 3470 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -55,27 +60,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 3F39C6FA89A8FC5C430D5CC37B1060BC779783F4591234E170A37079EF5E8E40
+    Session-ID: A6D8E44A08CE3733F09394BB19EC665A61AF5802BB0C640E89E69990053D52A7
     Session-ID-ctx: 
-    Master-Key: C78EC6FE13870A1E22E6D94B1CF29ED7A6B92BAA5AC191382FDAAC37CAC8B8A33479FD68AE92D1043CA939DC914536DF
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 6D9949A2AE047471A403B06D7317E2BA3F40F78C3D5D5DD337CDE30BE75CB9FC500F68437560EAA8C4848DF2CE0B14CC
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - 25 8d 7c 1f f6 33 c7 b5-25 0f e5 c0 d9 58 66 9e   %.|..3..%....Xf.
-    0010 - 32 c2 2f ec 23 53 34 85-80 50 82 9f f3 06 a8 7a   2./.#S4..P.....z
-    0020 - 6d fc b9 8d c3 e5 b8 a8-4e da c5 7f ba c2 13 b9   m.......N.......
-    0030 - d7 72 41 45 45 b6 dd 81-45 6d 27 98 4d ba 35 df   .rAEE...Em'.M.5.
-    0040 - 97 1e 75 2c 3f c2 ec 59-78 da 56 9b 10 e9 5e c2   ..u,?..Yx.V...^.
-    0050 - 9b 00 b6 61 83 61 a9 35-3c bb 13 16 fe e0 02 4e   ...a.a.5<......N
-    0060 - 3f 28 d8 e6 81 5e e9 1d-bf a0 94 a7 ad 96 1e 4b   ?(...^.........K
-    0070 - cd 1e 3a e4 4f 3e a9 67-cf d8 6a b8 c8 46 49 f0   ..:.O>.g..j..FI.
-    0080 - e7 ab 14 56 1e b6 4b bd-c1 55 a9 ee 57 2a 7a d3   ...V..K..U..W*z.
-    0090 - ff f9 b2 c4 66 8e c7 3c-82 ae 70 ff 0b f1 f7 11   ....f..<..p.....
+    0000 - df 2f 03 27 b9 83 94 e7-04 6b 51 66 c7 61 0b 2f   ./.'.....kQf.a./
+    0010 - 0d 7a dc 5f 72 a5 41 d0-e4 09 f2 f7 93 5e 37 7d   .z._r.A......^7}
+    0020 - 61 35 6b 4a fb 6d a9 02-bf 2a 15 52 33 5c 5d 9a   a5kJ.m...*.R3\].
+    0030 - e2 68 e0 22 fd d9 5f 3f-98 90 27 8d a6 27 f7 eb   .h.".._?..'..'..
+    0040 - 6f e2 0c 86 ad a0 9a df-93 02 eb d4 c5 ab 79 6c   o.............yl
+    0050 - cd 87 eb fe 55 91 1a b7-04 72 a0 be d3 16 98 0c   ....U....r......
+    0060 - 28 b8 4f 66 c2 d9 af 72-4e 7e d0 64 a5 6c 62 e4   (.Of...rN~.d.lb.
+    0070 - f5 5f 0a 54 fc 9f 37 2c-35 75 58 7e 7f e0 4a ef   ._.T..7,5uX~..J.
+    0080 - 31 b7 13 8d c3 1b c6 a8-dd 83 84 3a 4e 59 e9 ba   1..........:NY..
+    0090 - aa 35 a2 86 30 04 50 00-57 b3 fe 36 64 b3 3b ca   .5..0.P.W..6d.;.
+    00a0 - 73 e9 d3 c9 1f 69 df a4-c0 4b f9 d8 3c 5e 72 cb   s....i...K..<^r.
 
-    Start Time: 1472788398
-    Timeout   : 300 (sec)
+    Start Time: 1577475025
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,49 +1,56 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/OU=GT87100162/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.gyazo.com
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/CN=*.gyazo.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEqDCCA5CgAwIBAgIDAtcPMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNTAzMDgwNTE4MDJaFw0xNzA1MDgxNzIyMjlaMIGPMRMw
-EQYDVQQLEwpHVDg3MTAwMTYyMTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
-bS9yZXNvdXJjZXMvY3BzIChjKTE1MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
-YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEUMBIGA1UEAwwLKi5neWF6by5jb20wggEi
-MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCytQXhsXO/Eji+//VLYz5WGJ9M
-zxLSUyGfvAeUicJoLQAHrKKABXqlfvWLmkMw+MRzRQqvmKblM4xG0oWdr8DA+5Pq
-ID+FJ3o9BLSJPHL0/nSDASHsPy1WuWYh36YDHk8SlkseZaaigqNgs6mg5QrCeibm
-Dcv5fGqj+335hY/j3z6PXups8PwsXVTIVyL2516uFBs3qNSKjYgamkAEHnd+0HqJ
-khmhaRXgOBsClYfesTpjtiwZcO1acDrNQjG6QcQrXXyQw4fAtQ4hBOSKHxLaY+Q5
-0BXd1i1D4Dn9/ExcrTPZR97Pl/66RthfzFxbwTZ+pIMvE0YAwcc5cpe9UhKtAgMB
-AAGjggFSMIIBTjAfBgNVHSMEGDAWgBTDnPP800YINLvORn+gfFvz4gjLWTBXBggr
-BgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9ndi5zeW1jZC5jb20wJgYI
-KwYBBQUHMAKGGmh0dHA6Ly9ndi5zeW1jYi5jb20vZ3YuY3J0MA4GA1UdDwEB/wQE
-AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwIQYDVR0RBBowGIIL
-Ki5neWF6by5jb22CCWd5YXpvLmNvbTArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8v
-Z3Yuc3ltY2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAAMEUGA1UdIAQ+MDwwOgYK
-YIZIAYb4RQEHNjAsMCoGCCsGAQUFBwIBFh5odHRwczovL3d3dy5yYXBpZHNzbC5j
-b20vbGVnYWwwDQYJKoZIhvcNAQELBQADggEBAKJBtWPpEGGOZVIxu05w9WTCRKWC
-kKAivak9q3kKuJdhFQO20WG1SpJ2AJDeYL3vuCwEgoB82SbeFPL+mYH1C6N3sLdG
-yy9Ub05DwVcz/ZITMP8/vK3uTkqZT4+psM5xY4ag3jmCHFUXnDANjgIjlgiGL7HP
-KfkAQ/nvFIbTvqnByimHXeBugbbZ0X85SBDV7l27DxjlpE1HLZnbumCj7Bdgzw3r
-Ye0hPSzV737Ueiy1zmjrBIPmyUCPR1aqJ8bxLpKb9aKqtaTWp2541BhPlKxMvKM2
-fCfwu+KcDIN6VQvAwHNR5E3CID7eLQMUphJN1YlZatUHPYixv1qKV6RwB7I=
+MIIGKDCCBRCgAwIBAgIQBS5FPaIADIOtWNdyTWrhwDANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRSYXBpZFNTTCBSU0EgQ0EgMjAxODAe
+Fw0xOTAzMjcwMDAwMDBaFw0yMTA1MDgxMjAwMDBaMBYxFDASBgNVBAMMCyouZ3lh
+em8uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArd/mY1QSRwxF
+B7EAJLOJnBInZguz0yq6h/oyUklgtc/kHAK5p1dXrLsxpNjM/IMQrpoNdq/N6aU8
+9uXiXYJsEFpsgJL4jWTXdraVj+JoX6Mw4gB0aitBsrJEUI5mYlCG3NhhmeoSS03h
+LR6FYszdhFSrNCMOuClqhKwqilVJJu1op5IYHtsyq6w6LdlMSVFFW8Z/AL5sL24w
+ksyOtfEzVh5XZNZMNpykQtaElFIzusKQGajUv3enmuEWkmHlFJViwCkcNVU6sP6S
+ppzf8clRj/V3MGnh3zQOomJrrGZhAScjA+/h67Jvh5Q/uMBp/QFVx2tl1a4iLYui
+s7J0OHxTTQIDAQABo4IDKDCCAyQwHwYDVR0jBBgwFoAUU8oXWfxrwAMhLxqu5Kqo
+HIJW2nUwHQYDVR0OBBYEFI2VSYndBWEhpWnw0qBz5rkHsajgMCEGA1UdEQQaMBiC
+CyouZ3lhem8uY29tgglneWF6by5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8v
+Y2RwLnJhcGlkc3NsLmNvbS9SYXBpZFNTTFJTQUNBMjAxOC5jcmwwTAYDVR0gBEUw
+QzA3BglghkgBhv1sAQIwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNl
+cnQuY29tL0NQUzAIBgZngQwBAgEwdQYIKwYBBQUHAQEEaTBnMCYGCCsGAQUFBzAB
+hhpodHRwOi8vc3RhdHVzLnJhcGlkc3NsLmNvbTA9BggrBgEFBQcwAoYxaHR0cDov
+L2NhY2VydHMucmFwaWRzc2wuY29tL1JhcGlkU1NMUlNBQ0EyMDE4LmNydDAJBgNV
+HRMEAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgC72d+8H4pxtZOUI5eq
+kntHOFeVCqtS6BqQlmQ2jh7RhQAAAWm9Dm3GAAAEAwBHMEUCIHy0qLGI0ezmJkch
+s7tp2EufpO9C7yc/lK2cDtfZcRkWAiEAhzOZWZym3AJqx/XTILYmBL2l8Pzo12mb
+Dtu1dBJySU4AdwCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAWm9
+Dm7TAAAEAwBIMEYCIQCfCFCdfgde3ViGMUIXKMixnAmEES7ysbMrUKMWorH3CgIh
+AOivYqZH50jXUCPs5/tzonvBmlqZEn+haqnY1fScCk2yAHUARJRlLrDuzq/EQAfY
+qP4owNrmgr7YyzG1P9MzlrW2gagAAAFpvQ5tMQAABAMARjBEAiAr7Mliex5jpYFH
+Baxuw8a8vjla29tl7jdiu9X9SY7svQIgOKEmFs7f2LXpqE8RuipLzPoMDcWfh2Lc
+najz7AcAx1gwDQYJKoZIhvcNAQELBQADggEBAEsxkP3qHJZg3158LrBYg6du91KS
+gsEc6YytWzBLisNoY/1c/xk97BRv0HoiaZWTBQSALpgm2PpTf+q8z/jeZvKwiLKE
+udvkgvylfcSGuMUq3NRf8PkG2al1mz8zspD1FuSp9yANK0wn9KQct7qR/Y23hq47
+sEwCu0QlyQfURaNKXFD2riNGvsHq7AaTsi6dNmAHHj9HTNIyS6vJaezLJW/p/a8c
+OCyZSgfiJs59cIR1dhA9zS9ZpWmxibn6Oh9dPm6v3QwJGNzG8MDuRTqPt9JCzQSU
+Ista/aSkfzpZyZm+qsITcTypnI6HVHkzyOLOFxVUDEK/58hoa83HFjEYRfI=
 -----END CERTIFICATE-----
-subject=/OU=GT87100162/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.gyazo.com
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/CN=*.gyazo.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 2939 bytes and written 434 bytes
+SSL handshake has read 3452 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -51,29 +58,28 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: EB841A63F443F80B91789A886F80750B7E99819374BC32E612C21C94BF97CF57
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 7C8A905CBAAB56B8C050D37A6BA064C8B32F833426FA258833078E0B4C80EB0F
     Session-ID-ctx: 
-    Master-Key: 8D55FF5713A24565A424D7EB6077A1DEA69F284BA6CA1A2CB592DFC11A08DCBCD8DB50D2DF86A7D8B3B59A9D36ED34AC
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 3600 (seconds)
+    Master-Key: 0DB1BC0362E2D58E215EB10FF31CED576D0BD27CF784B8FE3622EE345369844E98CF70CFDE3C365B88B28116044067D1
+    TLS session ticket lifetime hint: 100800 (seconds)
     TLS session ticket:
-    0000 - 95 40 d8 8e c3 9a 69 60-63 5c e6 78 73 8c be be   .@....i`c\.xs...
-    0010 - d1 45 ee bf 3b 2a e4 47-23 2a b2 c2 76 14 86 6f   .E..;*.G#*..v..o
-    0020 - 05 ef 0a f0 52 ae 78 71-b4 14 6c b3 db dd 6b 83   ....R.xq..l...k.
-    0030 - f6 79 8d ce 61 5e f4 88-76 0c 28 89 9f c4 d3 65   .y..a^..v.(....e
-    0040 - 68 1a 91 7b 26 e3 d3 fc-87 d8 d8 d7 a7 df aa 71   h..{&..........q
-    0050 - bf 5b 78 21 9f 8c ff 43-30 32 d6 92 f9 24 75 d5   .[x!...C02...$u.
-    0060 - 31 23 d8 28 dc 26 8c 29-69 b8 8c f3 fb c0 dc d8   1#.(.&.)i.......
-    0070 - 7b 41 7b 32 83 69 ce 08-43 75 0e 04 29 8b 05 1c   {A{2.i..Cu..)...
-    0080 - 9b 8f 00 a8 23 3c 8a 53-93 d9 3b 6d bb ea f9 50   ....#<.S..;m...P
-    0090 - be 75 87 20 48 78 a7 c1-76 15 d5 bc 22 3b df 8d   .u. Hx..v...";..
-    00a0 - 88 26 97 ae d4 a6 51 c8-0f 6f 0c 41 41 a8 2a fe   .&....Q..o.AA.*.
+    0000 - 00 6c 3f f8 bb 37 03 74-3a 29 71 d1 47 4e 7b b9   .l?..7.t:)q.GN{.
+    0010 - 03 fc 81 07 92 d0 6a 71-6f 1c f8 94 6e d6 af fd   ......jqo...n...
+    0020 - 23 a1 9f 77 63 b1 32 cc-b8 60 51 0e 2c 15 bb 7f   #..wc.2..`Q.,...
+    0030 - 1a fe f5 58 08 d0 85 ad-aa ff 21 b9 b4 b8 da 95   ...X......!.....
+    0040 - 1c 41 b7 f5 73 67 81 78-bd 7d 54 87 d4 f9 fe 84   .A..sg.x.}T.....
+    0050 - d6 5d fd 9a 5b 74 c5 6e-15 75 c6 46 3c 32 1d f4   .]..[t.n.u.F<2..
+    0060 - 17 8a e1 71 19 f9 5f 54-e0 a0 72 21 27 bf 54 81   ...q.._T..r!'.T.
+    0070 - a0 fd 7a d5 20 29 98 bc-d0 6a 79 40 4d 57 2a e4   ..z. )...jy@MW*.
+    0080 - 53 37 40 e3 00 50 b7 c1-4d 03 f3 6b 93 de 8f 82   S7@..P..M..k....
+    0090 - 57 dd 95 74 76 58 d4 cc-68 c0 6e 4d 15 22 4c c6   W..tvX..h.nM."L.
+    00a0 - 28 81 bb cc d5 76 2d 97-dc 28 d3 ed dc ba fe 51   (....v-..(.....Q
+    00b0 - 7a 77 da 82 e3 da 7e ac-0e 8e 57 70 2e 10 3a b7   zw....~...Wp..:.
+    00c0 - d2 65 25 fd ca 0a 6e c9-a7 3c f0 a3 23 ab 3e 78   .e%...n..<..#.>x
+    00d0 - d8 6c 20 f4 56                                    .l .V
 
-    Start Time: 1472788583
-    Timeout   : 300 (sec)
+    Start Time: 1577475433
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,66 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/serialNumber=1944-08-21/jurisdictionC=BR/businessCategory=Private Organization/C=BR/postalCode=04344902/ST=Sao Paulo/L=Sao Paulo/street=Pc Alfredo Egydio De Souza Aranha/O=Itau Unibanco S.A./OU=STI/OU=Comodo EV SSL/CN=www.itau.com.br
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Extended Validation Secure Server CA 2
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Extended Validation Secure Server CA 2
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=BR/serialNumber=60.701.190/0001-04/C=BR/ST=Sao Paulo/L=Sao Paulo/O=Itau Unibanco S.A./CN=www.itau.com.br
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHrTCCBpWgAwIBAgIRAIhCpuDG+eQ6Z2BlUpaT/Q8wDQYJKoZIhvcNAQELBQAw
-gZQxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
-BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTowOAYD
-VQQDEzFDT01PRE8gUlNBIEV4dGVuZGVkIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZl
-ciBDQSAyMB4XDTE1MDMxNzAwMDAwMFoXDTE3MDUxMzIzNTk1OVowggEaMRMwEQYD
-VQQFEwoxOTQ0LTA4LTIxMRMwEQYLKwYBBAGCNzwCAQMTAkJSMR0wGwYDVQQPExRQ
-cml2YXRlIE9yZ2FuaXphdGlvbjELMAkGA1UEBhMCQlIxETAPBgNVBBETCDA0MzQ0
-OTAyMRIwEAYDVQQIEwlTYW8gUGF1bG8xEjAQBgNVBAcTCVNhbyBQYXVsbzEqMCgG
-A1UECRMhUGMgQWxmcmVkbyBFZ3lkaW8gRGUgU291emEgQXJhbmhhMRswGQYDVQQK
-ExJJdGF1IFVuaWJhbmNvIFMuQS4xDDAKBgNVBAsTA1NUSTEWMBQGA1UECxMNQ29t
-b2RvIEVWIFNTTDEYMBYGA1UEAxMPd3d3Lml0YXUuY29tLmJyMIIBIjANBgkqhkiG
-9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsqpo9CRdUTuMOmq3P4u+Ob/9n4ZmBFDqlIBC
-I6vwNgBCnArZ5Qem47T5avGey66VlXOoTxn3qsi03CTVh68AK37hUWxzs116vJxO
-9a1abxMfBBi/Bbhk1+xhwp3rPtLvewKRuMZlAWx+uIMJp8yJDalKm97ORHoduJjG
-/nLAb2/Ajbqz4a+WFQdn1S2yG/qpILLIxpe6E6IFOugJGg+rjda/hPrlvEucQKEb
-YZsZb/F7ZAFjFwuQHsOrelvKLEkB8zzt0fbM/oZgV+cMVKWIcouLsOO4YzDwwo7W
-S3y3rkknXSdZmU3DoaVyEpiui9yhJrrvCVM+x2n5Da+8D7WFswIDAQABo4IDbzCC
-A2swHwYDVR0jBBgwFoAU44+Q/WgZMK5LmQt8/t+u5FrHnTMwHQYDVR0OBBYEFB+6
-As3drx8nsdivxvMz59O/qilMMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA
-MDQGA1UdJQQtMCsGCCsGAQUFBwMBBggrBgEFBQcDAgYKKwYBBAGCNwoDAwYJYIZI
-AYb4QgQBMEYGA1UdIAQ/MD0wOwYMKwYBBAGyMQECAQUBMCswKQYIKwYBBQUHAgEW
-HWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20vQ1BTMFcGA1UdHwRQME4wTKBKoEiG
-Rmh0dHA6Ly9jcmwuY29tb2RvY2EuY29tL0NPTU9ET1JTQUV4dGVuZGVkVmFsaWRh
-dGlvblNlY3VyZVNlcnZlckNBMi5jcmwwgYkGCCsGAQUFBwEBBH0wezBSBggrBgEF
-BQcwAoZGaHR0cDovL2NydC5jb21vZG9jYS5jb20vQ09NT0RPUlNBRXh0ZW5kZWRW
-YWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EyLmNydDAlBggrBgEFBQcwAYYZaHR0cDov
-L29jc3AuY29tb2RvY2EyLmNvbTAnBgNVHREEIDAegg93d3cuaXRhdS5jb20uYnKC
-C2l0YXUuY29tLmJyMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdgBo9pj4H2SC
-vjqM7rkoHUz8cVFdZ5PURNEKZ6y7T0/7xAAAAUwoikd3AAAEAwBHMEUCIEe3Bwz5
-FDIZmvZTHbpRzf170V2xlt10FBN3CRN2w8f5AiEAwjm0z+nsnICY4vJcKFKkExzr
-EwI8SaEuRKoWM07+x68AdQCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80OyA3c
-EAAAAUwoikeKAAAEAwBGMEQCIFwuUoatRwpfnez7t2KUvwkckY7NBjtRllliEWb+
-UpqPAiALGDbxPuyhcCgHkw6cMxfD/whA3aofI73lYq2KPyCViQB2AFYUBpov18Ls
-0/XhvUSyPsdGdrm8mRFcwO+UmFXWidDdAAABTCiKRfsAAAQDAEcwRQIgdA34LcRE
-jC5V7SuTeD5o3QtotUKBEMNsCOaKQCuVUvMCIQDr7u2ozpWiWGUXP4ekYBloBLSl
-lv1CQaNov4z51//AjjANBgkqhkiG9w0BAQsFAAOCAQEAI9B0edLqnMfauiOkimo2
-o9e0DnMB08RZCsKYjs8A21NnhDLjjMwVYTt8usa7KeYh9koQseQvdk4np1g2EHNP
-yRkgmbi/5UTQtP6Z0tDB8wu95dmGWkWnmLi3io3nU/Z7cCgN6EQf5ACm5mc1uHmX
-GBpa9d6xpkE4TPxl9S6sxYVFB4I6BqU3eNvWXFXjwmv7Kh4LleyGIVYh2U8KFqo2
-JjEs4gl1W0LP0MlRpQZmcMpcJazcgGuApSLOEfB0E+QneOAksnsdt8kiR/KoTeaF
-n5whMP6urEX1rAE8C5z1uHoTzrjAAnIasDJicl/X5szQe7U0r+YB4id7xHlOpaKJ
-iQ==
+MIIHOTCCBiGgAwIBAgIQDxT+FvoXEJAUQpdomu+OEjANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE4MDQyNjAwMDAwMFoXDTIwMDQyNTEy
+MDAwMFowgb0xHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRMwEQYLKwYB
+BAGCNzwCAQMTAkJSMRswGQYDVQQFExI2MC43MDEuMTkwLzAwMDEtMDQxCzAJBgNV
+BAYTAkJSMRIwEAYDVQQIEwlTYW8gUGF1bG8xEjAQBgNVBAcTCVNhbyBQYXVsbzEb
+MBkGA1UEChMSSXRhdSBVbmliYW5jbyBTLkEuMRgwFgYDVQQDEw93d3cuaXRhdS5j
+b20uYnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDIoGL2hSop8or/
+coIN3hK970/BdJmTn6+U/Kmdcthvm0xqIYCopKk7jw0T6PvgFjh/ToTopJ11JRU9
+dKmDlgfA55QUDp+Fljjvr2aBbTB4aO/5/f5VgFyn3/W2oDoySijEG7xRPCi+XBcD
+2v3pO2sjNlEb29WQ9v0w263lymx9UAXQcJ45YXpBs/WMKxKx9Iw0Eqj/+fKDZ2wq
+Yx3LNWaeSMGsljMLyolH7g1UM2ZtHhG5OmoPo31TGpCrmuY1AOzdBvT9m71xkpOy
+d/mn9ZtP13P97Cx7/HwJzS58XI7Ka43rqvghDZDKC32pPwKchRA8rzRdy8HlggZl
+SUzMS6efAgMBAAGjggN6MIIDdjAfBgNVHSMEGDAWgBQ901Cl1qCt7vNKYApl0yHU
++PjWDzAdBgNVHQ4EFgQUvdNA6tLKtTOkLxwsRLt9XIpjAiswJwYDVR0RBCAwHoIP
+d3d3Lml0YXUuY29tLmJyggtpdGF1LmNvbS5icjAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0
+dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5jcmwwNKAy
+oDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5j
+cmwwSwYDVR0gBEQwQjA3BglghkgBhv1sAgEwKjAoBggrBgEFBQcCARYcaHR0cHM6
+Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAHBgVngQwBATCBiAYIKwYBBQUHAQEEfDB6
+MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUgYIKwYBBQUH
+MAKGRmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJFeHRl
+bmRlZFZhbGlkYXRpb25TZXJ2ZXJDQS5jcnQwCQYDVR0TBAIwADCCAYAGCisGAQQB
+1nkCBAIEggFwBIIBbAFqAHcApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN
+3BAAAAFjAqBcDQAABAMASDBGAiEAxlO1GNaZL87C3e4PtAkO/fybjZSi+eY/0Iw7
+fxIk81oCIQC7VSnntIULVpp4CWVWB54BXHkgJ5fGZFfWB2S0KcAXyQB2AFYUBpov
+18Ls0/XhvUSyPsdGdrm8mRFcwO+UmFXWidDdAAABYwKgXFEAAAQDAEcwRQIgZY/n
+Zs+ktTiyJIjALuwbER2dx3LaDLuuIt2VGQBPkLkCIQD0YKhRjuB1nawlYxhEE862
+YoiTZO9mV4t1GZCp/gpIoAB3AO5Lvbd1zmC64UJpH6vhnmajD35fsHLYgwDEe4l6
+qP3LAAABYwKgXAsAAAQDAEgwRgIhAN0stslP52Nm1O0sEKZBbXlzw+DObBbnTmfI
+Chz58FLxAiEA6fwDhYL0Vn3+H9iclEovt1iOD/RbcGsirnsH0ehi+eswDQYJKoZI
+hvcNAQELBQADggEBADzjXIPGrhlk3n+E15eli2BR7lc9noGf+lFXb5zMzJsBEK5k
+nnsBEBKoqBK+faIYmdFZFuc4I4M+LdHRNQvX/O4zIhE91glLtOGkhBiSrS+FEHpM
+RSoaS4kfXgE7b7mUCuV71oKWQNXAgHyPli5uosG2woFBIWCb7sN5U0OQcGaGjXf9
+5B/ynWyff9k0MXVbIgSF3Uphs9xKH6RTUBGMsVL8WKphxAcGmwX8WmEJPZPRAWlk
+V1ZbWUGK9ioNQuJJL5g7WznW17SetKT1QXfHDL6cKEG3k5spLmJjbmvD6QQrJimM
+mJZ1TLl9Dl1Qqv/p5OI2PeeRh8CK44h1BpgKGes=
 -----END CERTIFICATE-----
-subject=/serialNumber=1944-08-21/jurisdictionC=BR/businessCategory=Private Organization/C=BR/postalCode=04344902/ST=Sao Paulo/L=Sao Paulo/street=Pc Alfredo Egydio De Souza Aranha/O=Itau Unibanco S.A./OU=STI/OU=Comodo EV SSL/CN=www.itau.com.br
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Extended Validation Secure Server CA 2
+subject=/businessCategory=Private Organization/jurisdictionCountryName=BR/serialNumber=60.701.190/0001-04/C=BR/ST=Sao Paulo/L=Sao Paulo/O=Itau Unibanco S.A./CN=www.itau.com.br
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5618 bytes and written 434 bytes
+SSL handshake has read 3720 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -71,27 +65,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 0970CBD57DD8370939B1B0DD2480B8AF11CEE4474D024689F56A7778218DEFB0
+    Session-ID: 757CAE41D11689365094408566331A0B2BF534AEA564D7A813D169FBD2278047
     Session-ID-ctx: 
-    Master-Key: 190DB945E9D5A83B755136057F34BC9138FAF28DC33A139DF1103FDDABE12C06300E55438C0440540435AB2DF4FFC158
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 7413F3AF53E790A8F5DA147DB50531304B5BDF9973EA9D8FBD58173D181B66C00BBD9219F5412916E24B7F70870D1F26
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - b9 d0 16 cc 44 87 a9 94-b4 3d 12 ce 8c 22 16 69   ....D....=...".i
-    0010 - c6 d0 02 90 e4 aa 74 bd-18 b3 b2 75 8a b1 c5 ac   ......t....u....
-    0020 - 55 77 71 e3 ad 14 ea 51-23 37 93 c0 40 c3 39 a8   Uwq....Q#7..@.9.
-    0030 - 16 61 4d df 54 1b 87 e5-f0 ff bf 3c 1a c8 c5 78   .aM.T......<...x
-    0040 - bd 9c 1f 7c f2 7a 99 ea-2c 92 5d c1 19 1a 6e 8f   ...|.z..,.]...n.
-    0050 - 61 ac 76 79 90 e6 78 9e-7c 6e 3e 0d 50 02 c3 9f   a.vy..x.|n>.P...
-    0060 - 0d 36 74 8d f1 f7 c1 fe-90 fe f1 2a c1 11 00 d3   .6t........*....
-    0070 - a9 e2 a4 a3 33 d1 d4 01-1c a9 49 e6 8c 52 ad dc   ....3.....I..R..
-    0080 - a3 dd ec 0b 39 8e 05 8a-79 0f 66 7a c3 39 aa fc   ....9...y.fz.9..
-    0090 - 72 cb e4 87 c7 9a 49 99-9f 7b 79 de 14 9b 5d e5   r.....I..{y...].
+    0000 - 00 00 0f 0c 74 b9 46 3b-e0 ca 37 80 22 15 50 a3   ....t.F;..7.".P.
+    0010 - 68 1b fb 24 8a 5d 74 63-a8 12 0a 42 36 de 30 d5   h..$.]tc...B6.0.
+    0020 - 62 5f 11 03 5d f7 bc b1-f8 c5 64 6e fc 89 4d b3   b_..].....dn..M.
+    0030 - fa 49 94 2e b0 fb ea cc-b5 88 6f d7 f1 10 15 ad   .I........o.....
+    0040 - 45 f0 19 38 bd 83 fc f4-84 b6 d6 31 57 ad dc 82   E..8.......1W...
+    0050 - 05 68 d4 f1 c6 25 76 93-f9 28 f5 17 97 62 27 01   .h...%v..(...b'.
+    0060 - a7 99 41 58 b1 6f f1 a1-3a ed b8 b2 e3 59 12 a7   ..AX.o..:....Y..
+    0070 - 4f d0 6b 70 40 66 8b 67-aa 7d 10 30 5b 0a 97 7c   O.kp@f.g.}.0[..|
+    0080 - 08 aa 1d 56 5b 7e 31 fa-97 37 e4 a0 ee f7 a2 e9   ...V[~1..7......
+    0090 - b4 a1 61 0a 2d f1 97 99-39 28 15 c7 de 2d 23 b1   ..a.-...9(...-#.
 
-    Start Time: 1472790654
-    Timeout   : 300 (sec)
+    Start Time: 1577475335
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

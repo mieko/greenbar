@@ -1,0 +1,77 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/C=ID/L=Jakarta Selatan/O=PT Dynamo Media Network/CN=*.kumparan.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFHjCCBAagAwIBAgIQC6gAWUuczof7/kWZfEPpODANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTcxMDA1MDAwMDAwWhcN
+MjAxMDI4MTIwMDAwWjBiMQswCQYDVQQGEwJJRDEYMBYGA1UEBxMPSmFrYXJ0YSBT
+ZWxhdGFuMSAwHgYDVQQKExdQVCBEeW5hbW8gTWVkaWEgTmV0d29yazEXMBUGA1UE
+AwwOKi5rdW1wYXJhbi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCsmv+n2U/tujFbO8YSBSi6OsrKiH7mavMqlXR+v9wQi6rbzRfX2FIz1DEkQlRX
++r2VrAChZABo0EKpOoyLC1Tk5y90bG0D3rAKhKdaTY+cyvMkCuZFDJ/K4hgYcxVN
+Jz8U9CnxUTxG6JJnVQKuhDmGeKbOg06j6qJVmCv1XBM9ntmjPXZWqOiKkIseJa2B
+dip1ow8eYIdAgV9q2A7O3fh81o6y+m9ocOIwogx4BeZ+Axzt3AIaa919LDAYxVpN
+VHeJsyDpXaFX0d4u8WWEEQU5Y9XxV+UKApvxymQD8re8sVoh9zBR60r8jncltcBu
+DZcT/RKFHB8r7Gs9wjqjHMyBAgMBAAGjggHjMIIB3zAfBgNVHSMEGDAWgBQPgGEc
+gjFh1S8o541GOLQs4cbZ4jAdBgNVHQ4EFgQU0LzsU/8sTh9coVsU1iLP9jwQreMw
+JwYDVR0RBCAwHoIOKi5rdW1wYXJhbi5jb22CDGt1bXBhcmFuLmNvbTAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRk
+MGIwL6AtoCuGKWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzEu
+Y3JsMC+gLaArhilodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWcx
+LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRw
+czovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB8BggrBgEFBQcBAQRw
+MG4wJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEF
+BQcwAoY6aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNl
+Y3VyZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEBCwUAA4IB
+AQADMTo3X74rEXt5nTERe2b6XiT0GxLJY3bXOd4Jz6WCt5QYc29uXzjHRmcJp4PY
+Yg8GG8K4TUG/elY3EDdFzvpfPt3zPC/omkGwZ7ZjMEDSwu12xGjGxd6rSGmoRtcR
+G1ffWEq+uRdVPWLEYDjrFlI/e6rHhAj2qi7Ssr72AK8F2Co10zA3luI9tRq1WPeG
+i8SnCNVzwf5ma2godYWbsZ+AmRJoUSrn9hObwRQc6hY8kAD/OaC7B2QRj4Asuyzo
+NpE+NBLVxXa+Ve+bnUfNOflXC5GEQluFBM82y4cbgodTic1+nKjW1wQuHzwea3Io
+zcGMcUWvSf1YEeTAwOEWXJrf
+-----END CERTIFICATE-----
+subject=/C=ID/L=Jakarta Selatan/O=PT Dynamo Media Network/CN=*.kumparan.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3163 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 83DD8FACEE4FDC33D513876C309A20E2657728E7EAA014551FB78AC2A2BDC4C1
+    Session-ID-ctx: 
+    Master-Key: C3AE9384C4E10308CEA86DEAD0915B61D5C5DC9895DC95A07294138CAC3B55D96B143562EDA2224754FB290FD73A76FD
+    TLS session ticket lifetime hint: 43200 (seconds)
+    TLS session ticket:
+    0000 - 81 4f 64 e4 d6 37 8b b2-c2 1d 6f 1f 17 37 dd 8a   .Od..7....o..7..
+    0010 - 54 dc b5 3c 7f f3 e0 5a-a0 f5 e9 e7 40 7d ea 93   T..<...Z....@}..
+    0020 - 16 bb ee cb 0b 19 04 7c-01 57 d0 27 b2 f1 06 84   .......|.W.'....
+    0030 - 05 fd 14 73 88 4d b1 46-86 74 b4 42 24 a2 59 88   ...s.M.F.t.B$.Y.
+    0040 - 99 79 c1 e9 ab 86 5b d4-b8 07 b1 05 de 08 22 85   .y....[.......".
+    0050 - bd 9a bf cc 8a ce d3 30-8d 66 e2 7d 1e f3 9f f4   .......0.f.}....
+    0060 - 45 3b 56 3c 7d f6 fb e3-0c 78 ad 45 e6 49 a8 5b   E;V<}....x.E.I.[
+    0070 - e9 ec f1 9e 40 de d8 97-c4 8a f4 63 04 a5 55 10   ....@......c..U.
+    0080 - a7 ba d2 66 5f d5 ca 56-c4 3c 10 62 18 ef 21 27   ...f_..V.<.b..!'
+    0090 - 76 6a c1 2c bf 9c 21 92-3d 03 ca 33 28 aa fc 88   vj.,..!.=..3(...
+    00a0 - b9 fe 7a e2 14 41 7d 1d-8f b0 1d 9d df 52 be 26   ..z..A}......R.&
+
+    Start Time: 1577474929
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

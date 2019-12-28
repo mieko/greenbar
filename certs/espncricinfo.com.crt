@@ -1,0 +1,68 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=espncricinfo.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFaTCCBFGgAwIBAgIQBUlQ0LkDWj0rbRnw+kCXHTANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTA3MTEwMDAwMDBaFw0yMDA4MTEx
+MjAwMDBaMBsxGTAXBgNVBAMTEGVzcG5jcmljaW5mby5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDRJfzO39MRmDVs8mIkeJWjSLTLopVoGCSIRwbP
+lc2j7UWhqcXaQ5hYiB6ZF9+h2tV/AVKh+/IEgcAFoEKCJmpvqpNXyBBlRVQr1AxK
+Bz/K98VkGLRO/jSrwa0trEpISb/+8x7dZNizduXBRvVg4haH8lmcBDjJ4IhRWR4o
+9PTtRILvo9h8HeSTM8ESnobdVEMp+g0+jPnWR3+Kq2SY1BHnXXn4aUmhBiiKYlOE
+oLYx6daLIX2+K1mT9vhLG5JyxaoF7xNqJxL/fmBbYrVvnH/4BWejm3zaR7WvxzHx
+YBz1P245GUIYPpPR3ugoLE7WaHOrX2KP1WB3wSVzGcUnrDS5AgMBAAGjggJ8MIIC
+eDAfBgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQU2aAm
+Cp/ePxJxJm1CL6yT4ASi6McwGwYDVR0RBBQwEoIQZXNwbmNyaWNpbmZvLmNvbTAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsG
+A1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwuc2NhMWIuYW1hem9udHJ1c3QuY29t
+L3NjYTFiLmNybDAgBgNVHSAEGTAXMAsGCWCGSAGG/WwBAjAIBgZngQwBAgEwdQYI
+KwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5zY2ExYi5hbWF6
+b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQuc2NhMWIuYW1hem9u
+dHJ1c3QuY29tL3NjYTFiLmNydDAMBgNVHRMBAf8EAjAAMIIBBAYKKwYBBAHWeQIE
+AgSB9QSB8gDwAHcA7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo/csAAAFr
+3mUEigAABAMASDBGAiEAtO5F8Sj6xKJb0werbkE/G9RALBH9sjW8nmeAQEMyiHQC
+IQC9rWPQgY0nLYmUbo/zMK3IdS2/sN4JZo00IVThuMR/MAB1AId1v+dZfPiMQ5lf
+vfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABa95lBNMAAAQDAEYwRAIgBsMt//lvVnWA
+FZvUC9rEWzRONF+bhNYamkcVTALMBGMCIGuPvBHwysndwveaWVmY1ub0LLeCfKo1
+U57IdeedXaLhMA0GCSqGSIb3DQEBCwUAA4IBAQCK74RLuJQAGKyAIQJJ1hoT5Gzh
+RCjP1B2NhjAMaTlLyuimgOslNgnisEmm6uAv2KzgaAUFzulIMiPGOyrDKABRB4nq
+7Wdf71wfPaWOgcVFI1UAhyMF0gMbNN1VWjc6zPZKjG+M5Adbz5wmE0pBTXxF0Grl
+Pk0kWcaEO5l/ck5cHyDg0IE96Dyo57My2GMVaEi9qBixhthhPsz4bLqmhl6scyaR
+QVj7VppUyrRrysRo27aa6zc9j93MZtkWQh9bgynCcNpycg0o5LmHAhcVOMxjcEmQ
+XqiizTmUuzBVhXE/zeJ4RP6nvtDoedcp17OyDBoSpWC6PDC2H9m1w2bHcmGs
+-----END CERTIFICATE-----
+subject=/CN=espncricinfo.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5325 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: FF853267BE211101BB70CE04B3591C87180C96B97B91593911F4BEDC03E3AA7B
+    Session-ID-ctx: 
+    Master-Key: F2D92C37F33F197F7B87118FFFD77254C6E6F2D5CBD13425EE81DBCC85E614C321F0724671A97EFCEDCFAF80B59BD159
+    Start Time: 1577475029
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

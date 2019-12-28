@@ -1,2 +1,0 @@
-"gotomeeting.com": "C"
-

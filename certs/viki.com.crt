@@ -1,0 +1,81 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=www.viki.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTzCCBDegAwIBAgISA8ldujT4KLer6NSod40CJq4CMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMTgxOTU0NDlaFw0y
+MDAzMTcxOTU0NDlaMBcxFTATBgNVBAMTDHd3dy52aWtpLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAOYo73sTOFfjlINKK5Ost0X/QLl8AD2eAFy4
+TSeKjxxj7M51KYly+BuOU6kXlRqZZLJksGXOAkhLgGf7OGn+O4YJf4URcYf6Ae6B
+KSjPYulCNXEyoWf6cuaQxzGR9KbMI4WhL9D/iEtg1hE2SyQ7BHYHMcaIZRDt0uz0
+EFZzvh+e5yPjKoPWZkwpaSukHWdxG5AK2Q+IlIU1ApCVeiR9OLrCIH1dtXiBcutU
+uhw5NBtOUdmF27vVJuaj5Crh+A4I6MwRDrwzZ/f5p4s1f9AEMelAMegG5VJuaOW6
++fqnuhWV/NqdGzyEwXrKBQsknS7m5jOeM5S4YHQhA3hzGHh4lU8CAwEAAaOCAmAw
+ggJcMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUD38X/blRqzyB7wklxLc4KNvrFs0w
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzAXBgNVHREEEDAOggx3d3cudmlraS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBvU3asMfAxGdiZAKRR
+Ff93FRwR2QLBACkGjbIImjfZEwAAAW8ayrQwAAAEAwBHMEUCIC6vXU5IG72m4uid
+1Gkdd59ToIZru5b/TEFX+Jnws/W8AiEA8J2ZOFf1CCgkG13YsPUcd3USAAbWfeKc
++B2mEQXa5H0AdQAHt1wb5X1o//Gwxh0jFce65ld8V5S3au68YToaadOiHAAAAW8a
+yrQuAAAEAwBGMEQCIAJOii/pDhOSLjYxNMaELaiS4ZTWDljokfKximtNdU6uAiBb
+pGjAXYXxuv4igxokRWkI2FC261SnAzdxSHSrCdefkTANBgkqhkiG9w0BAQsFAAOC
+AQEAHEuYRG/K9A0QefX3xL+XpOI5J2rz1d7Np2Rti5K1iut4uK/S2LYBbTWPWqbb
+LKFBAQAVFT2JJ+UhO90lrXAlZjYYF31wsRM526IaxrN4UB+1FGXni2RXerPJ3gzw
+65kz1VNk7//ghM9Y2/c2cvapfbCmR/0jPqGLSDRsOvgbVGQPQQKXdAa8s2M/JSSk
+mDVixYhMY3BHST+QuSatGOO9g+Pvxa9pqkmPjIZ/JWCOa83mXvIDGP9amBHY1XPc
+ojiJl/57m0TNYnoQX/QJfQV8RIEmDovI3bkMPVrhuXPNELk/6ShJug8WN48BIfh+
+8A8qt+LWvQ97oCS7B7UQcV6ktg==
+-----END CERTIFICATE-----
+subject=/CN=www.viki.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 3204 bytes and written 281 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: AAABF9220FAF6DCE26B5A39782923CFDC690EF716872BDE21F756CD8BE980D0C
+    Session-ID-ctx: 
+    Master-Key: 2A5A37FA928218D24102D41D65F3F4AA45F8DD5FCA218043AB239581A3301C928B9289065CAD7BF345F2FC54BF8F67FC
+    TLS session ticket lifetime hint: 100800 (seconds)
+    TLS session ticket:
+    0000 - 00 6c 3f f8 bb 37 03 74-3a 29 71 d1 47 4e 7b b9   .l?..7.t:)q.GN{.
+    0010 - 76 af c5 91 cb 72 55 b6-a1 2e dc e2 91 6d 6d ba   v....rU......mm.
+    0020 - 97 ea ea 6c 85 3c d7 23-43 c0 f3 5b 04 c3 b8 5a   ...l.<.#C..[...Z
+    0030 - 37 6f 13 72 cc 59 75 70-27 4a 14 ba f1 e0 a5 dd   7o.r.Yup'J......
+    0040 - b1 ac 40 00 9f 97 b6 d8-93 94 83 12 83 3b 64 6c   ..@..........;dl
+    0050 - ff 43 8d 4c c2 f5 95 8b-d2 33 c0 5a 2d 4e f9 5e   .C.L.....3.Z-N.^
+    0060 - 8c 44 8f 2c 22 f9 80 1e-56 2c c8 62 e9 fa 7e f8   .D.,"...V,.b..~.
+    0070 - 1b f4 9b 81 b7 cf 25 9e-77 dd 7b 9a 73 90 2c b3   ......%.w.{.s.,.
+    0080 - 8d 6b 11 27 ac 91 cd 3d-e4 e3 58 31 7d 5b 0c f4   .k.'...=..X1}[..
+    0090 - 97 2b cb c6 5f 7a 29 e5-94 ac 08 76 0b 26 51 44   .+.._z)....v.&QD
+    00a0 - f1 36 5a 49 13 fc 94 87-0d ad 28 d9 50 54 ed 31   .6ZI......(.PT.1
+    00b0 - 21 0a 6a b4 de 61 36 ab-c9 dd 76 bd 76 e8 e4 60   !.j..a6...v.v..`
+    00c0 - 99 f0 0c 6d 72 15 f0 4f-24 2d d6 d4 a1 ab 36 b1   ...mr..O$-....6.
+    00d0 - 07 90 7a af c4                                    ..z..
+
+    Start Time: 1577475802
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

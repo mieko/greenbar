@@ -1,60 +1,62 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=Illinois/L=Chicago/O=United Airlines Inc/OU=IT/CN=www.united.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SHA256 SSL CA
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SHA256 SSL CA
-   i:/C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
- 2 s:/C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
-   i:/C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+ 0 s:/C=US/ST=Illinois/L=Arlington Heights/O=United Airlines Inc/OU=IT/CN=www.united.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGrTCCBZWgAwIBAgIQDRBZHiRWzM4UrWp8yBXIujANBgkqhkiG9w0BAQsFADBG
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEfMB0GA1UEAxMW
-R2VvVHJ1c3QgU0hBMjU2IFNTTCBDQTAeFw0xNjA4MTMwMDAwMDBaFw0xNzA4MTMy
-MzU5NTlaMHYxCzAJBgNVBAYTAlVTMREwDwYDVQQIDAhJbGxpbm9pczEQMA4GA1UE
-BwwHQ2hpY2FnbzEcMBoGA1UECgwTVW5pdGVkIEFpcmxpbmVzIEluYzELMAkGA1UE
-CwwCSVQxFzAVBgNVBAMMDnd3dy51bml0ZWQuY29tMIIBIjANBgkqhkiG9w0BAQEF
-AAOCAQ8AMIIBCgKCAQEAvJRASZoXrM6+8orGQKWs3OmrBDbOoxUN8ra9qNBARRSL
-OqyaXgc6cEQOKVs3ZXwmRXp0TgoU+TfYeZ/iuV55g5eBcUgnFUTvDXM/LgVHVJLE
-FztsRgNxXaql9AnOodWOtdLL+JJhaXXfADDnN82LBwBuuoiR5oLQhjFgQWjCOtID
-rmwahqINHNNR2L4M4CH/9Va+Alf69j941b2rvznEpitDprCcmkTGEB95h4n+GIJG
-CKheX6nmLgguyMyDiO5CkdV2vgQCjOGzAwlHku/1mDiQkMtEKq2E0T2WYgaf0GDa
-7AI1B8NB86dT/f/zyms4Emfx7QQHzmcLH9I4KFQm8wIDAQABo4IDZTCCA2EwgdYG
-A1UdEQSBzjCBy4IKdW5pdGVkLmNvbYIVd3d3LnVuaXRlZGFpcmxpbmVzLmRlghpz
-bWFydHBob25lLmNvbnRpbmVudGFsLmNvbYIRbW9iaWxlLnVuaXRlZC5jb22CFXd3
-dy51bml0ZWRhaXJsaW5lcy5qcIIOcHNzLnVuaXRlZC5jb22CD2JldGEudW5pdGVk
-LmNvbYIVd3d3LnVuaXRlZGFpcmxpbmVzLmNhghh3d3cudW5pdGVkYWlybGluZXMu
-Y28udWuCDnd3dy51bml0ZWQuY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWg
-MCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9nai5zeW1jYi5jb20vZ2ouY3JsMIGd
-BgNVHSAEgZUwgZIwgY8GBmeBDAECAjCBhDA/BggrBgEFBQcCARYzaHR0cHM6Ly93
-d3cuZ2VvdHJ1c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMEEGCCsG
-AQUFBwICMDUMM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVw
-b3NpdG9yeS9sZWdhbDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYD
-VR0jBBgwFoAUFGeO7YNP1h6dQAQMBEahcDSyD3IwVwYIKwYBBQUHAQEESzBJMB8G
-CCsGAQUFBzABhhNodHRwOi8vZ2ouc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRw
-Oi8vZ2ouc3ltY2IuY29tL2dqLmNydDCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1
-AN3rHSt6DU+mIIuBrYFocH4ujp0B1VyIjT0RxM227L7MAAABVoVdWNUAAAQDAEYw
-RAIgO7axPEm8YDN5A+YzL/qOcp/pHqOQLG06Lfp260UhySsCIH/l40mBVWVIr/+e
-ae3rgTXIemjh+k7XpAfc4FOyMsjxAHYApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+4
-43fNDsgN3BAAAAFWhV1ZHgAABAMARzBFAiBl+Y/eDDoGT1/0ciVRjAmgKTkhQNH6
-saAzaQoWDet2lgIhAMf7VIx1+sT3yTqTRK1JeeQYOBwFQba2ifCNM7aifTmVMA0G
-CSqGSIb3DQEBCwUAA4IBAQAtRgAk+v3T2oqQiRydX4H7Xb/A+BIgWMsZI0KAnom6
-W36gfGv/ME23M6FdrvpWU0d+xWHzTPbMN6dFOYwdYjzZi5LNPCaSTrUQTF7CM8CU
-yT19IVdJCKxv14IR4jmN3PvnSIe8rhIIj4A5ao9quRGdART6tfFohCTXPOTAqHF4
-IWLEkRQ4xA75151xZPwgPXbSTogchf+WdXgQScnw4WP1/1bOBhNznYXubLJ3J6YN
-pW21ExI+EiYGoOMmSmsiHDpHdnMhy7auIozNPRYIMsczJiqN0wcTEd+2IjEpY5uX
-JTpilUXT25pziMMGpphgQAma+0VsG4p/8zgEEfiqNTqA
+MIIHhjCCBm6gAwIBAgIQD/+K0QFNvUUZfAo0ZZuzgjANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAe
+Fw0xOTA3MjMwMDAwMDBaFw0yMDEwMjExMjAwMDBaMIGAMQswCQYDVQQGEwJVUzER
+MA8GA1UECBMISWxsaW5vaXMxGjAYBgNVBAcTEUFybGluZ3RvbiBIZWlnaHRzMRww
+GgYDVQQKExNVbml0ZWQgQWlybGluZXMgSW5jMQswCQYDVQQLEwJJVDEXMBUGA1UE
+AxMOd3d3LnVuaXRlZC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCxb9idMuiqsffkZQXfhGz3kprQqEGykVDS7z218l3SME6s0gu5csZB5AiO3Jyp
+5OZFcmvYCEW1Ynxor2tRk3Khg10ihdMbRjuYJS/acjpHO0I3KVeZFeTJcYBOYvAH
+cEMRGePo6F5hEh9qCJLC662SX5nGd6C+HYhzq+Ytqm3Ua9CVVX1o1Bh/oFCfqx/E
+8uF/iaAw10E98lJotQYcPNwKDMsCnYaYnP/VrnO/bBaDWQAOCLg6qlqgNNHtU58s
+I0Cdwt82i0bVN3ZblEDONTvqxkV3V7dZd9kWEjSWSuFLseZWq7ss1bfp6iSC4+s2
+ULEPSwOnT4RuMrvFt4YmQTJJAgMBAAGjggQbMIIEFzAfBgNVHSMEGDAWgBSQWP+w
+nHWoUVR3se3yo0MWOJ5sxTAdBgNVHQ4EFgQUTSiZhS2XwXq2cWjOD7iLxRIrw84w
+ggGNBgNVHREEggGEMIIBgIIOd3d3LnVuaXRlZC5jb22CCnVuaXRlZC5jb22CB3Vh
+bC5jb22CEXVuaXRlZGFpcmxpbmVzLmpwghV3d3cudW5pdGVkYWlybGluZXMuZGWC
+Fnd3dy51bml0ZWRhaXJsaW5lcy5jb22CEnd3dy51bml0ZWR3aWZpLmNvbYIVd3d3
+LnVuaXRlZGFpcmxpbmVzLmpwgg5wc3MudW5pdGVkLmNvbYISY2hlY2tpbi51bml0
+ZWQuY29tghR1bml0ZWRhaXJsaW5lcy5jby51a4IPYmV0YS51bml0ZWQuY29tghl3
+YWxsZXRzZXJ2aWNlcy51bml0ZWQuY29tghh3d3cudW5pdGVkYWlybGluZXMuY28u
+dWuCEW1vYmlsZS51bml0ZWQuY29tghV3d3cudW5pdGVkYWlybGluZXMuY2GCEXVu
+aXRlZGFpcmxpbmVzLmNhgg51bml0ZWR3aWZpLmNvbYILd3d3LnVhbC5jb22CEnVu
+aXRlZGFpcmxpbmVzLmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jZHAuZ2Vv
+dHJ1c3QuY29tL0dlb1RydXN0UlNBQ0EyMDE4LmNybDBMBgNVHSAERTBDMDcGCWCG
+SAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20v
+Q1BTMAgGBmeBDAECAjB1BggrBgEFBQcBAQRpMGcwJgYIKwYBBQUHMAGGGmh0dHA6
+Ly9zdGF0dXMuZ2VvdHJ1c3QuY29tMD0GCCsGAQUFBzAChjFodHRwOi8vY2FjZXJ0
+cy5nZW90cnVzdC5jb20vR2VvVHJ1c3RSU0FDQTIwMTguY3J0MAkGA1UdEwQCMAAw
+ggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgC72d+8H4pxtZOUI5eqkntHOFeVCqtS
+6BqQlmQ2jh7RhQAAAWweuis7AAAEAwBHMEUCIQDyUMdXqc50JQE3wY93RwlC2JJl
+hHYsVMtvVFaAKxQsjAIgIvZ2amQ1+3kEJLVNeY3dkGYVj+3/r8wTZzpZI8oSOWAA
+dQCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAWweuiuFAAAEAwBG
+MEQCIA3E//mh9et0HlQ99q5tLjPwIkdf8V+bB7lkO3jsFiMYAiBTz9T0sOUkBfcV
+KCdicooBVwgRAxNs9OqKk+n3+L9IjzANBgkqhkiG9w0BAQsFAAOCAQEAU8cJXKWY
+1KStxwnahozKrYf46OOu2fkYIUxYgCokAFWJFyHnZh2v+jUMqB0FwEuyGqIGQF19
+4ZA3gfblS7HujA1TVnz7gVuxTnzAlxRJlaS5xKLsAy6w/Bbj626EXLI5pkA9eJFe
+iU7oKugAD91HRE2w7HJrXmFQgKFQIGr6XBxvIyYPR+IM9DYvYwquplWXJxn9Dnpt
+zYf0qxgWMGxrhbSgk+JKlClh4lrV5u3b81CVujSBPvN6RXxYP58I5L5NuA8/Ll+A
+SrrY5ZfYWqhnAnByuft7TaCvCYM7VAAgTUPUCo4rLgqukX8pgNAxGf+vaOEt6nlW
+B3PKT1S6din8ig==
 -----END CERTIFICATE-----
-subject=/C=US/ST=Illinois/L=Chicago/O=United Airlines Inc/OU=IT/CN=www.united.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SHA256 SSL CA
+subject=/C=US/ST=Illinois/L=Arlington Heights/O=United Airlines Inc/OU=IT/CN=www.united.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4626 bytes and written 434 bytes
+SSL handshake has read 3754 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -65,27 +67,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: C9BB22568652D512CDA2032C72A5A740DE8DC5DA96B369BAF990266FA5B5CFB4
+    Session-ID: B767AB1B0039A5118B6342BAE3534CDF0BDF766ACB36E3F47D8502C0C021B17C
     Session-ID-ctx: 
-    Master-Key: A787AEF64786DB7125F3B2759E95E99A45DFB32A1DD2745937FEA4D4870FFA7065287E3D1DC88BF4145E7BD3FF462232
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 8CAD2C15B14A5B9D25CE52D7D8CC7FCDF301281BCD7176396FEEE164DD7428F9FBECFFD22EB94E3157BB96514107762F
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - c0 82 52 de c1 cf 7b 1c-3f 6f 63 b5 01 b3 18 d5   ..R...{.?oc.....
-    0010 - 7f c3 86 20 80 0d 88 13-20 b6 5d 05 19 4c 73 2c   ... .... .]..Ls,
-    0020 - 0e 85 e3 ea 69 a9 fe 13-49 f0 65 7a cd 39 f8 31   ....i...I.ez.9.1
-    0030 - 8d 3b e9 d9 06 9e 5e 87-05 db 77 20 b1 1d 25 30   .;....^...w ..%0
-    0040 - f6 17 06 de 2c 88 b8 b0-8f 2f 8f 3d 76 bf 76 ba   ....,..../.=v.v.
-    0050 - 2f 94 c5 70 fa 75 02 5d-cb 6b c7 a3 e6 3f d0 a1   /..p.u.].k...?..
-    0060 - 04 c0 d2 98 ea 20 0a bd-e6 f6 83 3e 5b c8 3a e5   ..... .....>[.:.
-    0070 - e7 af ae 80 42 a2 6d 76-e2 55 e1 7d 7c 6a bb 7f   ....B.mv.U.}|j..
-    0080 - ea c7 34 d4 90 71 38 6c-9f 4a 84 d5 e6 fb af 1a   ..4..q8l.J......
-    0090 - 09 b2 2a f1 82 b2 f0 53-f2 bd 3f cf 50 20 60 e8   ..*....S..?.P `.
+    0000 - 00 00 0a e4 1e e7 33 81-cb 2c 61 4c ab ac 0e d3   ......3..,aL....
+    0010 - cc ec af b5 8e c6 33 f0-54 5a 84 16 cf b8 c3 38   ......3.TZ.....8
+    0020 - 63 18 67 39 73 ec 61 c9-f0 9e d3 33 cc 55 f8 0c   c.g9s.a....3.U..
+    0030 - 01 e8 db d9 68 2a d6 3d-14 9f 95 02 2a 88 74 69   ....h*.=....*.ti
+    0040 - 88 7f 21 22 84 4e 2f 72-47 49 00 22 6c ec c2 dc   ..!".N/rGI."l...
+    0050 - 49 10 06 a3 29 74 50 03-35 a6 75 16 f4 42 d4 16   I...)tP.5.u..B..
+    0060 - bf 8b 4e e7 6a ac 92 4f-23 f6 3b c9 ac 1b f4 38   ..N.j..O#.;....8
+    0070 - c6 01 14 fa cb 36 49 a2-d8 bd cb cf 53 17 ea 52   .....6I.....S..R
+    0080 - d2 13 89 aa d4 3c d6 4f-16 18 b2 c4 ae db aa 83   .....<.O........
+    0090 - 52 c5 e8 bb 7d b5 e9 b2-ed 39 de 83 a3 04 a7 b7   R...}....9......
 
-    Start Time: 1472788720
-    Timeout   : 300 (sec)
+    Start Time: 1577475548
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,68 +1,74 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=Arkansas/L=Bentonville/O=Wal-Mart Stores Inc./OU=LB Tier-1 and Atlas/CN=www.walmart.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 0 s:/C=US/ST=Arkansas/L=Bentonville/O=Wal-Mart Stores, Inc./CN=www.walmart.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+ 2 s:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFFzCCA/+gAwIBAgIQE463TF4909EI36ayt+owyzANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDYwODAwMDAwMFoX
-DTE3MDYwODIzNTk1OVowgY0xCzAJBgNVBAYTAlVTMREwDwYDVQQIDAhBcmthbnNh
-czEUMBIGA1UEBwwLQmVudG9udmlsbGUxHTAbBgNVBAoMFFdhbC1NYXJ0IFN0b3Jl
-cyBJbmMuMRwwGgYDVQQLDBNMQiBUaWVyLTEgYW5kIEF0bGFzMRgwFgYDVQQDDA93
-d3cud2FsbWFydC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDJ
-5MKv0Jd7xxEjsrOZ/78xWDetrkg0otWl/e9Q1ZRYECuynZaEZ+huFU/VgmCpHwmr
-0e51QFoq2daK5P0EcZ5dlb7xBDxVsZ3xeyb22FV1AbtFzDchFvcgErnM6/BegiRQ
-Oxl6wKs0o2e25hBDudMpVID1dSWql0f9G4lzcOdYgj1pZH8/3OQYK5vrj4OkKruw
-eK/oJwcm8lhHcHYVoswNwPPb12zp0G5BDD4FBHvCsB8K/yxdKwAU8sCUibJXtOda
-UeK5W44s2WqqNZJrSma66mqhAM2aAGSc0VU5JzRdqz0CaVKoLYbFBVivVlVh/x57
-KjgltpEA+OH7vGzpAxKxAgMBAAGjggF/MIIBezA1BgNVHREELjAsgg93d3cud2Fs
-bWFydC5jb22CGXd3dy1leHQud2FsbWFydGltYWdlcy5jb20wCQYDVR0TBAIwADAO
-BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGEG
-A1UdIARaMFgwVgYGZ4EMAQICMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1j
-Yi5jb20vY3BzMCUGCCsGAQUFBwICMBkaF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBh
-MB8GA1UdIwQYMBaAFF9gz2GQVd+EQxSKYCqy9Xr0QxjvMCsGA1UdHwQkMCIwIKAe
-oByGGmh0dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3JsMFcGCCsGAQUFBwEBBEswSTAf
-BggrBgEFBQcwAYYTaHR0cDovL3NzLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0
-cDovL3NzLnN5bWNiLmNvbS9zcy5jcnQwDQYJKoZIhvcNAQELBQADggEBAJZYpa3u
-thVSAdYNhdb1u84Tb/V4UBO0kOoKYEHSsgum2QOnFEnCJW8+GuFjgELd8SlDOx35
-dV4Q226B/iLBqcMlGH/0HSrTRC9icHAgqJp0ieCI/rTnm9jRtYOpkUVtBevqHDrg
-Cgv+SQQi+OtXrt03UZGgnZ7wz4MISKzzJBNIEFlKpA4HSSLnRxHteYA3vnnyU48k
-Iemb/vihOKE21fyZY0y3rHX/QH6CELOpC4dtIHuSr25P+arlyNENBlL5wX0x4TZS
-MOUvxsdjerX4Y0AYJyUK29gMCn/+SHc/UqtjBH65dCOr6nRrJBUPRJYJ9PeM1Q4Q
-9TI1Tmm4ch99DGw=
+MIIG4zCCBcugAwIBAgIMOr0xHKBTCFRnaqtGMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
+bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTkwMjA3MTE1NDQwWhcNMjAwMjA4MTE1NDQwWjBwMQswCQYDVQQGEwJV
+UzERMA8GA1UECBMIQXJrYW5zYXMxFDASBgNVBAcTC0JlbnRvbnZpbGxlMR4wHAYD
+VQQKExVXYWwtTWFydCBTdG9yZXMsIEluYy4xGDAWBgNVBAMTD3d3dy53YWxtYXJ0
+LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM4/RQ3TGRj2O7L3
+YZDXVgkYsZGL7ZdVJ3xuubOwj9nuuSBBGFBaJudp52OB0ViqDHK/kI5MokCT3h6X
+xhI3YonwzeMhJbfNVio5viEboktJyDRT2LUBa+M35/qfwDk40x+ZEqmJNjmHJAzB
+KCgV1f5h6236wzUcP4jiF6mXwTHn3KGobHR0RPp/HB7GAsnlwZwNihnu/S7R4Ob9
+v7TkU96r3vm8lmei+3S6DODg6pmQ+4PfVpr+avQBQAAeA0d17wZeJK9EQNn5PAi8
+o/8NU9z69NsqdPIAakmBGB3rIDhtaTKO9RADkZ11tR5t7Obo96le/Jg5B5ehJKEi
+1g0evfMCAwEAAaOCA4UwggOBMA4GA1UdDwEB/wQEAwIFoDCBoAYIKwYBBQUHAQEE
+gZMwgZAwTQYIKwYBBQUHMAKGQWh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20v
+Y2FjZXJ0L2dzb3JnYW5pemF0aW9udmFsc2hhMmcycjEuY3J0MD8GCCsGAQUFBzAB
+hjNodHRwOi8vb2NzcDIuZ2xvYmFsc2lnbi5jb20vZ3Nvcmdhbml6YXRpb252YWxz
+aGEyZzIwVgYDVR0gBE8wTTBBBgkrBgEEAaAyARQwNDAyBggrBgEFBQcCARYmaHR0
+cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQICMAkG
+A1UdEwQCMAAwSQYDVR0fBEIwQDA+oDygOoY4aHR0cDovL2NybC5nbG9iYWxzaWdu
+LmNvbS9ncy9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMi5jcmwwgbYGA1UdEQSBrjCB
+q4IPd3d3LndhbG1hcnQuY29tghhhay1kZncwMS13d3cud2FsbWFydC5jb22CGGFr
+LWRhbDAxLXd3dy53YWxtYXJ0LmNvbYIQd3d3LndhbC1tYXJ0LmNvbYIZd3d3LWV4
+dC53YWxtYXJ0aW1hZ2VzLmNvbYITY291cG9ucy53YWxtYXJ0LmNvbYIVd2Vla2x5
+YWRzLndhbG1hcnQuY29tggt3YWxtYXJ0LmNvbTAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwHQYDVR0OBBYEFDNyroKPKOr6xI5zH0TXbZaagBnEMB8GA1Ud
+IwQYMBaAFJbeYfG9HBYpUxzAzH07gwBA5hp8MIIBBAYKKwYBBAHWeQIEAgSB9QSB
+8gDwAHUAVYHUwhaQNgFK6gubVzxT8MDkOHhwJQgXL6OqHQcT0wwAAAFox89cOgAA
+BAMARjBEAiBLFw5hGNgA/Slq0RO5MzK3kYhYphizY03ZRhcYxltn4gIgWNYGtK/+
+IqdfCB6lVsLJ5LFUmGkIfbwYrCKwcBvV7WoAdwC72d+8H4pxtZOUI5eqkntHOFeV
+CqtS6BqQlmQ2jh7RhQAAAWjHz1wPAAAEAwBIMEYCIQDMClnNeB59pdwsSRmyGBMr
+WtXVmags6281MrlVBI3VBQIhAJn3nWQmhTXhIKE+0BzaM1s+OVCrPoUGrcNbJ0gP
+fg7AMA0GCSqGSIb3DQEBCwUAA4IBAQAyZXxA8aT/jF/Z4hxWFPzZePyJgPdWXNEq
+RJbqbyG1KPkz0WWOeHTFGOz52MtWYloYYmJf7h3FCA0oIvcd49tylmAMwopS5D42
+CXjyTCTZotBwGQbvzAmz9efpFIwoFaOLdtFuU+yjWVAAUqsn3GIcj5gyVL5bdia/
+i/7sL5ASQsRakj1LxTEZsVVoTznAi9AvOCFhXCnd3kOBoIq+y8+CwIbke/X85Ek8
+3U1B4z+7cAwG5HiGFDOAmnG6MhRFwMe8SfIQ5g0K8lFwN5EEAaK63T2MICPjb9d/
+HCc4J84Kc8RCas5zuv76dRATfZNaY+gu+z907n9lZs0PhcQz6AM6
 -----END CERTIFICATE-----
-subject=/C=US/ST=Arkansas/L=Bentonville/O=Wal-Mart Stores Inc./OU=LB Tier-1 and Atlas/CN=www.walmart.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/C=US/ST=Arkansas/L=Bentonville/O=Wal-Mart Stores, Inc./CN=www.walmart.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4025 bytes and written 618 bytes
+SSL handshake has read 4300 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is RC4-MD5
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
-Secure Renegotiation IS NOT supported
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : RC4-MD5
-    Session-ID: 711E9A0AC27B36609337972798FE9B3C9320F19F6B9A660D687F3578ED364965
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: AE34112FC33844D2167C9779A8016FD6DAAB2DAE640AD06EC0640E997A91BCEB
     Session-ID-ctx: 
-    Master-Key: 87D63F5E8E940C918DF2C906F56E4620279098E2C47A495E347989681B8DED065776297E8334489B21E2C67B84205B73
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472787971
-    Timeout   : 300 (sec)
+    Master-Key: D62FC19681786F85565B07D44BB3E59D237AB83C965E3359CA49A2B0A75C5207B7FD784BBFC3504F9A0263A297693962
+    Start Time: 1577474838
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

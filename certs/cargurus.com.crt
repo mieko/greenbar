@@ -1,59 +1,77 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/postalCode=02138/ST=MA/L=Cambridge/street=One Bow Str. 4th Floor/O=CarGurus LLC/OU=PremiumSSL Wildcard/CN=*.cargurus.com
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
- 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 0 s:/C=US/ST=Massachusetts/L=Cambridge/O=CarGurus, Inc./OU=Technology/CN=www.cargurus.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFtzCCBJ+gAwIBAgIQBSbTj+9+stBS4Jk1floA3jANBgkqhkiG9w0BAQsFADCB
-ljELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
-A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxPDA6BgNV
-BAMTM0NPTU9ETyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
-cnZlciBDQTAeFw0xNTA2MTIwMDAwMDBaFw0xNzA2MTEyMzU5NTlaMIGtMQswCQYD
-VQQGEwJVUzEOMAwGA1UEERMFMDIxMzgxCzAJBgNVBAgTAk1BMRIwEAYDVQQHEwlD
-YW1icmlkZ2UxHzAdBgNVBAkTFk9uZSBCb3cgU3RyLiA0dGggRmxvb3IxFTATBgNV
-BAoTDENhckd1cnVzIExMQzEcMBoGA1UECxMTUHJlbWl1bVNTTCBXaWxkY2FyZDEX
-MBUGA1UEAwwOKi5jYXJndXJ1cy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
-ggEKAoIBAQCeu6ID0ifqd3U0D3WqgGmDpXPr9DyD6I3VtqdRA1XFH7TrC1txSPxZ
-SH8rgQtsXha+JbMr7kYQzJd331ONDIIevjcVpGXMSzc3/2Ji0YYl1qY/ZTwjxaf4
-ZDn8L+CtEbRn+4ATErXNH+279jUfrpfb1Q8qKqFFcAy5aaomzFnNEgQ2HUltdDNS
-T/yxTu/So0eCaD52CbInu+8AAsLZ2Mpyxe3I3mpkDLSQfTQVGapQAxaToP4illlE
-KIQWvNDqeRgcev2uspA1prTG+XctNk2s6JQqBne9x6g1MkUKZDERUyQ46I5+JmZG
-PSnOYU0ue4aJf4Fsy+4VjD0qbHX2mFTpAgMBAAGjggHmMIIB4jAfBgNVHSMEGDAW
-gBSa8yvaz61Pti+7KkhIKhK3G0LBJDAdBgNVHQ4EFgQU3kS/m5hKokcnFgyCB9GO
-vSyxTOswDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYI
-KwYBBQUHAwEGCCsGAQUFBwMCMFAGA1UdIARJMEcwOwYMKwYBBAGyMQECAQMEMCsw
-KQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20vQ1BTMAgGBmeB
-DAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9D
-T01PRE9SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3Js
-MIGLBggrBgEFBQcBAQR/MH0wVQYIKwYBBQUHMAKGSWh0dHA6Ly9jcnQuY29tb2Rv
-Y2EuY29tL0NPTU9ET1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2
-ZXJDQS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTAn
-BgNVHREEIDAegg4qLmNhcmd1cnVzLmNvbYIMY2FyZ3VydXMuY29tMA0GCSqGSIb3
-DQEBCwUAA4IBAQBDSi9eNcU6rBd6S++J+0zOtMs7J/qu0CzUDz5RlmFbblFnk1Ci
-npDqe6iB+Q4kMzqgRGhAtviWhHmvLRmvYjWeApzyocU2hJ0VNk9jOEwXiaZ+jzb1
-uPBWDwJzj0oxtyhGbGgmID9MCrSjfZ+G4noFZAKvmMFlVaDcm8zfcIH5fYLpFXVx
-Ohytp5V1ZBbm/+QSOhVOjBo+h4u9Yu4z50uYWxe6IVKvCWzcEj9JuXSTbaNgm/I2
-0MlKOE/mu0tU5Ljqjm78hEYPoWiFvu5qFpaJ8bIR3JYnYV5jsYjziJ3NCfv/i8nr
-UgeLov95wIpZvz4N7KWLg5smpYxn9wyGkSCL
+MIIJ/TCCCOWgAwIBAgIQBPi9lF+G1T65+nfRfuMWkTANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkwODI3MDAwMDAwWhcN
+MjEwMTIxMTIwMDAwWjCBgjELMAkGA1UEBhMCVVMxFjAUBgNVBAgTDU1hc3NhY2h1
+c2V0dHMxEjAQBgNVBAcTCUNhbWJyaWRnZTEXMBUGA1UEChMOQ2FyR3VydXMsIElu
+Yy4xEzARBgNVBAsTClRlY2hub2xvZ3kxGTAXBgNVBAMTEHd3dy5jYXJndXJ1cy5j
+b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDBwNuZzMG8S5tHU/DK
+/uIs/d++gt9vznFlCjV0fGrDGBTCd604fdNFSsJfrrPpQ5RKRJYXL2tW8qSYDWBb
+yuAmsfjOUKWgTf3gHovsQscTfy8RqO9E6qGHXH/O3IaWUqVHAkYNb/FS09HKX/dF
+9wC8NZ/vjZwgkKgG8mVpIWAvRrZMzAxq4zO1XK16Bhp7A3Vw8PH7zmrKN+UeJ9Ie
+PzyVtpQs2nD6QdLMZJOWSW1smaSvdM4awwhZvtd/j5/87jPkYz64PTxGUkYV3LQO
+2xZ1jwXekgFQphF8HzrYAEDmiDq//HlWWFOrHaAsrpbS6hjHfUaAa8SpUQ1k6RrF
+Dl2xAgMBAAGjggahMIIGnTAfBgNVHSMEGDAWgBQPgGEcgjFh1S8o541GOLQs4cbZ
+4jAdBgNVHQ4EFgQUwt4isFvw/M+Pz0RuYI4WifcUI7IwggNhBgNVHREEggNYMIID
+VIIQd3d3LmNhcmd1cnVzLmNvbYIMY2FyZ3VydXMuY29tghZzdGF0aWMtZXUuY2Fy
+Z3VydXMuY29tghdzdGF0aWMtZXUxLmNhcmd1cnVzLmNvbYIXc3RhdGljLWV1Mi5j
+YXJndXJ1cy5jb22CF3N0YXRpYy1ldTMuY2FyZ3VydXMuY29tghdzdGF0aWMtZXU0
+LmNhcmd1cnVzLmNvbYIXc3RhdGljLWV1NS5jYXJndXJ1cy5jb22CF3N0YXRpYy1l
+dTYuY2FyZ3VydXMuY29tghdzdGF0aWMtZXU3LmNhcmd1cnVzLmNvbYIXc3RhdGlj
+LWV1OC5jYXJndXJ1cy5jb22CE3N0YXRpYy5jYXJndXJ1cy5jb22CFHN0YXRpYzEu
+Y2FyZ3VydXMuY29tghRzdGF0aWMyLmNhcmd1cnVzLmNvbYIUc3RhdGljMy5jYXJn
+dXJ1cy5jb22CFHN0YXRpYzQuY2FyZ3VydXMuY29tghRzdGF0aWM1LmNhcmd1cnVz
+LmNvbYIUc3RhdGljNi5jYXJndXJ1cy5jb22CFHN0YXRpYzcuY2FyZ3VydXMuY29t
+ghRzdGF0aWM4LmNhcmd1cnVzLmNvbYIUc3RhdGljOS5jYXJndXJ1cy5jb22CFXN0
+YXRpYzEwLmNhcmd1cnVzLmNvbYIPY2EuY2FyZ3VydXMuY29tghJndXJ1dS5jYXJn
+dXJ1cy5jb22CEWpvYnMuY2FyZ3VydXMuY29tghtwYXJ0bmVyY29udGVudC5jYXJn
+dXJ1cy5jb22CEHJzcy5jYXJndXJ1cy5jb22CE3NpZ251cC5jYXJndXJ1cy5jb22C
+CWNhcmd1ci51c4ISd3d3LmNhcmd1cnVzLmNvLnVrgg5jYXJndXJ1cy5jby51a4IP
+d3d3LmNhcmd1cnVzLmRlggtjYXJndXJ1cy5kZYIPd3d3LmNhcmd1cnVzLmVzggtj
+YXJndXJ1cy5lc4IPd3d3LmNhcmd1cnVzLml0ggtjYXJndXJ1cy5pdIIPd3d3LmNh
+cmd1cnVzLmZyggtjYXJndXJ1cy5mcoIdcGFydG5lcmNvbnRlbnQuY2FyZ3VydXMu
+Y28udWuCHnBhcnRuZXJjb250ZW50LmNhLmNhcmd1cnVzLmNvbTAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRkMGIw
+L6AtoCuGKWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3Js
+MC+gLaArhilodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc2LmNy
+bDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB8BggrBgEFBQcBAQRwMG4w
+JAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEFBQcw
+AoY6aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNlY3Vy
+ZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4E
+ggFqAWgAdgC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAWzUzF+C
+AAAEAwBHMEUCIHg2mRli7QgvuezWfKWEHwnoIq2VGUfBgo4LMMQBh17yAiEAo2TZ
+14N/TygCcl3IaImuDF2Jw5XoG5S9gTG4VEBQzJAAdgCHdb/nWXz4jEOZX73zbv9W
+jUdWNv9KtWDBtOr/XqCDDwAAAWzUzF/NAAAEAwBHMEUCIQCQig6M3CfmhC0upeUv
+VZTD8J3mww8CevnFzsDBUQMsUAIgdbI+Q4Xt4qoJWl4L+OieXff4Q/CGA2aaEH3S
+W0OEp0sAdgBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAWzUzF7W
+AAAEAwBHMEUCIQDOXLzQfpjHToOEQdupCiZWd/Jad0rRQrSi2MAbF0W1TwIgOi/+
+rIQqAssFtxQdWhoKuVvnU/bRUAmQIBJBwiWTHJMwDQYJKoZIhvcNAQELBQADggEB
+AIPN9ZLpXKn+VLiI+X1HsSv04CLfCX0y5JQzC7U4TxttDk2PJC/HEXngmlvC8HJy
+IsLVP/XoqVm3TY2ZhmbX8ob2erbTnjeuPhYqvpMVVxXdzn0vrCuszP9Z5g8QmH7x
+cHPwLpsbygHUMzOnUCsNNkUY+qa8JWTUmmK7R1gHMDKxUyb5nW2IyYtT5avuWtON
+yhlNCYc1LWMjNOomZ9M0ZgLXY7lqAscoq3jWjoW+gQeCWzsrgN6SfqpOD6TNdva/
++QHNOZBPMFn1xnNYAbDGqihNqFBCe/YBy6QOV3lU+T9lvCamH/eYSkijC1Arnkov
+cx1SB65WwqR9+Clp+jhA3dc=
 -----END CERTIFICATE-----
-subject=/C=US/postalCode=02138/ST=MA/L=Cambridge/street=One Bow Str. 4th Floor/O=CarGurus LLC/OU=PremiumSSL Wildcard/CN=*.cargurus.com
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Organization Validation Secure Server CA
+subject=/C=US/ST=Massachusetts/L=Cambridge/O=CarGurus, Inc./OU=Technology/CN=www.cargurus.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA1
-Server Temp Key: DH, 1024 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 6205 bytes and written 498 bytes
+SSL handshake has read 4361 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -61,15 +79,24 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : DHE-RSA-AES256-GCM-SHA384
-    Session-ID: AB93E82FCD00C1A464A3FD22B40C001E16939C15FC8AF1E6CBC6B28EB7BA2DE6
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: F42071FF10988BABD78E3015B9BA1A6553546401834656A07CF73FD3F16BC2B3
     Session-ID-ctx: 
-    Master-Key: 5D103F73E11D5902E2C5C8A12A70011E5B7E76FBFB1B92D099E43F3C0E35C883E1EA52F33A69EB58E693BC80920ADC4D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472790611
-    Timeout   : 300 (sec)
+    Master-Key: 7E7A7F2BC516ABE2A8D495212875DB9CE7DCBB783A733B17824B847C9FCE7B4B6097A5C4B157177C28DF3360ACD2BA27
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - df cb 52 b5 71 29 83 2c-aa e8 c0 f5 d8 14 f5 d1   ..R.q).,........
+    0020 - 74 2e 23 b8 d0 a7 b8 85-5d aa 36 10 d8 dc bf ec   t.#.....].6.....
+    0030 - bb 0b 6f 2f 3e fc 0a 5f-3e a0 e0 8f bb e3 ae bf   ..o/>.._>.......
+    0040 - e5 9e 10 83 f3 e5 e8 72-5a b7 49 18 48 32 dc 2f   .......rZ.I.H2./
+    0050 - 1f 63 c7 bc 05 3c 8a 19-f4 d5 4f 4b 8a ec fa 62   .c...<....OK...b
+    0060 - 25 c1 35 5b f6 8c fa 74-aa ff 63 1c c4 68 4b 3e   %.5[...t..c..hK>
+    0070 - 60 3b 85 6f 36 0a 80 7e-33 a1 27 b9 6e 03 cc c9   `;.o6..~3.'.n...
+    0080 - b0 93 1a 40 30 84 83 f5-5e 40 b0 11 d7 6e ab e7   ...@0...^@...n..
+    0090 - 7f ad 90 e0 e8 6a 55 b0-d4 1c fd b8 5c dc d2 8b   .....jU.....\...
+
+    Start Time: 1577475578
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

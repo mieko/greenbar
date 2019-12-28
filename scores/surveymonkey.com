@@ -1,2 +1,0 @@
-"surveymonkey.com": "A"
-

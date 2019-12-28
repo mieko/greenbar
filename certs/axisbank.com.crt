@@ -1,58 +1,65 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:/C=IN/ST=Maharashtra/L=Mumbai/O=Axis Bank Ltd/OU=IT/CN=www.axisbank.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGszCCBZugAwIBAgIQL6oYyrdkwrtm5f8kCGRJPjANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTYwODEwMDAwMDAwWhcNMTcwODA4MjM1
-OTU5WjB0MQswCQYDVQQGEwJJTjEUMBIGA1UECAwLTWFoYXJhc2h0cmExDzANBgNV
-BAcMBk11bWJhaTEWMBQGA1UECgwNQXhpcyBCYW5rIEx0ZDELMAkGA1UECwwCSVQx
-GTAXBgNVBAMMEHd3dy5heGlzYmFuay5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
-DwAwggEKAoIBAQCn8H4J1Sdft4rX2V/HeMk8CcibRaze1sP9GVSpTy+KmWoieYPO
-znOxSDv4PgZKStW8Fa1euKMXeHoh9uA7AikmcUfz96uB1XFOu9NLEug8Eoqy+dHF
-9vRlWUrz1qW7LESGQznt+55GldfBeBPhUNR09hEiKS/2RmLOKRKAvMqpXKzgZ4yX
-4XKbl7qDP93W/b52g4mRUjqP2yojTzklwrTzKlHFoGIGNMBAab1vdsswXCjPSiUN
-a90YtoIZk9s4IhC9yWmTw/xSl+bIHFmeCL1arygN35ram+bkW7baq0CLscTbwdmJ
-6SLt7NiDB6sZ3KnTv4+DhtoA2fXBmRyYwkpVAgMBAAGjggNvMIIDazCB4AYDVR0R
-BIHYMIHVghhlZGdlcmV3YXJkcy5heGlzYmFuay5jb22CGnByZW93bmVkZ2FhZGku
-YXhpc2JhbmsuY29tghJsb2Fucy5heGlzYmFuay5jb22CGGNyZWRpdGNhcmRzLmF4
-aXNiYW5rLmNvbYIQYXhpc2Jhbmt1ay5jby51a4IWZXZvdWNoZXJzLmF4aXNiYW5r
-LmNvbYIQbmV3LmF4aXNiYW5rLmNvbYITc2VjdXJlLmF4aXNiYW5rLmNvbYIMYXhp
-c2JhbmsuY29tghB3d3cuYXhpc2JhbmsuY29tMAkGA1UdEwQCMAAwDgYDVR0PAQH/
-BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24u
-Y3JsMIGdBgNVHSAEgZUwgZIwgY8GBmeBDAECAjCBhDA/BggrBgEFBQcCARYzaHR0
-cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2Fs
-MEEGCCsGAQUFBwICMDUMM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJj
-ZXMvcmVwb3NpdG9yeS9sZWdhbDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
-AwIwHwYDVR0jBBgwFoAU0m/3lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEE
-SzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAC
-hhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNydDCCAQMGCisGAQQB1nkCBAIEgfQE
-gfEA7wB1AN3rHSt6DU+mIIuBrYFocH4ujp0B1VyIjT0RxM227L7MAAABVnPSxzcA
-AAQDAEYwRAIgPE0aMDSzEfhzScFFa8+i9eXRKNuoJEQH901IT+SpvD0CIBulzsJW
-F2XKDXmrFB6BEORN7yThPbIEaKzRqu0LYxIJAHYApLkJkLQYWBSHuxOizGdwCjw1
-mAT5G9+443fNDsgN3BAAAAFWc9LHUgAABAMARzBFAiEA90taKpEy9XoTVqNPk86c
-hEWvhi8cJGMZbiRvOXHUxhECIGyt+rtcoK/+8yfsOt7Lmk4JvIttclMQZuDQU2c1
-8TFrMA0GCSqGSIb3DQEBCwUAA4IBAQCupvsCtvzMSTPRWF5NKntxtQJ57mWLCOPU
-+TO1oAZ26+Wj+OOOnNVoH6TRcCHiuH+F+EOytS8iDAEO31rvBRCYGi0E6jvuYNi7
-g7sYizfMEVcOYMsxEsfSSdEc958Odc/IgjKHhif6CPJO9BRqp0OAiOJiVyLIrwHI
-HH1Rh5jAEyuL3IxSFnsArD0KEvcWCRJCnnCZdrOvCNVyNZGWY/IVyk/YIzk7i3Rd
-CMX9nuoxiqDsYJpRO+QGUuH1tREwB9LJxMb25O3KMyDIA7eTA0GTzckPwaUrrzkV
-B88mrxJT8QE7Lrn910m5SHCRFODYF2Bodn1p2dGpDZFvSIZCphiU
+MIIH2jCCBsKgAwIBAgIQBi7XGn72HfT0YTelKXwdETANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAe
+Fw0xOTEyMTYwMDAwMDBaFw0yMDA2MDYxMjAwMDBaMHQxCzAJBgNVBAYTAklOMRQw
+EgYDVQQIEwtNYWhhcmFzaHRyYTEPMA0GA1UEBxMGTXVtYmFpMRYwFAYDVQQKEw1B
+eGlzIEJhbmsgTHRkMQswCQYDVQQLEwJJVDEZMBcGA1UEAxMQd3d3LmF4aXNiYW5r
+LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMG5hTkG7wqlXa2H
+v57rAOHLYTSS6/9zO9+Vjoc0Of0xvBBdvFZLmxTxv6i2XZlRehK2hz8rI4yX4K1n
+yCJRkoTh5dUXc9u9RHHTRnvGAEhFGqH5Qnj89Gt3LD7IcsPPUi8u7j3t6Pu/dc7D
+poqJymLeXsq4XKebM1KBZ0wKSOOhY7xZVZtIXpiEgNKFUp1baZ64GSWRRWffAjKX
+7Zq13+Bhlnzd4Sf/N/R4twWxI8LvLSN7ZD4Nj1ebp8dspTac3ni/8694RCj5OrU+
+KqGpUVFvrN6Te9QSWVUf91C/rUkfG9XqdbcgCDuP1FUY67V8AeJ0COCGm0KFX4y8
+3RMkBMECAwEAAaOCBHwwggR4MB8GA1UdIwQYMBaAFJBY/7CcdahRVHex7fKjQxY4
+nmzFMB0GA1UdDgQWBBT+ISTVHBaW9sztrhgyX+86h/B0PDCCAewGA1UdEQSCAeMw
+ggHfghB3d3cuYXhpc2JhbmsuY29tggxheGlzYmFuay5jb22CEmxvYW5zLmF4aXNi
+YW5rLmNvbYIWZXZvdWNoZXJzLmF4aXNiYW5rLmNvbYIZYXhpc2xlYXJuaW5nLmF4
+aXNiYW5rLmNvbYIYYXBwbGljYXRpb24uYXhpc2JhbmsuY29tghtheGlzb25ib2Fy
+ZGluZy5heGlzYmFuay5jb22CEHVhdC5heGlzYmFuay5jb22CEnd3dy5yZW1pdG1v
+bmV5LmNvbYIbZGluaW5nZGVsaWdodHMuYXhpc2JhbmsuY29tghNzZWN1cmUuYXhp
+c2JhbmsuY29tghhlZGdlcmV3YXJkcy5heGlzYmFuay5jb22CFHd3dy5heGlzYmFu
+a3VrLmNvLnVrghRzZWN1cmUxLmF4aXNiYW5rLmNvbYIPd3d3LmF4aXNiYW5rLmhr
+gg5yZW1pdG1vbmV5LmNvbYIacHJlb3duZWRnYWFkaS5heGlzYmFuay5jb22CD3d3
+dy5heGlzYmFuay5sa4IVY2FtcGFpZ24uYXhpc2JhbmsuY29tghhjcmVkaXRjYXJk
+cy5heGlzYmFuay5jb22CEG5ldy5heGlzYmFuay5jb22CEGF4aXNiYW5rdWsuY28u
+dWswDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY2RwLmdlb3RydXN0LmNvbS9HZW9U
+cnVzdFJTQUNBMjAxOC5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggr
+BgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIw
+dQYIKwYBBQUHAQEEaTBnMCYGCCsGAQUFBzABhhpodHRwOi8vc3RhdHVzLmdlb3Ry
+dXN0LmNvbTA9BggrBgEFBQcwAoYxaHR0cDovL2NhY2VydHMuZ2VvdHJ1c3QuY29t
+L0dlb1RydXN0UlNBQ0EyMDE4LmNydDAJBgNVHRMEAjAAMIIBBQYKKwYBBAHWeQIE
+AgSB9gSB8wDxAHYApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFv
+Dz07FgAABAMARzBFAiBXDZnqWPaNizzq6zLDjity/RubKrmRLx8/M9lyN/5czQIh
+AOr69gNkB67q47olvnnnsDyklmX8jSTVOnXoLDwdHvSRAHcAXqdz+d9WwOe1Nkh9
+0EngMnqRmgyEoRIShBh1loFxRVgAAAFvDz06yQAABAMASDBGAiEA74LTrlDmo/UT
+Q2Zp6tgtwMEBHD4d0mAfbmeJwFrglr8CIQDwgsVQQKIUFC6qbfdfSdspF1WB97aI
+hY/oyJE7gmPkRTANBgkqhkiG9w0BAQsFAAOCAQEAlRepvSpms6Lwnip9M6eZeqbf
+Ze2xasy31w2ooxh8j+ZE/+UsboXr0v1jmI1C1AqtHZAo8X+Gqgq9TC7EoWEQg2nZ
+K/5ayzoSX+MFtIHWe4nJuP3yZXi/bqAXS8DTidosQap9CPjPxYr2mpA+dW8FBRlu
+uyU5bHKGUyre2IiwTHpln4qJq3+63pdwX1cYc/bHmMUYkSf3Fy08rvC1Y+rUAmZ2
++Yi2bANN7SU2WU3kg6fMfS0qWS9EnZvTup635ZvuUoR79c84gYkvQcPS1PPmf8S6
+V4vWwFS5bwRUTBknBkjXbG/3MLSyEzDp8Bv6dMqsb8OJSJ9VqWlH4PAkg2e30A==
 -----END CERTIFICATE-----
 subject=/C=IN/ST=Maharashtra/L=Mumbai/O=Axis Bank Ltd/OU=IT/CN=www.axisbank.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3483 bytes and written 434 bytes
+SSL handshake has read 4788 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -63,27 +70,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 983F273DF589D8B698E4324C0843C45FBBBB9D0DB2EAB4DC23D6ED636F2A7F33
+    Session-ID: 6621674422DFB7CD05D14EA01CEBFB05D0CBC9F69B62CDB1A6582AC502318D11
     Session-ID-ctx: 
-    Master-Key: 0EAA6F53C2C8AB69670DCAC4C738F8A33034AD02B66A6F7E9F1602C8BC0DCD54532656C8FCFBC0BA522F20DD3E015083
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: E7C8B4BEC017952CABFEFB449AF9D50B1376E6BBA4409E56D5D9E4F235578D60465BAE58B8FCEE16DE72D906A895C278
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - c3 51 d2 f4 44 32 c2 91-c0 52 46 d7 39 3f a5 eb   .Q..D2...RF.9?..
-    0010 - 59 a9 3b 5c 4b ef f8 32-4d 2a e5 7b 7d b4 0a 20   Y.;\K..2M*.{}.. 
-    0020 - 89 a9 b0 67 fc 3a 45 f8-98 5b 4d 72 d8 ad eb db   ...g.:E..[Mr....
-    0030 - 83 e3 cc 53 e0 a7 2a 63-65 33 a0 66 4f 05 20 4a   ...S..*ce3.fO. J
-    0040 - 59 79 a6 34 27 8f eb 88-a1 2d 35 3f 05 1e be 27   Yy.4'....-5?...'
-    0050 - ef 84 93 f4 3b f5 51 b9-5e ab 81 2e fd 2a 6a 72   ....;.Q.^....*jr
-    0060 - 2e 8a 42 0f aa c2 62 ad-9e 70 08 06 ec ee d4 a9   ..B...b..p......
-    0070 - 61 36 bb 35 6a ca f7 03-65 81 bd b1 45 e3 72 e5   a6.5j...e...E.r.
-    0080 - a3 5f b2 1e fc 24 7c 01-47 5e 8e 31 4e b2 6f 34   ._...$|.G^.1N.o4
-    0090 - e6 69 28 ba b2 a6 47 20-c9 75 67 fe ac 68 07 84   .i(...G .ug..h..
+    0000 - 00 00 01 17 69 be 3d b3-2d e9 1c 28 55 cb 71 1c   ....i.=.-..(U.q.
+    0010 - 75 f6 e1 14 e5 84 ea 4a-68 9f 77 d6 c5 e4 d1 dd   u......Jh.w.....
+    0020 - 78 bb 44 24 f8 95 ad 3f-a0 2c f3 db c3 14 57 bd   x.D$...?.,....W.
+    0030 - 82 58 86 94 82 ee e3 3a-69 87 1b b0 95 9f c3 d6   .X.....:i.......
+    0040 - 94 b8 63 ce 22 bd 73 d8-f8 61 b7 f1 be d7 ec 60   ..c.".s..a.....`
+    0050 - d4 6e 17 89 c9 05 d5 f1-e9 68 29 ba e7 d0 0e d2   .n.......h).....
+    0060 - d4 f6 1a 7c 1c 43 21 ee-6a f2 a0 cd e3 4a f2 a3   ...|.C!.j....J..
+    0070 - f2 ae ec 1c c7 bd 59 52-59 67 5f bd a6 cf 6f 77   ......YRYg_...ow
+    0080 - 83 57 a9 51 95 cd be 73-f9 e9 38 16 3c 87 fe 9d   .W.Q...s..8.<...
+    0090 - b1 6a d7 ea 96 7f 17 d6-80 0e c1 a8 08 82 14 77   .j.............w
 
-    Start Time: 1472789937
-    Timeout   : 300 (sec)
+    Start Time: 1577475314
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

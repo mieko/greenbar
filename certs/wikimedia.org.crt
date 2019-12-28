@@ -1,62 +1,65 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:/C=US/ST=California/L=San Francisco/O=Wikimedia Foundation, Inc./CN=*.wikipedia.org
-   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
- 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
-   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign ECC OV SSL CA 2018
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign ECC OV SSL CA 2018
+   i:/OU=GlobalSign ECC Root CA - R5/O=GlobalSign/CN=GlobalSign
+ 2 s:/OU=GlobalSign ECC Root CA - R5/O=GlobalSign/CN=GlobalSign
+   i:/OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHEzCCBfugAwIBAgISESGiJboEAteRhUhUyLpgaGqbMA0GCSqGSIb3DQEBCwUA
-MGYxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYD
-VQQDEzNHbG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hB
-MjU2IC0gRzIwHhcNMTUxMjEwMjMyMjA1WhcNMTYxMjEwMjI0NjA0WjB5MQswCQYD
-VQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5j
-aXNjbzEjMCEGA1UEChMaV2lraW1lZGlhIEZvdW5kYXRpb24sIEluYy4xGDAWBgNV
-BAMMDyoud2lraXBlZGlhLm9yZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABMvb
-0EZBebjTbi7IXDLT94JExFttNlEb5o8pNJL+fDJljyP9GIKyNUAT/XrBzsg62lIZ
-kxALqlka8POL79x7C/2jggRxMIIEbTAOBgNVHQ8BAf8EBAMCBaAwSQYDVR0gBEIw
-QDA+BgZngQwBAgIwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2ln
-bi5jb20vcmVwb3NpdG9yeS8wggK2BgNVHREEggKtMIICqYIPKi53aWtpcGVkaWEu
-b3Jngg1tZWRpYXdpa2kub3Jngg13aWtpYm9va3Mub3Jnggx3aWtpZGF0YS5vcmeC
-DXdpa2ltZWRpYS5vcmeCF3dpa2ltZWRpYWZvdW5kYXRpb24ub3Jnggx3aWtpbmV3
-cy5vcmeCDXdpa2lxdW90ZS5vcmeCDndpa2lzb3VyY2Uub3Jngg93aWtpdmVyc2l0
-eS5vcmeCDndpa2l2b3lhZ2Uub3Jngg53aWt0aW9uYXJ5Lm9yZ4IGdy53aWtpgg8q
-Lm1lZGlhd2lraS5vcmeCDyoud2lraWJvb2tzLm9yZ4IOKi53aWtpZGF0YS5vcmeC
-Dyoud2lraW1lZGlhLm9yZ4IZKi53aWtpbWVkaWFmb3VuZGF0aW9uLm9yZ4IOKi53
-aWtpbmV3cy5vcmeCDyoud2lraXF1b3RlLm9yZ4IQKi53aWtpc291cmNlLm9yZ4IR
-Ki53aWtpdmVyc2l0eS5vcmeCECoud2lraXZveWFnZS5vcmeCECoud2lrdGlvbmFy
-eS5vcmeCESoubS5tZWRpYXdpa2kub3JnghEqLm0ud2lraXBlZGlhLm9yZ4IRKi5t
-Lndpa2lib29rcy5vcmeCECoubS53aWtpZGF0YS5vcmeCESoubS53aWtpbWVkaWEu
-b3JnghsqLm0ud2lraW1lZGlhZm91bmRhdGlvbi5vcmeCECoubS53aWtpbmV3cy5v
-cmeCESoubS53aWtpcXVvdGUub3JnghIqLm0ud2lraXNvdXJjZS5vcmeCEyoubS53
-aWtpdmVyc2l0eS5vcmeCEioubS53aWtpdm95YWdlLm9yZ4ISKi5tLndpa3Rpb25h
-cnkub3JnghQqLnplcm8ud2lraXBlZGlhLm9yZ4INd2lraXBlZGlhLm9yZzAJBgNV
-HRMEAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHR8EQjBA
-MD6gPKA6hjhodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29tL2dzL2dzb3JnYW5pemF0
-aW9udmFsc2hhMmcyLmNybDCBoAYIKwYBBQUHAQEEgZMwgZAwTQYIKwYBBQUHMAKG
-QWh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzb3JnYW5pemF0
-aW9udmFsc2hhMmcycjEuY3J0MD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDIuZ2xv
-YmFsc2lnbi5jb20vZ3Nvcmdhbml6YXRpb252YWxzaGEyZzIwHQYDVR0OBBYEFJR6
-MoTg5Oyr1L74P4VOswRxH2JYMB8GA1UdIwQYMBaAFJbeYfG9HBYpUxzAzH07gwBA
-5hp8MA0GCSqGSIb3DQEBCwUAA4IBAQCyxq9LiDHCRDM3IEgBcQaBOaUDvBYPIXsp
-I2KhhPzQ9fktCibG3H+oMZlPBe+q76mCssNo91M6DLfq6KWCHdp1mMaSaRwVNI0c
-GgKQtvDR/gfuCk91Wjslb1/7xmymvaO84m/IDtfE5qaZhscktRrmYcOGE1nnK0RX
-ZPcgIfbm24/lFqVIBhtCVzEMnmjmpo5hDMIIp1QlizN8auaFMVzaIm6LZX5VL5xp
-sy9+WXz15j4jKJEFLZ76cykHu8iYLjJcbjh0T2YeomW3Kg3lj9prEMcu5Klpoph3
-dpw59uD23Dy0CZ4D69eTJtT+pP1GghMUPIR/FeUDHrNQNEaw+Tn7
+MIIHXTCCBuOgAwIBAgIMOSWZm6Hp0d6ADqCLMAoGCCqGSM49BAMDMFAxCzAJBgNV
+BAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1HbG9i
+YWxTaWduIEVDQyBPViBTU0wgQ0EgMjAxODAeFw0xOTExMDgxMDQ3MDZaFw0yMDEx
+MjIwNzU5NTlaMHkxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYw
+FAYDVQQHEw1TYW4gRnJhbmNpc2NvMSMwIQYDVQQKExpXaWtpbWVkaWEgRm91bmRh
+dGlvbiwgSW5jLjEYMBYGA1UEAwwPKi53aWtpcGVkaWEub3JnMFkwEwYHKoZIzj0C
+AQYIKoZIzj0DAQcDQgAEI1UfC3nkgiFDwH0rP0Vwpn7VNxl/53/xSs2z0iACFyQZ
+uArG0VgrEUz6+om6t6sbisqurLrX41iPyUqkBieenKOCBXgwggV0MA4GA1UdDwEB
+/wQEAwIDiDCBjgYIKwYBBQUHAQEEgYEwfzBEBggrBgEFBQcwAoY4aHR0cDovL3Nl
+Y3VyZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQvZ3NlY2NvdnNzbGNhMjAxOC5jcnQw
+NwYIKwYBBQUHMAGGK2h0dHA6Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2dzZWNjb3Zz
+c2xjYTIwMTgwVgYDVR0gBE8wTTBBBgkrBgEEAaAyARQwNDAyBggrBgEFBQcCARYm
+aHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQIC
+MAkGA1UdEwQCMAAwPwYDVR0fBDgwNjA0oDKgMIYuaHR0cDovL2NybC5nbG9iYWxz
+aWduLmNvbS9nc2VjY292c3NsY2EyMDE4LmNybDCCAsUGA1UdEQSCArwwggK4gg8q
+Lndpa2lwZWRpYS5vcmeCESoubS5tZWRpYXdpa2kub3JnghEqLm0ud2lraWJvb2tz
+Lm9yZ4IQKi5tLndpa2lkYXRhLm9yZ4IRKi5tLndpa2ltZWRpYS5vcmeCECoubS53
+aWtpbmV3cy5vcmeCESoubS53aWtpcGVkaWEub3JnghEqLm0ud2lraXF1b3RlLm9y
+Z4ISKi5tLndpa2lzb3VyY2Uub3JnghMqLm0ud2lraXZlcnNpdHkub3JnghIqLm0u
+d2lraXZveWFnZS5vcmeCEioubS53aWt0aW9uYXJ5Lm9yZ4IPKi5tZWRpYXdpa2ku
+b3JnghYqLnBsYW5ldC53aWtpbWVkaWEub3Jngg8qLndpa2lib29rcy5vcmeCDiou
+d2lraWRhdGEub3Jngg8qLndpa2ltZWRpYS5vcmeCGSoud2lraW1lZGlhZm91bmRh
+dGlvbi5vcmeCDioud2lraW5ld3Mub3Jngg8qLndpa2lxdW90ZS5vcmeCECoud2lr
+aXNvdXJjZS5vcmeCESoud2lraXZlcnNpdHkub3JnghAqLndpa2l2b3lhZ2Uub3Jn
+ghAqLndpa3Rpb25hcnkub3JnghQqLndtZnVzZXJjb250ZW50Lm9yZ4INbWVkaWF3
+aWtpLm9yZ4IGdy53aWtpgg13aWtpYm9va3Mub3Jnggx3aWtpZGF0YS5vcmeCDXdp
+a2ltZWRpYS5vcmeCF3dpa2ltZWRpYWZvdW5kYXRpb24ub3Jnggx3aWtpbmV3cy5v
+cmeCDXdpa2lxdW90ZS5vcmeCDndpa2lzb3VyY2Uub3Jngg93aWtpdmVyc2l0eS5v
+cmeCDndpa2l2b3lhZ2Uub3Jngg53aWt0aW9uYXJ5Lm9yZ4ISd21mdXNlcmNvbnRl
+bnQub3Jngg13aWtpcGVkaWEub3JnMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAfBgNVHSMEGDAWgBRYe451Kv5hgKqQQAGu1ugHRm4/SDAdBgNVHQ4EFgQU
+sYv4dupx/kyI+6S0PHwmbjcdN/gwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQC7
+2d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAW5Kn/fyAAAEAwBGMEQC
+IBcCRbqhok5CMnJRM1olCtuRraX6XpWfiZNY6n7jrRsBAiAbVnA4OErMjzU7zrG9
+biEZMRInjioK3coQqjZW0nzb2wB2AFWB1MIWkDYBSuoLm1c8U/DA5Dh4cCUIFy+j
+qh0HE9MMAAABbkqf+MUAAAQDAEcwRQIhAMAIBKpgaOSnuURF17iBvVQ1BdJQyMwD
+wRLYIAIv2JHwAiBr/qlCw7yHy68FIT6MERPrV8LhHsZh2ccD5M0ZDHM6ozAKBggq
+hkjOPQQDAwNoADBlAjEAtgXFd9D5Qyr9PBBpp/VQXfiQkHSRrMfxABwZPvVwiOfE
+dx3D9hDTakMulkn6COTVAjAgRCxFrQqFHo2JNpWdE0FH+tzf2Csdxkf4QhBUrDwd
+yfBRQh2tkjSlcBjI2kmdhhM=
 -----END CERTIFICATE-----
 subject=/C=US/ST=California/L=San Francisco/O=Wikimedia Foundation, Inc./CN=*.wikipedia.org
-issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign ECC OV SSL CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3277 bytes and written 434 bytes
+SSL handshake has read 3880 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
 Server public key is 256 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -64,15 +67,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
-    Session-ID: CEBF8A7E6DBD61D43EB931484FF88E5BF5C3B51F3C751F466BB6A94EA90F1752
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: FF0F7C301464D1D1FC5A2C52B86C306AC709D0832F4F2FC63E981A38C4E2D816
     Session-ID-ctx: 
-    Master-Key: 184E40C81D1F2CD587C1A8F38F2B04E2FC69B3DA7E5A628556A69812376BA2965D3FCD42CBBFC2CB042E3D76B610E657
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788114
-    Timeout   : 300 (sec)
+    Master-Key: 61600B5279881F207A4420407C6052CE40FC5ACBD2B7B343C9CA0161A4E158E2DA60AA5665D852E6E589D846DCBF1F3C
+    Start Time: 1577474970
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

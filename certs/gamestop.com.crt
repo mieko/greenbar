@@ -1,68 +1,57 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/serialNumber=5W-606/jurisdictionC=US/jurisdictionST=Minnesota/businessCategory=Private Organization/C=US/postalCode=76051/ST=TX/L=Grapevine/street=625 Westport Parkway/O=GameStop Inc./OU=IT/OU=Issued through GameStop Inc. E-PKI Manager/OU=COMODO EV SSL/CN=www.gamestop.com
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Extended Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Extended Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 0 s:/OU=Domain Control Validated/OU=Issued through GameStop Inc. E-PKI Manager/OU=COMODO SSL/CN=myworkday.gamestop.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+ 1 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
  2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
    i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
- 3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+ 3 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHxjCCBq6gAwIBAgIRAObmgduLchEp6a4+moXEa/IwDQYJKoZIhvcNAQELBQAw
-gZIxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
-BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTgwNgYD
-VQQDEy9DT01PRE8gUlNBIEV4dGVuZGVkIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZl
-ciBDQTAeFw0xNTAyMDUwMDAwMDBaFw0xNzAyMTEyMzU5NTlaMIIBSzEPMA0GA1UE
-BRMGNVctNjA2MRMwEQYLKwYBBAGCNzwCAQMTAlVTMRowGAYLKwYBBAGCNzwCAQIT
-CU1pbm5lc290YTEdMBsGA1UEDxMUUHJpdmF0ZSBPcmdhbml6YXRpb24xCzAJBgNV
-BAYTAlVTMQ4wDAYDVQQREwU3NjA1MTELMAkGA1UECBMCVFgxEjAQBgNVBAcTCUdy
-YXBldmluZTEdMBsGA1UECRMUNjI1IFdlc3Rwb3J0IFBhcmt3YXkxFjAUBgNVBAoT
-DUdhbWVTdG9wIEluYy4xCzAJBgNVBAsTAklUMTMwMQYDVQQLEypJc3N1ZWQgdGhy
-b3VnaCBHYW1lU3RvcCBJbmMuIEUtUEtJIE1hbmFnZXIxFjAUBgNVBAsTDUNPTU9E
-TyBFViBTU0wxGTAXBgNVBAMTEHd3dy5nYW1lc3RvcC5jb20wggEiMA0GCSqGSIb3
-DQEBAQUAA4IBDwAwggEKAoIBAQDGCi8x/weP140JoLL3txhz8hhLW+XEcv/Exqrw
-ExRw37JD0j7XIjrkGM16VVRAV27QLoJD1vVaZwkKcVjIIKxTziMpHc0upVC1KlHr
-igswNSQ6PBOhfHpgXFJZBHDlPEyyUibDvHscX4WM2sU4JvfABPWXgTnbjdPFK1WO
-vlbSZayzbCuNPtBZ0i2Ec63CF/Djc9ZAL1HN2qA4ko3Sf1XlY/TS3AbBy9KUU+2F
-rwEqt7VWd3GytJfh2YFFL3GHuK/1JPRv9yjYEFWum8rQ9Pzz4LKPZyWh/c94i3mp
-0xZXXhHKNDjEvTJUZDwnqDFWdCBCDU9kfRwwOt5aAtjdfFdHAgMBAAGjggNZMIID
-VTAfBgNVHSMEGDAWgBQ52v/KKBSKqHQTCLnkDqnS+n6daTAdBgNVHQ4EFgQUdf3p
-KWwH7BlKhF0y4Z3NSRfhvLowDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
-HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEYGA1UdIAQ/MD0wOwYMKwYB
-BAGyMQECAQUBMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5j
-b20vQ1BTMFYGA1UdHwRPME0wS6BJoEeGRWh0dHA6Ly9jcmwuY29tb2RvY2EuY29t
-L0NPTU9ET1JTQUV4dGVuZGVkVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNybDCB
-hwYIKwYBBQUHAQEEezB5MFEGCCsGAQUFBzAChkVodHRwOi8vY3J0LmNvbW9kb2Nh
-LmNvbS9DT01PRE9SU0FFeHRlbmRlZFZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5j
-cnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTApBgNVHREE
-IjAgghB3d3cuZ2FtZXN0b3AuY29tggxnYW1lc3RvcC5jb20wggF/BgorBgEEAdZ5
-AgQCBIIBbwSCAWsBaQB2AGj2mPgfZIK+OozuuSgdTPxxUV1nk9RE0QpnrLtPT/vE
-AAABS1pRcwoAAAQDAEcwRQIgQnCypN5lXsUi/BTGaw8v1ohtZGR8jWsQibJgzBmL
-eAUCIQCa9xCizpGvbIx2jG8jNIorMIvptuwz4gqLDtBQLnfVtQB2AKS5CZC0GFgU
-h7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABS1pRcxgAAAQDAEcwRQIhAPJc60JX
-AV0zFZiXq/8JMNdpplMaWFmcmCVIqWXlFVzmAiB1zU6zufYro6pv3MNHNkbAS64J
-A8UgAaRlWNZLzd9RfQB3AFYUBpov18Ls0/XhvUSyPsdGdrm8mRFcwO+UmFXWidDd
-AAABS1pRczkAAAQDAEgwRgIhAPBbPJcMuXfrPAb7o7zRFgBJ28CLIzg2IfCBDvdW
-ImCJAiEArWOcrgMs4x/IoNfVCEFzjzI1Lqb7tRyNGP3dGOnKSGEwDQYJKoZIhvcN
-AQELBQADggEBAIleaCZ/X1FtOZRDiHf1mq5piPUMdhSZltAG7Tzz6w2BeR8qM1z8
-wUs/WAxJ86SoXG8Cix1HORrU7giX5vz1BVlqJ+jUnrC5HA0lpb2I8dypBJI38dJx
-1IA4zi1JNJ23rs1yx5OcPFRKaTWW7yLBEzMGDdkxUD3lXDCKGG5n8ax02Avckm0V
-Q5FZGxh7tFjihXMiInX6TN7Sn/YBFbNkarAhia0KzQwK0fQ8YkHCTxAxUmdFFVCb
-0VtHowFXjFGPMJj/wf/5wRcxlbH2JlWzs+WrrcP1I98RoAPAJNFDf9ZMahZ+xUUp
-jvOQvkQGsY3Ea3w7nCouT9e1iftk3lwwjuM=
+MIIFmzCCBIOgAwIBAgIQNWy+4nkEbd6VhUYPgApEvzANBgkqhkiG9w0BAQsFADCB
+kDELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxNjA0BgNV
+BAMTLUNPTU9ETyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0xNTA1MTQwMDAwMDBaFw0xODA1MTQyMzU5NTlaMIGOMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxMzAxBgNVBAsTKklzc3VlZCB0aHJvdWdo
+IEdhbWVTdG9wIEluYy4gRS1QS0kgTWFuYWdlcjETMBEGA1UECxMKQ09NT0RPIFNT
+TDEfMB0GA1UEAxMWbXl3b3JrZGF5LmdhbWVzdG9wLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMn8TfDqYuAbgNdy7uouWYQ7FRYqhuhd6X4sRnnY
+17ZWGZCXoIM8ECwRm1ZEc5C+5zb1kYJ5KQdd9BY6Waks5gX0KZGF7DTJzoTktS8P
+PxvibFhvvqjsUBhWQmmACaqWrB5XXUEsQ8Lk4v6IXFtWgB5nR6gd9tzyR2B5OmE+
+OrGf+T0t/LJH1zwgzzNw0aHpB56f5QmD6cy5ZKFA9PrnwfiBL3aaHeqOWU634lXx
+K+LtN3jj7uPCchB84XsukcM35JGmrXU49VDvJyVWzHdl7MtRCRUf4HBGNDfAreIh
+eAWc8zqt/+O5ekXrPYteaHxkS98PKVME9tvDtJIBF2b2vDsCAwEAAaOCAe8wggHr
+MB8GA1UdIwQYMBaAFJCvajqUWgvYkOoSVnPfQ7Q6KNrnMB0GA1UdDgQWBBQvOoV9
+fJZp75YNApq0zInrUtEeKzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEE
+AbIxAQICBzArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29t
+L0NQUzAIBgZngQwBAgEwVAYDVR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5jb21v
+ZG9jYS5jb20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNB
+LmNybDCBhQYIKwYBBQUHAQEEeTB3ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LmNv
+bW9kb2NhLmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVy
+Q0EuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wPQYD
+VR0RBDYwNIIWbXl3b3JrZGF5LmdhbWVzdG9wLmNvbYIad3d3Lm15d29ya2RheS5n
+YW1lc3RvcC5jb20wDQYJKoZIhvcNAQELBQADggEBABpn7axEO3llJQhW6H4YRxfK
+sGzF71XBueX5JDMeVilS4j2e9T9Xa2+OfgfSsKHj9Bz1XXWwrhuErSqSiUjuxomM
+IILv2cw/F1UYviYBAK1e7w9nBdGBFDNAy2fL6hXEVPms40x/1G4OPFQtWwTixwCd
+jyvBkZOzn+Q0UnT2e+FaslXtxeG/9u+eRKYEG9Go2wUYH+1vq/N8uayU3CJnVbTs
+BC0RzXJkcH5dna4ToP9JbZGTGjveKkznhlayo76jwRTIo0wbmmOie8hacphRLdBk
+o9YboeBJrYyBsPoOgncsfKE4Z0o3qlXE9sWhOK/ucLLM0/oE5b7pY5mSGMMPaQM=
 -----END CERTIFICATE-----
-subject=/serialNumber=5W-606/jurisdictionC=US/jurisdictionST=Minnesota/businessCategory=Private Organization/C=US/postalCode=76051/ST=TX/L=Grapevine/street=625 Westport Parkway/O=GameStop Inc./OU=IT/OU=Issued through GameStop Inc. E-PKI Manager/OU=COMODO EV SSL/CN=www.gamestop.com
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Extended Validation Secure Server CA
+subject=/OU=Domain Control Validated/OU=Issued through GameStop Inc. E-PKI Manager/OU=COMODO SSL/CN=myworkday.gamestop.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 6240 bytes and written 666 bytes
+SSL handshake has read 6148 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -70,15 +59,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-SHA256
-    Session-ID: 5FA6AE0BFB9A7A90AC767935A02832BB852A2C82767AEF8866D0EDF062550D33
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 9483BA4151AD8EE472501A77162C4D0955C81D28B168754F4DE2A0E90ED9605E
     Session-ID-ctx: 
-    Master-Key: 0F0A743A638EDB3A483A314894C0ECAA882E650FBE298CBD3163E1592F785230E2F6DE9DCE8BA7F8856AC82F2FD6D992
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472790463
-    Timeout   : 300 (sec)
-    Verify return code: 0 (ok)
+    Master-Key: 275387D09202E33A90EC96A4824B4AC3F65747B304AB3A7304E45581126CF249A3FE9F2013926FE844F87D127F685A51
+    TLS session ticket lifetime hint: 43200 (seconds)
+    TLS session ticket:
+    0000 - 8c 3a bd e8 88 f9 d8 76-ae a2 07 de 5b bc 08 b4   .:.....v....[...
+    0010 - dc d5 1f e1 7b 80 6e 61-3c dc 1e 4a 81 9c b9 ae   ....{.na<..J....
+    0020 - 89 c0 2d db a6 f2 d5 7f-48 8b 3e fc f3 ca c1 07   ..-.....H.>.....
+    0030 - ab 4a e8 cd 3e bf 5a 08-10 b7 12 6f e3 a2 79 78   .J..>.Z....o..yx
+    0040 - 81 fe c4 3c 93 d5 a3 8c-88 41 42 35 2f d2 75 47   ...<.....AB5/.uG
+    0050 - e9 f0 56 b7 16 63 1d e2-2b 48 55 da 21 bb 8b c3   ..V..c..+HU.!...
+    0060 - 80 35 e0 15 7b b6 cf 59-89 cc ea 0a 90 82 6f ee   .5..{..Y......o.
+    0070 - b3 69 d8 17 9f d8 fc f9-95 bd 43 e6 0b a9 6b cf   .i........C...k.
+    0080 - c3 42 85 06 ef d4 d1 7d-fb f2 f8 b0 1f 59 9a 02   .B.....}.....Y..
+    0090 - 25 65 83 40 75 1a f6 0e-d9 57 ee b7 b6 80 5a 28   %e.@u....W....Z(
+    00a0 - 4d d8 b0 d9 89 d6 54 dc-b6 ab e6 08 a1 8f 4b 9f   M.....T.......K.
+
+    Start Time: 1577475409
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
 ---

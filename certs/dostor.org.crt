@@ -1,78 +1,23 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
-Certificate chain
- 0 s:/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl311827.cloudflaressl.com
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
----
-Server certificate
------BEGIN CERTIFICATE-----
-MIID9jCCA5ygAwIBAgIQYAmDw3OqTtcY+hlcTKeYMzAKBggqhkjOPQQDAjCBkjEL
-MAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UE
-BxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxODA2BgNVBAMT
-L0NPTU9ETyBFQ0MgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQSAy
-MB4XDTE2MDEwMzAwMDAwMFoXDTE2MTIzMTIzNTk1OVowbDEhMB8GA1UECxMYRG9t
-YWluIENvbnRyb2wgVmFsaWRhdGVkMSEwHwYDVQQLExhQb3NpdGl2ZVNTTCBNdWx0
-aS1Eb21haW4xJDAiBgNVBAMTG3NzbDMxMTgyNy5jbG91ZGZsYXJlc3NsLmNvbTBZ
-MBMGByqGSM49AgEGCCqGSM49AwEHA0IABMRfDbp8JaLnl/5YZ7TA4Kk6Mzjgl6h7
-F+Gh/Iox3RXmIDA4dNksYX8s2/1vwdEt46FuBWdhjaJD4dVTvHrOf06jggH3MIIB
-8zAfBgNVHSMEGDAWgBRACWFn8LyDcU/eEggsb9TUK3Y9ljAdBgNVHQ4EFgQUjDF6
-jflDbneBrYyDYAnKjHHpVbYwDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAw
-HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYB
-BAGyMQECAgcwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNv
-bS9DUFMwCAYGZ4EMAQIBMFYGA1UdHwRPME0wS6BJoEeGRWh0dHA6Ly9jcmwuY29t
-b2RvY2E0LmNvbS9DT01PRE9FQ0NEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVy
-Q0EyLmNybDCBiAYIKwYBBQUHAQEEfDB6MFEGCCsGAQUFBzAChkVodHRwOi8vY3J0
-LmNvbW9kb2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNl
-cnZlckNBMi5jcnQwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmNvbW9kb2NhNC5j
-b20wQAYDVR0RBDkwN4Ibc3NsMzExODI3LmNsb3VkZmxhcmVzc2wuY29tggwqLmRv
-c3Rvci5vcmeCCmRvc3Rvci5vcmcwCgYIKoZIzj0EAwIDSAAwRQIhAKro2Y3PjErG
-plD3pHe83ugL/o8Zu/YdgrQMke801q5XAiAYwpRov2Ekpj1svdjGLu2+ykeXyVEa
-3DUsyXQJrqOEBA==
------END CERTIFICATE-----
-subject=/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl311827.cloudflaressl.com
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+no peer certificate available
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3420 bytes and written 434 bytes
+SSL handshake has read 7 bytes and written 0 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
-Server public key is 256 bit
-Secure Renegotiation IS supported
+New, (NONE), Cipher is (NONE)
+Secure Renegotiation IS NOT supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
-    Session-ID: D831218A10D187C61DB81EB25B1FAA165CC19F85507CDEAD20CDBA9C8D5A6361
+    Cipher    : 0000
+    Session-ID: 
     Session-ID-ctx: 
-    Master-Key: BA1832130A4CB5D0742D01FAF33D686F1F9979B769773362855BD9F1D2DA7127826733D6C426F0387A6AE2A68C0A363C
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 64800 (seconds)
-    TLS session ticket:
-    0000 - 67 3e 33 d7 cc 57 79 4c-b2 85 a3 1c c8 1b 69 31   g>3..WyL......i1
-    0010 - 58 1e 51 6f 66 39 73 7d-67 cf 10 95 c4 9f 4b 30   X.Qof9s}g.....K0
-    0020 - 6c c4 7d 60 a9 6f 55 e9-93 49 19 86 4c 51 ff f0   l.}`.oU..I..LQ..
-    0030 - 8a 13 ad b4 63 f9 f5 e7-a5 ed 39 4a a8 c1 31 39   ....c.....9J..19
-    0040 - 9c cf 1d ce b2 02 d2 7c-7d de 5d 8e 33 78 1b 57   .......|}.].3x.W
-    0050 - 6c 44 42 79 3b d6 e4 5d-34 19 fd 4a 09 a1 c1 4e   lDBy;..]4..J...N
-    0060 - db a7 ea e4 08 5a 66 53-e5 50 99 08 6c ee 09 be   .....ZfS.P..l...
-    0070 - 38 ea 29 66 b8 15 a4 7c-76 2d ea 90 7d 87 00 4e   8.)f...|v-..}..N
-    0080 - ed 63 93 b2 6a c6 8b 6b-f1 f3 ee cc 57 20 a8 df   .c..j..k....W ..
-    0090 - 03 ec 6e ef df 2a 6b 03-d3 6c 54 35 7d e1 cc 0c   ..n..*k..lT5}...
-    00a0 - da 42 7d cc 7b c7 64 d7-85 01 af c5 b0 af bf 86   .B}.{.d.........
-
-    Start Time: 1472788957
-    Timeout   : 300 (sec)
+    Master-Key: 
+    Start Time: 1577475011
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

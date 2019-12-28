@@ -1,27 +1,71 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
-no peer certificate available
+Certificate chain
+ 0 s:/C=CN/ST=CN/L=china/O=wangsu/OU=wangsu/CN=test_need_update_cer.com/emailAddress=test
+   i:/C=CN/ST=CN/L=china/O=wangsu/OU=wangsu/CN=test_need_update_cer.com/emailAddress=test
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEfDCCA2SgAwIBAgIJAKiW7k+n6xpKMA0GCSqGSIb3DQEBBQUAMIGEMQswCQYD
+VQQGEwJDTjELMAkGA1UECBMCQ04xDjAMBgNVBAcTBWNoaW5hMQ8wDQYDVQQKEwZ3
+YW5nc3UxDzANBgNVBAsTBndhbmdzdTEhMB8GA1UEAwwYdGVzdF9uZWVkX3VwZGF0
+ZV9jZXIuY29tMRMwEQYJKoZIhvcNAQkBFgR0ZXN0MCAXDTE0MTAyNDAzMzYyNVoY
+DzIxMTQwOTMwMDMzNjI1WjCBhDELMAkGA1UEBhMCQ04xCzAJBgNVBAgTAkNOMQ4w
+DAYDVQQHEwVjaGluYTEPMA0GA1UEChMGd2FuZ3N1MQ8wDQYDVQQLEwZ3YW5nc3Ux
+ITAfBgNVBAMMGHRlc3RfbmVlZF91cGRhdGVfY2VyLmNvbTETMBEGCSqGSIb3DQEJ
+ARYEdGVzdDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM8KJw/Z8n22
+6GCwNgI6k42dlcQnia4NXRyQs0kgtyJ5uU0Mw5k1cpynMIeSbBS/VzQoyjrzhjba
+B1Wt6ggkU05GUspQjs9VgJ9TOfTRFRQSpfH+TbbhedALdP7RjcY1KSWIOZ2F9UaI
+SmELMjWDDYLC/VSpA9IzB8Rf0jgelgDvXQJjYtiaBefNruy0t6kqFBrIBP/MTg5L
+YuEUCFW7XANy3h2OilZSQNzNMlIgxF19srEl8THQCPyLDEWLvytqGXZDV7flRoS6
+EDombFgZ1trqdyYhZHEHo80D8yIhOpZV4IH3jDvOhkxacElW2h/VBweNdCVTZYgF
+OnzqVxzsTD8CAwEAAaOB7DCB6TAdBgNVHQ4EFgQUkNRT29Ct/OmgqH2NKiUwCtUX
+BTowgbkGA1UdIwSBsTCBroAUkNRT29Ct/OmgqH2NKiUwCtUXBTqhgYqkgYcwgYQx
+CzAJBgNVBAYTAkNOMQswCQYDVQQIEwJDTjEOMAwGA1UEBxMFY2hpbmExDzANBgNV
+BAoTBndhbmdzdTEPMA0GA1UECxMGd2FuZ3N1MSEwHwYDVQQDDBh0ZXN0X25lZWRf
+dXBkYXRlX2Nlci5jb20xEzARBgkqhkiG9w0BCQEWBHRlc3SCCQColu5Pp+saSjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4IBAQBAo1lsGzF/ZkC+rWY1BLN0
+5AxQPMKBpNU8qkY9mPyM7fWGfzCog7hsPPUA6aZhko9POr6o+8Lc1fWFS0iMrQrs
+uDqjNmCS/+2XPNvGcBfachwyO6x4QNWN2DcISHMqihmRdTUqsbIBhZMOmujojnC0
+apcuOuCciqObyVgeAsJBAaOdScFbMCA0U18ZdNnsh1SvxBy4n/ItjlbhfcVzehAZ
+n9cXVRsoNqYJx/55DWePHrpi1BUjQ45ng2niE0VuQ85LiobwntCmUWDP2zvv7tVD
+SFc0ubVdtIuca6njqJ4Nnavw2OzyHaL/COLb12ZVMUbEPrx4s05CBxx8u6dcE+jL
+-----END CERTIFICATE-----
+subject=/C=CN/ST=CN/L=china/O=wangsu/OU=wangsu/CN=test_need_update_cer.com/emailAddress=test
+issuer=/C=CN/ST=CN/L=china/O=wangsu/OU=wangsu/CN=test_need_update_cer.com/emailAddress=test
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 0 bytes and written 308 bytes
+SSL handshake has read 1781 bytes and written 281 bytes
 ---
-New, (NONE), Cipher is (NONE)
-Secure Renegotiation IS NOT supported
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : 0000
-    Session-ID: 
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 2712CC84C666384A82CFA4A2D5E5E6F211B4D340D788A33B036275E6BA6DDC57
     Session-ID-ctx: 
-    Master-Key: 
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472789893
-    Timeout   : 300 (sec)
-    Verify return code: 0 (ok)
+    Master-Key: DED713AF6E57BF1477B490E7042392F6AE00ACA757A2BC81133A2AE7C090E489D52D7CE9D44EE537D85DC7AFB764B2D7
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f9 b5 c9 ba 56 9e 82 e9-e0 9e d1 09 bd 1e e3 ee   ....V...........
+    0010 - f2 a2 ff fb 67 75 4f bd-2f d5 34 39 aa b9 44 17   ....guO./.49..D.
+    0020 - 50 90 cb 88 d6 f1 0d a2-1c cd 00 22 07 94 ef 94   P.........."....
+    0030 - 93 80 2c 8f b5 58 89 9b-00 cc dc ae fb 7f 22 ef   ..,..X........".
+    0040 - ba 36 21 93 30 16 37 2d-ee e2 a8 9c 6f 1f 5a f2   .6!.0.7-....o.Z.
+    0050 - 62 ab 52 49 19 76 5d 39-a1 28 f7 94 96 4b b0 44   b.RI.v]9.(...K.D
+    0060 - ad 92 55 ea 55 bf 81 1d-38 db db 27 3c 9e 6a 90   ..U.U...8..'<.j.
+    0070 - 27 e3 2e a3 75 d5 70 22-27 c1 99 9a 70 19 24 1b   '...u.p"'...p.$.
+    0080 - fa f7 b8 90 a2 4f 3a eb-c6 f0 f9 99 bb 35 59 22   .....O:......5Y"
+    0090 - fc 75 7a 28 2b d3 e7 32-4c 2e 00 eb 3a 24 d3 b6   .uz(+..2L...:$..
+    00a0 - 7c e8 4b 16 28 c8 2a 65-c0 47 ea b3 a8 cc a6 b8   |.K.(.*e.G......
+
+    Start Time: 1577475515
+    Timeout   : 7200 (sec)
+    Verify return code: 18 (self signed certificate)
 ---

@@ -1,45 +1,46 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/CN=*.toutiao.com
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/CN=*.snssdk.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEMDCCAxigAwIBAgIDCeZuMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNjAxMjgwNTU3NDRaFw0xODAxMzAwNTI1NThaMBgxFjAU
-BgNVBAMMDSoudG91dGlhby5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
-AoIBAQCwBZBus0xa9hiymiOuaaKW48Lh49oqbadjxBDs6lpwiO5yFqgMx49JbfvT
-2CsD9WION2zsAJ0MtsUc6IynPhTk+WdiN3MVye/0s2ny/JxNTU5FU98BKXmsvl9P
-Nmppoyp7OTzWy8mn10lxotzba7C/CVy/2l6k9hRwAEvnrjzlRAUEmz5vCjsAEyaO
-i9/jkjpyaN9uDhplluWnYtQW47fWYNTYvUrcXFiLRndA5uDcefs2IMSd3MwSRkPI
-HS9lNaIn67dvAv/e1GfCfIHzGIf9JoR0BF366GVoCYjkQ/YSOCD4ZZnUuF6zZyaZ
-wky6Y0nkrTahRcKCTKVrwYymwZ9/AgMBAAGjggFSMIIBTjAfBgNVHSMEGDAWgBTD
-nPP800YINLvORn+gfFvz4gjLWTBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGG
-E2h0dHA6Ly9ndi5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9ndi5zeW1j
-Yi5jb20vZ3YuY3J0MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
-AQYIKwYBBQUHAwIwJQYDVR0RBB4wHIINKi50b3V0aWFvLmNvbYILdG91dGlhby5j
-b20wKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2d2LnN5bWNiLmNvbS9ndi5jcmww
-DAYDVR0TAQH/BAIwADBBBgNVHSAEOjA4MDYGBmeBDAECATAsMCoGCCsGAQUFBwIB
-Fh5odHRwczovL3d3dy5yYXBpZHNzbC5jb20vbGVnYWwwDQYJKoZIhvcNAQELBQAD
-ggEBAG16C/Er4A9tnwYM7QTfqJgUiILu3vnOjx2hvBysZOCR6wkfRCmCxml3Wjw9
-u4cE+IoFwWPLTdwrIZMgo4gaAcTp7KDxicCqBhKOhfDjUGARupxbs4LIzHsxTB6N
-Ne38DF4npNpfj2xT8xovCC8aIPMFU422VOUs0+5Mg8w4saA7JERW226EWgQQ0RbY
-/SY6ho5OqeEs6yhXldGrABzMoqnnWDY4pBKCg5ODaAvsVBsxelwkuehWl80QAsru
-X+GC7hhmkRWBCylkU1jEduLsbA0WqWAKeNwqVo7NZQMn92DNyEVx8bKTMGCeQ9fZ
-KfZmXQjjST6KkmCjfVxQbSIAj88=
+MIIEqTCCA5GgAwIBAgIQDJ8N4qmxsgLActfc1X76kTANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRSYXBpZFNTTCBSU0EgQ0EgMjAxODAe
+Fw0xODAxMDMwMDAwMDBaFw0yMTAxMDIxMjAwMDBaMBcxFTATBgNVBAMMDCouc25z
+c2RrLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMUEDIsl5mCD
+Ry047dA0QwqBXpEU6HOVOrU6hEXVkxSyFmORTSDclnyWV1GLf1GFCNUzeRYiCNmf
+wtYX+QMMkqw6TkALXggNuEUqCdugufXQ3nEKQ8RJEk/n/g5D1Dgnv9r8S4SM2hMZ
+adLZ1xXyzxJLq+Z3YBjQGXOD2/NM6fASBEefc1YZ2f3WnC43c5f5nNHZ0EfyKcgH
+hj9Ah14EmBqFtrgOGT+9ZZzjKzDLcijZ5js3dD9q3dx9xOogA3srRgJlYc+n3Ms4
+EViNIqr0I8AcnLec/wHsfBzYfgjaN1GVcTxinvmW4PDKvrVogPrCjJINCvI6J7wj
+6b8wfr2cLdkCAwEAAaOCAagwggGkMB8GA1UdIwQYMBaAFFPKF1n8a8ADIS8aruSq
+qByCVtp1MB0GA1UdDgQWBBTuD8vKtLsLVQjoblZo6ZsUcK+Y6zAjBgNVHREEHDAa
+ggwqLnNuc3Nkay5jb22CCnNuc3Nkay5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA+BgNVHR8ENzA1MDOgMaAvhi1odHRw
+Oi8vY2RwLnJhcGlkc3NsLmNvbS9SYXBpZFNTTFJTQUNBMjAxOC5jcmwwTAYDVR0g
+BEUwQzA3BglghkgBhv1sAQIwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGln
+aWNlcnQuY29tL0NQUzAIBgZngQwBAgEwdQYIKwYBBQUHAQEEaTBnMCYGCCsGAQUF
+BzABhhpodHRwOi8vc3RhdHVzLnJhcGlkc3NsLmNvbTA9BggrBgEFBQcwAoYxaHR0
+cDovL2NhY2VydHMucmFwaWRzc2wuY29tL1JhcGlkU1NMUlNBQ0EyMDE4LmNydDAJ
+BgNVHRMEAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQDlIhnOECh6kzPuiQUluTbv+cR/
+UbHUIBRzlS7A49kpkji++TLmNsaxbv+Qz/RvEoQXJHzUpCNaaKvNTJ0rsTgw9qF1
+wjLqJdXMUcJffi2VwfNaG17rop6ZjTd+CE/vT6pX4oyar87TH202QdXBzDIgh4dR
+eKbQ0Jqsxrat3qIFigWPbD6QVdiverutxe2f0XgsdXmZBWUYJ4QiiGv55U93CAHi
+DYuldi7l42phnSfJrv3HechsQGjWCP9kMU1eUuCmWmxCTDC39vgYddOZjIfvjGnf
+ua+UKB5n0WS2HUSZYXhc+fLW9Pq2nnogq3k/c5qQqdOG/7WT+/tfHGSMCgwt
 -----END CERTIFICATE-----
-subject=/CN=*.toutiao.com
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/CN=*.snssdk.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=RapidSSL RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2819 bytes and written 434 bytes
+SSL handshake has read 3075 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -50,28 +51,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: BE86CF2DF764FD42FDBDB85BB935965751691A2A4A769A547E236E86028D79E6
+    Session-ID: 2C048022EDB933F88E20C062029D7B3542776637F48C2768A510225CDCDC8531
     Session-ID-ctx: 
-    Master-Key: 17BC80A3A4D7357BE075E3F54E62426A8CF8C83BCFE0F29173CDCC671F826244520E516A968D2D984E547B42871BC39C
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: A269AAB8EC3E66F9FD9737991A8FEB283F55F61947899D74B5373BAC46D075BFAEF3AA4450F7C61193F22328B3FE09D2
+    TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - c2 aa e2 e8 49 9f f6 7e-96 41 31 b4 f3 82 30 43   ....I..~.A1...0C
-    0010 - ee 25 4e e9 25 84 92 44-ea da 4f eb 99 86 d8 f0   .%N.%..D..O.....
-    0020 - 10 7e 52 a9 8c 37 58 66-97 5b 12 c6 74 7b 50 32   .~R..7Xf.[..t{P2
-    0030 - b8 5a e0 05 24 e5 bc 35-72 63 79 e2 e2 87 9b 02   .Z..$..5rcy.....
-    0040 - 77 a9 20 35 96 ab 4e c0-17 63 7b 8e 87 27 87 32   w. 5..N..c{..'.2
-    0050 - 99 6b d8 60 b8 97 38 9b-a8 32 e7 b1 38 b9 74 5c   .k.`..8..2..8.t\
-    0060 - 49 65 cc 12 b7 3e 06 5c-78 39 1b bf 0c cb 70 37   Ie...>.\x9....p7
-    0070 - f9 ae 81 7d 3e b3 c6 c3-f4 07 5f 22 fc 80 46 31   ...}>....._"..F1
-    0080 - 82 9c ad fb bd 35 8c 08-9c 00 2f f8 07 89 a6 08   .....5..../.....
-    0090 - b6 70 c6 c1 dc a9 ea 31-8a bb d7 88 c3 cf 93 1f   .p.....1........
-    00a0 - 00 e5 02 28 f7 0c 05 5b-d8 05 8a 9d 5d 6f 76 b7   ...(...[....]ov.
+    0000 - 57 2f 33 43 63 42 63 30-4b 38 4e 73 67 4c 6f 6d   W/3CcBc0K8NsgLom
+    0010 - dd 87 30 11 ff 63 0f d3-e8 69 51 32 be 0e e0 ca   ..0..c...iQ2....
+    0020 - a8 8f ad 3a b8 d8 1a 9d-64 7e 6f d2 1e 6a d7 c5   ...:....d~o..j..
+    0030 - 15 75 7d ac fc 2e ba 56-1a 47 00 21 eb df bf f2   .u}....V.G.!....
+    0040 - 78 e7 36 f7 d7 b2 44 20-ff d4 fc c1 31 49 a8 57   x.6...D ....1I.W
+    0050 - a4 48 13 4a 1e 6b 2a 52-6f f8 5c cd 90 17 99 61   .H.J.k*Ro.\....a
+    0060 - 16 d6 b1 eb f9 e1 75 4f-45 6c ff 57 4c 15 d7 e7   ......uOEl.WL...
+    0070 - 04 39 4e 3f 48 84 f1 18-a9 12 90 7f ac 90 ac 1e   .9N?H...........
+    0080 - af 04 bc c6 22 32 f4 3b-37 c7 e6 86 b3 0a eb af   ...."2.;7.......
+    0090 - e6 c6 51 0f 1b 30 5e a6-bd 69 4e 75 72 c3 dc 77   ..Q..0^..iNur..w
+    00a0 - f6 d7 6f 03 fa 53 04 cc-5f cf 66 8f e9 40 ff be   ..o..S.._.f..@..
 
-    Start Time: 1472788531
-    Timeout   : 300 (sec)
+    Start Time: 1577475143
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

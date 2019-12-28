@@ -1,50 +1,57 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
  0 s:/C=CN/ST=Beijing/L=Beijing/O=Beijing Douwang Technology Co. Ltd./OU=Technology Department/CN=*.douban.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFETCCA/mgAwIBAgIQYShGlpAa43zMoyj0xO4x1jANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwODAzMDAwMDAwWhcNMTcwNzE2MjM1
-OTU5WjCBljELMAkGA1UEBhMCQ04xEDAOBgNVBAgMB0JlaWppbmcxEDAOBgNVBAcM
-B0JlaWppbmcxLDAqBgNVBAoMI0JlaWppbmcgRG91d2FuZyBUZWNobm9sb2d5IENv
-LiBMdGQuMR4wHAYDVQQLDBVUZWNobm9sb2d5IERlcGFydG1lbnQxFTATBgNVBAMM
-DCouZG91YmFuLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALS9
-yPBs0/se2KS8p6lh6Ji9HhtcCynsVoelZ4IyWTam3xa1abs4BicuwsfmWd8lPQv0
-q7sM1iXAY85j1XtCPo+JWlyGRlazclHwKelDzXJbxuRAcz2Qj7tcM3swXIt7bPhF
-XFafxt3X9sIa/66ixVTVCG2OumILWTztY1LZXXV0BahzNtvlL142gNnLKutuSdZK
-KrjtrLtC+NnZ1Nrxvoy8H0QrzBqAaUdPFtl3pPjzNCjEU+x0cR8u8FzxYHyB03FA
-IVLTjK1mUd6T0yFMPddrdEO8LXAXCvz7pXLj70sJJ/M3FDXNfrPYEg7h6Buv/1R/
-eOB7Kha02TkPo8w7SoECAwEAAaOCAaowggGmMCMGA1UdEQQcMBqCDCouZG91YmFu
-LmNvbYIKZG91YmFuLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIFoDArBgNV
-HR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNybDCBnQYDVR0g
-BIGVMIGSMIGPBgZngQwBAgIwgYQwPwYIKwYBBQUHAgEWM2h0dHBzOi8vd3d3Lmdl
-b3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDBBBggrBgEFBQcC
-AjA1DDNodHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRv
-cnkvbGVnYWwwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQY
-MBaAFNJv95b0hT9yPDB9I9qFeJujfFp8MFcGCCsGAQUFBwEBBEswSTAfBggrBgEF
-BQcwAYYTaHR0cDovL2duLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL2du
-LnN5bWNiLmNvbS9nbi5jcnQwDQYJKoZIhvcNAQELBQADggEBAHl3AAPZy+uXYrxV
-/BV2268K+RCDTLojGm0kgopDt0kDGcIzuFe8hPN7V0cQQA0CwLmmRUMyxnlGbyiM
-7qhmSvwisxI8+90wYv9ZJQDjj7a04VQOa89H0hCORTgt5bKmDkA+UARLvEQ29IFC
-KhOoUUhYrorwOlqOlAnv1yR4VQ9C4kOMIGBVak65C6ymxcPXTZqBajo4Plct07mn
-YJtgQdy3HgRdX8okevnGLCXSGcPFbi88bQRBVtVyL3IaXKyR1/s+O4V2peR1FvRt
-+QEhRuUswm2P7oxRQHxHOFiv7LVmxoXga0KzjO4M5UZ3UAnZdSEgTCSDCfMQ7f17
-ob740cA=
+MIIGrDCCBZSgAwIBAgIQC+ZU/fQr3q7irYlx8SpiVTANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAe
+Fw0xOTA2MTMwMDAwMDBaFw0yMTA3MTUxMjAwMDBaMIGWMQswCQYDVQQGEwJDTjEQ
+MA4GA1UECBMHQmVpamluZzEQMA4GA1UEBxMHQmVpamluZzEsMCoGA1UEChMjQmVp
+amluZyBEb3V3YW5nIFRlY2hub2xvZ3kgQ28uIEx0ZC4xHjAcBgNVBAsTFVRlY2hu
+b2xvZ3kgRGVwYXJ0bWVudDEVMBMGA1UEAwwMKi5kb3ViYW4uY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtL3I8GzT+x7YpLynqWHomL0eG1wLKexW
+h6VngjJZNqbfFrVpuzgGJy7Cx+ZZ3yU9C/SruwzWJcBjzmPVe0I+j4laXIZGVrNy
+UfAp6UPNclvG5EBzPZCPu1wzezBci3ts+EVcVp/G3df2whr/rqLFVNUIbY66YgtZ
+PO1jUtlddXQFqHM22+UvXjaA2csq625J1koquO2su0L42dnU2vG+jLwfRCvMGoBp
+R08W2Xek+PM0KMRT7HRxHy7wXPFgfIHTcUAhUtOMrWZR3pPTIUw912t0Q7wtcBcK
+/PulcuPvSwkn8zcUNc1+s9gSDuHoG6//VH944HsqFrTZOQ+jzDtKgQIDAQABo4ID
+KzCCAycwHwYDVR0jBBgwFoAUkFj/sJx1qFFUd7Ht8qNDFjiebMUwHQYDVR0OBBYE
+FOLfC6uRAJyO9g332q3FM2n9WmC1MCMGA1UdEQQcMBqCDCouZG91YmFuLmNvbYIK
+ZG91YmFuLmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jZHAuZ2VvdHJ1c3Qu
+Y29tL0dlb1RydXN0UlNBQ0EyMDE4LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwB
+ATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgG
+BmeBDAECAjB1BggrBgEFBQcBAQRpMGcwJgYIKwYBBQUHMAGGGmh0dHA6Ly9zdGF0
+dXMuZ2VvdHJ1c3QuY29tMD0GCCsGAQUFBzAChjFodHRwOi8vY2FjZXJ0cy5nZW90
+cnVzdC5jb20vR2VvVHJ1c3RSU0FDQTIwMTguY3J0MAkGA1UdEwQCMAAwggF/Bgor
+BgEEAdZ5AgQCBIIBbwSCAWsBaQB2AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3
+zQ7IDdwQAAABa1AWYssAAAQDAEcwRQIhANWs0lMwjSyqRoP6gFxexocVJtj80Q9V
+FyDqY7uzfNdXAiAvtszghJuyiCAdvRaHKVAREuXWlWG3razRUQRDS3kYuAB2AId1
+v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABa1AWY2cAAAQDAEcwRQIh
+AKRUEDOEPcWmNLqbq5616QoVjfG4yQmhiDbXsslcjLr0AiB8VRE2YKu11BqP8ijR
+vPwn+q6oFdtsC+1iDpHmj1YoIAB3AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/T
+M5a1toGoAAABa1AWYnAAAAQDAEgwRgIhAKLnUEZVYM0J1VOVwViYV6klxk4IgSvU
+wyX1Ng6/CF/3AiEA7/5FWMwu+stdJuM9Rw/mb9431qbbGbiAqjXhmDYFD6IwDQYJ
+KoZIhvcNAQELBQADggEBAFLh+A2V+NYtF8JdUHzuz2abChp6jK4kzUIrJjjwzD8D
+6WNEYVKt3Esr8WA/eL4qJEXUnaj0S28DLySTWsv42gjMwzmWN8tQdN8v/j7FJGvt
+GIcJUbAGL6oEupxDGUuICjnF9B54dmeJOmlLLPEFIeBGRuIGdxFBq9gG45fKWNYb
+/iaCDnDdIdRJtfi9AAxSLoxjsPgcYmM7Lev82dzRZvyjAmYOXaQ0WZgcj0wg6nlx
+ewnk9y6URliXL/aVyPnXDf3pWdHv5FDMP0hgCJvtGqj/sB2/Ptgr03DRnGdHg2Rr
+TypX1LeNTGEF17O6OkR5rQQmAU+GYJeL41VwSZl22Zk=
 -----END CERTIFICATE-----
 subject=/C=CN/ST=Beijing/L=Beijing/O=Beijing Douwang Technology Co. Ltd./OU=Technology Department/CN=*.douban.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3081 bytes and written 434 bytes
+SSL handshake has read 3519 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -55,28 +62,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 7456A873EFC9DB6E34E88641EE4E8875430A7B1C9EFB873A53F318AB342B2E5E
+    Session-ID: B642EE390EAEEAF86BEE58902689A430A3EE87BBAB727AD13CF20E940FBEACC2
     Session-ID-ctx: 
-    Master-Key: E5C76978135E0C17D5D834814DC7684E94030D0F6F2932C926992888F02A14043417E80C20D7FDE15C9FEBB1A5B46803
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 032F7EE89BA6878371F509B877CA5D6140839D6322F82A613B18EE910AF749FF4F680E21773A1B9C7DADC94743D6CECA
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - a3 52 f0 9c 3e f4 fe 7b-ee ed e9 58 ea e2 9b 7b   .R..>..{...X...{
-    0010 - 72 46 fd 3a a5 e1 ef 87-3c 6e 3f 7d eb 57 9b 2f   rF.:....<n?}.W./
-    0020 - bc 4f bb f7 20 63 cd 54-17 24 ca 30 86 51 c4 6e   .O.. c.T.$.0.Q.n
-    0030 - ba 90 eb ba a4 8f cd bc-25 56 83 da 6f 56 66 de   ........%V..oVf.
-    0040 - 9a 3a 51 56 f5 9f 76 90-c1 17 cd f8 e8 ae 3a 6c   .:QV..v.......:l
-    0050 - c5 9b ba 7c d1 f5 bc 55-7c d1 3e 74 57 41 0c 58   ...|...U|.>tWA.X
-    0060 - bb 91 16 df 79 99 3e ee-92 48 1c 9e 76 5b fe 48   ....y.>..H..v[.H
-    0070 - 8d 9f 10 50 5f b5 0c 37-1e df be ba 00 3d cf 24   ...P_..7.....=.$
-    0080 - 28 84 63 fb b9 0c 57 cb-04 4f b9 f8 ac e6 73 e0   (.c...W..O....s.
-    0090 - 01 c5 f3 1d 55 a8 a0 ee-84 96 68 4b ea 3a 16 e5   ....U.....hK.:..
-    00a0 - a7 69 87 eb 17 42 b8 04-ae 1d a5 0d be 8b 52 4f   .i...B........RO
+    0000 - a0 a0 10 56 61 33 74 4f-77 b1 40 53 00 6b 59 fe   ...Va3tOw.@S.kY.
+    0010 - 16 3a 9c 13 40 d9 46 da-05 0a 96 7c 14 50 2e c1   .:..@.F....|.P..
+    0020 - 4b 44 a4 e6 aa cc c1 50-01 07 c9 5d cf 5b e9 e8   KD.....P...].[..
+    0030 - 9e 31 b2 d9 e6 dd 0b a7-7b 33 cf 1b ce 62 d8 dc   .1......{3...b..
+    0040 - 04 07 4e 5e 0e 5c 82 86-75 4c 99 dd 91 14 46 22   ..N^.\..uL....F"
+    0050 - 74 44 88 4e 65 af 4f 02-99 ec 92 9c 96 bb a7 cc   tD.Ne.O.........
+    0060 - f1 76 b5 c7 2a 4d 4b 11-a4 d6 84 f3 94 5b 86 09   .v..*MK......[..
+    0070 - dc 84 a4 fe 8d 7a 1d 49-b8 3d a0 5b 5c 6f 20 57   .....z.I.=.[\o W
+    0080 - bb 36 e9 4b 0f 15 dc 90-11 82 6c 03 74 07 85 59   .6.K......l.t..Y
+    0090 - 80 68 ab 6c 32 f9 1d 43-1e 9c ab 87 15 cc 57 03   .h.l2..C......W.
+    00a0 - 6a 21 f4 6f 4e 0f a5 c1-ad fa 98 66 4e 02 2b 11   j!.oN......fN.+.
 
-    Start Time: 1472788214
-    Timeout   : 300 (sec)
+    Start Time: 1577475012
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

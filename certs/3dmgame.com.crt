@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=3dmgame.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXzCCBEegAwIBAgISA0u8kfp9A0jG1g625JKDmayCMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMTYwMDQxMTlaFw0y
+MDAzMTUwMDQxMTlaMBYxFDASBgNVBAMTCzNkbWdhbWUuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwG6WS3Y25dHN9NBMd2wjtGZCIUaMvz6LpYLk
+pqZQGSAb7BDMnV7HjqfIqJ6K7095Yni8r932dZpv6wlgws1OIwN2/K3fpM2Fwqxz
+69P2qjjJ8LpGw1aFDMpzYWzyikq5tzxgPtN4wFJ8CYPF/6COKyUow1tXXG3y+Atm
+S6f5UKoMaT9+Equ6DEPyVfVf25ooVX+OgH24sXtsgaWRhLgcNAF33J9xfc+4hODl
+ABybj7o1Eb+Ns9vutsISzH8HZtxx2qDTrJU3OT34VsjAjev7Xol9scKLGvK1tozj
+py/y7jaCeEkHwF49QaXTgGWS56te/j6gs9D+C+iWB/d/0YCBEwIDAQABo4ICcTCC
+Am0wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTdLG+XAyAgV9TUUDBCKNQewoQiPzAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MCUGA1UdEQQeMByCDSouM2RtZ2FtZS5jb22CCzNkbWdhbWUuY29tMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcA
+8JWkWfIA0YJAEC0vk4iOrUv+HUfjmeHQNKawqKqOsnMAAAFvDF3rgAAABAMASDBG
+AiEA6Enx/wi9R1xuqcnLOACn9m2bPU7fyHEup6tCrjwAFCECIQC3FnVier9sfLhM
+qMwuyVtnCyC5M4LesH1KFJwLCNzNAwB3ALIeBcyLos2KIE6HZvkruYolIGdr2vpw
+57JJUy3vi5BeAAABbwxd63QAAAQDAEgwRgIhAMcfnQznIAZQveROqiVQIOSXUbGC
+KaFQRB/VeE+svX4jAiEA540GeerhgX+hxE+rjpZV78nMFdkKDbAhUb7KYXvOXPYw
+DQYJKoZIhvcNAQELBQADggEBAHvJzIA7HdLPuvNiwcIpr0q/Zqf0P5xSssewJMjJ
+NaGxNXg2EaDsnrzXqzE2GtYdLVPhvmSR9/N4cyQvd+O11WCIFqnjxa2bU4kB4pa4
+wxZRPEfweq4jHvqAPliuUwIUSFb0rhlzWPluYtPPdb1TmmpPxWmieQjsaHzFdxXM
+3rY2JZ+tjV4wMNFmkvwiLTMScFzKjrLI426TOE6Tad2vOsUvD0yIRpmnQ37j8tV0
+aQGCB3OG5o1bDOhpHu3rAeb02wLevXsn/f4uB1gkIcCTLdfKHNHr5sk96XVS4hYb
+9PQVp4BLZpHjIVjHe+4v4+xnaDD6Dqh+wvk8Bcc5gya2XaQ=
+-----END CERTIFICATE-----
+subject=/CN=3dmgame.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 3193 bytes and written 289 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A67387BF06A5C6380CB051D97249E1E5942E917EE490D76F324254A91904D4FF
+    Session-ID-ctx: 
+    Master-Key: 0C10CB505AA98E7D85178A0C33C45FB8B0D88071BAE0C5B2AF58E4DE64E1A2E0F1BAD1768B1803518180E99DACB5ED0D
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 1a 29 d5 7b 7d ab e6 55-71 2a 34 85 3a 51 f7 88   .).{}..Uq*4.:Q..
+    0010 - 0d a8 36 c9 5f 12 6c 0f-e9 17 00 0a 2b c8 21 0d   ..6._.l.....+.!.
+    0020 - 80 4f 97 94 dd 38 bc 88-81 d2 e0 89 18 02 a0 6e   .O...8.........n
+    0030 - d3 95 66 51 ac f3 dc f6-e6 a6 75 89 f6 f8 4b 18   ..fQ......u...K.
+    0040 - ef 77 2f fb 0e 0d 50 50-16 b2 0d 0b 01 93 c7 5a   .w/...PP.......Z
+    0050 - 17 b0 d0 22 21 22 42 32-84 12 a3 92 39 24 62 4b   ..."!"B2....9$bK
+    0060 - 1d 83 5b aa c3 40 2c d1-76 a4 2b ca 2b fb bc e9   ..[..@,.v.+.+...
+    0070 - e4 23 96 e3 d2 f0 77 5e-78 9e 34 ae 13 d2 13 e0   .#....w^x.4.....
+    0080 - 9e 40 3f 0e b8 94 1b b9-11 15 ba 25 83 26 70 2d   .@?........%.&p-
+    0090 - 92 ee 00 47 8e 91 49 db-28 45 00 67 3e f0 71 8f   ...G..I.(E.g>.q.
+    00a0 - f9 9c 4e 39 37 da bf e7-9f bc e7 99 2d d0 2a 7a   ..N97.......-.*z
+
+    Start Time: 1577475183
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

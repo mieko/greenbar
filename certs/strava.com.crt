@@ -1,4 +1,4 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
  0 s:/OU=Domain Control Validated/CN=*.strava.com
@@ -12,43 +12,42 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFHTCCBAWgAwIBAgIHBF8IIOzn7zANBgkqhkiG9w0BAQsFADCBtDELMAkGA1UE
-BhMCVVMxEDAOBgNVBAgTB0FyaXpvbmExEzARBgNVBAcTClNjb3R0c2RhbGUxGjAY
-BgNVBAoTEUdvRGFkZHkuY29tLCBJbmMuMS0wKwYDVQQLEyRodHRwOi8vY2VydHMu
-Z29kYWRkeS5jb20vcmVwb3NpdG9yeS8xMzAxBgNVBAMTKkdvIERhZGR5IFNlY3Vy
-ZSBDZXJ0aWZpY2F0ZSBBdXRob3JpdHkgLSBHMjAeFw0xNDA4MjgyMjE5MTFaFw0x
-NzEwMjAyMzA1NDdaMDoxITAfBgNVBAsTGERvbWFpbiBDb250cm9sIFZhbGlkYXRl
-ZDEVMBMGA1UEAwwMKi5zdHJhdmEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
-MIIBCgKCAQEAq/2BXCS2rRBD8RP/vPWog9jmRdpFbOdFWhuEE4wOX1dlFSE4Z7BC
-tFQhReAcjIA5vxBShlRaiNab4iDqwhDUGAxrHSu/6l957G0Zigkgwf7TOMMp0bg/
-Oexs1c4/I5dMp/fphFlc+lS9jyad1raNV5ev0D3VhpINxnULU7KSN7COkYmWjMtj
-Xl9QE5sa7VV43PBxfYkf09hQMwn3v+4I9tuOWC/p4ruXe/EexzKMHvRleH8rj5Eg
-9RjAyfjUSHzNbkNvBzUeLtBQSDNdLl1zOJvsCK+6Od7R9BF24+UzWQ/2FZ1eAN2J
-bVUEiI6DeZdJZMr+qoIWHRqboTptvBFxeQIDAQABo4IBqzCCAacwDAYDVR0TAQH/
-BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDgYDVR0PAQH/BAQD
-AgWgMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jcmwuZ29kYWRkeS5jb20vZ2Rp
-ZzJzMS04Ny5jcmwwUwYDVR0gBEwwSjBIBgtghkgBhv1tAQcXATA5MDcGCCsGAQUF
-BwIBFitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkv
-MHYGCCsGAQUFBwEBBGowaDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRk
-eS5jb20vMEAGCCsGAQUFBzAChjRodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHku
-Y29tL3JlcG9zaXRvcnkvZ2RpZzIuY3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz
-1/tss/C0LIDOMCMGA1UdEQQcMBqCDCouc3RyYXZhLmNvbYIKc3RyYXZhLmNvbTAd
-BgNVHQ4EFgQU+D1GTPPqIxQwBkJwh1iGgRmQucUwDQYJKoZIhvcNAQELBQADggEB
-AIJopPh7g+s/q9qb5yWuRZTcGA4/PpRS1j6BuZ572HHH+6qNOZuJzslLlH1RRLJf
-8PfsA9iU0fvdb8ZOh15fL1AM7emidSRfKKibXS1Sn5BXKoO17020vyFI8moIcxPN
-i2JhF6OlTpICI6TuAwusHHLwg9dQ9zcC0Q3O1X+0bJahJRE/IPccxNaiD2DWHjQa
-BRuyTwGxviN8uOPETom5qcNDjaxcOrE6sRNq8PGK16u5wgJpXutnX+Z1Fz7/ijp7
-t7XSHYFnst6bhGAmJfibY220UbiCc1BIIJxtKG7GOLmpu7kbO6S1JlVuCO6e/4WB
-dV5nsXaNnN/bvHQBnXm8Dy8=
+MIIFKjCCBBKgAwIBAgIJANHNnQ5ngiLzMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTE3MDgxNDE2MzcwNVoX
+DTIwMTAyMDIzMDU0N1owOjEhMB8GA1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRh
+dGVkMRUwEwYDVQQDDAwqLnN0cmF2YS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCr/YFcJLatEEPxE/+89aiD2OZF2kVs50VaG4QTjA5fV2UVIThn
+sEK0VCFF4ByMgDm/EFKGVFqI1pviIOrCENQYDGsdK7/qX3nsbRmKCSDB/tM4wynR
+uD857GzVzj8jl0yn9+mEWVz6VL2PJp3Wto1Xl6/QPdWGkg3GdQtTspI3sI6RiZaM
+y2NeX1ATmxrtVXjc8HF9iR/T2FAzCfe/7gj2245YL+niu5d78R7HMowe9GV4fyuP
+kSD1GMDJ+NRIfM1uQ28HNR4u0FBIM10uXXM4m+wIr7o53tH0EXbj5TNZD/YVnV4A
+3YltVQSIjoN5l0lkyv6qghYdGpuhOm28EXF5AgMBAAGjggG2MIIBsjAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8BAf8E
+BAMCBaAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5nb2RhZGR5LmNvbS9n
+ZGlnMnMxLTY0OS5jcmwwXQYDVR0gBFYwVDBIBgtghkgBhv1tAQcXATA5MDcGCCsG
+AQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRv
+cnkvMAgGBmeBDAECATB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0aHR0cDovL2NlcnRpZmlj
+YXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNydDAfBgNVHSMEGDAW
+gBRAwr0njsw0gzCiM9f7bLPwtCyAzjAjBgNVHREEHDAaggwqLnN0cmF2YS5jb22C
+CnN0cmF2YS5jb20wHQYDVR0OBBYEFPg9Rkzz6iMUMAZCcIdYhoEZkLnFMA0GCSqG
+SIb3DQEBCwUAA4IBAQCZz3xsPOS0VOuVXqZSHAzExyPEj8acbAmqEJYUfVopkZRS
+8WOOSRv0uii/8E0hWM35DRghqlYcsNRZ+Zi1TWEhEPAuk/7LZsIlIf8MZ7Uzm3Bk
+W4QgeXIzBNuFvWJ5iEHR1+Hof4qyws/e+NyClb1lXCb7OU+eN4ueqyF4RjTv5th2
+OPW8A10fMcmpZt7yndREPzs/MqJ53w3w7VJzwdpim/P/23oEhLoGlwUZRZtGq0oc
+pM2qPUZOY6QkAejgfow8KcOV3wmHVWi9WkRd/ilMFfhwc3RTWE1t48WvrW+rUAwA
+EOM0rDYg/q/ho4h/DileSPqGaU0RvLm0imO9U0HJ
 -----END CERTIFICATE-----
 subject=/OU=Domain Control Validated/CN=*.strava.com
 issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5393 bytes and written 434 bytes
+SSL handshake has read 5422 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -59,27 +58,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 5917ADA6AE1117E379D8B38A91CF4398DA1691034E50D51826A6464A508991C7
+    Session-ID: 2284BF53A8D7E47E7B43058C440E853836E522594AB55708B00E1835E0F040A6
     Session-ID-ctx: 
-    Master-Key: 0C261856A21DD81D9221E41B8E302EAD1168E3A1F0DD7FA3B90C0AC711505AADF3B1C329FD77FD1F41F2F09C23F69762
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: B062DE0ECE579726286F5A4EB7D5511A8E5F3DB931B6F804D01102F5BC9912204F7F14239D4896022564752B15BC6D7A
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - a1 7d 66 bc 87 ba c1 c6-ff b3 12 5c 04 6d 70 fe   .}f........\.mp.
-    0010 - d6 55 9f e5 a3 04 b1 c5-93 fd 1a 0d ab f7 1c ea   .U..............
-    0020 - fd 40 0d 4a dc ab 75 37-dd 4d 61 96 ea 73 cc ec   .@.J..u7.Ma..s..
-    0030 - 23 f0 c1 2a 59 45 47 e0-91 81 68 7c 37 ea 75 e2   #..*YEG...h|7.u.
-    0040 - dd ea 3f a1 3b cb c8 f1-24 f1 8d e6 ab 6b 54 ce   ..?.;...$....kT.
-    0050 - f0 ee 27 c8 d5 2a fe f9-d4 da 47 aa 77 84 58 b9   ..'..*....G.w.X.
-    0060 - 78 0b 23 19 f3 fd c9 6b-fa 5e 6b 4c 4f 7e 48 ec   x.#....k.^kLO~H.
-    0070 - 0e fc 29 d3 be 2b 17 4e-38 b0 e8 ee 15 19 70 b7   ..)..+.N8.....p.
-    0080 - 52 4c de 24 12 bc 91 03-df 68 8c c8 e9 48 08 ad   RL.$.....h...H..
-    0090 - dc b6 0d f9 69 6b 4d d9-5d 62 3d e0 ce 61 cc e3   ....ikM.]b=..a..
+    0000 - 89 5a 5e 0e d0 10 98 dc-8b a1 5b b3 28 a2 22 1a   .Z^.......[.(.".
+    0010 - f7 04 78 5d 49 b2 83 ab-e8 2c 8b 13 e5 c8 20 5d   ..x]I....,.... ]
+    0020 - 9c 70 09 f5 60 f7 7b 65-ae 7e 51 c6 86 f1 c5 11   .p..`.{e.~Q.....
+    0030 - 1f b2 fb fd 13 37 5b 7f-b8 5a a5 83 f8 b3 c7 16   .....7[..Z......
+    0040 - 8c 7e e4 91 e0 1a 2c 8f-41 e5 6d 80 3b b8 ae 4d   .~....,.A.m.;..M
+    0050 - ce 05 5b 81 ad 38 3b 44-50 93 e7 fd ca fe 55 ab   ..[..8;DP.....U.
+    0060 - b3 44 23 0f 92 04 85 7e-cd 8a 52 b5 b0 03 d3 30   .D#....~..R....0
+    0070 - 1c ad 95 7a 1b e9 b4 ce-26 9e 20 cf bb 9a 94 02   ...z....&. .....
+    0080 - b4 11 5f 0f e3 ff ea 73-b3 8f ff e6 53 3c a6 bf   .._....s....S<..
+    0090 - 50 5f fe 8b cd d6 42 7f-cb dc a6 5c fe 09 48 83   P_....B....\..H.
+    00a0 - df 07 da 01 29 cd 38 3a-9f 03 5f 48 18 9e bb ba   ....).8:.._H....
 
-    Start Time: 1472789463
-    Timeout   : 300 (sec)
+    Start Time: 1577475970
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,82 +1,23 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
-Certificate chain
- 0 s:/C=CA/ST=Ontario/L=Toronto/O=500px, Inc./OU=IT/CN=*.500px.com
-   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
- 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
----
-Server certificate
------BEGIN CERTIFICATE-----
-MIIFFjCCA/6gAwIBAgIQD+4pEe3acSxa+h5EY86nJzANBgkqhkiG9w0BAQsFADBN
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTUwNDAxMDAwMDAwWhcN
-MTcwNjA3MTIwMDAwWjBqMQswCQYDVQQGEwJDQTEQMA4GA1UECBMHT250YXJpbzEQ
-MA4GA1UEBxMHVG9yb250bzEUMBIGA1UEChMLNTAwcHgsIEluYy4xCzAJBgNVBAsT
-AklUMRQwEgYDVQQDDAsqLjUwMHB4LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
-ADCCAQoCggEBAL0nyA+EGVTB4JBOhhugE9wzgxp1ltQjiw3gt0rGNd63SLQz4hrE
-EMFChgJ0OAyF3YGEaQu54imL/uRWpV2gZjT6jrxEKvTy/r9mJFSIbrDTDAwf9iU7
-ZpT5ijuyFmv5cEzDtOmax86bhhjSp0IsO3NZP2PAbsxO7Nf9lbCwOLBWIkrLYWKa
-ECje100V9wB86qOQ5Fb9BvEKf3+p36ukxwZ6Lz7Djk+WD1aYQkVSzgJhvN+7ozrH
-2s7n/hmERx9SWC/UgDSQW1+nWfvwbodKRtuBaTBxE4IQgQOhVRtoQ2UrsH6ZRK4F
-dJ/qsv4T+jZxfsLt0QxTqO8p+IQ5TMvoki8CAwEAAaOCAdMwggHPMB8GA1UdIwQY
-MBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBSUyRWBAj7Io8jSvkuJ
-QjLAvofyRjAhBgNVHREEGjAYggsqLjUwMHB4LmNvbYIJNTAwcHguY29tMA4GA1Ud
-DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0f
-BGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1n
-My5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTIt
-ZzMuY3JsMEIGA1UdIAQ7MDkwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0
-dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwfAYIKwYBBQUHAQEEcDBuMCQGCCsG
-AQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0
-dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2
-ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAaRgAREnN
-U5MoS1f8GM7RDS4o6EEBdgx1hlyB6fNjPY5ifCyOeBg4pHtAnpNbOkoEYKxxDQF0
-lf7Clv+TfAafzkBhjRC9ZyUDlI/YVc+2IfvLTyhqG5nq1XQHoX/PkfRvEznqTJZR
-1UIqNyqK8H2ZtwN87H6Kj358cESasQmqTJyZbmqLn4EDaVuxlswulE1o9kkcnzoy
-sQSQ9QhEwLpAjezxHFRtpkf2JVEmp/KDp7AjHStYK9dj1D8upj2Bfr/DcTicqIHp
-/VHK0WEsj0P6KGU4oCItgoflax94hoVD95R/Zw43v0E9lGsgefb1sYfC13DNgzVs
-W6bodmofqavpfw==
------END CERTIFICATE-----
-subject=/C=CA/ST=Ontario/L=Toronto/O=500px, Inc./OU=IT/CN=*.500px.com
-issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+no peer certificate available
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3160 bytes and written 434 bytes
+SSL handshake has read 7 bytes and written 0 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Server public key is 2048 bit
-Secure Renegotiation IS supported
+New, (NONE), Cipher is (NONE)
+Secure Renegotiation IS NOT supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: DCB31C33FF871FE854728030D799CACC5638DF50514D648AC78188A0A9BD1BD8
+    Cipher    : 0000
+    Session-ID: 
     Session-ID-ctx: 
-    Master-Key: E2A58BB345B7F0E6586F94F9C012FE6FB81D057DFB0E46E21C5D114F31C9F4A2C629826BDBAC6A78C13F9CB295380B56
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 3600 (seconds)
-    TLS session ticket:
-    0000 - f2 fb 57 98 81 cc 47 07-da d3 35 8a 71 81 15 66   ..W...G...5.q..f
-    0010 - 5c bf 6f dc c1 22 26 8e-51 fe 30 ae 8d d4 fd 8b   \.o.."&.Q.0.....
-    0020 - 77 6b 2a eb 9c 3e 1c 3d-69 f1 8c c9 7b 39 65 e9   wk*..>.=i...{9e.
-    0030 - 38 15 2d 0c 49 22 6e 62-72 7c 75 1b aa cb 96 ab   8.-.I"nbr|u.....
-    0040 - c7 2b e9 0f 17 3f 31 be-45 fd 29 18 4d 96 05 69   .+...?1.E.).M..i
-    0050 - 1b a4 4b 5d f4 3e 0a 9d-97 f7 ba 3d 15 e3 81 1d   ..K].>.....=....
-    0060 - e2 01 3e 27 f6 8f 1b 6b-02 92 c0 2d 17 d5 6d e2   ..>'...k...-..m.
-    0070 - fe 94 98 5a 85 45 7f 63-62 42 07 05 80 e0 3c 82   ...Z.E.cbB....<.
-    0080 - 6e e0 7c 9c d6 41 71 c3-41 d2 0d 56 1e 7a 09 4d   n.|..Aq.A..V.z.M
-    0090 - 10 87 3e 21 6f 6e 6c 3f-97 3c 74 ff 3b da 39 28   ..>!onl?.<t.;.9(
-    00a0 - 74 95 38 2c 15 38 80 3c-d9 8b df 98 d0 90 a0 c7   t.8,.8.<........
-
-    Start Time: 1472790091
-    Timeout   : 300 (sec)
+    Master-Key: 
+    Start Time: 1577475925
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

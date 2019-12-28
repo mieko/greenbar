@@ -1,46 +1,58 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=Los Altos/O=Box, Inc./CN=box.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G4
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G4
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=US/ST=California/L=Redwood City/O=Box, Inc./CN=box.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-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
+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
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=Los Altos/O=Box, Inc./CN=box.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G4
+subject=/C=US/ST=California/L=Redwood City/O=Box, Inc./CN=box.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2870 bytes and written 434 bytes
+SSL handshake has read 3613 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -51,27 +63,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 002D91E2CE7CA84CB8B1C9529053F8BA9F563E12A35D51A03BF5F5AE64A78880
+    Session-ID: 8B82BDDE7BB5538C4A09CD05CFC3EF6D57C9A4971851C78BA05CF9A7A17FDC32
     Session-ID-ctx: 
-    Master-Key: DA31D483C9A006EB742A2E7D0AEB2CD9DCF2F20EBC62666516E457875A43BB3419018C059D22298D70525637430A07A7
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 6518FA339AF7594D4CE492F64B9BDE7151D461B915AEB6B722731B9A5E8DD7BC1FDB9A62A6839CBC5FD5348E67E14A3B
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - 1c 5e 00 ab 92 dd c5 09-96 d3 78 ea 20 c2 39 12   .^........x. .9.
-    0010 - 1f 18 2e c1 26 99 b0 f8-bc c2 f9 22 40 d7 f8 18   ....&......"@...
-    0020 - 67 68 0c 47 b2 2b c4 5c-b3 d9 8e a6 40 70 c8 45   gh.G.+.\....@p.E
-    0030 - b2 e5 06 1f 18 af 5d 32-f4 0a d3 35 e8 82 4d e2   ......]2...5..M.
-    0040 - 2b c4 b9 42 08 a9 4f 87-7b 21 90 4d 64 0f 35 da   +..B..O.{!.Md.5.
-    0050 - d0 f4 75 d7 ed ca 3c bb-7f fe 4a 62 e3 01 2c b7   ..u...<...Jb..,.
-    0060 - 51 d9 03 52 7c 97 45 0b-65 e5 9d 67 25 59 16 8b   Q..R|.E.e..g%Y..
-    0070 - 08 c8 5b 75 77 f4 ef ed-98 0f 80 23 46 50 3e 53   ..[uw......#FP>S
-    0080 - 2b 6a 4f a0 44 35 a0 e7-ef 39 6f 64 3e 5c 8c 3d   +jO.D5...9od>\.=
-    0090 - 24 59 58 08 ac 76 88 dd-40 1e 72 4d 41 8f 98 06   $YX..v..@.rMA...
+    0000 - 25 37 dc a2 cd 98 dd b6-90 19 4a 95 f4 ca c8 5b   %7........J....[
+    0010 - 0a e0 cf 1f 04 e3 c5 56-35 6c 52 71 ea 23 4f a8   .......V5lRq.#O.
+    0020 - 16 dc 67 94 c7 31 7f c7-6d 47 b8 9d 8d d1 8d f1   ..g..1..mG......
+    0030 - 4e 59 bd 8a 23 e3 90 41-91 79 24 fa 5d 0b e5 7e   NY..#..A.y$.]..~
+    0040 - 2e 8c 52 11 ad 97 a3 df-ea fb b8 4e d4 99 d3 0f   ..R........N....
+    0050 - b0 75 95 ba c2 99 d3 a3-0c 66 cc d4 13 99 66 aa   .u.......f....f.
+    0060 - 92 02 89 88 6b 6a 58 82-54 cc e4 8e cf a7 36 32   ....kjX.T.....62
+    0070 - 74 04 a4 c8 c3 2d 07 e0-03 ac 2f cd 54 ed 96 5c   t....-..../.T..\
+    0080 - 26 af b2 3f 25 53 22 43-4f cf 3a f8 e8 7c 96 98   &..?%S"CO.:..|..
+    0090 - 90 88 20 c7 42 2b 9f 37-1a d3 85 3c ff c7 e6 9f   .. .B+.7...<....
+    00a0 - 6e 58 e0 d7 4c 26 7b b6-cb e3 42 d9 64 dd 95 46   nX..L&{...B.d..F
 
-    Start Time: 1472788303
-    Timeout   : 300 (sec)
+    Start Time: 1577475645
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=telugu360.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZTCCBE2gAwIBAgISA/vuaYFQxP2yiAYZo0vGG36sMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMDIyMzAyMThaFw0y
+MDAxMzEyMzAyMThaMBgxFjAUBgNVBAMTDXRlbHVndTM2MC5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC/vTHV6Wasg3ipNNKIRPJNQlxv7DgkoRoM
+kWG0cJhZ1Zjj9YZ/Nc7HZ0Mb3QqIMjK1zrjjo2yT59kRYGkcOVsLwPK4yOgupObX
+sIu3+2kyy+4zTU6lZWinHHm1ArKNU1RZhCeeX+1+62+P2F7K2O4u+asp8oLjy3++
+WSObuLylFaKXVzvtqXI/r98aGGfl3pr3/f2XMtRzFmN4CnjSbVPkjvni+qDdFMo4
+Efc089p3yV929RJbMrvvFe5nLLNw5jnbznjfXP5SY20BaTVvMa0cZPw0e2j2KdSm
+dnTbeaHkp5LPvo7hctCAlMKfTXD+vbRutkdSVEmHwdglN9UtjdUxAgMBAAGjggJ1
+MIICcTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDQEF0ODu2jeDqSOG3Np4ljkO1s7
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wKwYDVR0RBCQwIoINdGVsdWd1MzYwLmNvbYIRd3d3LnRlbHVndTM2MC5jb20w
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1
+BIHyAPAAdwDwlaRZ8gDRgkAQLS+TiI6tS/4dR+OZ4dA0prCoqo6ycwAAAW4ukdKF
+AAAEAwBIMEYCIQCP4r874syYa6aOVT29g0SzkpT1GSFLANPc0ZkCChHbwgIhAM1k
+dmuxKj0UNQBtaTsc/paE556jwPIk58WCpi8Ldd3wAHUAB7dcG+V9aP/xsMYdIxXH
+uuZXfFeUt2ruvGE6GmnTohwAAAFuLpHSpwAABAMARjBEAiAXKMYw6iwP1a+0Tr5P
+YX7GNQdxXDSxKpiZgWctFOtn8gIgBh1bI78u03XqRHrV8Rn1D9Bu4xs6pG3HfjyB
+8FTT4towDQYJKoZIhvcNAQELBQADggEBAF2MJSpj45/rH/1kmEy9ztp9bDp88WUf
+9M+YSc7gErjRWKpDm+5n5acuJNYa47P9B/0ITHOT/OG+lvXrwQk0UTHBeS6p+g5P
+Njq1zsrlWUk3OkJ3V2qjs1RzYMlB0EhSIwAy8X57oNSUeUX55RpnMs48ce4Y8ye0
+ezLc9DiXsKpUqhfAvKbIZ6SausFMj8s109E9Q2FCxKwT010Ul4UHFSsnXdpeaXQI
+08SMczSWQdHkK8IaUPH9+WkqgdaNHLCxQXzEL9S8yMngpENgp08JU6yJWgYt3f4Z
+dV/FyGSeaMt1eB7YfM8psPCafA53GYgZGdX6SscaTlkAtD/GU+l08ds=
+-----END CERTIFICATE-----
+subject=/CN=telugu360.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3232 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: A1B95EB10E885136724F46B80F5F76966997F8EA61B2E7EA8C63DC5DCEFE677B
+    Session-ID-ctx: 
+    Master-Key: 109974C626B1CD01EE8C6F3139F5BEB0F4D0F70158E681872B449BC5F3EBB5C581622F71B25D8F672686D5747EED8C93
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - e0 8f 55 58 e2 9f 86 20-a8 46 69 57 6a b6 7c 64   ..UX... .FiWj.|d
+    0010 - 27 be 4b 0e 5b a4 d9 5d-58 52 16 6a e6 68 1a c1   '.K.[..]XR.j.h..
+    0020 - 12 7c 16 75 b9 ee cc f4-61 54 4f 34 90 9d 09 2a   .|.u....aTO4...*
+    0030 - 07 d5 8c 38 3e 23 f0 1b-8b e8 31 a4 e9 4d 5c 63   ...8>#....1..M\c
+    0040 - e9 c9 bb 0b fa 73 55 77-3f 79 3a fa 59 7f e1 a9   .....sUw?y:.Y...
+    0050 - 7e aa c3 a9 c1 14 29 cd-28 4b 13 73 d7 9e 57 85   ~.....).(K.s..W.
+    0060 - d0 97 33 63 44 49 04 d9-18 43 41 f8 9e 2f 45 bd   ..3cDI...CA../E.
+    0070 - 65 46 74 f7 58 4c 7e 93-30 2e 2d a2 b4 26 74 e8   eFt.XL~.0.-..&t.
+    0080 - 08 6d c9 4b 49 31 42 ca-1e 87 23 12 67 72 c3 50   .m.KI1B...#.gr.P
+    0090 - 05 e4 7c dc 5d 58 a8 bf-1c 46 3d e0 0b 13 9b b3   ..|.]X...F=.....
+    00a0 - 18 96 35 27 bc 84 3a cf-76 91 22 75 90 23 d0 28   ..5'..:.v."u.#.(
+
+    Start Time: 1577475762
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

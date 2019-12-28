@@ -1,77 +1,81 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=San Francisco/O=CBS Interactive Inc./CN=*.cbsi.com
+ 0 s:/C=US/ST=California/L=San Francisco/O=CBS Interactive Inc./CN=*.cnet.com
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
  1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
- 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGXTCCBUWgAwIBAgIQCwvg/pVegipNUm3L40zowzANBgkqhkiG9w0BAQsFADBw
+MIIFVzCCBD+gAwIBAgIQBV01IW8HsK6dhW+RsJc1XDANBgkqhkiG9w0BAQsFADBw
 MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
 d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
-dXJhbmNlIFNlcnZlciBDQTAeFw0xNDExMTMwMDAwMDBaFw0xODAxMDQxMjAwMDBa
+dXJhbmNlIFNlcnZlciBDQTAeFw0xNzA4MjIwMDAwMDBaFw0yMDA4MjYxMjAwMDBa
 MG4xCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1T
 YW4gRnJhbmNpc2NvMR0wGwYDVQQKExRDQlMgSW50ZXJhY3RpdmUgSW5jLjETMBEG
-A1UEAwwKKi5jYnNpLmNvbTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIB
-APj81QDdUvdw10feE8fMJhd7sL4ZW5tKVcTvP6VeoJcpeugWwrc1TdJY2NAyYFqT
-XH9bKWXc7XCqnL1l5+uMhp7owwf483YVHQe2SFHXiZSHzAuVlJIxwOSP3/I2onkF
-eDt/WvRmdJeCrb7ySMrXXtB2kTwabJ8o0cCRLRcs7KNctNowztZBBu74DflVhfZI
-KCOqycJjWF2sKZIl8TAKPGuJP7XI2QKQN8xJR0Iw3VYqiq4Ha5HImA8sgImqMyFE
-uoFA07TPDh59qwUxxkJ0yzG9JWUjrxhf1rUFGRuDNSpgh3h0ljPL1pT4tFsL2Ry6
-3sXSA8OX30vbwOvDUaEpB2b6MN9V5p7VDA6xaQTTikcmrumypGljnGxrlZEPpKZF
-4vXYPg5Uqtz4NHmKGd9vBZs+VpnLB5uC/0FI6hTIzpCOhCwVxL/EhVsiYm5cTxdw
-FEiJAWQwGnZU3i+Tw5mnTW/nkq0KhPrOwKd/QTdKWDDaClyuwQqBfHCVDD8fhoLx
-GwS9SIZiaTvCsXFrSUGpokTs2UCSc1wvXVtVvRATaFwj24R6reqdUwfbA2oEhtuB
-ftj98wYsPbxnnS7V7RZAl6TRGgzsTSsFqZxYcjdylfp//CMyqMLETOIsN5+J4Q9q
-vrcJi82A6vntl7WwrW6jBszcbl5K7dnM1coHQPe7OFjVAgMBAAGjggHzMIIB7zAf
-BgNVHSMEGDAWgBRRaP+QrwIHdTzM2WVkYqISuFlyOzAdBgNVHQ4EFgQUYNQv7M+4
-s6JNGoXHtNDnpJEFuxkwLwYDVR0RBCgwJoIKKi5jYnNpLmNvbYIIY2JzaS5jb22C
-DmR3LnFhLmNic2kuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
-BQcDAQYIKwYBBQUHAwIwdQYDVR0fBG4wbDA0oDKgMIYuaHR0cDovL2NybDMuZGln
-aWNlcnQuY29tL3NoYTItaGEtc2VydmVyLWczLmNybDA0oDKgMIYuaHR0cDovL2Ny
-bDQuZGlnaWNlcnQuY29tL3NoYTItaGEtc2VydmVyLWczLmNybDBCBgNVHSAEOzA5
-MDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2Vy
-dC5jb20vQ1BTMIGDBggrBgEFBQcBAQR3MHUwJAYIKwYBBQUHMAGGGGh0dHA6Ly9v
-Y3NwLmRpZ2ljZXJ0LmNvbTBNBggrBgEFBQcwAoZBaHR0cDovL2NhY2VydHMuZGln
-aWNlcnQuY29tL0RpZ2lDZXJ0U0hBMkhpZ2hBc3N1cmFuY2VTZXJ2ZXJDQS5jcnQw
-DAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAhWBwXjJjDIcteS2Roet/
-9Lo3uZtO4ZjutGoPljYL3zBZdm1wVRbq2IYJ+TFU+E4+heHdTD5PlGtLty+ukCms
-jBqfswo/kX+ivmih8UMofZ0IaCMiaHsUVmtqFcW8DSHYabWfvIesapJOil23Chhv
-FNy5ncTpon4oXLQFUMxsiySevEh10oHg7luKiXi1dhJ9J8CtPOHSKc64H8vHWCU5
-GV2QIWcxXSTPSn+n8lks8eQ0id3GgxBoyvtDDJ8ecSuZonXUWnlcQJC0cbQltYu1
-cLQbY0PVmSOsNJC5SoSari+Za3O1d8r2EOnnQ3DclznBESsr/QIP82rCAYbPj1/x
-Yw==
+A1UEAwwKKi5jbmV0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+ANKmXcn+t2LdGG7pw67qV6PQ8Nnj2iLDD2cGJ8CtvoJGqxqTry/ty27dmqa0gWz3
+hTRlIJlCSeACfROmTPDBxs+B03twiNliaFdqorux/YWKFyQRUjNAacl+mSs51Apq
+Ld8m13MO19U6aKG37wYkSNJI56FwIlLCTGllclNRVmfr78VGluBw5AXG4MGTkns4
+VN/vbI/8M0105qXzo/KAmRiM5aMa1boPjn/Aeutxgh77V0U0B9s9NjyXLYiWO7Jx
+McBPP1tnAEMnrln5yZwwthAQmgoxojyyXhLYc6ZLsVJLKbpHvgJw8zp79QM1TB8T
+eUpQZINdSb9mCWo3t5V8PTMCAwEAAaOCAe0wggHpMB8GA1UdIwQYMBaAFFFo/5Cv
+Agd1PMzZZWRiohK4WXI7MB0GA1UdDgQWBBTvUqgHCgHp9M7Ae0uOvrXjrBfaiDAf
+BgNVHREEGDAWggoqLmNuZXQuY29tgghjbmV0LmNvbTAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCG
+Lmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nMS5jcmww
+NKAyoDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1n
+MS5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0
+cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwgYMGCCsGAQUFBwEB
+BHcwdTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tME0GCCsG
+AQUFBzAChkFodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEy
+SGlnaEFzc3VyYW5jZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3
+DQEBCwUAA4IBAQCBXaVaZ2sqDXGiomrj+fr8xgG3juxvn4lv2zjgYw52xeHRVNBd
+do4dLb1qFG35NFl1qi/PoKaEgKBXnU+YkDeQaLLYRHJ8pwvZUJtT54ArI056uq1o
+ltti+7bVgCS12RES8AVXM3hnvaamLVEa15crdFdPesdsree9+e3NKL9GR9zMxlmg
+iMc431rAiAEoJAIwgozBYEfdTxgTWXq9ZFfIERaDXQvhnSqYE0cmeYKGs/+OFnjo
+ZavUutARQiO1cSBsB2ulN8YFjIMYN5qjXsp6yB0+l+3Pe40OKSaQsXVGzHInMhj7
+deODaggwKItKtI51YE3uNS+Ht2tspCDSR713
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=San Francisco/O=CBS Interactive Inc./CN=*.cbsi.com
+subject=/C=US/ST=California/L=San Francisco/O=CBS Interactive Inc./CN=*.cnet.com
 issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA256
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4564 bytes and written 434 bytes
+SSL handshake has read 3243 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
-Server public key is 4096 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 56C65048D97B3369570E6C844444F2F4EEE1AB95EFDFFC254BD8A877D2DDF52E
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 5A5EBBD6253586413977BBC61EC7CEC01BDF2AFF3E1115DE51C246E9E003B602
     Session-ID-ctx: 
-    Master-Key: 68C2524480C965D09243F264C703D1ACB76D5F1362ED271F3766D3FBDD799B20B36761E3B6EC708CCA83D5FC7F4CB60F
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472787986
-    Timeout   : 300 (sec)
+    Master-Key: A2DD1D8B4BEC39CB5A770B1C8E90C5E6325E81BE6772201B9665BF54A8C725B4785E0741E9EEBA56B9CC52D6AD49C6C3
+    TLS session ticket lifetime hint: 100800 (seconds)
+    TLS session ticket:
+    0000 - 00 6c 3f f8 bb 37 03 74-3a 29 71 d1 47 4e 7b b9   .l?..7.t:)q.GN{.
+    0010 - 0f b3 6c 12 45 4d 29 23-a0 91 39 96 ce bb eb d8   ..l.EM)#..9.....
+    0020 - b8 a3 8f 16 d4 fa 64 3a-d1 71 f1 a8 71 17 d0 3e   ......d:.q..q..>
+    0030 - d5 03 3e dd a0 44 b7 e3-cc e9 79 5b c6 90 78 8c   ..>..D....y[..x.
+    0040 - e9 56 a9 6a ee 7f 9e 32-9d 7f 5c 82 1d 80 8c 84   .V.j...2..\.....
+    0050 - 61 f6 ee 1f 3b 33 c3 5b-05 a4 ab ba 84 26 de 5a   a...;3.[.....&.Z
+    0060 - b2 6b a8 71 fc b8 c4 5c-41 87 d1 59 6d e1 ea c5   .k.q...\A..Ym...
+    0070 - 72 3e 81 a6 49 44 9d 33-87 fe ee ad 72 44 38 4e   r>..ID.3....rD8N
+    0080 - aa 83 34 d6 87 0f 88 0b-99 d8 ea 21 6a ef 38 42   ..4........!j.8B
+    0090 - 8c b9 3c 3b 6c 67 77 44-9b 9e ff ba 31 0c 24 06   ..<;lgwD....1.$.
+    00a0 - ce 94 7c 39 2f 89 e6 45-90 d4 1d a9 9f a8 f8 dd   ..|9/..E........
+    00b0 - c8 86 fd e5 a5 86 3d 92-0b a7 e8 de 64 9a f5 f7   ......=.....d...
+    00c0 - 4f 76 8d 6f e9 ac ff 01-e8 0a ef 68 f5 7c e4 25   Ov.o.......h.|.%
+    00d0 - a1 96 f6 16 54                                    ....T
+
+    Start Time: 1577474853
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,66 +1,65 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/jurisdictionC=US/jurisdictionST=California/businessCategory=Private Organization/serialNumber=C1893790/C=US/ST=California/L=San Francisco/O=Autodesk, Inc./CN=ssl.instructables.com
+ 0 s:/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=California/businessCategory=Private Organization/serialNumber=C1893790/C=US/ST=California/L=San Francisco/O=Autodesk, Inc./CN=www.instructables.com
    i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
  1 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
    i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
  2 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
    i:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
- 3 s:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
-   i:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHWDCCBkCgAwIBAgIJAJYlfb74MvGGMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
-VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
-MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
-cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
-dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTE1MDQyNDAyMjkzOFoX
-DTE3MDYxNDE3Mjg0MFowgdcxEzARBgsrBgEEAYI3PAIBAxMCVVMxGzAZBgsrBgEE
-AYI3PAIBAhMKQ2FsaWZvcm5pYTEdMBsGA1UEDxMUUHJpdmF0ZSBPcmdhbml6YXRp
-b24xETAPBgNVBAUTCEMxODkzNzkwMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2Fs
-aWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEXMBUGA1UEChMOQXV0b2Rl
-c2ssIEluYy4xHjAcBgNVBAMTFXNzbC5pbnN0cnVjdGFibGVzLmNvbTCCASIwDQYJ
-KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMYbQLd+oZLpvcg+h9xokb5mxfeZ52tl
-X+NMIrgJvXUyXESLYA0qZ/q0HmzbHLtIcV1YrJ9sLeaPGqiLtXbdf4C5MzKKLFjk
-3eJ5R32KtK9RZacyQuMTjpPnjcN5iCdraiYst/KYBb5irCE/OFJ+rkmA5D7/2XvO
-XgV8MtcMaQ1W1yfqy9X/lDAcAq/njeoLFjnd12J3TBbF/0vuSCWXrtvTV+ca/1an
-4UxQVib5Rm35YarvTgpJpIuVCZAeAdQ+nBVkXTUmho7GpIwe4t8zeL9F94y8kAAr
-s2IZEKrITaCRXLeyUtqQCHNXuk7YhtdNWgaOurFnQw7JiCjUs7cJE4ECAwEAAaOC
-A0YwggNCMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
-BwMCMA4GA1UdDwEB/wQEAwIFoDA1BgNVHR8ELjAsMCqgKKAmhiRodHRwOi8vY3Js
-LmdvZGFkZHkuY29tL2dkaWcyczMtMS5jcmwwUwYDVR0gBEwwSjBIBgtghkgBhv1t
+MIIHvDCCBqSgAwIBAgIINY/Uv6bpvmswDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMTkwOTA0MTkzOTM1WhcN
+MjAwMTI1MDIxMzAyWjCB1zETMBEGCysGAQQBgjc8AgEDEwJVUzEbMBkGCysGAQQB
+gjc8AgECEwpDYWxpZm9ybmlhMR0wGwYDVQQPExRQcml2YXRlIE9yZ2FuaXphdGlv
+bjERMA8GA1UEBRMIQzE4OTM3OTAxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxp
+Zm9ybmlhMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2NvMRcwFQYDVQQKEw5BdXRvZGVz
+aywgSW5jLjEeMBwGA1UEAxMVd3d3Lmluc3RydWN0YWJsZXMuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0agVl2eFP9GoRqnwxINsshxPqWGFRss1
+kLg5UXVXQmS+11Bkvv20sgDDFVYRlIubnVa7vNPxJc5/7VJ4Pni420iHaOVj2R/b
+zeZaCPHK7yk5a3EFoHZwKEetCng9gm/6WGUM3t/tLGjFs4F7vU9396XG/3DEDTzR
+rRWIBkGLVsV3wG+pSPpplobuz1HiuQK5povs6+eKEZK1lZ4SxVm8nf45dcJhmrRh
+U9SxSZXKwfF8AukrxsQ19GwmUQoXkFs0lp/SrbsEdrz8XK935QYcMMnodkdm4ioM
+kHooL/C83wTT2cVj14NZgw1Vv1LBmhcXKuADDcQSlQQUtevQd8/VdwIDAQABo4ID
+qzCCA6cwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDgYDVR0PAQH/BAQDAgWgMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jcmwu
+Z29kYWRkeS5jb20vZ2RpZzJzMy0xNC5jcmwwXAYDVR0gBFUwUzBIBgtghkgBhv1t
 AQcXAzA5MDcGCCsGAQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHku
-Y29tL3JlcG9zaXRvcnkvMHYGCCsGAQUFBwEBBGowaDAkBggrBgEFBQcwAYYYaHR0
-cDovL29jc3AuZ29kYWRkeS5jb20vMEAGCCsGAQUFBzAChjRodHRwOi8vY2VydGlm
-aWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvZ2RpZzIuY3J0MB8GA1UdIwQY
-MBaAFEDCvSeOzDSDMKIz1/tss/C0LIDOMDsGA1UdEQQ0MDKCFXNzbC5pbnN0cnVj
-dGFibGVzLmNvbYIZd3d3LnNzbC5pbnN0cnVjdGFibGVzLmNvbTAdBgNVHQ4EFgQU
-KObuebtU3P0gdCmWpIJwIDNGM6YwggGABgorBgEEAdZ5AgQCBIIBcASCAWwBagB3
-AFYUBpov18Ls0/XhvUSyPsdGdrm8mRFcwO+UmFXWidDdAAABTOlD6BcAAAQDAEgw
-RgIhAOXF8QdoJ7WFOCJgWS7EXFLsB6qqKcUgo6yH9YMUocdOAiEA9eCYU2bkAIgF
-F0Qhexui8qI1kWnnOY8lkbkMJo+GsBkAdgBo9pj4H2SCvjqM7rkoHUz8cVFdZ5PU
-RNEKZ6y7T0/7xAAAAUzpQ+oxAAAEAwBHMEUCIQDUizc8uXWeQfxXvHACqMaU2c9X
-AbV8HE9ptCDolGQzFAIgCaMMtURaKs0ag1JSLHrLdJbNvlozn9S4C8AtBLJTK4gA
-dwCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAUzpQ+yWAAAEAwBI
-MEYCIQDXAGcj73DQCGK0n0hPpHPt9sQ8TTKbBTD1JdMSOmMtlQIhAMXoH0ohMMmH
-5xf1CjtbWJhOpkjZMW+kQ1ytGfVA0ezQMA0GCSqGSIb3DQEBCwUAA4IBAQAzSMfD
-Mr8LgvzyGZ4GN8uP1Lt+jwMqc6Owq+AzxFV3SIgZLEL19u9QJcOcC0bEtTvOFbdn
-KSp9QkWu9zeVfSxpMYgCCiqIlzgrwJDkaAJm1XSbhd0ZyviP2NvGwOoYGefLToDb
-js+cVigYavna5BpPFPL9KU5YE4MEdZHq2hVBR+TOR+Q0MtTVIfw6TwTJe1fYcN0y
-YA0Y23MEJx/XIXBufrja2XGFn4kPst4v2cLWwJ9t6Ajp2jlZfxayUk3iO2kKHnk7
-AqCUjYXMvFbbJKPdhvlDMQY+M4dSmyGcydJH/rrKGspMR/Uu5yaIqvkbHyRiu3GR
-6pIyec9ytCdpk8xU
+Y29tL3JlcG9zaXRvcnkvMAcGBWeBDAEBMHYGCCsGAQUFBwEBBGowaDAkBggrBgEF
+BQcwAYYYaHR0cDovL29jc3AuZ29kYWRkeS5jb20vMEAGCCsGAQUFBzAChjRodHRw
+Oi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvZ2RpZzIuY3J0
+MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz1/tss/C0LIDOMIIBEgYDVR0RBIIBCTCC
+AQWCFXd3dy5pbnN0cnVjdGFibGVzLmNvbYIRaW5zdHJ1Y3RhYmxlcy5jb22CFWNk
+bi5pbnN0cnVjdGFibGVzLmNvbYImZmFzdGx5LWJhY2tlbmQucHJvZC5pbnN0cnVj
+dGFibGVzLnRlY2iCFXd3dy5pbnN0cnVjdGFibGVzLm9yZ4IZY29udGVudC5pbnN0
+cnVjdGFibGVzLmNvbYInZmFzdGx5LWZyb250ZW5kLnByb2QuaW5zdHJ1Y3RhYmxl
+cy50ZWNoghVhcGkuaW5zdHJ1Y3RhYmxlcy5jb22CEWluc3RydWN0YWJsZXMub3Jn
+ghVzc2wuaW5zdHJ1Y3RhYmxlcy5jb20wHQYDVR0OBBYEFBFa9Wq2uv3XPvHPrMpI
+1r0NGUeCMIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADuAHUApLkJkLQYWBSHuxOizGdw
+Cjw1mAT5G9+443fNDsgN3BAAAAFs/coaogAABAMARjBEAiBJMbHpVEZo68BRCDk2
+t/V+7X0JtmNke4Q91HvIde9mUAIgP5RZuccLfB/7Olh0zUlTj8hGifdAc7yPi9d4
+Nao3C7MAdQBep3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAWz9yhy1
+AAAEAwBGMEQCIF2XHYeeBQIzqXPlDveu9QuosStktVxTKhw0mKgeASo8AiBzgafx
+iC2hM5w+NOYPSB+fbPNk5S3FdSBuwd/AvhhQZDANBgkqhkiG9w0BAQsFAAOCAQEA
+HsbEpF3jvqrJ5eQFCVbv+mnmkDykTJ6ci0+w2rM4JGH83YVpdOL2oW/WIHu69Qvs
+t5tbd9nunvAmdT01DMaOfqzl8xcX+wmNloAxbY4HsPpqGSW4U+qBXudutTNE6VJ/
+WkA6IA1SfnRHLA2lVkSA6VCbGu0OhGnwDnLiPx1hIBeeJLKckjeqQN7upVWlku+x
+FXVg2pHdezdv/R3lvwiAZsIQTwWfcUXN2K0lFubl/ZxsiyDfdKuiseLaUyO12Dp+
+VpBz7hFtWN4Az/WJJNdTFjdmldWnXZC3Z0yb5/7v/PG9dXEOL9kOBNIS2TCEoYZb
+eidta9xQWLP+lHOmwkTY7w==
 -----END CERTIFICATE-----
-subject=/jurisdictionC=US/jurisdictionST=California/businessCategory=Private Organization/serialNumber=C1893790/C=US/ST=California/L=San Francisco/O=Autodesk, Inc./CN=ssl.instructables.com
+subject=/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=California/businessCategory=Private Organization/serialNumber=C1893790/C=US/ST=California/L=San Francisco/O=Autodesk, Inc./CN=www.instructables.com
 issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 6001 bytes and written 434 bytes
+SSL handshake has read 5000 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -71,29 +70,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 8869F75D982D28866E5DF19BA8A553DEE8CAECBCEE185C6ECE5680C1502999A3
+    Session-ID: 838D1803F0AEE288D6DD8267EEE74A31DFA18411871A4305CC3C1D6223067F1B
     Session-ID-ctx: 
-    Master-Key: 9836BD7727199BD8DE2E9147C6BFBEBC994D90E98245E4C81FF0DF8D0377A0C0F97A1AF31890BE21B1204FDA1366800B
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 2303C0B7524B8132BE119988E4F26DC0A6877EECB9AF6D54B185ABDB26165DABAE8946F27B712C518C00E604961CB602
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - b4 e1 bf 46 cf df 48 fb-02 bf 9c 8b 2d a6 9b d7   ...F..H.....-...
-    0010 - 82 ce d1 d5 60 50 92 d0-8b f7 a3 4b 3b 47 2f 28   ....`P.....K;G/(
-    0020 - 39 33 3f 75 e2 1f b9 36-50 54 14 83 d3 64 d2 ed   93?u...6PT...d..
-    0030 - e3 b3 8a 23 e4 34 2f e4-f5 0b 69 97 a5 da a2 10   ...#.4/...i.....
-    0040 - 1e 60 bf 79 7d 56 d6 eb-7d 08 f1 21 f7 db 04 ab   .`.y}V..}..!....
-    0050 - f0 a0 6f 15 17 31 0a e1-01 ae 53 fe dc 47 15 68   ..o..1....S..G.h
-    0060 - 0d 17 ce 70 0f 38 06 6b-13 66 61 ae 14 09 ef 6e   ...p.8.k.fa....n
-    0070 - 40 25 b7 cb 68 87 b0 68-3c 80 6f 01 e3 ae 5a c7   @%..h..h<.o...Z.
-    0080 - 1a 2a 41 7f 06 34 bd 47-25 8d dd b3 e7 9e a6 5e   .*A..4.G%......^
-    0090 - a0 cf 39 57 44 fc 5a 92-98 7e 3d 9b 85 93 5d 3a   ..9WD.Z..~=...]:
-    00a0 - df 5e c7 d7 ff ac 2f 3d-4d 85 63 2b f9 b6 68 19   .^..../=M.c+..h.
-    00b0 - 94 15 1a 93 8d 98 ad 35-d0 d0 da b4 f3 5a 8a 52   .......5.....Z.R
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - 2f 08 83 b8 0b 1b ed 4b-b1 ea 6b 52 84 1b d7 79   /......K..kR...y
+    0020 - 67 6c 9c 45 35 af a6 86-2e 73 78 ab 7f e2 a7 c1   gl.E5....sx.....
+    0030 - 65 bc 1e 2b 69 a2 86 c7-d0 49 e1 27 4e 9f 8d 44   e..+i....I.'N..D
+    0040 - 23 ae a0 f5 d0 03 ea fc-f8 39 d8 b4 ed d3 c8 dc   #........9......
+    0050 - 95 6b 69 69 a2 70 c5 ce-96 0e 7a e8 f5 88 05 2d   .kii.p....z....-
+    0060 - fe a1 74 46 c8 ac 9d f9-da 6f 04 91 74 eb 0e d9   ..tF.....o..t...
+    0070 - bf c5 7f b4 7d 93 fa 99-d3 46 1f 81 eb 4e e5 fa   ....}....F...N..
+    0080 - 0e b3 2c 10 fc c7 d8 9a-7f 06 41 2f b9 33 5d dd   ..,.......A/.3].
+    0090 - 39 6d 1e 86 45 15 b6 3c-bc fc 8f fa ac d2 9a 28   9m..E..<.......(
 
-    Start Time: 1472788527
-    Timeout   : 300 (sec)
+    Start Time: 1577475571
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

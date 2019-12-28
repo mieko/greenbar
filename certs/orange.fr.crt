@@ -1,55 +1,59 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=FR/ST=Paris/L=Paris/O=Orange/OU=Orange/CN=orange.fr
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/C=FR/L=Paris/O=Orange/OU=Orange/CN=orange.fr
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-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
+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
+dtpVcJNri1vrsGCXwCGx/E2shK+Q6oYR6CQTNmH3tEt9wjezrnap9p+TTLRxxnC+
+2UcSbHnsqQrgH3is29z/SBNzmW7dKHArehj33J1ahVn9+cD4H/8THPqXNue0toZn
+2caji8gua8tyVGftaw9HMoYM90ngeF/XtXu6zAs7Cb4FHyGB1b53iYPLUbFEFAEl
+MYEitJ8X2ojKLC946YO5VWfzjHduKI47EfioYlZwlJA5HjFoq47+uTA6Q8hdhWyw
+Hbi04csYMk2kknwrCPOMWbjUgo/g2cE2hS5V5y1oiGSc3axB5IYZ4hhxR0d19oct
+LeuRoVmv8qIxQlyyd8RoL3Y8bPYm45GInr0qw4PVrZiVxNGfWD78INrS5/+rDpCk
+ohIDh/s6VlgdfI+b3Ugg5KJUtbU0Xwr3NnyTrhrWDWlsMWdTdgOt43Zd0EDYLgmt
+dt7PvZRkTEJgXOkJeXf70MFhtFQel/1Z56eoLpny71QM5ZBHBhbYh1uaN/9nCDYB
+EMNnU8SBdOGjCjzGEQgNN1SlCzNP+ZRrXsxawgwpoZMjVwY+HiCkRw6AOSPy4sCP
++GPYAF9GNi+8pKlQd5hcCqMXwQIDAQABo4IC1jCCAtIwHwYDVR0jBBgwFoAUD4Bh
+HIIxYdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFCDYe9XDmWZdbULGk+/QshW+IcGZ
+MBQGA1UdEQQNMAuCCW9yYW5nZS5mcjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9j
+cmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3JsMC+gLaArhilodHRwOi8v
+Y3JsNC5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc2LmNybDBMBgNVHSAERTBDMDcG
+CWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5j
+b20vQ1BTMAgGBmeBDAECAjB8BggrBgEFBQcBAQRwMG4wJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEFBQcwAoY6aHR0cDovL2NhY2Vy
+dHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNlY3VyZVNlcnZlckNBLmNydDAJ
+BgNVHRMEAjAAMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAu9nfvB+KcbWTlCOX
+qpJ7RzhXlQqrUugakJZkNo4e0YUAAAFtysWdNQAABAMARzBFAiEArEF2cB50CjHc
+0Sg75qe7ZhdyCDywft2M/K7tpUjnnQ8CIEsc883avy79klX2GbUGidbqxz4CM1ES
+ACxy+Nk5tgWBAHcAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFt
+ysWdiQAABAMASDBGAiEA30LplCagkjBF88iPsa7KcQI8Y9rfvZluss4fLo8UivgC
+IQCLCzy00rI7mdbe5ekT6ZXuZYpMZ5KmF2DzYaqMsa/EAzANBgkqhkiG9w0BAQsF
+AAOCAQEAgCfLCvPYv+bakXnPoD82ioxQBOZbrd8NXqegtlWw1eO0myxyNTZ4qL+W
+KWdLbgI+qPSeus/nnQWZJMCtM5V7j/3W/eM2sbSUemsJ/c9b7tC+Wa7L4++jM1sQ
+d2BOUFsW5wUARbXAT61upaIikZN9+hMwDEvS2OpdofXbG074LlU9/0KD0kXaJ4kU
+gyN9bpEXiWxdgsCF/toymnktiMfYNoNzIH/iNBpxWrZoCiSxss4KMp4NfF8e1h9S
+73Snx38jvFr/aRSfDS96MnAIsGvA/EVPbya0uN3uf03TEUTeC8b1ZdM3ZAUo8Gt9
+xCB0uiFjLB++v/sOyaY1H+PARuBWqg==
 -----END CERTIFICATE-----
-subject=/C=FR/ST=Paris/L=Paris/O=Orange/OU=Orange/CN=orange.fr
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/C=FR/L=Paris/O=Orange/OU=Orange/CN=orange.fr
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5019 bytes and written 434 bytes
+SSL handshake has read 3919 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 4096 bit
@@ -60,29 +64,25 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: F5538B278CB914DA662B3EA9560E0048346589443E833A7F093AE08000367369
+    Session-ID: 8B8D8EB370D4153FEB73875D08080EC30BC3092CE91809539C100E319A0D0603
     Session-ID-ctx: 
-    Master-Key: 68E68F89C92460B416CF61404B78AA86255149800BBF2F5244322B426CB3A4C3B66C7E4DC8CD1DDA518B4AFE29DB1F69
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: A1FDE15EF2DE58BBE82BE61D4A86286C80476499A96577B4B2A4C8F2FFAD979372B9EDABB6652DEABB4E557094B94C4C
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - f1 8b 2c 5e a6 79 48 e8-9e 3f ca f0 e8 67 4e 75   ..,^.yH..?...gNu
-    0010 - c3 15 3a dc bc 83 fe a1-c1 b9 af a6 9a 60 eb 39   ..:..........`.9
-    0020 - 67 ee 95 0f 53 01 ed ee-1d d9 4d d7 11 5b cc 74   g...S.....M..[.t
-    0030 - 50 f4 d9 db ac 5b bf 12-53 6d ce 06 a9 fd 9c 74   P....[..Sm.....t
-    0040 - df 8b c8 9c a3 d9 fb 4a-7c b7 b9 a6 83 45 c8 43   .......J|....E.C
-    0050 - 2a 1f a3 d6 53 6d 2f 05-cd 34 d0 06 51 d1 09 fe   *...Sm/..4..Q...
-    0060 - fc e5 82 5f cc 7a 59 45-aa b8 5c 9b a3 68 0f 3f   ..._.zYE..\..h.?
-    0070 - af 83 30 33 55 54 bf 1f-28 3e 76 82 3e 46 03 dc   ..03UT..(>v.>F..
-    0080 - df 87 1e 56 0b fb a7 cb-b1 80 60 a1 e9 ad 98 61   ...V......`....a
-    0090 - 34 57 f4 09 0c 01 68 aa-c5 bf ce 47 ea f2 13 02   4W....h....G....
-    00a0 - e4 6d 66 b5 76 6b a9 13-c9 26 a5 b6 3f bd 19 47   .mf.vk...&..?..G
-    00b0 - a5 b9 9c 7c 29 ee f6 1a-37 da 09 0e 87 94 b8 11   ...|)...7.......
+    0000 - b9 db 42 b2 9a 51 b8 af-82 67 26 ed e4 97 af 5a   ..B..Q...g&....Z
+    0010 - ff 6b 07 f4 68 29 07 35-ca 1a a8 c1 d4 ed b1 7e   .k..h).5.......~
+    0020 - 3d eb d2 77 14 34 9f ee-7e 19 2f 33 48 b3 b6 cc   =..w.4..~./3H...
+    0030 - 71 f3 3d 1e a8 18 4d 06-33 0c c1 f5 0b 2b eb ea   q.=...M.3....+..
+    0040 - 4b ae 4f 21 27 6a ee c3-7c 19 27 30 41 69 52 46   K.O!'j..|.'0AiRF
+    0050 - 1a a4 ba 0c 98 06 b5 1b-64 c0 0f 40 37 a7 5a cf   ........d..@7.Z.
+    0060 - c6 4e 8b 79 44 df a1 c3-9c df cb a5 b2 24 a5 7a   .N.yD........$.z
+    0070 - 41 27 6f e3 76 f4 da c2-25 40 2e 5a ec d9 90 ef   A'o.v...%@.Z....
+    0080 - 77 df 24 07 c2 0d 0c cb-7f f8 57 cd 4c 1e 72 fc   w.$.......W.L.r.
+    0090 - fc e1 dd 7e 24 55 76 c0-15 e3 18 87 08 29 4a da   ...~$Uv......)J.
+    00a0 - 75 9f c3 12 4c d3 f5 b5-ec b3 96 ac 0d 35 e2 b2   u...L........5..
+    00b0 - df b5 0d cd 28 51 8b b6-ad 11 31 9f d1 82 87 94   ....(Q....1.....
 
-    Start Time: 1472788158
-    Timeout   : 300 (sec)
+    Start Time: 1577475100
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

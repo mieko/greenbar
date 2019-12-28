@@ -1,62 +1,71 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=0568328/C=US/postalCode=07068/ST=New Jersey/L=Roseland/street=1 ADP Blvd./O=Automatic Data Processing, Inc./OU=DC1 10G Web Tier/CN=www.adp.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Delaware/serialNumber=568328/C=US/ST=New Jersey/L=Roseland/O=Automatic Data Processing, Inc./OU=Global Web Security Engineering/CN=mycard.adp.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGkjCCBXqgAwIBAgIQKxeTisDwj89ffKoW1SyCwzANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTYwMzIzMDAwMDAwWhcNMTcwMzIy
-MjM1OTU5WjCCARcxEzARBgsrBgEEAYI3PAIBAxMCVVMxGTAXBgsrBgEEAYI3PAIB
-AgwIRGVsYXdhcmUxHTAbBgNVBA8TFFByaXZhdGUgT3JnYW5pemF0aW9uMRAwDgYD
-VQQFEwcwNTY4MzI4MQswCQYDVQQGEwJVUzEOMAwGA1UEEQwFMDcwNjgxEzARBgNV
-BAgMCk5ldyBKZXJzZXkxETAPBgNVBAcMCFJvc2VsYW5kMRQwEgYDVQQJDAsxIEFE
-UCBCbHZkLjEoMCYGA1UECgwfQXV0b21hdGljIERhdGEgUHJvY2Vzc2luZywgSW5j
-LjEZMBcGA1UECwwQREMxIDEwRyBXZWIgVGllcjEUMBIGA1UEAwwLd3d3LmFkcC5j
-b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDU3hM/s9gUU1MjEfzr
-Jm03LbAFh4KSI0OiQ6rjhO/g6oKZTNya34Gi7bw72fCNgUl42UZSUbsqAQRjR9kc
-rac/hvjpdL4a82KFZ1pKQtc9rglpmkzQe+RG1DdnJQCIE6txVu4OB9m567SsKWtt
-gzg9+GasZ7aAmnLl2l5ovq8EPme9joX55zERT/p6K/FRws7O31bRG583iR6GqmHt
-7xcEZB82ljB55Xz+33bVeFyxf8Xv6UZXGC9hrghIMQqSWcUqftFe9PxlhVadzKV5
-+8NQK6UY5y49pE2x/+Y+k1/FO3oRiQ7XFm8HTfXqx2DT8VmUZ7EdDFezchEii5gD
-K6G3AgMBAAGjggJ2MIICcjAfBgNVHREEGDAWggt3d3cuYWRwLmNvbYIHYWRwLmNv
-bTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
-AQYIKwYBBQUHAwIwZgYDVR0gBF8wXTBbBgtghkgBhvhFAQcXBjBMMCMGCCsGAQUF
-BwIBFhdodHRwczovL2Quc3ltY2IuY29tL2NwczAlBggrBgEFBQcCAjAZGhdodHRw
-czovL2Quc3ltY2IuY29tL3JwYTAfBgNVHSMEGDAWgBQBWavn3ToLWaZkY9bPIAdX
-1ZHnajArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vc3Iuc3ltY2IuY29tL3NyLmNy
-bDBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9zci5zeW1jZC5j
-b20wJgYIKwYBBQUHMAKGGmh0dHA6Ly9zci5zeW1jYi5jb20vc3IuY3J0MIIBBAYK
-KwYBBAHWeQIEAgSB9QSB8gDwAHcA3esdK3oNT6Ygi4GtgWhwfi6OnQHVXIiNPRHE
-zbbsvswAAAFTpFK0WwAABAMASDBGAiEA2oRN7MK1aGIt6s2Y7jAdM57RIPW5tK0l
-EFLrZuQNtVQCIQC0djKHsQDMdYg34j1QSq8TvuorA/oevd9675rwO1yn/AB1AKS5
-CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABU6RStIIAAAQDAEYwRAIg
-fmIo31U7GTF8WKjbI3kkECv2sor0ohvKI/kRs31hzGYCIGTn39OEUCL5KFhLFQBT
-Wvj01VZee5AnT0YuGzAn6F45MA0GCSqGSIb3DQEBCwUAA4IBAQBoBYEEgVklAQq9
-KYRFFg5zDpHmh0l/nwAfbCU+PbY90Tfq4VCkFhO6+X/F6UDu+QSOx6dwZVbTVmPx
-rmwZON6kvkWHb5Uk1oi3pifHzc/JIoe28hAYGDI8FqTg93Pkxnfrh+l5VGf5YU0W
-vCK/liTSNAR4OgkkEOguA/8ZU9A0E77ICQMeo/+xMrolm0XZlyI6kObbrH15zPgg
-TBc2TXcaePWjN3We87bMV45DmucOosOtC3Udo9NxCGDKCNVZActTOnVwf3Y2Xenn
-y538xyLMwC2zY0JhOHeiEYpbTf0awSjQNT8KcnFz3KRZHMm/sQG/HHkBqNMnVc38
-OBaj1xl1
+MIIIgjCCB2qgAwIBAgIQA3x38zWh2f81CHd2XJIdhjANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE5MDgyMTAwMDAwMFoXDTIxMDgwMTEy
+MDAwMFowggECMR0wGwYDVQQPDBRQcml2YXRlIE9yZ2FuaXphdGlvbjETMBEGCysG
+AQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhEZWxhd2FyZTEPMA0GA1UE
+BRMGNTY4MzI4MQswCQYDVQQGEwJVUzETMBEGA1UECBMKTmV3IEplcnNleTERMA8G
+A1UEBxMIUm9zZWxhbmQxKDAmBgNVBAoTH0F1dG9tYXRpYyBEYXRhIFByb2Nlc3Np
+bmcsIEluYy4xKDAmBgNVBAsTH0dsb2JhbCBXZWIgU2VjdXJpdHkgRW5naW5lZXJp
+bmcxFzAVBgNVBAMTDm15Y2FyZC5hZHAuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAo2NPiwf08pWIIORaY1ypi4rEy1nSUTU4RYbz+gA5UwgjAJcg
+0C0zAHZLCYUmKtSR3+pQ33XNGdaEOgYQb9KsD8npSUkaTesi1+Yzao/pLrCrxxB4
+H83oFJAW7M9KcT66zgWxuz4FSZ4PA+s6SuMVfzhLn8t2LcpXxg2D4TYcuV21dt8u
+Kw+MqUv+ALD+qS6so7LbsO5bguoQeoJ9ZIBX2UNzoYkPoL7jW2gCfifY/p5DLVO+
+KvJx1vacCTZowLyjNGF040/A85be76Y/OE71Cj91Y12L8jBYuV0r4zbrTliSyM0O
+/ANkEIk+rvcDCzLjMie4M9iZJuJzx5Ux4gPvIwIDAQABo4IEfTCCBHkwHwYDVR0j
+BBgwFoAUPdNQpdagre7zSmAKZdMh1Pj41g8wHQYDVR0OBBYEFGHssn6WnN6dEmvh
+U/LZ92kybtM0MIIBLQYDVR0RBIIBJDCCASCCDm15Y2FyZC5hZHAuY29tghFpbnN1
+cmFuY2UuYWRwLmNvbYIOaWxlYXJuLmFkcC5jb22CD3NhbS5uYXMuYWRwLmNvbYIT
+YWthNTgwMC13d3cuYWRwLmNvbYIXd3d3LmFjY291bnRhbnRzLmFkcC5jb22CFnd3
+dy5hY2NvdW50YW50LmFkcC5jb22CEHJlc291cmNlLmFkcC5jb22CDG1vdG0uYWRw
+LmNvbYIVd3d3Lm15dG90YWxzb3VyY2UuY29tggt3d3cuYWRwLmNvbYIHYWRwLmNv
+bYIRb25saW5lcGF5cm9sbC5jb22CEW15dG90YWxzb3VyY2UuY29tgg5teXBheWNo
+ZWNrLm9yZ4IRbXlhZHByZXNvdXJjZS5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAwhi5odHRw
+Oi8vY3JsMy5kaWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2ZXItZzIuY3JsMDSgMqAw
+hi5odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2ZXItZzIuY3Js
+MEsGA1UdIAREMEIwNwYJYIZIAYb9bAIBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8v
+d3d3LmRpZ2ljZXJ0LmNvbS9DUFMwBwYFZ4EMAQEwgYgGCCsGAQUFBwEBBHwwejAk
+BggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMFIGCCsGAQUFBzAC
+hkZodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyRXh0ZW5k
+ZWRWYWxpZGF0aW9uU2VydmVyQ0EuY3J0MAkGA1UdEwQCMAAwggF7BgorBgEEAdZ5
+AgQCBIIBawSCAWcBZQB1AO5Lvbd1zmC64UJpH6vhnmajD35fsHLYgwDEe4l6qP3L
+AAABbLRggdcAAAQDAEYwRAIgcKh8UwAxOoxKGGbufg3akCBd4wP23NNB8RnU+yE2
+H5gCIHvFQ9x1qUkO5bk071BttgJnEotuX5uEOT/f6k8c8B7HAHUAVhQGmi/XwuzT
+9eG9RLI+x0Z2ubyZEVzA75SYVdaJ0N0AAAFstGCCCAAABAMARjBEAiA2lOoDJhBk
+X3gw07sqAgQKjBktCYuBje6HXA6WFCo3TwIgdJvv9VC8S2vxuvynQ6CrzTXEIoEZ
+EUPsFIdbjoYyZ50AdQCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAA
+AWy0YINWAAAEAwBGMEQCIEpvr6FJoz3RjFqKKRhGm4qPP7LKvKW8lwgoTVQaOy2B
+AiATVgUVSyHqUuVk6keyA2x9XdCeUnBgTNl1tmgd2VeOdzANBgkqhkiG9w0BAQsF
+AAOCAQEAVtpdxG7+KpeDptb94ijmjeJ4CKpwBjkllTBksphNFE5MMxIcqmd/rFa8
++TfZfZ8Lat0iawCJcPeDvLFKUYGg4Ob8xD5/ESoxlukJA88uXTB/8237vNducs//
+2A/Z88qrr18rQ52xJsGB5tzok8QCL8Ccl8wVY0vf8iwkIMpcF7xK/Gesj5dZRxeM
+EPCWA/ntvexSGO396DL5OABPTJxqF5nTb5sK8nmUnsAAl44FE8x6hx5AH9oJfYMM
+gK347tH/GFrrXIYnm0l/pSUkmLH9VDJ8hqZ/t+oXsbGg4obmyLwyTx4ssK1kLas9
+u/LIT37DAT3hgWgzAhqw9kkMNHIffw==
 -----END CERTIFICATE-----
-subject=/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=0568328/C=US/postalCode=07068/ST=New Jersey/L=Roseland/street=1 ADP Blvd./O=Automatic Data Processing, Inc./OU=DC1 10G Web Tier/CN=www.adp.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Delaware/serialNumber=568328/C=US/ST=New Jersey/L=Roseland/O=Automatic Data Processing, Inc./OU=Global Web Security Engineering/CN=mycard.adp.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA1
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4792 bytes and written 458 bytes
+SSL handshake has read 4912 bytes and written 362 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -64,15 +73,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-SHA
-    Session-ID: 2645238DE37924D08F30EBBAC739BB328A6E9C52FE31CCF9B376FC14CDFEBF88
+    Cipher    : ECDHE-RSA-AES128-SHA256
+    Session-ID: D3167CB9B7AB006CDB7F7AAD3D92C997E43BFD6ACF2DE5F43A2753EE4F6259E4
     Session-ID-ctx: 
-    Master-Key: C0B7C0ECCC02490414F651A927BD51E5A4027925E769B72EA40F92828D9D7A7D9F929733CFC5EB36D871FF04926AD02C
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788480
-    Timeout   : 300 (sec)
+    Master-Key: DD1A0998BD70DB6C713671A77DF4E024D9AC04FE87F0FA713A4A6C756F24FD74DEDF3A6C98E78191E6E4E610EB59698F
+    Start Time: 1577475009
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

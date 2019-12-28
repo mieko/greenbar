@@ -1,85 +1,78 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=San Francisco/O=Patreon, Inc./CN=*.patreon.com
-   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
- 1 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
-   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
- 2 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
-   i:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl729773.cloudflaressl.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFUDCCBDigAwIBAgIJAI50JL0LKaYYMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
-VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
-MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
-cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
-dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTE1MDkzMDAwNDIzOFoX
-DTE2MTIxOTE4MTczNlowajELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3Ju
-aWExFjAUBgNVBAcTDVNhbiBGcmFuY2lzY28xFjAUBgNVBAoTDVBhdHJlb24sIElu
-Yy4xFjAUBgNVBAMMDSoucGF0cmVvbi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
-DwAwggEKAoIBAQC57fQuORSuKtEX1bOHarkYdVXhkTViVcHrJ5LF6RbnD+NuxfFs
-6wKGEB5BQSIIWL0WDcRXHh9XtONJA7QmxaytoARlmgWkYFgNSrE4EujJkKwGBO3H
-O0YDcLftRc+RqJs6ThySOa3DOw63Q3xJzQ1p1gyOnBOVYIcYzmiQ4pGYwCAhcbWq
-CBXIIKhKgqrpWWiwFopzivT0y60SzEfblg2IjjXZqCHthriONiuvDhsj0YURYPBq
-eyQpsJ+1JeY1pcUniG/cWZJImHXsI+dGsTKiEPele7s8q2apV5oKZJ9jVJulsdJn
-ZKCcV9GxNFmy1WJ0zeup6zwUEHRnEi41ImDzAgMBAAGjggGsMIIBqDAMBgNVHRMB
-Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8BAf8E
-BAMCBaAwNQYDVR0fBC4wLDAqoCigJoYkaHR0cDovL2NybC5nb2RhZGR5LmNvbS9n
-ZGlnMnMyLTEuY3JsMFMGA1UdIARMMEowSAYLYIZIAYb9bQEHFwIwOTA3BggrBgEF
-BQcCARYraHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5
-LzB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmdvZGFk
-ZHkuY29tLzBABggrBgEFBQcwAoY0aHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5
-LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNydDAfBgNVHSMEGDAWgBRAwr0njsw0gzCi
-M9f7bLPwtCyAzjAlBgNVHREEHjAcgg0qLnBhdHJlb24uY29tggtwYXRyZW9uLmNv
-bTAdBgNVHQ4EFgQUaibbFsrULrv+sUqMYW/3CUunRE4wDQYJKoZIhvcNAQELBQAD
-ggEBAKbnWLxGCWbBCzFVjbp7BOK8ornIpDX1OC+0MQpK4EIcw15wfdbRVXsdFg9D
-Lacxj6YU3I4Gp+Pc1IU3AN4nO+BSxvZ9fOQ6XvgqwV2Jk9M4QyzFk54dMPRLFExr
-6ltgcWfbyViE5RjOBxsxaMWk5kvq/4Q8ztdEPPcclJ5lX/0czbcdtYEJp8UVw/3J
-TGIDB8XN81RGyLpZk8tM4BDQhKKFfotvJLbX/pVmtGPBsDlew7xxkikaVLkzpYaN
-ROuwbdly2eoQ1Ti5/l7SOxFdzgzAheIFGbprFGS+fQ2KzOKGVOZR6nOux/un9rYt
-1EI+QB4QeE4wSOqQup7K/KkTTpU=
+MIIE9zCCBJ6gAwIBAgIQMw1IxP82R1xqIgzgIQzOwDAKBggqhkjOPQQDAjCBkjEL
+MAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UE
+BxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxODA2BgNVBAMT
+L0NPTU9ETyBFQ0MgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQSAy
+MB4XDTE5MTAwNDAwMDAwMFoXDTIwMDQxMTIzNTk1OVowbDEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMSEwHwYDVQQLExhQb3NpdGl2ZVNTTCBNdWx0
+aS1Eb21haW4xJDAiBgNVBAMTG3NzbDcyOTc3My5jbG91ZGZsYXJlc3NsLmNvbTBZ
+MBMGByqGSM49AgEGCCqGSM49AwEHA0IABHOY+I2hNo2sxraavAp3vf10Y8odFFfl
+3dDGNqWu4UNSCrc9bZxQ5goNE7TingDrRdRIGBvxt17V5qRXuN+vskGjggL5MIIC
+9TAfBgNVHSMEGDAWgBRACWFn8LyDcU/eEggsb9TUK3Y9ljAdBgNVHQ4EFgQUTF3Y
+OaCDQaWT0HgFvAO3tq0IJhEwDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYB
+BAGyMQECAgcwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQIBMFYGA1UdHwRPME0wS6BJoEeGRWh0dHA6Ly9jcmwuY29tb2RvY2E0
+LmNvbS9DT01PRE9FQ0NEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EyLmNy
+bDCBiAYIKwYBBQUHAQEEfDB6MFEGCCsGAQUFBzAChkVodHRwOi8vY3J0LmNvbW9k
+b2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNB
+Mi5jcnQwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmNvbW9kb2NhNC5jb20wQgYD
+VR0RBDswOYIbc3NsNzI5NzczLmNsb3VkZmxhcmVzc2wuY29tgg0qLnBhdHJlb24u
+Y29tggtwYXRyZW9uLmNvbTCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AAe3XBvl
+fWj/8bDGHSMVx7rmV3xXlLdq7rxhOhpp06IcAAABbZQpq5sAAAQDAEYwRAIgB/Ck
+jy6p2b2chhXq2N0X0M2EMPq2ZBqat9ZRGXkDa/ECIGlWy4yPjmDm1kGNTGbK1PRe
+y9aQqK58ZHT3hcv11woCAHUAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1loFx
+RVgAAAFtlCmrogAABAMARjBEAiBNWcQq3cd+tTdkolqh1S1k6oJ2X5OReccTgRsM
+5/zr2QIgVpmkFo3GenZLEEycnXabYdFwvo8GD+xuXspJR6/zK6IwCgYIKoZIzj0E
+AwIDRwAwRAIgcadNE0Q/n0SaJY7PDiWJ+yhFwwv2QCL+J/pQ6dgL8g8CIBgxElnE
+nHArw+ejcaYGbjzjPtMbgMy8iBhtxFtY3OGn
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=San Francisco/O=Patreon, Inc./CN=*.patreon.com
-issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+subject=/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl729773.cloudflaressl.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4429 bytes and written 434 bytes
+SSL handshake has read 3633 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Server public key is 2048 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
+Server public key is 256 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: D3F045434B81118CD0E99C664DF5EF664B8DC6A26BEBF93BBEC219C159F0285E
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: 8813F5681710E3B0376E54A67CF5925AA164351A60DB82FA52D7E9A6EAEFDFAC
     Session-ID-ctx: 
-    Master-Key: 1EADEAC244AB76ABA423EBED2A6501597A8617B69D59988D36FBDD45BA00A37386C7A453663E181BF13CED5CDEBFAC4D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: BDAAB513F687902A21460302DEED2DFB61C579225D74255CE34177E1963A174C2988B4C912A5CE5BC056F85F8BA06993
     TLS session ticket lifetime hint: 64800 (seconds)
     TLS session ticket:
-    0000 - 67 3e 33 d7 cc 57 79 4c-b2 85 a3 1c c8 1b 69 31   g>3..WyL......i1
-    0010 - 9e 9b 41 f9 e8 b7 79 7d-b3 9d e9 b0 1e 78 8b ef   ..A...y}.....x..
-    0020 - 49 64 41 71 01 e8 eb d4-02 d5 57 ac e2 05 d9 f8   IdAq......W.....
-    0030 - 2b ca 15 b5 f1 b3 e4 84-39 db e5 f7 9c 49 4d 46   +.......9....IMF
-    0040 - 3f 0f 1a 43 6b 8c da 6b-90 6b 21 46 d4 b9 d8 7c   ?..Ck..k.k!F...|
-    0050 - 72 11 cd 6c 32 09 6f 3f-b5 01 45 a3 53 c2 d4 78   r..l2.o?..E.S..x
-    0060 - f7 a9 27 e3 e4 d8 b5 df-0c f6 56 58 31 82 f4 a9   ..'.......VX1...
-    0070 - 8d 89 43 13 53 30 ee dd-75 fa d7 4d 4f 62 6e 44   ..C.S0..u..MObnD
-    0080 - 5a de d4 5c 78 71 c7 fe-41 45 19 3d d9 c4 5e 13   Z..\xq..AE.=..^.
-    0090 - e1 c6 61 9f 12 2b e8 4a-22 7c ad cf ec e8 19 ad   ..a..+.J"|......
-    00a0 - 83 0a 41 3e 7b 0e ab 26-13 55 71 c6 7f 1d 19 85   ..A>{..&.Uq.....
+    0000 - 83 6e 63 1d 7d 95 1c 0e-08 cb ad 33 31 20 7e 0c   .nc.}......31 ~.
+    0010 - 18 9b 4f 87 d0 9b 18 74-97 a5 3c fa b0 7f 65 a9   ..O....t..<...e.
+    0020 - 05 3f aa 52 9c f2 ed b8-5e 92 57 25 3a 13 05 61   .?.R....^.W%:..a
+    0030 - d5 08 39 78 2b 18 f4 bc-bc 4a da ce 47 8e 5b 83   ..9x+....J..G.[.
+    0040 - f3 94 51 42 93 a8 d2 32-bd b0 bc 60 42 de f9 d0   ..QB...2...`B...
+    0050 - b5 6a f3 1c dd 88 70 60-87 ab 2f 08 78 8c ac ef   .j....p`../.x...
+    0060 - fe 2d 88 f3 bf 42 ae 9e-0c 79 41 b7 05 c3 eb 20   .-...B...yA.... 
+    0070 - d5 f5 3d 8e ab a7 b3 57-87 3f fc 4b b1 5c 67 2d   ..=....W.?.K.\g-
+    0080 - 82 57 db a7 a1 3e 3b 05-14 f5 69 5d cf 12 9b bf   .W...>;...i]....
+    0090 - da d9 0f 54 3c a6 b6 68-88 36 cc 97 28 49 16 7a   ...T<..h.6..(I.z
+    00a0 - 2d e1 5f 0d 92 b8 b8 f0-f4 5f 89 52 4f 99 07 57   -._......_.RO..W
 
-    Start Time: 1472790316
-    Timeout   : 300 (sec)
+    Start Time: 1577475018
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

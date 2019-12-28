@@ -1,78 +1,91 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/jurisdictionC=KR/businessCategory=Private Organization/serialNumber=120-81-47521/C=KR/ST=Jeju-do/L=Jeju-si/O=Daum Kakao Corp./OU=Infra & DataPlatform Team/CN=www.tistory.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=KR/serialNumber=120-81-47521/C=KR/L=Jeju-si/O=Kakao Corp./OU=Infra Planning Part/CN=www.tistory.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIG0TCCBbmgAwIBAgIQaaEhGrPy+FkL+xKaglFrGzANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTUwNTI2MDAwMDAwWhcNMTcwNzI0
-MjM1OTU5WjCB1TETMBEGCysGAQQBgjc8AgEDEwJLUjEdMBsGA1UEDxMUUHJpdmF0
-ZSBPcmdhbml6YXRpb24xFTATBgNVBAUTDDEyMC04MS00NzUyMTELMAkGA1UEBhMC
-S1IxEDAOBgNVBAgUB0planUtZG8xEDAOBgNVBAcUB0planUtc2kxGTAXBgNVBAoU
-EERhdW0gS2FrYW8gQ29ycC4xIjAgBgNVBAsUGUluZnJhICYgRGF0YVBsYXRmb3Jt
-IFRlYW0xGDAWBgNVBAMUD3d3dy50aXN0b3J5LmNvbTCCASIwDQYJKoZIhvcNAQEB
-BQADggEPADCCAQoCggEBAMAVvi9FhoLUKowOX5qPgRM4LYSVvEW35R0iOs4IUqUk
-pKeQ10hEd8+vGCfUW+Po8WPstLQzo7uN+MdiGVSkYn1hIPW22TOZDPraX7WK87Vz
-pIo2acF2lbwVmMP4/iEmTvSFXaOllRVi7pkFW4cWov1Lkb9jjiiCeAicOlpwhRWF
-qsxnXAZPkE7MN6cl3NtnA/JwBrmp+JrHButB3UO50Eazz26VJqbMe1Re8GgR1s5d
-bVq3ntc0HvCEj7o60ID8ckE5TeYso52kxcDgiZKfvNqX4k06qIiDG6cXvH+Z6+pt
-mUuZGK/tVdIm+NGbDMu0n3byZzD20D2Zu/NiQGy9YAECAwEAAaOCAvgwggL0MCcG
-A1UdEQQgMB6CD3d3dy50aXN0b3J5LmNvbYILdGlzdG9yeS5jb20wCQYDVR0TBAIw
-ADAOBgNVHQ8BAf8EBAMCBaAwZgYDVR0gBF8wXTBbBgtghkgBhvhFAQcXBjBMMCMG
-CCsGAQUFBwIBFhdodHRwczovL2Quc3ltY2IuY29tL2NwczAlBggrBgEFBQcCAjAZ
-DBdodHRwczovL2Quc3ltY2IuY29tL3JwYTArBgNVHR8EJDAiMCCgHqAchhpodHRw
-Oi8vc3Iuc3ltY2IuY29tL3NyLmNybDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
-BQUHAwIwHwYDVR0jBBgwFoAUAVmr5906C1mmZGPWzyAHV9WR52owVwYIKwYBBQUH
-AQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vc3Iuc3ltY2QuY29tMCYGCCsGAQUF
-BzAChhpodHRwOi8vc3Iuc3ltY2IuY29tL3NyLmNydDCCAX4GCisGAQQB1nkCBAIE
-ggFuBIIBagFoAHYApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFN
-jjdZLAAABAMARzBFAiAdAGqxSTHPPfdkPhuL1gng2b5SdlOJUzjZ32KlectFEQIh
-AMeVLzJSXf8dhnhOAh+SRbTx5Ew1nckP4VwZw+/SLRjbAHYAVhQGmi/XwuzT9eG9
-RLI+x0Z2ubyZEVzA75SYVdaJ0N0AAAFNjjdZ9wAABAMARzBFAiEA3pV0KbmT5PM+
-iljKgbkNnt3jo/rWowTTaCKSGR4fTRoCIHR+y9/a4Q+W4s+hAxEWCPWvw5zoiETS
-/WOCW+GkY2ngAHYAaPaY+B9kgr46jO65KB1M/HFRXWeT1ETRCmesu09P+8QAAAFN
-jjdZOgAABAMARzBFAiADL0xZhMoHkv3O51vxqD6roFZ7NF/jqZGjrcGjxLm9OwIh
-ALSnpPPTI2Y4MyWlx+Co/6lnE8sVFiWXjP/aoFwyFHr3MA0GCSqGSIb3DQEBCwUA
-A4IBAQCbbbDiW3PaAwchONP4wftSt+hhEqG0ZA47QoiNXYvox3aersy/Ywg2UtCs
-jHCsfY7IPECEqEPqA91zbLYrR/TUH7o5rbg/Zn32020qT/vRG7jpUVOVGa0IL53P
-cTAXWXcI4K6lol9qJ3O0Ewnb46z4S7ZADA/6XLRfo6lbQ7rYpZKCTkjPkSOWcXl4
-OO7L4Rdg9DCjlnUd2Vh25KzwSvEvexjYZveMnCGlJnpLv9K1bdb3IbjWTulyFTPP
-WkZ93gmI6VMandvfshsYFTrEwBfAlrRkLDRoeclFmBac7bdXHdEklilY/UTzakWS
-l2HrlbbpIxKCtHJ9OPgEhcl/YLbr
+MIIHNjCCBh6gAwIBAgIQBd91XAiE5qlubGWPCufMdDANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE4MDUxNzAwMDAwMFoXDTIwMDUyMTEy
+MDAwMFowgbgxHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRMwEQYLKwYB
+BAGCNzwCAQMTAktSMRUwEwYDVQQFEwwxMjAtODEtNDc1MjExCzAJBgNVBAYTAktS
+MRAwDgYDVQQHEwdKZWp1LXNpMRQwEgYDVQQKEwtLYWthbyBDb3JwLjEcMBoGA1UE
+CxMTSW5mcmEgUGxhbm5pbmcgUGFydDEYMBYGA1UEAxMPd3d3LnRpc3RvcnkuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAre90liBG1wig9St5WeYY
+V4/T6BTDKAQWqvlKNeqDLq7EyH5GQSTzvh3GJUTuK8ZVgCjkHiP0Pj1qspY8e9WE
+AXYkRTuAEIDp2Lb1dqL5nPzKUGTjA9DEJtlIL2XJ7MP7oBBJEu4CzgJyPXA6uBWT
+Gxo/BMo0xuvX5YkJYRpKUk6bmmllrniY0rUBwMWg/MV/vaxjpzkKliEdcPU4zEw6
+WQzVt1ZhAyVweGeXoA9a7YyDW+9YSCbmMifWLEoMCbjEshDOBEvV/1I5wmdy1ckv
+0v4WJt1dkjYXq3fBDPYSAx4uNpZ6jFpOEu6AqJcJTfv+z67CGr+0Vmaw6bQPEtDJ
+VwIDAQABo4IDfDCCA3gwHwYDVR0jBBgwFoAUPdNQpdagre7zSmAKZdMh1Pj41g8w
+HQYDVR0OBBYEFO8SpLY4Y7xMEQ7iPhw/TgtwddhfMCcGA1UdEQQgMB6CD3d3dy50
+aXN0b3J5LmNvbYILdGlzdG9yeS5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8v
+Y3JsMy5kaWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2ZXItZzIuY3JsMDSgMqAwhi5o
+dHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2ZXItZzIuY3JsMEsG
+A1UdIAREMEIwNwYJYIZIAYb9bAIBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3
+LmRpZ2ljZXJ0LmNvbS9DUFMwBwYFZ4EMAQEwgYgGCCsGAQUFBwEBBHwwejAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMFIGCCsGAQUFBzAChkZo
+dHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyRXh0ZW5kZWRW
+YWxpZGF0aW9uU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5
+AgQCBIIBbwSCAWsBaQB3ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGF
+AAABY238TqUAAAQDAEgwRgIhAOfca9WdI9V7GhWHN4lFNwx7gOzYuAHHM8fr6pYM
+1gdEAiEAxYvIW+aoQhR3OWEdyjjk82me9aF3b++YYCD/nHff3koAdgBWFAaaL9fC
+7NP14b1Esj7HRna5vJkRXMDvlJhV1onQ3QAAAWNt/E3vAAAEAwBHMEUCIAm5esZc
+9zgt+NhrWqW/Qp2Bztp6l6EeJnxwefvWk9l8AiEAvP1Xv82AzG9MFiwJWjPXW+Oo
+TNL+h54726J2jOrX20QAdgCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCD
+DwAAAWNt/E+EAAAEAwBHMEUCIHGhrhv3MnQiSnqNQ3bJRxjVokMhXKRh+rYIOps4
+5gEIAiEAtR8FxEs9wU6TAGkPmhba/9o8RUI121Dr0TmE6DXDdwUwDQYJKoZIhvcN
+AQELBQADggEBAHPF5vjjLExcNQKRhJgdt6mpLCsjyFkKjq2gheoCLoA15mGrX4eD
+LjFyqiWb8hjJfd4cRAGjB70ifAmqCG8kYagK+CK+qNH8HPzEqQlr7n9O46kEmUaR
+rwzl6tsgKmQfQLVd/HIjLvODjwMy1dJ+VyD1xlyjl13F+Sasr0Z485heq2w9e87j
+qnJf/5tVOEP1WzXCiwBtj0kE8SlY8ZlXlUeZPLcZ4BbibysdU4FvUTBIqZuYpEd6
+JhQzZSOv3OVmKrDMJz06f/TcZJhXHZKH9rruv7uQcuAiE6ZFYJ/EKWpzvk7tvkWo
+ytumClhBPtbU1jwUCOXdl/2FCNSl3KBCgXY=
 -----END CERTIFICATE-----
-subject=/jurisdictionC=KR/businessCategory=Private Organization/serialNumber=120-81-47521/C=KR/ST=Jeju-do/L=Jeju-si/O=Daum Kakao Corp./OU=Infra & DataPlatform Team/CN=www.tistory.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/businessCategory=Private Organization/jurisdictionCountryName=KR/serialNumber=120-81-47521/C=KR/L=Jeju-si/O=Kakao Corp./OU=Infra Planning Part/CN=www.tistory.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
 ---
 No client certificate CA names sent
-Server Temp Key: DH, 2048 bits
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5273 bytes and written 634 bytes
+SSL handshake has read 4721 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : DHE-RSA-AES256-SHA
-    Session-ID: B346566BFE5331A645BEA0179EED637E1477FD26EB679C3A9FC001205EC133AA
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: B74BB7A0BCE8BE927D0A2CA3486612E517125AE18A49DFB8426379CE4F9E9078
     Session-ID-ctx: 
-    Master-Key: 79263BAF0180F3FE99598942C7F9D22CB136B6C556D650559FD9EC2E681B89657B918CC7A5A66ACCDC84E9470BD651BF
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788073
-    Timeout   : 300 (sec)
+    Master-Key: 9AE3AD83CE17E9F4A64123469810B2D21C8A5CCD9BB253F608335EEE2F0730293E1D6FCD1D56285AB776BA45148FD006
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f5 4b 15 87 fb d1 a2 27-6c 94 ed 0c 3c 57 29 a8   .K.....'l...<W).
+    0010 - c0 50 89 f3 5e 5b 2a 75-3d cc f6 a8 50 6d c7 3f   .P..^[*u=...Pm.?
+    0020 - b3 42 fe e4 5e 8f 42 ea-39 5f 3c 56 ad ad d0 c1   .B..^.B.9_<V....
+    0030 - b0 71 62 a5 6a 59 c0 b8-39 f4 bc e3 61 d6 32 d5   .qb.jY..9...a.2.
+    0040 - a3 91 2d 1b 7d 47 36 d3-9a ba df b1 4e 6d b2 3d   ..-.}G6.....Nm.=
+    0050 - 69 25 bc fb 16 41 f2 a1-91 a8 a6 fd 4b 4e 1c 87   i%...A......KN..
+    0060 - 16 f5 21 e3 9d 81 49 59-0b a5 1d 0b 28 68 ae 4b   ..!...IY....(h.K
+    0070 - d6 88 67 d6 25 b2 3a 97-a0 f3 1b 4c 96 87 b8 d9   ..g.%.:....L....
+    0080 - 2a 19 b5 24 1e 96 f5 48-df a7 c5 ba ed 8d 80 b7   *..$...H........
+    0090 - 4d ab 64 64 ac f0 89 e1-c8 50 b1 cb 4c c0 de 60   M.dd.....P..L..`
+    00a0 - eb 0d bd 01 88 af 5d 74-8d 90 31 e0 c9 46 d3 6b   ......]t..1..F.k
+    00b0 - 99 4e 56 bf 0f cc 2d 83-cf dc 8c 72 15 7f 58 04   .NV...-....r..X.
+
+    Start Time: 1577474928
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

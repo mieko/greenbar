@@ -1,0 +1,82 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=*.flashscore.co.jp
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFbTCCBFWgAwIBAgISBPmAsG2Z4GLzicd4Xu5gFrrLMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMDkwNTI5NDRaFw0y
+MDAzMDgwNTI5NDRaMB0xGzAZBgNVBAMMEiouZmxhc2hzY29yZS5jby5qcDCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANOy1AfobCPoe6gUlGA6dr7XIjU0
+wWzUfAxq++F7FKzKClRyIfn9TMuUJkXpzVgAnmF4N0WJBOx6IfvzopDmN/V3HIGp
+5S0Rgb3PNxMmE+zlAjBuoZmIf+p06h2mxGslQV3yPCOVnUfVmL3y+KN455mGbtmw
+XeFguyaDpJN+WhqiRLbNED5+lvN/gkUQOgDvVtp/8QZZZV0mtrbMRUnTMmW315Xv
+iqNkkznprxP93hzB6PKAnNtl8MikQSYqpLH85FM8uTkQmz8+ksqs31hmihC4un/L
+rkGpYuFst0SQUg7ihwvC2lpnat/2H7nd2BtONLuZasB2urcEYs2I5gz1i1sCAwEA
+AaOCAngwggJ0MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUmNllIwSu+YiEzm4qKYi+
+AgujI9UwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzAvBgNVHREEKDAmghIqLmZsYXNoc2NvcmUuY28uanCCEGZsYXNoc2Nv
+cmUuY28uanAwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAm
+BggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEE
+AdZ5AgQCBIH0BIHxAO8AdQDwlaRZ8gDRgkAQLS+TiI6tS/4dR+OZ4dA0prCoqo6y
+cwAAAW7pWXV7AAAEAwBGMEQCIEagiHsIz5OmH4mQwvX87v1jp9YSvRxnIK9RINAm
+KSLnAiBA+CBA8icow5255RvmPPD1wo0M0eXUgVoWgH1vsHD4jQB2ALIeBcyLos2K
+IE6HZvkruYolIGdr2vpw57JJUy3vi5BeAAABbulZdW4AAAQDAEcwRQIhAPhFJm4u
+3trSwqSVRyYTgjPclWiAULpE+Ruv/SRMlaUJAiAcDsE6/Ws+NuPszZvbVOZI+zvM
+JlC7LdH0Sez12ZGbCjANBgkqhkiG9w0BAQsFAAOCAQEAPTncn9eXrnoPsRtfgr9I
+wy0fNtR7RIP9EAIjVt/esHB6lc+pLN5R3tiMQsc0ZGEwx/8McX9d0oNG7cBxmQqW
+BY4fD3sxLO6BOwSOoR0vZeUdHZBQq40g1bv9Kzar8KLWgf3FGTRS/C3eKjxd5iyG
++pP6JyHmxVoeOCWgax/C1znCVwNEnrW1NNYJuehkkwmwiHlyH/xyOOvQz+mewr9x
+Va/icuS7fSQCvW5DTog2LYQG7ArBOfPPJqiDXrUzn3ZFvQeHuQoXqwTPCMMh+WLJ
+PIgu62S+vyeX8SbaTdCBg/EVQQsxVdbtvsJZg9dY5n33nzNWBnzoMDCK54msm6qT
+Fw==
+-----END CERTIFICATE-----
+subject=/CN=*.flashscore.co.jp
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 3234 bytes and written 281 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: B3AF8A7B286C420C22E519CECE4A33CA938CD62BC578563BA711494C579CA895
+    Session-ID-ctx: 
+    Master-Key: B9B8A54B8399AA4EAC98EEB6891720C4A5246D88C7362F998D4E132492F79F057873FE219367172DFFA693D2D80C6A1E
+    TLS session ticket lifetime hint: 100800 (seconds)
+    TLS session ticket:
+    0000 - 00 6c 3f f8 bb 37 03 74-3a 29 71 d1 47 4e 7b b9   .l?..7.t:)q.GN{.
+    0010 - cf c1 dc 90 82 86 52 27-9c dc 69 50 8f aa d0 c0   ......R'..iP....
+    0020 - 28 20 a3 c1 4d 44 df 73-e6 a6 a2 df e1 fe 64 3d   ( ..MD.s......d=
+    0030 - d5 b2 33 b9 5e f1 ce 1c-c1 1f 53 1d 1c 91 c6 27   ..3.^.....S....'
+    0040 - 34 24 a7 c8 f5 31 ff 38-eb ae c0 c3 91 ff a7 6a   4$...1.8.......j
+    0050 - f9 39 73 6e 28 ce 6a 2e-19 21 37 9a 4b 29 ce ff   .9sn(.j..!7.K)..
+    0060 - 03 89 f5 bb 2c cf c4 71-82 58 70 3b 18 f7 51 2b   ....,..q.Xp;..Q+
+    0070 - 14 c9 64 83 99 96 49 8c-79 f0 3c b2 62 89 3e 51   ..d...I.y.<.b.>Q
+    0080 - fa 54 f7 ce 05 ec d4 54-df 68 5c 16 fa fc ce fe   .T.....T.h\.....
+    0090 - c5 b9 72 7d 8d a8 da 17-80 03 dc 81 e0 34 c2 47   ..r}.........4.G
+    00a0 - d6 c4 c4 72 bb a7 14 2c-a6 5c 88 02 df 5b f3 ba   ...r...,.\...[..
+    00b0 - c2 af 17 e5 ea ec e0 3d-0b 88 c2 1e 29 be 62 9e   .......=....).b.
+    00c0 - 47 81 54 92 3a 21 cd fe-5d 53 bb ce da 52 1f 57   G.T.:!..]S...R.W
+    00d0 - f9 46 96 02 9d                                    .F...
+
+    Start Time: 1577475218
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

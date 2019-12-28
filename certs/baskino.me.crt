@@ -1,0 +1,70 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=localhost.localdomain/emailAddress=root@localhost.localdomain
+   i:/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=localhost.localdomain/emailAddress=root@localhost.localdomain
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEDjCCAvagAwIBAgICfCkwDQYJKoZIhvcNAQELBQAwgbsxCzAJBgNVBAYTAi0t
+MRIwEAYDVQQIDAlTb21lU3RhdGUxETAPBgNVBAcMCFNvbWVDaXR5MRkwFwYDVQQK
+DBBTb21lT3JnYW5pemF0aW9uMR8wHQYDVQQLDBZTb21lT3JnYW5pemF0aW9uYWxV
+bml0MR4wHAYDVQQDDBVsb2NhbGhvc3QubG9jYWxkb21haW4xKTAnBgkqhkiG9w0B
+CQEWGnJvb3RAbG9jYWxob3N0LmxvY2FsZG9tYWluMB4XDTE2MDQyMDE0MzEwMloX
+DTE3MDQyMDE0MzEwMlowgbsxCzAJBgNVBAYTAi0tMRIwEAYDVQQIDAlTb21lU3Rh
+dGUxETAPBgNVBAcMCFNvbWVDaXR5MRkwFwYDVQQKDBBTb21lT3JnYW5pemF0aW9u
+MR8wHQYDVQQLDBZTb21lT3JnYW5pemF0aW9uYWxVbml0MR4wHAYDVQQDDBVsb2Nh
+bGhvc3QubG9jYWxkb21haW4xKTAnBgkqhkiG9w0BCQEWGnJvb3RAbG9jYWxob3N0
+LmxvY2FsZG9tYWluMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzMkK
+WeNTnQFL3LEO30MLzb/2bU1DMRdZSZRxhZ09ZESv57gfowXtbV/N2Of7LUYHEPVD
+ky28dmXRYmsa3/ZXSpNfSvSeNcnQe6xBaX+d0igj8jwRexgX2KlkVsh7ppTzRMnW
+pUloHsgE7G9JBvBDatsG/CN2qtwYlfr09b0C1PpEb04n/GyKjDwA9LFVokJfVHFP
+H3f6ZUQobGDndbTE+OlFldpY42qsNd1yUKwvHcSfgzUYQ+6QFqiT/9irsEbgKb9N
+lps97hSwRzI/peQYK02SfzamE8SErCmh3PtNAQHl3a6FILUQM7Dr3vYs8Q8wOeHn
+16f1Up8nmlawmzA83QIDAQABoxowGDAJBgNVHRMEAjAAMAsGA1UdDwQEAwIF4DAN
+BgkqhkiG9w0BAQsFAAOCAQEAUFTfU6c2Q49GWLRO9sHrIxziLG+UfQablQV38WMu
+LZ2nWcnIOO8D1y1eFNFfzrEA+k+DtkYqJ0K3IYlD4M1q1Xn/MRb42mvuxyep714k
+fJp9T5onUK1o2m03cbdAzoinQcMVzSxv2lJCbLwzi7YjnRZluQBfZUnfwMLaDPeP
+mTB8LkCpsjfcV2MhUXzXsX90rPrWpdwk+pkvOBm+0Gnq1Me1Rw0lstBo26Y2uBca
+la0xVHYLlRcnq0mLccmdCl/XUh78rr4ho/ZqET8bFgC8izbirrkd0z0jm3ETOi14
+Tf5CWUiHc4UEnmFSCz40/s5fJQgRK5O2tb2CY+snHUgsLg==
+-----END CERTIFICATE-----
+subject=/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=localhost.localdomain/emailAddress=root@localhost.localdomain
+issuer=/C=--/ST=SomeState/L=SomeCity/O=SomeOrganization/OU=SomeOrganizationalUnit/CN=localhost.localdomain/emailAddress=root@localhost.localdomain
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1728 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 4EA8F887DA4051F80EFEE4EECE668B597664183EE4123190AF386EDBC912D8B5
+    Session-ID-ctx: 
+    Master-Key: 17CCCF2956571F67283F125D08F8B8DF4B022A351C0924620A769072F11810175DA7E58C17D77763D88490D2BBE1E2E8
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 8b 66 5d b0 ad 5b bb cd-bc 98 02 68 c7 a2 5f 5f   .f]..[.....h..__
+    0010 - e5 6a 99 81 25 02 de 92-92 4b 9b ea d0 25 e0 18   .j..%....K...%..
+    0020 - 65 99 0b 8c 40 0c 91 e9-e1 18 69 c6 58 00 63 07   e...@.....i.X.c.
+    0030 - c7 72 58 7f 20 6f 23 a8-96 d4 f1 63 e9 12 8f 64   .rX. o#....c...d
+    0040 - 7c 36 d9 0d 80 02 1b a9-93 59 ce 49 f1 df 42 e2   |6.......Y.I..B.
+    0050 - d4 12 4a f0 6b 44 49 15-7d 22 80 d7 79 05 53 52   ..J.kDI.}"..y.SR
+    0060 - bf af 16 87 6c 26 3b 1a-fc a6 45 16 1a 60 e7 38   ....l&;...E..`.8
+    0070 - d8 aa 45 ba 71 d3 82 e0-2a 11 79 01 b5 86 74 17   ..E.q...*.y...t.
+    0080 - 36 9d db 49 c8 a2 01 d2-49 b6 52 2f 2b 2d 6b 9c   6..I....I.R/+-k.
+    0090 - eb 0b fd 86 09 fe 47 09-79 ea 69 ae 18 2d 14 7a   ......G.y.i..-.z
+    00a0 - 0a f5 8a 1b ee 11 d0 db-30 09 3a 85 6d f9 71 6c   ........0.:.m.ql
+    00b0 - d5 6f a3 b6 9d c9 59 b4-f9 65 25 f6 ef de 2d cd   .o....Y..e%...-.
+
+    Start Time: 1577475915
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

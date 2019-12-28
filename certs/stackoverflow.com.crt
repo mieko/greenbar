@@ -1,58 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=NY/L=New York/O=Stack Exchange, Inc./CN=*.stackexchange.com
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
- 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 0 s:/CN=*.stackexchange.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGsjCCBZqgAwIBAgIQCTaYT9gNC0RFj3x3zaPxZDANBgkqhkiG9w0BAQsFADBw
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
-d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
-dXJhbmNlIFNlcnZlciBDQTAeFw0xNjA1MjEwMDAwMDBaFw0xOTA4MTQxMjAwMDBa
-MGoxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJOWTERMA8GA1UEBxMITmV3IFlvcmsx
-HTAbBgNVBAoTFFN0YWNrIEV4Y2hhbmdlLCBJbmMuMRwwGgYDVQQDDBMqLnN0YWNr
-ZXhjaGFuZ2UuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr0YD
-zscT5i6T2FaRsTGNCiLB8OtPXu8N9iAyuaROh/nS0kRRsN8wUMk1TmgZhPuYM6oF
-S377V8W2LqhLBMrPXi7lnhvKt2DFWCyw38RrDbEsM5dzVGErmhux3F0QqcTI92zj
-VW61DmE7NSQLiR4yonVpTpdAaO4jSPJxn8d+4p1sIlU2JGSk8LZSWFqaROc7KtXt
-lWP4HahNRZtdwvL5dIEGGNWx+7B+XVAfY1ygc/UisldkA+a3D2+3WAtXgFZRZZ/1
-CWFjKWJNMAI6ZBAtlbgSNgRYxdcdleIhPLCzkzWysfltfiBmsmgz6VCoFR4KgJo8
-Gd3MeTWojBthM10SLwIDAQABo4IDTDCCA0gwHwYDVR0jBBgwFoAUUWj/kK8CB3U8
-zNllZGKiErhZcjswHQYDVR0OBBYEFFrBQmPCYhOznZSEqjIeF8tto4Z7MIIBfAYD
-VR0RBIIBczCCAW+CEyouc3RhY2tleGNoYW5nZS5jb22CEXN0YWNrZXhjaGFuZ2Uu
-Y29tghFzdGFja292ZXJmbG93LmNvbYITKi5zdGFja292ZXJmbG93LmNvbYINc3Rh
-Y2thdXRoLmNvbYILc3N0YXRpYy5uZXSCDSouc3N0YXRpYy5uZXSCD3NlcnZlcmZh
-dWx0LmNvbYIRKi5zZXJ2ZXJmYXVsdC5jb22CDXN1cGVydXNlci5jb22CDyouc3Vw
-ZXJ1c2VyLmNvbYINc3RhY2thcHBzLmNvbYIUb3BlbmlkLnN0YWNrYXV0aC5jb22C
-GCoubWV0YS5zdGFja2V4Y2hhbmdlLmNvbYIWbWV0YS5zdGFja2V4Y2hhbmdlLmNv
-bYIQbWF0aG92ZXJmbG93Lm5ldIISKi5tYXRob3ZlcmZsb3cubmV0gg1hc2t1YnVu
-dHUuY29tgg8qLmFza3VidW50dS5jb22CEXN0YWNrc25pcHBldHMubmV0MA4GA1Ud
-DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwdQYDVR0f
-BG4wbDA0oDKgMIYuaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NoYTItaGEtc2Vy
-dmVyLWc1LmNybDA0oDKgMIYuaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NoYTIt
-aGEtc2VydmVyLWc1LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsG
-AQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjCB
-gwYIKwYBBQUHAQEEdzB1MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2Vy
-dC5jb20wTQYIKwYBBQUHMAKGQWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9E
-aWdpQ2VydFNIQTJIaWdoQXNzdXJhbmNlU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQC
-MAAwDQYJKoZIhvcNAQELBQADggEBABC0Q7CJwKDVFD97KCgMudMo1eNzfxjZRZjs
-t9C+B7WXr+kJmsKFRwK4wZrWb8rBb0d4M+vQfTGTT7S0JIp0+4WLmkQ7i+0YA90l
-eAhS0KuC4p8M+KzMLovgdc/B9/bQVGuQNuLfiZOCYvM25xlMSS/awoWZh5EJBEyE
-vIgJeK+0LfEOMqPNmrelfKVQklXkbbsCREfeDdX1jIwYeXXy8GGfJZSnnbQd14iU
-6DAI/9WBxyokj5Pp53esXahLyBGTL8jrfy5E4P4SYTF/WJsUK283SrS3Mv9ftmho
-4Sq2zWnDrQ6li2do0YHJIqkJZKrjTevgpvnyFLtvvd40pU5D/PU=
+MIIHJTCCBg2gAwIBAgISAzRq+VUpER9hnLYqXRIClChBMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MjUwNjAwMjhaFw0x
+OTEyMjQwNjAwMjhaMB4xHDAaBgNVBAMMEyouc3RhY2tleGNoYW5nZS5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCaMvgFv+EUfHw59M43xqsn4n9t
+c2iKh6LGHvG9OaNShpmoLUWR4/bu6u0LzmqpMJSXg1542YzbGuK84O6yufm2gFrj
+RRay+0K3yulXbYf6SkRrC1y0EmMXqRMu/YUMCd1Dx3hgxtHCt1Zh1J5yt+pkW2gP
+0bRecwhtpe5JT+Hm14O9Thka5EyGETA6pWDp/jJA4b6NBIAooHp/N4WEKUbTk4wh
+ofbPAL3clt8MlMijsEFtHkqGwFHDmnqMVePehn0fPfsNH4PvI/bzKqL/R4epzY7V
+8jyEG4g0hmMVpl3DW+gEZSCI2XBN0jFFBDj6uT0EaXAZke9leRimY1An34ebAgMB
+AAGjggQvMIIEKzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPBhiLKPHese/2i8vXrQ
+r5wMNAkYMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUF
+BwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZy8wggHkBgNVHREEggHbMIIB14IPKi5hc2t1YnVudHUuY29tghIqLmJs
+b2dvdmVyZmxvdy5jb22CEioubWF0aG92ZXJmbG93Lm5ldIIYKi5tZXRhLnN0YWNr
+ZXhjaGFuZ2UuY29tghgqLm1ldGEuc3RhY2tvdmVyZmxvdy5jb22CESouc2VydmVy
+ZmF1bHQuY29tgg0qLnNzdGF0aWMubmV0ghMqLnN0YWNrZXhjaGFuZ2UuY29tghMq
+LnN0YWNrb3ZlcmZsb3cuY29tghUqLnN0YWNrb3ZlcmZsb3cuZW1haWyCDyouc3Vw
+ZXJ1c2VyLmNvbYINYXNrdWJ1bnR1LmNvbYIQYmxvZ292ZXJmbG93LmNvbYIQbWF0
+aG92ZXJmbG93Lm5ldIIUb3BlbmlkLnN0YWNrYXV0aC5jb22CD3NlcnZlcmZhdWx0
+LmNvbYILc3N0YXRpYy5uZXSCDXN0YWNrYXBwcy5jb22CDXN0YWNrYXV0aC5jb22C
+EXN0YWNrZXhjaGFuZ2UuY29tghJzdGFja292ZXJmbG93LmJsb2eCEXN0YWNrb3Zl
+cmZsb3cuY29tghNzdGFja292ZXJmbG93LmVtYWlsghFzdGFja3NuaXBwZXRzLm5l
+dIINc3VwZXJ1c2VyLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AGPy283oO8wszwtyhCdXazOkjWF3j711
+pjixx2hUS9iNAAABbWc4po4AAAQDAEcwRQIgaOBwRov0HAOYBHEdK5BIsKvlpTef
+b3eKs/Wp6zCCWvgCIQChBXkF3rJLSJSh4F8PqblNH8wFGzsxOHKAlnFiMKkH/QB1
+AOJpS64m6OlACeiGG7Y7g9Q+5/50iPukjyiTAZ3d8dv+AAABbWc4qGgAAAQDAEYw
+RAIgeE8Sha6AfHbkzg297X7fl2/FZMAaTpdWlREU5ImIB2QCIDxO3/vYSlKhCaOw
+m0TzCAndgfzQAPwsE0QpYGqZZTQgMA0GCSqGSIb3DQEBCwUAA4IBAQBtryhtZFOr
+jznJH/ihPmahW+d7S0te26hbpU5ofo1FDSy5IC6Dg04JQRTzRO2RDyxvhh2spT8r
+WJEC9i4vl2uE2Le+PeWV0a6YUHsikRIBEbwhtaJGTTbp11d0i0hkCiWGTtDEOM9f
+0qo6RZxhEY7BuKCtLW1WrK45HIwuMEtJOEJrxjvA/NPw11pMV2AFXoaD70Z89+vu
+25ye+aQlgpltI1K9MmUyXF8mzCQkVeB+CqwyBX0sECe4EemYimUVLwHuJ7i1tr24
+Gy+nYfix1OzxIePQBTwUs/37+wS9OFvdwtbxfU9KI0xWRrbdFPIU4HHEsKtdfwLN
+gTLhGsTMNN5y
 -----END CERTIFICATE-----
-subject=/C=US/ST=NY/L=New York/O=Stack Exchange, Inc./CN=*.stackexchange.com
-issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+subject=/CN=*.stackexchange.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3585 bytes and written 434 bytes
+SSL handshake has read 3631 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -63,27 +65,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 1AFEF95C4BCFB3640961BC5287D2B4A324D1E0468B7DFEBC6A66A73F3C76C8E7
+    Session-ID: 6F8CD90928A81AE0152C5B004A044725A06C3F6661084458C5DDF60406D9CF32
     Session-ID-ctx: 
-    Master-Key: 440434B20DE4745724D8CEA314787355E9247B515040A94B04BBEE31486188C366B63DB2D69D715742BC8BBF081CFDC7
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 1200 (seconds)
+    Master-Key: A70A066D29E740FAD0E26EC7CB70D05616C5524BFD6F94AF5869A8FFB3F51A5163344CA8B6E47C6269D8F29479D19EA1
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 63 cc 77 4a 00 db 2c 42-2e 8f 76 23 dd a9 ae 53   c.wJ..,B..v#...S
-    0010 - b1 04 82 c8 be 56 76 f5-0f 80 c6 47 04 d9 13 6e   .....Vv....G...n
-    0020 - 9f 78 f8 ab b6 16 1d 80-ac 45 26 45 f8 7a 8a 38   .x.......E&E.z.8
-    0030 - 50 60 fc 9e 83 6f 6b 70-b6 0f 84 8c 89 f7 88 7d   P`...okp.......}
-    0040 - 26 06 2d 3d 8f 6e ca 28-42 5a ac 42 63 ce 00 ad   &.-=.n.(BZ.Bc...
-    0050 - 28 8f 60 d5 3c 0e 02 96-4d 43 29 e4 e1 fa 52 5f   (.`.<...MC)...R_
-    0060 - 54 0c 18 b2 8f e4 ff a8-39 5c 11 34 3c 45 7f 2f   T.......9\.4<E./
-    0070 - af 0b 40 bd bc 9b 25 7c-01 21 31 3a f4 a6 d7 ad   ..@...%|.!1:....
-    0080 - bd e1 91 dd 9f 58 98 e5-99 47 85 76 b9 89 e6 0b   .....X...G.v....
-    0090 - 0e e5 77 67 c5 8c f5 30-48 8d 02 82 24 67 2e 92   ..wg...0H...$g..
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - e0 a6 0c 83 c0 68 09 ed-7a 6b 0e 8a ba 01 93 d3   .....h..zk......
+    0020 - 76 6c 8a 54 73 92 78 c2-65 da 49 be f0 af d5 ab   vl.Ts.x.e.I.....
+    0030 - 5c f9 45 05 ac 17 24 29-3b 3d 3d 32 4f fa 29 64   \.E...$);==2O.)d
+    0040 - d9 cf 62 6d 52 34 4d 6b-38 01 22 dd 47 9f 68 6a   ..bmR4Mk8.".G.hj
+    0050 - 1d ca 2a f9 8f 17 6a d7-6c 9b 2f 89 00 6e 36 fb   ..*...j.l./..n6.
+    0060 - 17 82 27 b2 e7 d7 d2 33-da 59 51 2a aa b8 37 33   ..'....3.YQ*..73
+    0070 - 43 66 18 f2 3d ab 7f 9f-7c 77 68 e3 1e 7e 89 c5   Cf..=...|wh..~..
+    0080 - f9 6c 13 a5 ba 71 aa 9e-c3 1a 27 c9 8f 05 64 b6   .l...q....'...d.
+    0090 - 4b c6 77 0a d1 66 33 c6-19 24 3d 96 37 ae cf da   K.w..f3..$=.7...
 
-    Start Time: 1472787861
-    Timeout   : 300 (sec)
-    Verify return code: 0 (ok)
+    Start Time: 1577474801
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
 ---

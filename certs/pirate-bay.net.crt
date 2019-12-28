@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=pirate-bay.net
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZzCCBE+gAwIBAgISA4kv8IV9mK15n7HHjyvwH7gmMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMTgwMTA1NTFaFw0y
+MDAyMTYwMTA1NTFaMBkxFzAVBgNVBAMTDnBpcmF0ZS1iYXkubmV0MIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1iD2oatjHGvX9bRURMVu+NFmU4j5FV1P
+arvS7v8ongkhORuZRWhEGw55cp1LAXeG59VQE7kS+IL9IkaOgzsm1unmALHc5NE7
+lDw/cIpCpx7pDTlbPEXV/alimhbZi7B5ZyirN+8DQkRXlX3U7OTdPJpGGu8W3Bz5
+NoEt3zFcQc1ENFcyPRkh1dLtAoWhdWwP2sspQ1HpeeNDEE4p4O1QRRp6copATR3G
+Fh0hg73n1awzvRyTYbvwYURxUhkyV4W4cNwlI6WpWshIl9pyL7LNYXKc1Fu7wj18
+qj7zRCuwDjx+vh5846YKSGg2kFX3huTrJgs8ywRccX7mUh7kvWkbRwIDAQABo4IC
+djCCAnIwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQufU8fVExFdlnXukd1AyoaIDM7
+4zAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRj
+MGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5v
+cmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5v
+cmcvMC0GA1UdEQQmMCSCDnBpcmF0ZS1iYXkubmV0ghJ3d3cucGlyYXRlLWJheS5u
+ZXQwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEF
+BQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQC
+BIH0BIHxAO8AdQCyHgXMi6LNiiBOh2b5K7mKJSBna9r6cOeySVMt74uQXgAAAW58
+QlDXAAAEAwBGMEQCIApILnnDvCGC1SOAENEEbS5oiKOEkpgjEoEOysWRCXnmAiAG
+9Ud2bFEgVKYPnYM1u7zkcq0GE5rRQ11hJWVt76LTYAB2APCVpFnyANGCQBAtL5OI
+jq1L/h1H45nh0DSmsKiqjrJzAAABbnxCUsEAAAQDAEcwRQIgS6mJx/zF7mqoIycL
+2PCZgChZ/CxPLBuPSanoLyqBpXYCIQDKrIIOtKTfOXV6C+yjEHBAYKTWfX1Rb6U1
+qaRs6RGWyjANBgkqhkiG9w0BAQsFAAOCAQEAQc9IE5clBm5fYwtwZeD2x71lRdBg
+yBnIPv1BrMsJz3ZrLMs/bv7MnsvGEKO4BZaT9gw3Qz9+zU5SS7GYtkWFBeiPDoce
+8gMssrhC4RU9Fy5FR29ii8JqsiZ7QjhPVz5CYCYrEJsvzcSZFv952Pf8aNSyhNB1
+5e9R5JsOVCa9aQAzoXKFX7Za1uPkSYjWolxOmdUKIV7FEs3KkHyJf0fX2Ek8bw+s
+1AuCdJ+A+ne7viYKKA3BmtSWSva1AfRFeGyngZ40CWtEFGNtPKuDIud3QdP2JA3z
+hoh73OVvS/hktDMnmrewVVv/y1am7Oom+CuMALrQNji7Rmp0PbamCBiL9A==
+-----END CERTIFICATE-----
+subject=/CN=pirate-bay.net
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3234 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 800C0F03628375A73E6B94EADF4916C81707D32177DDACE23D801E41A6307D6B
+    Session-ID-ctx: 
+    Master-Key: AD968DFA2B25BAC78DDB3ED4814382D677040383710A82AEE760F3621E612960DB0F9329A6EED1AA964E8377F434D530
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 25 54 ca dd a2 ec 19 93-e6 dd 8c 17 ca bf 30 5b   %T............0[
+    0010 - d1 d7 f5 0d 39 2c 32 c1-29 00 0f b0 f7 2a 20 23   ....9,2.)....* #
+    0020 - 7e 69 0e de 2f 16 c8 d4-f1 3a c6 18 e5 49 d4 33   ~i../....:...I.3
+    0030 - 02 56 1e fb 17 ae 8d ef-de cc a1 38 c6 b2 07 1c   .V.........8....
+    0040 - cb ee 85 8e 3b a9 55 28-e3 1c c0 b4 57 4d 90 91   ....;.U(....WM..
+    0050 - 61 e1 21 ae de 7d c2 8c-f6 1d 5d 32 82 ed 6a 78   a.!..}....]2..jx
+    0060 - a9 ec 45 6c 07 fa 4e 44-29 d6 88 2c 73 df 1c 7b   ..El..ND)..,s..{
+    0070 - a5 8b 5f a1 dd 80 b2 b5-4c 86 72 3b 04 4f 7e 92   .._.....L.r;.O~.
+    0080 - a1 85 63 da 9f 93 49 91-14 ba 0a 78 99 65 5d 5f   ..c...I....x.e]_
+    0090 - 18 80 fb 7d 9a ec ef 7c-10 0f 4a 35 a9 56 3c 9a   ...}...|..J5.V<.
+    00a0 - 62 11 0a 1f 7f 42 ba 78-31 7c cc 31 c7 7e e1 59   b....B.x1|.1.~.Y
+
+    Start Time: 1577475828
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

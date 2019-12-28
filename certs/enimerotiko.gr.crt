@@ -1,0 +1,65 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/C=CH/L=Schaffhausen/O=Plesk/CN=Plesk/emailAddress=info@plesk.com
+   i:/C=CH/L=Schaffhausen/O=Plesk/CN=Plesk/emailAddress=info@plesk.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDPTCCAiUCBFxatwgwDQYJKoZIhvcNAQELBQAwYzELMAkGA1UEBhMCQ0gxFTAT
+BgNVBAcMDFNjaGFmZmhhdXNlbjEOMAwGA1UECgwFUGxlc2sxDjAMBgNVBAMMBVBs
+ZXNrMR0wGwYJKoZIhvcNAQkBFg5pbmZvQHBsZXNrLmNvbTAeFw0xOTAyMDYxMDI5
+MjhaFw0yMDAyMDYxMDI5MjhaMGMxCzAJBgNVBAYTAkNIMRUwEwYDVQQHDAxTY2hh
+ZmZoYXVzZW4xDjAMBgNVBAoMBVBsZXNrMQ4wDAYDVQQDDAVQbGVzazEdMBsGCSqG
+SIb3DQEJARYOaW5mb0BwbGVzay5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDQUBNJuYDUxl2l0raUzgWGNzRen5Xb1sdneTDLvYONEMJDoFqy97p5
+/xh0BsJoyQye/Qnc7NzsSykaJbCUw6hHrgga1zG/hKd3yJwpexdoRCk83DoZ2C5R
+LaLxnLNOBGV5bQMu+jfQlVus9iDfQ5xLMRBxpisJyg3hUoMsrwZygoUntUF70VRt
+6+vtl/MZjD74ZLdGroVGEK40qkI8ADPihuK0ilgBuk7EO9eSELac5Ep//DVSzx8f
+gLBozSkTis96s3PZ6/SV633FNvMO1KjdyLWuTBIUqUrBNZQosGV6futT6uukU1J2
+aq2h1DboO+cqoshqEth0ft2heSc3wnSTAgMBAAEwDQYJKoZIhvcNAQELBQADggEB
+ADSK7EQlb6s3ddFC8qckl3NnjRV6+7nGQ41NXaSSC70ds1p+HeMAGxJkXlLUZr/p
+UV2rDAE6h7Sif76XWEDCb7Grr/jGYkleVm4V2F/idLEhNdb40jx9D8lt5CFMGPnD
+Iy8PVU8l+PN9IWfYdoaamWF33708FV35peaZ1dtgPM6FIKJDzTfs8BgHq8LiCXeJ
+lgK9mOqFgCw0tvxPo0deL0hfORnXHOnCTyD3iu++AeoEihBvX232TGdL9l/8jCz2
+nCw1Q20k+vEGVImvElTS2MHH7gsqBeY/VB7oEbZ+C/O8nrxj2RRQMQPFUBP1aceT
+LwyBw+loYJC/EcgORSGWLuU=
+-----END CERTIFICATE-----
+subject=/C=CH/L=Schaffhausen/O=Plesk/CN=Plesk/emailAddress=info@plesk.com
+issuer=/C=CH/L=Schaffhausen/O=Plesk/CN=Plesk/emailAddress=info@plesk.com
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 1503 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BA66D927DA038277C674431E8F8E715FA55B72A9395160465D3074D1F299A8AD
+    Session-ID-ctx: 
+    Master-Key: 3F8DD628D574C4F7F1D9A032C2A4F674D194A0023EBFCFA66DD6931CCF7EE325F3F83DDEA206DE0172D96B99700923C1
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c6 98 59 2b c9 3e 0e f1-d5 96 9f c7 03 81 27 1b   ..Y+.>........'.
+    0010 - f2 f1 c7 02 76 00 63 45-91 04 3f 94 b4 3c 55 5a   ....v.cE..?..<UZ
+    0020 - f0 a2 02 9b f8 e7 f6 c6-f1 59 0b f4 ab b0 fc 86   .........Y......
+    0030 - 8a c0 0a 20 4d 2f 72 2d-be d4 81 34 40 4f ab e4   ... M/r-...4@O..
+    0040 - 6e 22 25 98 10 c2 17 99-2b 69 fe ab 83 36 8d 53   n"%.....+i...6.S
+    0050 - bd e3 62 c5 41 9e 8b 2f-72 ca 7d 52 06 fb 37 1f   ..b.A../r.}R..7.
+    0060 - 15 46 e1 fa 33 8c 0a 4f-15 68 f4 8f 27 d2 e8 fe   .F..3..O.h..'...
+    0070 - d1 35 70 14 16 a0 ce 8f-4d 10 c1 4d 31 24 ee 51   .5p.....M..M1$.Q
+    0080 - c8 b1 6d 5c 78 fa 58 3a-8f 47 e5 d7 f2 da c9 dd   ..m\x.X:.G......
+    0090 - d1 c7 dc ec 6f 8c 87 a5-d4 9f a5 d0 6b a8 a4 09   ....o.......k...
+    00a0 - fb a9 ce a1 77 bd 74 dc-dc d6 33 37 fb 25 e7 0e   ....w.t...37.%..
+
+    Start Time: 1577475196
+    Timeout   : 7200 (sec)
+    Verify return code: 18 (self signed certificate)
+---

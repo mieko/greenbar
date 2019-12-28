@@ -1,0 +1,69 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=*.doordash.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdDCCBFygAwIBAgIQDsJSuecxZXhkhxQNFj4+EzANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTA1MDIwMDAwMDBaFw0yMDA2MDIx
+MjAwMDBaMBkxFzAVBgNVBAMMDiouZG9vcmRhc2guY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAjdh5rXOSz2JKMSxCFI4zBkvCUt3bzJ8/pWprPWfm
+ZlBc/S4aww7eExGMBJ5xDTDGa6+MCNDzsuz+EW6rEoMfN8vNaxaU6BB9FUBcYT28
+cd0PZJBV2if44pIf9zOc7gvqFjFc1IyeV7/pWBcykDYHVey1kEFcgaQwiOOAR8dS
+0yO4y+S0aZzm+BupJ4QujAqMClgfpTjhafgYN1QkyxGIS07Ua+KnlrYQxnfTp9Mb
+cJJn/vLjd3CczSzOTz/g6o+xloJSFS60BOruckpKhECdgpORd25YQKbBJ8n9Fg0M
+/ocQReJOsdLHI1HTccMHSXGvFu8KBW4vUdftgNQRWtvbGQIDAQABo4ICiTCCAoUw
+HwYDVR0jBBgwFoAUWaRmBlKge5WSPKOUByeWdFv5PdAwHQYDVR0OBBYEFPvl/aha
+C7Pf+R/teWdePr5SQQ8+MCcGA1UdEQQgMB6CDiouZG9vcmRhc2guY29tggxkb29y
+ZGFzaC5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnNjYTFiLmFtYXpv
+bnRydXN0LmNvbS9zY2ExYi5jcmwwIAYDVR0gBBkwFzALBglghkgBhv1sAQIwCAYG
+Z4EMAQIBMHUGCCsGAQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3Au
+c2NhMWIuYW1hem9udHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnNj
+YTFiLmFtYXpvbnRydXN0LmNvbS9zY2ExYi5jcnQwDAYDVR0TAQH/BAIwADCCAQUG
+CisGAQQB1nkCBAIEgfYEgfMA8QB3AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3
+zQ7IDdwQAAABanXsoOYAAAQDAEgwRgIhALvL5hbOHl4JIFBdRRK3vIl2SursFvDI
+K+4HWB1/7moUAiEA6+g6NLdtNIe3yc2es8OVfwzpGPerf35OsUh70Ma1MacAdgCH
+db/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAWp17KH/AAAEAwBHMEUC
+IGAhSXCAOV4z6GXy33B3hDaCFXkRZlqxoecRaZZ16YKOAiEAm7jqX/QE82oqxlmK
+coc6Qyg/4d2utlYHQ8M0V0XGVYwwDQYJKoZIhvcNAQELBQADggEBAKFemPzFc+bv
+n9gjzPAnCcyGgt2wTLEDa08klldYY6Aj8FCmIahW9b5aib2r1sZtMtbX86eSUt64
+S7OmHdWmET2N7WC9mvCt5BXrpBRAXC+aR0S7P2j52+vKssmI8WQ7wVmnkw0Z1Dmz
+4c+nDD0zaCO/cczCGVxQHnEoRgdioqfPlYB5NCYbBe4TMj0uzaBthqxRyb2HHzYL
+wz0DxlT8miHePOD+FFBDh3h3sm/HpeC4D3RNefM60+QXDTivG4kPtTnNuHM814lM
+BHGxHDApXCj3UTE+4jUZ1/PGokyzOcyJvitkc9Yt6bZutDLI6ESkhqq66NQhJafk
+nKz1wsKVjGk=
+-----END CERTIFICATE-----
+subject=/CN=*.doordash.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5336 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: D7CFA7DBE00772EE20DEF621CAA7F9E89B3DBBC329F010D5AB6D8B008E392572
+    Session-ID-ctx: 
+    Master-Key: 0054B2C4897F200F5F2030723CD32B1CC514ABB5F32825C82CF8658A4AA6AEDCBD984AF26C0AFCE4F29845EB22F6D153
+    Start Time: 1577475875
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

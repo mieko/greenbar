@@ -1,49 +1,58 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=Washington/L=Seattle/O=Amazon.com, Inc./CN=www.amazon.it
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/CN=*.cw.peg.a2z.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE3jCCA8agAwIBAgIQDMVTmTSl7y3qqbeucFT4XTANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MTExMjAwMDAwMFoX
-DTE2MTIzMDIzNTk1OVowZzELMAkGA1UEBhMCVVMxEzARBgNVBAgMCldhc2hpbmd0
-b24xEDAOBgNVBAcMB1NlYXR0bGUxGTAXBgNVBAoMEEFtYXpvbi5jb20sIEluYy4x
-FjAUBgNVBAMMDXd3dy5hbWF6b24uaXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
-ggEKAoIBAQCtdqQZc/yYaMoRjhSZ+QQKdFDSMnW1djITYj9sGxH7WFCp76wiyDow
-AxFLxUT2cv4k0WLUf0LDQjcHt/oy8TqTE8FzpY3zzPtevMq8CAAcKksSuRkSFPzX
-uhvJ90nlxDouoXGSuHD4soXfRBXRk8zEqp8oSh/ab1QR9Z4f1a0sJ0L1DJlY3GNP
-MKaxbxhs5Z70ZrOgzd/pNBNA4PYhPQ+IhMJkEuw9IJSaB+AKSYj3xlGtgYFwammQ
-fc8Ury1cgogNqCdHnKE6dUBz4mPSu405fhAQJW0Gosse2Bb7gD/ruC30l6yyHwdj
-BsXwYLUdeGEBzto/d2g76NJdklfkLIL7AgMBAAGjggFtMIIBaTAjBgNVHREEHDAa
-gg13d3cuYW1hem9uLml0gglhbWF6b24uaXQwCQYDVR0TBAIwADAOBgNVHQ8BAf8E
-BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGEGA1UdIARaMFgw
-VgYGZ4EMAQICMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1jYi5jb20vY3Bz
-MCUGCCsGAQUFBwICMBkaF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBhMB8GA1UdIwQY
-MBaAFF9gz2GQVd+EQxSKYCqy9Xr0QxjvMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6
-Ly9zcy5zeW1jYi5jb20vc3MuY3JsMFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcw
-AYYTaHR0cDovL3NzLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3NzLnN5
-bWNiLmNvbS9zcy5jcnQwDQYJKoZIhvcNAQELBQADggEBAE+tw6WWAEIbAwfuIPxq
-0B9h6akl0JnpZx1zQFtxUdDCCOiA73p0eBGOll5j5CgbrUOnEokROTK57jBfFpEw
-Wcy8yuquYXXHwTqZjp6vqfLY5OOJCtvusrWmSX597tXb42n4EPVX2lmMUjTqqPhm
-iiDDda4qVpSyhqbCKG53SWr3825VkmruzBcXcTWUWyFieOO8m7u7Z/aE4yMBuBvX
-3uvzvWkqw1yNmok3YUhiLdmGP626ZnEOqRLzsiEdFvZSEWbxNBRGOsXbq2kKm77Q
-7FGi3Pqu+/eAALnOL89wIED/5xhz2ODenkNdoeSzNvQDPToMMD1B77dGH+DI4YnZ
-Nsw=
+MIIGDTCCBPWgAwIBAgIQDBQOKR3eaL6bJQ471BckjDANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTEyMTgwMDAwMDBaFw0yMDEyMTgx
+MjAwMDBaMBsxGTAXBgNVBAMMECouY3cucGVnLmEyei5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDe09EudOaXFoNgvQafrFlvwKxztEMAfXgeliB3
+hL380TRKHG6Gg+GR7x4xRK3ATY+/jPCr1WNpJph2a3eQbqlXoTz/oYHQ39RIpK1Y
+CJ7Ecqua9LHPgl9Mr3WF5VK2EuMpsOhnVvmgATsa2mkoNFeRrFdWGLzNWUK72KKa
+wz6nm9v00vXuLFziaBx/aLGfHfov5S6EWpjTDJTwn0Cp29D4rLnEv8/ThDZHCase
+vIQmNuv4GpP0JMVseUFg0psgEexpOhm4ejo3TTorvoXQXYs3SR06MxJ2EWnH7slf
+W9tqZuCDmD7x2Hel0rYRslrOcjydk738fd1xJtPqrOWpmYblAgMBAAGjggMgMIID
+HDAfBgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUTTqO
+NWVWkVkw/FuNzcPlM9xMduYwgbwGA1UdEQSBtDCBsYIQKi5jdy5wZWcuYTJ6LmNv
+bYIUb3JpZ2luLXd3dy5hbWF6b24uaXSCCWFtYXpvbi5pdIINd3d3LmFtYXpvbi5p
+dIIjcC1udC13d3ctYW1hem9uLWl0LWthbGlhcy5hbWF6b24uaXSCI3AteW8td3d3
+LWFtYXpvbi1pdC1rYWxpYXMuYW1hem9uLml0giNwLXkzLXd3dy1hbWF6b24taXQt
+a2FsaWFzLmFtYXpvbi5pdDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwuc2Nh
+MWIuYW1hem9udHJ1c3QuY29tL3NjYTFiLmNybDAgBgNVHSAEGTAXMAsGCWCGSAGG
+/WwBAjAIBgZngQwBAgEwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRw
+Oi8vb2NzcC5zY2ExYi5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6
+Ly9jcnQuc2NhMWIuYW1hem9udHJ1c3QuY29tL3NjYTFiLmNydDAMBgNVHRMBAf8E
+AjAAMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcApLkJkLQYWBSHuxOizGdwCjw1
+mAT5G9+443fNDsgN3BAAAAFvGtZEcQAABAMASDBGAiEAuPsy+gMMEPEli6IlwiQ5
+A5FLnRhk9K7uq49mK5qom3kCIQD7Rh1vKTe+FbJ6dIreyZr3bFShyjgrSz8C7UVz
+p2DsRwB3AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABbxrWRjkA
+AAQDAEgwRgIhAKWsnay/etXnUh8n8S5eEqTwGDFFAgphyeE62NOoxj4pAiEA5npC
+IgLKW1qw44lnh4ncBwbd6pKXeJX66excCOeHYU0wDQYJKoZIhvcNAQELBQADggEB
+AGH8VOgG7rxMyNFbhWjjIDZpRkk7Ug88D2/y9uC9V5L8zpPMHJ8Vjo8KTAqPaqCa
+4PyfqAhvRWNHTkOMP5oSoozUP20u7juiCY13vOcuZ7pW+McyNkQQf7wdi43jke3C
+8nRb+tp9jlhn7KeJlRXxi//WXBhteQSkPgOIUF8trWcgRkOsFHjEHv2r7QnPK3TF
+U9wlHUI4DaJlDxI0yVoO46H0hpnX18pomIzmVcL+A5V05M+lll32c8xwzikDDmR9
+VeQ5JVyOhJhKKas+PFTfTLLprTqu48cvSw2019MbMshogPgmIupngeo9rBwMu/81
+ASrTlS8TByZWUyLOKo8h1b0=
 -----END CERTIFICATE-----
-subject=/C=US/ST=Washington/L=Seattle/O=Amazon.com, Inc./CN=www.amazon.it
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+subject=/CN=*.cw.peg.a2z.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3100 bytes and written 434 bytes
+SSL handshake has read 5489 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -54,14 +63,10 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: EA5C36038070DEEC5C3808C619D848A15C553B3768A975C8C2225F476BE5E3A7
+    Session-ID: E5A16A1709C89A65DC7876129EE9588CA6DB9B26A78D96ABE6D6182826B09181
     Session-ID-ctx: 
-    Master-Key: 99DD70AB30755151AB936B3AF5C515D28A903FF30FA9635E785E6547174B053B7CAADF472268C2B79D51F37BE1E25C6D
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788065
-    Timeout   : 300 (sec)
+    Master-Key: D7494CFC5C9F85176CE4D16041BC87ED47D1C11583DE82462E02271BEEBAF0A0E09EA4CFC21634B5A83CFF0D75744334
+    Start Time: 1577474883
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

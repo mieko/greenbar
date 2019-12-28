@@ -1,2 +1,0 @@
-"stumbleupon.com": "F"
-

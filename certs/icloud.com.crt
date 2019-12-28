@@ -1,78 +1,82 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/jurisdictionC=US/jurisdictionST=California/businessCategory=Private Organization/serialNumber=C0806592/C=US/postalCode=95014/ST=California/L=Cupertino/street=1 Infinite Loop/O=Apple Inc./OU=ISG Delivery Ops/CN=icloud.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=California/serialNumber=C0806592/C=US/ST=California/L=Cupertino/O=Apple Inc./OU=GNS Edge CDN/CN=images.apple.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Extended Validation CA G3
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Extended Validation CA G3
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G3
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIG/DCCBeSgAwIBAgIQISmybC5MJNbD23T7+b2+4zANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTYwNTI2MDAwMDAwWhcNMTgwNjIx
-MjM1OTU5WjCCAQkxEzARBgsrBgEEAYI3PAIBAxMCVVMxGzAZBgsrBgEEAYI3PAIB
-AgwKQ2FsaWZvcm5pYTEdMBsGA1UEDxMUUHJpdmF0ZSBPcmdhbml6YXRpb24xETAP
-BgNVBAUTCEMwODA2NTkyMQswCQYDVQQGEwJVUzEOMAwGA1UEEQwFOTUwMTQxEzAR
-BgNVBAgMCkNhbGlmb3JuaWExEjAQBgNVBAcMCUN1cGVydGlubzEYMBYGA1UECQwP
-MSBJbmZpbml0ZSBMb29wMRMwEQYDVQQKDApBcHBsZSBJbmMuMRkwFwYDVQQLDBBJ
-U0cgRGVsaXZlcnkgT3BzMRMwEQYDVQQDDAppY2xvdWQuY29tMIIBIjANBgkqhkiG
-9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwwub2TYfhdcg5kEvYnw2RfK3QPRVjLxJYU/U
-x5Op+jUTfQxUtwaeN9iprG+Rf7zSAVb+n0fIMir8r68ri168T0YiH39rT+vrtXeL
-dVRZKbr7vi7+aw8GLtNgauveCFxVtHu8cV6jD8tOP+470Il+Hx7bMCHdIPYGd7m5
-RkYweYAkMsQqLXdtGIn6jPURnHzJ+e9L3X6/91VpDLXTmCpslLFO0/ZHB/0fpaoi
-91ey9xaVF90Uu5DmpWyLokJ3yke4zKcehX4x9g/odlkb/PsBQZex8anwFJpPdb5N
-a1E4nRoSLKgxYrUjQ3IbeeOxG9qoxigcmv82UGbKKspJU2HnWwIDAQABo4IC7jCC
-AuowFQYDVR0RBA4wDIIKaWNsb3VkLmNvbTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQE
-AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwbwYDVR0gBGgwZjAH
-BgVngQwBATBbBgtghkgBhvhFAQcXBjBMMCMGCCsGAQUFBwIBFhdodHRwczovL2Qu
-c3ltY2IuY29tL2NwczAlBggrBgEFBQcCAjAZDBdodHRwczovL2Quc3ltY2IuY29t
-L3JwYTAfBgNVHSMEGDAWgBQBWavn3ToLWaZkY9bPIAdX1ZHnajArBgNVHR8EJDAi
-MCCgHqAchhpodHRwOi8vc3Iuc3ltY2IuY29tL3NyLmNybDBXBggrBgEFBQcBAQRL
-MEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9zci5zeW1jZC5jb20wJgYIKwYBBQUHMAKG
-Gmh0dHA6Ly9zci5zeW1jYi5jb20vc3IuY3J0MIIBfQYKKwYBBAHWeQIEAgSCAW0E
-ggFpAWcAdQDd6x0reg1PpiCLga2BaHB+Lo6dAdVciI09EcTNtuy+zAAAAVTtcMrF
-AAAEAwBGMEQCIGUi0wn0cjNAeIgVt94hexLJRxh44iMZF6LC2lgIw0rDAiAuQkKv
-r3Qn8++F9YEprMda+Fwxyvgwab1r0sTY+5ecSAB3AKS5CZC0GFgUh7sTosxncAo8
-NZgE+RvfuON3zQ7IDdwQAAABVO1wyuIAAAQDAEgwRgIhANLvPcJoHn721IG1BI5h
-22LZZY2eTU3udkhxOqoLHMGFAiEAnbTct++SEaPbPs/FP2sf6jjCOmv7pgtpgV1M
-rf/GHHYAdQBo9pj4H2SCvjqM7rkoHUz8cVFdZ5PURNEKZ6y7T0/7xAAAAVTtcMri
-AAAEAwBGMEQCIDSTSinavvBrKwxvPlGxkDnSN2uXkG11qjwQEGa4/avRAiBZ4CQd
-fhv15+b0z6KeJ7LjLe2w/X/tSi5tZ6evcNZ14DANBgkqhkiG9w0BAQsFAAOCAQEA
-c4jrLsyF1WIX9eHPXSgJK/cI42v6FiqfUugCfOmSReFItZS/4YjsOLhg+w0nsMW0
-aIyRefx8h5Y8gHD91MmwgPt3u+R2Xfu4/skYEmckX4XFg0MUT6cvlRqLD7FjZ2tO
-2cUa0Ffude58ybu9c3lLa53ss9Bs/H8q1hDihJmS/yqFhfHkbK1WL9RpIxpbyZiU
-Hal6aigTdO6ElcRoMNiKlkIJzQgXoe8pQTjXr8XDoZvMJNxMXRIS2DI+Fd12PFv/
-KJr0qZTs+w/+LxKQN5+EIj0JB4Umu8qrUN++ucNapMftLvp0DhoeGAudlnOf/F/A
-nSOK+NIZrVVeV1XdahrkuQ==
+MIIFzTCCBVKgAwIBAgIQDl5rclQ3Th2d28qXZMu3TzAKBggqhkjOPQQDAjBsMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cu
+ZGlnaWNlcnQuY29tMSswKQYDVQQDEyJEaWdpQ2VydCBFeHRlbmRlZCBWYWxpZGF0
+aW9uIENBIEczMB4XDTE4MDEyNTAwMDAwMFoXDTIwMDEyNTEyMDAwMFowgeExHTAb
+BgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRMwEQYLKwYBBAGCNzwCAQMTAlVT
+MRswGQYLKwYBBAGCNzwCAQITCkNhbGlmb3JuaWExETAPBgNVBAUTCEMwODA2NTky
+MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTESMBAGA1UEBxMJQ3Vw
+ZXJ0aW5vMRMwEQYDVQQKEwpBcHBsZSBJbmMuMRUwEwYDVQQLEwxHTlMgRWRnZSBD
+RE4xGTAXBgNVBAMTEGltYWdlcy5hcHBsZS5jb20wWTATBgcqhkjOPQIBBggqhkjO
+PQMBBwNCAAQ1FWofiCzy9lUdWADz/A+fzLxYoOz0hejFT4MDhhI1uMdaR55fJJr6
+oEyOv19/zgHu45Ep9qOAJ1Ty8Fvvc/juo4IDXjCCA1owHwYDVR0jBBgwFoAUmTn/
+X6SzWV+BwFeZ0aOkR6xgY00wHQYDVR0OBBYEFPukOz71db8jOsL61IYW2nQiiltZ
+MBsGA1UdEQQUMBKCEGltYWdlcy5hcHBsZS5jb20wDgYDVR0PAQH/BAQDAgeAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBvBgNVHR8EaDBmMDGgL6Athito
+dHRwOi8vY3JsMy5kaWdpY2VydC5jb20vZXZjYS1nMy1ncm91cDEuY3JsMDGgL6At
+hitodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vZXZjYS1nMy1ncm91cDEuY3JsMEsG
+A1UdIAREMEIwNwYJYIZIAYb9bAIBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3
+LmRpZ2ljZXJ0LmNvbS9DUFMwBwYFZ4EMAQEwgYAGCCsGAQUFBwEBBHQwcjAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEoGCCsGAQUFBzAChj5o
+dHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRFeHRlbmRlZFZhbGlk
+YXRpb25DQUczLmNydDAJBgNVHRMEAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFq
+AWgAdwCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAWErsHYnAAAE
+AwBIMEYCIQD1XQ6A0CcGmDXLV6CCAIUvVojKvgEl1wyj2QASTXBx0QIhAPLyWhZw
+pasWrgHRvcTHbDLWl/5nLe/UIt3BIyFBI1LKAHYAVhQGmi/XwuzT9eG9RLI+x0Z2
+ubyZEVzA75SYVdaJ0N0AAAFhK7B27QAABAMARzBFAiBEvxxoG3AkWd0vPZCN3nYB
+15y5GU/icnEXYaANC3wZ1wIhAJh8i5+cXwF7k1Ik/HypOS71qWjIP0Wo0fKfislA
+w2UbAHUAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFhK7B29wAA
+BAMARjBEAiA5jobqWZSkzwikqvQoId38pmSMgHpWJL80evtl6jF1bgIgZ8BEWWg4
+HdGqhEn3NoaMIwVoQgM0Oohd/97g27fEd4kwCgYIKoZIzj0EAwIDaQAwZgIxAMyV
+VbQ8TcEyJb02XaNAaegfZlznyrTUswCtbS3K9np9wWz1eaTBh+mYI/s1NWuFVwIx
+AK91U+xMAJmTaIeW2dMuNsfw+fhpcZOZdoPpVw5e1RbticncC7i1SDHpyyzHqQud
+Xg==
 -----END CERTIFICATE-----
-subject=/jurisdictionC=US/jurisdictionST=California/businessCategory=Private Organization/serialNumber=C0806592/C=US/postalCode=95014/ST=California/L=Cupertino/street=1 Infinite Loop/O=Apple Inc./OU=ISG Delivery Ops/CN=icloud.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=California/serialNumber=C0806592/C=US/ST=California/L=Cupertino/O=Apple Inc./OU=GNS Edge CDN/CN=images.apple.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Extended Validation CA G3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA256
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3617 bytes and written 434 bytes
+SSL handshake has read 2773 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Server public key is 2048 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 256 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: CECE5CFBE1464C8AA9439E8C35BAD295C7F57A03C45F83E2F0C3208E4904E648
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: 9E39EF49574B4A0F13E32D9A586F4196890185332BB6B72CD44CD0F01C0E9C8A
     Session-ID-ctx: 
-    Master-Key: 91B1E383353EA56D171DDE18C6CE12B1B1160515151A03C2E6A6F7B70F372051AF7095FA50B2FE3FE8F95C8D6E790C36
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788156
-    Timeout   : 300 (sec)
+    Master-Key: D8236B9ECBAF1125F2CEC1E73F41C6599177A1C9EDE675547D1C4D406E3CFAD631D82B306FF5784AFBD85729F396EA63
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 79 66 70 57 52 74 74 33-59 36 76 50 6c 64 63 78   yfpWRtt3Y6vPldcx
+    0010 - d9 78 e5 90 82 42 ad a9-51 2b 8e c6 b3 77 81 c5   .x...B..Q+...w..
+    0020 - 7d cd b2 ae 77 c4 7f c8-8e 0d 1d 32 d8 e8 d8 eb   }...w......2....
+    0030 - 2f 64 42 7f 85 80 30 9d-19 56 c4 47 1d 89 e1 88   /dB...0..V.G....
+    0040 - 33 3b cc 43 ee d7 99 f6-c8 6c 96 78 c8 3f a1 a9   3;.C.....l.x.?..
+    0050 - e3 00 e3 4a 54 a3 b9 a3-4b b5 ce 9a 33 c6 22 f5   ...JT...K...3.".
+    0060 - 0b 14 28 79 13 15 d9 a0-39 03 89 dd 05 a0 44 80   ..(y....9.....D.
+    0070 - 57 53 df b5 cc 53 40 51-46 17 fe ef 3e 5b 69 cf   WS...S@QF...>[i.
+    0080 - c2 6f 03 5d 7e 36 81 48-86 e3 d1 dc b7 24 88 01   .o.]~6.H.....$..
+    0090 - f0 cf fe 27 6d 31 a8 83-28 c2 f9 68 96 7d d6 46   ...'m1..(..h.}.F
+    00a0 - 1c 11 69 fa a2 ba 7f 63-be b3 ae c0 5e 21 43 d3   ..i....c....^!C.
+    00b0 - 97 18 f8 52 3d 22 2c db-b4 e7 35 aa b2 64 65 d8   ...R=",...5..de.
+
+    Start Time: 1577475256
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

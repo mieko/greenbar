@@ -1,65 +1,59 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=AU/ST=New South Wales/L=Sydney/O=Squiz Pty Ltd/CN=*.squizedge.net
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SHA256 SSL CA
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SHA256 SSL CA
-   i:/C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+ 0 s:/C=AU/ST=New South Wales/L=Sydney/O=SQUIZ PTY LTD/CN=*.squizedge.net
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust TLS RSA CA G1
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust TLS RSA CA G1
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHbzCCBlegAwIBAgIQAIL/dHImmGDuAPC4qIRCZDANBgkqhkiG9w0BAQsFADBG
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEfMB0GA1UEAxMW
-R2VvVHJ1c3QgU0hBMjU2IFNTTCBDQTAeFw0xNjAzMDQwMDAwMDBaFw0xODA2MDMy
-MzU5NTlaMGoxCzAJBgNVBAYTAkFVMRgwFgYDVQQIEw9OZXcgU291dGggV2FsZXMx
-DzANBgNVBAcUBlN5ZG5leTEWMBQGA1UEChQNU3F1aXogUHR5IEx0ZDEYMBYGA1UE
-AxQPKi5zcXVpemVkZ2UubmV0MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKC
-AgEAqL2caU6itZtZVfYNjw3vt0NC04uhyYuYeU3z9VKrp9uzSujAHm09+esiZ9GY
-UrCYPXUo3QEvbnCDrC+5AbKZzgfyj2DDirU5fidWHtDrJud77/GlJv+SiR/i4Olu
-HbepEMXsb5dmmJ/M94D0wSkTz0yRxd/hO+e+q9LREeyYdjGBYj7pJnNC8Z1DKnft
-BUKEbTMETVTi2TK9G8wWNf6JAvD86QHRWMiTh2AT8xGs3f+RnpfG7RayB1rFDaBW
-v1s6bR8D+nsW548ssyLY58hpeUdUpxa0Yu2ELL6YBnvzRVetUL3Wyc3/0XMggfdu
-s7bDyEG7/Ks4QLSQ+sP9YoIB2P9CklFf8JDBKiS6BTPjRSsQnwnRd8nuZkG4ec8g
-SA2YISXBxKdVeg1xXj7EWFLR0u4J33mnUu1Sk7ANMBk9mHFs6o2VIu/gSq46pvMz
-ULa3HwkVSPP/tdmN0/a/bybdrhTjLHZj0Of4VdR6XAfKcrc5QKESW/VFGsb9V2Y4
-pCu2WRFbr7JIozbln1Ie3BSVtAaukDs5sjy8vkbcU3nCO/yPySIIplQvuWbDKeSV
-tyiKS3RXRv6VKt1YCUEFvlmuFwECrAE7mUqHTNdh7cN8dqO6J6tQKFucw9Phml9x
-rMq7Y9kp6mDctChcTwQ0SbfoZlD1PJ6wYmeKkWTwHN/3HBkCAwEAAaOCAzMwggMv
-MCkGA1UdEQQiMCCCDyouc3F1aXplZGdlLm5ldIINc3F1aXplZGdlLm5ldDAJBgNV
-HRMEAjAAMA4GA1UdDwEB/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8v
-Z2ouc3ltY2IuY29tL2dqLmNybDCBnQYDVR0gBIGVMIGSMIGPBgZngQwBAgIwgYQw
-PwYIKwYBBQUHAgEWM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMv
-cmVwb3NpdG9yeS9sZWdhbDBBBggrBgEFBQcCAjA1DDNodHRwczovL3d3dy5nZW90
-cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVnYWwwHQYDVR0lBBYwFAYI
-KwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFBRnju2DT9YenUAEDARGoXA0
-sg9yMFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2dqLnN5bWNk
-LmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL2dqLnN5bWNiLmNvbS9nai5jcnQwggF/
-BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2AN3rHSt6DU+mIIuBrYFocH4ujp0B1VyI
-jT0RxM227L7MAAABU0ARh0wAAAQDAEcwRQIhAOyA1bVFVLCzWTatAgkCN/BVQjYc
-r8FzcaORxiSY9H7SAiBFy1RIqB2CkhHtsSL1i4BesT2fUawivoaJnallLz/ssQB2
-AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABU0ARh4kAAAQDAEcw
-RQIgHQoIG+lAuUQLe2R1RrIgqfY1VdgDHJYChJGksMRvSIgCIQC7N7AsPO6sIoob
-mTzfpHW033TzMVcTQsWUN1Zel1GkGwB3AGj2mPgfZIK+OozuuSgdTPxxUV1nk9RE
-0QpnrLtPT/vEAAABU0ARh4gAAAQDAEgwRgIhANdHGgeISgrCa+PNlFdgV0Da7CWb
-BeojOwy51DYcmUAzAiEAkUU3E0WxDzoLY5UXlYX24r/pC0tOiWwl1CUHTpsLvOow
-DQYJKoZIhvcNAQELBQADggEBAGYnQtpyFJFjQ3sRZh8efDAyQqVHaBMiCnD1MiG8
-xwFCOzPUKSGdimxnTQlrlIauckxri/LnDP6vHrfZtQangJS2E0K0uOOyAErPUD3c
-8KYSk6b5019/DdMAOVT3kBY6nsXM7qu9rBmFisbqsJg5eZYUsjDLBg22/Px+sHwb
-hFlSnIAkfj5TIBmAyJ5dJNnWJvMxXXID1BZIyz1y1gDCld18j0C5XJhiMlK7iSSZ
-iFW40qJPsF1thH9dT9zIs9A0oD2nwQsLbkcbTRFr4rpa63/NvsCSDRfVeoXeIDec
-Qolv+vqppZc+bq7YYaWPjC6iV9ZflaxNwUXAsYKiEWy/xvY=
+MIIGiDCCBXCgAwIBAgIQDAk2Y3SRiPpbd0D8XupOlzANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR8wHQYDVQQDExZHZW9UcnVzdCBUTFMgUlNBIENBIEcx
+MB4XDTE4MDQxMTAwMDAwMFoXDTIwMDcxMDEyMDAwMFowajELMAkGA1UEBhMCQVUx
+GDAWBgNVBAgTD05ldyBTb3V0aCBXYWxlczEPMA0GA1UEBxMGU3lkbmV5MRYwFAYD
+VQQKEw1TUVVJWiBQVFkgTFREMRgwFgYDVQQDDA8qLnNxdWl6ZWRnZS5uZXQwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCou411JkVSpBBOZi/HFuGpIx6x
+uDtL/2McZf03suWc9HIb17mhqB3rI9Yexd1momcrxQEc/H6y4cT/oyCK+ci52/K0
+vy42/t+aO1FNiqIDlHZvpP/HL6HvSGyz/vfm4JOk5O3jXOENY4p64XoJSz4MSNRF
+OAUMAIbhKP7lHjOARJkaLxCXhi65H8cXeSF6odJh3auKuIJVBQ+WotpG5AsHlyP5
+z0+DTZxA9uLOU3L6qImcs11sjpmG4QWwQSKB6ppwdWP118WkGWi7GhP6IrByI02y
+p0mXxKn6ap8xhM8DyxmBZ4ZNJdYAcxgtTL26fFL80kobylrzH5aEM6HlROWFAgMB
+AAGjggMyMIIDLjAfBgNVHSMEGDAWgBSUT9Rdi+Sk4qaA/v3Y+QDvo74CVzAdBgNV
+HQ4EFgQUDiwWVmvl5Fm5X8evdr+/R6UBP0UwKQYDVR0RBCIwIIIPKi5zcXVpemVk
+Z2UubmV0gg1zcXVpemVkZ2UubmV0MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwPwYDVR0fBDgwNjA0oDKgMIYuaHR0cDovL2Nk
+cC5nZW90cnVzdC5jb20vR2VvVHJ1c3RUTFNSU0FDQUcxLmNybDBMBgNVHSAERTBD
+MDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2Vy
+dC5jb20vQ1BTMAgGBmeBDAECAjB2BggrBgEFBQcBAQRqMGgwJgYIKwYBBQUHMAGG
+Gmh0dHA6Ly9zdGF0dXMuZ2VvdHJ1c3QuY29tMD4GCCsGAQUFBzAChjJodHRwOi8v
+Y2FjZXJ0cy5nZW90cnVzdC5jb20vR2VvVHJ1c3RUTFNSU0FDQUcxLmNydDAJBgNV
+HRMEAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgCkuQmQtBhYFIe7E6LM
+Z3AKPDWYBPkb37jjd80OyA3cEAAAAWK0XNEPAAAEAwBHMEUCIQCCkOF4I/9iWS/I
+ZbPxv2MbpUBR7e5V//HOl8f1nqLKlQIgAhdpgqX6L8vlR1cMhAYE+XtblYFvv5iO
+BP3ovLsnD20AdwBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAWK0
+XNJgAAAEAwBIMEYCIQCyn00Swxdbe4Ymi1kvTUZUwCYyfP0XoHVBGmsfbXpLkwIh
+AMP6K6WsD0gNT55OxQTnku3HnePHDuzktrKnKdw1U97EAHUAu9nfvB+KcbWTlCOX
+qpJ7RzhXlQqrUugakJZkNo4e0YUAAAFitFzRJAAABAMARjBEAiAM2S46UIqBoWk5
+hdbXMy6ZlMFt4dIpnj7lC/YvopJVQwIgdT+JmVlIUrJZ6p2FOG7oBIjg07iz8AJb
+EUpekHrP1ygwDQYJKoZIhvcNAQELBQADggEBAD5aiWh+eGSrbU4JFQMVh+rvZPKh
+7E3mqfEkIA6oDGllHB9+46unVr9NVqEj6uoBHyMpj6ZZQ6y2TYQ2Z9AkPBpah7WK
+mRkK0qRwaG6p1wHUE11ZY1pNiVIGGGRTTa0zcVccgHwlIeSTlfGtzbDNhIoj8V+j
+kN/lMDzbTQ9Q/Cgt7MTX6ESVD2HRHE9e7tdpA5EZohe4/1AQgZSac9aYWrGEpvad
+O6TGzpg/dKa6udk/gUdtgAUx/TEi2ofm2ZuJaB71/KB2Y4nrrScIMaJ1ejlnr1/y
+sYpfFIXrPv9Y0A3zLAO5u8spVmC34DLQc/87YRJAcLEWbDfGLhi+RS7yKAI=
 -----END CERTIFICATE-----
-subject=/C=AU/ST=New South Wales/L=Sydney/O=Squiz Pty Ltd/CN=*.squizedge.net
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SHA256 SSL CA
+subject=/C=AU/ST=New South Wales/L=Sydney/O=SQUIZ PTY LTD/CN=*.squizedge.net
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust TLS RSA CA G1
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4068 bytes and written 434 bytes
+SSL handshake has read 3518 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
-Server public key is 4096 bit
+Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
@@ -67,28 +61,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 4C452751E85CC3B3DDBF71C978D78F3D2D67951FD8CEC5C854AA1FE443C97E86
+    Session-ID: 4F1A3D3BA310FD6E064A7E5498B9B475FF30C4813601851333BAB1D2D5D55645
     Session-ID-ctx: 
-    Master-Key: B5F7DEC78C3A5B77EC3DEBA2DBEBAC21DCAE7D3402FF3DFF13399B94FD74A43509E479E49ABC42E7B4B491A04CB1BAA2
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: BD6635930F0F667F17734C26C62AF2A9D8CC5586E17D12299AE6ABDAD2455F0DB99E5BEF9AAD58AF12B22A0AC6B101DD
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - f2 d5 bd 5c 0b ac d7 cf-2a 8b e1 52 1a 4e 40 6d   ...\....*..R.N@m
-    0010 - 10 a5 67 0e f6 df 6b 0e-da a3 09 a8 e5 15 eb 76   ..g...k........v
-    0020 - 85 96 f6 62 ae aa ca 08-e9 bc 5f 68 02 bc 87 2d   ...b......_h...-
-    0030 - ad b6 6a 3e ff 3d 19 8a-89 50 3b 7e 15 05 7b 19   ..j>.=...P;~..{.
-    0040 - ef d6 9c 4f 1b 6b fe bf-54 e4 79 b9 43 c6 6e 4d   ...O.k..T.y.C.nM
-    0050 - af d5 28 5f f4 9b 0d 8a-32 15 0a c2 0b 63 3f c5   ..(_....2....c?.
-    0060 - 45 78 7e 81 cc f7 28 a9-a5 53 4e 4b 60 02 be 83   Ex~...(..SNK`...
-    0070 - 2d 9a 30 8b cd 4b 9a 80-4d f5 c0 c0 5c 81 df 55   -.0..K..M...\..U
-    0080 - b5 76 07 7d ea fe 09 88-7a eb 37 5f e6 93 85 ab   .v.}....z.7_....
-    0090 - e7 1a de 76 0e 7e d3 bc-20 c5 42 ef cc c9 47 ce   ...v.~.. .B...G.
-    00a0 - ba 52 b5 47 23 57 f3 a8-ec 7c 48 1b a6 e2 f5 6b   .R.G#W...|H....k
+    0000 - e2 c0 bf 70 fd 94 bb 74-d3 db 01 f6 a8 2c fd 9f   ...p...t.....,..
+    0010 - 10 0d 4b b8 4f 68 6d e5-67 18 94 7a 79 db 1f 99   ..K.Ohm.g..zy...
+    0020 - 79 a2 16 c5 4f 1e 7e b9-74 17 57 51 c2 05 c9 bd   y...O.~.t.WQ....
+    0030 - ee 5f a6 d5 aa e9 04 8e-d3 5b af 03 c7 8c 95 6c   ._.......[.....l
+    0040 - bf 9f 10 86 8d 09 3c aa-2b 4e a1 d6 94 2d 7f bc   ......<.+N...-..
+    0050 - e4 87 14 05 8a f1 44 62-6b a8 ad 66 88 0a 84 83   ......Dbk..f....
+    0060 - 20 3f cf 54 2a 35 d2 b4-1e 31 f9 ce b6 45 75 c0    ?.T*5...1...Eu.
+    0070 - 64 e2 5b b2 23 e7 19 ea-f6 70 70 b0 e5 f4 a5 ff   d.[.#....pp.....
+    0080 - f7 d3 c0 4e 21 3d 80 78-9e 78 79 e6 ec 80 dc aa   ...N!=.x.xy.....
+    0090 - a6 c3 1c 47 7d 67 e2 8c-79 6f 4b 0a 1e 95 30 b4   ...G}g..yoK...0.
+    00a0 - 7b 51 03 0b 38 5c 8e ee-e2 46 5e 0f c2 20 d5 60   {Q..8\...F^.. .`
 
-    Start Time: 1472790098
-    Timeout   : 300 (sec)
+    Start Time: 1577475222
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,0 +1,73 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/O=CloudFlare, Inc./OU=CloudFlare Origin CA/CN=CloudFlare Origin Certificate
+   i:/C=US/O=CloudFlare, Inc./OU=CloudFlare Origin SSL Certificate Authority/L=San Francisco/ST=California
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEpjCCA46gAwIBAgIUMwBK7Wm86v4PBLkq9ntsercs6nIwDQYJKoZIhvcNAQEL
+BQAwgYsxCzAJBgNVBAYTAlVTMRkwFwYDVQQKExBDbG91ZEZsYXJlLCBJbmMuMTQw
+MgYDVQQLEytDbG91ZEZsYXJlIE9yaWdpbiBTU0wgQ2VydGlmaWNhdGUgQXV0aG9y
+aXR5MRYwFAYDVQQHEw1TYW4gRnJhbmNpc2NvMRMwEQYDVQQIEwpDYWxpZm9ybmlh
+MB4XDTE4MTEwNjA1NTYwMFoXDTMzMTEwMjA1NTYwMFowYjEZMBcGA1UEChMQQ2xv
+dWRGbGFyZSwgSW5jLjEdMBsGA1UECxMUQ2xvdWRGbGFyZSBPcmlnaW4gQ0ExJjAk
+BgNVBAMTHUNsb3VkRmxhcmUgT3JpZ2luIENlcnRpZmljYXRlMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmXNDhLIjz+Ve4TOFALJf30yB4x7jrkByeYv1
+ox2Nb78FWr6BrQz4eeLEszYb8VwplVqFJIMIFgvSqKbDQjY/XEo/r3zZM0J6ZMqm
+Z/koCLI21+ITk3qhMtm0xOlfx/I+2CwvXhSYnYFv7yUW0nY9h1NWk/2iAi3zNrXs
+s4rCgwAObhiRHzej6+puuSYV4ACKSIimdH4mdcMTLmh3tpd55Gu2cvtWYgRXpOqM
+DD9ybL4GvfyZZgGxQW0WEIvs7ODohMQT/2o8OWZDwnlrlPmtOzWL4nN66AazPalE
+u/Y0clXYCrVAOcDz+nGvEO7L/tAUmA3OKhp9tr1NO205E63XyQIDAQABo4IBKDCC
+ASQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+ATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRWjYFkLehIzHL4DMtHoW+oiIAAKjAf
+BgNVHSMEGDAWgBQk6FNXXXw0QIep65TbuuEWePwppDBABggrBgEFBQcBAQQ0MDIw
+MAYIKwYBBQUHMAGGJGh0dHA6Ly9vY3NwLmNsb3VkZmxhcmUuY29tL29yaWdpbl9j
+YTApBgNVHREEIjAggg8qLm1vbml0b3IuY28udWeCDW1vbml0b3IuY28udWcwOAYD
+VR0fBDEwLzAtoCugKYYnaHR0cDovL2NybC5jbG91ZGZsYXJlLmNvbS9vcmlnaW5f
+Y2EuY3JsMA0GCSqGSIb3DQEBCwUAA4IBAQAVBjM+JZ4M7iEQpcqOySWKQ3NHshQn
+p0XmdVFioz6QyL608I+De/7AtIC4xkNaplTLqHPeMp/HoWTbiLL+gO9yS/DUGl4I
+MuY7O9FUlN6ROD8bxGjg5lRP+o0XK1yAeQQS9kcIge4VJGk2/3PLyR6YuHgZmO4V
+xBztB4pBDJuLO7ZFkkfb36tHtq5v/WOs3zmuXfuMD4WQXQPVeIj9xrpxYVDrgXIY
+NyzslGBXbWcopmTFsBfVXIrHNg7vn+6RUE+HGGSAsk52FUyMAHKy6VIHXu1q49K9
+BMVTxr1ZSMgxtBwpVGHRco/SbeWM8M7FFZ8WfJ0A9kmUx/P1TgtZZn9W
+-----END CERTIFICATE-----
+subject=/O=CloudFlare, Inc./OU=CloudFlare Origin CA/CN=CloudFlare Origin Certificate
+issuer=/C=US/O=CloudFlare, Inc./OU=CloudFlare Origin SSL Certificate Authority/L=San Francisco/ST=California
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 1847 bytes and written 289 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: ED36E3D0ECF12D81479570B76549E47A5EF6886EC5B79D218A5588903A62DBE5
+    Session-ID-ctx: 
+    Master-Key: 6E952BE3166A9E7698A30EE39BDFBBE1BBD437178136263B021F5CCF092EF392AD979D0003FFC9B23FDDA48FBD704536
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 6a a0 1b 2c ab e0 68 a4-ee b0 58 a2 38 16 35 52   j..,..h...X.8.5R
+    0010 - 4b bc 70 6f e9 66 0f 73-d4 e2 86 2e 60 30 26 21   K.po.f.s....`0&!
+    0020 - 31 8a 6c 55 3d 04 7d 0e-fb c8 75 9a 5c 8f 7a 98   1.lU=.}...u.\.z.
+    0030 - 93 1e 51 da 3f 43 6c 2a-19 a1 0f 60 cd d2 78 72   ..Q.?Cl*...`..xr
+    0040 - cb 34 c6 89 02 0f 62 2d-0b 45 aa 3d 4b b6 31 ca   .4....b-.E.=K.1.
+    0050 - 94 48 ec 84 1f 80 84 11-ff 6b cf b8 09 e2 f5 8d   .H.......k......
+    0060 - 21 0e fa ca 29 c5 db d2-c6 b6 90 b4 c4 7c 3d 00   !...)........|=.
+    0070 - 3a f1 ba 95 7a 25 62 55-26 d8 8d 88 ef b2 01 c0   :...z%bU&.......
+    0080 - ce b2 93 6d 78 68 41 44-c6 6e 7a ca 0e 23 26 10   ...mxhAD.nz..#&.
+    0090 - a7 75 8b fc 74 f8 85 57-a3 e1 05 8c f6 1d cc 55   .u..t..W.......U
+    00a0 - 63 f4 c4 50 12 88 0f 8b-72 7d 8d a2 a4 c8 73 21   c..P....r}....s!
+    00b0 - b7 9c 47 ae ad a6 76 15-36 05 03 69 ab e5 bf 4f   ..G...v.6..i...O
+
+    Start Time: 1577475893
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

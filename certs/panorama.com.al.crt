@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=www.gazetaexpress.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYzCCBEugAwIBAgISA2HhSKCNDxMfjdZ4m9IMEuWIMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMDUxMzUxMTFaFw0y
+MDAyMDMxMzUxMTFaMCAxHjAcBgNVBAMTFXd3dy5nYXpldGFleHByZXNzLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKt3uXWP/FEYW9iHNOzTLn3M
+ZOpkkFKjwmrs8mQ/4DfgIuz/JnFZZYPvtVZ2XAXtE6D4xJmChOJyO4pk9ouwcEXh
+R37RqCk7k9+6fwXUvg7nVa3TL6d75WHU1sKbSQEFZKVtc2ziBdwWponqxBh5037x
+ix5DoNspqMSRHfKjGmnZu3kGbWdSQFJ0UvTc2aUO/lIyvwK1KRnLGWUIpKdgD9LZ
+8PCQmvAHJ5CJVx4TaCgg9TGmcvvQWf3ZikzeHNmoAhHD6Q0u+h9/CaAJ3WsYMdFi
+9wycWbkDzzlbbGXnUs1WmeYDQeSwFpA+IzXFpI6bxgl2XnyVfA9sFGKnpVWJ+gUC
+AwEAAaOCAmswggJnMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQURrN1jEwWyAxqyZa7
+QCHBKi19TBswHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYB
+BQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnLzAgBgNVHREEGTAXghV3d3cuZ2F6ZXRhZXhwcmVzcy5jb20wTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHz
+APEAdwDwlaRZ8gDRgkAQLS+TiI6tS/4dR+OZ4dA0prCoqo6ycwAAAW48DFRqAAAE
+AwBIMEYCIQCWVu6qpmUJDGYfMFZwUHvLEkHBEGHODFvYQKcvhyEEFgIhAKThnvGe
++v2dTUF9eftj7b4mGsBzP7WBpjaywXvHKRg9AHYAB7dcG+V9aP/xsMYdIxXHuuZX
+fFeUt2ruvGE6GmnTohwAAAFuPAxUkgAABAMARzBFAiEA5gpuhyou2siGTAoTSgpw
+5DSBxKjAsb4bnQcDC3FTrVwCIDYbKLg6iLwDRug647ALtJu96q+KKxUq6Xy9Qfn1
+Wk2MMA0GCSqGSIb3DQEBCwUAA4IBAQB1IdPXqO+Q/FbtsWUjAA0Q0i0XnclJJWrg
+7LAqXRFBKDXuoIlFAwydQ2zXAV1G2sDM7toSYv44X8RDT2qwKGf+/ml0laZbmRz0
+/CAiANcvp+gmu5zjFAhdNzTLrDMVs3Q7MRhADtzd2kGfa5STbE49OHcugVJnptyK
+hW7vgkcwxKyF0Z3YS5MNFj8/rgk0L3W5yllB9JR5po+EIv8XbXqwr3v7Vf8nkirr
+i4xyIwbrIfLDesFY93KeUxfN1eNt522zbYfsri6xxpGe9TC6SJHCx10eWiLrH72j
+KujrCNqWWnXAzHDxQRZra17cf4+smcA9TUwEkLaRStVuAwndR3BG
+-----END CERTIFICATE-----
+subject=/CN=www.gazetaexpress.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 3197 bytes and written 289 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 6322633DDCAE49C1A1393DF89997F53B5861F88417EEBA503B678E48D9C8BC69
+    Session-ID-ctx: 
+    Master-Key: B6EAC5424CDD82439BE3E788DDC85D41D6DBA559B4D591DAF12E7FDBA5F58E7CC11BE2D652A76779BD504586E311DB75
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6b 9a 12 02 3b de 80 a4-e2 a0 56 5d cb d7 ce c4   k...;.....V]....
+    0010 - bc ae e9 a4 74 6f 33 43-5c 25 ce 74 aa 3d 8d 4e   ....to3C\%.t.=.N
+    0020 - f9 43 c6 0c 38 69 e3 89-41 15 05 0d f4 4f 1b 97   .C..8i..A....O..
+    0030 - 8b 9f 09 fe e1 23 db 0d-68 d4 dc 5e 47 a6 fb 06   .....#..h..^G...
+    0040 - 9f d6 44 64 47 1e 9d f8-9c ab b3 fe 00 e0 1a 02   ..DdG...........
+    0050 - 5f 52 a8 e8 f1 dd f6 67-9b fd 20 be b0 5a 25 21   _R.....g.. ..Z%!
+    0060 - a1 70 8f 01 f7 52 79 95-4b f0 6d b3 ef 61 de 78   .p...Ry.K.m..a.x
+    0070 - 80 fb 77 bb 6d 65 a7 e4-73 5b 6a f1 ff 97 12 d5   ..w.me..s[j.....
+    0080 - 2a 94 c5 71 a8 f2 9a d8-21 b3 6f 90 c1 35 1f 03   *..q....!.o..5..
+    0090 - 7a b4 a5 e1 a5 ee 9b 99-75 5e cb 8c d0 c5 c4 f0   z.......u^......
+    00a0 - 9c b5 1b 88 2c 01 86 1d-68 4b d3 a2 01 8b 5b e2   ....,...hK....[.
+
+    Start Time: 1577475704
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

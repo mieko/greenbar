@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=oneindia.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUDCCBDigAwIBAgISA4VYONv9oTUWtpzmijZbUNSqMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMjUwODQwMjdaFw0y
+MDAyMjMwODQwMjdaMBcxFTATBgNVBAMTDG9uZWluZGlhLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAOosTodReMRdwAydpZ8vvIYtzWrDUng9KrB5
+azNAN/UHMleuYvtpK0L3kFnRk7ykknO7TxG8P+pHq3R+2/+OR6hAOcrO7m1yNsFj
+nLKWzV42LY/nJlMdOCoTdN/verM7Te5KLiDODVw9wHkHhbz1Ez/oYxMd8U6pvfvU
+FG/7EOVmficgZ54RS7Qz/+O/J6BGti6DIGJqdQNgh0jLv91xMkA0ymx+PR+C/aIX
+tv0Ej2i39HhE/y2si9mobOxTv66ADE4UKI6YYh9wpDDpW83K+/aF7Zp+Z2HVqYgg
+DUAz78ph6k/4Vo7rbzEQ+hM4vRizzMIhpl6CX14GcBO/WmeK4L0CAwEAAaOCAmEw
+ggJdMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUCWhzC7sNVYHszIOZCiOtrIDoid0w
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzAXBgNVHREEEDAOggxvbmVpbmRpYS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgCyHgXMi6LNiiBOh2b5
+K7mKJSBna9r6cOeySVMt74uQXgAAAW6h7we4AAAEAwBHMEUCICjyd4UdeOnViGMM
+U1IZgDQ3QKB3Ud7B0RzyVS2DclAyAiEAnLxuYuxbRU6EH43w7+H+xSuuaUJV8k6j
+Q6tyLthL92MAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAW6h
+7wh6AAAEAwBHMEUCIQCS0sJK2zk/uEu5Dn734saKndHoJ03rK9FXsmckTDXP+AIg
+FdcLPgpBhGg1GU3vqt/I7pSmjul3JFiab+XvWZC/vdYwDQYJKoZIhvcNAQELBQAD
+ggEBAC2YckvbJUamZT+XJKRKc5YqUNvaoo8GUxPpZ9ipdIsKCbbbKufpg9AUWrnX
+vZ+N+mROW8g4EBrt8CeC8bcKuOccsufMTm8FoPrx+HTS/vnR5+NNu/NNwh+9bVkX
+4PNdPP3WXqQkg6zz6fub/hsZFd4827e/nPHJcvXQxQYedP6+JUWazX7gdMarwXyg
+ec/Mw7qL2IYXNiCd3nxiR08saTKVjAwFts9GL7gzk/JPEIB1pDOiMyNeKFvW+s3C
+XxkjWp6NZI0eFa2gKH/4J0gmQ00qXgf5omLgA+miiwZCHoRZUXWnsi0R7bJjRrQN
+ciw2LSjwMhMIRmo8sdMWpItD1MY=
+-----END CERTIFICATE-----
+subject=/CN=oneindia.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3227 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 0FC469BB789C7EACF17CB10200BC896F3428EC3325365636F368F435C61EBAFF
+    Session-ID-ctx: 
+    Master-Key: 741EE5943EE8677488924D05490523BB10737CA4901B00B18D16D4EAE9C5D6758FA924ECDAAAB43CADEBBE0F8B6CD625
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e6 26 56 77 f0 93 85 2e-ab 8d d7 3d 34 52 67 bc   .&Vw.......=4Rg.
+    0010 - 01 f5 fa 55 7d 12 2e 85-46 37 91 7d ea 09 d9 99   ...U}...F7.}....
+    0020 - 8e b6 5e a5 55 b9 d2 79-7d 65 14 6f 9f ef ce 6a   ..^.U..y}e.o...j
+    0030 - 3b c5 30 28 61 89 b2 1e-18 59 69 f4 f6 a2 bb 7a   ;.0(a....Yi....z
+    0040 - 17 56 51 84 fe b6 c9 2c-4d 1d 57 87 a6 71 d3 97   .VQ....,M.W..q..
+    0050 - e3 65 ea 34 e1 0b 2c 1d-ad fe 6b 07 b8 16 f8 5b   .e.4..,...k....[
+    0060 - 06 5f fb c6 84 bb 03 52-e3 72 d6 99 73 37 e3 97   ._.....R.r..s7..
+    0070 - 0b ae dd 6e f2 74 11 28-ca dc 2a 85 e0 a0 f6 bb   ...n.t.(..*.....
+    0080 - ec db 76 6e 23 d1 c8 82-cb aa 25 59 8c 94 90 f4   ..vn#.....%Y....
+    0090 - 7f b1 82 4a 9b 38 d4 aa-94 0a c6 a4 c7 e1 bb ea   ...J.8..........
+    00a0 - 4a 8f a1 12 d4 a7 b0 0f-5d f9 30 f1 93 53 26 12   J.......].0..S&.
+    00b0 - c7 c8 98 1e 2e 3a d1 b1-3e 83 e9 9f d2 f4 95 69   .....:..>......i
+
+    Start Time: 1577475512
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

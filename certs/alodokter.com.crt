@@ -1,7 +1,7 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl278020.cloudflaressl.com
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl374275.cloudflaressl.com
    i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
  1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
    i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
@@ -10,50 +10,56 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGJzCCBc6gAwIBAgIQLpF3V2aDHuALVZ4ACHur1zAKBggqhkjOPQQDAjCBkjEL
-MAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UE
-BxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxODA2BgNVBAMT
-L0NPTU9ETyBFQ0MgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQSAy
-MB4XDTE2MDcxMjAwMDAwMFoXDTE3MDExNTIzNTk1OVowbDEhMB8GA1UECxMYRG9t
-YWluIENvbnRyb2wgVmFsaWRhdGVkMSEwHwYDVQQLExhQb3NpdGl2ZVNTTCBNdWx0
-aS1Eb21haW4xJDAiBgNVBAMTG3NzbDI3ODAyMC5jbG91ZGZsYXJlc3NsLmNvbTBZ
-MBMGByqGSM49AgEGCCqGSM49AwEHA0IABI8YieeMIayrZvHbAWdw8Nj/ZvcpTlgS
-eiAxFYQRtPSgRs1B2u8DYjKGwzX4lIRdx5Utl1W3NfjjELGAC1xH6xCjggQpMIIE
-JTAfBgNVHSMEGDAWgBRACWFn8LyDcU/eEggsb9TUK3Y9ljAdBgNVHQ4EFgQUxxC9
-ZW7wUNn0jykiBgRlTdgJhPwwDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAw
-HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYB
-BAGyMQECAgcwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNv
-bS9DUFMwCAYGZ4EMAQIBMFYGA1UdHwRPME0wS6BJoEeGRWh0dHA6Ly9jcmwuY29t
-b2RvY2E0LmNvbS9DT01PRE9FQ0NEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVy
-Q0EyLmNybDCBiAYIKwYBBQUHAQEEfDB6MFEGCCsGAQUFBzAChkVodHRwOi8vY3J0
-LmNvbW9kb2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNl
-cnZlckNBMi5jcnQwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmNvbW9kb2NhNC5j
-b20wggJwBgNVHREEggJnMIICY4Ibc3NsMjc4MDIwLmNsb3VkZmxhcmVzc2wuY29t
-gg8qLmFsb2Rva3Rlci5jb22CDCouZG1nLmVuZXJneYIUKi5mbWdsb2JhbHJlYXNv
-bi5jb22CFiouZ29vZGhlYWx0aHNhdW5hcy5jb22CECouaGVsdG5vcm1hbHQubm+C
-DSoubHV4c3R5bGUuYmWCDSoubHV4c3R5bGUuZmmCDSoubHV4c3R5bGUua3KCDSou
-bHV4c3R5bGUubmyCESoubWF4bWFuc3Ryb25nLmV1ghEqLm11c2tpcG9ydGFsLmNv
-bYIWKi5xdWlldGNvb2xzeXN0ZW1zLmNvbYIIKi50a2ouc2WCEyoudmlsbGVpbml0
-YWxpYS5jb22CEioudmlsbGVpbml0YWxpYS5kZYISKi52aWxsZWluaXRhbGlhLmZy
-ghIqLnZpbGxlaW5pdGFsaWEucnWCDWFsb2Rva3Rlci5jb22CCmRtZy5lbmVyZ3mC
-EmZtZ2xvYmFscmVhc29uLmNvbYIUZ29vZGhlYWx0aHNhdW5hcy5jb22CDmhlbHRu
-b3JtYWx0Lm5vggtsdXhzdHlsZS5iZYILbHV4c3R5bGUuZmmCC2x1eHN0eWxlLmty
-ggtsdXhzdHlsZS5ubIIPbWF4bWFuc3Ryb25nLmV1gg9tdXNraXBvcnRhbC5jb22C
-FHF1aWV0Y29vbHN5c3RlbXMuY29tggZ0a2ouc2WCEXZpbGxlaW5pdGFsaWEuY29t
-ghB2aWxsZWluaXRhbGlhLmRlghB2aWxsZWluaXRhbGlhLmZyghB2aWxsZWluaXRh
-bGlhLnJ1MAoGCCqGSM49BAMCA0cAMEQCIF8q0HmW1M44N7ZpLGAPlah+BoPWEq3F
-haqW180aSl4aAiByzOniNxhYCHlVX3+3RuBl0OYo7mE+eaRtWAwGMvELtQ==
+MIIHezCCByGgAwIBAgIRAP/Lf4lIisQC1Zeq9tN2I4AwCgYIKoZIzj0EAwIwgZIx
+CzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAOBgNV
+BAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTgwNgYDVQQD
+Ey9DT01PRE8gRUNDIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIgQ0Eg
+MjAeFw0xOTA4MTUwMDAwMDBaFw0yMDAyMjEyMzU5NTlaMGwxITAfBgNVBAsTGERv
+bWFpbiBDb250cm9sIFZhbGlkYXRlZDEhMB8GA1UECxMYUG9zaXRpdmVTU0wgTXVs
+dGktRG9tYWluMSQwIgYDVQQDExtzc2wzNzQyNzUuY2xvdWRmbGFyZXNzbC5jb20w
+WTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARvfcCNzwqVq+mJtR8zdP1vENP3vjfo
+0eHG4rHPMbsxYY1QQeqACL4qFLuEWm0eHdkbHCC0vbL1+GQzJuFMK/jco4IFezCC
+BXcwHwYDVR0jBBgwFoAUQAlhZ/C8g3FP3hIILG/U1Ct2PZYwHQYDVR0OBBYEFAzp
+Pw+TzjhUBaGkfLn6tLoRHBeTMA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysG
+AQQBsjEBAgIHMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5j
+b20vQ1BTMAgGBmeBDAECATBWBgNVHR8ETzBNMEugSaBHhkVodHRwOi8vY3JsLmNv
+bW9kb2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZl
+ckNBMi5jcmwwgYgGCCsGAQUFBwEBBHwwejBRBggrBgEFBQcwAoZFaHR0cDovL2Ny
+dC5jb21vZG9jYTQuY29tL0NPTU9ET0VDQ0RvbWFpblZhbGlkYXRpb25TZWN1cmVT
+ZXJ2ZXJDQTIuY3J0MCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC5jb21vZG9jYTQu
+Y29tMIICugYDVR0RBIICsTCCAq2CG3NzbDM3NDI3NS5jbG91ZGZsYXJlc3NsLmNv
+bYIPKi5hbG9kb2t0ZXIuY29tgg8qLmFsb21lZGlrYS5jb22CECouYW5nZWxraW5n
+cy5jb22CEyouYW5nZWxvdXRkb29ycy5jb22CECouYW5nZWxzaGVtcC5jb22CDyou
+YXBzZXJ2aWNlcy5ieoIZKi5iaHBoeWRyYXRlYXdhcmVuZXNzLmNvbYINKi5paGJv
+b2tzLmNvbYIRKi5pcHQtaG9zdGluZy5uZXSCDCoucG9icGFkLmNvbYIRKi5zZXhm
+bGV4aWJsZS5jb22CESouc2V4ZmxleGlibHIuY29tgg0qLnNuaXBwbHIuY29tggoq
+LnNwZWVkLmNkghEqLnRvcHRlc3RwcmVwLmNvbYISKi52YWlsbmV0d29ya3MuY29t
+ghUqLndjc2NvaWxlZHR1YmluZy5jb22CECoud2NzcmlnbWF0aC5jb22CESoud2Nz
+c3lzdGVtMjEuY29tgg1hbG9kb2t0ZXIuY29tgg1hbG9tZWRpa2EuY29tgg5hbmdl
+bGtpbmdzLmNvbYIRYW5nZWxvdXRkb29ycy5jb22CDmFuZ2Vsc2hlbXAuY29tgg1h
+cHNlcnZpY2VzLmJ6ghdiaHBoeWRyYXRlYXdhcmVuZXNzLmNvbYILaWhib29rcy5j
+b22CD2lwdC1ob3N0aW5nLm5ldIIKcG9icGFkLmNvbYIPc2V4ZmxleGlibGUuY29t
+gg9zZXhmbGV4aWJsci5jb22CC3NuaXBwbHIuY29tgghzcGVlZC5jZIIPdG9wdGVz
+dHByZXAuY29tghB2YWlsbmV0d29ya3MuY29tghN3Y3Njb2lsZWR0dWJpbmcuY29t
+gg53Y3NyaWdtYXRoLmNvbYIPd2Nzc3lzdGVtMjEuY29tMIIBBAYKKwYBBAHWeQIE
+AgSB9QSB8gDwAHUAsh4FzIuizYogTodm+Su5iiUgZ2va+nDnsklTLe+LkF4AAAFs
+k8r6SwAABAMARjBEAiBEl2fjw8+8huhSTAq8RODUZNbyBehMAch4WXBh6w2GMAIg
+V2y/3/rAwqXLRw9ZJkxx+BRFhOdf45MKSZZ4Ri/6KKsAdwBep3P531bA57U2SH3Q
+SeAyepGaDIShEhKEGHWWgXFFWAAAAWyTyvp1AAAEAwBIMEYCIQC5qsLcgDZiF152
+Hl7ath+WFPCOyy/tHF4DQRfpYEaIzQIhAJix+mvdvMocYw5Joi9hZC6b/NyEAkPA
+62gApp9Ey4p7MAoGCCqGSM49BAMCA0gAMEUCIFA7PFF110kLD+nuyz1tmYBMVO99
+ge1PYEOgoL5dqItZAiEAhA6qlduRan1eg50GH/RXPBPso95OIDYVah/JGPKgWPE=
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl278020.cloudflaressl.com
+subject=/OU=Domain Control Validated/OU=PositiveSSL Multi-Domain/CN=ssl374275.cloudflaressl.com
 issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Domain Validation Secure Server CA 2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3980 bytes and written 434 bytes
+SSL handshake has read 4279 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
 Server public key is 256 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -61,29 +67,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
-    Session-ID: 4F506EB2E0FEB6108530D3E2245C4599574087FD4326536CABF0A51BC1FC3357
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: 9233EBB8FF3E39348FDA6867F3EADB2DABC496798E92118C01ABB1577E653561
     Session-ID-ctx: 
-    Master-Key: 263C14591249B4D47A474116FAE0058DC9FCF9E1D591D171A7069307472C444C94ABE3105C07F38825D8B35DBFBA9671
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 65B79E6E347D198506A9A9AAAE494D55E0132550AED8A59CED1057E047EDB631A2BB17240553F6A40FF1ABD7E100F6D9
     TLS session ticket lifetime hint: 64800 (seconds)
     TLS session ticket:
-    0000 - 67 3e 33 d7 cc 57 79 4c-b2 85 a3 1c c8 1b 69 31   g>3..WyL......i1
-    0010 - 56 a4 9b 22 96 75 97 1a-7e 0a a3 d4 7f e9 b2 67   V..".u..~......g
-    0020 - 80 9d b7 8d 97 89 f1 d9-bb fb 5b 0c 92 c0 f8 84   ..........[.....
-    0030 - dd b7 65 e7 c9 a8 0a 29-62 51 c9 be bb 26 02 2c   ..e....)bQ...&.,
-    0040 - 91 8d 7e 5b 2e b4 78 a5-29 54 be cd cf a5 87 19   ..~[..x.)T......
-    0050 - 55 df 34 a1 2f f2 13 17-15 d7 f2 13 4b 76 18 bf   U.4./.......Kv..
-    0060 - a3 0a d6 16 0a 72 fd 98-c6 6c 77 71 94 c8 c7 7b   .....r...lwq...{
-    0070 - ca cb 87 e5 f5 d5 2a a2-00 b2 11 de 3a 1b 87 a5   ......*.....:...
-    0080 - e8 8a 97 2b 02 d8 7e 6b-f2 ca 69 a8 a8 01 94 5f   ...+..~k..i...._
-    0090 - be ea da 15 29 1a 44 c5-68 cb d6 1a a0 7e 47 28   ....).D.h....~G(
-    00a0 - fe 8a 20 79 ce c2 37 02-cd 0e e8 08 cd 6a 9a 74   .. y..7......j.t
+    0000 - 83 6e 63 1d 7d 95 1c 0e-08 cb ad 33 31 20 7e 0c   .nc.}......31 ~.
+    0010 - df 31 83 84 28 c1 c0 0c-31 e3 69 78 82 ff 32 61   .1..(...1.ix..2a
+    0020 - 6b d3 b0 2a 7b 9d 62 9a-2f b7 5e af 8d b1 24 14   k..*{.b./.^...$.
+    0030 - c1 69 68 3b 1f b6 59 8c-11 82 3b 64 28 f5 8b fb   .ih;..Y...;d(...
+    0040 - 59 ab a8 07 7c a9 40 2c-ea d7 73 53 1a 4c e4 a0   Y...|.@,..sS.L..
+    0050 - 0b 6a cb 3c d5 8d 90 e0-82 c2 3e 87 c7 cf 52 2c   .j.<......>...R,
+    0060 - 4a cc 95 5e ae 2e c7 bc-16 6d dc 70 de 6c e8 36   J..^.....m.p.l.6
+    0070 - f1 ae 82 f7 a8 42 ae 1d-a1 3a 8e 44 e3 fb e0 08   .....B...:.D....
+    0080 - ea aa 68 ee 71 6a 7b f7-b9 57 8c 45 a8 8c fa 36   ..h.qj{..W.E...6
+    0090 - dd 6d e7 ed 09 d9 29 de-7c e6 38 d8 a8 e3 7f 3a   .m....).|.8....:
+    00a0 - ff d6 fe f4 ff 4e b4 d6-97 2c 3c 6e 4e 15 1b 65   .....N...,<nN..e
 
-    Start Time: 1472790349
-    Timeout   : 300 (sec)
+    Start Time: 1577475045
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

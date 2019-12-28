@@ -1,80 +1,80 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=2154254/C=US/postalCode=10043/ST=New York/L=New York/street=399 Park Avenue/O=Citigroup Inc./OU=cbl-gt/CN=www.citibank.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Delaware/serialNumber=2154254/C=US/ST=New York/L=New York/O=Citigroup Inc./OU=DigitalMiddlewareWeb_cb2/CN=www.citibank.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHdDCCBlygAwIBAgIQVsvFgZYksS6c+yEgnRlqejANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTUwMTI5MDAwMDAwWhcNMTcwMTI5
-MjM1OTU5WjCCAQMxEzARBgsrBgEEAYI3PAIBAxMCVVMxGTAXBgsrBgEEAYI3PAIB
-AgwIRGVsYXdhcmUxHTAbBgNVBA8TFFByaXZhdGUgT3JnYW5pemF0aW9uMRAwDgYD
-VQQFEwcyMTU0MjU0MQswCQYDVQQGEwJVUzEOMAwGA1UEEQwFMTAwNDMxETAPBgNV
-BAgMCE5ldyBZb3JrMREwDwYDVQQHDAhOZXcgWW9yazEYMBYGA1UECQwPMzk5IFBh
-cmsgQXZlbnVlMRcwFQYDVQQKDA5DaXRpZ3JvdXAgSW5jLjEPMA0GA1UECwwGY2Js
-LWd0MRkwFwYDVQQDDBB3d3cuY2l0aWJhbmsuY29tMIIBIjANBgkqhkiG9w0BAQEF
-AAOCAQ8AMIIBCgKCAQEAkflDkqXoch7thKuHvKIjY0WgptUAwv/VsBc/p76c97TU
-wVdhQyAfN5p7KamSW1YTNplL0BtRAcBxXfYO4mkMBRC5Gu58T7t3szscs/d5YjGq
-WpGh5CgnBDyQLQyyyW/gMPw8qtMGf0p33V6RlkkD5efK1udrxp/yZtMiaw5h3vAh
-4q4I6d3AH2y/OHyRFGcPuJlgMJ9wdfr7Pb2BGtYI/PMIMzLGvaZLsuQqWZrC2glE
-OEdT7GHxW+9nUqMvzphTNEj/MB54/H3dAAJh+hJ/pecD9I+SjLhHwVeq6ZXhoSjL
-SH0+Km1A2iqf02qtG89sQ+aS2/PnpDVmCQ5CjOGd3wIDAQABo4IDbDCCA2gwgZkG
-A1UdEQSBkTCBjoIQd3d3LmNpdGliYW5rLmNvbYIRd3d3MS5jaXRpYmFuay5jb22C
-EXd3dzIuY2l0aWJhbmsuY29tghF3d3cuY2l0aWdyb3VwLmNvbYIMd3d3LmNpdGku
-Y29tggxpY2cuY2l0aS5jb22CDWNpdGlncm91cC5jb22CDGNpdGliYW5rLmNvbYII
-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
+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
+EHd3dy5jaXRpYmFuay5jb22CDHd3dy5jaXRpLmNvbYINY2l0aWdyb3VwLmNvbYIM
+Y2l0aWJhbmsuY29tghF3d3cyLmNpdGliYW5rLmNvbYIUaG9tZW93bmVyc3VwcG9y
+dC5jb22CCGNpdGkuY29tghF3d3cxLmNpdGliYW5rLmNvbYIMaWNnLmNpdGkuY29t
+ghF3d3cuY2l0aWdyb3VwLmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0dHA6Ly9jcmwz
+LmRpZ2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5jcmwwNKAyoDCGLmh0dHA6
+Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5jcmwwSwYDVR0g
+BEQwQjA3BglghkgBhv1sAgEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGln
+aWNlcnQuY29tL0NQUzAHBgVngQwBATCBiAYIKwYBBQUHAQEEfDB6MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUgYIKwYBBQUHMAKGRmh0dHA6
+Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJFeHRlbmRlZFZhbGlk
+YXRpb25TZXJ2ZXJDQS5jcnQwCQYDVR0TBAIwADCCAX4GCisGAQQB1nkCBAIEggFu
+BIIBagFoAHUA7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo/csAAAFuOqrT
+SwAABAMARjBEAiAL+7apOImDIZqbNAS6bVlParSEpb0AlmAu9FZZ1KYwHwIgfNDa
+ZvxllIM++LPFvqr4WY0DzX8w4PRSeJ4HyhN+GqcAdgBWFAaaL9fC7NP14b1Esj7H
+Rna5vJkRXMDvlJhV1onQ3QAAAW46qtM7AAAEAwBHMEUCIQCuUGmBn5mvIL4lcAhe
+cvgicoJi/yq3Y3aKFiQV8sUm6gIgOqm+CB6gB3QSJE/4jatcIE/DYUho6qL9wEaA
+8xOA524AdwC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAW46qtMd
+AAAEAwBIMEYCIQDuo/Bc4uB1Wb7vUTVPcFu2mHjV5sAlJKOaXh4696+XFQIhAIUh
+GA4tI5xo+tnoTLfaEGpGSoPKaR8UT66AHibg46a7MA0GCSqGSIb3DQEBCwUAA4IB
+AQDV2gDsLZE/QFGuc6wD3149ry1DpoJC7UemczxoJEAjlPw/agAqgwfi3o4CSC+i
+kbA484aTyX2mkv9Dceyy2O9GTKrjwmY6y6nPT0ljb/cRAiW8U4NHFY2cLQ7TuoD7
+7J6/0g6GkNez3bhCgFSQY8z5+ElyS80vWHUg8TPFnoekjV1sABNP2aRViFvfUkrx
+IYg1haUr/OUEBrmOQP8AlgCv0siyVoWdFLCGFWEFE0TFYv4BtkIITTPko6Mh0Fpl
+1JtDp3pPvPDxRfcoEVv2ehSsxKvr6/6yJSI7z0KB6/lLcYiaEOXvD0dy4xjf8Ux3
+vDHdPBReojgaqoti2nhb7vki
 -----END CERTIFICATE-----
-subject=/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=2154254/C=US/postalCode=10043/ST=New York/L=New York/street=399 Park Avenue/O=Citigroup Inc./OU=cbl-gt/CN=www.citibank.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Delaware/serialNumber=2154254/C=US/ST=New York/L=New York/O=Citigroup Inc./OU=DigitalMiddlewareWeb_cb2/CN=www.citibank.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4643 bytes and written 634 bytes
+SSL handshake has read 4749 bytes and written 362 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES128-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : AES128-SHA
-    Session-ID: E35300003B3FDEF1EF61FE372D4FF9C542358D405858585861F4C8571DCC0F00
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-SHA256
+    Session-ID: 1D036568333CA53245A7102895FF88A40DB881F6A049671CE9BC0BA5BBC31D46
     Session-ID-ctx: 
-    Master-Key: 3B13A6609272BCA9799970D2CD63BC45C48135036159225377FA9D090EC9681E385CBD2D6B682986859595713D620011
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788156
-    Timeout   : 300 (sec)
+    Master-Key: 2499B5DA886F00CEC983EF9651D6F1DAA5E46367F99EA76A9638DB3EA6CAC083EC9C2BC5126FB3C4841786EEDE995372
+    Start Time: 1577474975
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

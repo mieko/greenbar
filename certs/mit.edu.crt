@@ -1,62 +1,63 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:/C=US/ST=Massachusetts/L=Cambridge/O=Massachusetts Institute of Technology/CN=web.mit.edu
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIHUTCCBjmgAwIBAgIQVaZbgfEyMhJU9GqVuMPkvTANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTYwNjA5MDAwMDAwWhcNMTcwNjA5MjM1
-OTU5WjB/MQswCQYDVQQGEwJVUzEWMBQGA1UECAwNTWFzc2FjaHVzZXR0czESMBAG
-A1UEBwwJQ2FtYnJpZGdlMS4wLAYDVQQKDCVNYXNzYWNodXNldHRzIEluc3RpdHV0
-ZSBvZiBUZWNobm9sb2d5MRQwEgYDVQQDDAt3ZWIubWl0LmVkdTCCASIwDQYJKoZI
-hvcNAQEBBQADggEPADCCAQoCggEBAL5OBntM5LvkcVUeAHZmtUfKVTmTUVBiyQq1
-zmgcHSJ5LALhaIo1HEarOpiXOmbYY8kBnkFwEYAmBme8onPfHEwIPsG0nVhQlC3W
-2ivrSUt2Ocy3yiIXYeZBvenyWscHU30klsOlf/wND8FIbiAt/IA/0jCoihzlCbK/
-ELCz2AUFaWLBpQivnUOytiNgoOAzNm3Jb4hL+Pa/yo1qWVcHbuLdI0z3RcTVFpAx
-la5J+2785p/2CmUI29nDPfP/4GfPFeKKgjKH6gRZ0cGKLTzTaLhQgK9Q5DpjF0yu
-1SANwu8uSJkFTv2e7lFMWp/WSykGawSyfTJMAI3SK07nffMkDhUCAwEAAaOCBAIw
-ggP+MIIBcQYDVR0RBIIBaDCCAWSCCnczLm1pdC5lZHWCC21pdC5taXQuZWR1gg93
-d3cud2ViLm1pdC5lZHWCDG5ld3MubWl0LmVkdYIRZW1lcmdlbmN5Lm1pdC5uZXSC
-C2ltZy5taXQuZWR1ghNiZXR0ZXJ3b3JsZC5taXQuZWR1ghZ3d3cubmV3c29mZmlj
-ZS5taXQuZWR1ggdtaXQuZWR1ghF3ZWItZm9ybXMubWl0LmVkdYIVc3dhcnR6LXJl
-cG9ydC5taXQuZWR1ghVlbWVyZ2VuY3ktZGV2Lm1pdC5lZHWCCXcubWl0LmVkdYIO
-Z2l2aW5nLm1pdC5lZHWCGHN3YXJ0ei1kb2N1bWVudHMubWl0LmVkdYIRZW1lcmdl
-bmN5Lm1pdC5lZHWCEm5ld3NvZmZpY2UubWl0LmVkdYIPd3d3LW1pdC5taXQuZWR1
-ggx3d3d3Lm1pdC5lZHWCC3d3dy5taXQuZWR1ggt3ZWIubWl0LmVkdTAJBgNVHRME
-AjAAMA4GA1UdDwEB/wQEAwIFoDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24u
-c3ltY2IuY29tL2duLmNybDCBnQYDVR0gBIGVMIGSMIGPBgZngQwBAgIwgYQwPwYI
-KwYBBQUHAgEWM2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVw
-b3NpdG9yeS9sZWdhbDBBBggrBgEFBQcCAjA1DDNodHRwczovL3d3dy5nZW90cnVz
-dC5jb20vcmVzb3VyY2VzL3JlcG9zaXRvcnkvbGVnYWwwHQYDVR0lBBYwFAYIKwYB
-BQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFNJv95b0hT9yPDB9I9qFeJujfFp8
-MFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2duLnN5bWNkLmNv
-bTAmBggrBgEFBQcwAoYaaHR0cDovL2duLnN5bWNiLmNvbS9nbi5jcnQwggEEBgor
-BgEEAdZ5AgQCBIH1BIHyAPAAdgDd6x0reg1PpiCLga2BaHB+Lo6dAdVciI09EcTN
-tuy+zAAAAVU12zTCAAAEAwBHMEUCIQC61Y7v8g/z3Gm1KSAUqftbHv1Pzd8+Kdwm
-MNOAFuSkOAIgOwCyNCAgI6fKc3cX8rmRMNUrQb+JGSY7iTwf8nWekosAdgCkuQmQ
-tBhYFIe7E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAVU12zT0AAAEAwBHMEUCIQD5
-oNhoRaS96yzrcdHZkI6Cm4X76avkWog1SpSOhQGlaQIgHcBnMxGYaEblB70hsueA
-gxkGqkxgIhtjGaInZeplcI0wDQYJKoZIhvcNAQELBQADggEBALVB0ev6RzxEJ3Cb
-p3c3eZzEzzJJzOR84h+oSf6UyZo7fywdm5ifvFMG6m7oc8Ph54Ke26dz1Ywcjkh2
-86+jAE0qM7CbSE3adhEOZIqsdPV6JgkycoicbApF9tE1WmCd3VWLe3bRF/RY8xb+
-RcQPqpfzN2sF3CcNMji5R/+H1RyxtSmE204PV/PknfbKqk3SJHNyzIbiaN7NwJ+S
-NLk3P5e1mSBa9Eps3T5TI9ni25lOPCUAHE6ucejd8lNNMms5dctutB6kymuwKN3U
-xRpOBHBx/t17I1iOl/2AP16yJeBG6uPlcu4lFYK3shCm4WHTkQfSqOM5/P5HgGd/
-u6lAhNw=
+MIIH1TCCBr2gAwIBAgIQBD55XyNA/EZoK/TZ6qvaFTANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAe
+Fw0xOTA3MDEwMDAwMDBaFw0yMDA5MjkxMjAwMDBaMH8xCzAJBgNVBAYTAlVTMRYw
+FAYDVQQIEw1NYXNzYWNodXNldHRzMRIwEAYDVQQHEwlDYW1icmlkZ2UxLjAsBgNV
+BAoTJU1hc3NhY2h1c2V0dHMgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3kxFDASBgNV
+BAMTC3dlYi5taXQuZWR1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+oavAQGlgwq9wTPeZ/3ppq7vREG0+h91pAxAkRmkdJ/MMw9NGSg5P0DGKiwmq+4Tw
+WDd8JGrJCCaBgZKjOGP09Ds5jOxqLaJhsins/W50W4aDsfrwhLTB/I4/mRneFhBk
+JbFp0pHI/YQi9qN2LGhRayQoiPmJXw8dYjq9+sob3i96gYVt5L4CaM4b7WQtmUGf
+dOChg4fkn1ddLpBy1YfqJa66HSSz7ExV16sq28DJbAYTYjB7l8fFfGMmGoQ7pZ5r
+EZAn/cY+zyCbx9Rrt+TCS9CyXRg8ysjVygtqqDz9lQPRwT24261OYCLfLSjtKFEZ
+HVrWykE4w3iZOlr86vLC+QIDAQABo4IEbDCCBGgwHwYDVR0jBBgwFoAUkFj/sJx1
+qFFUd7Ht8qNDFjiebMUwHQYDVR0OBBYEFCujk5023nncxZmgc4BOduGbhFLhMIIB
+3gYDVR0RBIIB1TCCAdGCC3dlYi5taXQuZWR1ggttaXQubWl0LmVkdYIOZ2l2aW5n
+Lm1pdC5lZHWCDG5ld3MubWl0LmVkdYIVZW1lcmdlbmN5LWRldi5taXQuZWR1ggd3
+d3cubWl0ghVldmVudHMtc3RhdGljLm1pdC5lZHWCEWVtZXJnZW5jeS5taXQuZWR1
+gg93d3ctbWl0Lm1pdC5lZHWCDHd3d3cubWl0LmVkdYILaW1nLm1pdC5lZHWCEHd3
+dy1jZXJ0Lm1pdC5lZHWCFXN3YXJ0ei1yZXBvcnQubWl0LmVkdYILd3d3Lm1pdC5l
+ZHWCGHN3YXJ0ei1kb2N1bWVudHMubWl0LmVkdYIRd2ViLWZvcm1zLm1pdC5lZHWC
+CXcubWl0LmVkdYIMYWx1bS5taXQuZWR1ghBhbHVtLWRldi5taXQuZWR1gg93d3cu
+d2ViLm1pdC5lZHWCEm5ld3NvZmZpY2UubWl0LmVkdYIHd2ViLm1pdIIQd2ViLWNl
+cnQubWl0LmVkdYIHbWl0LmVkdYIWd3d3Lm5ld3NvZmZpY2UubWl0LmVkdYIKdzMu
+bWl0LmVkdYITYmV0dGVyd29ybGQubWl0LmVkdYIRZW1lcmdlbmN5Lm1pdC5uZXQw
+DgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA+
+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY2RwLmdlb3RydXN0LmNvbS9HZW9UcnVz
+dFJTQUNBMjAxOC5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEF
+BQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwdQYI
+KwYBBQUHAQEEaTBnMCYGCCsGAQUFBzABhhpodHRwOi8vc3RhdHVzLmdlb3RydXN0
+LmNvbTA9BggrBgEFBQcwAoYxaHR0cDovL2NhY2VydHMuZ2VvdHJ1c3QuY29tL0dl
+b1RydXN0UlNBQ0EyMDE4LmNydDAJBgNVHRMEAjAAMIIBAwYKKwYBBAHWeQIEAgSB
+9ASB8QDvAHUAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFrrWxj
+jwAABAMARjBEAiBjkJlcE9Vp7zygxObG4Ya7g5NLafw9Rp4eBWND3p9qJAIgfK5P
+Hw3fAaoAchK1pS7qrPPlEJs47xripDFbH2HgjF4AdgCHdb/nWXz4jEOZX73zbv9W
+jUdWNv9KtWDBtOr/XqCDDwAAAWutbGPeAAAEAwBHMEUCIQCuHoSQYa16RbwVFvNs
+9oenw2mKEVcWhsaUu604ImU4NAIgEdAagIqTCnnC0QO5Tmf2dE1s6aZt1YH2qvAC
+lIufoCcwDQYJKoZIhvcNAQELBQADggEBALjzWQ4+B4ou2AvhEjhslflO+lFAFzN/
+aCiGifRM6yVgNnPvVeDLAvhn83T7n9Bx6KpBHPQkKsvvMvgk11MFQ9CrQN6HyrqA
+qKSHcISBIifpd/qx9oooHcrpOnHZ8Mp9BgWN1bAK2vCyz48i+9cOOPv0Gi2x2Kih
+hijb5++C5HuWxRDkG5nzAByn1lgjkuuVp5nkIBqM5k0RPyhKphYJCQd4IrJpufOs
+MYfjf/JMC3aWusOOybwI+4s7S4VopY6Ffc7HksujQm1BeARNGZAli6PSQvdutekP
+zS4fmQjgx7BHSNu5oYr2mVlGeqO9lfbuWe7lOPp4tABmsK/cTSPvYvA=
 -----END CERTIFICATE-----
 subject=/C=US/ST=Massachusetts/L=Cambridge/O=Massachusetts Institute of Technology/CN=web.mit.edu
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=GeoTrust RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3657 bytes and written 434 bytes
+SSL handshake has read 3833 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -67,28 +68,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: BE97154EABAF537EEA6E1B4166818D9958794F7FC2AEDCC99FC87CEBFB1EBC15
+    Session-ID: B4124DCBF6B1E05BB15A52549DA827032679F855574AB6FAC2434D5AEE96ACCE
     Session-ID-ctx: 
-    Master-Key: 6B5CBB8585B77CC64B845F01E38BA33797C5CDE82F837570411BE48A3C797C1CAA660FB3C03F064D68849914D1117FF1
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 3DF4927B4ECA00FCD9E868133BB13DC4ADDDB97D9746BFEAA4E6931FFFCE35C58E57E10874445EFA7B33A458EEF8AC2D
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 78 62 dd ea 87 5f 28 f2-d8 80 c8 ea 24 57 06 7f   xb..._(.....$W..
-    0010 - d1 c1 df c9 1a 31 05 d8-94 46 a0 b8 60 18 1e aa   .....1...F..`...
-    0020 - e5 90 9d c2 02 06 14 5e-9f a5 4d cd 94 ce 8f 16   .......^..M.....
-    0030 - 77 14 48 ae f2 2e 86 42-98 13 94 07 88 50 e3 48   w.H....B.....P.H
-    0040 - 16 05 8e 6e 1c 1e cd 1f-bd 40 83 c4 45 12 da 81   ...n.....@..E...
-    0050 - 7e f3 be aa 94 c4 fc 4d-00 7f a0 a8 22 a1 6e d5   ~......M....".n.
-    0060 - 41 e2 04 28 5c 76 b0 e3-31 00 fd 45 29 6b 3a 94   A..(\v..1..E)k:.
-    0070 - 27 4c dc 6a 4c 3b 8d 16-c6 52 e4 5c ab bb d3 d4   'L.jL;...R.\....
-    0080 - c0 af a4 7b f4 06 04 b4-ff 95 b1 bd 00 73 2b 9d   ...{.........s+.
-    0090 - 25 4d 23 91 bc 38 6e 93-0f 52 d2 42 6d f2 7b 4b   %M#..8n..R.Bm.{K
-    00a0 - 65 bd a2 cc 9c 71 b3 1c-65 08 47 f3 58 6a 09 d8   e....q..e.G.Xj..
+    0000 - 00 00 25 5e 4d 2d 25 a8-6a d0 75 31 3a 76 ad 48   ..%^M-%.j.u1:v.H
+    0010 - ec e3 88 f5 74 0c 02 ff-bf 8d a4 54 a4 38 fa 16   ....t......T.8..
+    0020 - 82 ee 6c 38 16 19 57 67-92 b7 95 20 36 83 23 1a   ..l8..Wg... 6.#.
+    0030 - 46 45 72 fa b6 e4 0e 44-92 38 a7 72 3b 2f 99 9f   FEr....D.8.r;/..
+    0040 - e2 98 a2 f1 a9 e5 85 11-91 df 7e e5 86 e9 07 d5   ..........~.....
+    0050 - dd 9b b3 4c db 87 ca 0e-27 18 db fb ed 84 d4 e6   ...L....'.......
+    0060 - be 01 d7 fb 40 0b 47 fc-73 88 78 1a ba 8f 1a 3d   ....@.G.s.x....=
+    0070 - 9e d4 a7 77 77 d6 68 83-e7 44 64 fa 2a b8 1d 4a   ...ww.h..Dd.*..J
+    0080 - a2 f2 5e e8 50 b0 f0 9f-4d e8 1a 64 08 cb 9e 49   ..^.P...M..d...I
+    0090 - 71 12 1d 4e b6 62 f5 2e-ca b5 a7 99 4e 67 89 5b   q..N.b......Ng.[
 
-    Start Time: 1472788760
-    Timeout   : 300 (sec)
+    Start Time: 1577475293
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,68 +1,73 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=NL/ST=Noord-Holland/L=Amsterdam/O=Booking.com BV/CN=*.booking.com
-   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
- 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 0 s:/C=NL/L=Amsterdam/O=Booking.com BV/CN=*.booking.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert ECC Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert ECC Secure Server CA
    i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFJDCCBAygAwIBAgIQCkRXXGr2yjm4+/VccjfF1jANBgkqhkiG9w0BAQsFADBN
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTYwMTEyMDAwMDAwWhcN
-MTcwNTA0MTIwMDAwWjBqMQswCQYDVQQGEwJOTDEWMBQGA1UECBMNTm9vcmQtSG9s
-bGFuZDESMBAGA1UEBxMJQW1zdGVyZGFtMRcwFQYDVQQKEw5Cb29raW5nLmNvbSBC
-VjEWMBQGA1UEAwwNKi5ib29raW5nLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
-ADCCAQoCggEBALvLixUxxaKrq8JLOhCY41NvpbpZ7AKwo+1er2qFVPB0AOPhgcM0
-3BmWX7gp8GVrcg6oiVF8KYPXfOraQ5XVMCcLmK4lY80hLjGufV7Doj4mxbXOFjE2
-9EqAUonFs3XbJBcLE2Lt/5W57fDUoNOpP2Dy1v9p84jbqBmlGe7rJUim53APy54k
-Ba4At8Wo34oFp1nahBXWBv9xHiLX4bZXEKLWBSKiBG/wOLwvF3SGaKL7PLIZ1ZtP
-djRDhx6IBtfq/fw0Hg5LgMzf8lF/JsVDKNtGhI/a8XhsEPl/V4DuCYtWXwcsaFyu
-10aqeu6VBVo4pom8rJPQ8JNkkRXzR5nn44kCAwEAAaOCAeEwggHdMB8GA1UdIwQY
-MBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBTdGOo3+oDa6tnZlqnj
-gjFgKvOQODAlBgNVHREEHjAcgg0qLmJvb2tpbmcuY29tggtib29raW5nLmNvbTAO
-BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsG
-A1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNo
-YTItZzUuY3JsMC+gLaArhilodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc3NjYS1z
-aGEyLWc1LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIB
-FhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB8BggrBgEF
-BQcBAQRwMG4wJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBG
-BggrBgEFBQcwAoY6aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0
-U0hBMlNlY3VyZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEB
-CwUAA4IBAQAjtk06RfCJekTT0c13tIEDH0Iu/OpkoXYj0LNuUC2JcOmdu8tDGwDa
-IX8ABbQDRx1la74IdHuI1JQAR6KqB1saUS4BjHAkbwPP1I2olzMlfPYu9azQNDYK
-VW/eEKsrNs9Z2GBve1X+vZ0aaVZBcuiEFmCDBPxbuKw7IdFVFKfGIdE81ZJFSbab
-eT3Q8O5DOvVwBRWX31njo/fFjd2yHG4EQrlcVEjCh+KPc0R50Z9SYpRF/JjLWDNx
-oQU6EtzS+Sb5KPu0GjrsR7x0npp9YzT8frN6CVySvdXT/KClL6Ucl4xLLNuUcu6S
-TrlY5QJjoEV9Y3K+pmw1eVA2iOnj7xZW
+MIIEozCCBCmgAwIBAgIQD6ZD5b0ySH0JXDpAd7hbpDAKBggqhkjOPQQDAzBMMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMSYwJAYDVQQDEx1EaWdp
+Q2VydCBFQ0MgU2VjdXJlIFNlcnZlciBDQTAeFw0xOTEwMjIwMDAwMDBaFw0yMDEw
+MjYxMjAwMDBaMFIxCzAJBgNVBAYTAk5MMRIwEAYDVQQHEwlBbXN0ZXJkYW0xFzAV
+BgNVBAoTDkJvb2tpbmcuY29tIEJWMRYwFAYDVQQDDA0qLmJvb2tpbmcuY29tMFkw
+EwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/Fcr5igaT5TRW6S/icXuucxaE8qva/fw
+jSbJxhN+K76m5uh5yXw4SDUjjogW8nBPjdUI5kpj7+wIsJiFzOz85qOCAuUwggLh
+MB8GA1UdIwQYMBaAFKOd5h/52jlPwG7okcuVpdox4gqfMB0GA1UdDgQWBBRCbEiz
+8EFsi4KDJXvJ0lTT+g5wQjAlBgNVHREEHjAcgg0qLmJvb2tpbmcuY29tggtib29r
+aW5nLmNvbTAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMGkGA1UdHwRiMGAwLqAsoCqGKGh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNv
+bS9zc2NhLWVjYy1nMS5jcmwwLqAsoCqGKGh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNv
+bS9zc2NhLWVjYy1nMS5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggr
+BgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIw
+ewYIKwYBBQUHAQEEbzBtMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2Vy
+dC5jb20wRQYIKwYBBQUHMAKGOWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9E
+aWdpQ2VydEVDQ1NlY3VyZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMIIBAwYK
+KwYBBAHWeQIEAgSB9ASB8QDvAHYApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fN
+DsgN3BAAAAFt8vCiqgAABAMARzBFAiAEtcobtONVKIIa1uCgXUDXqbc7ST4G64ut
+6bMkZpJ6lgIhALLoyBSbjpYn+AQMYQukc2lM9ersyyXGWlxKrZzQffQ8AHUAXqdz
++d9WwOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVgAAAFt8vCioQAABAMARjBEAiA8
+fKhKPv5CIPWKAzNBtL51W+DlNlgqq3PPoePNcJJsfgIgGGY5eTut72mppMPwzRE8
+J/FQMqXiluZwxihe2ezWC40wCgYIKoZIzj0EAwMDaAAwZQIwP5yp9JDPlmBafRm9
+FZdMLqthTWk2Dew7jVIW5yDygrDvyEncEHfQI6vZduDX/tDoAjEAykwz8WrX1Jyo
+2MEqVe0Qdyj3LPnCD1DzOPbSd2lMruneqg5SzkTrTQoU2j9b20Rx
 -----END CERTIFICATE-----
-subject=/C=NL/ST=Noord-Holland/L=Amsterdam/O=Booking.com BV/CN=*.booking.com
-issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+subject=/C=NL/L=Amsterdam/O=Booking.com BV/CN=*.booking.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert ECC Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA1
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3004 bytes and written 434 bytes
+SSL handshake has read 2574 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
-Server public key is 2048 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 256 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 437B37276D64F8F9F4161FFD612AFC7B3208B4D83436D3BC452D18887E3BCF45
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: 6B7BE2D9EC148922C57D177D997E8BED7FF0C78067A2760C8E1FD3AB184CFA3B
     Session-ID-ctx: 
-    Master-Key: 68A0060DD45E2A460C0685D48970066A16627540B2B94E41732F837E7C48B7FBD3FAC525086B9E5F6288D9F6A7F3968C
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472787907
-    Timeout   : 300 (sec)
+    Master-Key: BA179CC0E56D835E2388695E46F2DE7DDA0730D784D5AF79C8CB4F1F3A1B3B79E580E68744BB8AE458CB14CD85960254
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 40 ad b7 a6 b0 78 2d dd-d4 94 4f 23 f0 f6 14 7a   @....x-...O#...z
+    0010 - 7a 4a 71 9c d6 cd 73 37-30 0a 91 ba af 97 df 94   zJq...s70.......
+    0020 - 53 8c e9 a9 55 97 f0 7e-a3 91 b0 df 84 9a 3a 57   S...U..~......:W
+    0030 - c1 cb cd 78 f4 15 59 f4-96 ce ff 94 87 bd db 29   ...x..Y........)
+    0040 - d5 19 10 7b 91 f1 36 53-51 3b 47 a1 fa f8 f2 67   ...{..6SQ;G....g
+    0050 - dd 92 cb 1b f0 67 5b b9-ce 56 0e 09 be f9 9c bf   .....g[..V......
+    0060 - 12 ca f6 da a9 22 70 7f-78 a1 a9 de 2d c6 94 38   ....."p.x...-..8
+    0070 - 75 a3 71 87 ce 34 ee a8-ac a0 df 34 a6 ea 17 a3   u.q..4.....4....
+    0080 - bc a2 bb 3c 9c be c0 99-79 e9 82 7c 86 a1 02 6a   ...<....y..|...j
+    0090 - c6 0a 53 4e 95 df e2 a9-e0 69 d2 bd 0b ab 62 72   ..SN.....i....br
+
+    Start Time: 1577474822
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

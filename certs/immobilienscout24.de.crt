@@ -1,79 +1,23 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
-Certificate chain
- 0 s:/C=DE/postalCode=10243/ST=Berlin/L=Berlin/street=Andreasstr. 10/O=Immobilien Scout GmbH/OU=IT/CN=*.immobilienscout24.de
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Organization Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Organization Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
-   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
----
-Server certificate
------BEGIN CERTIFICATE-----
-MIIENDCCA9ugAwIBAgIRAMAMckczooiY7gWYZMIAb4YwCgYIKoZIzj0EAwIwgZYx
-CzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAOBgNV
-BAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTwwOgYDVQQD
-EzNDT01PRE8gRUNDIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2
-ZXIgQ0EwHhcNMTYwNzExMDAwMDAwWhcNMTkxMDA5MjM1OTU5WjCBpjELMAkGA1UE
-BhMCREUxDjAMBgNVBBETBTEwMjQzMQ8wDQYDVQQIEwZCZXJsaW4xDzANBgNVBAcT
-BkJlcmxpbjEXMBUGA1UECRMOQW5kcmVhc3N0ci4gMTAxHjAcBgNVBAoTFUltbW9i
-aWxpZW4gU2NvdXQgR21iSDELMAkGA1UECxMCSVQxHzAdBgNVBAMMFiouaW1tb2Jp
-bGllbnNjb3V0MjQuZGUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARmXa7MC/it
-YUlBlWGIM3Z1+twqXkaqMekhZxB6lWXqRXmjIuIcWNhD++j92nMWy9rYD3tl8bdh
-JyF0vbQ70Si6o4IB9jCCAfIwHwYDVR0jBBgwFoAUdr4iSO4/PvZGA9mHGNBlfiKc
-C+EwHQYDVR0OBBYEFO58sD55e5ErhxzWNDQYrtLEXEjxMA4GA1UdDwEB/wQEAwIF
-gDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBQ
-BgNVHSAESTBHMDsGDCsGAQQBsjEBAgEDBDArMCkGCCsGAQUFBwIBFh1odHRwczov
-L3NlY3VyZS5jb21vZG8uY29tL0NQUzAIBgZngQwBAgIwWgYDVR0fBFMwUTBPoE2g
-S4ZJaHR0cDovL2NybC5jb21vZG9jYS5jb20vQ09NT0RPRUNDT3JnYW5pemF0aW9u
-VmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNybDCBiwYIKwYBBQUHAQEEfzB9MFUG
-CCsGAQUFBzAChklodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9DT01PRE9FQ0NPcmdh
-bml6YXRpb25WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCQGCCsGAQUFBzAB
-hhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wNwYDVR0RBDAwLoIWKi5pbW1vYmls
-aWVuc2NvdXQyNC5kZYIUaW1tb2JpbGllbnNjb3V0MjQuZGUwCgYIKoZIzj0EAwID
-RwAwRAIgPacpZRKBld/mcIMakxe7XZexbXrjmcSwI7SAnC6+JfwCIBbE9ts1mwbW
-OA1gsTaKJxHYjtO1I2mCAqzu1zWVclyV
------END CERTIFICATE-----
-subject=/C=DE/postalCode=10243/ST=Berlin/L=Berlin/street=Andreasstr. 10/O=Immobilien Scout GmbH/OU=IT/CN=*.immobilienscout24.de
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Organization Validation Secure Server CA
+no peer certificate available
 ---
 No client certificate CA names sent
-Peer signing digest: SHA256
-Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3483 bytes and written 434 bytes
+SSL handshake has read 7 bytes and written 0 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
-Server public key is 256 bit
-Secure Renegotiation IS supported
+New, (NONE), Cipher is (NONE)
+Secure Renegotiation IS NOT supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
-    Session-ID: 95227BD7546483152FFBEC8BDF870C17074CDF594607896B9B114DAA277D1A9B
+    Cipher    : 0000
+    Session-ID: 
     Session-ID-ctx: 
-    Master-Key: 2AB22B7E89BF3D6BAA9BA20646DD7D4D5D85AFC21BF268861F4C59CC9385DCFDD0CC50759A9AEF4BF8F467C54B698F92
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 3600 (seconds)
-    TLS session ticket:
-    0000 - 76 19 4a bd 16 aa 72 1c-1d eb 6c d2 6d e4 04 d4   v.J...r...l.m...
-    0010 - a1 ee e9 f2 04 65 84 58-3f 00 5a e0 25 be b2 79   .....e.X?.Z.%..y
-    0020 - cb c9 09 9f de ea 55 f4-41 db 10 89 3b 39 1e e9   ......U.A...;9..
-    0030 - 8d b5 cd 7b 1e 7e cf 4d-2f c3 75 67 fe b0 11 5a   ...{.~.M/.ug...Z
-    0040 - 8b 9e 0c 88 f2 a7 f9 d9-b0 1a e1 59 0a d9 f6 fb   ...........Y....
-    0050 - b2 88 3c 30 f2 18 e4 6d-87 b7 8b b5 7a 32 b3 81   ..<0...m....z2..
-    0060 - e8 f3 74 ae ed 8a 94 9a-49 b4 24 de 4e 14 ca ef   ..t.....I.$.N...
-    0070 - 35 f8 ed 51 e0 b4 a3 1e-41 c7 05 e4 89 54 73 ce   5..Q....A....Ts.
-    0080 - 2e 1a 82 c6 6e 27 a1 ab-6a e2 a4 69 60 74 c5 61   ....n'..j..i`t.a
-    0090 - a3 95 70 fd 84 2a 3f 6e-b0 9a 96 54 65 4b a5 7c   ..p..*?n...TeK.|
-    00a0 - 85 e1 4e b2 6e 25 04 a3-f3 48 f3 b6 7d 7f 5b a1   ..N.n%...H..}.[.
-
-    Start Time: 1472789581
-    Timeout   : 300 (sec)
+    Master-Key: 
+    Start Time: 1577475753
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

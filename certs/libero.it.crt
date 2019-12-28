@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=buonissimo.org
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVTCCBD2gAwIBAgISA9WR3gYb5Pj9XOZehHbuWq5mMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MTAxMjE2NDJaFw0x
+OTA5MDgxMjE2NDJaMBkxFzAVBgNVBAMTDmJ1b25pc3NpbW8ub3JnMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAokzQajjgOucxqXEiCR82LRktXftEk1Wr
+MADLA10R3e1zOXjZQYyZO8fRKiRcd7XbLdX1AiK5ccay1+jhHH69cEZEnWml/pyV
+wSRbhXZW7jT3vvvgPcR3Ks2KBFk5v9ogjUDpXxdp+zSUPCHkylIsozyAWoQz4ho4
+YR0/K6DSFv04bHDLWkgbWXWdIDgjLS1ZkrTypjBr6kmjg0g67fsmTc8TjI1lT0IJ
+4FNdgq64ChHLbKbWKRyIX6KWfXHgiNBgGuOJbe1pORHwbiuqWfdYTMm3fpyqLYUv
+nPfPhOyn87hPs7Q7pcEByHLMdjYI/dbZoFF/jLYNtVR1EkSFDDu4hQIDAQABo4IC
+ZDCCAmAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTXEAizL7UXRhlGVPjU9Sobyy4/
+jjAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRj
+MGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5v
+cmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5v
+cmcvMBkGA1UdEQQSMBCCDmJ1b25pc3NpbW8ub3JnMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAdH7agzGtMxCR
+IZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFrQYikjwAABAMASDBGAiEAykW4juxd
+HP7uNVka2OHVcPBo0Rjtho0f6dQpuk+IPXcCIQC9o+vq3KY6hSt/NoCIyGJfkhez
+Tn44il2Af9eWM69vZAB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4
+AAABa0GIpqIAAAQDAEcwRQIgSueDlQQJErCmBE6w9a/XpsS187c8d+pWQj6Pkiog
+qecCIQC15Bli4B2/TKcmLBJZyGKM4bcygaAkVVzqlgzXDJNpGzANBgkqhkiG9w0B
+AQsFAAOCAQEAL4g0FEsL91ngnSPPZD1L3xFVmRy3CSyqFniQO7RcQ9gAieLB7h+D
+1cjPifQhkyRolvuHHV52bAkc4WWayC0XLRae8LbDlLd0ZFWz+300PcIhCjp1SJj3
+EvCRe0Z/mwuWOWjmx1AtmyAzRxfelxB8yeTfIWbT30q3hmLduIffa8NdfbnIkenx
+Jf8WdUE69kw0aEk5NqVS+FmXAOo+4MRo0aeq1Fy4h3Vf74pU39PaV/bVwJb+b38L
+lw7uJt60ZzmdvOrm+Q2ZboYanopCFikm0TMKRu7WVWTYKFk3QZzA7lN4TWE65MaQ
+Ex6Vy6kyeLEmMagkAJs6w84mwBc/1o/X7w==
+-----END CERTIFICATE-----
+subject=/CN=buonissimo.org
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3216 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: B1ADB83C499E04443FF97EDA1B2ABBBC4007C9B3356F38D5C22C09F27DC2E256
+    Session-ID-ctx: 
+    Master-Key: 3F5171D3EB6221B860E111211CC1594E1F5C464A04901522194AD88A42B1735BED030D67AA3EDD8C1045ACD1F17454F6
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 5e 2e 73 84 7d a8 e2 55-b1 7c 53 d4 23 60 1b 5f   ^.s.}..U.|S.#`._
+    0010 - a6 ad b5 ba d6 a0 16 a9-0a e4 17 34 e5 d9 08 77   ...........4...w
+    0020 - e3 fb 13 19 61 42 c9 0d-02 9c ba db e5 7a 09 a9   ....aB.......z..
+    0030 - ee 1e 6e 7e e2 f4 ee cd-c2 db 17 be d7 27 9a 21   ..n~.........'.!
+    0040 - de ca 6b 4d b2 55 b3 df-df 59 3d 00 b4 4c 21 98   ..kM.U...Y=..L!.
+    0050 - b5 b7 ef 93 76 24 d5 41-e4 d7 e7 b5 f6 84 9e d5   ....v$.A........
+    0060 - f9 82 68 2c 9a e8 26 bf-e5 58 33 8c 8e 2a 19 d5   ..h,..&..X3..*..
+    0070 - 97 d2 6c f0 c3 40 55 18-a5 d7 28 ad f7 66 0d 7b   ..l..@U...(..f.{
+    0080 - 7d 98 50 a5 9a fa cf 20-a2 e9 df 78 bb 19 74 57   }.P.... ...x..tW
+    0090 - 7f 7d 96 a9 78 45 4a 1f-ee b8 f1 0d f4 21 91 4d   .}..xEJ......!.M
+    00a0 - e5 24 58 a8 af d4 89 00-40 2e ec d8 de 14 eb 2e   .$X.....@.......
+
+    Start Time: 1577475381
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
+---

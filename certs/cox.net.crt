@@ -1,27 +1,79 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
-no peer certificate available
+Certificate chain
+ 0 s:/C=US/ST=Delaware/L=Dover/O=Incapsula Inc/CN=incapsula.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFwzCCBKugAwIBAgIMaCtScPvI5bry8Y9sMA0GCSqGSIb3DQEBCwUAMFcxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMS0wKwYDVQQDEyRH
+bG9iYWxTaWduIENsb3VkU1NMIENBIC0gU0hBMjU2IC0gRzMwHhcNMTkwMzIxMTkw
+OTMxWhcNMjAwMzIxMTkwOTMxWjBgMQswCQYDVQQGEwJVUzERMA8GA1UECBMIRGVs
+YXdhcmUxDjAMBgNVBAcTBURvdmVyMRYwFAYDVQQKEw1JbmNhcHN1bGEgSW5jMRYw
+FAYDVQQDEw1pbmNhcHN1bGEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEApzYQNQunxzCKsyUbk8qYMW6P0y16S5fJAyjFzXdiCBwzs3LjHa3qgQuB
+SAPeigX+pWQIzKzOoNLTp0inp8LpgE9hEL9x4vjqGuT7AB0bVknw1sHCagq4zb1y
+R9Cs/n7OVntGv2TFriToPVYdSHgJ+yNYPp4JRLZXYWGqd8n8GUXpjg0sIn4ZBbGJ
+EKZ80SU3N0OcHqUSZvhd1UOvvuAvWYGBUqw24u5a1d9N30wyGphCuFjsa1lZJpAl
+2nZ6c6iQB/KPUeqJMMxy4gePpUJ6DcES07H4pZnbF7Ixode76DwjxB9iYJ/CtqQF
+deII/CGuTj4AB/e6ARtCOg97qO6VgQIDAQABo4IChDCCAoAwDgYDVR0PAQH/BAQD
+AgWgMIGKBggrBgEFBQcBAQR+MHwwQgYIKwYBBQUHMAKGNmh0dHA6Ly9zZWN1cmUu
+Z2xvYmFsc2lnbi5jb20vY2FjZXJ0L2Nsb3Vkc3Nsc2hhMmczLmNydDA2BggrBgEF
+BQcwAYYqaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2Nsb3Vkc3Nsc2hhMmcz
+MFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8v
+d3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECAjAJBgNVHRME
+AjAAMBgGA1UdEQQRMA+CDWluY2Fwc3VsYS5jb20wHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMB0GA1UdDgQWBBTT+rTQCAtO72oiGGP39T1L6zPa8zAfBgNV
+HSMEGDAWgBSpK4fhziRHOxu/z4U3AlWdDZRY5jCCAQMGCisGAQQB1nkCBAIEgfQE
+gfEA7wB1AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABaaGolksA
+AAQDAEYwRAIgYwHeTPlF7Uii66r5KjyV3Mlvl9OXiCeQ9KG6vusd35sCIFp5FOPm
+tLnGaJZkmSfRNAgMDC0oKUTylj98wgjQgEvfAHYA7ku9t3XOYLrhQmkfq+GeZqMP
+fl+wctiDAMR7iXqo/csAAAFpoaiS7wAABAMARzBFAiAIvmNQhoRTHo9nn9tup4i5
+1EbRJuNjwazMLZV8akZP1QIhAO5hJbxwd8J/SBJ82+dW1OkiKlFO6TvpWTcnHRmK
+Re5MMA0GCSqGSIb3DQEBCwUAA4IBAQB1RuFKQkjF1Jje++Ev9Vb2WdvEFyQxXCFM
+r49W7NIUyZlVkb1sMn7nBGsndyuP1Ex/FlN2QrNtulF8isK4374XI9XG7gGXbQr5
+UqGNxOXURtpupxpNKIaH+ssj6EvcLgUsrUK4DLAUGhJLYOnoBPQBfABHQ7wShz9v
+z8P3RUYTXACyI3R5nDWO+HKsn2aqs6sg5lqro+qcTbgHgCCvibv+rB2Z+b6RirjM
+en+OZftuE3Nmz6hkfaQ4KrYOoKWTgOXNMkGscjdv6bimLFAfzzenXfE5yIwoNP9e
+MLHFfAw4TKakDYDpyFHWMWHNQOIeNrgXO+9rkTafeuAC9BvqkzE1
+-----END CERTIFICATE-----
+subject=/C=US/ST=Delaware/L=Dover/O=Incapsula Inc/CN=incapsula.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 0 bytes and written 308 bytes
+SSL handshake has read 3270 bytes and written 289 bytes
 ---
-New, (NONE), Cipher is (NONE)
-Secure Renegotiation IS NOT supported
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : 0000
-    Session-ID: 
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 27B191AB47C7FFCD6B6D290198C1677404694A8C3B83A79CF3CE9A485D4A4E3A
     Session-ID-ctx: 
-    Master-Key: 
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472790616
-    Timeout   : 300 (sec)
+    Master-Key: 242A5C1CF11DA2901E42BBEEF93ED8643EB55D1B2700D3711631EBDF32C21FD4307A90E52A1733E7A1354CB7B05EBDA1
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 0c 0c fd d4 bc e5 8b 4d-5a 15 ea 67 2a 9a 67 c0   .......MZ..g*.g.
+    0010 - af cf 83 6b a2 db 14 47-b1 69 7e 66 c5 56 67 f5   ...k...G.i~f.Vg.
+    0020 - d5 45 8f b0 d2 b4 2a 64-c2 66 9e 5a 11 a4 b8 2e   .E....*d.f.Z....
+    0030 - fd 9f b9 f4 6e 65 10 c1-2f 57 c6 3b aa e9 15 5c   ....ne../W.;...\
+    0040 - a5 22 3e 0b b4 df 48 a7-57 e6 e9 8d 49 27 d6 29   .">...H.W...I'.)
+    0050 - cb 44 56 61 74 88 42 26-5b 7e bc a6 7d 67 2b e1   .DVat.B&[~..}g+.
+    0060 - c9 e8 10 27 2a fb 6b 36-a7 91 fe 58 0c c2 8d 37   ...'*.k6...X...7
+    0070 - 01 d2 22 71 34 2e f5 50-03 06 f7 0f 29 44 f5 0b   .."q4..P....)D..
+    0080 - 9d 01 76 83 3a 22 25 91-b3 f6 e4 30 b1 47 83 f5   ..v.:"%....0.G..
+    0090 - 0b c8 0d d4 a3 b8 7e 5d-37 dc 25 a3 62 9d 61 a3   ......~]7.%.b.a.
+
+    Start Time: 1577476070
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,54 +1,55 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=GB/ST=London/L=London/O=British Broadcasting Corporation/CN=*.bbc.co.uk
-   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
- 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
-   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+ 0 s:/C=GB/ST=London/L=London/O=British Broadcasting Corporation/CN=www.bbc.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign RSA OV SSL CA 2018
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign RSA OV SSL CA 2018
+   i:/OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIF0zCCBLugAwIBAgISESGmCn6XQw4M0Yr34Hxqn/0FMA0GCSqGSIb3DQEBCwUA
-MGYxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYD
-VQQDEzNHbG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hB
-MjU2IC0gRzIwHhcNMTYwMzE0MTcwMTA2WhcNMTcwMzE1MTcwMTA2WjBwMQswCQYD
-VQQGEwJHQjEPMA0GA1UECBMGTG9uZG9uMQ8wDQYDVQQHEwZMb25kb24xKTAnBgNV
-BAoTIEJyaXRpc2ggQnJvYWRjYXN0aW5nIENvcnBvcmF0aW9uMRQwEgYDVQQDDAsq
-LmJiYy5jby51azCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJhk1p3B
-nY+PBKhGHtyVKEJWONitLVBPAqK9E0265Nv9LY4A5mhui9dgnQK31cUdCYM8mzSc
-iLtGzbcOZ9Wp95nfGQalcjG2PakE5vlbeVxR5K2khJD6Uvys6X3frxJ7CWjaY+ms
-VURe5YeSZp8pMdB2QPFoSG1Yu7SM21yHtz0WbEITXtNLGBVUMzlT1wdyIWa0pNYH
-IxKPZZN7oMtQuIzTFq+lLiuJAUGYBmw90yZcoC9pgq9W0qCV5phy19QtJj++t5QJ
-2ZOqHqyP3VL1sMHfI09EBftLwzsWY0RXbZ84ePjf5ldfeLiEjBIstWzd+rNH2yww
-2BsKBmLH5Ns/CU8CAwEAAaOCAm8wggJrMA4GA1UdDwEB/wQEAwIFoDBJBgNVHSAE
-QjBAMD4GBmeBDAECAjA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5nbG9iYWxz
-aWduLmNvbS9yZXBvc2l0b3J5LzCBtQYDVR0RBIGtMIGqggsqLmJiYy5jby51a4IK
-YmJjaS5jby51a4IHYmJjLmNvbYIObGl2ZS5iYmMuY28udWuCD2xpdmUuYmJjaS5j
-by51a4IMbGl2ZS5iYmMuY29tggwqLmJiY2kuY28udWuCCSouYmJjLmNvbYIQKi5s
-aXZlLmJiYy5jby51a4IRKi5saXZlLmJiY2kuY28udWuCDioubGl2ZS5iYmMuY29t
-ggliYmMuY28udWswCQYDVR0TBAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
-BQUHAwIwSQYDVR0fBEIwQDA+oDygOoY4aHR0cDovL2NybC5nbG9iYWxzaWduLmNv
-bS9ncy9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMi5jcmwwgaAGCCsGAQUFBwEBBIGT
-MIGQME0GCCsGAQUFBzAChkFodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2Nh
-Y2VydC9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMnIxLmNydDA/BggrBgEFBQcwAYYz
-aHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2dzb3JnYW5pemF0aW9udmFsc2hh
-MmcyMB0GA1UdDgQWBBR08gvI1HXfa/ExprxIjz0ovqm9vTAfBgNVHSMEGDAWgBSW
-3mHxvRwWKVMcwMx9O4MAQOYafDANBgkqhkiG9w0BAQsFAAOCAQEAXymgwHvukz+R
-HEpVFWwLKQJoXL6EoQPiQb0v+bX3lOlh2B+plG+Ev0GVU7XR+okpsZXuhu6LrLvm
-TBnny1RTxozy4hRqQ44pylDo7KyN90ynDYSgm8W+9V/c51ZWlhhg2KkklJubnuH5
-DUL5t+G3EVawUit+XuEbNfC3yBYvbQpY4rjelr1uNukcnvRyQ6+8PjGH50ZzyAni
-o+ydZvbVLpTosye/KhCmnmVv7QsKrF73BzMVcsfob/nQ8zvM5vXtDPoI6FzD+YSW
-J8LOf3GJf7EuwxB9N2uoTR5ademUF2eN+SjaMB/porVkHIMrmY9QR5cd9kY1cTvn
-vhIf+cM6UA==
+MIIGQTCCBSmgAwIBAgIMCUzVprHZF/hx6cJqMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0xOTA1MjgxMjMwMDJaFw0y
+MDA4MDUwOTM2MDRaMHAxCzAJBgNVBAYTAkdCMQ8wDQYDVQQIEwZMb25kb24xDzAN
+BgNVBAcTBkxvbmRvbjEpMCcGA1UEChMgQnJpdGlzaCBCcm9hZGNhc3RpbmcgQ29y
+cG9yYXRpb24xFDASBgNVBAMTC3d3dy5iYmMuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAsfOL+djSc3O0mYMIG/qIVmLj/H/gybSvxeGfAqC6uZJ/
+TbQL3l12Fba3pRQ9+DTySQEtA/6/BbvryPRvu4Xw979TYoS3KLrdd1dORu7k9Xuo
+wr8vzIHGxDH8iLu24erz0REpDhp41k7tgPp0JQoG/otuNI+u0OaONwuuk7bv/64F
+6RR4Pc8nOypDqWJUS6pyXoXozZhtVlaODc7A2KJdJERJXGXMHGcOVlUatHvXRu7u
+bH6C+ulj8G5CZDDgNbVmx355eWhbp+BSTyKa4YcSJAaz9Qw8dUN6R6OJy8JK5trE
+sCWZqvYivAvYB0ieHqrBl72AiMPgjTFAx7hG9d5UnwIDAQABo4IC+TCCAvUwDgYD
+VR0PAQH/BAQDAgWgMIGOBggrBgEFBQcBAQSBgTB/MEQGCCsGAQUFBzAChjhodHRw
+Oi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc3JzYW92c3NsY2EyMDE4
+LmNydDA3BggrBgEFBQcwAYYraHR0cDovL29jc3AuZ2xvYmFsc2lnbi5jb20vZ3Ny
+c2FvdnNzbGNhMjAxODBWBgNVHSAETzBNMEEGCSsGAQQBoDIBFDA0MDIGCCsGAQUF
+BwIBFiZodHRwczovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAIBgZn
+gQwBAgIwCQYDVR0TBAIwADA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY3JsLmds
+b2JhbHNpZ24uY29tL2dzcnNhb3Zzc2xjYTIwMTguY3JsMEgGA1UdEQRBMD+CC3d3
+dy5iYmMuY29tgg1maWcuYmJjLmNvLnVrggliYmMuY28udWuCDXd3dy5iYmMuY28u
+dWuCB2JiYy5jb20wHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1Ud
+IwQYMBaAFPjvf/LNeGeo3m+PJI2I8YcDArPrMB0GA1UdDgQWBBSBwoXSQDbXCZ9o
+iE+xnDVcTXFvdDCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AKS5CZC0GFgUh7sT
+osxncAo8NZgE+RvfuON3zQ7IDdwQAAABav5rR5wAAAQDAEYwRAIgbcizQzL2dCSR
+WVCBeaKpUm3/1BlAr3Ubm5MigcZrjDQCID7UcMeD+QEJbiV8tNYGVPDthtkeANLO
+xd8uf6or+Mf5AHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAFq
+/mtEWQAABAMARzBFAiBCxB79QmUyoZllp2Hi0sX5s7PrKpebBZnk58VthtuPhgIh
+AI0Mz8QcYUs1Ep2Yn9U4wh+iDQJO0FJAHt52NeBrrnR/MA0GCSqGSIb3DQEBCwUA
+A4IBAQBqOmsMafav3oc7yJvRdXyy2Y6dOaX7xaynjj5MSpEb72r5wKbarAt0JEMF
+OF5/9uebgyzt1pjFHWUt8u54bU2r7M0IYUsabuupvBdOGkzk7Gr3O6feJJMi8tl5
+CJPgG3eCDtA8k7Ex/fBif07HvnwyIrTkzeSflWRsdtrPrNO5X0FYaRIywCEk2DqY
+L5H9TfeTg0xg8Q1Z6PWqbZb76xnWCFsS5dA1XnmTI3vKsnpkx8+Fm35ygqaMF3pR
+wYZz9UcRIb8INRbzuJ35NL7y0kP+6wE5RdPYrC3XnQ0se+5EWYraFNgzNeVlPF3P
+WakGXWoKsLX/OmuICqQBZCBVEu8Q
 -----END CERTIFICATE-----
-subject=/C=GB/ST=London/L=London/O=British Broadcasting Corporation/CN=*.bbc.co.uk
-issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+subject=/C=GB/ST=London/L=London/O=British Broadcasting Corporation/CN=www.bbc.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign RSA OV SSL CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3136 bytes and written 434 bytes
+SSL handshake has read 3335 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -59,14 +60,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 5574A032567CEAA10834DD3BAB0749C5728ED2D0F4510C048C707FFE3A4DFA73
+    Session-ID: 04ADBDAA37966CA76F2FD04D3378822B8B15D760D1794963E7A2181AAE31D29C
     Session-ID-ctx: 
-    Master-Key: 23E3EB49B508B5CA6C1CB66AE55EF6D1E25DE566C726CFE5D89E85CC5BC47DB364566C88CB58A4E94209E5B8E13C2D19
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472787939
-    Timeout   : 300 (sec)
+    Master-Key: C290AC5B6E84EA4A3B7409BCE8726920ED3E5C92DD45778D7A9967705278D0EA56238BF6E470A09CECA47AEB864C0BCA
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - b6 56 b1 90 51 53 d4 90-38 e3 db fb 04 64 91 fb   .V..QS..8....d..
+    0020 - 0d 8e 49 58 ae f8 ee b0-17 09 b1 ec 3a 1b 4f 81   ..IX........:.O.
+    0030 - 2a fc ae e2 71 ad f6 0f-af 2d 24 fe 7b a4 8a 94   *...q....-$.{...
+    0040 - f3 cf b9 de 9d 89 15 56-db 67 d5 23 9e df 14 a9   .......V.g.#....
+    0050 - 2f e1 81 52 7a 5a 08 d6-e0 88 fb 80 ed 72 04 1a   /..RzZ.......r..
+    0060 - 43 8b a5 7c ba 0b 27 a1-42 47 5c 03 e5 74 43 c9   C..|..'.BG\..tC.
+    0070 - 1a ef 33 4c 85 8c 51 fc-02 5f 14 44 24 4f fb d2   ..3L..Q.._.D$O..
+    0080 - bc c8 17 78 a4 08 8b 12-07 79 98 20 6f 84 23 78   ...x.....y. o.#x
+    0090 - ad 31 76 b0 02 f5 64 74-9d 0b 78 56 7f 42 1b 94   .1v...dt..xV.B..
+
+    Start Time: 1577474831
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,51 +1,62 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=3496781/C=US/ST=Utah/L=Salt Lake City/O=Overstock.com, Inc./OU=IT/CN=www.overstock.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 0 s:/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Delaware/serialNumber=3496781/C=US/ST=Utah/L=Salt Lake City/O=Overstock.com, Inc./OU=Website Operations/CN=www.overstock.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFTDCCBDSgAwIBAgIQEn8Dj5MzPGbfhEh1z0W4lTANBgkqhkiG9w0BAQsFADB3
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
-IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTQxMDI3MDAwMDAwWhcNMTYxMTA1
-MjM1OTU5WjCB3TETMBEGCysGAQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgEC
-FAhEZWxhd2FyZTEdMBsGA1UEDxMUUHJpdmF0ZSBPcmdhbml6YXRpb24xEDAOBgNV
-BAUTBzM0OTY3ODExCzAJBgNVBAYTAlVTMQ0wCwYDVQQIDARVdGFoMRcwFQYDVQQH
-DA5TYWx0IExha2UgQ2l0eTEcMBoGA1UECgwTT3ZlcnN0b2NrLmNvbSwgSW5jLjEL
-MAkGA1UECwwCSVQxGjAYBgNVBAMMEXd3dy5vdmVyc3RvY2suY29tMIIBIjANBgkq
-hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzWd2+3YNMDJudYH2qIHvgVtZ+9FOopbU
-GbBXKOpPEtSMTuejFfBvFCgZty14It3im4Q9EDaKe/IlnLgZqseHfGM6w4BasZRb
-fe/zsGMLPn9QAiFo923MauN5yilY7veTDVwx7vDwUhK0D5HrooN/HUMm1FTwDs4h
-aE/TPmYlRFLmm+IcsmROpDHjpYnh74zrx6coL+5u4rAfkX2TSDydlZaLO183sM+S
-AjEV0lAW/aM8Lun2s5b6qv0p3wRJkIht0RQzndUdj9z1JpMj2Ps6Rs7LWDJiPtMk
-wLre0yLn7kH8qvwbK7Bldw2LWBs+aKdy+lIGqphy6H4dPlgbuAJl9wIDAQABo4IB
-azCCAWcwHAYDVR0RBBUwE4IRd3d3Lm92ZXJzdG9jay5jb20wCQYDVR0TBAIwADAO
-BgNVHQ8BAf8EBAMCBaAwZgYDVR0gBF8wXTBbBgtghkgBhvhFAQcXBjBMMCMGCCsG
-AQUFBwIBFhdodHRwczovL2Quc3ltY2IuY29tL2NwczAlBggrBgEFBQcCAjAZDBdo
-dHRwczovL2Quc3ltY2IuY29tL3JwYTArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8v
-c3Iuc3ltY2IuY29tL3NyLmNybDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
-AwIwHwYDVR0jBBgwFoAUAVmr5906C1mmZGPWzyAHV9WR52owVwYIKwYBBQUHAQEE
-SzBJMB8GCCsGAQUFBzABhhNodHRwOi8vc3Iuc3ltY2QuY29tMCYGCCsGAQUFBzAC
-hhpodHRwOi8vc3Iuc3ltY2IuY29tL3NyLmNydDANBgkqhkiG9w0BAQsFAAOCAQEA
-oxjAbrXf3GwOVCs3TDNYwDh+88R2eSrSVOrLAgyxcCbbtsuGmN3PsieD7XHJtvuv
-3E6ZgLpwhcp5YLvIqegi70bZ6+wK0GqQzVqDCN/+QeYjXprmXjGSrWRfmTNFVEtC
-kAzCOj0JJc1M3mm1tllOq5HSfDuQN873gpVPAZKlXqkBk1ra9himaC6Y9EaRzwKX
-uxjp9Lw4UTs+2Zl/rVR41dHx3AmkyyHjpyeEWdbnx67ElHF25KhvOkzy1SUKHHFP
-y2C8ntARbjF0GdzSSucw07c1v6OlVv0H8UUOvv9nNrz5sx1Fy7pDro2l6NKYs4P6
-+qwnxpwmFKI79hpFfC7nWQ==
+MIIHkTCCBnmgAwIBAgIQCGpEWYmqsJ9QPuphjXA7mjANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE4MDcwMzAwMDAwMFoXDTIwMDcxMzEy
+MDAwMFowge0xHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRMwEQYLKwYB
+BAGCNzwCAQMTAlVTMRkwFwYLKwYBBAGCNzwCAQITCERlbGF3YXJlMRAwDgYDVQQF
+EwczNDk2NzgxMQswCQYDVQQGEwJVUzENMAsGA1UECBMEVXRhaDEXMBUGA1UEBxMO
+U2FsdCBMYWtlIENpdHkxHDAaBgNVBAoTE092ZXJzdG9jay5jb20sIEluYy4xGzAZ
+BgNVBAsTEldlYnNpdGUgT3BlcmF0aW9uczEaMBgGA1UEAxMRd3d3Lm92ZXJzdG9j
+ay5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC+5he/gxTtDuX4
+sSvk27e0/SmEhebjENsk9lbtVOF9/t0iCdsMXHIywr8yontG3VqtvtQbR8JEuhOn
+thFx9yrbUZdm3y0JdDhK3edbJ2I3lMeELHkF3E9Oyt5mmFRaLrWnFZun8C7bCkXX
+iVsCRVhPkgy6LRbooryhSiLIr1/VDU4cjzzgDd2fLEFDO5KfEayX8/rS0/Z+Ru/8
+hePYqXSgZvdfTqQvuFXFnzs5pkiFHgUVvAvBR/r+8ZibSpitbIKKwu6sJESeNGA6
+NvPHAIsSdGh8lqLDIfxOh1ptSXmPFJ0Z4SOv7OzNVk0xIsLl90CRFXKz1ftpNfLG
+wq0LjkenAgMBAAGjggOiMIIDnjAfBgNVHSMEGDAWgBQ901Cl1qCt7vNKYApl0yHU
++PjWDzAdBgNVHQ4EFgQUKEkIHRi/SHTiDBJnUrpyxygtLxowSwYDVR0RBEQwQoIR
+d3d3Lm92ZXJzdG9jay5jb22CDW92ZXJzdG9jay5jb22CEHd3dy5vdmVyc3RvY2su
+Y2GCDG92ZXJzdG9jay5jYTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0dHA6Ly9jcmwzLmRp
+Z2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5jcmwwNKAyoDCGLmh0dHA6Ly9j
+cmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5jcmwwSwYDVR0gBEQw
+QjA3BglghkgBhv1sAgEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNl
+cnQuY29tL0NQUzAHBgVngQwBATCBiAYIKwYBBQUHAQEEfDB6MCQGCCsGAQUFBzAB
+hhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUgYIKwYBBQUHMAKGRmh0dHA6Ly9j
+YWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJFeHRlbmRlZFZhbGlkYXRp
+b25TZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADCCAYEGCisGAQQB1nkCBAIEggFx
+BIIBbQFrAHcAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFkYMMK
+VAAABAMASDBGAiEAxGDdLpzGUDSrhMw+5vP/cl25K6Cw8VoTXDts/QcswVcCIQDH
+5vjOSfKvggOUS/BTqoCPTYLA+Q+j6ciztcAeY4akLgB3AFYUBpov18Ls0/XhvUSy
+PsdGdrm8mRFcwO+UmFXWidDdAAABZGDDCb0AAAQDAEgwRgIhAKqXPVQzcvlSwJO/
+6L/1CMJ3g6UU+jdN4imwULCbuGh3AiEA0ROiEuBsB7nPW9YkBHiPTTFQqoIQpPgo
+KklCENqrzGkAdwCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAWRg
+wws4AAAEAwBIMEYCIQDaYlSqSR+2R4oe08lmU/n1sm5QR5EPjWeh0lpqx6P0XgIh
+ALcuaCcvtf3aqpu2TGZiTCtG7HsHA1h1Hp0OIjtqCRLXMA0GCSqGSIb3DQEBCwUA
+A4IBAQALz+ZjWAMCwxswbKrokGbVD1G/MSJC/i/qYsksT/yea9ONra/L3mKybDHi
+/+Q10xRvjVkcOf5AeA71yl9X2Jr69DldeyUdCbIVPyXgRRz3HhLCo4Perj7njK9C
+tv/CqcfxkhnHeBaOxczsWYjTbxYLLDDdQG7qZRhyEdSs0xJIva6La73MjnQ1vyn8
++UxvWpUk0h2sEaQmVLZI76OR/n7LmLOGYwtIniIF05BGNcHY3cMFiQVD0OZy3EQa
+HMRERvSKLkCnqzL81aIeHa7AygFS/0VsdPFXYiy7hbCD77Q3bbAUPpVs7S+ovhZd
+WPKedBs2O9RFTw/om11FjmBuFIOb
 -----END CERTIFICATE-----
-subject=/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=3496781/C=US/ST=Utah/L=Salt Lake City/O=Overstock.com, Inc./OU=IT/CN=www.overstock.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+subject=/businessCategory=Private Organization/jurisdictionCountryName=US/jurisdictionStateOrProvinceName=Delaware/serialNumber=3496781/C=US/ST=Utah/L=Salt Lake City/O=Overstock.com, Inc./OU=Website Operations/CN=www.overstock.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA256
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3185 bytes and written 434 bytes
+SSL handshake has read 3649 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -56,14 +67,10 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 2B329B2B579A5800A89A510378DCE0C6C5AFEAE66DDEEEE3B21C5F82A70EEF34
+    Session-ID: 61F0729DAA4E6432000CA1BDC0B8495B6E53E1AC386BA268102B39387C36E837
     Session-ID-ctx: 
-    Master-Key: 79CBA9D36DC5D730FE7F61C3099EEFB57C0E7894AECA0204A02C38ED1BC9D4EF3C60802BB4DF2629CF1E2D264A4F3B23
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788525
-    Timeout   : 300 (sec)
+    Master-Key: C17A0A737BFF2DC29776C217F9300E80089AF7642BCB7C6621E0660CFF64B7BEA2A8D959BCC76337CE09D4AE3D60E31D
+    Start Time: 1577475900
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,0 +1,72 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/C=IE/L=Dublin/O=MG Content RT Limited/CN=*.redtube.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEejCCA2KgAwIBAgIQBi3cdvLND4h2O9u/hJI+6jANBgkqhkiG9w0BAQsFADBw
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xNzA3MTkwMDAwMDBaFw0yMDA3MjMxMjAwMDBa
+MFYxCzAJBgNVBAYTAklFMQ8wDQYDVQQHEwZEdWJsaW4xHjAcBgNVBAoTFU1HIENv
+bnRlbnQgUlQgTGltaXRlZDEWMBQGA1UEAwwNKi5yZWR0dWJlLmNvbTBZMBMGByqG
+SM49AgEGCCqGSM49AwEHA0IABHhFobtV40DabpMWlxVFUKvq5K9jBjAtqNGW5kpR
+rg84/umA1O2yWaClPj91xPabP5Ti918/EHBFpuj1ELGkgAujggHzMIIB7zAfBgNV
+HSMEGDAWgBRRaP+QrwIHdTzM2WVkYqISuFlyOzAdBgNVHQ4EFgQUov7PkNs+EuJS
+IiZjYF8/NOS9j2AwJQYDVR0RBB4wHIINKi5yZWR0dWJlLmNvbYILcmVkdHViZS5j
+b20wDgYDVR0PAQH/BAQDAgeAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc2hh
+Mi1oYS1zZXJ2ZXItZzEuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5kaWdpY2VydC5j
+b20vc2hhMi1oYS1zZXJ2ZXItZzEuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEB
+MCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYG
+Z4EMAQICMIGDBggrBgEFBQcBAQR3MHUwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw
+LmRpZ2ljZXJ0LmNvbTBNBggrBgEFBQcwAoZBaHR0cDovL2NhY2VydHMuZGlnaWNl
+cnQuY29tL0RpZ2lDZXJ0U0hBMkhpZ2hBc3N1cmFuY2VTZXJ2ZXJDQS5jcnQwDAYD
+VR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAm7BXHRPzT3FNrBtqcecCn/k1
+KsyWCtwj9OO+AAIFGR4GSG6gFRsm0D+0kP0fi0uuX1+fB1eWjAPu8sAAP/qseU3k
+9IpUaL7MyT9VMpmycQSpDwGq+9DAG06DtK4w1X8VhQpCUkdJ8DgMk+f+4aJwdiG/
+iBukqQwvABAiJVxGb/S+UTnuTzLk5YrSItnbwLt7BI/+Hhy0/MYUrQfJF4o14HGS
+z66ZGG6G5HvYBuCr1iW57VSwvJfyXgQezswqibaRfGoH52Tulwh5IcZrdaUJg7B7
+jTp8WN641U0Y0NdASTK9N5mrH5+gCa6MXO6eKN9+vh39e4+ImQFoCpyD67llcw==
+-----END CERTIFICATE-----
+subject=/C=IE/L=Dublin/O=MG Content RT Limited/CN=*.redtube.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2827 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: 5EA988AAA77AA37E408B24867A513053E97787462FB510DC4C92CC71383911CD
+    Session-ID-ctx: 
+    Master-Key: 7186F4E398ED46401D2EE7343960470CC931F529DBBFB0B367380D67AA35251374E472AE44F9E2D1B3D8DF88C1F91AF0
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - b0 bb 4e be 2c 0e 7f 97-0d b0 7c 18 50 06 1d 48   ..N.,.....|.P..H
+    0010 - e2 94 f1 fb 57 9c 4c 0f-a8 3a 3d ce b4 03 5a 09   ....W.L..:=...Z.
+    0020 - 6a 9c 70 be a8 97 f0 08-e6 14 43 81 34 be ed 57   j.p.......C.4..W
+    0030 - 95 29 49 a0 31 58 04 c3-4d 2f 20 ca 3f 58 33 3a   .)I.1X..M/ .?X3:
+    0040 - 26 33 45 af f5 e3 1f 81-02 62 2c 77 4b 0d 7a 47   &3E......b,wK.zG
+    0050 - e2 29 fc 3d ba fd 9d 31-48 a4 66 5e 6e 70 8a 2b   .).=...1H.f^np.+
+    0060 - f5 53 d4 d5 89 e9 5e 96-6b bd 2f 8f 90 34 a3 14   .S....^.k./..4..
+    0070 - a4 fc e8 9a 99 75 0b c9-49 18 17 03 a1 2c 7a a9   .....u..I....,z.
+    0080 - f5 19 ff 15 33 de cf 30-e6 56 29 c2 5c bf 82 3b   ....3..0.V).\..;
+    0090 - 5e 9a 8a 47 86 0c d1 bc-9c 0d 94 40 a1 5c af 79   ^..G.......@.\.y
+
+    Start Time: 1577474988
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

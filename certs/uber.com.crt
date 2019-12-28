@@ -1,83 +1,23 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
-Certificate chain
- 0 s:/OU=Domain Control Validated/CN=*.uber.com
-   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
- 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
-   i:/OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
- 2 s:/OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
-   i:/OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
----
-Server certificate
------BEGIN CERTIFICATE-----
-MIIE7DCCA9SgAwIBAgISESHrJ/8QyioPw0zQBcOfy3jEMA0GCSqGSIb3DQEBCwUA
-MGAxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTYwNAYD
-VQQDEy1HbG9iYWxTaWduIERvbWFpbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
-RzIwHhcNMTQwNDIxMjMzMjAyWhcNMTcwODA2MjM1OTU5WjA4MSEwHwYDVQQLExhE
-b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxEzARBgNVBAMMCioudWJlci5jb20wggEi
-MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDxa5TGqqCQtRtLSi/AJ11oKsms
-4UIXJFk0RVIOZRrbXrgm6eYXiK0U7MhMb/6A0omqnONjnlcc+TcUy9viQjID6mK+
-3UdlVA52yIvkrYW71ztXNDMXHZu7d4hUCeZexvLkyj5/TRPQfYDaGDkYE332cnt2
-PhrkIXGyvLKYsyyYcNrxFmlFaamhIHCy+wGyH7SrfMyBvqwZNgo3blK/vwcwZkft
-3CPJ9tKTbyyPOpeMGtqc7Pb7h+21pdSaJodlDgS+jETeoIJtrDLueKfKpEqjuOXm
-0WInwrEgjczEGRHZa7BhnTD9d5LmfalXB/TGbMD7lOx5//AiaT1jcRozVyO/AgMB
-AAGjggHGMIIBwjAOBgNVHQ8BAf8EBAMCBaAwSQYDVR0gBEIwQDA+BgZngQwBAgEw
-NDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3Np
-dG9yeS8wHwYDVR0RBBgwFoIKKi51YmVyLmNvbYIIdWJlci5jb20wCQYDVR0TBAIw
-ADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwQwYDVR0fBDwwOjA4oDag
-NIYyaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9ncy9nc2RvbWFpbnZhbHNoYTJn
-Mi5jcmwwgZQGCCsGAQUFBwEBBIGHMIGEMEcGCCsGAQUFBzAChjtodHRwOi8vc2Vj
-dXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc2RvbWFpbnZhbHNoYTJnMnIxLmNy
-dDA5BggrBgEFBQcwAYYtaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2dzZG9t
-YWludmFsc2hhMmcyMB0GA1UdDgQWBBTInyG/oBCBqc/E9biNnVMk6AckCTAfBgNV
-HSMEGDAWgBTqTnzUgC3lFYGGJoyCbcCYpM+XDzANBgkqhkiG9w0BAQsFAAOCAQEA
-Ul3P1hNnMZg0QgjhqCFb569SURuavPAyU/AcC9f+Q9hV0FHp+kXGt2yfhriv19SP
-Mkl2BneLZuPv6OOsAdAzQ5CbezRhblYV37tZxNHp0i0tYzvTO41LOtJ9+DiH6ddh
-6tg0CdRhM8EtIaqU9QtWcyXVJwqeT8HgVHotXZmHi3kSmflpfHeyduGbezoVqsvm
-d3ByZt0q8RQ3FFqqMSZtnr+f2nEjQZneCksLXVBNKEctbi4qijMGn0qtQaKOfsPU
-4Bl+GlE1p1VajgL273NqFT/UiLk3/TRpGT/EfvgFKPVam7rMUdSRolfM1j/GyUi4
-vQBGgVKwc0Ty3d7sF45bug==
------END CERTIFICATE-----
-subject=/OU=Domain Control Validated/CN=*.uber.com
-issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Domain Validation CA - SHA256 - G2
+no peer certificate available
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3932 bytes and written 434 bytes
+SSL handshake has read 0 bytes and written 0 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
-Server public key is 2048 bit
-Secure Renegotiation IS supported
+New, (NONE), Cipher is (NONE)
+Secure Renegotiation IS NOT supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: B0B92D13310E8938B5D6EF822741846F85A5BAE4CD41B8B8A48E3EA5A98A5F88
+    Cipher    : 0000
+    Session-ID: 
     Session-ID-ctx: 
-    Master-Key: 145A2342CE2DEF0B14C58D01430CC0C49526A6DBB99348817706DE30E1431E2C78C4AF0AB036944B4C91EC5B02DC07D1
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
-    TLS session ticket:
-    0000 - ab 8e 01 84 32 50 69 4d-fc 18 2d bc 0f 5e e1 e1   ....2PiM..-..^..
-    0010 - 01 d7 f6 14 7b d1 aa 9d-42 47 2f 56 01 8e b2 54   ....{...BG/V...T
-    0020 - f6 c2 bd 5d 77 2f da b6-4e a7 49 c1 5b 04 14 29   ...]w/..N.I.[..)
-    0030 - 76 39 fa c5 ad b3 aa 44-ce 55 51 bb 9b 78 65 89   v9.....D.UQ..xe.
-    0040 - d4 8f 40 04 05 41 c6 28-88 43 ac 6b 32 21 6e 10   ..@..A.(.C.k2!n.
-    0050 - 81 b2 1c 38 f9 0d 2b f3-a0 91 6d f0 d3 4c 66 06   ...8..+...m..Lf.
-    0060 - e3 e4 c0 d3 e1 ab f6 54-49 e8 8c 1c 4f da a9 14   .......TI...O...
-    0070 - cc 67 3b 40 6d 19 90 da-f8 48 fa ad e4 2f 59 f3   .g;@m....H.../Y.
-    0080 - c7 c7 73 31 39 00 5e e8-90 66 3f 2c c5 84 ab 8c   ..s19.^..f?,....
-    0090 - 25 a7 6b 16 3d 9b 7d 63-92 00 a4 4f cd 9c c0 4b   %.k.=.}c...O...K
-    00a0 - 2d c2 d9 17 43 5b 5a d2-53 65 99 13 c8 7e 64 cb   -...C[Z.Se...~d.
-
-    Start Time: 1472788872
-    Timeout   : 300 (sec)
+    Master-Key: 
+    Start Time: 1577475432
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

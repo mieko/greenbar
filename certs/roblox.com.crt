@@ -1,54 +1,61 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:/OU=Domain Control Validated/CN=*.roblox.com
    i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
- 1 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+ 1 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
    i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
- 2 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
-   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+ 2 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+   i:/C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFLDCCBBSgAwIBAgIIDrUQizZanrUwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+MIIGrTCCBZWgAwIBAgIIQr9ZyWLIQpQwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
 BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
 GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
 LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
-cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMTUwNzIwMTg1MzQwWhcN
-MTgwNzIwMTg1MzQwWjA6MSEwHwYDVQQLExhEb21haW4gQ29udHJvbCBWYWxpZGF0
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMTkwNjI2MTkwNzE4WhcN
+MjEwNjI2MTkwNzE4WjA6MSEwHwYDVQQLExhEb21haW4gQ29udHJvbCBWYWxpZGF0
 ZWQxFTATBgNVBAMMDCoucm9ibG94LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
-ADCCAQoCggEBANTmAu/ACaI70Kf0tGH+pfVCCxjGYk2LNPWsa8ed0hpIUNfr3xmf
-L/8hsNEpEY/OMZiKhQ3Tbc264cg03ymx7wzvdUCzJjUT/wob5BpIfj5H5iVlW+qb
-RdDxKBA37tR9wNnzLqEvYIeuYdxE7nyYhsUMu7oTzEypnPJfCgnfOUUVd9Jjk2Aa
-IVdq+4CYqjOe1+dRrqPHBx8AloHfVAOKcbyf1NZALCayIFLUqxY9dYXZF3nUvX9O
-L/oBzeqHM/RwOdItOINzIZTW76Fyb0wUV4xyIlnzKiXe/V6ELqGZNU3zvcoJRDXe
-YDD62eh1WJ717r+yuYb31nsgt1CTJpTVzU8CAwEAAaOCAbkwggG1MAwGA1UdEwEB
+ADCCAQoCggEBALJGdHun7hHNAVWCIxh2S0UV85i9CnZiMvrEt7wnVydhMJABYiQB
+RMJ8oUhBz3Har8cXd2kWxfnXAsjUGLyXF6hnhhHC3dKL345iMlol8glTjvT6+XoD
+sDSdrio+dAegIH1qmv8p5hO+caQULGIabx2VdptUs/+5QPC6tZxd6c1mjCkfNd11
+ydoxv5tpYPEttyOS5KktCWuwHoymwxRdDuwDyHOvOsP9o7iOydRm2QATdoo9lGT2
+BYbiSzupCBam8RD8aKjeYpxEO/pj5+lLmowG6QfebuCa9WtH3b3NyXOsFfEHliKJ
+IuXWBW6eqwZXpu9NPDJvJQwcOyiiisw03BUCAwEAAaOCAzowggM2MAwGA1UdEwEB
 /wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMA4GA1UdDwEB/wQE
-AwIFoDA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vY3JsLmdvZGFkZHkuY29tL2dk
-aWcyczEtOTUuY3JsMFMGA1UdIARMMEowSAYLYIZIAYb9bQEHFwEwOTA3BggrBgEF
-BQcCARYraHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5
-LzB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmdvZGFk
-ZHkuY29tLzBABggrBgEFBQcwAoY0aHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5
-LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNydDAfBgNVHSMEGDAWgBRAwr0njsw0gzCi
-M9f7bLPwtCyAzjAxBgNVHREEKjAoggwqLnJvYmxveC5jb22CCnJvYmxveC5jb22C
-DCoucm9ibG94LmNvbTAdBgNVHQ4EFgQU4GUEruX9SaqWUX7ihzTUbd7peQQwDQYJ
-KoZIhvcNAQELBQADggEBABxyAAJuTWbRFi93kj992Oq4nT3Yc8H+94SuPiJE04Xt
-doK9UIhqQ0C/rV5JCxMqbKhDb9/QhLxJB0ZoyxLhLhxw7GwFYiaGbnmXf5iWD6G1
-HImfuxwpxdddDHJO1Og027sonrPGP3uF1YojnTWtgHGDUUTwzgeOVCQaxvD2I1tI
-r8Umss9SMKjV1tAptozBTUAVKWUXTXEeL9C09VtcDEcqypSB0WRaHCMlSrxv09fP
-Kd7oIawDiVE8HbdSPXi34wJEGOsfzJ1NV5cm+lZKPezd5szQ7bfNNRVPvu+vZaaa
-xilWObTwGo8rWO3K9z7tWVEbSOrna6SfOXr83ej6KjA=
+AwIFoDA4BgNVHR8EMTAvMC2gK6AphidodHRwOi8vY3JsLmdvZGFkZHkuY29tL2dk
+aWcyczEtMTIwMC5jcmwwXQYDVR0gBFYwVDBIBgtghkgBhv1tAQcXATA5MDcGCCsG
+AQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRv
+cnkvMAgGBmeBDAECATB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0aHR0cDovL2NlcnRpZmlj
+YXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNydDAfBgNVHSMEGDAW
+gBRAwr0njsw0gzCiM9f7bLPwtCyAzjAjBgNVHREEHDAaggwqLnJvYmxveC5jb22C
+CnJvYmxveC5jb20wHQYDVR0OBBYEFGP0TD0wlyYEbd6f7MMAVpZv/+5YMIIBfwYK
+KwYBBAHWeQIEAgSCAW8EggFrAWkAdwCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jj
+d80OyA3cEAAAAWuVL2KWAAAEAwBIMEYCIQDpI5Kap+HM1iYA0cVRD2wCUNmaxKcB
+2Fb0y5N7V4XwWAIhAJiEZ9mC7pyFiFulyg1NN9cmAT4a1OPO67YGdam+BV0OAHYA
+7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo/csAAAFrlS9mzQAABAMARzBF
+AiEAoNlRdmgveVlCsYXqIEiziXx+ORRi38HDa4foaf00CqYCIDvYNX0wPxjmFUgl
+QhrMDcv9slqeuCb1L5lgn8SjsTjeAHYARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1
+P9MzlrW2gagAAAFrlS9rrQAABAMARzBFAiB1GA14JR8NdbgxFfalpgzitiF8FK0Y
+zufN8zEGx9QO2wIhAImc6A+T/3rRwkelB5aW2HwS7Gjo7RE6FN0tzhrIAmDQMA0G
+CSqGSIb3DQEBCwUAA4IBAQBWn3bvxSTcUDnOLo1M8Sp2g9ZFUODdSRSQbjRv5VcU
+D1QrGMcXpUrZ43rrSwsbYc8CSmjPEGCXzzOciKakBTt+VX4QXKuNeVY/kV9ka715
+A2d2OV1bUFY5IqFoH+JQ8FGg0DAiy2eI+WFULK5NM6PXpLAvaPpDTJ+U33WDah0V
+X1cUOxGqJt6RY/7hksCOdnH1Ly4RO5BjPeuPsItC1l5bqBIZ+USjyddUWv4Dckl8
+JSjP8WEtfHvIsAux0jbhHoPvtwSSg+8ub83uSKa/SvorIGETgba2TSGUI4jPUXxU
+AJs2rzgaal0+u2l0s9TCV23JO4AqcfN1tssCzV7frQLh
 -----END CERTIFICATE-----
 subject=/OU=Domain Control Validated/CN=*.roblox.com
 issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4210 bytes and written 430 bytes
+SSL handshake has read 4613 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-RC4-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -56,29 +63,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-RC4-SHA
-    Session-ID: 821E199924495F62196C758001021112E3C4452CEB62B6F666DC9A8FEA7C334F
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B7AA016DDB7FC5603F92CC55E3E60D1BDE666DECAD58A9126F0B5FBAF3B69D58
     Session-ID-ctx: 
-    Master-Key: 3CABA4ECAF22802CC87F60E135157F6FCF9DFCAA45E328358E425D726BFDDC775D7608F521073741CB279C3BF9D23E97
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
-    TLS session ticket:
-    0000 - ab 69 99 19 ab 07 de 93-16 13 35 13 ed 8c d7 14   .i........5.....
-    0010 - aa 24 1d 7d 26 10 7d 77-3c 35 f0 4c ab 85 95 c7   .$.}&.}w<5.L....
-    0020 - d2 9b a8 d8 11 ec d2 50-46 bd 19 0d 9d 34 ac 0b   .......PF....4..
-    0030 - 44 f3 15 29 98 3c 01 0c-3e 63 d3 35 76 7e 88 e2   D..).<..>c.5v~..
-    0040 - cf 6e f5 9e 26 bd 59 87-ed 71 cc 5e c6 f5 e4 3f   .n..&.Y..q.^...?
-    0050 - 4b 11 df 8f 9e 8c 8d 34-8f 14 5e 5a c2 21 1c 5c   K......4..^Z.!.\
-    0060 - a8 88 e9 78 e2 07 48 f4-6c eb ec ad db 5a c6 42   ...x..H.l....Z.B
-    0070 - 1d 4a b3 fc 13 1b 89 69-6d 04 11 ef 6c a6 bd c3   .J.....im...l...
-    0080 - 4b 7c e8 92 58 bd a7 b3-01 75 04 1e 37 7d 93 c9   K|..X....u..7}..
-    0090 - 39 bb 38 09 86 3f d2 de-e8 fc 54 46 aa 9c b3 e9   9.8..?....TF....
-    00a0 - 08 4c 30 4d e0 70 cb bc-44 0e 6a 69 b2 87 fe 85   .L0M.p..D.ji....
-
-    Start Time: 1472788095
-    Timeout   : 300 (sec)
+    Master-Key: 08001ADA51D81FF2CEE26487E19EADDCB1C98B0D16CB08DF3DF5A226F2418EE1A1EA5110612E4D879833EC80F60F63E9
+    Start Time: 1577474832
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

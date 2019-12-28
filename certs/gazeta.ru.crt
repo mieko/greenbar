@@ -1,88 +1,81 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=RU/ST=Moscow/L=Moscow/O=JSC Gazeta.Ru/CN=gazeta.ru
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=RU/ST=Moscow/L=Moscow/O=Gazeta.Ru JSC/CN=*.gazeta.ru
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGTTCCBTWgAwIBAgIQQyWT7ZJnNEmkPpirtxuz9jANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTYwNDEzMDAwMDAwWhcNMTcwNDEzMjM1
-OTU5WjBbMQswCQYDVQQGEwJSVTEPMA0GA1UECBMGTW9zY293MQ8wDQYDVQQHFAZN
-b3Njb3cxFjAUBgNVBAoUDUpTQyBHYXpldGEuUnUxEjAQBgNVBAMUCWdhemV0YS5y
-dTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANGdPNlSz7GXYfDqbiPh
-nhkRi6z+oDho9lYobXuh775qzG/BCHvyBWJy4R+uRNAgtwybYsyA7x/K+9coDDMt
-MM/HEdFCZ6m0RLiRolVkWHUq959qnVQJl2ox6Umscnpq0jdjZ4gLCnpc6drEwFKm
-zrlDXlrtKDVagyoDUaodOD2/TtL2bx9Dyintd9vDrv3NFks2TYhMUJryj6eq1RB7
-kPYwhlLK6Nibjh+qDOTxuekWJGj6NzmZbBIClxF/GLABvHpAUniJFcY2o6eZydva
-gfDVenzBJmEMp+V14P+IDvLBmkEhJX9vnbMerypAaudt2PrXw5SpWI2yY8XGOdaG
-nYcCAwEAAaOCAyIwggMeMIGRBgNVHREEgYkwgYaCEGJhY2swMS5nYXpldGEucnWC
-DW5ldy5nYXpldGEucnWCDWltZy5nYXpldGEucnWCDWFtcC5nYXpldGEucnWCDHBn
-LmdhemV0YS5ydYIQc3RhdGljLmdhemV0YS5ydYILbS5nYXpldGEucnWCCWdhemV0
-YS5ydYINd3d3LmdhemV0YS5ydTAJBgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIFoDAr
-BgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNybDCBnQYD
-VR0gBIGVMIGSMIGPBgZngQwBAgIwgYQwPwYIKwYBBQUHAgEWM2h0dHBzOi8vd3d3
-Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDBBBggrBgEF
-BQcCAjA1DDNodHRwczovL3d3dy5nZW90cnVzdC5jb20vcmVzb3VyY2VzL3JlcG9z
-aXRvcnkvbGVnYWwwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1Ud
-IwQYMBaAFNJv95b0hT9yPDB9I9qFeJujfFp8MFcGCCsGAQUFBwEBBEswSTAfBggr
-BgEFBQcwAYYTaHR0cDovL2duLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDov
-L2duLnN5bWNiLmNvbS9nbi5jcnQwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgDd
-6x0reg1PpiCLga2BaHB+Lo6dAdVciI09EcTNtuy+zAAAAVQOxwpvAAAEAwBHMEUC
-IQCADaw1l+DdBrJyCwIU84bmQdPUcffbKTtkZYwy6FWdUAIgOyCNRYWQl1vY9TcM
-VUh6XfgivYTGiwpTr7+ACzAsNCwAdwCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jj
-d80OyA3cEAAAAVQOxwqfAAAEAwBIMEYCIQCNAxayMM/4/FlZaKSjQvGtBs6BC9P3
-poXFlMhLc4HjMwIhALDduzpVR0vBdEOOOqci6mVa49Ad8MfkgeVuNezbBgp+MA0G
-CSqGSIb3DQEBCwUAA4IBAQBLsDf1POoCNKRKFXf5zVWWXztbaO0316Mn5h075OOS
-0HFrwfcFmStmIsld1+W6S9D/oqtUQMgspvZiOaHP82Q2tutGIn1vUBVpjwUUd1Yd
-s620YQSzImujgTQP7PNl0aaipZsov3WAXc7RA5K2XQVIXoyOmu9Is0PdtyuA6WoW
-Pjty7Hht053aHOmWH2iUehvMDsP2EYjpprbRbNIZ7kTP676AYo5baUPDWRHWpamX
-RTTsWa0nGEyyFjDNT/5uvTzm1eljDS0jfDbdiD3Id3qhZHMu4QxXBTvlcGes8RL7
-CwcXvAIavpKG5LdG69QQtB/0CZKnR45NM1JJv4wtDS/4
+MIIF5zCCBM+gAwIBAgIMBnxdDRGoBzoky2VDMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
+bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTkwMzI1MTU1OTEzWhcNMjEwMzI1MTU1OTEzWjBdMQswCQYDVQQGEwJS
+VTEPMA0GA1UECBMGTW9zY293MQ8wDQYDVQQHEwZNb3Njb3cxFjAUBgNVBAoTDUdh
+emV0YS5SdSBKU0MxFDASBgNVBAMMCyouZ2F6ZXRhLnJ1MFkwEwYHKoZIzj0CAQYI
+KoZIzj0DAQcDQgAErxyjgbI+J0Nj+0ru4LGJq4PaS8LfuVTLwiWfVySI6xTAAG3S
+QvZDhYajAY4cSaJrl77TVlMJY4hlh7kmhIbMr6OCA2cwggNjMA4GA1UdDwEB/wQE
+AwIDiDCBoAYIKwYBBQUHAQEEgZMwgZAwTQYIKwYBBQUHMAKGQWh0dHA6Ly9zZWN1
+cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzb3JnYW5pemF0aW9udmFsc2hhMmcy
+cjEuY3J0MD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDIuZ2xvYmFsc2lnbi5jb20v
+Z3Nvcmdhbml6YXRpb252YWxzaGEyZzIwVgYDVR0gBE8wTTBBBgkrBgEEAaAyARQw
+NDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3Np
+dG9yeS8wCAYGZ4EMAQICMAkGA1UdEwQCMAAwSQYDVR0fBEIwQDA+oDygOoY4aHR0
+cDovL2NybC5nbG9iYWxzaWduLmNvbS9ncy9nc29yZ2FuaXphdGlvbnZhbHNoYTJn
+Mi5jcmwwIQYDVR0RBBowGIILKi5nYXpldGEucnWCCWdhemV0YS5ydTAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHQYDVR0OBBYEFM+tPBDegEGQQgJXiAh8
+amfvS5KwMB8GA1UdIwQYMBaAFJbeYfG9HBYpUxzAzH07gwBA5hp8MIIBfAYKKwYB
+BAHWeQIEAgSCAWwEggFoAWYAdQCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80O
+yA3cEAAAAWm1k8eWAAAEAwBGMEQCIAKjmuPy/eLDS4Hi43v5WFbZ5GfUXw0ZFKsK
+bNGBeM1jAiAOFhvjY2RbFDmbUDug1HFooLi8zElMXUsOQOYe71Qw2wB2ALvZ37wf
+inG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABabWTx5QAAAQDAEcwRQIhAKtl
+EL4K3DkXtUzO1aiWB6nwyBL6cVop9gfo1TZdevluAiAWcmVRdpJDeVaHYRwEIuSW
+uglk+RBSVI+kc5tzHjmcHgB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgia
+N9kTAAABabWTx9AAAAQDAEYwRAIgFdQjldenAdpNINwVTcHdhFIU/vJ+vfwdQROj
+kp334+QCIC8YNjynRlN+oYQd1TIaPNoPbIhedhNEjGp0mPpwK9LnMA0GCSqGSIb3
+DQEBCwUAA4IBAQAFCcN16ihtu3yqL26oUxXNHRc/4NeB1n5X415fSPu7n7ifEnzN
+lU/jaa9SceVuMDmS/xYqsyAlOPaszULyGM+XrAwEB9Tsjfh9LnK+z/EKtI4hIPCY
+Stqp1mk0xiFyqAKz0QA+agR0PiRi4VHGmH5zmI3NMwMt+S+U4qH8hLao4mTAb7i7
++tvca80TLIF32ho5eIOPk/7+ZlK+Oidwn0Vp+i235TF8yInxywU99FWCn7qoaoiM
+brKONAoaxSiKtks1E4q5n/vG8LHjuxYM4bbeZqm5lJ+ecMuOXNvVSKeL+V+aB0qg
+wmUKF4hyzlDoe7bwVOzepxdrcwP2PZo2/d/n
 -----END CERTIFICATE-----
-subject=/C=RU/ST=Moscow/L=Moscow/O=JSC Gazeta.Ru/CN=gazeta.ru
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/C=RU/ST=Moscow/L=Moscow/O=Gazeta.Ru JSC/CN=*.gazeta.ru
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3402 bytes and written 434 bytes
+SSL handshake has read 3136 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
-Server public key is 2048 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 256 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: A3EACBF71891A190246C8E05DC57052B31F57144EDD58D73E3CDC47023B2A3BB
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: DFBA37CE804CF41B4A368606979EB71A6346567DA5C7AF90B004115E0DF93A12
     Session-ID-ctx: 
-    Master-Key: 5A195CD7482A258998B50C0E05C83A4BCFB4FD410EAD2556D0AC742FEEA4A19853EC11DA27544C96ED482F9F2BE1977B
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 89DB60DD14F013E677AB5CF0A6BDD36CD40A7983CD4D9A5E8E19121117D84D4A43D6FC421AEFECB7BEE9D5FE5E438A3A
+    TLS session ticket lifetime hint: 3600 (seconds)
     TLS session ticket:
-    0000 - 97 0b 69 94 d6 d1 64 b8-7f ce b7 95 8d 39 d8 4b   ..i...d......9.K
-    0010 - 95 9a e6 cc bd c0 db 75-81 4e b7 0c ab 6e 40 92   .......u.N...n@.
-    0020 - 70 cc 22 51 6f 0b d0 95-38 d4 0f 58 b6 01 fe f5   p."Qo...8..X....
-    0030 - 10 1a d9 dd 9c 1a 7c 62-b9 c8 b8 39 99 85 cc dc   ......|b...9....
-    0040 - c5 08 28 09 7e c4 2a b7-af cb 27 03 2f 27 27 c6   ..(.~.*...'./''.
-    0050 - 82 21 92 d8 88 ee 90 ed-ea f0 9c 1a a4 8f dc 73   .!.............s
-    0060 - d3 ee 7c 81 83 38 8a 45-c6 37 37 98 a8 c0 66 a5   ..|..8.E.77...f.
-    0070 - 15 2b 47 94 6e 92 8f f7-80 a3 8b fc 84 ed 5e 46   .+G.n.........^F
-    0080 - e7 52 9d 1b 6e b5 91 28-39 f1 ed 60 28 30 0a e9   .R..n..(9..`(0..
-    0090 - f6 ce 0c c1 00 88 69 3b-2b 7a f1 13 1a 8a 2c b2   ......i;+z....,.
-    00a0 - f6 71 f5 92 c2 a9 4d 1b-85 ea d8 e6 42 75 99 9d   .q....M.....Bu..
+    0000 - 8b c3 6b c9 bf 35 3f 41-eb 29 5a b8 11 12 5b e2   ..k..5?A.)Z...[.
+    0010 - e5 7f b9 36 3c d4 ae 58-1e 9e fd ff 11 46 99 a7   ...6<..X.....F..
+    0020 - 9b 8c f4 fd 4c c3 3f 9b-a3 c9 52 01 43 52 26 fb   ....L.?...R.CR&.
+    0030 - 1a 10 e8 7b 37 bf 14 be-24 80 7d b7 4d 06 88 0b   ...{7...$.}.M...
+    0040 - 89 84 b1 2a f7 ec 28 ac-18 f0 f6 f4 5b 92 01 2e   ...*..(.....[...
+    0050 - 3d c2 a0 f6 7e 5d 3d 75-4c d1 ed 38 d9 54 76 4f   =...~]=uL..8.TvO
+    0060 - 6b 2c af d2 f0 f8 15 15-c7 d7 91 a8 65 8b 91 51   k,..........e..Q
+    0070 - 23 5b 6a ec c1 a2 51 99-33 87 09 ed 93 2d 03 a4   #[j...Q.3....-..
+    0080 - 8a 54 e3 63 e4 62 c0 3d-37 0e 83 46 cc 81 9f 8e   .T.c.b.=7..F....
+    0090 - b4 09 58 85 78 44 ba 79-6b af 3f f3 e5 3c a0 83   ..X.xD.yk.?..<..
+    00a0 - 2e 83 1a 75 ea c7 07 df-74 55 13 58 e9 dc 3d 8c   ...u....tU.X..=.
 
-    Start Time: 1472790091
-    Timeout   : 300 (sec)
+    Start Time: 1577475570
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

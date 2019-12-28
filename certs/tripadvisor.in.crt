@@ -1,67 +1,72 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=Massachusetts/L=Newton/O=TripAdvisor LLC/OU=IT/CN=tripadvisor.com
-   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
- 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
-   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
- 2 s:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
-   i:/C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+ 0 s:/C=US/ST=Massachusetts/L=Needham/OU=IT/O=TripAdvisor LLC/CN=tripadvisor.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign RSA OV SSL CA 2018
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign RSA OV SSL CA 2018
+   i:/OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
+ 2 s:/OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
+   i:/OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIH8TCCBtmgAwIBAgIQXk7o2rqKtvU//Lbmx/qL0TANBgkqhkiG9w0BAQsFADBB
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
-aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUxMTEzMDAwMDAwWhcNMTYxMTEyMjM1OTU5
-WjB3MQswCQYDVQQGEwJVUzEWMBQGA1UECAwNTWFzc2FjaHVzZXR0czEPMA0GA1UE
-BwwGTmV3dG9uMRgwFgYDVQQKDA9UcmlwQWR2aXNvciBMTEMxCzAJBgNVBAsMAklU
-MRgwFgYDVQQDDA90cmlwYWR2aXNvci5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
-DwAwggEKAoIBAQC+1W9ewGcAr6mo0wH9r0q2VsK/0ge9QEntR2I0GT9vCYoBkcLF
-C5kwzvLWt4RALEvpO3Jf07iQ9DMhZg3FsVqlcZzBhvjAohiIBzL6pX+UGiluxQiY
-mJhya+VurCKsmUtFq8QhwTXUiem8lcVwmKI0JCYOkGU27RLH4hOmME+4OyAEvpra
-dLoUwkO/3T6U8NpA20YWS3bmzjTmWoITAR710CfRxDGWqornMmM/ceGJKsBGQBIx
-hvFqrXOvv1xgjqYrZrTYaWoATC3/zqz/v71edEkDdcAtvd5szcXrtqUb/rqVFLl6
-7ya9Y+VKEooTMSS26NGZNJJHK41AbFFc+IIdAgMBAAGjggStMIIEqTCCA1QGA1Ud
-EQSCA0swggNHgg50cmlwYWR2aXNvci5hdIIOdHJpcGFkdmlzb3IuYmWCDnRyaXBh
-ZHZpc29yLmNhgg50cmlwYWR2aXNvci5jaIIOdHJpcGFkdmlzb3IuY2yCDnRyaXBh
-ZHZpc29yLmNvghF0cmlwYWR2aXNvci5jby5odYIRdHJpcGFkdmlzb3IuY28uaWSC
-EXRyaXBhZHZpc29yLmNvLmlsghF0cmlwYWR2aXNvci5jby5rcoIRdHJpcGFkdmlz
-b3IuY28ubnqCEXRyaXBhZHZpc29yLmNvLnVrghF0cmlwYWR2aXNvci5jby56YYIS
-dHJpcGFkdmlzb3IuY29tLmFyghJ0cmlwYWR2aXNvci5jb20uYXWCEnRyaXBhZHZp
-c29yLmNvbS5icoISdHJpcGFkdmlzb3IuY29tLmVnghJ0cmlwYWR2aXNvci5jb20u
-Z3KCEnRyaXBhZHZpc29yLmNvbS5oa4ISdHJpcGFkdmlzb3IuY29tLm14ghJ0cmlw
-YWR2aXNvci5jb20ubXmCEnRyaXBhZHZpc29yLmNvbS5wZYISdHJpcGFkdmlzb3Iu
-Y29tLnBoghJ0cmlwYWR2aXNvci5jb20uc2eCEnRyaXBhZHZpc29yLmNvbS50coIS
-dHJpcGFkdmlzb3IuY29tLnR3ghJ0cmlwYWR2aXNvci5jb20udmWCEnRyaXBhZHZp
-c29yLmNvbS52boIOdHJpcGFkdmlzb3IuY3qCDnRyaXBhZHZpc29yLmRlgg50cmlw
-YWR2aXNvci5ka4IOdHJpcGFkdmlzb3IuZXOCDnRyaXBhZHZpc29yLmZpgg50cmlw
-YWR2aXNvci5mcoIOdHJpcGFkdmlzb3IuaWWCDnRyaXBhZHZpc29yLmlugg50cmlw
-YWR2aXNvci5pdIIOdHJpcGFkdmlzb3IuanCCDnRyaXBhZHZpc29yLm5sgg50cmlw
-YWR2aXNvci5wdIIOdHJpcGFkdmlzb3IucnOCDnRyaXBhZHZpc29yLnJ1gg50cmlw
-YWR2aXNvci5zZYIOdHJpcGFkdmlzb3Iuc2uCDnRyaXBhZHZpc29yLnVhgg90cmlw
-YWR2aXNvci5jb22CE3d3dy50cmlwYWR2aXNvci5jb20wCQYDVR0TBAIwADBuBgNV
-HSAEZzBlMGMGBmeBDAECAjBZMCYGCCsGAQUFBwIBFhpodHRwczovL3d3dy50aGF3
-dGUuY29tL2NwczAvBggrBgEFBQcCAjAjDCFodHRwczovL3d3dy50aGF3dGUuY29t
-L3JlcG9zaXRvcnkwDgYDVR0PAQH/BAQDAgWgMB8GA1UdIwQYMBaAFMJPSFf80U+a
-wF04fQ4F29kutVJgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly90ai5zeW1jYi5j
-b20vdGouY3JsMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBXBggrBgEF
-BQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly90ai5zeW1jZC5jb20wJgYIKwYB
-BQUHMAKGGmh0dHA6Ly90ai5zeW1jYi5jb20vdGouY3J0MA0GCSqGSIb3DQEBCwUA
-A4IBAQBKJyqmHoqxkQC+5kW5/inasmchftipCMwjJJSnKCzv4PTqemqEoBZvRgRs
-3zzVboQye7s+AYoRO3dWkIS5UfBJP+uCY13Yt1WRuWgPVtPlhIfaoxB6bRCyU27K
-exA0Ms1Gj1YG+lim1TryFPZcmtaSzNLF38/vZbPfXu6d1UJvArKRDEw1F7Rkg74w
-8WXpOZ8/eIUQrS4qjIS9UW4GhwBMo2676cH0hoimqlTJsyXIa2cz1FxR15eM33Di
-NXrW7UvNGpgADyjie2ZCYsHbF2xo9dqFtC/OSn83VfLqpwghCCrgw8LAj2XWOrkL
-eT8FhFmVDC3mEavsJ4GoE2+/76Om
+MIIJAzCCB+ugAwIBAgIMT0zJXCJb6lYYHmDBMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0xOTEyMDQyMTU3MDJaFw0y
+MTAxMjgxMjAwMDBaMHgxCzAJBgNVBAYTAlVTMRYwFAYDVQQIEw1NYXNzYWNodXNl
+dHRzMRAwDgYDVQQHEwdOZWVkaGFtMQswCQYDVQQLEwJJVDEYMBYGA1UEChMPVHJp
+cEFkdmlzb3IgTExDMRgwFgYDVQQDEw90cmlwYWR2aXNvci5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDQq5FOVBUs4aMP114OtvqdqLcVe9kfJBBP
+A2c/U6eN1GbCphgqvzliUZX7XVbTghBzx04mwD9R8JWmbkK8nd59BEQKJxLUlhWy
+gW/bUF+Gp1a0+/X8Q5cNFSCBiomMHe3T/mOUp7fDJxMZDsTFFSNdkpuuqemyLUCF
+QBg03cwHzRHiQMs/ribFH8FEM9OHT+3zfWCPYK+J/X1qkh6HfYJgETnENk99uaql
+A2VpBrLycTU7GzD9LzbnFe5JbeYdyfIKdwWlGmlnsuh3CAA0K43vGoiGYcJGNkzP
+uMtTR1OGaj0qb9illxlDuOFk13IRttu+cafOzjtKOXU+pjF+X0N/AgMBAAGjggWz
+MIIFrzAOBgNVHQ8BAf8EBAMCBaAwgY4GCCsGAQUFBwEBBIGBMH8wRAYIKwYBBQUH
+MAKGOGh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzcnNhb3Zz
+c2xjYTIwMTguY3J0MDcGCCsGAQUFBzABhitodHRwOi8vb2NzcC5nbG9iYWxzaWdu
+LmNvbS9nc3JzYW92c3NsY2EyMDE4MFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQw
+MgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRv
+cnkvMAgGBmeBDAECAjAJBgNVHRMEAjAAMIIDPwYDVR0RBIIDNjCCAzKCD3RyaXBh
+ZHZpc29yLmNvbYIOdHJpcGFkdmlzb3IuYXSCDnRyaXBhZHZpc29yLmJlgg50cmlw
+YWR2aXNvci5jYYIOdHJpcGFkdmlzb3IuY2iCDnRyaXBhZHZpc29yLmNsgg50cmlw
+YWR2aXNvci5jb4IRdHJpcGFkdmlzb3IuY28uaHWCEXRyaXBhZHZpc29yLmNvLmlk
+ghF0cmlwYWR2aXNvci5jby5pbIIRdHJpcGFkdmlzb3IuY28ua3KCEXRyaXBhZHZp
+c29yLmNvLm56ghF0cmlwYWR2aXNvci5jby51a4IRdHJpcGFkdmlzb3IuY28uemGC
+EnRyaXBhZHZpc29yLmNvbS5hcoISdHJpcGFkdmlzb3IuY29tLmF1ghJ0cmlwYWR2
+aXNvci5jb20uYnKCEnRyaXBhZHZpc29yLmNvbS5lZ4ISdHJpcGFkdmlzb3IuY29t
+LmdyghJ0cmlwYWR2aXNvci5jb20uaGuCEnRyaXBhZHZpc29yLmNvbS5teIISdHJp
+cGFkdmlzb3IuY29tLm15ghJ0cmlwYWR2aXNvci5jb20ucGWCEnRyaXBhZHZpc29y
+LmNvbS5waIISdHJpcGFkdmlzb3IuY29tLnNnghJ0cmlwYWR2aXNvci5jb20udHKC
+EnRyaXBhZHZpc29yLmNvbS50d4ISdHJpcGFkdmlzb3IuY29tLnZlghJ0cmlwYWR2
+aXNvci5jb20udm6CDnRyaXBhZHZpc29yLmN6gg50cmlwYWR2aXNvci5kZYIOdHJp
+cGFkdmlzb3IuZGuCDnRyaXBhZHZpc29yLmVzgg50cmlwYWR2aXNvci5maYIOdHJp
+cGFkdmlzb3IuZnKCDnRyaXBhZHZpc29yLmllgg50cmlwYWR2aXNvci5pboIOdHJp
+cGFkdmlzb3IuaXSCDnRyaXBhZHZpc29yLmpwgg50cmlwYWR2aXNvci5ubIIOdHJp
+cGFkdmlzb3IucHSCDnRyaXBhZHZpc29yLnJzgg50cmlwYWR2aXNvci5ydYIOdHJp
+cGFkdmlzb3Iuc2WCDnRyaXBhZHZpc29yLnNrgg50cmlwYWR2aXNvci51YTAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU+O9/8s14Z6je
+b48kjYjxhwMCs+swHQYDVR0OBBYEFDspdo1g22Os1dzKAEqhP4w7QH/6MIIBBQYK
+KwYBBAHWeQIEAgSB9gSB8wDxAHcAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZk
+No4e0YUAAAFu0uqoeAAABAMASDBGAiEA6pjlzrUU4vuaR3nkzwQqbFh86bXpyRD/
+zW8fH8LVlkoCIQDUqNr+Nl+CoI2Cu1o60b88NDP2mW+aDyvyw2eAcW3geQB2AFzc
+Q5L+5qtFRLFemtRW5hA3+9X6R9yhc5SyXub2xw7KAAABbtLqqtYAAAQDAEcwRQIg
+HqNVtyx2CRopy4K/oQcLaG6mUPSs+aIUGRq82mWIex4CIQDHUrlYcMfHiG2FXZhU
+9YzQg0TYIeWS07QarCV3NAvb5zANBgkqhkiG9w0BAQsFAAOCAQEARH7Q4DlQ6QUc
+h0LnYV9t76BufQID/8Kj7ckfc1r7MN2uneoUKZ0BNvZoLgMcj7VIPKRv+2rkMXRu
+TS4t1BHGXSibt+pmcaVMrObOGHpYwqf4Lyvs0loK4+RPmX/dZnaT1CQhpyOhtTAt
+dvJJaNm3m3s6DMJyueJYcCp7+62+n1tWs8m+WSUUrbuHMQNEHRDPWgWC+sStuJvN
+lzu08bblr8yx0iJhhEM3qcOALAeTCOXPxa+HTG0caM2HU8HglIPUTTXurSZ4eZaC
+S470VwWKDQx9yliIAuEVD1YjRz8aqrSV0jzwLUdpJ0p2KQsV7Gj1irtREbd3Vq0I
+W1SiJbg4zA==
 -----END CERTIFICATE-----
-subject=/C=US/ST=Massachusetts/L=Newton/O=TripAdvisor LLC/OU=IT/CN=tripadvisor.com
-issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+subject=/C=US/ST=Massachusetts/L=Needham/OU=IT/O=TripAdvisor LLC/CN=tripadvisor.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign RSA OV SSL CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5005 bytes and written 434 bytes
+SSL handshake has read 4944 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -72,27 +77,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 9695E6D2824A7F711C472335066EE6C0A3CF58425AEE1534006A94FBE2BF2B5F
+    Session-ID: C6D511CEB26D7499731DE29F95813C0B18C9FDA98BE8BC99389903BAA61E7D82
     Session-ID-ctx: 
-    Master-Key: 9EFECA1BD25D2E7B07DD38842CA767963355823048B3BCABDC7BAEE6A33511DE265923F938D0B739E3449D2866B0C17F
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 2042EA6FA33E68F272010CBFD940DC665B99C1B8F63E45F795061F74718B7AEC67C84A818955C9442426284EB68200C7
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - da 88 d0 59 e5 8c b4 73-27 61 bc 05 e7 53 53 e4   ...Y...s'a...SS.
-    0010 - bd 21 14 83 33 fe a2 f1-e6 cc 3f 30 a7 bf 69 ab   .!..3.....?0..i.
-    0020 - d6 14 7d 3d 8e 9b 49 77-b1 06 be b1 ec 6b 9f 2b   ..}=..Iw.....k.+
-    0030 - a0 90 8b 07 1e 8e 89 ed-04 83 5a d3 78 bf 37 8a   ..........Z.x.7.
-    0040 - d7 64 9f 3f 42 1b 56 ff-57 a8 0b 76 34 00 6f 30   .d.?B.V.W..v4.o0
-    0050 - 82 6b f4 84 ff f3 85 b9-68 e8 07 42 6c 74 d3 86   .k......h..Blt..
-    0060 - eb 56 d0 74 74 28 4e d3-9f a7 12 f2 0a 47 df 79   .V.tt(N......G.y
-    0070 - 72 87 8a 91 7e 17 d4 f9-1d 96 57 4e 50 63 79 4d   r...~.....WNPcyM
-    0080 - 33 0f 90 ff 68 3c 16 b8-bf cd 85 26 56 82 a4 1a   3...h<.....&V...
-    0090 - e0 f0 9d d4 6a 97 23 60-9b d4 ba 0a f0 b4 ce a8   ....j.#`........
+    0000 - a6 ea cd 5b 0e 23 cf 4e-c5 b1 6e dd 63 81 fe d5   ...[.#.N..n.c...
+    0010 - 05 c2 3a 8e 4a 9f 96 3b-a8 1d 6b 72 47 78 79 07   ..:.J..;..krGxy.
+    0020 - 55 04 e2 5d 28 1d 7a 46-42 19 93 86 b6 35 92 6f   U..](.zFB....5.o
+    0030 - a0 c7 f9 71 5f 4d f0 3b-89 0e 3f 8b 4c d1 c8 5b   ...q_M.;..?.L..[
+    0040 - 3a 00 db a8 f4 b6 61 c7-f9 f4 2e 83 8b 0d b9 38   :.....a........8
+    0050 - 37 c0 e7 78 85 b7 78 ca-8b 11 fe 9e 2c 69 3d 04   7..x..x.....,i=.
+    0060 - 35 68 b2 bc 1c a0 dd 13-0f 7f 21 d1 21 2d 41 97   5h........!.!-A.
+    0070 - 03 92 d4 f1 28 2e aa 93-e5 ba c5 0f 53 22 42 3e   ....(.......S"B>
+    0080 - a5 86 09 05 8b e1 29 7c-6d c5 29 b0 03 a2 f1 67   ......)|m.)....g
+    0090 - 5f b5 90 44 cc 3a 5f 0a-b1 7e 8b 0d 1b 89 2c 6e   _..D.:_..~....,n
 
-    Start Time: 1472790200
-    Timeout   : 300 (sec)
+    Start Time: 1577475304
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=livetv.ru
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFczCCBFugAwIBAgISA0Qr1Ev7xvnke9IZIUS2ao2hMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xNzA1MDkwOTU1MDBaFw0x
+NzA4MDcwOTU1MDBaMBQxEjAQBgNVBAMTCWxpdmV0di5ydTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAOJx52WgC1HMkUljw0Pfjmf01nEt3RpsarQj4Cx3
+PTtfhFwoSb55EdPLf4TrSGZs41cXgp/5ZwEAVYfOHjELYRO5mGbQ+7hjLAftzKh0
+EeTcG6LnMzMP9A5SdSy7+/3HFRgRNE7l54O2+YD9oko7xvwldGsDNuTldtsMncCY
+5fyEveqls20yqBdcuyC5ytY7HYdtYEezXaLMPQieaBQO0C80Lan+2vj9+LSveHy4
+M3YAVl0YOwjp2Vr5pb/eEkMlSD4wZcMCzkNGS7T7wRXaiy7pw+AyXSs7m22BcU7P
+CPbQkKU+Y8DlsCJWJ8HGs8d+4nYFywU1H9kVJ8zi2OQ6Zd8CAwEAAaOCAocwggKD
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUu2zhU+yWM9WS3/5ghvkMCzTaPmUwHwYD
+VR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwcAYIKwYBBQUHAQEEZDBiMC8G
+CCsGAQUFBzABhiNodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzAv
+BggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8w
+gZAGA1UdEQSBiDCBhYINYWRzLmxpdmV0di5zeIIRY2RuLmxpdmV0dmNkbi5uZXSC
+EWNpcC5saXZldHZjZG4ubmV0ggtpLmxpdmV0di5ydYINaW1nLmxpdmV0di5ydYIJ
+bGl2ZXR2LnJ1gglsaXZldHYuc3iCDXd3dy5saXZldHYucnWCDXd3dy5saXZldHYu
+c3gwgf4GA1UdIASB9jCB8zAIBgZngQwBAgEwgeYGCysGAQQBgt8TAQEBMIHWMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCBqwYIKwYBBQUH
+AgIwgZ4MgZtUaGlzIENlcnRpZmljYXRlIG1heSBvbmx5IGJlIHJlbGllZCB1cG9u
+IGJ5IFJlbHlpbmcgUGFydGllcyBhbmQgb25seSBpbiBhY2NvcmRhbmNlIHdpdGgg
+dGhlIENlcnRpZmljYXRlIFBvbGljeSBmb3VuZCBhdCBodHRwczovL2xldHNlbmNy
+eXB0Lm9yZy9yZXBvc2l0b3J5LzANBgkqhkiG9w0BAQsFAAOCAQEAMKakKmbj+I5P
+qwwJ2et5VOeWPXF+JYd07l6L+Sbu2N29s95rFKgIkoi8FzO2V9shOArKJdOIirfv
+qNFqvPW5rGMxSVJ4KHayR8ruhxKoXsb1smZdDWKBxUpnSsBqF4VUsjKAc0S/vFPd
+PqSd5LAT9LX6oevLY37lVVa6VzYDHPUl/6vJ4TqHdC0Y1hLNlm0bMYkSD+mwrpnB
+EUWx1at2h69hNezmpoVLtAFhUrZ9GPjD8E+HgOmKMureNk7uSkVu98omimt3zesF
+n4oxY3KeT9tBwUSmDvLiwKuGZQeUO2eok+ANAZTiEe1kTkTKm/ZsyKtGmwuiVrCS
+GwpXvFKGKw==
+-----END CERTIFICATE-----
+subject=/CN=livetv.ru
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3246 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A84E11E5FB1319D815C3E775E9C15B14C2BA806628D06A1DE615DA6EC06E1B8E
+    Session-ID-ctx: 
+    Master-Key: F8395982DC70590BDE3F38E5D2A2BA0179131E982B549527FA5483F99833AD9EE3587F32BB8FE6B83A01632C589366F4
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 46 94 f2 f2 54 13 86 91-a6 61 f9 db 54 b4 04 a3   F...T....a..T...
+    0010 - bf cc 72 62 2d 63 a2 c8-56 7f 4e 25 16 bf 08 8a   ..rb-c..V.N%....
+    0020 - 5e 1c 01 c6 ee e3 98 15-80 7c 15 e3 1b d2 a7 b7   ^........|......
+    0030 - 23 7d 42 e0 55 57 88 d0-04 03 87 a2 76 5e b3 41   #}B.UW......v^.A
+    0040 - 7f 18 6a ec 22 db a2 a7-d6 97 f0 78 3f e1 33 47   ..j."......x?.3G
+    0050 - cb 30 f5 db 22 c5 98 9e-35 e7 81 0a d9 10 18 80   .0.."...5.......
+    0060 - 6c 03 87 69 48 d8 f6 b1-cd 44 4a 0c db 41 ef 81   l..iH....DJ..A..
+    0070 - f8 c8 df 09 8a ea df 40-15 b3 a8 9a 14 69 7c ff   .......@.....i|.
+    0080 - e9 c8 cd 94 41 c8 38 8e-1e 31 b0 29 30 63 60 4d   ....A.8..1.)0c`M
+    0090 - 65 70 aa f1 8b 15 10 da-e7 ee 04 98 43 ba 66 f4   ep..........C.f.
+    00a0 - 39 d3 ba e5 fe 66 6c 5a-1b f3 94 d1 3b ca a4 67   9....flZ....;..g
+
+    Start Time: 1577475816
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
+---

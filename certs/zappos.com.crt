@@ -1,59 +1,57 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=Nevada/L=Las Vegas/O=Zappos.com, Inc./CN=zappos.com
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
- 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 0 s:/CN=zappos.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIG0zCCBbugAwIBAgIQAucz/t76ZDcmzhkYXM5kfzANBgkqhkiG9w0BAQsFADBw
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
-d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
-dXJhbmNlIFNlcnZlciBDQTAeFw0xNjA3MDYwMDAwMDBaFw0xNzA3MTkxMjAwMDBa
-MGIxCzAJBgNVBAYTAlVTMQ8wDQYDVQQIEwZOZXZhZGExEjAQBgNVBAcTCUxhcyBW
-ZWdhczEZMBcGA1UEChMQWmFwcG9zLmNvbSwgSW5jLjETMBEGA1UEAxMKemFwcG9z
-LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKEAA2D0POcRLuef
-4UmTuf7U6tqCTDyK78DygRXA5YP74LACQ1XnUpjVmznQJ5krZtrfXH/8YE4yCqWr
-WhXZRvSsQNnBPB1mIB3dkkEtEvVBmA6KHpjZoGRVUOTPOceICVlZ/vn55k3mlfbq
-hEud+KMHuJLiEPm3bdwKzEeguAcgxljCiT7zcFoJLOtp9CcrQF47QYXfRsCbf2VQ
-bIPBW+CO0HYY0rc+wbrxvwOyqtNiwc2883yzZeRpnBQtKzfd8aOX5jdy/m2JJtXf
-seDkDXebjFFyZqx/C4E9PMu8MPM3Z6mP2YeWeIVdfOHngUDCyv74kTAnjRb80qp+
-aNpDHUcCAwEAAaOCA3UwggNxMB8GA1UdIwQYMBaAFFFo/5CvAgd1PMzZZWRiohK4
-WXI7MB0GA1UdDgQWBBStZLE72RR2A72smDehOEX3boxwmTAlBgNVHREEHjAcggp6
-YXBwb3MuY29tgg53d3cuemFwcG9zLmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
-BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0dHA6
-Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nNS5jcmwwNKAyoDCG
-Lmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWhhLXNlcnZlci1nNS5jcmww
-TAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93
-d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwgYMGCCsGAQUFBwEBBHcwdTAk
-BggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tME0GCCsGAQUFBzAC
-hkFodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEySGlnaEFz
-c3VyYW5jZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMIIBfgYKKwYBBAHWeQIE
-AgSCAW4EggFqAWgAdwCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAA
-AVXA2vi8AAAEAwBIMEYCIQCiJtd4WqeD6YvemTyG6lNCkvDaU7dttesf991x79Iu
-KwIhAKVhFHo11SPx/LavE/cFFjBiPAnaQs29YTHWbm0zZ2/1AHUAaPaY+B9kgr46
-jO65KB1M/HFRXWeT1ETRCmesu09P+8QAAAFVwNr4ggAABAMARjBEAiAFEksDhtA4
-U2sywUwvQS6aOIBZMWTAFbfv94KRFNQjpwIgNRKVOpBnZnr0z7IToLdGmS/ROkbP
-WzNHbzstfWjFxWsAdgBWFAaaL9fC7NP14b1Esj7HRna5vJkRXMDvlJhV1onQ3QAA
-AVXA2vj8AAAEAwBHMEUCIBpdMhVLz2AnVxW5zxOwv/G96kvySyZBeTisT13eIQHp
-AiEArLggLF/p6k5vuWNKqZIdLxhqJju2mvd8v+RDN4xrth0wDQYJKoZIhvcNAQEL
-BQADggEBAI/xoxBFOyFmvCQLFX6K+fGwSOL00ZBYS+bsKVeV+J4riDwlrjvQpjZ5
-cFUK6TI6FgIoCpjoEkL6cJf5wfBiT69QDo0oPLCKGsXcudD9vznvBX9tBCBYgXfC
-je0qRtn2tQ6QwXIIFjYi4agri2K2IArOv7HEg3wrtWs62+exdrpzJsdINXRBPSLV
-yq44bX9qCN/QN9QHNSNUtu6GLadUB3kyBa9xRhul0gzFvrbWb41+sjYpS9xqioTd
-+D3QMiSJVLFlhtFWThygY7NBwgxVqYxuPAJLGqDnsiKwL3ixLSuomeGQ5YAd5Cvy
-/YBvbByJ23l3vcLpQBXmPRzk3L7/xC0=
+MIIFcjCCBFqgAwIBAgIQBIU+TfKwwTFdt4cWZaFHPjANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTAyMTUwMDAwMDBaFw0yMDAzMTUx
+MjAwMDBaMBUxEzARBgNVBAMTCnphcHBvcy5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDDe3H/UR1NKw9uZRlp4IgAJemGCxTQNzVlxTKEXkgk5vu3
+c1uEXjrYVao6XEBQQThdRCt9RO0NBJeOjY4sbEXXWTHy+oONiVQuVfUbIBTiA6ip
+47VDNDYRBHlBvjQ7/7W4ubyPRvKkQtFo8zPfwuQpYad5jOA+eGHaHIX+rJTG3vbi
+FOQsSgezKyvf3Wnl5aNybY9QgaqV4XEbLpfSHegdOr7TaooNUBJB5YLHTB2TNjZ3
+HYK++2itfCuNIUVzwu2TENBpJQj+yq0CIFj5exu3ZVRT0W/Rx0eZ2P5CojvVFq8e
+JqsgJ1ZRWMhXrdyUzcXaQcQIqklx3wETEPMxGqCzAgMBAAGjggKLMIIChzAfBgNV
+HSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUiwv4T/0A5rME
+wk5eR3vnA4YHDOkwKgYDVR0RBCMwIYIKemFwcG9zLmNvbYIHNnBtLmNvbYIKemFw
+cG9zLm5ldDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwuc2NhMWIuYW1hem9u
+dHJ1c3QuY29tL3NjYTFiLmNybDAgBgNVHSAEGTAXMAsGCWCGSAGG/WwBAjAIBgZn
+gQwBAgEwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5z
+Y2ExYi5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQuc2Nh
+MWIuYW1hem9udHJ1c3QuY29tL3NjYTFiLmNydDAMBgNVHRMBAf8EAjAAMIIBBAYK
+KwYBBAHWeQIEAgSB9QSB8gDwAHcA7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7
+iXqo/csAAAFo7sPjBgAABAMASDBGAiEAoiUzt9Mt9Vmjxgc8mLLSc8YYASVMRyep
+WTN5A0pjuwgCIQChmoEiu/ySLAAkuZg0T+wgOP1vApJ+P/CoAth6pFK1qgB1AId1
+v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABaO7D4+IAAAQDAEYwRAIg
+Umjpe2GAskDkJwMIMbyyJip/URdWFVZi458bS801e1QCIDKdzFM97PnKSIhZuoM/
+kptBAfsnhNUR5X3jO8bQJiACMA0GCSqGSIb3DQEBCwUAA4IBAQCxPQ5mYkS+Q3aQ
+fU3mBmz6mjqqrThLnoXFNDKpyDOn7Qyecz/WOO6ANhEHRwk6Nt7HR5qEkrm4Aw1j
+tSU2VMSQHUCrSVk89AVwih904cIt4KXx7s2B6c67XnGy48kBhWFIy67XbJjKvPs6
+qASGqwDkYE6NMuvnm8rh3z3jAOMHRVfQ8TS7JX0+FPlZcaRHRj6DtbC1hi9oju+E
+GoVOotfiKahD8yrxUyvfIMzmJao4HOJe/z2BSXg/atOWLN6pJkFANfzKgtDen+yj
+IA+u1QNO/+rsqvr9x6hUVYMIX0ihWimc4mNj+DUN+H3KgAopK5f/3FBF+euWgkRn
+pAP2fq8R
 -----END CERTIFICATE-----
-subject=/C=US/ST=Nevada/L=Las Vegas/O=Zappos.com, Inc./CN=zappos.com
-issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+subject=/CN=zappos.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3118 bytes and written 634 bytes
+SSL handshake has read 5497 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DES-CBC3-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -61,15 +59,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : DES-CBC3-SHA
-    Session-ID: 55363125A95672F66BBFB266343B465C9F47D41B93EB91860319F067D7E7234B
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: DFD5BDCF4F1A315260A664F3B9A4D6BE03AB1E9A23F5F0A0434AFD91F6203F0F
     Session-ID-ctx: 
-    Master-Key: 0B0D64EB1A876FC2B4D790A504C730EF448836A690A398143BE72075AE89FC727F7492C2BFB889D3734A3AD3C8A3AAA4
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472789273
-    Timeout   : 300 (sec)
+    Master-Key: 761B7FAB5CCC65B5D27FC8C6FC18B4ADEB51C1ACEFA5EA6C380D3421F2225D7B2E05414950A0CCBF7ABF559C8FE788ED
+    TLS session ticket lifetime hint: 43200 (seconds)
+    TLS session ticket:
+    0000 - 54 f0 9b 6c 58 c6 cf 60-69 34 d5 e3 ea b8 0e ec   T..lX..`i4......
+    0010 - ac f9 0a 69 dc 19 0f 51-36 9e 90 5a e9 b9 f5 12   ...i...Q6..Z....
+    0020 - 5e 34 5d 68 bb 04 42 5b-46 a8 33 93 92 c2 f9 02   ^4]h..B[F.3.....
+    0030 - 82 e2 ca 33 77 14 43 92-85 7d e8 1b 98 c5 6b c4   ...3w.C..}....k.
+    0040 - a8 8b 87 5c eb 2c fb 2b-98 e3 8c 47 93 9a 3d d4   ...\.,.+...G..=.
+    0050 - 4a 76 f1 65 6d 14 25 e2-86 6f 8e a9 d9 9c 13 2a   Jv.em.%..o.....*
+    0060 - 59 a2 93 b1 dc 5a 85 3e-ee 3c 0c 55 b6 a1 10 a4   Y....Z.>.<.U....
+    0070 - f6 2b db 85 25 1e cd 27-89 63 72 6a 5f 07 63 05   .+..%..'.crj_.c.
+    0080 - 65 d2 82 93 cf ea e8 10-1d 5e cd 0e 11 b2 7a 59   e........^....zY
+    0090 - b2 06 d2 7f 5c 4c da 8b-99 49 d4 01 c8 6a e4 d4   ....\L...I...j..
+    00a0 - 5d 37 4f be 0a 69 be 6c-bd c9 af 8a b9 6c 5a 15   ]7O..i.l.....lZ.
+
+    Start Time: 1577475751
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

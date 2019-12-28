@@ -1,0 +1,66 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
+   i:/O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDcDCCAligAwIBAgIRAKwlY1JZg1ckdDIz72g6WnEwDQYJKoZIhvcNAQELBQAw
+SzEQMA4GA1UEChMHQWNtZSBDbzE3MDUGA1UEAxMuS3ViZXJuZXRlcyBJbmdyZXNz
+IENvbnRyb2xsZXIgRmFrZSBDZXJ0aWZpY2F0ZTAeFw0xOTA5MTAxNzE4NDlaFw0y
+MDA5MDkxNzE4NDlaMEsxEDAOBgNVBAoTB0FjbWUgQ28xNzA1BgNVBAMTLkt1YmVy
+bmV0ZXMgSW5ncmVzcyBDb250cm9sbGVyIEZha2UgQ2VydGlmaWNhdGUwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDPuNFKu1hZG1ApqDOkjDxIFf88LL0z
+nkFaFtpCXcwlbwi0Fxe6rznij0mgsbqtGxvvE2o4CVSnO3oPsfufnGW+sCjUZp5x
+Nl+hoJzcz23FQgEnjyt1on8nqZuU23Bc/sYi8IK9wtFgkq/hhtbIGMB/QZjvOr5m
+FOPm8++4sr0va9TpOAYdQmY5KP/lxWonHDPUqYBjlhkfXVH8s7kF25ND+mvX4aR9
+PwfwYfygv59TRVk3R3jQkN83IGGbwNcr6PP9z5D1900btucghu15KNl5FSrTCT6R
+mTg5DO5SY6h7z2jowXW4bpRGqHSwCsInOPw0NXPYijqyMqDuMyz8ttUDAgMBAAGj
+TzBNMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMB
+Af8EAjAAMBgGA1UdEQQRMA+CDWluZ3Jlc3MubG9jYWwwDQYJKoZIhvcNAQELBQAD
+ggEBAMD+LBmNDJlSZGb4TldgseAlfjgL3LUzRiq16OXL7n9mA+HQBgAOjqL2NjaX
+dnDGSdsob01FJ16GfM89AUL5YP++IyH5c46IrP6ewg667OAfTAgJ6Xv402a1540P
+mB8ggv8yh+70Idi3Abis/W7CUabo/xZRa+Xox76QEg7PpJux9tUpKGqddVz3FYgF
+waAmFCE33ZbM1YlEE3XT8A0tuiN20CXGp639hUvp8YgUODqxifDrHYvSSgyzbg79
+MO3Os8tmYZu77Dtc6rjAClMpPbhkOa0Kq36MnF4JTN4QeoMVifbgqIMfL2T46XfG
+Sn+QOjOT9gylHu+25ezHDJzcnq0=
+-----END CERTIFICATE-----
+subject=/O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
+issuer=/O=Acme Co/CN=Kubernetes Ingress Controller Fake Certificate
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 1521 bytes and written 289 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: E18C22F0EB4768765370EDE4CCBDA9A23A83E6033F8493C7A16AFC24C0644D41
+    Session-ID-ctx: 
+    Master-Key: DB60731B9A6F776BB293087051FEA523341D8B8E0464B1DB42206CE80901E41085DC8F1EC43F910182ED98293126BC50
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 27 e4 0f c8 7c f9 dd 44-64 e9 32 eb 25 90 fd 6b   '...|..Dd.2.%..k
+    0010 - bb ad f5 0f ae af 9e 06-e9 da ae f1 d5 53 d8 0d   .............S..
+    0020 - 8e ee 17 0e da 11 01 55-24 26 69 10 8b 47 47 ed   .......U$&i..GG.
+    0030 - 7c 8d 6d 13 1b a4 37 4b-ba b3 eb 6a d8 34 d5 5f   |.m...7K...j.4._
+    0040 - c0 83 28 6e e4 c8 1c 3c-84 76 3f 0d 06 36 57 54   ..(n...<.v?..6WT
+    0050 - 79 18 bf 14 7b 83 96 f6-f9 ba ca d7 7f 23 bb 2b   y...{........#.+
+    0060 - 6a 44 df a5 9e 29 68 64-6a 90 7e 27 9c bb 49 f2   jD...)hdj.~'..I.
+    0070 - 35 21 9f 2c 05 0d 92 55-68 11 cb f8 ff 57 fa 83   5!.,...Uh....W..
+    0080 - bf 37 bc 75 25 a3 4d e4-05 38 d3 5d 8a 8a 62 54   .7.u%.M..8.]..bT
+    0090 - e3 c8 49 56 14 fb a4 a3-5b 2a 16 25 37 18 70 1a   ..IV....[*.%7.p.
+    00a0 - 2b 47 35 f2 5d 8f 8d 3d-04 15 b7 3d 6a ae 62 fa   +G5.]..=...=j.b.
+
+    Start Time: 1577475280
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---

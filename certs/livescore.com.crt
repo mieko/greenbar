@@ -1,0 +1,81 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=*.cdnban.com
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXDCCBESgAwIBAgISA9P0zprS6Y0AXd8ATZJEGd+VMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMjIwMjE0NDdaFw0y
+MDAzMjEwMjE0NDdaMBcxFTATBgNVBAMMDCouY2RuYmFuLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALnxd0iwiSeL4c0TfEEWKCJe+Sz6J5vSC2nJ
+Vujp/4Y++deuSBP5OfMlSN/mjMGWr06A5xQnaTJs8proZiLlewEZddB0N5/3AAjF
+4l7te7+dvG+kVJxocScCM+3nfdxGpXFF46m0PVWl7ithtojTUGTvJiN0KQUsdIrc
+tjX+Pvb7dG7JKZ9i98+VCoc7DR0iOJdrnToTPB6q17hpL1I1oaa9nkSTeGhI4NGc
+zBbxke0e+AQZzCUCekbyXpBQ8v2FmQEAOjNjjSz3+XBaqr2H7EwdReVDsEe/VPxg
+Ftf7UnpiZOUAautzKSSa3mCWjqniS6jF1xEb/ZTwzJufXcPYI3sCAwEAAaOCAm0w
+ggJpMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUV5m4tqvTu3L6v9Co6XOX6fTLvzUw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzAjBgNVHREEHDAaggwqLmNkbmJhbi5jb22CCmNkbmJhbi5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBe
+p3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW8rmaUlAAAEAwBHMEUC
+IQC4g2xhH8y8MP4K3TkUSHJ+vCUaDbxhzKIywBFlhP180wIgdT8Id5VLYj/FMxJb
+Tp6uQOjEgOj5Nx+Fd1/Yv4n3NW4AdgCyHgXMi6LNiiBOh2b5K7mKJSBna9r6cOey
+SVMt74uQXgAAAW8rmaUSAAAEAwBHMEUCIQCPDIOEipHxVuWuD83SJXsB+bqhviCw
+efx9t2zfVoYvpgIgIb+Kby/JxnN6dyxcfyCWzo+nq1hPoTDp4gWksqZ+N3IwDQYJ
+KoZIhvcNAQELBQADggEBAHV+LPn7cqw4dTxjUj0fLeZ7HptVs07BzMA+vT6nBk9k
+D+l26mJX8B9lAUZKUb3jz39iSiX7uQMrA7Uwk9VpAJZ1xoUAa7BTNDcu5zRJh5R9
+O1xz8HrrdRjM6hVdO1ydpnoyGH6bvCw/usxCdTfBJFo16rGO0gTgfQucfaXuJZW+
+y8WSYmUiVUm5hgYcBDivUK6S8yJp6U6GxQnRztZj9tNqe3Pk42+ZN9F7PTjYdUTe
+KcASPcuzRVs7w/roHVGoszRknusQ1W4FpXYgQ+sNjKEvCpVWiQxPIbE9RMkeLsjg
+gPzeVYfK+6UiJegmUN64DQbUVimk6cVuyF+rvWnK56w=
+-----END CERTIFICATE-----
+subject=/CN=*.cdnban.com
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 3217 bytes and written 281 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 8C06CF2F3D1F768534D9562436FDAFFE60C0261BEA0BD9EC71BAD78748B7EA42
+    Session-ID-ctx: 
+    Master-Key: 3E32C3BE03ACF207871DC586215FD888A2E70A030D836F5050A05F267844951FD44336E8BC5DB43C8B5A97EB12994A64
+    TLS session ticket lifetime hint: 100800 (seconds)
+    TLS session ticket:
+    0000 - 00 6c 3f f8 bb 37 03 74-3a 29 71 d1 47 4e 7b b9   .l?..7.t:)q.GN{.
+    0010 - 29 d3 41 4c ec 4c f5 e1-a5 7c df 0e 49 0e b6 e8   ).AL.L...|..I...
+    0020 - f0 a9 12 dc 31 37 22 9f-a9 fa e8 07 c9 da 84 26   ....17"........&
+    0030 - 70 f4 83 08 bb a2 60 26-ac f1 f4 3b b3 d0 30 6e   p.....`&...;..0n
+    0040 - 49 d5 83 75 e9 82 94 ed-2b 38 33 dd d8 1a 95 6f   I..u....+83....o
+    0050 - 3f 36 43 69 a8 c2 78 f1-30 1e e7 ee 0f 1c 27 44   ?6Ci..x.0.....'D
+    0060 - b4 81 d6 72 f9 e1 70 06-eb ef 4b 19 27 af cf 0a   ...r..p...K.'...
+    0070 - 63 c7 e1 54 45 96 b8 a0-6f 4d 4b 98 fd 9b 9f b7   c..TE...oMK.....
+    0080 - 5d 9c 5c 94 7c d3 22 12-c9 ee df a7 08 03 5b ec   ].\.|.".......[.
+    0090 - 77 79 10 73 cd 7e 14 69-08 52 62 67 a9 3e 15 66   wy.s.~.i.Rbg.>.f
+    00a0 - 6e 50 9e f7 91 45 eb c7-48 9d 6f 23 0a 15 ff 75   nP...E..H.o#...u
+    00b0 - 90 69 dc d1 a9 92 34 27-51 f1 8c 61 57 c9 e1 ee   .i....4'Q..aW...
+    00c0 - 55 51 12 9c a1 3e a8 cb-79 93 1c 2f 2e 0a f3 75   UQ...>..y../...u
+    00d0 - 3a 55 3e d1 79                                    :U>.y
+
+    Start Time: 1577474987
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

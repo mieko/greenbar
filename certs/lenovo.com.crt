@@ -1,53 +1,54 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=CN/ST=Beijing/L=Beijing/O=Lenovo/OU=GIS/CN=*.lenovo.com
-   i:/C=NL/L=Amsterdam/O=Verizon Enterprise Solutions/OU=Cybertrust/CN=Verizon Akamai SureServer CA G14-SHA1
- 1 s:/C=NL/L=Amsterdam/O=Verizon Enterprise Solutions/OU=Cybertrust/CN=Verizon Akamai SureServer CA G14-SHA1
-   i:/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
- 2 s:/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
-   i:/C=US/O=GTE Corporation/OU=GTE CyberTrust Solutions, Inc./CN=GTE CyberTrust Global Root
+ 0 s:/C=CN/ST=Beijing/L=Beijing/O=Lenovo (Beijing) Limited/CN=*.lenovo.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFXzCCBEegAwIBAgIUZ2GVUtj0eJxc9vP7mknqDG94nIEwDQYJKoZIhvcNAQEF
-BQAwgY0xCzAJBgNVBAYTAk5MMRIwEAYDVQQHEwlBbXN0ZXJkYW0xJTAjBgNVBAoT
-HFZlcml6b24gRW50ZXJwcmlzZSBTb2x1dGlvbnMxEzARBgNVBAsTCkN5YmVydHJ1
-c3QxLjAsBgNVBAMTJVZlcml6b24gQWthbWFpIFN1cmVTZXJ2ZXIgQ0EgRzE0LVNI
-QTEwHhcNMTUxMTA3MjIzOTEwWhcNMTYxMTA3MjIzOTA3WjBnMQswCQYDVQQGEwJD
-TjEQMA4GA1UECBMHQmVpamluZzEQMA4GA1UEBxMHQmVpamluZzEPMA0GA1UEChMG
-TGVub3ZvMQwwCgYDVQQLEwNHSVMxFTATBgNVBAMMDCoubGVub3ZvLmNvbTCCASIw
-DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM2LI5mcLKgzVDzcNKf2KiohZ9rM
-jWX2O8wTe0OUq1CRM0ny4I7IouMoAY2RIOJzJfo9rufuRvLUWbZ94wZ85foXjhZi
-2fSoxt9SWTFYQC/2FRK+7ewWHY+0KOye+vWndZbgj3WxhG0A1PBtnFIb8j+QjEqa
-JDa9+WFJDUaHlt5u4QkF56orXJ3NY18nxnB7yuuy7gUHgQ1PnFKENtglmyTFZQaq
-rweDOcls48QrIWy4JvQ/ohP/iNeYWKlxll+ovqK9ii3oRDE0uAgI1vbU2uDk18t7
-3OY7I6HkS1/PMQcVMu7ZVgk3qzinynNzMrRcDmICpkQuRQgxByPK6xWCTLMCAwEA
-AaOCAdowggHWMAwGA1UdEwEB/wQCMAAwTAYDVR0gBEUwQzBBBgkrBgEEAbE+ATIw
-NDAyBggrBgEFBQcCARYmaHR0cHM6Ly9zZWN1cmUub21uaXJvb3QuY29tL3JlcG9z
-aXRvcnkwga8GCCsGAQUFBwEBBIGiMIGfMC0GCCsGAQUFBzABhiFodHRwOi8vdmFz
-c2cxNDEub2NzcC5vbW5pcm9vdC5jb20wNgYIKwYBBQUHMAKGKmh0dHBzOi8vY2Fj
-ZXJ0LmEub21uaXJvb3QuY29tL3Zhc3NnMTQxLmNydDA2BggrBgEFBQcwAoYqaHR0
-cHM6Ly9jYWNlcnQuYS5vbW5pcm9vdC5jb20vdmFzc2cxNDEuZGVyMBcGA1UdEQQQ
-MA6CDCoubGVub3ZvLmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
-BQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFN1sgHy6tTIXpYRBQPDSBGYTL6mQ
-MD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly92YXNzZzE0MS5jcmwub21uaXJvb3Qu
-Y29tL3Zhc3NnMTQxLmNybDAdBgNVHQ4EFgQUBbDX+hM8Llx67+x8CnzKwGXM55sw
-DQYJKoZIhvcNAQEFBQADggEBAHzZmOVikGCFj2KHQwk54CptizkpfSu7guwdYDDi
-U1kaLuwKZ0n6QmcKv5FDQNcrTJ6ikJmX1J4DjtVfZ0ZCAEHV9oxSSaAUCGdRnNm0
-/mys7M/P9caBarUfARfHMf7t1DHMvcKYHiUmh/CR9Es9eQx7OP9+iHuFFYYwPgmL
-+t77UBz9lhNCrUMSGVR0imzhVswz9CkcGoAl2TxxYQhkbq1czHYTnMSUdJCsGX45
-9TlxdzBq4FR4CVIWyFyfO1bw1E7sju4/tcJvv7XlTPS0f+8CSOiQoZVQwdhiA2IS
-5vnVsVT+1neJOnXBUjqck0zQzpoqLZ0RV74QWyYkiYRpfLY=
+MIIGJzCCBQ+gAwIBAgIQAi4zQ1TvpAD5zek8sex1+zANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkwNDIzMDAwMDAwWhcN
+MjAwNjIxMTIwMDAwWjBrMQswCQYDVQQGEwJDTjEQMA4GA1UECBMHQmVpamluZzEQ
+MA4GA1UEBxMHQmVpamluZzEhMB8GA1UEChMYTGVub3ZvIChCZWlqaW5nKSBMaW1p
+dGVkMRUwEwYDVQQDDAwqLmxlbm92by5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDQCaEzA2PJxWEBd+fDrG3mYA5ni+YQqRbKZhncqcNqx8wPKNxE
+cSP6aIauAvKeBHRvIA9RM8NNoJKXyqxTwhbwqJJzzZAim5LZWYGFMb6B9iNT7nWn
+lf8ip10sNZfMpVV8VYkg4n3AjqwFJwW0TkSos9PY/qGFwwwexD3o/MIT/bUyWxuw
+tfy2aLYWohxTZErpgVX4+N5vhQ1JzHDlQ7mtTIcme3gLaZaDp0t6sd0psaa1qct8
+7ZTKBTChG2jSM0qNYoy9osgqveq02HQaKLswlVZY3ZgjP2PpW/0wcXYcoOArmdph
+HKdjli1+xWpO2qwvn8XcEVFskfE2sGtdW01tAgMBAAGjggLjMIIC3zAfBgNVHSME
+GDAWgBQPgGEcgjFh1S8o541GOLQs4cbZ4jAdBgNVHQ4EFgQUKHSl5+AMKhE+R6xb
+X8iyJjfEoXowIwYDVR0RBBwwGoIMKi5sZW5vdm8uY29tggpsZW5vdm8uY29tMA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYD
+VR0fBGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hh
+Mi1nNi5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNo
+YTItZzYuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEW
+HGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMHwGCCsGAQUF
+BwEBBHAwbjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEYG
+CCsGAQUFBzAChjpodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRT
+SEEyU2VjdXJlU2VydmVyQ0EuY3J0MAkGA1UdEwQCMAAwggEDBgorBgEEAdZ5AgQC
+BIH0BIHxAO8AdQDuS723dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9ywAAAWpJ
+p8G4AAAEAwBGMEQCIAPS4aZJSa2qxUcTI5UxZ7VeLMhxrYfJ6QktSEezLMJdAiAh
+j4J5jy+rZaJN2KKfBkmw4m3GeGc8P+9vUJiqDyhnlwB2AId1v+dZfPiMQ5lfvfNu
+/1aNR1Y2/0q1YMG06v9eoIMPAAABakmnwtUAAAQDAEcwRQIgfq0tG5kasV3cz7kH
+KVIBMt9IienJ8PJ/hWTTdY8P+EwCIQCbwcIAHkrrf8FbgANcCEeI7FqXPg9Q9dwS
+1703j6nEOjANBgkqhkiG9w0BAQsFAAOCAQEAHoHfTGissWIWoQ0vtSsW9j189Txy
+c2MI7+lUf3egQx/ioNU+fTXNtMfl/51CHGcLFEe6TDjWxFa/ugYb/xlU7C+o504u
+ruQL1GsQ4XqLpFKmAvD4dBTg7kBJU3gd+N8Qxvw0JeFL+Xbshb/WkLk0ywvu49z9
+KdmtYqC4WjqfX/ZRKFZIhfulUK/vZb7k3E/CCm9dytA1EsJo+QPdsFq1+lQ/RpIN
+kHiLWN2mtdzxfBDX0ZTTFjJ7KblDGG2WE1SYVz5kqBpc+fRSTpZ1GryGPaxMen6X
+uHLm0TymRLK0WHPxDp9anD/g+Q16BU0zzJK+s4AetbVBCtluCOi0KvTH5g==
 -----END CERTIFICATE-----
-subject=/C=CN/ST=Beijing/L=Beijing/O=Lenovo/OU=GIS/CN=*.lenovo.com
-issuer=/C=NL/L=Amsterdam/O=Verizon Enterprise Solutions/OU=Cybertrust/CN=Verizon Akamai SureServer CA G14-SHA1
+subject=/C=CN/ST=Beijing/L=Beijing/O=Lenovo (Beijing) Limited/CN=*.lenovo.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4403 bytes and written 434 bytes
+SSL handshake has read 3412 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -58,27 +59,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 75763A240BF68844E64CF87C83A8B2FB604482B44C5713493F1977FCC2D1384F
+    Session-ID: 219D09AB66D5A412CEE356FA45A7483191F600DD5DFD8296116BC2A986A3BC57
     Session-ID-ctx: 
-    Master-Key: 3E2D619936D1B97471BD6C146D9DCE3C2AC788B8C4177C568CA1BC26C3B4C903FAE54B0DA2008A303EA91ED2262A6DEE
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: A4EBD6DB02D6E1C524A0E224D3E4B410E97C0401B8E01848A99C9E469C85F98CCEF5DB2582C03CBE2BB4531660C05A38
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 2f 85 40 93 d1 11 80 c2-9d 98 7b f9 1e c2 ed d4   /.@.......{.....
-    0010 - df ec 22 09 ef dc 5b 22-cc 3a d2 3d 30 eb 6a fb   .."...[".:.=0.j.
-    0020 - 85 41 a7 98 aa 0e 80 8d-1b df e1 e3 9d e9 c5 d0   .A..............
-    0030 - 1a c7 b8 40 7b dc e3 4a-ee 45 93 fd b4 83 10 a0   ...@{..J.E......
-    0040 - d2 58 18 58 a8 dd f9 b4-27 a2 03 a0 d0 85 0d 04   .X.X....'.......
-    0050 - aa 92 c6 b9 2b 91 0e 1f-4a c9 69 8c 30 a1 48 b4   ....+...J.i.0.H.
-    0060 - 33 58 29 23 78 98 13 a8-ea 55 b9 5c a5 0a 9c 9e   3X)#x....U.\....
-    0070 - f9 a6 26 d5 65 43 0b d3-63 65 7c 0b 1a 57 2d 89   ..&.eC..ce|..W-.
-    0080 - c5 51 0a 74 2c 3f 12 6d-fa 75 c2 77 ab 24 44 ef   .Q.t,?.m.u.w.$D.
-    0090 - b2 8a 40 59 89 2b 3f 1c-14 0c 73 9d 29 08 72 d8   ..@Y.+?...s.).r.
+    0000 - 00 00 12 90 84 9f 9c 6f-61 a9 75 0c 6b e0 37 45   .......oa.u.k.7E
+    0010 - 29 11 b6 26 9e bf 88 88-98 35 84 5e be f0 66 59   )..&.....5.^..fY
+    0020 - 28 7f 00 98 a2 f4 03 51-c1 c7 0a 83 8b d4 1e 7e   (......Q.......~
+    0030 - 83 80 77 93 a0 90 9a c4-f0 21 05 ff 88 f7 51 03   ..w......!....Q.
+    0040 - bb 37 f0 1e af b5 b2 f4-db 46 14 55 60 57 70 ae   .7.......F.U`Wp.
+    0050 - c4 eb f5 23 4b 2f 99 4c-8c 40 46 52 c7 b5 79 fa   ...#K/.L.@FR..y.
+    0060 - 58 2e 4b ba 11 e9 fe 92-ef 77 a5 c4 2a 8b b5 82   X.K......w..*...
+    0070 - f9 66 8d f5 f6 e8 ca c7-6d 96 0e c0 be 4a b5 45   .f......m....J.E
+    0080 - 3c e8 0d 8d 82 5b 8f a1-3e ba b0 df f3 b1 68 9b   <....[..>.....h.
+    0090 - 2f 26 da 93 b0 60 ab ca-98 ed 1c f4 14 76 77 9c   /&...`.......vw.
 
-    Start Time: 1472788524
-    Timeout   : 300 (sec)
+    Start Time: 1577475095
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

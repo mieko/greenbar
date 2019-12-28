@@ -1,0 +1,75 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/C=KR/L=Gangnam-gu/O=GIOSIS LLC/CN=*.qoo10.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE0TCCA7mgAwIBAgIQB7eI46DNv8s08WmQ9wdkpDANBgkqhkiG9w0BAQsFADBc
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMRswGQYDVQQDExJUaGF3dGUgUlNBIENBIDIwMTgwHhcN
+MTgwMTIzMDAwMDAwWhcNMjAwMzIzMTIwMDAwWjBNMQswCQYDVQQGEwJLUjETMBEG
+A1UEBxMKR2FuZ25hbS1ndTETMBEGA1UEChMKR0lPU0lTIExMQzEUMBIGA1UEAwwL
+Ki5xb28xMC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCndRI7
+OvLz1Lskt+qp3sEtYTkk/6MJ4nuZlbqKZlS2bO7xyShQmazVU9Cvk8ZQFp7+wSWM
+N6aCvR3/ZokEfGvLF1N5wDJcIUeOP+9YYqQYzuraqrM0l3ZUaMDhycY7V9QOF4JZ
+tcttiiiS0llfYMvFPgEVJD5uFgxYKeNJ2Apam1T2Ua36gEkfqIMuzwIBIXiIVqsF
+xQoEtfgvdWXvlFF9mb56U/AbTiYd01guZqqiKK8lcAcVVvash4XK/bhdq/KdlUdj
+QzBwjWZBVYGbKHu270K1S2x8seK+8teJh9HwPC7A2Tfv2xY8Gy9MyxhBHExG8rne
+LlCWkdEgV0/n4XxVAgMBAAGjggGcMIIBmDAfBgNVHSMEGDAWgBSjyF5lVOUweMEF
+6gcKalnMuf7eWjAdBgNVHQ4EFgQUDjs3r0EQGMxenhoDBFnvVnFCZ+wwIQYDVR0R
+BBowGIILKi5xb28xMC5jb22CCXFvbzEwLmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDoGA1UdHwQzMDEwL6AtoCuGKWh0
+dHA6Ly9jZHAudGhhd3RlLmNvbS9UaGF3dGVSU0FDQTIwMTguY3JsMEwGA1UdIARF
+MEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2lj
+ZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMG8GCCsGAQUFBwEBBGMwYTAkBggrBgEFBQcw
+AYYYaHR0cDovL3N0YXR1cy50aGF3dGUuY29tMDkGCCsGAQUFBzAChi1odHRwOi8v
+Y2FjZXJ0cy50aGF3dGUuY29tL1RoYXd0ZVJTQUNBMjAxOC5jcnQwCQYDVR0TBAIw
+ADANBgkqhkiG9w0BAQsFAAOCAQEAUkTqr+N42nyi3vco8dEj/Mp1EQ1f/dyRXfvk
+ZxMTLDiKqfZbdhYO+bpn6Lv1Cz8l0lMC0gtlV6TGtyeUbjuI/SBW44Kkz5es/20X
+MCL0mtPkpgkALOgu7gSGUOAoRLmUImNsc4VzvcMOrz/GHw1BmR2s2WyDHtHXlBK0
+tuqbsbTeEVZNS8faByPJ1OqNHznfzSxV18/Rpdkb7gcHqJyQTL3maH33c1LKnAQ9
+mgmX1FRtTkrEADZegIpKw4mHseYn6Xl0j0PbUkulJ1Tvp2WLXAORNx7XJk9+D0RV
+CjSDKpWmqvikasAJKE6lPAwW+tzFMRP1fpYIyX4agEtjy2oi8w==
+-----END CERTIFICATE-----
+subject=/C=KR/L=Gangnam-gu/O=GIOSIS LLC/CN=*.qoo10.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3075 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 28A7B351D70ECCA3AC5AAB812C1734A9B4FF9A7196A04F960F8867120451D20B
+    Session-ID-ctx: 
+    Master-Key: 97DD91A1883254D6AA665FF94E33383683AC7964E087AF35AE2E0960878C3C68474579BACFDD394F94C31D7B110F1937
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ad 0d 3b de e9 dd a6 2a-67 67 62 c6 51 62 97 1a   ..;....*ggb.Qb..
+    0010 - 98 44 a6 a6 5b 88 40 16-6f 6f 5a aa 60 b2 64 bc   .D..[.@.ooZ.`.d.
+    0020 - 71 13 60 bc e7 54 22 17-d0 45 33 ba 24 0c 90 46   q.`..T"..E3.$..F
+    0030 - 47 19 00 4d 1a ba 03 1f-d9 4b 47 c8 8a d9 ad 86   G..M.....KG.....
+    0040 - 4d 28 4a fd cb ba 6e 2d-91 89 59 63 1b 12 e5 3f   M(J...n-..Yc...?
+    0050 - f3 63 d1 b2 c6 68 e1 67-1c bd f8 28 02 7e 1f f6   .c...h.g...(.~..
+    0060 - 6f e0 22 7b 20 36 30 b2-8c 6d 96 50 b4 06 c8 05   o."{ 60..m.P....
+    0070 - 50 d0 4d 14 6d 24 87 64-39 45 32 a8 83 4b 0c c1   P.M.m$.d9E2..K..
+    0080 - 93 3e 1a c6 5e c1 ca d4-82 ff c4 c5 07 a4 75 0d   .>..^.........u.
+    0090 - 6b f0 9a 62 73 bd d8 09-e1 c4 35 dd 52 cb 52 46   k..bs.....5.R.RF
+    00a0 - 22 7a 3c 28 b2 32 10 64-21 68 86 f3 50 10 76 80   "z<(.2.d!h..P.v.
+
+    Start Time: 1577475107
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

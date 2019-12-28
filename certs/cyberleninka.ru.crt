@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=bibloid.ru
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTDCCBDSgAwIBAgISAyiHISJcwv+N6MZLjLhbRcl7MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMTUwNTIxMDdaFw0y
+MDAzMTQwNTIxMDdaMBUxEzARBgNVBAMTCmJpYmxvaWQucnUwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDlaYhAcovOLIzbSKDdOBE3FdTeREroRks7y1c4
+RqvwHHVeH6P5voLos1YVMtm0QGI377JyhAEdsQ92rxS++tobaGwNOx016e7f0rc1
+NAi7Z/015ZdOBcslVkqZnjWjaQ/9KLkNUOszlG/anuSc9sZjRU0av4t/7pub/uvc
+Fqdu3WBeub2c2MdTtfD42icJTebLnocj5U3tGcrHXZ3eDXErFCmrMCAQqdjjKOJx
+k9F31E51bBfrJJbyR9L1td9CQjVT1dBi3OUwmdE1r9StnDyY0NHsXbfkrINV32NR
+Rf0bYmkysZg588XZ4AYCWIvTS88BKy1aei6z64tK67pofmopAgMBAAGjggJfMIIC
+WzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFD4IAf5Cpl9YjBrUHB9p4/cf4RpWMB8G
+A1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAu
+BggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAv
+BggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8w
+FQYDVR0RBA4wDIIKYmlibG9pZC5ydTBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2APCVpFnyANGCQBAtL5OIjq1L
+/h1H45nh0DSmsKiqjrJzAAABbwg3umQAAAQDAEcwRQIhALxJ+Dmy87RX4AEVbjE4
+VkXXHTvR8FZsINdCQBPuDXFvAiB+Q3Q/L0CfqIdZVqgauWJH8Rbnvazvr/FHiVu4
+K+nDAQB2ALIeBcyLos2KIE6HZvkruYolIGdr2vpw57JJUy3vi5BeAAABbwg3uloA
+AAQDAEcwRQIhAOg/bGjtgNJgWm0NFru52pFSGPA6OxRq28fF+/5yDwjnAiB78Pzr
+izf+IN2S5Iuz1YxchuScPFFa2qbk/1/My+Xh7TANBgkqhkiG9w0BAQsFAAOCAQEA
+hgA+nkSpdHjIAhx8Yy4FyIbZWTptLyZwJFyNdAm3wjmOTGo9GXkaDL5HxqyAIvHj
+Rb8TkMgOCtj7XgatZzbhT5kwISP1Fc43ozv1SZkSFBcyD5yh/EIQkuNpE8j0vw/8
+lzjVhclGfVFIhaWCFwVyFAW6qe9aXVOqG4G2qlH3RrdVSxO7sjcrmT99w1534nZ8
+KEp90NwLtRR7GJnaQBBKeCzNarhtuPCo/XpNi5Mbw9Szav29Tqcg+lSEIaE2dff4
+tDNLXdVG02XJiB+xNJLkWEKDJ3YLUNclUqoTLd8hoVr1uCiQm1VBPo2lyfvjA8FI
+MV+ScpBEc4EAOzWQl+8KrQ==
+-----END CERTIFICATE-----
+subject=/CN=bibloid.ru
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 3166 bytes and written 281 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 2968480D4AA77C5F693F2C39377C83B404012AB5CCFB342B97C97B3270A22C33
+    Session-ID-ctx: 
+    Master-Key: E4CBC68D1A6B312CA9652F7EEDFF2F7AABA0AF1484ABDAA35D6DE9EC8ABEA7ED5D21560B80405DFFD2E8D9D13FB3E797
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 0f 13 eb e6 e3 7b 65 1b-42 55 3c 25 b3 8e 7c 7e   .....{e.BU<%..|~
+    0010 - 89 f9 fe bd 6f cb 5b 1e-ea 73 26 29 2e 7a 02 29   ....o.[..s&).z.)
+    0020 - a0 9a 4e 7b a2 79 97 c7-d4 d0 9f ab a7 62 64 85   ..N{.y.......bd.
+    0030 - 8b 1f dc e9 c9 d6 10 d8-83 0c c9 44 67 07 c8 2b   ...........Dg..+
+    0040 - 36 6b 23 3f 98 5b 1a 0d-1d 57 1d 59 df 20 cb 0b   6k#?.[...W.Y. ..
+    0050 - 13 eb e0 85 d5 1b f9 6b-9a 49 00 0c 90 69 08 ce   .......k.I...i..
+    0060 - 86 9b c0 94 53 21 7b ba-08 8e 5c 3c 72 b2 a3 d1   ....S!{...\<r...
+    0070 - da 05 a6 2b f5 6c a7 74-f5 38 c6 f9 27 20 6e 8d   ...+.l.t.8..' n.
+    0080 - f6 5f 31 cb 66 cf fd cc-45 fb da 79 45 63 d7 b4   ._1.f...E..yEc..
+    0090 - a1 a2 35 d1 d6 31 d5 dd-6a af 5f cb 20 fd d6 d5   ..5..1..j._. ...
+    00a0 - 88 ff ca 7c 00 98 30 0d-c4 a0 22 86 be 08 99 c6   ...|..0...".....
+
+    Start Time: 1577475662
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

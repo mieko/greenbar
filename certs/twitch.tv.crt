@@ -1,54 +1,61 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=San Francisco/O=Twitch Interactive, Inc./CN=*.twitch.tv
-   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
- 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
- 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 0 s:/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=twitch.map.fastly.net
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFHzCCBAegAwIBAgIQB5jmzXEexaHNRnkXQLmPwzANBgkqhkiG9w0BAQsFADBN
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTUwMzA2MDAwMDAwWhcN
-MTgwMzE0MTIwMDAwWjBzMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
-YTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEhMB8GA1UEChMYVHdpdGNoIEludGVy
-YWN0aXZlLCBJbmMuMRQwEgYDVQQDDAsqLnR3aXRjaC50djCCASIwDQYJKoZIhvcN
-AQEBBQADggEPADCCAQoCggEBANF1f4A0UjV1/qhgo6dkalgwGP/SNA6/RcgPjUI9
-6pGHcARHzB6UhYLCQonSZq/3DMHhL1pYp9U4u8VZwxW6CBnuvmNDAROqxdwGlfcJ
-0UYqWagYDmHHk+rlsg6JQd4zoSS3B4lVwHV479x+Qygkn1xOsYBcR6CZKlbaCgPd
-I0F8b6o/U4fUcc5YH9BhPVSLBbbgKqwUlRyeVUG9RAsipLSZirTZ7EIwUr0k5K5C
-E5/lzRTHP4t4ijmujDK6eALCX37vI0ELmFHvWjFe5CaDtxcHMXSTK2ZueYXFsooW
-uuw0GGLnflEyYB0h84G413X4rRvlKOPciFdyLjxNA+6kTPECAwEAAaOCAdMwggHP
-MB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBRe4ZTb
-YUIeDnrqZU78gPOtoFPfjzAhBgNVHREEGjAYggsqLnR3aXRjaC50doIJdHdpdGNo
-LnR2MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
-AwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3Nz
-Y2Etc2hhMi1nMy5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9z
-c2NhLXNoYTItZzMuY3JsMEIGA1UdIAQ7MDkwNwYJYIZIAYb9bAEBMCowKAYIKwYB
-BQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwfAYIKwYBBQUHAQEE
-cDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYB
-BQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJT
-ZWN1cmVTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOC
-AQEA2AghOlwDdwe4qOBopscicYRsmAHzR67enub4MUsPxwOancGp4YidJfIB7nB1
-Bltqwynv4xIcalwJ/ynnbAgZfO8P19iLOgN7oRcedTtzF9qiuH2e5g+xERwon79Y
-C8BjFh1M868XXfElIDkl5HTeM4xMsb3Bt8odS3zT+RgqfuFdXHFHa7Q4Hc4aaCkI
-gD4nfPOYMJbVyq0pe0NtLcUrq+bKBUvLczeJRK68djYKewhznkQs3Gif263dtqBe
-KcEtZ5PsZ/0AXTaeumefDcBp5b0tzy5G8GkkZ6Rv9IbG7zz5atnjVznDxP3ufzyp
-PtO6qnyqWQhWUd7NnyOaHMLHBA==
+MIIHFDCCBfygAwIBAgIMDbwsyStUXWyspItoMA0GCSqGSIb3DQEBCwUAMFcxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMS0wKwYDVQQDEyRH
+bG9iYWxTaWduIENsb3VkU1NMIENBIC0gU0hBMjU2IC0gRzMwHhcNMTkwNjEzMjAz
+MTIyWhcNMjAwNjEzMjAzMTIyWjBxMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2Fs
+aWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzEVMBMGA1UECgwMRmFzdGx5
+LCBJbmMuMR4wHAYDVQQDDBV0d2l0Y2gubWFwLmZhc3RseS5uZXQwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCi7RxiLCFI7DqXF3V2wE3eM7UgwhQNKKTN
+tvRGrB7j3ZOugr4I5NXVw61SWVsnyuRyDl2/EJnW/a6APGiPs/09baGRiT+hQCf9
+5v5WnI0Qm7mtIkQxxwX6O4S+VXjCH7ccl4rGf7GV2tHOD4Bi6Iz95CTdStlJgPbc
+N3JEMFxrtq7rIDbNfK+hvr2nve3yEQeswLlHT2p0h4B9b44FCYj2Xyo7/WrWJbVD
+nUBJor9JFJsX3R1NMFpBhyuXNKFAz0dv/A/+KqXYNu+gCBSWhavpMub8yZRt/ij2
+o6eh0BMnI99sAwlrwSPuLi0oujYU0PfEI2fjIB22ZNNlz1r8O1nXAgMBAAGjggPE
+MIIDwDAOBgNVHQ8BAf8EBAMCBaAwgYoGCCsGAQUFBwEBBH4wfDBCBggrBgEFBQcw
+AoY2aHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQvY2xvdWRzc2xz
+aGEyZzMuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIuZ2xvYmFsc2lnbi5j
+b20vY2xvdWRzc2xzaGEyZzMwVgYDVR0gBE8wTTBBBgkrBgEEAaAyARQwNDAyBggr
+BgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8w
+CAYGZ4EMAQICMAkGA1UdEwQCMAAwggFVBgNVHREEggFMMIIBSIIVdHdpdGNoLm1h
+cC5mYXN0bHkubmV0ghsqLmZhc3RseS5saXZlLmhscy50dHZudy5uZXSCCyouanR2
+bncubmV0ggsqLmp1c3Rpbi50doILKi50dHZudy5uZXSCEyoudHdpdGNoLXNoYWRv
+dy5uZXSCCyoudHdpdGNoLnR2ghYqLnR3aXRjaGNkbi1zaGFkb3cubmV0ghgqLnR3
+aXRjaGNkbi1zdGFnaW5nLnRlY2iCDyoudHdpdGNoY2RuLm5ldIIPKi50d2l0Y2hj
+b24uY29tghYqLnR3aXRjaHN2Yy1zaGFkb3cubmV0ghgqLnR3aXRjaHN2Yy1zdGFn
+aW5nLnRlY2iCDyoudHdpdGNoc3ZjLm5ldIIYZmFzdGx5LnZvZC5obHMudHR2bncu
+bmV0ggl0d2l0Y2gudHaCDXUubS50d2l0Y2gudHYwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFKkrh+HOJEc7G7/PhTcCVZ0NlFjmMB0G
+A1UdDgQWBBSBguIvHZL13WOjxxyj7SRT4WpWzjCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABa1KJtCUA
+AAQDAEcwRQIgYR0426PI3ZSNEVyvKduEt/T3GKpUmDfCR2H19K4XQ6UCIQC8Ems4
+JVTjuX7YpEjJpFJGtn5SA1QoiEbCMAvmqoRgTQB2AO5Lvbd1zmC64UJpH6vhnmaj
+D35fsHLYgwDEe4l6qP3LAAABa1KJs7MAAAQDAEcwRQIgcUGAkk4y37tfvqvBDGrR
+53qqjgIfcZoXtUO6xmHxAmYCIQCDA+ai4hxPfvOh3/lIoaWfarA6b4zTJ4/1CL7p
++UrQmDANBgkqhkiG9w0BAQsFAAOCAQEAnsa4Ll6XRErGLf21lphss4ptyOs87VEF
+Hub1xdhQ+E89YSWcP7uB18Gol9Ofe9dJdum+FiIMRDz3jwaMm1f2uln90J/+YQJC
+CbwNCFIwy8Fwhd003YFS3gxKVJCpzctic2lgHX3+QJSppzn4so2T8vu2oYx434ob
+RopbiABNVBh51RY+XO1XcrwjshOJWoT9CMrGeICfLxpIa+onHB/OyLUnYmYBD5JZ
+0Ub5/k9xll6TLa7x8rvRvyuvuJ0GxgXMBeb7iDGCj5zDbJayxwoIoZ3bJ8AQbevW
+x5RUh3YZoPS4Oym282wDa+6LnIuHzyLuunLqOSFiBfPZZdvBfnK7aA==
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=San Francisco/O=Twitch Interactive, Inc./CN=*.twitch.tv
-issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+subject=/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=twitch.map.fastly.net
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4119 bytes and written 434 bytes
+SSL handshake has read 3607 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -56,29 +63,24 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 1E71CDE168D2828DAFC39D575043AFCE5ED30968465DD03FF7399ADED9AA298A
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 8AC91F2ADF268239489658A9D653BE37D397033992482F7EAD9C8FA493BADB59
     Session-ID-ctx: 
-    Master-Key: 5177F44BF20023B74A3FA43EA8EBD8BEAD9F0A08731EF0CADE770281F96AAE4AB4117EABA2AC1EFDD91C37B6CFEBC9CA
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 600 (seconds)
+    Master-Key: 4773E1ECBA9ED8F6872A3C9C55452CDD677C4B63CA2C62DB346B24A57C432392E762608251C173D903AA1BC61DCB484E
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - cc ee 5e cb 9e 65 ff 2b-34 9a 91 ae 97 29 b3 88   ..^..e.+4....)..
-    0010 - 36 34 dc e3 54 6c 9c fa-7f 05 31 56 a9 21 85 e8   64..Tl....1V.!..
-    0020 - 1d ad 1f 93 c2 95 90 f3-c1 55 06 57 fe 22 3c 94   .........U.W."<.
-    0030 - 79 38 4c 45 4e 5d 8f 58-d4 e0 8f 02 04 fe ab 7f   y8LEN].X........
-    0040 - 38 62 cb 66 a2 4d 18 0b-75 37 57 4b 6a 2d 51 54   8b.f.M..u7WKj-QT
-    0050 - ef ee 9b 66 73 28 84 11-79 f3 3a 42 2d d7 64 f2   ...fs(..y.:B-.d.
-    0060 - 99 70 94 f2 ed 7f 84 66-7a f8 ba ed c6 0a 6d b5   .p.....fz.....m.
-    0070 - a4 3f 72 36 0e 78 31 57-c9 bf e6 f2 a1 1d 9b 30   .?r6.x1W.......0
-    0080 - 06 07 8e c1 e5 75 2b 91-4a 1d 3b 6f f1 6d 07 1f   .....u+.J.;o.m..
-    0090 - 06 5b 3c 14 50 b7 76 f9-13 5b b8 08 c6 52 6a 8f   .[<.P.v..[...Rj.
-    00a0 - 42 45 9a b7 4c 08 cd b3-cc 49 90 7b ba 30 5e 61   BE..L....I.{.0^a
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - c6 54 bd 13 9a 37 7d 7b-5f 7b 1c 56 91 f0 49 59   .T...7}{_{.V..IY
+    0020 - 78 2c bc fd 19 0f 83 70-60 16 fb a2 09 e5 a8 46   x,.....p`......F
+    0030 - 0c ca ca 4a 50 c6 1a 8a-5c e0 a3 b0 14 7f 9d 33   ...JP...\......3
+    0040 - c2 ee 42 08 f2 07 b4 35-27 6c ab 63 b5 a5 fe b8   ..B....5'l.c....
+    0050 - cf 03 9a cf 92 f2 88 92-cf 1f a0 cd de 6d b0 9d   .............m..
+    0060 - 6f 9e e7 5e ad 24 7e 9a-3b 77 f1 65 87 2c 58 d1   o..^.$~.;w.e.,X.
+    0070 - 58 12 e8 6f 45 61 3a d9-22 9b d0 ad 7b cb 2e 57   X..oEa:."...{..W
+    0080 - fa fa a1 aa c9 f2 f7 e5-73 7c 66 4e 71 80 3b a6   ........s|fNq.;.
+    0090 - 64 7a a5 68 ed 85 b2 e4-f5 33 bb 9f 81 ad 34 3c   dz.h.....3....4<
 
-    Start Time: 1472787935
-    Timeout   : 300 (sec)
+    Start Time: 1577474800
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

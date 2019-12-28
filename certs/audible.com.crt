@@ -1,0 +1,69 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=www.audible.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFjTCCBHWgAwIBAgIQBQ1P3gI+ysWWYXDAg9j4gzANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTA5MjUwMDAwMDBaFw0yMDA5MjUx
+MjAwMDBaMBoxGDAWBgNVBAMTD3d3dy5hdWRpYmxlLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAOGY8u3M7L/lYiOKh+rcryHG9wPRovS7MWjx9gYp
+tkcbQJqZv/1Mg4+4295Fj5rEw3ShMpiFgG6h0s61pdw1GFIu6djXxbgeLIgnX8ZL
+BMOWSyFN+3ZNABSAILYboeBi4dqyty9YiWhTv2EGs/3P6WOS5Iq1dWksteOAwIL1
+g4wb4c3i2qm1diCjW0RQUQP6rwzlOJIu9tzGiX605G77pR20lmDvOOL4uDYVekEf
+p2Pmx14H3oHHD3sDrw/YLVmr3I4LdpXBkcoz/DWsCicf90qbOf1a/RzyCP0YJ4oE
+NuxjaZk8338IPcdm8wE3FK+19ry73tUxgFxb2qcaYX6bZ8sCAwEAAaOCAqEwggKd
+MB8GA1UdIwQYMBaAFFmkZgZSoHuVkjyjlAcnlnRb+T3QMB0GA1UdDgQWBBTHCkhE
+Qusdd+RW7e+gZmB0x94SPDA/BgNVHREEODA2gg93d3cuYXVkaWJsZS5jb22CC2F1
+ZGlibGUuY29tghZvcmlnaW4td3d3LmF1ZGlibGUuY29tMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwOwYDVR0fBDQwMjAwoC6g
+LIYqaHR0cDovL2NybC5zY2ExYi5hbWF6b250cnVzdC5jb20vc2NhMWIuY3JsMCAG
+A1UdIAQZMBcwCwYJYIZIAYb9bAECMAgGBmeBDAECATB1BggrBgEFBQcBAQRpMGcw
+LQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnNjYTFiLmFtYXpvbnRydXN0LmNvbTA2
+BggrBgEFBQcwAoYqaHR0cDovL2NydC5zY2ExYi5hbWF6b250cnVzdC5jb20vc2Nh
+MWIuY3J0MAwGA1UdEwEB/wQCMAAwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwDu
+S723dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9ywAAAW1pMZMqAAAEAwBIMEYC
+IQC+hJzWuVOS/7U8K+8fbEAFGmA+FGmkwVMN0tYp2XpzywIhAMntnXTJkoiwyFRT
+OfEmQMhYvvAsg0kObR7dmKvWR20WAHYAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVg
+wbTq/16ggw8AAAFtaTGTjgAABAMARzBFAiEA/I3uRH34w9q6Eotcxwde7WJ7hbhB
+zYTkYv/EEXoRA4gCIHU0KoPyJ7VtUAyX3NficSKxS+++PF3dKlxwHdpU4DkyMA0G
+CSqGSIb3DQEBCwUAA4IBAQCKIEu+xeWRGO7Q4p9sc500MTl9nUsvnSbK6hQxWWDk
+TxxoxdF8AhG0EUeYEnH0ymfDRtIMetIUGS0Y/3J8voqEea5I0g5ITzWpx0ZtDpIH
+K38QCwWBqV0cdD6oYluJaIQMBQUBysQDs3UUDlE/+op8sLSm8L5xwhhxDWpqcdlg
+Ts2O6nTAEI2WSsp+d1Hgi8CboI4mHtUgC/zNDwu8OEO2IRQ83L6s2VRnwQg98Ezr
+O5ZbYKEeFmrAUDqsHsNS8XS3Tjtz7K+3jU+lVr3wr+jXU2Pwy4Ys1ZHmdGbZ+IYN
+cedTbP8TtdG37fvyc/MBBr/95uJKn3AzBsCnft81D4UK
+-----END CERTIFICATE-----
+subject=/CN=www.audible.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5361 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BFD31F8E180EA387306DACC20AF970A63482AC126A27CC576BF9E70D8BC9823B
+    Session-ID-ctx: 
+    Master-Key: 08B549DA1F057B0B0C81BB3F3C8458D4E2EDC866949F33AEDA4C0426FCE051992114B118FAE0FFE6FAF37A8CFF792980
+    Start Time: 1577475295
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

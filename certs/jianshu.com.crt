@@ -1,51 +1,55 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/CN=*.jianshu.io
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G2
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G2
-   i:/C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+ 0 s:/C=CN/ST=Shanghai/L=Shanghai/O=Shanghai Bai Ji Information Technology Co,. Ltd/CN=*.jianshu.io
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-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
+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
+1uw+d4bE2HpVR/7jJzNmOqcSPt0vUIgP2WkDiiTh4kNe6cLkEFyPEBNK8tlvrG3z
+kcwyaPXoPR3/PDrFHqjFQPD1ubYmceDKZrIRr7Nlr2eAC/FLD0bK7dLnw36p0L2B
+2ymI23P9WskeK/2wbMLSQiQPb4nruPijnsfNmeqOLISNpCpjWPv45CV10S/XnkJS
+SDAzkvUCAwEAAaOCAuYwggLiMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzh
+xtniMB0GA1UdDgQWBBSUWGb6PfUfzqREoeDznBTxI5fbgzAjBgNVHREEHDAaggwq
+LmppYW5zaHUuaW+CCmppYW5zaHUuaW8wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjBrBgNVHR8EZDBiMC+gLaArhilodHRwOi8v
+Y3JsMy5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc2LmNybDAvoC2gK4YpaHR0cDov
+L2NybDQuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nNi5jcmwwTAYDVR0gBEUwQzA3
+BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQu
+Y29tL0NQUzAIBgZngQwBAgIwfAYIKwYBBQUHAQEEcDBuMCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNl
+cnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQw
+DAYDVR0TAQH/BAIwADCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AKS5CZC0GFgU
+h7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABbK0r3O4AAAQDAEcwRQIhAPJ0qSG7
+unvP+mufdfU87zqUO2xOStf/ANMUnZQDNAttAiBnqML3bvtChGjk0orWBHgpKpQH
+5FAq/e2g83zFSKilYgB1AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMP
+AAABbK0r3TcAAAQDAEYwRAIgeAkHTQjs7f6LEAAaIbxXg7f0NgkBA1kvSQ9dAiqm
+VMICIBUTOp1WjNbgF+1SFBn0bU+bESgezMaC5Q97QJqqKtonMA0GCSqGSIb3DQEB
+CwUAA4IBAQA2I0QFGftFemRMoUtaSBZmx8XOS3U8ubw0DrfEtBoMEI63MqiBsK33
+neb27C5+hA41BCAdXLUNjS888liEPa50g00geeaTtW9LRglYXhpXS4kK++tuufoS
+gX66sCAYdqVb8TbKoZF1JcSVWtCJ5SZBdGJ9ryGwA3EzBzkMbT4Rkm1rpdLlU08o
+sus6X6ozV+wohweE05vPwjYOVFhMkBtQdkzvpMg4uDIScmAuuNg+tlTvkKjibuzW
+5+bHoQ3zmBtBnmKXvksgFA8nMQUyv75K3nvSlI8CUxuDQjQAL3SCeF3iy6COej27
+6pqHOMrPg+U4SUftx8v+GyGK8u+Ij2wP
 -----END CERTIFICATE-----
-subject=/CN=*.jianshu.io
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G2
+subject=/C=CN/ST=Shanghai/L=Shanghai/O=Shanghai Bai Ji Information Technology Co,. Ltd/CN=*.jianshu.io
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3278 bytes and written 434 bytes
+SSL handshake has read 3457 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -56,28 +60,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 3DCA6041AF60BBC3AECF5BBE2656BF4CF14B9C5E597F07D5A3898887CC48128E
+    Session-ID: D49A913B89E16483B0EBDA3082071D0A33A84B399AD200BC3032FA1D98D12704
     Session-ID-ctx: 
-    Master-Key: C437C93559A57352721728159DBE00701B0732285A01516B24B4F380F43351204D7F1623959D2DF3258226D4B4AD7156
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 88B0810F766DA22A886063356E0CD9C7574D66CA595B47BEA32E2A7820C267C9E6E2E76A424E5886954B29CE1B8C2198
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - ef 0c 22 a2 63 65 6e 74-98 80 9a f6 ff a0 09 93   ..".cent........
-    0010 - bb fc 69 a6 49 cb cf 9b-16 a8 b0 b4 78 e8 d0 e2   ..i.I.......x...
-    0020 - ca e5 bd 29 60 c8 23 51-9a c6 ca f1 f8 5d 2d 47   ...)`.#Q.....]-G
-    0030 - 0f e9 e2 c3 c0 d8 59 d2-c1 21 82 50 ad a2 0f 96   ......Y..!.P....
-    0040 - 0f 8e 85 3c 13 16 d1 d7-7a 62 5e f6 51 0f 37 b4   ...<....zb^.Q.7.
-    0050 - 87 77 90 bf 0a 7e 56 2b-99 6f 42 ad b9 39 cf 2f   .w...~V+.oB..9./
-    0060 - 74 10 0a f3 da 39 4f 30-63 f6 34 1e 53 43 38 17   t....9O0c.4.SC8.
-    0070 - c0 d8 aa 58 51 df 07 e8-0c 7e 20 a8 bc a5 6d 0f   ...XQ....~ ...m.
-    0080 - 2f 98 1a 07 24 54 95 c1-a6 29 3f 82 86 c3 42 ef   /...$T...)?...B.
-    0090 - a1 27 16 2f 40 74 be 11-39 67 fc e8 fe 65 4c 0e   .'./@t..9g...eL.
-    00a0 - da 03 85 37 f0 82 4a e4-49 f5 e5 f8 79 2c bf f2   ...7..J.I...y,..
+    0000 - cc 5b bf 0b 02 52 f1 28-ba 6c f5 61 25 36 a8 fa   .[...R.(.l.a%6..
+    0010 - 31 08 4e 2b b1 ef 19 e1-cc 32 e6 bf e3 a9 5f ce   1.N+.....2...._.
+    0020 - c5 64 e0 ee f1 95 b9 73-57 6f 96 89 e0 8c d7 ad   .d.....sWo......
+    0030 - 70 2f 2c 11 10 1a 1a 67-af 36 f2 33 28 d1 eb b5   p/,....g.6.3(...
+    0040 - 3f 69 f8 1c c1 de 2e 31-8d 8c 49 c2 ef 0b fa 66   ?i.....1..I....f
+    0050 - 40 1f a4 17 f3 4a 29 11-24 4a 23 4b 20 10 08 7d   @....J).$J#K ..}
+    0060 - ae d9 61 19 29 26 8f 2c-21 cb b6 2d 1d 2a c1 84   ..a.)&.,!..-.*..
+    0070 - bf 0e 47 74 e9 e3 8c 36-43 73 eb 22 24 a9 a9 81   ..Gt...6Cs."$...
+    0080 - b9 f6 b5 bd 0e c8 05 ce-1d 9f 46 d5 be 7d d8 56   ..........F..}.V
+    0090 - ee 6f 6b c0 14 f4 ec e6-70 fc 09 99 05 4f 74 53   .ok.....p....OtS
+    00a0 - d4 78 2b a3 e6 10 7a b4-f4 c6 42 49 8f c1 19 ef   .x+...z...BI....
 
-    Start Time: 1472789985
-    Timeout   : 300 (sec)
+    Start Time: 1577474897
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

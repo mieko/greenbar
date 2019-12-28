@@ -1,50 +1,56 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=ID/ST=Jakarta/L=Jakarta/O=Detikcom/OU=infrastructure/CN=*.detik.com
-   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
- 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
-   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
- 2 s:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
-   i:/C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+ 0 s:/C=ID/L=Jakarta Selatan/O=PT. Trans Digital Media/OU=Infrastructure/CN=*.detik.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEuDCCA6CgAwIBAgIQTaIZMlCq8R3wMkJyZtnbIjANBgkqhkiG9w0BAQsFADBB
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
-aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUxMDAyMDAwMDAwWhcNMTYxMjMxMjM1OTU5
-WjBzMQswCQYDVQQGEwJJRDEQMA4GA1UECBMHSmFrYXJ0YTEQMA4GA1UEBxQHSmFr
-YXJ0YTERMA8GA1UEChQIRGV0aWtjb20xFzAVBgNVBAsUDmluZnJhc3RydWN0dXJl
-MRQwEgYDVQQDFAsqLmRldGlrLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
-AQoCggEBAL48d3bf1fxQfsxv5kNXvy4KBa1VfjxMrQYOjAO0MplUO1hS4UXOG9NF
-k5QOgZ9Jv5RNsjuRmzi6swfRwPssoXY0JQIxvJkScyCvCEwZyA4qSTrcTKZiKjQJ
-IliZiiw6NVL0x06403c/zvMTcGVHWWYrgG1ZX1n6LC89YRAAl1XPkC+OC4nLwHNI
-mvOvX9y/L02iAsEfUOZ/vBOLCrvb444MHifuz82IUnkxvnCBtAvF6+niJd/2Gma6
-zNflhDA+tbh++D5YnHZRBu06F0pQAUptq4+7eiT6DlJEJeEg779Qlu29h0I2xKA7
-wLcK9Kn+Lygv5xDRnM1TrDqSKNQFAuMCAwEAAaOCAXgwggF0MCEGA1UdEQQaMBiC
-CyouZGV0aWsuY29tgglkZXRpay5jb20wCQYDVR0TBAIwADBuBgNVHSAEZzBlMGMG
-BmeBDAECAjBZMCYGCCsGAQUFBwIBFhpodHRwczovL3d3dy50aGF3dGUuY29tL2Nw
-czAvBggrBgEFBQcCAjAjDCFodHRwczovL3d3dy50aGF3dGUuY29tL3JlcG9zaXRv
-cnkwDgYDVR0PAQH/BAQDAgWgMB8GA1UdIwQYMBaAFMJPSFf80U+awF04fQ4F29ku
-tVJgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly90ai5zeW1jYi5jb20vdGouY3Js
-MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBXBggrBgEFBQcBAQRLMEkw
-HwYIKwYBBQUHMAGGE2h0dHA6Ly90ai5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0
-dHA6Ly90ai5zeW1jYi5jb20vdGouY3J0MA0GCSqGSIb3DQEBCwUAA4IBAQB41m7K
-TMdX3zRDtnWM85AVTL4sU5dPtKZIuG9QYZ94hvtjtazdmnZfeTP9F1FC1k+O0S7f
-tABT4SqIIaokBKZeNwSqqebk3NPUKHMuWO0mHYjq3Qe53+S6Yj+eB8c1uwjujtEA
-7B6+HBYdi3JVVruXltsaMNs8BfQdiqQ1Csvaz+LsAJVJ9/8nUFYH0lYaaz7LwsnP
-TWMpHwxUIhR6l3i4ZM+giN7ArxTKtN8Dz7Ys4q6fjAkQGa4+Wl525mhFiRPtOBoI
-1Qgoa5NIB9YxIjHorQ+i1n0EofSqEA1j9m+nWzeHBJQONZyP7mV+pvCudm9notCq
-gl5YtgkXljkAqbCO
+MIIGBTCCBO2gAwIBAgIQDeEiS4byuzgge2PsLvA4lzANBgkqhkiG9w0BAQsFADBc
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMRswGQYDVQQDExJUaGF3dGUgUlNBIENBIDIwMTgwHhcN
+MTkxMTI2MDAwMDAwWhcNMjAxMTI1MTIwMDAwWjB4MQswCQYDVQQGEwJJRDEYMBYG
+A1UEBxMPSmFrYXJ0YSBTZWxhdGFuMSAwHgYDVQQKExdQVC4gVHJhbnMgRGlnaXRh
+bCBNZWRpYTEXMBUGA1UECxMOSW5mcmFzdHJ1Y3R1cmUxFDASBgNVBAMMCyouZGV0
+aWsuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqjlnbiKcb4Yw
+UoEnX/0ZBPO2wVIGkcoS4Lin5qj8+FtXP6xKZJgqnYW93FMJR011bQDQIBa766uq
+ur5feoIDABl23OmnVhCuqAECHod4TI0uyvupxl5EhnvXIZsfNXp9ecZaqgWqHtYM
+qAQmw/4L3GfZx/6/HVyslFlSPu51cJitUU8EIUz7sNJsoYngoWBdL2NPMl8isgt3
+hsqk4mUUVcGNfxkK6szu5ik30O2WJ3vLqf+xDi/JbbWH/nV1d9P3YeC88o5MdLEG
+wdaav5anK11+vjvWyIZUsVSr7vj+ZNXZUBhm4RsSNDVlUG5oaixfSIjZW+Gj3WJO
+b09CJwPeeQIDAQABo4ICpTCCAqEwHwYDVR0jBBgwFoAUo8heZVTlMHjBBeoHCmpZ
+zLn+3lowHQYDVR0OBBYEFJdIbp2LY/ivPI3b+HVZ4VgnNkHoMCEGA1UdEQQaMBiC
+CyouZGV0aWsuY29tgglkZXRpay5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjA6BgNVHR8EMzAxMC+gLaArhilodHRwOi8v
+Y2RwLnRoYXd0ZS5jb20vVGhhd3RlUlNBQ0EyMDE4LmNybDBMBgNVHSAERTBDMDcG
+CWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5j
+b20vQ1BTMAgGBmeBDAECAjBvBggrBgEFBQcBAQRjMGEwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9zdGF0dXMudGhhd3RlLmNvbTA5BggrBgEFBQcwAoYtaHR0cDovL2NhY2Vy
+dHMudGhhd3RlLmNvbS9UaGF3dGVSU0FDQTIwMTguY3J0MAkGA1UdEwQCMAAwggEF
+BgorBgEEAdZ5AgQCBIH2BIHzAPEAdgC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQ
+lmQ2jh7RhQAAAW6pUCRfAAAEAwBHMEUCIQC72DOa8npPNDvqMyU3VM/JAG6T7YEr
+y7HWsZA3OIhkWgIgJqyLwLvIsaPtKnJW65iM+A3uFrBoDrhSh+uuhpIDN50AdwBe
+p3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW6pUCRKAAAEAwBIMEYC
+IQCKFLzXURkaVKa1TU/HWpbs5KRaewysgMEc8Fh3SmwcdAIhAOwu29WvDrt5XuPf
+yJ33eOA/lrYmgeHK6gGtNi4T/HNtMA0GCSqGSIb3DQEBCwUAA4IBAQDJxSijXPAL
+cCtvmsA77oGruyZxFwycS4QRuY6+SHO7Mi0h5MYO4l31syLfjIdHIJxi32NiaqdO
+SwwL+kmQzb0gtKsr+nZAeiXkqmiAdRaN5N4qPXZt0/i1aSJXMm8D3zlKZLD1xuih
+oDDNGCeSAD6dQMWtdva8Qp0waL/M/PXiH7sUmP0gyNCX3jHm0nKivm2nQixAKYUz
+40pqneD2oYssEB8NLKlfu9gKgyD7WbPdUoivfuhNfsWGfaYDADRO7LPfI0flMQ8w
+EMWJDOnXLqjxNaylEUKtCZR+ZiTuqIdBorI01MiLgHik8QhAQ7nHFymNGJwn7c+0
+143gVnMKmT8G
 -----END CERTIFICATE-----
-subject=/C=ID/ST=Jakarta/L=Jakarta/O=Detikcom/OU=infrastructure/CN=*.detik.com
-issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+subject=/C=ID/L=Jakarta Selatan/O=PT. Trans Digital Media/OU=Infrastructure/CN=*.detik.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte RSA CA 2018
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4196 bytes and written 434 bytes
+SSL handshake has read 4300 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -55,29 +61,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 7AF001F62B2E2EEE86CD9FB00D63E17498F7427E6EFB800B2CFD4763E89E184F
+    Session-ID: AB5A5AE50504CC8FA6AB594A65FD32530505ACFD1D31C33D264387AC6B157A01
     Session-ID-ctx: 
-    Master-Key: 65DE87D2A997C88C53A99B3D3ACBF4BB4D3E554EA1EC78EFBFE073DFBA42EED22164933CA7C166468665F60D9741AB83
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 2DEA123BD444A64397925844B1BD2BCEE5B0CF6B1C72EA9232F76275DEEACDCD7CEABF6C1119DF3C1931E11BCFA91CDA
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - c8 7e 10 ba 3d db 4e 2f-bb 89 4e 03 4c 54 04 02   .~..=.N/..N.LT..
-    0010 - 05 39 88 8a 16 09 1b 3b-d1 e7 32 fe 76 b4 c4 46   .9.....;..2.v..F
-    0020 - bc 38 26 9f 34 d8 1f cd-3c ea b6 0e 4f 18 58 cf   .8&.4...<...O.X.
-    0030 - 0e f7 6b 8b 3f 55 0f a6-24 0a f9 ae 69 aa fc 0b   ..k.?U..$...i...
-    0040 - c5 2c 46 3d 46 14 d2 e4-c6 3c e2 f1 cc 8b 8e c1   .,F=F....<......
-    0050 - 02 29 7c ac c3 5c 8c 95-ad 77 b9 fb 70 60 00 f5   .)|..\...w..p`..
-    0060 - d3 00 50 ca ab 20 f4 79-c7 1a 40 e2 b2 69 fe 2d   ..P.. .y..@..i.-
-    0070 - 84 f7 05 86 98 a3 8e 8d-98 b6 48 b1 6f 0d 07 af   ..........H.o...
-    0080 - 89 e6 48 d2 eb e9 0a 4c-25 95 c0 4f 8f f7 23 9e   ..H....L%..O..#.
-    0090 - e2 39 fc 3d f6 87 9a 0a-c5 44 53 1b 2b 2c b7 f8   .9.=.....DS.+,..
-    00a0 - cd 39 3a 99 ad 1b 8c a8-a6 02 d1 c9 b8 ce 94      .9:............
-    00b0 - <SPACES/NULS>
+    0000 - 88 bc c6 6e d3 0d 5e dc-d1 b8 74 7c 44 41 a3 fb   ...n..^...t|DA..
+    0010 - 55 77 26 33 2f 0f b0 40-14 57 ad 64 9e d1 73 9d   Uw&3/..@.W.d..s.
+    0020 - d0 d0 a4 ba 9f 28 ec 12-ac b7 82 d3 d0 a9 88 8d   .....(..........
+    0030 - 6c 3b 25 5a 4b b0 7c 81-8e f2 54 21 05 14 e2 f7   l;%ZK.|...T!....
+    0040 - 98 d6 18 09 e7 81 12 ff-77 b7 40 35 40 c6 dc 29   ........w.@5@..)
+    0050 - 8d 1b c5 e4 66 d0 00 64-a5 88 24 53 a4 93 d0 69   ....f..d..$S...i
+    0060 - 09 f4 e4 16 ee 4c 65 ee-d3 de cd f1 b9 21 ec 08   .....Le......!..
+    0070 - 9e 31 23 ee 46 18 c6 51-5d d3 ab 69 10 da 27 35   .1#.F..Q]..i..'5
+    0080 - 85 1c 82 4d ea 4f 50 bb-3e ad 5c ff f5 99 fb 22   ...M.OP.>.\...."
+    0090 - 2b 31 14 86 cf dc 69 8a-8b 53 f5 4f df c5 ae c3   +1....i..S.O....
+    00a0 - 3d 99 d7 55 cf 59 ab 2a-15 46 28 c1 9c 49 18 85   =..U.Y.*.F(..I..
 
-    Start Time: 1472788067
-    Timeout   : 300 (sec)
+    Start Time: 1577474829
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

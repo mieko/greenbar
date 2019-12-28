@@ -1,52 +1,57 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=CA/L=San Francisco/O=Grammarly, Inc./CN=*.grammarly.com
-   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
- 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 0 s:/CN=www.grammarly.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFJDCCBAygAwIBAgIQDO6Qf+2UmhNJ3x0/IlSBrDANBgkqhkiG9w0BAQsFADBN
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTYwNzE1MDAwMDAwWhcN
-MTgxMTE0MTIwMDAwWjBmMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNV
-BAcTDVNhbiBGcmFuY2lzY28xGDAWBgNVBAoTD0dyYW1tYXJseSwgSW5jLjEYMBYG
-A1UEAwwPKi5ncmFtbWFybHkuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
-CgKCAQEA6xQ6YicAVlBJuYdsD/HbHoLpc3ZrtGqiL2suujjnQ/osNMon4wKhQ3n+
-Ida40BNoZP3yQffo4KtH/Gf08Z8Gpo2cE6Wt7oW3iCTzgl4M9VrndtG+MirYOSB6
-/F+X2YDkF5vhVXtUsgNtPrE8lX4ubHvc+r+cVnmtZ6vE0m2eoRJ4mmBqWqU0qWXo
-Xlml62TwQgrSfZFAzROP91h3KXgssIe+sJXhBB4o3gdJ2C+K5x0cdVmMn5sXcWHL
-FbxWGWahYsKNK2QwQN3ws5e44R6Y/HwH1XXyv3ZrlslVWq4OSHv7TUsfsw8deKwV
-Y3j+1+eo/06wa6Jt6IvMDIftQ5eC3wIDAQABo4IB5TCCAeEwHwYDVR0jBBgwFoAU
-D4BhHIIxYdUvKOeNRji0LOHG2eIwHQYDVR0OBBYEFF7XVBVXv3edzbHpnKarFoGW
-U/2kMCkGA1UdEQQiMCCCDyouZ3JhbW1hcmx5LmNvbYINZ3JhbW1hcmx5LmNvbTAO
-BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsG
-A1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNo
-YTItZzUuY3JsMC+gLaArhilodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc3NjYS1z
-aGEyLWc1LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIB
-FhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB8BggrBgEF
-BQcBAQRwMG4wJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBG
-BggrBgEFBQcwAoY6aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0
-U0hBMlNlY3VyZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEB
-CwUAA4IBAQAh9uwEwuf/gyGUWTLokqOQhdUGmgNbh49KJM7rjXh80Kg2g9wVYnfL
-Nzkb4q7FEyKRB0CjbnWHH0b5CpswrQBRDh+mhV4LdwfUBvxyTGDYDVm35FQAXsjN
-SfkR7eJMS0xbbfFxNf6FtCYzecx2ZWXjRY2xjyBC+QukSDVI1iGqCO9oPxOiXcUR
-n586H5ubFG2a5WXf+rlCaYC5nqot0cEJNmxSM1v5FHHR659crrhRh2Fc4+eFKs3E
-QTqlqQ3FxVJoJXX2BBRLPQPv3frJwIzWXlc8ji88IdX5gObi9zXnzhDz/wBaDYIc
-U0Qdh4y1cxZZfWq56u2w+M+6p7JMGmyi
+MIIFejCCBGKgAwIBAgIQC27FvmBSVLbN8u55cO4gVjANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTEwMTAwMDAwMDBaFw0yMDExMTAx
+MjAwMDBaMBwxGjAYBgNVBAMTEXd3dy5ncmFtbWFybHkuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnnGyTjKG45+jgA5s4oNpaw1yDGng+UfXDtGV
+MtcfoOnc11B+mInwYuhaaPakaz/++AiE57ePBzVrvSGIpMQbncEuJqAWYxYT0dQs
+sr9TE1RHqM15W/UjB7Fb3C9p9WaVY1UpmXZsce6hGgESU16+lGkNyG9j8ZPRbQB4
+bRFf1yipWFFhvwLgbRBIbHlwuI4bMwR1vWHNJQDtGe966S2u50HF7MWMCwgGIOa+
+HORvo6BHKIUp1yx3FkGy4cTw5FGspX2mxBILHdlL1lHM7fUzrpwXxZt5dShOIMb8
+vpd4fM918asJW+DfkLRdEkm7NQ5Fo/SaJXTr0EHKclEiBkQACwIDAQABo4ICjDCC
+AogwHwYDVR0jBBgwFoAUWaRmBlKge5WSPKOUByeWdFv5PdAwHQYDVR0OBBYEFInG
+u5+vgbJ29JPpFe4plwyisYoRMCsGA1UdEQQkMCKCEXd3dy5ncmFtbWFybHkuY29t
+gg1ncmFtbWFybHkuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5zY2Ex
+Yi5hbWF6b250cnVzdC5jb20vc2NhMWIuY3JsMCAGA1UdIAQZMBcwCwYJYIZIAYb9
+bAECMAgGBmeBDAECATB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6
+Ly9vY3NwLnNjYTFiLmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDov
+L2NydC5zY2ExYi5hbWF6b250cnVzdC5jb20vc2NhMWIuY3J0MAwGA1UdEwEB/wQC
+MAAwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgC72d+8H4pxtZOUI5eqkntHOFeV
+CqtS6BqQlmQ2jh7RhQAAAW2zMVIJAAAEAwBHMEUCIQCeFFWnjjfEMhlT7Wuxm/a3
+f09pEpYSHuB6s4sxAlzmQAIgFQcRTG18Z1NYCyHOpSJWQhg3A7/Sz3FmbZ/pUKwR
+RLcAdgCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAW2zMVJuAAAE
+AwBHMEUCIQCwSeklYFdz0MtsSG1pp0C4QG9JDQUwHO9hUEjYs/nNggIgbON7+mb2
+eNiFkcVdZ/dhX1qiI7PhbiSPiib06IrG74EwDQYJKoZIhvcNAQELBQADggEBAFth
+3PmtqVOfwbx8QBUPZ/S43cYozq65IcQyMRIlFSht+ObBKYgNvqKgBFmiSSB9VUjx
+aXPif8TfULKWPzgJyme8ToI68yEJLfZWMANuPQkk10mlvWItLc1a4xwN6lZ7FUoK
++Db/lSbK1t+MAROzelq/GGaPT5vXIXmikOnRABf1y2LW+UP32pwCiKE9M0BMJaSz
+JwYiJE4BbModKz9HeKrY7GqlNryWRekoTzl5JXwqd2dk8VM179KBS0YwuY0KgpLB
+XXgvqt3+D9cN5+O1w4jSHvVigjP/BJw/hbwTivaSbFhij2uM88IG9x9kQKE2BmK8
+o4I4ROMz+7Dn5FbBAjU=
 -----END CERTIFICATE-----
-subject=/C=US/ST=CA/L=San Francisco/O=Grammarly, Inc./CN=*.grammarly.com
-issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+subject=/CN=www.grammarly.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3170 bytes and written 430 bytes
+SSL handshake has read 5505 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-RC4-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -54,29 +59,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-RC4-SHA
-    Session-ID: 1DDBC03B343CE7838C4112BC7EBFA1C0D5DF3CE7F78FD8CB79327C6CA71F37D1
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 3827F4C02E69A5BE4A1F0B54999A550C90B59EE63598D3B34E3B9A2815D79DDF
     Session-ID-ctx: 
-    Master-Key: 4334D0F553022A46A0E941F176C244D67BDA8B070A5567C5C7E7575C64088E04BEAA4E8FAEB37CB3A3EF4E66E891BC15
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 600 (seconds)
+    Master-Key: 1B8198B80D816C76A768FB2D6E169F0773EFD1D0896CF7087D6AE18BEC974136CF2FF645E9EDC188B8220F79B84E8182
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - f0 ff 49 5c 20 f9 54 5a-c0 61 f8 3d 0a 56 aa 43   ..I\ .TZ.a.=.V.C
-    0010 - 1f da f2 97 9f d0 8b a7-4a ca 8b 1e 9c 8a 1b a6   ........J.......
-    0020 - 16 0d 72 84 44 42 98 53-47 37 fa 41 9c 1c 9f 0d   ..r.DB.SG7.A....
-    0030 - 72 7e 08 de 14 69 68 a1-0b 62 66 f4 f6 db 7e 71   r~...ih..bf...~q
-    0040 - e5 d7 90 fa e2 a1 d5 c1-e5 93 55 f7 de 6e 01 83   ..........U..n..
-    0050 - 85 ab f4 84 47 2d 7c 4c-68 58 ad 17 27 f6 77 40   ....G-|LhX..'.w@
-    0060 - 3a 3e 73 d5 e0 98 eb 91-4d 6c 8b 20 21 ad 0a 0e   :>s.....Ml. !...
-    0070 - 3f bc cb 75 53 cf ce 2b-18 6e 4b b8 a8 62 1a 92   ?..uS..+.nK..b..
-    0080 - 5b a5 27 fa d5 c0 61 ef-aa 28 85 de f0 af 2b 8b   [.'...a..(....+.
-    0090 - bd 54 63 a2 e8 09 59 eb-f4 e5 bc e7 e3 bf 1e 0d   .Tc...Y.........
-    00a0 - f5 be 6b 70 8d 14 3e 8d-b0 9c 11 bb 36 cb d0 e9   ..kp..>.....6...
+    0000 - fd 1a 96 cd 93 cb 28 8a-cc 39 a8 f2 06 4f 8f 6e   ......(..9...O.n
+    0010 - f2 87 93 b8 54 ad 97 a9-0b 7e d8 c8 55 0a 1c 85   ....T....~..U...
+    0020 - 40 87 54 7d ef 0a b1 27-e2 9d a4 88 15 cd 54 26   @.T}...'......T&
+    0030 - f7 ae 2a 1c 27 23 72 8b-73 b6 4c 59 1b 5b 55 52   ..*.'#r.s.LY.[UR
+    0040 - eb 54 a6 e6 28 73 30 c6-39 d8 00 49 b9 c3 69 9b   .T..(s0.9..I..i.
+    0050 - e9 32 af 64 43 a3 93 3d-d1 f0 2d 6c 3a d0 35 8a   .2.dC..=..-l:.5.
+    0060 - cb 91 f9 37 f5 e3 01 54-67 51 32 40 ed 39 73 09   ...7...TgQ2@.9s.
+    0070 - 51 b6 d5 43 d9 5f cf eb-ce 8e f4 b9 0a 69 13 e5   Q..C._.......i..
+    0080 - d8 cb 21 b4 e2 45 7a 0e-25 73 e0 c3 93 1d 27 1e   ..!..Ez.%s....'.
+    0090 - f5 92 5b 17 05 5e 1b 9a-60 e0 f0 5d b8 0e b5 40   ..[..^..`..]...@
+    00a0 - a0 62 be 5d d7 34 c2 85-42 fa b3 41 82 a9 40 bb   .b.].4..B..A..@.
 
-    Start Time: 1472789705
-    Timeout   : 300 (sec)
+    Start Time: 1577474897
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

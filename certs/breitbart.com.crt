@@ -1,81 +1,62 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=California/L=Santa Monica/O=EdgeCast Networks, Inc./CN=gp1.wac.edgecastcdn.net
-   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
- 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.breitbart.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIKlTCCCX2gAwIBAgIQDuOhV9XPgDw+p0Zgt7QsJzANBgkqhkiG9w0BAQsFADBN
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTUxMTI0MDAwMDAwWhcN
-MTkwMjIwMTIwMDAwWjB9MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
-YTEVMBMGA1UEBxMMU2FudGEgTW9uaWNhMSAwHgYDVQQKExdFZGdlQ2FzdCBOZXR3
-b3JrcywgSW5jLjEgMB4GA1UEAxMXZ3AxLndhYy5lZGdlY2FzdGNkbi5uZXQwggEi
-MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDSuLkvl5ZtCb7EsdV1O8dmL2Du
-IOjucqoi2Qqa3HqW0FHh9C2v/HY3J5BHqTDKQex0iNZMnNqMwrsnlqyYAmKyAmoD
-k/5A8shjeyH2XJ3OfKDnAsxI9lKvZAhFGolHfsVqhlbPKYJRhZT3hAyPLCDsTbam
-sd1OApPcy/jnS2EBVwSTFJ8EUoT5eKReDmml08noBXTkun5xR4Kyv+nOwuXCXBZt
-0JYl4SKrxXuUdjHKyCtUlnzlaPIrstFr2AhYgFMagDh1H6QJ7NoBogimyoA7d641
-ALUd93KiFCsxW6gY8zWt9pN5mkhqFF9SPcPxA5UkKBBGQq4JflCtFiA5NGZhAgMB
-AAGjggc/MIIHOzAfBgNVHSMEGDAWgBQPgGEcgjFh1S8o541GOLQs4cbZ4jAdBgNV
-HQ4EFgQUS4WjsEjg+69m8/g6HcKlqJ/Rzs4wggWBBgNVHREEggV4MIIFdIIXZ3Ax
-LndhYy5lZGdlY2FzdGNkbi5uZXSCE3dhYy5lZGdlY2FzdGNkbi5uZXSCFm5lLndh
-Yy5lZGdlY2FzdGNkbi5uZXSCDXN3Zi5taXhwby5jb22CFWNkbi50cmFjZXJlZ2lz
-dGVyLmNvbYIOcy50bW9jYWNoZS5jb22CEXMubXkudG1vY2FjaGUuY29tgg1lMS5i
-b3hjZG4ubmV0gg1lMi5ib3hjZG4ubmV0gg1lMy5ib3hjZG4ubmV0ghFzdGF0aWMu
-d29vcHJhLmNvbYIXYXNzZXRzLXNlY3VyZS5yYXpvby5jb22CDGVjLnBvbmQ1LmNv
-bYIVaW1hZ2VzLmVzZWxsZXJwcm8uY29tgg91c2UudHlwZWtpdC5jb22CEXN0YXRp
-Yy5pc2VhdHouY29tghVzdGF0aWMud3d3LnR1cm50by5jb22CGGlucGF0aC1zdGF0
-aWMuaXNlYXR6LmNvbYIXc2VjdXJlLmF2ZWxsZWFzc2V0cy5jb22CEHN0YXRpYy5k
-dWJsaS5jb22CE2NkbjEuZmlzaHBvbmQuY28ubnqCFGNkbjEuZmlzaHBvbmQuY29t
-LmF1ghJjZG4ub3B0aW1pemVseS5jb22CEGNkbi53aG9pcy5jb20uYXWCF25lMS53
-YWMuZWRnZWNhc3RjZG4ubmV0ghdnczEud2FjLmVkZ2VjYXN0Y2RuLm5ldIITZWRn
-ZWNhc3Qub25lZ3JwLmNvbYILY2RuLnBzdy5uZXSCDmNkbi5nYWdnbGUubmV0gg5m
-YXN0LmZvbnRzLmNvbYISZWMueG5nbG9iYWxyZXMuY29tgg9pbWFnZXMudnJiby5j
-b22CEGNkY3NzbC5pYnNydi5uZXSCEHBsYXllci52emFhci5jb22CFGZyYW1lZ3Jh
-YnMudnphYXIuY29tghB0aHVtYnMudnphYXIuY29tghFjb250ZW50LmFxY2RuLmNv
-bYIWY29udGVudC5lYmdhbWVzLmNvbS5hdYIVY29udGVudC5lYmdhbWVzLmNvLm56
-ghRpbWFnZXMuYWxsc2FpbnRzLmNvbYITY2RuMi1iLmV4YW1pbmVyLmNvbYIMY2Ru
-LnRydGsubmV0gh5lYy5kc3RpbWFnZS5kaXNwb3NvbHV0aW9ucy5jb22CF3dlbGNv
-bWUyLmNhcnNkaXJlY3QuY29tghJzMS5jYXJkLWltYWdlcy5jb22CD3VwZGF0ZS5h
-bG90LmNvbYISd3d3Lm91dHN5c3RlbXMuY29tghB3d3cuZHJ3bWVkaWEuY29tgg5j
-ZG4udGF4YWN0LmNvbYIUY2RuLnRheGFjdG9ubGluZS5jb22CDmNkbi4yMDA1ODEu
-Y29tgg1pbWcudnhjZG4uY29tggxqcy52eGNkbi5jb22CEnd3dy5jbG91ZHdvcmRz
-LmNvbYIVaW1hZ2VzLnNraW5jYXJlcnguY29tghJzc2wuY2RuLXJlZGZpbi5jb22C
-EGNkbi5mb3h5Y2FydC5jb22CDnNzbC5ib296dHguY29tgg1wLnR5cGVraXQubmV0
-gg91c2UudHlwZWtpdC5uZXSCFGNkbi50aGV3YXRlcnNoZWQuY29tgh1iMmJwb3J0
-YWwuZGlzbmV5bGFuZHBhcmlzLmNvbYIiYjJicG9ydGFsLmRpc25leXRyYXZlbGFn
-ZW50cy5jby51a4ISYXNzZXRzLnplbmRlc2suY29tggxhLmNkbmtpYy5jb22CDHMu
-Y2Rua2ljLmNvbYISY2RuLmNhcnRyYXdsZXIuY29tghNzZWN1cmUuMzNhY3Jvc3Mu
-Y29tghhzdGF0aWMudGVhbXRyZWVob3VzZS5jb22CEHd3dy5lZGdlY2FzdC5jb20w
-DgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBr
-BgNVHR8EZDBiMC+gLaArhilodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1z
-aGEyLWc1LmNybDAvoC2gK4YpaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Et
-c2hhMi1nNS5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcC
-ARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwfAYIKwYB
-BQUHAQEEcDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20w
-RgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2Vy
-dFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0B
-AQsFAAOCAQEADWeNZ3peh1msNSzTsa7+CylKZz+5g76hNAsOiFyQK2dHvWjO7ubT
-SMfdn9gcD0n76en5DDS2juXI+Ze8G73+/kn+pcuMKCdEajBRTcNEfIvLGpbu0szb
-vEBU8th17EitoubXiDOEHqhhobheK90ThbT4+dSxFWVmB5WrDvm5UPFdGfclfER2
-ohTL9aMh+52oeE0lhKaN3PyPQh7Fi8TRgKoWgtk070rbXBpguxMjmiK0oFXcat/7
-vdGIAsZsKM9m/Onfr7snRk5srgk/LrdXo+8oJBpAA5f9+dWu8vmf3UNwICfwuPLy
-mGcVUW/ROCVwIl0gf4/JaYUgjIjBk3q6AQ==
+MIIG1zCCBb+gAwIBAgIRANY3hk8w2bENg6jY1O16FxEwDQYJKoZIhvcNAQELBQAw
+gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
+VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
+Q0EwHhcNMTgwNjI4MDAwMDAwWhcNMjAwNjI3MjM1OTU5WjBcMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxHTAbBgNVBAsTFFBvc2l0aXZlU1NMIFdp
+bGRjYXJkMRgwFgYDVQQDDA8qLmJyZWl0YmFydC5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDaEjZkRSP6+S64KHcy4YgAwtwh5D7voBWi1su2uHH+
+Pm2DkJaYGiLOMCqhnsMmPWcV3HNwWHkZNixkkZ/lbS0CJZafv+Drcu2TVesvT/ka
+83om85y0jkT2VrShaJPCX3lzjT97dy3+gxgPCJLDcl71GBgN/N+b+E0sV6LIbgmw
+zAQh69BWllqwd1o/WqDHYGupYkTSjxoB/rbhmZaao4PPEJhkd8YDFXDACAlZFaV5
+oSGL4XMgkjr/SnNa1qwg5UNzLM5BC4Iez82/y/oD2CLP3IYVRbiPRgoXQTClK6GG
+QIZHVSRqlobicKPTVr6/SqLRJAJwhBtXk51z33XNq275AgMBAAGjggNdMIIDWTAf
+BgNVHSMEGDAWgBSQr2o6lFoL2JDqElZz30O0Oija5zAdBgNVHQ4EFgQUqGXO5UBV
+Gyw/AMKng3z6lF6ChTMwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYBBAGy
+MQECAgcwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9D
+UFMwCAYGZ4EMAQIBMFQGA1UdHwRNMEswSaBHoEWGQ2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL0NPTU9ET1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5j
+cmwwgYUGCCsGAQUFBwEBBHkwdzBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5jb21v
+ZG9jYS5jb20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNB
+LmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMCkGA1Ud
+EQQiMCCCDyouYnJlaXRiYXJ0LmNvbYINYnJlaXRiYXJ0LmNvbTCCAX4GCisGAQQB
+1nkCBAIEggFuBIIBagFoAHYA7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo
+/csAAAFkRaeiZgAABAMARzBFAiEA0vEhRwnq0Dzbwhg/631cb6ByHJqjH97X1+dT
+gY4FD8UCICDz21z4yT7lNAPmXFU+LVqyj5nWDTRWZ9mIpvHALSyvAHYAXqdz+d9W
+wOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVgAAAFkRaekUAAABAMARzBFAiEA0Cg+
+LZydtmk3LDDXOwAvkXWzuXaXX6sXuv53nt4vtawCICBq+j0w90MsYrJEDqDuj3Vk
+TaZMpAL0JBE7qJlntYsgAHYAVYHUwhaQNgFK6gubVzxT8MDkOHhwJQgXL6OqHQcT
+0wwAAAFkRaeihQAABAMARzBFAiAKX8VAPh2CRB2AyB+9C4VAGI8zIRLqVZk1NUdd
+lrfWKAIhAKZ9wqJonSsn4x+4kjtc965NLgvadG4vjc/d23j3kzRZMA0GCSqGSIb3
+DQEBCwUAA4IBAQB+veW74+9q3u46I3dZS/pcpONYkGgQ5gWH5yO4nhrJPIGPlIeO
+C1fJPhO08cJ8NUZYCmUkXtFnM0PFYpIINuJleJ33j3a7fAJFIlPjDu/zsfqUOoqd
+O80c69q20uIP/uGllzH6vAJZxS5MoJjNpEJ7m6SSkbqNSoPTLjPDVpbzynCvK+xz
+bdDn+vr/40bRLh5KvJKDVRuQjA4PZ0hkBKdhIrmFDTOigjQC8FK5wIYHUTpxlCHO
+8/nz3Fo9T3pizj/z2vynWYF6zfpu93gu/Q8ucxG1Sr+poAQkIjnBDlp36HmtUr8A
+FctY/SFQrhxBj6IIVagjuihLyIVfSg9yOM3H
 -----END CERTIFICATE-----
-subject=/C=US/ST=California/L=Santa Monica/O=EdgeCast Networks, Inc./CN=gp1.wac.edgecastcdn.net
-issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+subject=/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.breitbart.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4551 bytes and written 434 bytes
+SSL handshake has read 5373 bytes and written 281 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -83,28 +64,28 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 643341BC3F0C4283D1DBB8596C259E45FCA53D9B73E13C512E22BFA07FD8A164
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 666F5ECC9D818E71D51E998C91512013F2E8E7B3FA4C29280E1768763576D2DA
     Session-ID-ctx: 
-    Master-Key: F5197BABEC871E3990A17C4B2A9E8DF48581FAC0849D8A80150B0D37EE6C62C927C3FE7E79EFAC2EAEFF3910055593B6
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: E085F776D65FC245B6050FF35FA7DA9116EE43AF6AFEC87F2C1BF41B328C0431FED80B719BC7D6D3CE560E7A63EBF4D0
+    TLS session ticket lifetime hint: 100800 (seconds)
     TLS session ticket:
-    0000 - 28 a0 02 ec fa ef 92 5e-9b 4e ad ca f5 1c 23 b5   (......^.N....#.
-    0010 - 16 d2 8c a4 55 d8 9d d3-ac 28 31 8e e3 4a 4b 2d   ....U....(1..JK-
-    0020 - e2 2f c7 b6 b6 cf 79 b0-bb 4c c8 12 79 b9 a3 00   ./....y..L..y...
-    0030 - 49 77 ac 99 c5 22 8a c4-3b 70 c7 49 63 10 a9 02   Iw..."..;p.Ic...
-    0040 - 47 0f ff cd 45 95 8d 90-e5 45 98 02 13 b6 22 85   G...E....E....".
-    0050 - cc 13 69 44 ea 8d ed 56-19 7b 18 94 c7 60 5d f2   ..iD...V.{...`].
-    0060 - eb c4 0d 4f 82 61 fb 51-4f 80 7f ab 34 fb 0b d5   ...O.a.QO...4...
-    0070 - c3 26 a6 99 c2 6d 81 60-01 6d c9 c0 01 9f 8b bf   .&...m.`.m......
-    0080 - 66 87 39 84 fe d1 33 e3-a4 e3 47 6a 1d a2 1c d6   f.9...3...Gj....
-    0090 - c9 38 fa af fa e4 f8 fb-a0 54 b0 81 e7 50 38 bd   .8.......T...P8.
+    0000 - 00 6c 3f f8 bb 37 03 74-3a 29 71 d1 47 4e 7b b9   .l?..7.t:)q.GN{.
+    0010 - 3d 0a 6a d8 2c c9 8b 86-7f d0 0b 1c 14 1f bd 42   =.j.,..........B
+    0020 - ec b3 98 c4 31 4f 81 e6-2e 8c 1a 93 fe 19 95 03   ....1O..........
+    0030 - e2 0c d8 d3 28 4f 82 91-20 da bf 33 e9 36 2d 29   ....(O.. ..3.6-)
+    0040 - d6 e5 50 0f d5 76 c7 e0-28 8e ea d6 19 1f 56 36   ..P..v..(.....V6
+    0050 - 6a 01 44 8d 02 2a d7 8d-0e 99 6a 73 e7 76 7b 9b   j.D..*....js.v{.
+    0060 - 5f 2d 1c dd 64 ee 8e 6b-e2 be 40 18 82 ac e1 aa   _-..d..k..@.....
+    0070 - ac 4c 5b c7 74 46 64 b4-9b e8 15 ca 08 29 cd 7e   .L[.tFd......).~
+    0080 - c4 9e 8b 78 72 ce 7f 50-2e ff e4 83 8a 6d 7e 99   ...xr..P.....m~.
+    0090 - 7d 64 c9 39 b9 55 b7 1f-da c3 76 7f f8 6b 1e 0e   }d.9.U....v..k..
+    00a0 - 24 c0 3b e7 1e 68 7e 5b-c9 45 90 91 1e 70 3b cb   $.;..h~[.E...p;.
+    00b0 - 49 b7 9e 40 09 ac 0e 55-d9 03 3c 5f 43 02 a4 f1   I..@...U..<_C...
+    00c0 - e8 46 22 4f e8 f1 fe f1-bd 14 1b 7c fa 45 b9 21   .F"O.......|.E.!
+    00d0 - 03 57 5e 30 33                                    .W^03
 
-    Start Time: 1472788836
-    Timeout   : 300 (sec)
+    Start Time: 1577474958
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

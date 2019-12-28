@@ -1,61 +1,82 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=US/ST=New York/L=New York/O=Gawker Media, LLC/CN=*.gawker.com
-   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
- 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
-   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
- 2 s:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+ 0 s:/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=univision.map.fastly.net
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
    i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGvzCCBaegAwIBAgIMGyqVlH19y6KdhCvKMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
-BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
-bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
-RzIwHhcNMTYwNTE3MTM0MzQ0WhcNMTcwMzEyMTc0NTE1WjBmMQswCQYDVQQGEwJV
-UzERMA8GA1UECBMITmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMRowGAYDVQQK
-ExFHYXdrZXIgTWVkaWEsIExMQzEVMBMGA1UEAwwMKi5nYXdrZXIuY29tMIIBIjAN
-BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr8O5RQ99/tJojjHPbdBNJfr1t0Pb
-oLWEDkxkXn2QvtIXqh5gdOj3NH56V+SM3kki2Vj0Q7Sq7nfDIwzz7es3aMGVTQw5
-Y2IcVaggbEF2lALZc/YfFsonRA/2RUFN9fE3qrcedaVD0QfQq2xsvXJSIxBlmT9J
-JypcMfs/SzPucvzg35IUQq2EkN8olZSw4bQtvtNGI4uG6CHnsCK52j9t3ucTbtq4
-HD9fct89oBJKImKfjdaIm9kkzqZAmJ1cXVkBzj2I4uA/hH2uJsbcaod4ya0F+gE4
-+8/25/hkOzHS4waFqx187tQyCJoH7iHbZIh7im0HjvBuVWZ45TVIhiIwAQIDAQAB
-o4IDazCCA2cwDgYDVR0PAQH/BAQDAgWgMIGgBggrBgEFBQcBAQSBkzCBkDBNBggr
-BgEFBQcwAoZBaHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQvZ3Nv
-cmdhbml6YXRpb252YWxzaGEyZzJyMS5jcnQwPwYIKwYBBQUHMAGGM2h0dHA6Ly9v
-Y3NwMi5nbG9iYWxzaWduLmNvbS9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMjBWBgNV
-HSAETzBNMEEGCSsGAQQBoDIBFDA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5n
-bG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAIBgZngQwBAgIwCQYDVR0TBAIwADBJ
-BgNVHR8EQjBAMD6gPKA6hjhodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29tL2dzL2dz
-b3JnYW5pemF0aW9udmFsc2hhMmcyLmNybDCCAaMGA1UdEQSCAZowggGWggwqLmdh
-d2tlci5jb22CDiouZGVhZHNwaW4uY29tghEqLmdhd2tlci1sYWJzLmNvbYISKi5n
-YXdrZXJhc3NldHMuY29tghEqLmdhd2tlcm1lZGlhLmNvbYINKi5naXptb2RvLmNv
-bYIOKi5qYWxvcG5pay5jb22CDSouamV6ZWJlbC5jb22CDyoua2luamEtaW1nLmNv
-bYISKi5raW5qYS1zdGF0aWMuY29tggsqLmtpbmphLmNvbYIMKi5rb3Rha3UuY29t
-ghAqLmxpZmVoYWNrZXIuY29tggxkZWFkc3Bpbi5jb22CD2dhd2tlci1sYWJzLmNv
-bYIQZ2F3a2VyYXNzZXRzLmNvbYIPZ2F3a2VybWVkaWEuY29tggtnaXptb2RvLmNv
-bYIMamFsb3BuaWsuY29tggtqZXplYmVsLmNvbYINa2luamEtaW1nLmNvbYIQa2lu
-amEtc3RhdGljLmNvbYIJa2luamEuY29tggprb3Rha3UuY29tgg5saWZlaGFja2Vy
-LmNvbYIKZ2F3a2VyLmNvbTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
-HQYDVR0OBBYEFIpvKk2gwg0Dgl6aKdHpMpj+BrvAMB8GA1UdIwQYMBaAFJbeYfG9
-HBYpUxzAzH07gwBA5hp8MA0GCSqGSIb3DQEBCwUAA4IBAQAcqbZeL0TrCRy0Y3rS
-/TQv22885BV1B8R64vhI71DuMXEMXWF4TBBLcvqs5zVEQBPSeS3QVH55+HDKxdjZ
-3n99ZVeuFQu86n8VnaiCJm5pTmATzh77eYYrMWRA0uYxl83bl2/aCHqTNpLJ/JBG
-0Zep8Eib7vT45bbtvjePqySnkBjRjEwYUucWSFmDzfDZ6CQOWx8QAl5FwEPnBY/S
-vI3HKVOVme2gOmBMPkBDyEaSZ5dOaDffUl4NfX2ENtGOGDfYP91GPIq+NDlfYETh
-QzOMIyYk0gbXtz0aq1vfbdiU+tfOt3GxlD2Ph6wiEFr7UXnx3Bx7PvMb4DFTxQGa
-7xGJ
+MIILPjCCCiagAwIBAgIMdtZqS9Il3ixqNOIBMA0GCSqGSIb3DQEBCwUAMFcxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMS0wKwYDVQQDEyRH
+bG9iYWxTaWduIENsb3VkU1NMIENBIC0gU0hBMjU2IC0gRzMwHhcNMTkwNzExMjM1
+MDE2WhcNMjAwNzExMjM1MDE2WjB0MQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2Fs
+aWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzEVMBMGA1UECgwMRmFzdGx5
+LCBJbmMuMSEwHwYDVQQDDBh1bml2aXNpb24ubWFwLmZhc3RseS5uZXQwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDZiwFPlCa21MUgVnsq8xgIIeRSXy0M
+ZQk6CyTyKU9xroYPKQgzLbMFvvcV2wIzqdQp5/RL5VSuqmJ6B0FPURZp2NRSbrK5
+xiMsii2PMFadzMbfk3L7B5ByVFWkZbKbM2eTOXwh4/9e/PUKfrSSmsHjyK+H7Ab/
+9w0gyDeqlA0k6dWCHnODdnaBFyscsb84z3Le3MvaE0vmJS52e86fgtZZAaHnPN2S
+7dmBptYOtkF5KlLAP5G3SiwNIc2vzeqSpRiJbpWbiwgoi0HWdQzlIoWMgPYUO8p3
+IA0XeaSSGnuV6aJj1OZILqvVr+UlAhRxZGcK2ZfzGkzoYr2kunDFmHhtAgMBAAGj
+ggfrMIIH5zAOBgNVHQ8BAf8EBAMCBaAwgYoGCCsGAQUFBwEBBH4wfDBCBggrBgEF
+BQcwAoY2aHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQvY2xvdWRz
+c2xzaGEyZzMuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIuZ2xvYmFsc2ln
+bi5jb20vY2xvdWRzc2xzaGEyZzMwVgYDVR0gBE8wTTBBBgkrBgEEAaAyARQwNDAy
+BggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9y
+eS8wCAYGZ4EMAQICMAkGA1UdEwQCMAAwggV8BgNVHREEggVzMIIFb4IYdW5pdmlz
+aW9uLm1hcC5mYXN0bHkubmV0ggwqLmF2Y2x1Yi5jb22CFSouYmxvZ3MudW5pdmlz
+aW9uLmNvbYITKi5jYXVzZWFuZGVmZmVjdC5mbYIJKi5jaW5rLmh1gg8qLmNsaWNr
+aG9sZS5jb22CDiouZGVhZHNwaW4uY29tgg0qLmVhcnRoZXIuY29tgg0qLmdpem1v
+ZG8uY29tggwqLmdpem1vZG8uZXOCDCouZ2l6bW9kby5pboIJKi5pbzkuY29tgg4q
+LmphbG9wbmlrLmNvbYINKi5qZXplYmVsLmNvbYISKi5raW5qYS1lbWJlZHMuY29t
+gg8qLmtpbmphLWltZy5jb22CECoua2luamEtbGFicy5jb22CEioua2luamEtc3Rh
+dGljLmNvbYILKi5raW5qYS5jb22CEioua2luamFzdGFnaW5nLmNvbYIMKi5rb3Rh
+a3UuY29tghAqLmxpZmVoYWNrZXIuY29tghEqLm9uaW9uc29jaWFsLmNvbYISKi5v
+bmlvbnN0dWRpb3MuY29tghEqLnBhdHJpb3Rob2xlLmNvbYIRKi5wcm9qZWN0ZWFy
+dGgudXOCGSouc3BlY2lhbHByb2plY3RzZGVzay5jb22CEiouc3BsaW50ZXJuZXdz
+LmNvbYIQKi5zdXBwZXJjbHViLm5ldIIPKi50ZXN0a2luamEuY29tggwqLnRoZWZt
+Zy5jb22CEioudGhlaW52ZW50b3J5LmNvbYIOKi50aGVvbmlvbi5jb22CDSoudGhl
+cm9vdC5jb22CECoudGhldGFrZW91dC5jb22CDyoudG9kb2JpZW4uY2x1YoIQKi50
+cmFja3JlY29yZC5teIIRKi50cmFja3JlY29yZC5uZXSCDyoudW5pdmlzaW9uLmNv
+bYIWKi52ZXJ5c21hcnRicm90aGFzLmNvbYIKYXZjbHViLmNvbYIRY2F1c2VhbmRl
+ZmZlY3QuZm2CB2NpbmsuaHWCDWNsaWNraG9sZS5jb22CDGRlYWRzcGluLmNvbYIL
+ZWFydGhlci5jb22CDWdpem1vZG8uY28uaW6CC2dpem1vZG8uY29tggpnaXptb2Rv
+LmVzggpnaXptb2RvLmluggdpbzkuY29tggxqYWxvcG5pay5jb22CC2plemViZWwu
+Y29tggdqemViLmNvghBraW5qYS1lbWJlZHMuY29tgg1raW5qYS1pbWcuY29tghBr
+aW5qYS1zdGF0aWMuY29tgglraW5qYS5jb22CEGtpbmphc3RhZ2luZy5jb22CCGtv
+dGFrLnVzggprb3Rha3UuY29tghBsaWZlaGFja2VyLmNvLmlugg5saWZlaGFja2Vy
+LmNvbYINbWFsYWNrYXJhai5odYIJb25pb24uY29tgg9vbmlvbnNvY2lhbC5jb22C
+EG9uaW9uc3R1ZGlvcy5jb22CD3BhdHJpb3Rob2xlLmNvbYIPcHJvamVjdGVhcnRo
+LnVzghdzcGVjaWFscHJvamVjdHNkZXNrLmNvbYIHc3BsaS5jb4IQc3BsaW50ZXJu
+ZXdzLmNvbYITc3R1ZGlvYXRnaXptb2RvLmNvbYIOc3VwcGVyY2x1Yi5uZXSCDXRl
+c3RraW5qYS5jb22CCnRoZWZtZy5jb22CDHRoZWlucHV0LmNvbYIQdGhlaW52ZW50
+b3J5LmNvbYIMdGhlb25pb24uY29tggt0aGVyb290LmNvbYIOdGhldGFrZW91dC5j
+b22CDXRvZG9iaWVuLmNsdWKCDnRyYWNrcmVjb3JkLm14gg90cmFja3JlY29yZC5u
+ZXSCDXVuaXZpc2lvbi5jb22CFHZlcnlzbWFydGJyb3RoYXMuY29tMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBSpK4fhziRHOxu/z4U3
+AlWdDZRY5jAdBgNVHQ4EFgQUxyEwgVvvcr42CcpjdiVBE3uh3PQwggEEBgorBgEE
+AdZ5AgQCBIH1BIHyAPAAdgDuS723dc5guuFCaR+r4Z5mow9+X7By2IMAxHuJeqj9
+ywAAAWvjcdoSAAAEAwBHMEUCIDInuWu5kqB8o6CfC/GkFkVRvsQ0UaayTC/KR+zU
+I/mmAiEAtbuP/1evtg2OtKXKaqC/pmzhrA7EffF+Evm6mBgBDDgAdgCHdb/nWXz4
+jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAWvjcd0uAAAEAwBHMEUCIQCiZJxc
+QJpcdDpGfQwhvxzM4izLWd7+PXMxoFr5heGqPwIgNMY5Y281r6lOko3BJESduoRG
+djZxG9Hch8icv3Kj8wcwDQYJKoZIhvcNAQELBQADggEBACTuQf+y/ynrPq1a8bJo
+LGI28JknYTSwR0eGz4eecNmh9oXSvNcLewb024KlI7wIXWsU8K5Gd7f5YdCnlCou
+zoafGR6xa52fjHFbEHHLfg+5Py6otM5dkWX6ZQpgwx3Fu+qzdoLgzKN64PJ1Blu/
+exa5FqYe0Kl2ezUAKV68uEY/rh+t6ViwwT9Rmu88A6+rzlP3iWQEc0nET1M5d6Zi
+I4ukiAECDHBIaFG5bCD9g5NQUR5KJlazwi+9yJvVM9hqohoyJnKT79JkTMs/alj+
+KmSTOJrfB6OUVw7gKIXtlGdye0vPoF54UVlmcCfm2MFH4kMClrGUrxePhvLp1v7D
+PyY=
 -----END CERTIFICATE-----
-subject=/C=US/ST=New York/L=New York/O=Gawker Media, LLC/CN=*.gawker.com
-issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+subject=/C=US/ST=California/L=San Francisco/O=Fastly, Inc./CN=univision.map.fastly.net
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4418 bytes and written 434 bytes
+SSL handshake has read 4673 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -66,27 +87,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: A09134A7A9DCDF87E211D2436B645A62F10D769C6781C28BE3A122ECA759CC84
+    Session-ID: F1A6732DA18B03E4056D838E55EAE912961FDABBCF88CC5B851F35376C1C3DB2
     Session-ID-ctx: 
-    Master-Key: 26E496575FDE5EE8415956CDDCD99C436C6A22254302FCF5864DFA721124B98DB771F883045DB12EAA508647C965FCB4
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 1200 (seconds)
+    Master-Key: DB31EE489F4B07B25258FE1F1622008130F1C343FAF7906973BCF66205BD9C5D08075E1F37DFFE533A222665D84FA4AB
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 63 cc 77 4a 00 db 2c 42-2e 8f 76 23 dd a9 ae 53   c.wJ..,B..v#...S
-    0010 - 55 a5 30 cf 99 45 52 e0-f4 6a bc 60 e1 ce 4a 0e   U.0..ER..j.`..J.
-    0020 - 22 5d fb 67 85 94 c9 2c-b3 37 7b f1 19 b3 f1 46   "].g...,.7{....F
-    0030 - 25 15 ad 29 d9 74 13 2a-8c 47 e4 6c bd 84 f8 17   %..).t.*.G.l....
-    0040 - 16 1d 41 80 44 72 69 11-ba b0 e4 fe 56 39 e1 89   ..A.Dri.....V9..
-    0050 - b2 01 bb 62 70 4d 4f 1e-05 df 6a 86 48 92 5e 8a   ...bpMO...j.H.^.
-    0060 - 5d 95 93 20 4e 7b 5f 44-3b 70 fd ab be ec 22 1f   ].. N{_D;p....".
-    0070 - 58 0f 4e 14 59 6d 52 96-66 e3 a9 5c fd fc 66 52   X.N.YmR.f..\..fR
-    0080 - 2b 2f 78 b3 8d e9 30 2d-cd c4 95 33 02 e3 d4 56   +/x...0-...3...V
-    0090 - 19 89 be 41 64 00 a4 30-bd 24 40 f4 a5 d5 0c 45   ...Ad..0.$@....E
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - 2f 97 2a fc 55 68 5a 60-ba 75 31 f3 69 6d 3c 19   /.*.UhZ`.u1.im<.
+    0020 - 56 e3 79 d2 e0 78 00 0e-cd f6 30 60 b7 d7 77 55   V.y..x....0`..wU
+    0030 - 0d 99 01 4c d3 f8 27 00-1b cc cc ff e2 72 6b 10   ...L..'......rk.
+    0040 - c5 5f 8a ca b2 54 82 b8-09 bb 99 6e 26 01 b7 6f   ._...T.....n&..o
+    0050 - 53 2c 7c 96 7f 77 d6 15-f0 36 ec 7b 90 cd 8c 6d   S,|..w...6.{...m
+    0060 - f3 6e b0 37 c1 9b 90 1a-5e 65 32 4e 8e 31 df d7   .n.7....^e2N.1..
+    0070 - 50 25 8d ef 64 45 90 ca-bc 99 ea 8b 65 41 97 c6   P%..dE......eA..
+    0080 - 1f da de df 67 ba 71 85-b3 91 cd 98 5b 58 00 78   ....g.q.....[X.x
+    0090 - 54 48 37 35 8a 65 54 9e-0f 28 a0 27 be 0c 70 b3   TH75.eT..(.'..p.
 
-    Start Time: 1472788256
-    Timeout   : 300 (sec)
+    Start Time: 1577475519
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

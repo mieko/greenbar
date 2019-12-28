@@ -1,51 +1,60 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=RU/ST=Moscow/L=Moscow/O=Limited Liability Company KEH eCommerce/OU=ITO/CN=*.avito.ru
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=RU/ST=Moscow/L=Moscow/O=Limited Liability Company KEH eCommerce/CN=*.avito.ru
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+ 2 s:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE+zCCA+OgAwIBAgIQLO8FGn8Xxai9jLEkif5OTDANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUxMjE1MDAwMDAwWhcNMTcwMjEyMjM1
-OTU5WjCBhDELMAkGA1UEBhMCUlUxDzANBgNVBAgTBk1vc2NvdzEPMA0GA1UEBxQG
-TW9zY293MTAwLgYDVQQKFCdMaW1pdGVkIExpYWJpbGl0eSBDb21wYW55IEtFSCBl
-Q29tbWVyY2UxDDAKBgNVBAsUA0lUTzETMBEGA1UEAxQKKi5hdml0by5ydTCCASIw
-DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKVL4BEm3yew8XTBoogzgEK0dmGF
-HqA7nlg1qnevPII+v5iCDhB2ReR/oJl21K2Ao8dpOuqb528rucJn8Umw+HBQMIRl
-nEr6wqpOY5V5GgMKaWwIRFNaVqIiUAa6/EZ/hjDeAwT/ROD+kSKbMw1je71LKeYo
-cMVf0bdES3yY+t08kQyb6NEcEVv6I22YGeeXZ1S7wpK/4rS+F6XWDbRasWAKH/lY
-gyR6wvyQkpdq73TP74MmdYFRpfc6HBz6k9E+EyQLPFmgxS6lZ/lHeWAMJQ6SDgBb
-dHxDzyFygSh/KFTPXwRN7r44bX+hw+cWdWr22MeLfBoHxvCjcAobTcSbLDECAwEA
-AaOCAaYwggGiMB8GA1UdEQQYMBaCCiouYXZpdG8ucnWCCGF2aXRvLnJ1MAkGA1Ud
-EwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9n
-bi5zeW1jYi5jb20vZ24uY3JsMIGdBgNVHSAEgZUwgZIwgY8GBmeBDAECAjCBhDA/
-BggrBgEFBQcCARYzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29tL3Jlc291cmNlcy9y
-ZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUFBwICMDUMM2h0dHBzOi8vd3d3Lmdlb3Ry
-dXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDAdBgNVHSUEFjAUBggr
-BgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU0m/3lvSFP3I8MH0j2oV4m6N8
-WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ24uc3ltY2Qu
-Y29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ24uc3ltY2IuY29tL2duLmNydDANBgkq
-hkiG9w0BAQsFAAOCAQEAMxEUOXgmCE/HuQjJNQzW0PTR5bJE3leI4KRdUOnh4cp1
-47YNEfOOetUs4D6Le+MjOS20L5vty63wUZ7stnQxPYSnrh9WADseCOkxzYwF1UIC
-uf0tVLGQPUYdGiVXAC9dFaN3fYrze1Q5e5jCfNfcfxwsLEhw7AM+f11ezuKCioCQ
-Kimy7u8LwjSugz7Kyi6ZKsyZRofPoccQXR/Fe6FqVXNLag63VmniswsoHYeGRbz2
-6wkstzrCAc1yimGPxixiYBKMJ3MXebV6v4zAavXo0BIzwjV9Cu55vw0HKoNKGdBM
-t/fK7WPpsstaDUR01sRq2Di6doba7TjtZAB2+6ofvA==
+MIIGyzCCBbOgAwIBAgIMFbpvNN35haV8YDZTMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
+bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTkwMjA0MDk0ODU0WhcNMjEwMjA0MDk0ODU0WjB2MQswCQYDVQQGEwJS
+VTEPMA0GA1UECBMGTW9zY293MQ8wDQYDVQQHEwZNb3Njb3cxMDAuBgNVBAoTJ0xp
+bWl0ZWQgTGlhYmlsaXR5IENvbXBhbnkgS0VIIGVDb21tZXJjZTETMBEGA1UEAwwK
+Ki5hdml0by5ydTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALAdc+nJ
+ZikXoM8jLD8YepJyPwhS/eGbOhtqkl78QEYFn5PFrWu66XrEUZ1CUT1TLTF9Y5Ny
+zlLXKAmReWPaq+X5AV0udwOmzWCqWyYFUmLElUOYOyV5cEsPYjSitBiSNHYdh7aR
+gbD8Fw9U2WlCijVrvFXvaz9aCH3X57K9awRt3d+8zdsSo/QitH2hBWmtiAA1jGtX
+Z+v9mH56Ov92/hzByFvTQ0o5UklGjoONHFot0jZN4Imzb37folBpMqV4mXKuQLE7
+cSq5MtZTdraTymyYS4Kfh2UmOm0ANRRofK1/S2usgc6P9Oxg18ifRXRAa86r0zjv
+d8GDAQyPH5clsJkCAwEAAaOCA2cwggNjMA4GA1UdDwEB/wQEAwIFoDCBoAYIKwYB
+BQUHAQEEgZMwgZAwTQYIKwYBBQUHMAKGQWh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2ln
+bi5jb20vY2FjZXJ0L2dzb3JnYW5pemF0aW9udmFsc2hhMmcycjEuY3J0MD8GCCsG
+AQUFBzABhjNodHRwOi8vb2NzcDIuZ2xvYmFsc2lnbi5jb20vZ3Nvcmdhbml6YXRp
+b252YWxzaGEyZzIwVgYDVR0gBE8wTTBBBgkrBgEEAaAyARQwNDAyBggrBgEFBQcC
+ARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wCAYGZ4EM
+AQICMAkGA1UdEwQCMAAwSQYDVR0fBEIwQDA+oDygOoY4aHR0cDovL2NybC5nbG9i
+YWxzaWduLmNvbS9ncy9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMi5jcmwwHwYDVR0R
+BBgwFoIKKi5hdml0by5ydYIIYXZpdG8ucnUwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMB0GA1UdDgQWBBQnmaS531XsDZAAlC/RL8dJ1yf53TAfBgNVHSME
+GDAWgBSW3mHxvRwWKVMcwMx9O4MAQOYafDCCAX4GCisGAQQB1nkCBAIEggFuBIIB
+agFoAHYAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFot+kkLAAA
+BAMARzBFAiEAi6+YgD0eFkvF9DK5U3hTnU6V2GwVsEfJ0F5ZDPeHGuoCIBM66m2f
+b0LaeMyjacLyxX03UQ7qLXQ+tHqP7PyfDhX+AHcA7ku9t3XOYLrhQmkfq+GeZqMP
+fl+wctiDAMR7iXqo/csAAAFot+kj4wAABAMASDBGAiEAlBYs1sjtt78GwaaFjyCU
+eLYG0z8NaQr12x5sxN7UTPgCIQCCe1wse+R/yaJzzZ/Tv32LcCq5BZswQHY2d38S
+Cjq5MgB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABaLfpJC4A
+AAQDAEYwRAIgAbPgZO3lA0dY+ssqovYECCoDZPmY/8CyA7tEf4wpxhoCIHXeFPVs
+cCCklfZXxoV/UDM+rk3vVzHNfcWqpGs1hHgdMA0GCSqGSIb3DQEBCwUAA4IBAQCd
++nRoVzwa6cullLonKQ2Cv8Van4Q1mFipOVuW9NZWInxsdUzwMKW7ojmv7Ztx9/0w
+26BL3Xn1GYJN+f0JDWtdlj1jOOBH6TShRkYvOPhvpUyt6Qv+zrAUHqrtbHoH/Hkp
+Z1Lb7ifR1TOyP7d0Nm+vU59craQeiGTUAKwNgy35+SHnfPp111+FXY1H8py9HcTV
++LVhiRhTyBIoKYR7ctHDse1idTOpl9Kwc475bfsdOkth8O/dxRxJnglMEHGnARYx
+QcSe7GgH9zT/znXJS0lWEI2fKME4DmmpiQD1MhtArUTomicxPQbVpvJH91y7rgZK
+izXZ7NnT+RtLtF/55DSJ
 -----END CERTIFICATE-----
-subject=/C=RU/ST=Moscow/L=Moscow/O=Limited Liability Company KEH eCommerce/OU=ITO/CN=*.avito.ru
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/C=RU/ST=Moscow/L=Moscow/O=Limited Liability Company KEH eCommerce/CN=*.avito.ru
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3923 bytes and written 434 bytes
+SSL handshake has read 4408 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -56,28 +65,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 645DAD2014A3A41A5491C748FAEDD48D381BF8FD9B0BA3DE902FC1C82C0ADD56
+    Session-ID: EC67A3CD35DF3AA50788ADD03F7172C9628EC1D2A994BF0CEA7E67310497311B
     Session-ID-ctx: 
-    Master-Key: D78BC3E76637F0F23E8473998D059CDE1B520FE7742B80A00CB7E7519D3045DE7A7D1A8D750D9E061DBC6BA680F2C492
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 71E9C88080CBC72187251A57913A98B594671D02117FAA3752349533E987D1AEBAC64D0CE70DF2865F1860ED6D7746F9
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - e9 b6 20 16 c5 e2 df f4-d2 bf c0 db c7 fb 5f cd   .. ..........._.
-    0010 - 42 ae e6 41 4a b8 e0 37-0d ca a0 b7 72 e2 10 c1   B..AJ..7....r...
-    0020 - 99 e3 49 5b dd 37 0f 48-bc 98 8b e2 17 01 33 b6   ..I[.7.H......3.
-    0030 - 9f 2e c6 d1 69 ac 58 93-da 9d 3f 2c 06 0a 68 0e   ....i.X...?,..h.
-    0040 - aa 9c a8 79 51 8b 3f 85-77 5e 55 56 b6 74 c3 88   ...yQ.?.w^UV.t..
-    0050 - 22 e2 97 ff 96 3e 38 1f-91 20 2e b4 69 cd fe 4c   "....>8.. ..i..L
-    0060 - 0b 9a e9 34 af ef 16 bf-e0 e4 f7 0f fc 45 a5 fc   ...4.........E..
-    0070 - 28 a2 45 a6 b3 e5 91 53-f5 ab 11 d5 3f da 15 ec   (.E....S....?...
-    0080 - fe ac 70 c9 dd 19 82 c8-76 9e a1 ea bc 33 77 4b   ..p.....v....3wK
-    0090 - 3d 79 06 fd c9 60 19 8e-b7 50 60 7d f0 34 4a e6   =y...`...P`}.4J.
-    00a0 - 07 7d 2a 17 78 4c 6a b8-bb ac 83 fe d9 6a 98 7d   .}*.xLj......j.}
+    0000 - 46 40 a0 91 76 67 43 60-f5 d2 4c 72 2b 5a c3 fc   F@..vgC`..Lr+Z..
+    0010 - cb e2 63 fc 25 c1 2b 18-29 06 21 70 5a 85 be c6   ..c.%.+.).!pZ...
+    0020 - ec 56 ba f9 cb b3 cb 8c-75 e3 43 43 22 96 b1 e5   .V......u.CC"...
+    0030 - 3f 6f fa 5e 26 79 86 b9-01 ca cd cb 19 e5 bc 41   ?o.^&y.........A
+    0040 - 07 e4 72 65 a5 5a e3 6a-73 3a a5 26 e0 4a 81 83   ..re.Z.js:.&.J..
+    0050 - 13 93 12 27 a8 35 e5 e5-46 71 ea 83 bc 26 10 69   ...'.5..Fq...&.i
+    0060 - 5c e7 aa ff bd 1e 74 df-b4 01 ca c5 71 c8 f5 c9   \.....t.....q...
+    0070 - ed b5 39 36 88 6b 4f 6f-b7 a1 11 1a b0 2c 83 81   ..96.kOo.....,..
+    0080 - 95 3c f5 21 a5 ef 6d 3f-78 2b 51 7b 17 77 08 87   .<.!..m?x+Q{.w..
+    0090 - f0 71 92 ad c4 79 a9 b2-23 a8 4c c8 5e 86 b0 e9   .q...y..#.L.^...
+    00a0 - a0 4b 2a 20 0d 70 d2 46-e7 8e db c7 3e a2 64 7a   .K* .p.F....>.dz
 
-    Start Time: 1472788002
-    Timeout   : 300 (sec)
+    Start Time: 1577474873
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

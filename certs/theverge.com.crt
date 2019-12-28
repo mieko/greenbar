@@ -1,4 +1,4 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
  0 s:/C=US/ST=DC/L=Washington/O=Vox Media, Inc./CN=*.voxmedia.com
@@ -8,50 +8,61 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGYDCCBUigAwIBAgIMVxCcmfJcMR9OWOfxMA0GCSqGSIb3DQEBCwUAMFcxCzAJ
+MIIIszCCB5ugAwIBAgIMI4HeTnUJh0Axz5NwMA0GCSqGSIb3DQEBCwUAMFcxCzAJ
 BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMS0wKwYDVQQDEyRH
-bG9iYWxTaWduIENsb3VkU1NMIENBIC0gU0hBMjU2IC0gRzMwHhcNMTYwNTE2MTk0
-MjA1WhcNMTkwMTA4MTcyODQwWjBiMQswCQYDVQQGEwJVUzELMAkGA1UECAwCREMx
+bG9iYWxTaWduIENsb3VkU1NMIENBIC0gU0hBMjU2IC0gRzMwHhcNMTgxMTE2MjEz
+NTM1WhcNMjEwMjE4MjEzNTM1WjBiMQswCQYDVQQGEwJVUzELMAkGA1UECAwCREMx
 EzARBgNVBAcMCldhc2hpbmd0b24xGDAWBgNVBAoMD1ZveCBNZWRpYSwgSW5jLjEX
 MBUGA1UEAwwOKi52b3htZWRpYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
-ggEKAoIBAQDM6dlKONLZK1Now4GUiXjGQk0n1G3+LHEMbWkG8PGHzkaeHUPyshML
-g/dOwn9JbROS/ygY66lbXRamaDj7wvkKlUUYhuME0aaEyXiiIW72YN9EdABskiFT
-oLfX7KizXP5fgiaZGZnnt8/8UMhlPhte7DgldgKxCMNtRQqERVN0G/HlLrGKJ0fO
-vHWYdgx2JsaXILwd1CtUFQ+OnCB6aJ0X+LXXcYVbIr5/AwW7l4WyZGLT41BZfous
-ZVQJeMdWVdjwQ5t/+0i3mv/T8yvlqFdJjTz0AalLM/jiM2ElmFHF/UQN0Xbwymwp
-InZdGW0AHuOTIMZ/O5y8Lydso8ASmrM3AgMBAAGjggMfMIIDGzAOBgNVHQ8BAf8E
+ggEKAoIBAQDrIk+agKD1WQ83zW0PiHjzcy9YbtkdgM2YKzgyOVnMT+IjaK4V3Sz7
+gJqyMw7XE35xXEn5Y/BZeuETBt1rFdIHvTh+U93uyGoRSnmOoVALo7/BPCCdchTP
+CzEPKqXTOv3U3bleSwuVyfxY0j8n3zxr/ALGST9MiLaRpZCW2GpBc7wB8hWL6xcn
+iKSDsOSSQkPbAjoBwlYTfVrWwsbx0wDfTD0k9xiM/Mj3lXUdxayz9GA0GOtaatHq
+OWnJbilxhGpGhRnGDA1RIDu0xsV3+P7LiKmcH7wRZI7kBGOkvM+xfWjH/6x5m+6q
+MxmyVGGnknqB+t0rD6Dj/saZ3RwMZARfAgMBAAGjggVyMIIFbjAOBgNVHQ8BAf8E
 BAMCBaAwgYoGCCsGAQUFBwEBBH4wfDBCBggrBgEFBQcwAoY2aHR0cDovL3NlY3Vy
 ZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQvY2xvdWRzc2xzaGEyZzMuY3J0MDYGCCsG
 AQUFBzABhipodHRwOi8vb2NzcDIuZ2xvYmFsc2lnbi5jb20vY2xvdWRzc2xzaGEy
 ZzMwVgYDVR0gBE8wTTBBBgkrBgEEAaAyARQwNDAyBggrBgEFBQcCARYmaHR0cHM6
 Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQICMAkGA1Ud
-EwQCMAAwggG4BgNVHREEggGvMIIBq4IOKi52b3htZWRpYS5jb22CICouYW1lcmlj
-YW5uaW5qYXdhcnJpb3JuYXRpb24uY29tggwqLnJlY29kZS5uZXSCESoudm94Y3Jl
-YXRpdmUuY29tghMqLnZveGZpZWxkZ3VpZGUuY29tgh5hbWVyaWNhbm5pbmphd2Fy
+EwQCMAAwggISBgNVHREEggIJMIICBYIOKi52b3htZWRpYS5jb22CICouYW1lcmlj
+YW5uaW5qYXdhcnJpb3JuYXRpb24uY29tghAqLmZ1bm55b3JkaWUuY29tgg4qLm1l
+cmlkaWFuLm5ldIIMKi5yZWNvZGUubmV0ghEqLnZveGNyZWF0aXZlLmNvbYITKi52
+b3hmaWVsZGd1aWRlLmNvbYIMKi52b3hvcHMubmV0gh5hbWVyaWNhbm5pbmphd2Fy
 cmlvcm5hdGlvbi5jb22CD2Nkbi5jc3RhdGljLm5ldIIKY3VyYmVkLmNvbYIMKi5j
-dXJiZWQuY29tggllYXRlci5jb22CCyouZWF0ZXIuY29tggtwb2x5Z29uLmNvbYIN
-Ki5wb2x5Z29uLmNvbYIKcmFja2VkLmNvbYIMKi5yYWNrZWQuY29tggpyZWNvZGUu
-bmV0ggxzYm5hdGlvbi5jb22CDiouc2JuYXRpb24uY29tggx0aGV2ZXJnZS5jb22C
-DioudGhldmVyZ2UuY29tggt2b3gtY2RuLmNvbYINKi52b3gtY2RuLmNvbYIHdm94
-LmNvbYIJKi52b3guY29tgg92b3hjcmVhdGl2ZS5jb22CEXZveGZpZWxkZ3VpZGUu
-Y29tggx2b3htZWRpYS5jb20wHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
-MB0GA1UdDgQWBBSGG8vN9fX8JKG/dPueVhlhqy1f7jAfBgNVHSMEGDAWgBSpK4fh
-ziRHOxu/z4U3AlWdDZRY5jANBgkqhkiG9w0BAQsFAAOCAQEAaI6I2O9ifMjMklnf
-lVwr+OrYDs0LO+nKU+xcltFcqxvMx4OaF8dv+xt8a8KoLvdqgS2w0+kgez43LQdE
-EPL02iquWxO5rWPP3/FJKBYJEOsOhd5KxMHiPutOtWg6Pi67EKe7PxFaCCzlSHN2
-bafEVb2BxUZqTTdwmXoCQfgbaCfxjHkmXPcndaqoooiGcKhlcD4LvBgECfTNJNYS
-ol+ABGfK0b9h7Vu02WA+ZyAi289gGRyf++FtbkH9q9IXEM1vaDCiyzzr2PYVCyFs
-TPxFlAAxHqthONf1H6IyVoWb2guP5rMQ6AlwxPAqmvfKzwZnQ3OUCkigwNYXKlrq
-8DIVLQ==
+dXJiZWQuY29tggllYXRlci5jb22CCyouZWF0ZXIuY29tgg5mdW5ueW9yZGllLmNv
+bYIMbWVyaWRpYW4ubmV0ggtwb2x5Z29uLmNvbYINKi5wb2x5Z29uLmNvbYIKcmFj
+a2VkLmNvbYIMKi5yYWNrZWQuY29tggpyZWNvZGUubmV0ggxzYm5hdGlvbi5jb22C
+Diouc2JuYXRpb24uY29tggx0aGV2ZXJnZS5jb22CDioudGhldmVyZ2UuY29tggt2
+b3gtY2RuLmNvbYINKi52b3gtY2RuLmNvbYIHdm94LmNvbYIJKi52b3guY29tgg92
+b3hjcmVhdGl2ZS5jb22CEXZveGZpZWxkZ3VpZGUuY29tggp2b3hvcHMubmV0ggx2
+b3htZWRpYS5jb20wHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB0GA1Ud
+DgQWBBSp0f3h0V7BpP6wd0XlR3O/udbNfzAfBgNVHSMEGDAWgBSpK4fhziRHOxu/
+z4U3AlWdDZRY5jCCAfUGCisGAQQB1nkCBAIEggHlBIIB4QHfAHUAh3W/51l8+IxD
+mV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFnHnNhMwAABAMARjBEAiA6/nGbin6W
+KKmCI1vCsEghqxvzVigJcBfELDEenwccJQIgZO4yVQvKw2/DJ/bSLHJMxzqsYN4Z
+ZJVvRJIVSMo8di8AdQBVgdTCFpA2AUrqC5tXPFPwwOQ4eHAlCBcvo6odBxPTDAAA
+AWcec2FEAAAEAwBGMEQCIGcaOmFmGiGjHYurClx3NCUA8A7m0ZsbmfdUUKklFn4u
+AiBLUkhBwCf9eLxdafpPJekTk9nd1K95P52KbzFKlyUSbQB2AKS5CZC0GFgUh7sT
+osxncAo8NZgE+RvfuON3zQ7IDdwQAAABZx5zYagAAAQDAEcwRQIgAokJnzW90j5t
+w8sn+pzdeRIwtk4KSDUMx17OMBR66+ICIQC7ZyTZBtpnBzCS//mSF0jGqK5GEhK2
+nGGySieSY0JSTgB3AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAAB
+Zx5zYXEAAAQDAEgwRgIhANyczo+c5paFSZcaSh8LGLDYCPIodV3SYEj6N/cWLUFs
+AiEAgxzhbVmbUPXgdLS/UPx6cg1KkNZxVma9sWOIDN18mHcwDQYJKoZIhvcNAQEL
+BQADggEBAAAhGk+yIqT5Iht+2S8tZkb34Q2v89FpgVKYNUoPKAGzeDTCdIU7jSSF
+HfabNCdEg2xV08pXSKVDemujprmtjKUOdC+nw5f3CRgBWLUlQneMtDSaHsHpnDUf
+oMaOV0OChx0Cj4SaliALa5iXDCEmjVVibZjSOUGZiDlO53jDIjYVhybkOaT6bvZY
+L5ny8ugCr2KWfnLrnrgIOzVv0fmbvMHUnDFXtUVJYkbRGsrJKZ3nX0t+AwUA2B6x
+at/AgpZ0IHryDAwLZfbkrDL6NFlIVgubWr5ATTUPWNr+OKCzA7ZFt6W4ka21ofJJ
+yRiUD8yfiPD6pl4HBnk21Jnfdt6fd+k=
 -----END CERTIFICATE-----
 subject=/C=US/ST=DC/L=Washington/O=Vox Media, Inc./CN=*.voxmedia.com
 issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign CloudSSL CA - SHA256 - G3
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3465 bytes and written 434 bytes
+SSL handshake has read 4022 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -62,27 +73,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 83C0A82F960BB48819043ACBE043188A8656D29717BD3DE9585A6B955F5BB101
+    Session-ID: 6FECAAE2952640C769B6413BCF15D54E35EA5C30E92427DA05352FA048D709B3
     Session-ID-ctx: 
-    Master-Key: 67591289FCEAA864143BFC7EBD32BC0A6A0D0B08B1C9C2F79901DB9907DA406C20D6B8237AF4AD851BBB6AE57192D914
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 1200 (seconds)
+    Master-Key: 5995C1E522E9FFA71AA410F3607A8DAAC388083D8F747BA2B0B8742FEF98A584C2391B71F5BD10CDCAD6CBF17AF3EFC7
+    TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - 63 cc 77 4a 00 db 2c 42-2e 8f 76 23 dd a9 ae 53   c.wJ..,B..v#...S
-    0010 - 3e 3e 1b e3 cf 27 05 60-00 82 8a c6 a6 6c 1b 73   >>...'.`.....l.s
-    0020 - 78 52 62 4e d3 d3 72 6a-95 cb 71 7b c1 a6 7b e2   xRbN..rj..q{..{.
-    0030 - f2 be be 04 a2 37 50 39-f1 75 6a 81 af df 63 f2   .....7P9.uj...c.
-    0040 - eb 65 d0 a9 25 e3 73 81-4f ba 17 5c fc 16 92 4e   .e..%.s.O..\...N
-    0050 - af b8 f2 31 a5 31 36 6c-38 8c df 62 63 71 4d 48   ...1.16l8..bcqMH
-    0060 - 03 df 0f 9c 79 98 64 83-f3 4a cc 89 1b 08 8b f2   ....y.d..J......
-    0070 - 60 cb c6 68 30 c2 cb b4-95 72 3e 92 5d 6f 11 3c   `..h0....r>.]o.<
-    0080 - 8a f3 1f d6 b7 f0 4a 50-47 c2 5b 76 b1 a0 47 80   ......JPG.[v..G.
-    0090 - bd ad a1 9a 9d 42 55 d8-e4 c2 0e c3 f2 35 1b 90   .....BU......5..
+    0000 - 92 c2 dc 8b 9d a5 49 5f-de 6c 21 f5 8d 32 e6 61   ......I_.l!..2.a
+    0010 - 02 75 ee 74 6f 5c 36 fd-65 c4 d2 e0 1e d7 c0 9a   .u.to\6.e.......
+    0020 - 14 99 dd cf 17 e9 43 4a-0f db e3 50 ce be 1c a4   ......CJ...P....
+    0030 - c7 ff 0f 56 1e 84 e0 a4-fd 54 f7 71 00 df bc 58   ...V.....T.q...X
+    0040 - de e1 6a 98 f8 e9 8d f0-da 7c c0 1e a9 d0 11 5d   ..j......|.....]
+    0050 - fd 4e bc 8b ca 27 46 d1-fc 86 dc 63 b7 7b 9f c4   .N...'F....c.{..
+    0060 - ed c3 d5 5e d0 15 89 5b-32 44 f7 22 33 f5 9c b7   ...^...[2D."3...
+    0070 - 6b 08 62 ac f5 9b c3 59-6b 13 48 b4 1e 35 d3 07   k.b....Yk.H..5..
+    0080 - 43 92 90 8b 9b 33 fc bd-55 d8 9f 58 d9 02 85 89   C....3..U..X....
+    0090 - 65 6e 9e f8 e7 0f 6c b0-03 20 d8 16 9d f9 f3 ad   en....l.. ......
 
-    Start Time: 1472788466
-    Timeout   : 300 (sec)
+    Start Time: 1577475156
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

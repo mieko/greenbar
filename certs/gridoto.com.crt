@@ -1,0 +1,82 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=*.gridoto.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYzCCBEugAwIBAgIQCeJ4B/OjP/lpgNTh6r3zbjANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTExMTQwMDAwMDBaFw0yMDEyMTQx
+MjAwMDBaMBgxFjAUBgNVBAMMDSouZ3JpZG90by5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDAFinpa9+XY+4NB1z6/qZMZlcytMw3u0MJvktCJXuL
+/AIQlJnf7kRcvMGngTQDqVehF++2u7D+Pq2zzYtJ50Kzx5FwlUALMPyw1TCqGA47
+ehOiXSdrlAzlPh8ey7PBunv1IS1kzPAbVZHOAB8NCa0jUzQU0upyRrPjoDSsi1HK
+Txr1RHbHyTGmnPmIbDbSEoYpT1XakRZhbQN7knWMmAHirpKyjxoFkDpWcchHwejV
+NHa/Fkw7314kWuvFowgq+VvffNOxp3gKGmOEt4ANGM/3Shm5uWP5IqyXIpW3IcT6
+B85h5YqFfM20u6Oi9dpozh7mjM7cKLN52FUQq0y8XG9tAgMBAAGjggJ5MIICdTAf
+BgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQU7FC1+8Gk
+RdtZXjIAgCLF26wTxSgwGAYDVR0RBBEwD4INKi5ncmlkb3RvLmNvbTAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0
+MDIwMKAuoCyGKmh0dHA6Ly9jcmwuc2NhMWIuYW1hem9udHJ1c3QuY29tL3NjYTFi
+LmNybDAgBgNVHSAEGTAXMAsGCWCGSAGG/WwBAjAIBgZngQwBAgEwdQYIKwYBBQUH
+AQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5zY2ExYi5hbWF6b250cnVz
+dC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQuc2NhMWIuYW1hem9udHJ1c3Qu
+Y29tL3NjYTFiLmNydDAMBgNVHRMBAf8EAjAAMIIBBAYKKwYBBAHWeQIEAgSB9QSB
+8gDwAHcAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFuZ0WjOwAA
+BAMASDBGAiEAz7R4TahD+hp31YedJa+bYw7gJuPAGCJKbfowFMLc6pwCIQDTeAbC
+0K39fA6b0YLOhYjXCVZCvmc2SOb3nyBSVsGZXQB1AId1v+dZfPiMQ5lfvfNu/1aN
+R1Y2/0q1YMG06v9eoIMPAAABbmdFo5gAAAQDAEYwRAIgIwHDZH3YIqeOLRHF78nF
+hcVqJ9Zu+7cb/8FOHriyYDACIB9J2lZaF+14JFqllBOZATkYE6bVAYeX/TPgix1E
+Q7gSMA0GCSqGSIb3DQEBCwUAA4IBAQBeYY+/nufyTa660+ylCAe3DqZcB1AY0i75
+SaVxJ50z3y4UQ/qPk3EjPtJsk2ZhKaTOdx7M5z9cwcEPtagfJwDiD0YOOd2dN7VW
+zBk12LcasIIeDECtgJP/VjU+gydXk5B7T6gZv9wVmVaLFu9ED4qYRWZfbDcObfUB
+d8R+GL1qLxMRLRk0ITocGdC5MCGciGgqvurVFX6lB90JdVBvf4G0n5EhxPcyf7ZN
+eQAJwFa6355L+m7+sgX7f7I41fuuBGBsjl9qhfE8ea5UFjzTFWN6ljlJ6gDoAiYi
+H+eZcUqu0SErOoSX1VCT7/7RtYB89xtUg7aA7elywGiBm4EKnkQh
+-----END CERTIFICATE-----
+subject=/CN=*.gridoto.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5482 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: ABFA45023F90002EF9EF81E3DFEF8685637275437F4CCF35598397263047763D
+    Session-ID-ctx: 
+    Master-Key: B4A430C0A5A5D91CEC17815E24D54A81E7FE6A3A491EF0666CDCE836FFF507ADC21253B192C853AF34322A9B90524869
+    TLS session ticket lifetime hint: 43200 (seconds)
+    TLS session ticket:
+    0000 - 91 16 f7 eb d7 d0 04 98-87 91 4b 36 5a dd 1a 1e   ..........K6Z...
+    0010 - 30 8e 66 24 5d f1 fc 20-09 9b ac e1 43 45 e0 4e   0.f$].. ....CE.N
+    0020 - 22 32 8b 21 cc 13 61 bf-c9 6f ee 49 de cf 33 1b   "2.!..a..o.I..3.
+    0030 - 1f ba 05 50 ab 8c d6 58-66 86 4c 2c e0 72 20 e5   ...P...Xf.L,.r .
+    0040 - 5f 04 87 d3 9d 86 05 64-44 0e f6 6d a4 c5 4b fc   _......dD..m..K.
+    0050 - 38 7e 1a ed 0f 63 52 e3-3b cf e6 c6 a0 5a ac 5e   8~...cR.;....Z.^
+    0060 - 02 d9 23 df 4c ee 57 0b-ff 0e 81 f1 6d 3f ec 82   ..#.L.W.....m?..
+    0070 - dd f0 02 71 48 38 e6 de-72 48 9f 84 22 e0 7d c1   ...qH8..rH..".}.
+    0080 - e7 4c c8 b2 84 85 96 d5-ab aa 16 3e 2e f7 c9 c6   .L.........>....
+    0090 - cf 02 44 64 44 2a 81 5a-e7 cf 50 63 a0 97 f0 82   ..DdD*.Z..Pc....
+    00a0 - 0b b0 c4 d8 cd fe 61 31-b6 6d fc c5 56 f7 22 45   ......a1.m..V."E
+
+    Start Time: 1577475549
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

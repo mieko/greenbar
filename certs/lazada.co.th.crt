@@ -1,80 +1,111 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=GT12899302/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.lazada.co.th
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/C=CN/ST=ZheJiang/L=HangZhou/O=Alibaba (China) Technology Co., Ltd./CN=*.lazada.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
+   i:/C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEsTCCA5mgAwIBAgIDAdjuMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNTAxMjIxNzI2MDVaFw0xOTA0MjUxMTA3MjNaMIGSMRMw
-EQYDVQQLEwpHVDEyODk5MzAyMTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
-bS9yZXNvdXJjZXMvY3BzIChjKTE1MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
-YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEXMBUGA1UEAwwOKi5sYXphZGEuY28udGgw
-ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCrSsvflYaore7qnKsSpqNM
-cfc4uLCK0BVun/auvJTZqpNp5K5T+ScDtXUQKQAX/0X8Qr5/1YGeY2ADPgpTfyTb
-w0y9sJz8sI0xmOEj349XJAW/BaXfu6EBQCfv6Oy5R6jMxv/6dawzAy/kKqTwQ0X+
-UpyyiIGX8glw+PAmkS3jCWd6jjziczktUH0NHSqzAEkuSNZ/VWIfFHjex4QYbaKY
-OFNho4VkwD03YPkTKPkE/8vt1qM3lxosYXrG7IOl18VyTeBeUWn4hbKJn2pfO4cP
-koSe6yigubr4aY89f5A2/CsV/H25JkeGv+TbzdSpv0EWq19AOekrXfXNKk0CN/gd
-AgMBAAGjggFYMIIBVDAfBgNVHSMEGDAWgBTDnPP800YINLvORn+gfFvz4gjLWTBX
-BggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9ndi5zeW1jZC5jb20w
-JgYIKwYBBQUHMAKGGmh0dHA6Ly9ndi5zeW1jYi5jb20vZ3YuY3J0MA4GA1UdDwEB
-/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwJwYDVR0RBCAw
-HoIOKi5sYXphZGEuY28udGiCDGxhemFkYS5jby50aDArBgNVHR8EJDAiMCCgHqAc
-hhpodHRwOi8vZ3Yuc3ltY2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAAMEUGA1Ud
-IAQ+MDwwOgYKYIZIAYb4RQEHNjAsMCoGCCsGAQUFBwIBFh5odHRwczovL3d3dy5y
-YXBpZHNzbC5jb20vbGVnYWwwDQYJKoZIhvcNAQELBQADggEBAHcZuguG57FqeL7C
-mv559KAPYOosL/CMfMeiXIkHXFZ3efNVmN2v8y+/9FmBTOGzr39naBWhZSmeLI2D
-yWaUo7HWPrdty36I6iI3is9iaLYmXikqW+BBmTeXJ0ctZzxT7rR/xmFOEXlB+2Go
-AHYfm8Lyq+V6qn6ob+GClPj0KA2aWf9QWoKJECpOuYbejtoKA8wCPAKYrsKTGgGT
-jPG/XtuQ9uSuMK7lN6UWhyx3dnBvXQnFNdBbKyJ8ubS65+rLBYPw5obxX4pX/lbN
-lE76xAZhKESpuWxoRftnap8ixZIzvQy6cXq/VfVRz4+rhrHeavDRdMVuD4EjSN0W
-f7IAh6w=
+MIILjDCCCnSgAwIBAgIMKNj8fmwr3dHADYmkMA0GCSqGSIb3DQEBCwUAMGYxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTwwOgYDVQQDEzNH
+bG9iYWxTaWduIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0g
+RzIwHhcNMTkwODMwMDg1NzAyWhcNMjAwODE2MDgxNjExWjB5MQswCQYDVQQGEwJD
+TjERMA8GA1UECBMIWmhlSmlhbmcxETAPBgNVBAcTCEhhbmdaaG91MS0wKwYDVQQK
+EyRBbGliYWJhIChDaGluYSkgVGVjaG5vbG9neSBDby4sIEx0ZC4xFTATBgNVBAMM
+DCoubGF6YWRhLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABHrol/14K3Bo
+UtU6UyH/TdPMxo5MMULw+nEmdMy5H5kXpcMnhcA+CiGecV82wdf3Tu9lAhJbM3kS
+EMDkP4mUEjujggjwMIII7DAOBgNVHQ8BAf8EBAMCA4gwgaAGCCsGAQUFBwEBBIGT
+MIGQME0GCCsGAQUFBzAChkFodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2Nh
+Y2VydC9nc29yZ2FuaXphdGlvbnZhbHNoYTJnMnIxLmNydDA/BggrBgEFBQcwAYYz
+aHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2dzb3JnYW5pemF0aW9udmFsc2hh
+MmcyMFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBz
+Oi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECAjAJBgNV
+HRMEAjAAMEkGA1UdHwRCMEAwPqA8oDqGOGh0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5j
+b20vZ3MvZ3Nvcmdhbml6YXRpb252YWxzaGEyZzIuY3JsMIIGIAYDVR0RBIIGFzCC
+BhOCDCoubGF6YWRhLmNvbYIWKi4zcGxwb3J0YWwubGF6YWRhLmNvbYIWKi5hZHNl
+bnNlLmxhemFkYS5jby5pZIIWKi5hZHNlbnNlLmxhemFkYS5jby50aIIXKi5hZHNl
+bnNlLmxhemFkYS5jb20ubXmCFyouYWRzZW5zZS5sYXphZGEuY29tLnBoghMqLmFk
+c2Vuc2UubGF6YWRhLnNnghMqLmFkc2Vuc2UubGF6YWRhLnZugggqLmZ4bS5zb4IS
+Ki5oNWFjY3MudGFvYmFvLnR3ghAqLmhlYy5sYXphZGEuY29tghIqLmxhemFkYS1z
+ZWxsZXIuY26CDioubGF6YWRhLmNvLmlkgg4qLmxhemFkYS5jby50aIIPKi5sYXph
+ZGEuY29tLm15gg8qLmxhemFkYS5jb20ucGiCCyoubGF6YWRhLnNnggsqLmxhemFk
+YS52boIQKi5tLmxhemFkYS5jby5pZIIOKi5tLmxhemFkYS5jb22CDyoucHJlLmxh
+emFkYS5zZ4IQKi5yZXN0LmxhemFkYS5zZ4IqKi5zZWxsZXJjZW50ZXItaWQtc3Rh
+Z2luZy5sYXphZGEtc2VsbGVyLmNugiIqLnNlbGxlcmNlbnRlci1pZC5sYXphZGEt
+c2VsbGVyLmNugioqLnNlbGxlcmNlbnRlci1teS1zdGFnaW5nLmxhemFkYS1zZWxs
+ZXIuY26CIiouc2VsbGVyY2VudGVyLW15LmxhemFkYS1zZWxsZXIuY26CKiouc2Vs
+bGVyY2VudGVyLXBoLXN0YWdpbmcubGF6YWRhLXNlbGxlci5jboIiKi5zZWxsZXJj
+ZW50ZXItcGgubGF6YWRhLXNlbGxlci5jboIqKi5zZWxsZXJjZW50ZXItc2ctc3Rh
+Z2luZy5sYXphZGEtc2VsbGVyLmNugiIqLnNlbGxlcmNlbnRlci1zZy5sYXphZGEt
+c2VsbGVyLmNugigqLnNlbGxlcmNlbnRlci1zdGFnaW5nLXJlZG1hcnQubGF6YWRh
+LnNngiMqLnNlbGxlcmNlbnRlci1zdGFnaW5nLmxhemFkYS5jby5pZIIjKi5zZWxs
+ZXJjZW50ZXItc3RhZ2luZy5sYXphZGEuY28udGiCJCouc2VsbGVyY2VudGVyLXN0
+YWdpbmcubGF6YWRhLmNvbS5teYIkKi5zZWxsZXJjZW50ZXItc3RhZ2luZy5sYXph
+ZGEuY29tLnBogiAqLnNlbGxlcmNlbnRlci1zdGFnaW5nLmxhemFkYS5zZ4IgKi5z
+ZWxsZXJjZW50ZXItc3RhZ2luZy5sYXphZGEudm6CKiouc2VsbGVyY2VudGVyLXRo
+LXN0YWdpbmcubGF6YWRhLXNlbGxlci5jboIiKi5zZWxsZXJjZW50ZXItdGgubGF6
+YWRhLXNlbGxlci5jboIqKi5zZWxsZXJjZW50ZXItdm4tc3RhZ2luZy5sYXphZGEt
+c2VsbGVyLmNugiIqLnNlbGxlcmNlbnRlci12bi5sYXphZGEtc2VsbGVyLmNughsq
+LnNlbGxlcmNlbnRlci5sYXphZGEuY28uaWSCGyouc2VsbGVyY2VudGVyLmxhemFk
+YS5jby50aIIcKi5zZWxsZXJjZW50ZXIubGF6YWRhLmNvbS5teYIcKi5zZWxsZXJj
+ZW50ZXIubGF6YWRhLmNvbS5waIIYKi5zZWxsZXJjZW50ZXIubGF6YWRhLnNnghgq
+LnNlbGxlcmNlbnRlci5sYXphZGEudm6CDyouc2cubGF6YWRhLmNvbYIOKi52Lmxh
+emFkYS5jb22CEioudmlkZW8ubGF6YWRhLmNvbYIUKi54LXNwYWNlLmxhemFkYS5j
+b22CEiouemFsLmxhemFkYS5jby50aIIGZnhtLnNvggxsYXphZGEuY28uaWSCDGxh
+emFkYS5jby50aIINbGF6YWRhLmNvbS5teYINbGF6YWRhLmNvbS5waIIJbGF6YWRh
+LnNngglsYXphZGEudm6CEm1zZ2Fjcy1tLnRhb2Jhby50d4IVbXNnYWNzLXdhcGEu
+dGFvYmFvLnR3ggpsYXphZGEuY29tMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAfBgNVHSMEGDAWgBSW3mHxvRwWKVMcwMx9O4MAQOYafDAdBgNVHQ4EFgQU
+jQ6/Hu16U7wJ+R8x/hypCzfgAMYwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBv
+U3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAWzhvgxwAAAEAwBHMEUC
+ICVcndHbRUU+jXX5qKPLPLg+8/Rd1fZRFvsx3yH5Ka/JAiEA3D8yYkuGqPApcC2n
+ORNyqJGQVrdArXmcHYy/KS765o8AdgCyHgXMi6LNiiBOh2b5K7mKJSBna9r6cOey
+SVMt74uQXgAAAWzhvgwiAAAEAwBHMEUCIQDkBcMDwYtcz01or7K8aowofAq2YGk4
+GZCHIPk21gT+IQIgZibXF6iquKSozdvm9Fl+JOQXnoLG61z26u8f52ViOJcwDQYJ
+KoZIhvcNAQELBQADggEBALYJQtVMrQPRi6cqUzd57aGnQ6T8e6iIFnSBaqqi9YgH
+yrjD42jtU+CmTQgvHrUFHZyMOs0lSvF0Bky0QIr9KwOk7o3EglH57m3DmIe3b96M
+KkY4RPnNVZS7bQ4aL0gkxcteB0Smp0DeobWi3ZVqsUFmSXK4tqqrs1atJcwnldJW
+PLlYHUmWZEQgW4Ze+znShBafiBOOYFoCuVv0YErAgvAmYsigdMYYkfToc3wlS+6H
+DX4xfIrYGPle0D1o6Z+f3fOpo9tMtF5jJ1Dpclj+Fen++m1HXflk4GQKj4mpEwIR
+OxJohlY5s/f/FQgtzvh9j9+yZ7EfmHMfbv0xSrfDvwg=
 -----END CERTIFICATE-----
-subject=/OU=GT12899302/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.lazada.co.th
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/C=CN/ST=ZheJiang/L=HangZhou/O=Alibaba (China) Technology Co., Ltd./CN=*.lazada.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign Organization Validation CA - SHA256 - G2
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2948 bytes and written 434 bytes
+SSL handshake has read 4580 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
-Server public key is 2048 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 256 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: EC862D8F5E81212559FD1E2516343AA1978666DD8379AC41FEC170BF368FA214
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: 226E13FCA9821BE38CFD28E147790C3722B1C3F9DC2DB7D48E9E717383CD966C
     Session-ID-ctx: 
-    Master-Key: 6F50EBC2804D4BB6670D2653195DA56F0712CC6DEA946874C104E1BDDE717903C1AFD60E9A2BFD95A26104496DAA6096
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 14400 (seconds)
+    Master-Key: B89F49C541ABD47084B669051900EF38F41A7F6692EB27A295C271A7B747CF4C81C1FF3F077B6F43A4BC85E3B532BD92
+    TLS session ticket lifetime hint: 28800 (seconds)
     TLS session ticket:
-    0000 - d7 51 04 b9 8d 44 4a e9-87 b0 4c 62 77 b3 22 34   .Q...DJ...Lbw."4
-    0010 - 3d a2 0c f9 a2 c7 6a b9-86 8d c9 5d 45 66 c2 cd   =.....j....]Ef..
-    0020 - 0a 86 82 3e 6d c8 05 ab-06 92 ad 6c 26 c1 6f 5a   ...>m......l&.oZ
-    0030 - d1 60 24 42 b0 d2 96 4f-da 8b d7 4e 2e 42 b8 e2   .`$B...O...N.B..
-    0040 - e8 44 74 c6 04 e8 be 1d-8d b0 af 35 06 8c a1 c0   .Dt........5....
-    0050 - 22 50 31 b9 5a f1 05 06-0b 42 77 d3 f5 5f d3 49   "P1.Z....Bw.._.I
-    0060 - 9a d0 21 cb c2 53 05 1b-f8 dd 0f e1 6a e6 9f 76   ..!..S......j..v
-    0070 - f8 68 59 53 ac d3 ff da-ef 4c e6 91 95 0c e9 6a   .hYS.....L.....j
-    0080 - 94 9d 3e be b7 b8 8d 6b-27 fa 2d cd dd ae 4e 6a   ..>....k'.-...Nj
-    0090 - 2f 5d 85 d4 4e 2c ff bb-14 5a a7 a7 c0 63 05 87   /]..N,...Z...c..
-    00a0 - 3c 4f 23 4b 75 e2 76 fa-7f 43 ec ae f9 24 ee 0e   <O#Ku.v..C...$..
+    0000 - b6 93 10 8b ff a7 0b 8a-45 24 ff f1 bb 48 00 c7   ........E$...H..
+    0010 - ce 1a b4 3a c2 ee da 3f-8f ac 8f 03 6a c8 bc b4   ...:...?....j...
+    0020 - 7a 02 a2 1f 11 6b ee cd-10 8d 6b 15 c9 66 60 62   z....k....k..f`b
+    0030 - 58 03 08 0d 94 a7 dd 4c-85 c9 06 68 82 02 88 ea   X......L...h....
+    0040 - 7f 9a 67 2b 50 15 61 65-eb 77 c5 6e 36 0a b0 e0   ..g+P.ae.w.n6...
+    0050 - 86 5b 5b 21 fa d9 c4 dc-ec b7 a1 62 d2 2e 3e 35   .[[!.......b..>5
+    0060 - fb 96 0e ca a1 03 9b 76-7f 82 cd 0c e1 f9 99 6d   .......v.......m
+    0070 - 5a 0a 41 49 75 39 c5 41-8e 0f 81 4a ed e9 72 80   Z.AIu9.A...J..r.
+    0080 - 30 5f 9a 8c bc c8 f9 ba-53 a2 38 d4 64 bd 35 ae   0_......S.8.d.5.
+    0090 - 49 4e f3 96 89 22 64 99-6e 65 54 cd 16 4c 8a e5   IN..."d.neT..L..
+    00a0 - 86 56 7e b6 77 69 71 40-de e2 9f 70 7b 46 55 67   .V~.wiq@...p{FUg
 
-    Start Time: 1472790714
-    Timeout   : 300 (sec)
+    Start Time: 1577475453
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

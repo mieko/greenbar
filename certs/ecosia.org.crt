@@ -1,0 +1,79 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:/CN=ecosia.org
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFmDCCBICgAwIBAgISA4hiq4ik9eI80ueLtu2qFzV9MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMTkwOTAxNDlaFw0y
+MDAzMTgwOTAxNDlaMBUxEzARBgNVBAMTCmVjb3NpYS5vcmcwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQCVQk679Uys3IUjSeMmIQa6GD5HEVi7la5mR5/5
+1Ng7sHkRNz/Xb1ToS4BDZlgYhtAApiK6/05jaFRrMu9+Cal/DVnsF6+8tHQy1DJc
+vj8sTO5cDYAyxHkZJcjlOXFBwGpqg309kffwODfzImSKZWULS5pQ+VcUnpOpr41m
+AauXjZ945qSq6ME/z0AorF9L8/T1ylXDb0PCFsyYIrS1nA3cfkm05C87hHvsTAbE
+11CCP6O50FnnC0/ulN3x0nx9KvjcgQkC2r9DwXcUt7ZB+vpnrqWHmCKC90CU0JF6
+QNgPFNguiF3LH3lIPU5y+26FQeNj0qh2pAETrjGSMfLb3oQnAgMBAAGjggKrMIIC
+pzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFAjif/vZVdvv0tqJREInluBvFbhbMB8G
+A1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAu
+BggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAv
+BggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8w
+YAYDVR0RBFkwV4IMKi5lY29zaWEub3Jngh4qLmV1LWNlbnRyYWwtMS5wcm9kLmVj
+b3NpYS5vcmeCGyoudXMtZWFzdC0xLnByb2QuZWNvc2lhLm9yZ4IKZWNvc2lhLm9y
+ZzBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUF
+BwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIE
+gfYEgfMA8QB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABbx2b
+OdcAAAQDAEcwRQIgGIdZnYNb285WldnwGy7sIqUYKxk+mu/pPawtTaduXxkCIQCA
+lJXrXtYcx2+4VxHf9qtx8BGN3+uu9hcy6xwymPzlnAB3AAe3XBvlfWj/8bDGHSMV
+x7rmV3xXlLdq7rxhOhpp06IcAAABbx2bOgkAAAQDAEgwRgIhANMfhqHxir2vGJ5+
+yFKF4sL6xSxCyMkZED8S95xq1lR9AiEA1Fr4VhOlclI3IXywlRUGhbP0mps2ziRc
+cXqfEPq8/iYwDQYJKoZIhvcNAQELBQADggEBAEuPN478JnT7qd8OYlPIlSdxcAp0
+bsUyh3QSMdGEmXx/m1XFibi2pSPYvcoRZ42RYvWxrrw9UkkDSjWo42+wOK2uZ9ku
+fMpiDdbjzIuxboN5vdIjLGtuZosMA15e3r2ZRGKhp6tpRgbCmtm0XMg88T2klUk+
+9VOVM1+IvL1bqZOzklJD9MuR7LH4i9H4cWBJZg0vyyyOtKc+46k4VoGan2okX4pT
+ZCZdft0rqMpSzNsnnceGWVDC9wkAxSwEzl6QZNdhVFhfv+TJKP1SWOWYiqvNU5Vo
+Fo0c2a+BYrYUXuGsws9MPlIijUcAOWQXl2aQ6cGAvnxCLTF7HpC6Bf71Q+c=
+-----END CERTIFICATE-----
+subject=/CN=ecosia.org
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 3250 bytes and written 289 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DDA344D7A53ECC47049F2CB45D6D3954F3797CBF2D4BE9C7F036F6094ECA1305
+    Session-ID-ctx: 
+    Master-Key: 3E5E7A282ADCB89C9FBC481EF12025B1078472A91A36939C324587B6797A7742F7255BFC3766B4E3EF047D9441F682FC
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 80 04 b0 98 52 f3 24 f1-05 97 ec 06 5d 58 04 2d   ....R.$.....]X.-
+    0010 - b0 2d b0 79 26 85 db d6-f9 10 ed af 7d 60 d4 46   .-.y&.......}`.F
+    0020 - 97 f1 bc ee 79 94 10 48-d8 48 ad 32 eb 42 db 91   ....y..H.H.2.B..
+    0030 - 76 9f bf aa 90 f7 a8 a3-0b 63 51 f1 8c d8 10 76   v........cQ....v
+    0040 - ff e3 a7 6a 24 46 fe 15-20 f1 7d ae ae 1f 62 92   ...j$F.. .}...b.
+    0050 - bc 95 a2 91 4e f3 61 4c-b9 02 23 95 cd 1a 53 48   ....N.aL..#...SH
+    0060 - 2a 0e 18 2b 10 4d eb c1-76 4c d8 5d 40 80 cd ec   *..+.M..vL.]@...
+    0070 - 73 5e 20 4f 32 09 5f de-c7 a8 c0 22 27 79 10 8f   s^ O2._...."'y..
+    0080 - 12 aa 80 63 34 8e da b8-8e 4b e5 b0 3d 91 f5 78   ...c4....K..=..x
+    0090 - 54 02 58 6c 9e e3 ae 96-5a 89 02 2f 0b bf 88 6d   T.Xl....Z../...m
+    00a0 - 8b 5c 92 b4 f2 45 dc f7-74 6d 21 2e 2c 3c 66 39   .\...E..tm!.,<f9
+
+    Start Time: 1577474996
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

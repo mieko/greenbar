@@ -1,69 +1,86 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=DZ/ST=Algiers/L=Kouba/O=Ouedkniss
-   i:/C=DZ/ST=Algiers/L=Kouba/O=Ouedkniss
+ 0 s:/OU=Domain Control Validated/OU=EssentialSSL Wildcard/CN=*.ouedkniss.dz
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIDWTCCAkGgAwIBAgIJAIa7tdvZP/AtMA0GCSqGSIb3DQEBBQUAMEMxCzAJBgNV
-BAYTAkRaMRAwDgYDVQQIDAdBbGdpZXJzMQ4wDAYDVQQHDAVLb3ViYTESMBAGA1UE
-CgwJT3VlZGtuaXNzMB4XDTE2MDcyMDEwNTYyNVoXDTE3MDcyMDEwNTYyNVowQzEL
-MAkGA1UEBhMCRFoxEDAOBgNVBAgMB0FsZ2llcnMxDjAMBgNVBAcMBUtvdWJhMRIw
-EAYDVQQKDAlPdWVka25pc3MwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
-AQCf8sXdp3EzHmhLKsx0YqvtTRz3o7qPcPN34xVHdsfILqOGB5hVQQP84EeOmcpk
-+Y6kx0wqUFlGAOzoGMGH/ABFlG/lnwQwj7cybmcOrnbe76nkPUq8XjKS0WmYb4ts
-okjHWlvboLznKZIMNopU4RhzyWwlQ0eq1FoyWdTXDnv652q1+Br8wzg3WRoSs3H+
-QmO16SWTZDIamJO6ZrQ9iroWmS4ENLDaTviO8bhBxgx0siy6QbkTtpyoiPzXJGvs
-b2+5GFBtdEzOjZVyWrbqX7/6FnKDD7NU77vb6022K+dALtpIW3fZTeNwW2Ne4ZtB
-+TfcmsajyzZE/DPUeqBcI53LAgMBAAGjUDBOMB0GA1UdDgQWBBT8OhHEwWh4Ktq/
-kfqDaOM31+kFATAfBgNVHSMEGDAWgBT8OhHEwWh4Ktq/kfqDaOM31+kFATAMBgNV
-HRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4IBAQAwmXWEwkMyXUV6Tc84Uoi7QHJx
-C+e56VzTNFCw+mirnGMZQBEdQp2fywj6rrMQVTSFFBP1uTOXFEmD0ixxlg461DRq
-2Lr+Ba05Bw9vRjXg7bKFAgvyrBAWvWsFF4RKk6q6p7Wc/hM4U/lt4wM7zPWsJF5V
-dDmpVb9h7lJj7nhI4ZVKWyYR0UZDXWjGzx6WZa6/oqpQd9q09GfKgQDkWxOYtge4
-4bwv+CG+U/EZTyHSkRz3GYnZWP0ftV3Kt7088HN0YkxrpXiiA8y2IzoYa5XJ/SJf
-ZoIUf2zTOEtcW+1GYyDB5HtnT5zFVS7BnljDM+sylA02JXJpFrheAhLqhhPa
+MIIGeTCCBWGgAwIBAgIRAPkQ9CKHa4KsqaRE52c0KGYwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0xOTA1MTkwMDAwMDBaFw0yMTA1MTgyMzU5NTlaMFwxITAfBgNVBAsTGERv
+bWFpbiBDb250cm9sIFZhbGlkYXRlZDEeMBwGA1UECxMVRXNzZW50aWFsU1NMIFdp
+bGRjYXJkMRcwFQYDVQQDDA4qLm91ZWRrbmlzcy5kejCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBANca/za1azAp4Ka9FNn3cVk7j9UfS6Hz/GPjteP6XLVD
+6boCAEf3WaPdBXEUezCwRVPtOpGSv6KGTInNFFhOTVymOYdXqQm288Ls3RBA/Jqa
+HWfe7ZUA5zM7BFFnwmetzCitmT80c9crR0xEPyWBZKsupLUeJjW+NpNLrxehShg2
+FqfUiSB+5wl3EwRsi6z8CRAymqyDBX1WLUbte+SrOmDwykXppIpoyEiLFx/OdfkP
+Jey6y0W7CtunsWKbyX3OQEzzy/2jbs60Kk2VREMhCA2kUtTJU51YfKQ9cQXHmH34
+oxwohFoi6G3npDOIrtVtn0ZwrrQ4RXE4soSjZA486lMCAwEAAaOCAwAwggL8MB8G
+A1UdIwQYMBaAFI2MXsRUrYrhd+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBRepFj4/+Ox
+PM0a23TV5XbO+gCoMjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICBzAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5z
+ZWN0aWdvLmNvbS9TZWN0aWdvUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZl
+ckNBLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wJwYD
+VR0RBCAwHoIOKi5vdWVka25pc3MuZHqCDG91ZWRrbmlzcy5kejCCAYAGCisGAQQB
+1nkCBAIEggFwBIIBbAFqAHcAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e
+0YUAAAFq0hvtTgAABAMASDBGAiEAybUQWquW+ZdiUUfkSSOvcSpXbZ7WRhuD1AbI
+h4LRxCECIQCCYLPcmjOoYFMwqvvUMiw+cIaPNM7zYefYIcfMIeUREQB2AESUZS6w
+7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABatIb7WoAAAQDAEcwRQIhALbU
+Bd0GAmVwHnEqyOLseLTu+OI1OSNJ6DwsqPm70K2CAiASl5Qml+RIjtV7Cya5hTsG
+5WYomDACg6Ftv//kSb02NQB3AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgia
+N9kTAAABatIb7p4AAAQDAEgwRgIhAMz7b1YxFZJrWjjzxJBTUrMb64kKNrAZHDaM
+xbOW+gZQAiEA4SNHTEQfUnLjsWuTakvBf1MUH7Hfv8QkPOgIpyrR84EwDQYJKoZI
+hvcNAQELBQADggEBACEqKtcCCU22/1wgCXVnkpWD49Ej3TxtDUXyKhkN73GYzQoa
+CekIvHSS7liDuJRnSklRbH4vVUdB3MQUwjrDvr/J4NO5mO40KFlPff50alQJeP17
+fI4k48xAs7tK+ZSgbNJW5VzR6sQ/pLz0z3bKiMStcC+4RNczV2C9eXWx7k04ND4s
+VWPxx0dFSrAth/Rh9ZJGJdIDF+6ShcmMYcN71p5FSqMgIDx2D29butr3R9SF7cA0
+a7GFxA6kBMAqo2eMxFXnmH/yfJAEI+QrJsCQbQaoV8fcxNuyPu4PCiyEYLcRm56D
+AUoFUvQby83cRkvZ9mSIkERCM5dXV+kZLtcJL4Y=
 -----END CERTIFICATE-----
-subject=/C=DZ/ST=Algiers/L=Kouba/O=Ouedkniss
-issuer=/C=DZ/ST=Algiers/L=Kouba/O=Ouedkniss
+subject=/OU=Domain Control Validated/OU=EssentialSSL Wildcard/CN=*.ouedkniss.dz
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 1542 bytes and written 442 bytes
+SSL handshake has read 5266 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : ECDHE-RSA-AES256-SHA
-    Session-ID: 6E5465935C59D081BF1A540171474680C7F80158FD000B3DC7542B386D3FA4B9
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 14869F5EB82C7F8966703C743EFC47EB5310EF078056C5C4988064956EB3269B
     Session-ID-ctx: 
-    Master-Key: 90CBE653DA64DE81AD29811B7C59782293D042A0BE03A14FCD6F90999FA57DE586158CFAC14ACA2EB31409388DC84BA9
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 0C3CBC8528CE5ADB9283A34136035A52252962EFC8DA7FB35A01E33D6BA9F9B04A728531C0DAEFDE72AEF550AAA53EBC
     TLS session ticket lifetime hint: 600 (seconds)
     TLS session ticket:
-    0000 - b8 a6 fe 97 94 55 ed 6e-6e 22 b3 15 20 53 6d ea   .....U.nn".. Sm.
-    0010 - 12 3e c3 14 e1 1c 4d 31-66 de 3b 34 08 37 5b a4   .>....M1f.;4.7[.
-    0020 - 81 8c 4d 82 de 1a 9a 34-f2 ce 9b 3f f9 df 14 01   ..M....4...?....
-    0030 - c3 76 ed b8 cc 4a 1a 21-b0 ff 58 d1 d6 f4 92 53   .v...J.!..X....S
-    0040 - 0a 3c 2a 63 6a d8 42 42-c7 9b e0 33 bd 68 6f da   .<*cj.BB...3.ho.
-    0050 - 31 ee f9 7c 3a 26 e8 32-8a ed a8 6f 25 20 19 d4   1..|:&.2...o% ..
-    0060 - 39 88 86 a7 f8 74 59 fc-6a ce 7e cf 89 b1 6e 54   9....tY.j.~...nT
-    0070 - 70 70 f9 cd 7b c8 04 74-35 c8 e7 c0 f5 4d 80 97   pp..{..t5....M..
-    0080 - ce 9e 1a 1a 6b 24 7f 62-60 10 c6 a9 cc b1 db 26   ....k$.b`......&
-    0090 - 35 d3 71 13 07 25 42 79-1f b4 e5 81 27 a0 e7 58   5.q..%By....'..X
-    00a0 - c2 7f 3d c1 9c 09 c5 6f-50 e3 85 29 77 e3 75 dc   ..=....oP..)w.u.
+    0000 - 33 41 31 ad e9 e5 66 aa-49 e7 51 53 15 d8 92 aa   3A1...f.I.QS....
+    0010 - e6 4c 5d 33 0d b6 b0 8d-bf e3 ef da 66 31 f9 cc   .L]3........f1..
+    0020 - 03 5a 39 41 bc 3b 21 bf-7b 01 78 bb a3 8f c4 6f   .Z9A.;!.{.x....o
+    0030 - 0d e9 98 c3 b3 eb 01 b5-69 47 8a 76 08 c7 da c5   ........iG.v....
+    0040 - 08 6d 99 c2 8d 79 81 88-eb c1 18 ca 5e a3 ec 66   .m...y......^..f
+    0050 - a3 82 43 2f 7d c0 b5 be-49 fd 66 39 51 d3 27 57   ..C/}...I.f9Q.'W
+    0060 - 2d 87 90 d1 58 86 81 33-8d 46 bf 1e b7 87 a2 e3   -...X..3.F......
+    0070 - ab 7f a4 53 70 f3 41 f5-af 68 f1 54 a0 94 d9 fe   ...Sp.A..h.T....
+    0080 - fb a1 f2 6a c9 9f 15 5d-ab e8 25 6a e0 fe 73 d0   ...j...]..%j..s.
+    0090 - 5e eb 59 26 48 52 b3 5f-ec a0 8b a4 9c be eb 83   ^.Y&HR._........
+    00a0 - 18 ba 38 45 c1 8f f1 b8-52 bd 09 c2 2f 34 1f 2b   ..8E....R.../4.+
 
-    Start Time: 1472788650
-    Timeout   : 300 (sec)
-    Verify return code: 18 (self signed certificate)
+    Start Time: 1577475044
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

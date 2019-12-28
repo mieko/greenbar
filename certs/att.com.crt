@@ -1,51 +1,61 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
  0 s:/C=US/ST=Michigan/L=Southfield/O=AT&T Services, Inc./OU=CSO NetC CA/CN=att.com
-   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
- 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
- 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
-   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIE4TCCA8mgAwIBAgIQb4mQ06wevW3f9P1Dqsq/rzANBgkqhkiG9w0BAQsFADB+
-MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
-BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxLzAtBgNVBAMTJlN5bWFudGVj
-IENsYXNzIDMgU2VjdXJlIFNlcnZlciBDQSAtIEc0MB4XDTE1MDYxOTAwMDAwMFoX
-DTE3MDYxOTIzNTk1OVowezELMAkGA1UEBhMCVVMxETAPBgNVBAgMCE1pY2hpZ2Fu
-MRMwEQYDVQQHDApTb3V0aGZpZWxkMRwwGgYDVQQKDBNBVCZUIFNlcnZpY2VzLCBJ
-bmMuMRQwEgYDVQQLDAtDU08gTmV0QyBDQTEQMA4GA1UEAwwHYXR0LmNvbTCCASIw
-DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ0Zny8ICWTRSerwDIysects0WB+
-Ku48sjMRHFrmV+jhKIOb50Emny+G0QjE3y0+Vfpq9Rmgca4/6JbRQbFyheEixw/e
-ibKiVW7bHzIZjhKkrff82e3SAdOSWrIa+4Tn9EfpCihC1rW5IhAvN5xDMBIfjTaR
-1CNPzRNmNbg/M1/3Hhn/s03OqeiP+hvW3u+QFSQpAcrnVVOZZwKE1NnkAfihD+Vb
-Ojr0P8ciVfyYekScVBF4bKVRuLTKSJGG8KFR5dAVBhuV4vaDMivleQB2uvUpBsKG
-Si6tZotGZXiXpZXokcyV2jgEevkXtQ1Y9WMV2MY09fWi213doS4vGaJ1PrcCAwEA
-AaOCAVwwggFYMBIGA1UdEQQLMAmCB2F0dC5jb20wCQYDVR0TBAIwADAOBgNVHQ8B
-Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGEGA1UdIARa
-MFgwVgYGZ4EMAQICMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1jYi5jb20v
-Y3BzMCUGCCsGAQUFBwICMBkaF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBhMB8GA1Ud
-IwQYMBaAFF9gz2GQVd+EQxSKYCqy9Xr0QxjvMCsGA1UdHwQkMCIwIKAeoByGGmh0
-dHA6Ly9zcy5zeW1jYi5jb20vc3MuY3JsMFcGCCsGAQUFBwEBBEswSTAfBggrBgEF
-BQcwAYYTaHR0cDovL3NzLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3Nz
-LnN5bWNiLmNvbS9zcy5jcnQwDQYJKoZIhvcNAQELBQADggEBABXjKj8IagANXNuk
-RZYsVeYQZqbgV6kJZbBiAnqpdH6Hgqx5PUwQ4n3mbnkpodw/UzY0xdtrxfW1i1JS
-evSLVN9Nm4fm/41xlx+Acopr+zr0DjyhMLgpJrKyjsoCscDxXPPLqxSbTWmHDUSc
-QTLxX97VjY3ad2NCrntH6MLftz/91Qlgeu1Lp/HEySSUuBmBLeS55siXjt/TAci6
-wpJURKHvsRz/Zz9HXLXu6Tj3RK1uXsgOnO6WocT3seLOwbIhjHScoidhIjAQSvRA
-aWmFTI+8fEbZjQlzqxBKxGGQE1z8TTLr66yI60q/O7bGs0AJglm3m8s1aMiIGz9/
-2+ZNI2U=
+MIIGojCCBYqgAwIBAgIQAi7CygRcRsD+F74yyOi4CDANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTgwNzE0MDAwMDAwWhcN
+MjAwNzE0MTIwMDAwWjB7MQswCQYDVQQGEwJVUzERMA8GA1UECBMITWljaGlnYW4x
+EzARBgNVBAcTClNvdXRoZmllbGQxHDAaBgNVBAoME0FUJlQgU2VydmljZXMsIElu
+Yy4xFDASBgNVBAsTC0NTTyBOZXRDIENBMRAwDgYDVQQDEwdhdHQuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnvnil+N5CWkAZ1ATlvNF/AqMrYas
+cyZYODDYA9fpO3BwnsLvTg+slbiwtXJ/Hes1iuK8ODAQSyb8vTcGIbRYSoKaLzTA
+TJgLJ+TWZLZRCto8M9LWluqhV4/nHtijQaK/5GZ8j0GTLmBCRsPrda9UnzNT+Kc5
+DsAi6Yd4/DBLMn8WKdB41lq19ETf78MYWq1oIvsP1Ezy8Ypssb2MI5RQwEtOXInb
+Qs5SxRuH9vHHpAKDlK+DJae12WYzgfcJvSYJEOuK+Gw/IbneS3fqr4qZfI72UwT8
+HZLSDEE2JaUH8s+jvQbV32Sts1VRzwnfyhNKzug7LMKy5zBUMDscsyQ00wIDAQAB
+o4IDTjCCA0owHwYDVR0jBBgwFoAUD4BhHIIxYdUvKOeNRji0LOHG2eIwHQYDVR0O
+BBYEFAqTTZRUA6yEnK3ucHEJLNKlfK5LMBIGA1UdEQQLMAmCB2F0dC5jb20wDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBrBgNV
+HR8EZDBiMC+gLaArhilodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc3NjYS1zaGEy
+LWc2LmNybDAvoC2gK4YpaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NzY2Etc2hh
+Mi1nNi5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEFBQcCARYc
+aHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwfAYIKwYBBQUH
+AQEEcDBuMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYI
+KwYBBQUHMAKGOmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNI
+QTJTZWN1cmVTZXJ2ZXJDQS5jcnQwCQYDVR0TBAIwADCCAX8GCisGAQQB1nkCBAIE
+ggFvBIIBawFpAHcApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFk
+lw0nigAABAMASDBGAiEAwDX2hBHwKNU9yb2DxvpVrOE+NwM+mEwaoScAQa67L+gC
+IQCq3r/RfipTt/04y2qAQaRtg6qjevkbRcn9sgnSncTduwB2AId1v+dZfPiMQ5lf
+vfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABZJcNKEcAAAQDAEcwRQIgXTfJCTZFB0oq
+dVXe+6NSKgqj/dj2nqmbkbDunoTI1ZECIQC/6S/0vjylBFoVF4ULXs81t4dL7a8h
+28Fn/wSqnzRAcgB2ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAAB
+ZJcNKFYAAAQDAEcwRQIgBwJddXkGe4cKoZY5gsJ+iz4j2l3A+GBgo2avlPO+MOQC
+IQDsSyPgYGCamcPapD/HsHYwEzKNcIEhwSxrc2FGKQ9GtTANBgkqhkiG9w0BAQsF
+AAOCAQEAXhl1l5PBZDiThBeOed3DOFt3k0K1gRdAM3cOaZ9hQP7T73uoVCvdDJGo
+R8a8Ej8zh8LJfRp1MAale1UD8EKbPEsxS6eud8XIUQoZZC1Xyv2jyImKllK4dq7c
+/ks8cszoUQecJPtYR/zG7j304fkuZ1vANOraYNMpTyjLZDs7Vlr8O+E164ZUTTaC
+r6RiU6yQ93UVoghRc2SG7pyZtLPKBrS79HwZclMVMJzlcBAYabwuo/7qJc65YNUi
+t5DRcREEX/BQKImKwgCO7X3+iw/jjlbNrtGe70iGq/a8qlG8TBt2s6IDm8gmTSpB
+KCGPojH/hQDZ7Oilu4jwedlsYz2zww==
 -----END CERTIFICATE-----
 subject=/C=US/ST=Michigan/L=Southfield/O=AT&T Services, Inc./OU=CSO NetC CA/CN=att.com
-issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Secure Server CA - G4
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4151 bytes and written 626 bytes
+SSL handshake has read 4336 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES256-GCM-SHA384
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -53,28 +63,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES256-GCM-SHA384
-    Session-ID: E4E4BA99DCB63699401EFC4AA792E2CF12AC9866959927F78FBB82DD54A00869
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2EB491AF43B8C45397FC32392981EC5B0839761509EDDAFD7AE78E19FA113C6B
     Session-ID-ctx: 
-    Master-Key: 45394CB7C232092DA337827803E365512A7EF87755C5DB437DB380464C7C986332272010CE9B4350F281ED4C266F5C90
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
-    TLS session ticket:
-    0000 - 26 33 d5 63 43 28 bc 5d-6c 24 ed fa 69 05 a7 31   &3.cC(.]l$..i..1
-    0010 - de 55 24 83 5a 79 84 4d-e7 db 27 77 94 ff 7b 38   .U$.Zy.M..'w..{8
-    0020 - 4f fa 42 ec f1 4b b5 c2-a0 43 e7 bd eb e9 d4 c0   O.B..K...C......
-    0030 - 7e f0 89 2d 5a eb c5 96-50 59 0d 20 24 32 c0 45   ~..-Z...PY. $2.E
-    0040 - 58 a0 62 de 4d 43 4b 0a-80 b4 db fc 58 67 a0 d4   X.b.MCK.....Xg..
-    0050 - e8 87 6a 82 e7 6c a9 63-c3 8f be 5e 0b bd d8 3f   ..j..l.c...^...?
-    0060 - 3c 2a d0 7d cf 29 1b 66-11 09 60 b5 cc 06 7b 95   <*.}.).f..`...{.
-    0070 - 39 c1 ce 49 e6 1c 80 0e-7d 22 95 d3 4e f1 4b 7b   9..I....}"..N.K{
-    0080 - 62 05 6c 88 72 19 bf a1-80 01 a9 c1 31 1c b6 d5   b.l.r.......1...
-    0090 - 93 a8 f0 52 aa bc 2f 1b-c5 40 0a 48 26 bd a3 d4   ...R../..@.H&...
-
-    Start Time: 1472788193
-    Timeout   : 300 (sec)
+    Master-Key: F321EF75B98BE86B15F7EB97EF60ED607FDCC9F1D0964C378E29FBD8205E060C72F990634835C0CC49E5FD6ADD4018A9
+    Start Time: 1577475084
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

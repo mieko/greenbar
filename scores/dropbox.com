@@ -1,2 +1,4 @@
-"dropbox.com": "A+"
 
+HostName:"dropbox.com"
+"162.125.248.1":"A+"
+"2620:100:6040:1:0:0:a27d:f801":"A+"

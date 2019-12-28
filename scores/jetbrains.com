@@ -1,2 +1,0 @@
-"jetbrains.com": "B"
-

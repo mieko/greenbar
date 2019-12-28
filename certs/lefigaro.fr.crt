@@ -1,40 +1,56 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=FR/ST=Ech weiss net/L=Ech weiss net/O=Ech weiss net/CN=localhost
-   i:/C=FR/ST=Ech weiss net/L=Ech weiss net/O=Ech weiss net/CN=localhost
+ 0 s:/C=FR/ST=PARIS/L=PARIS/O=SOCIETE DU FIGARO/CN=i.f1g.fr
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte TLS RSA CA G1
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte TLS RSA CA G1
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIDpzCCAo+gAwIBAgIJALgc4xQHFWdOMA0GCSqGSIb3DQEBCwUAMGkxCzAJBgNV
-BAYTAkZSMRYwFAYDVQQIDA1FY2ggd2Vpc3MgbmV0MRYwFAYDVQQHDA1FY2ggd2Vp
-c3MgbmV0MRYwFAYDVQQKDA1FY2ggd2Vpc3MgbmV0MRIwEAYDVQQDDAlsb2NhbGhv
-c3QwIBcNMTYwNzA1MTQwMTQzWhgPMzAxNTExMDYxNDAxNDNaMGkxCzAJBgNVBAYT
-AkZSMRYwFAYDVQQIDA1FY2ggd2Vpc3MgbmV0MRYwFAYDVQQHDA1FY2ggd2Vpc3Mg
-bmV0MRYwFAYDVQQKDA1FY2ggd2Vpc3MgbmV0MRIwEAYDVQQDDAlsb2NhbGhvc3Qw
-ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDKTANEphDhAI/gy3kjr0tV
-GM4d722PF6dl6ZPAE3R/Hb6dulvspfyZPHa2vpb/utQ8WbbMzFN+cR6+nz96TQ+2
-LCCotq1LYd5dLrolyRrBP0PlnBe4BvJ1+iFif4yn8kLRoC+OdKhThZ1xeU/nB2HP
-22x98DiQ5yQNLQZ+IAdXPAcNquimkbAVsCMM07psRYt/hToXXYSCVJ/y+faeJ1GW
-9zCDCszRtXn8FrM13liVCeeYUN7CAeHCLwsLcMN8XN5cnZILbQKCBabujh+PboZ4
-HVvrrFqt5I4WLeub/JBt7ZQ/oUKV+uzLfjaZMi3J4Az0Gc6anrv91GEjm1WiPPH7
-AgMBAAGjUDBOMB0GA1UdDgQWBBSV8pjZ3uyYH4hQyBEMu6DahQ7fUDAfBgNVHSME
-GDAWgBSV8pjZ3uyYH4hQyBEMu6DahQ7fUDAMBgNVHRMEBTADAQH/MA0GCSqGSIb3
-DQEBCwUAA4IBAQAnLNbhLnAPFfPUGWh4Tqi49w1TBE48vIUE1yIXqGVEDOAALr2T
-yvXnf7pMQ1oJeYdmGd90wb8dGq26hMrUCXQNftC2KsEfRvUVp7r8z5He9H1Sd7tp
-izLAefjJdjT72trBESxITOwxRKmNfhwthF/4dXPg01fHpYoh71Y7eL1HjWm5EUq3
-oAYtzkjAejY2gNOwIrOmY9H9yH97Qiqihm5LxvXCLPJf5yfYIGykd4e/k2yPIGzu
-pr3IH5uJmx+VXx2T/Ttlwxn6Dj29egoxQTqJL4W1YI1L0XT3bIar5ZX6iYcQLh2g
-2lpaFN9u85HcbP2Hsu6rbABB33rLvESF2ccv
+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
+pLB9iU+kjgK6cHhoZfRGyNo=
 -----END CERTIFICATE-----
-subject=/C=FR/ST=Ech weiss net/L=Ech weiss net/O=Ech weiss net/CN=localhost
-issuer=/C=FR/ST=Ech weiss net/L=Ech weiss net/O=Ech weiss net/CN=localhost
+subject=/C=FR/ST=PARIS/L=PARIS/O=SOCIETE DU FIGARO/CN=i.f1g.fr
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte TLS RSA CA G1
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 1614 bytes and written 434 bytes
+SSL handshake has read 3489 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -45,28 +61,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 2F2CDF520F9F99531AE285B3DC63AF8F622391F902E5D5CBA3CD70F59BE43AE2
+    Session-ID: 097B4918C0C910E868C34E4DEB4629E90E2E13B9397E97E892FDC9AF49B58F16
     Session-ID-ctx: 
-    Master-Key: 77EA75948D040844378DBEFB804164EE8DA66F24CA51BC51D43E61BD98CF81FCE582CCB4DA1B8CE58E3F5F9B24A138E8
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: F27EBB48EFF01D67DEA6E7C6F3CBD3BE9D187E2D0E306DC1D04C5B102DD63E32F81B25E9426DC14F4C1C5B94586E2A5F
     TLS session ticket lifetime hint: 3600 (seconds)
     TLS session ticket:
-    0000 - 35 99 98 1a c1 d3 59 0d-04 a0 14 9e 0a 32 fd ad   5.....Y......2..
-    0010 - 83 3f 7b 90 c0 8f 74 2a-0f 92 ee 5e e0 7b 9e 52   .?{...t*...^.{.R
-    0020 - 44 08 0e 5d 0a a2 77 ed-8b a8 16 e8 e5 e9 0f 58   D..]..w........X
-    0030 - 1f 71 51 12 55 63 bd ac-d8 39 a0 4e 96 82 3a 37   .qQ.Uc...9.N..:7
-    0040 - 71 c0 8e f4 91 f6 63 0c-8a 1f 59 42 4d 57 0b 15   q.....c...YBMW..
-    0050 - a6 6e 88 6c b8 ff 5e a4-c6 ac 87 e1 1e 6f 3b 67   .n.l..^......o;g
-    0060 - b9 71 7c 19 af 62 64 63-90 f0 7e 3c 53 ce 54 9d   .q|..bdc..~<S.T.
-    0070 - 58 46 fa 2d 35 29 cc 78-df 7a bf 6a 75 ca d8 52   XF.-5).x.z.ju..R
-    0080 - 74 18 e0 eb 3f 22 dd 68-93 a8 b4 2c 4b f3 38 a6   t...?".h...,K.8.
-    0090 - 3f c3 49 b4 b2 dd 50 f9-f3 a1 aa 1e 2e b0 f2 ac   ?.I...P.........
-    00a0 - d3 a6 05 ce ba 02 c2 b8-9f 84 43 92 67 c6 eb 96   ..........C.g...
+    0000 - 02 fe 3d 3e ae 54 06 a9-1e a5 ec 4f 47 86 50 0a   ..=>.T.....OG.P.
+    0010 - c0 b7 37 73 7d d2 e0 45-5e fa fa 0e ef b2 82 8c   ..7s}..E^.......
+    0020 - aa 96 87 98 f3 0d 61 97-d4 e7 77 e9 56 50 f9 35   ......a...w.VP.5
+    0030 - 17 58 98 88 f8 8c ad c8-8d 70 7d fa 8f a0 b0 79   .X.......p}....y
+    0040 - 3a 86 45 c8 85 a5 4d 4d-15 c0 74 2e 35 15 60 17   :.E...MM..t.5.`.
+    0050 - 23 c1 12 f8 a0 74 a1 f8-43 6d 09 d2 cc 94 8e 25   #....t..Cm.....%
+    0060 - 32 f8 df 9b 34 e8 63 24-b4 dd 74 bf 81 7a 2a bf   2...4.c$..t..z*.
+    0070 - 78 b1 28 a8 9b c2 a4 a9-fd 9f 55 8d b5 9b df a5   x.(.......U.....
+    0080 - f7 2a 8b 5f 29 a5 fd c6-04 21 d0 91 7e 3e 75 d8   .*._)....!..~>u.
+    0090 - 91 9a 0c ad 00 e2 5c f5-85 e4 46 f3 36 28 87 c9   ......\...F.6(..
+    00a0 - 55 62 58 57 28 52 ed 40-72 ec f6 dd a4 88 18 bb   UbXW(R.@r.......
 
-    Start Time: 1472788636
-    Timeout   : 300 (sec)
-    Verify return code: 18 (self signed certificate)
+    Start Time: 1577475578
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
 ---

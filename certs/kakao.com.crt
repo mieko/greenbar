@@ -1,49 +1,58 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
  0 s:/C=KR/ST=Jeju-do/L=Jeju-si/O=Kakao Corp./CN=*.kakao.com
-   i:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
- 1 s:/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
-   i:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
- 2 s:/C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
-   i:/C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte TLS RSA CA G1
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte TLS RSA CA G1
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEojCCA4qgAwIBAgIQKlFjdkM1J5+e/yUk8CHBnTANBgkqhkiG9w0BAQsFADBB
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMRswGQYDVQQDExJ0
-aGF3dGUgU1NMIENBIC0gRzIwHhcNMTUxMTExMDAwMDAwWhcNMTcxMTEwMjM1OTU5
-WjBdMQswCQYDVQQGEwJLUjEQMA4GA1UECBMHSmVqdS1kbzEQMA4GA1UEBxQHSmVq
-dS1zaTEUMBIGA1UEChQLS2FrYW8gQ29ycC4xFDASBgNVBAMUCyoua2FrYW8uY29t
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwEHKZM9wxxtn0855uR2Y
-f/Drf/VFqtfSb36IAu257wPENNe5mk+l6hiRmukvFv3n6QNmfbBvAQdZhRIzQ8mM
-U3DRcPsIQmTdfp5M2WwwYBGtzFC5knKxw4msk9IB/YCyJE7xwEtBPYGwE8V2oOMO
-RvAiaH3lzsypKkTFyC1DtQ7QmMYrLk4keyFwrKcqJeWD3y9EmfC4maQDCf0D8/W+
-2PDwxw5vlmymHgWgxdxXf5Ueq7KdThDt67nYTh3ZsOc1FI+l0x1Sj7njCL/C9bvW
-FxHopctJgL6R70wf+dUcj45tgkoUmLWsVjfViCWh7ea6P7Mq2XNrx6TTSElZbKAY
-QwIDAQABo4IBeDCCAXQwIQYDVR0RBBowGIILKi5rYWthby5jb22CCWtha2FvLmNv
-bTAJBgNVHRMEAjAAMG4GA1UdIARnMGUwYwYGZ4EMAQICMFkwJgYIKwYBBQUHAgEW
-Gmh0dHBzOi8vd3d3LnRoYXd0ZS5jb20vY3BzMC8GCCsGAQUFBwICMCMMIWh0dHBz
-Oi8vd3d3LnRoYXd0ZS5jb20vcmVwb3NpdG9yeTAOBgNVHQ8BAf8EBAMCBaAwHwYD
-VR0jBBgwFoAUwk9IV/zRT5rAXTh9DgXb2S61UmAwKwYDVR0fBCQwIjAgoB6gHIYa
-aHR0cDovL3RqLnN5bWNiLmNvbS90ai5jcmwwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
-CCsGAQUFBwMCMFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL3Rq
-LnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3RqLnN5bWNiLmNvbS90ai5j
-cnQwDQYJKoZIhvcNAQELBQADggEBAKOpWmOYJxxBxbfcLb1uIrfBwwGig+s51EZK
-QOHraSKJ0aT5KVN+z1r1aRKazpWKNTwUlCy/0rcJyuPmpabaZj/Q04JWwgdezeGG
-7X1vZZ1+3BklZcsS9KSsryiNu3E3qc/VmMrNhD1+ALMlXkWW0sHSv9L0dAawPP3w
-+ws/++9Rky87YpqBneoRKoGBjX1ffjJozeTmMRYeqIeWx3+GplBKq4dc8vZ46fJy
-5Y8rfRHqtXtxmcmYDkoxNT0s2AQC1HxiGWNH/yl3SwziRVEPnaHeLL1DdNIto7AN
-6EfyV31ifHciJM0gU4MmBJL2RKhWAePZp7fpxfqwEYE8lLC6Ld0=
+MIIGaTCCBVGgAwIBAgIQA5dJWB+iU0svX/co5McknDANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRUaGF3dGUgVExTIFJTQSBDQSBHMTAe
+Fw0xODA3MDkwMDAwMDBaFw0yMDEwMDgxMjAwMDBaMF0xCzAJBgNVBAYTAktSMRAw
+DgYDVQQIEwdKZWp1LWRvMRAwDgYDVQQHEwdKZWp1LXNpMRQwEgYDVQQKEwtLYWth
+byBDb3JwLjEUMBIGA1UEAwwLKi5rYWthby5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDM396vfYTC0EC6JM5E/9wkUozN9PskOfZVDFHL1nLtVZiv
+l0GTjcmlqT+tydGLRM2VCflJ61LVKSIpe5F3HLRc8Sa1n0X4Sk6oEAtgQ5qrBRye
+6XaSBqtvLMQ2zFd8HmXpB+48jTwCo31HnRbKlVovl5so6cEbmoIZwwCHsYHvSYna
+nx+oR8JG34r7nUwkC+1Qad+J/mJxNlKfly1QE8nrw7Hs93xorv+ot3049W4AJVNS
+FYNr7hLT/MuJM47QV6BdAJ1Jz1L+3fJc+3n52Tt0naEQaI5n+dzbXbzKshHpGaCd
+Ynhj0bTeRRd0XTmkPk/322riNW1KVVAARbKTiJlnAgMBAAGjggMiMIIDHjAfBgNV
+HSMEGDAWgBSljP4yzOsPLNQZxgi4ACSIXcPFtzAdBgNVHQ4EFgQUPqxUOt4JvBSN
+YOUHbexk5MP/TCUwIQYDVR0RBBowGIILKi5rYWthby5jb22CCWtha2FvLmNvbTAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsG
+A1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jZHAudGhhd3RlLmNvbS9UaGF3dGVUTFNS
+U0FDQUcxLmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIB
+FhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjBwBggrBgEF
+BQcBAQRkMGIwJAYIKwYBBQUHMAGGGGh0dHA6Ly9zdGF0dXMudGhhd3RlLmNvbTA6
+BggrBgEFBQcwAoYuaHR0cDovL2NhY2VydHMudGhhd3RlLmNvbS9UaGF3dGVUTFNS
+U0FDQUcxLmNydDAJBgNVHRMEAjAAMIIBgAYKKwYBBAHWeQIEAgSCAXAEggFsAWoA
+dwCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAWR8+KROAAAEAwBI
+MEYCIQDjIlAfLwLbQV0guYGcsQ9jJXhVFMrKk0OvXJ0mtottRgIhAM5OsGt86lLq
+B5AYJPB3fh7AjLPKpPJaz0yAofIVZ/y5AHYAh3W/51l8+IxDmV+9827/Vo1HVjb/
+SrVgwbTq/16ggw8AAAFkfPilCwAABAMARzBFAiAyZ/eRqTw1l92H0i6sH+PgliDq
+HfWl5fdJMh2uxtAcUgIhAO9fbNWOoiJmwBEiDzgAOUW2zK8qXWTkQePPaH3mQDpO
+AHcAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFkfPilOwAABAMA
+SDBGAiEAsAprxjei4VeHMHbLMNfw8nFAkC7AUHKZaXszapdeVUECIQDyor4zARDR
+FdjNvZB5FZQpDyC/I33IBxecbHVDYdz2NDANBgkqhkiG9w0BAQsFAAOCAQEAmHA2
+Z0MWyMBQ94GXAUSDnRXod6buBhBde0EHqObJAPfnHphS2dbexsBlUiYuWGeXM7hW
+Whidr2TS6JizcVHUYrl39vi4tZ9xmHAoARWpkb3oEjujU/Rn4AdLbtd3nCBcLJp8
+PvEIHX73AOl5YTlHxJFJmLC5aTvdyRFeIshDHKQt23yI/jzhgNmESxgHCn3X2xej
+Z+8D0kS6tSLuu+sRxHGEg/K4iBR0bNVuJhG4oYGNIbvVKKrQhp3G4BRgerT8/gtb
+bqcNDZTwG7cPPb9O3Awr9P3jURAEjEkuBzGukV11nO6ALq39qi+Fg0y1e9a7k72A
+VN7mb5Hoj/94Ci+6vQ==
 -----END CERTIFICATE-----
 subject=/C=KR/ST=Jeju-do/L=Jeju-si/O=Kakao Corp./CN=*.kakao.com
-issuer=/C=US/O=thawte, Inc./CN=thawte SSL CA - G2
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=Thawte TLS RSA CA G1
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4158 bytes and written 434 bytes
+SSL handshake has read 4723 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -54,27 +63,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 5D416F2F673FF0C303E9BF714754C769FA1FAE789C806EFD0CE24245D6AC624B
+    Session-ID: 78F5F16AFBEF2632BDCBE39CC0E73C07CE7B37CCDEDAB6584B040E73E18E14B1
     Session-ID-ctx: 
-    Master-Key: 1ADF5F5AAAAFBBCDC69B6B4060908C81A9FB18ECDF3779E6270CD5BCB7E3568857F959B37C803267374370A39C072ABC
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 26C082947C44AD06280D2BA66C296724F41847CFC53254EE52F2E8C3FDB5E7CBAB05FE3B17452D9C48D09F77448BF65A
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - a9 61 5b 56 ad 95 9b 1b-c1 f6 71 39 fa 7e 7e 12   .a[V......q9.~~.
-    0010 - bc 2a d7 20 46 af 05 c6-4b b6 3e 8c c6 46 10 e0   .*. F...K.>..F..
-    0020 - 47 6b cf 0d e5 c5 b0 b7-27 e6 79 57 3c 85 dc fc   Gk......'.yW<...
-    0030 - 54 f6 03 3e aa b2 44 41-de cc 40 f8 ef 3c a8 b3   T..>..DA..@..<..
-    0040 - 24 07 ef 07 b8 28 a4 ad-9e cf 44 d4 1e f5 13 c5   $....(....D.....
-    0050 - a7 37 e2 82 51 d1 d3 b0-23 a5 e3 d1 0a 23 82 f3   .7..Q...#....#..
-    0060 - 0e 57 cc cd 7e ec f5 3c-ee 68 6d 40 4f db 4c fb   .W..~..<.hm@O.L.
-    0070 - 28 dc 1f dd ee cf 02 20-24 da f1 af e6 36 f3 b5   (...... $....6..
-    0080 - be 09 64 96 84 ec 9b fc-77 54 b7 96 11 c3 6a 97   ..d.....wT....j.
-    0090 - 04 1f fb b0 ee bc 9d e7-57 db 08 65 5c ea f6 b4   ........W..e\...
+    0000 - f9 2e cd b6 13 dc c5 26-b3 8b 94 29 f8 7f c6 01   .......&...)....
+    0010 - 78 b6 52 ce 3b 5f 26 bc-0a f1 2b 62 12 cc 91 6e   x.R.;_&...+b...n
+    0020 - 94 64 6c ee 9c 0e ec c7-08 f0 4e 93 8c 2d 7a ec   .dl.......N..-z.
+    0030 - 5e a3 24 bf e5 a0 1a 4b-43 c4 2a ce 0a 18 39 d6   ^.$....KC.*...9.
+    0040 - 27 a9 8c 7f 5f 62 1d 65-e0 8f 4e 2c 02 2f d6 4f   '..._b.e..N,./.O
+    0050 - 5a 18 19 45 a7 82 05 4d-f6 37 b3 2d 6c dd 19 6b   Z..E...M.7.-l..k
+    0060 - aa 84 3b ad d0 97 e6 6b-f6 16 b6 49 04 d3 26 23   ..;....k...I..&#
+    0070 - 4a 89 37 e5 4c ec 01 4f-4b a8 f3 af ae 3d ff 93   J.7.L..OK....=..
+    0080 - c6 96 ac 28 e8 8b fa ef-b2 63 a1 fd 1c c9 75 14   ...(.....c....u.
+    0090 - 3c 8c 46 30 dc bb 54 69-57 5d aa 4d ff 40 38 04   <.F0..TiW].M.@8.
 
-    Start Time: 1472790347
-    Timeout   : 300 (sec)
+    Start Time: 1577475351
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

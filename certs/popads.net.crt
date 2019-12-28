@@ -1,57 +1,62 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=Domain Control Validated/OU=EssentialSSL Wildcard/CN=*.popads.net
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
- 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
-   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
- 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.popads.net
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
+   i:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+ 2 s:/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
    i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
  3 s:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
    i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFTDCCBDSgAwIBAgIQP+z9g0cnjlRSN3PGx4fwJzANBgkqhkiG9w0BAQsFADCB
-kDELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
-A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxNjA0BgNV
-BAMTLUNPTU9ETyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
-QTAeFw0xNTA2MTkwMDAwMDBaFw0xODA2MTgyMzU5NTlaMFoxITAfBgNVBAsTGERv
-bWFpbiBDb250cm9sIFZhbGlkYXRlZDEeMBwGA1UECxMVRXNzZW50aWFsU1NMIFdp
-bGRjYXJkMRUwEwYDVQQDDAwqLnBvcGFkcy5uZXQwggEiMA0GCSqGSIb3DQEBAQUA
-A4IBDwAwggEKAoIBAQDOXvBctR+7WqvuQom73R3Sgky2DbKUDKL5AylXom8Z5LnH
-F63HfPkpZpLPJoqkhp41au3nz/5+3skVTqFK5lSefSXLpSfYm/J2WWvqIjwRSJzz
-P2W9lRy56E7JJX6xpDMp40YGj0wBBVHLAOuTIngCnUQc5lY1CLonJ/p1aTU/yOmy
-KwhPtSUA5ZGapeyrKBhjKHg6UCS4dv6lQKaod4KOKY3sgJdlotWfw/SC10//ABfD
-98qSZIGtdziYmDdlkCRJVH40oDq75jteYioVVuFPxKHtzLiO9eXH/Blke8a+Vxeo
-UnxmT3pqGPza938si3lAycLfzX1hcQErBuMI40RlAgMBAAGjggHVMIIB0TAfBgNV
-HSMEGDAWgBSQr2o6lFoL2JDqElZz30O0Oija5zAdBgNVHQ4EFgQUYyc7gqavzRuX
-8/4KziosCrqLXlowDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0l
-BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYBBAGyMQEC
-AgcwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9DUFMw
-CAYGZ4EMAQIBMFQGA1UdHwRNMEswSaBHoEWGQ2h0dHA6Ly9jcmwuY29tb2RvY2Eu
-Y29tL0NPTU9ET1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcmww
-gYUGCCsGAQUFBwEBBHkwdzBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5jb21vZG9j
-YS5jb20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNy
-dDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMCMGA1UdEQQc
-MBqCDCoucG9wYWRzLm5ldIIKcG9wYWRzLm5ldDANBgkqhkiG9w0BAQsFAAOCAQEA
-IsspeF6mztFV1HAZtDujl/S2ePB5U731la2Tg8ilM3MaDIR/nkINEYhn65pvESXU
-lj+ANhgtWNlYyvdbjbZG6lCK8s3qZ4o2EwKSRF370TZT0ZkYcJlyc/hPVODpk2k4
-uY07DWIMpxg/hE0NB2OAQ6DMOzd7YyXddWnvjU1M2e/xcKKchy+rb/45ojgPTstQ
-5OHGggSqbhzvprRYo6YDEAT/+xOHrkB1opuEK345HaJC61gJyJTmCRptFbCSCArD
-TT3o4A+hytIsylh1ff3a0NDpqkS+UwfN50MB0E9lZ+b8qJOStEVn0dkaYY+nR1MI
-9B/d4lUGGEtPxyxyal3egA==
+MIIGcDCCBVigAwIBAgIRAP8mOEdDBO9v/lpJugr7kWUwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0xOTEwMjkwMDAwMDBaFw0yMTEwMjkyMzU5NTlaMFkxITAfBgNVBAsTGERv
+bWFpbiBDb250cm9sIFZhbGlkYXRlZDEdMBsGA1UECxMUUG9zaXRpdmVTU0wgV2ls
+ZGNhcmQxFTATBgNVBAMMDCoucG9wYWRzLm5ldDCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAMkul8qKazX/Mx7yr5vdpYR8VEGWD9FTknYzZwSZCLxPSgm9
+HkNSPpjj8edgrUUx4mb+LF1nsRoD/4XN3gFI5OSneVI4DN00stkJeKU4GkCnuflI
+3ZcZ4EBe2z52Fzry178rgHm4v8+AYdWuZeBQfrOuwLe8YcNnQLi/qv3ZqZ87Rc/E
+rW5CNZkaM2VGZsQvcKDUn//YtajFTxKb/fROcurrQ82kDqSNlHc1fmJBH2EU9P4i
+MFF5zibTlLYLJnZGmS2iVRQlHW5wtlVPDA16Ek7jFhoB3MBZIkZHVvcEnilWPst1
+Qk7jTQQrI/3FgC2xfoG9LEdz0wXoxWiZEkArC08CAwEAAaOCAvowggL2MB8GA1Ud
+IwQYMBaAFI2MXsRUrYrhd+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBRRj9KKpx1mMQYL
+iEpfRKnPs7FtKzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQIC
+BzAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwB
+AgEwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0
+aWdvLmNvbS9TZWN0aWdvUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNB
+LmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wIwYDVR0R
+BBwwGoIMKi5wb3BhZHMubmV0ggpwb3BhZHMubmV0MIIBfgYKKwYBBAHWeQIEAgSC
+AW4EggFqAWgAdwB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAW4Y
+Wy2uAAAEAwBIMEYCIQCE/CVmx47CMmJFQtvMMdgNJq3P3+sLnL2hPOV7DP2ECAIh
+AM2dp6XrQ7uFxeyUk923ieyfaYw1bGWH0nv8//AK6Pr1AHYARJRlLrDuzq/EQAfY
+qP4owNrmgr7YyzG1P9MzlrW2gagAAAFuGFstrQAABAMARzBFAiEA5y3u8lU3Qar8
+OY6h70rCXut1zsBDrn4ZBhL8gtRyvUkCIGRo6ulCel/4Y8vJa3Wk0VZzargE0CHR
+O3/4+NxsYkymAHUAVYHUwhaQNgFK6gubVzxT8MDkOHhwJQgXL6OqHQcT0wwAAAFu
+GFstxAAABAMARjBEAiBBrOVzFk4rxuSjL8pxJDOwNUj7jcvTyPUT15p4pzs1lAIg
+PY0oeEDRrXLI9LLynSFXesma3UT9TRrjQVhV9BoKD7swDQYJKoZIhvcNAQELBQAD
+ggEBAGRtURArfG/YpM4IPXvkvaC8CInsfzFacE9rU2zBinuGvYGKYoSHfmkpXqZN
+cxF1eXoqL5sPidsEOACQpCR/7Zm79KgYlvWyU3+PVI95IK8uRUqRc/RepngQHZot
+0vmT8hb5istu+DqXE1RM5n+fQZ1WeLYmg6s4hnW25rYNmIuvKgmvhpfOBuwPGWS9
+YqYKM3ZiDsetul49nmNHgiaRZRnA+n5qLVdFLib2K7AKiRIbYIRyFxRAAYJyd7v2
+YtEgmjwNZ+ajd/q261qfB/5zvCvznbcCjZWuc37TX0eVhTqi/XGZFGw/HnfaGUYd
+Rgk/pyaapGzQBA6Pop1VLXlRJYY=
 -----END CERTIFICATE-----
-subject=/OU=Domain Control Validated/OU=EssentialSSL Wildcard/CN=*.popads.net
-issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+subject=/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.popads.net
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=Sectigo Limited/CN=Sectigo RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA256
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 5894 bytes and written 434 bytes
+SSL handshake has read 6256 bytes and written 378 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -59,15 +64,11 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 6CE3DA9EAB0261DC0460A9619FA5581738C3C7F35BD79CD4DEB7636FB2FACD38
+    Cipher    : ECDHE-RSA-AES256-SHA384
+    Session-ID: D88CBB194D297EA79621D9D956B96F61AB139DFA1021C3E4068B2A2B91429111
     Session-ID-ctx: 
-    Master-Key: 92562CBDA37DD910FABAB6DE3A259A56DDC7D43FEF14553A58999BA39017590AD8E83945293C82B1060CB41F57ACAAFD
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472787921
-    Timeout   : 300 (sec)
+    Master-Key: 12177FC41DB7EB973F7614FFC14920E910EAFD2B2170925EFBDF6193225E5C58D9BF3E463F33BC47AD445DEA0ABE599A
+    Start Time: 1577474973
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

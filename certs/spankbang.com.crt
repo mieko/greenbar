@@ -1,27 +1,80 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
-no peer certificate available
+Certificate chain
+ 0 s:/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.spankbang.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVTCCBD2gAwIBAgIRAK4IbduweujY/TIVWTZsNOcwDQYJKoZIhvcNAQELBQAw
+gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
+VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
+Q0EwHhcNMTcwNDAyMDAwMDAwWhcNMjAwNDAxMjM1OTU5WjBcMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxHTAbBgNVBAsTFFBvc2l0aXZlU1NMIFdp
+bGRjYXJkMRgwFgYDVQQDDA8qLnNwYW5rYmFuZy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC+bN+YEIgRCqoH9JV3xXU2NfeFNqmXnZyQvQc+u+no
+X6QU3pmtBzRrKVfIRk2j/3ylS+fhzrWSDroYaE3SQiACNTeN8vkH56kVPruBoTeC
+FH58j0Cv6Is9LPbeWVUQfEsYLgseEiJDw9v9mEu/Sf4nJ2FxhYjaWlXcHkNAEu2s
+m5gzEu/gYLW2hlXB1cMFTaFgW9F5EFE2NNwK5lyTSou60Hc+Dy7yQ0PXkfk+GOju
+NWEwnNHlPPwWNXMIJJB4TlN7L4xLWg5TYa5sjE4TIIqtDppMguznrDgO6WSuNHw/
+9vYn2ImkTwQlS0wNugtVxa7EqZe09a2/ETxMxxemfqHLAgMBAAGjggHbMIIB1zAf
+BgNVHSMEGDAWgBSQr2o6lFoL2JDqElZz30O0Oija5zAdBgNVHQ4EFgQUXR7LN+bs
+iYKTeSOpE5jT2Qce/9wwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYBBAGy
+MQECAgcwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9D
+UFMwCAYGZ4EMAQIBMFQGA1UdHwRNMEswSaBHoEWGQ2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL0NPTU9ET1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5j
+cmwwgYUGCCsGAQUFBwEBBHkwdzBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5jb21v
+ZG9jYS5jb20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNB
+LmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMCkGA1Ud
+EQQiMCCCDyouc3BhbmtiYW5nLmNvbYINc3BhbmtiYW5nLmNvbTANBgkqhkiG9w0B
+AQsFAAOCAQEACvlPxZpRgy8fib6dwmXBI7yc4htevMCHfOkCqqZTNsrTUXQokcKK
+CDzdmqqsyMWUtjxSfhS0eyoYGFHPcnqP1gXvpqc6PRkiAVc7nH23OaAVkY0yxKq9
+IK6fyoc7GNjBwiKXP1c5UxDesF5Zd+N31B3Mgh0AWvkKaU0r7t0LT5zy8RAEGnNn
+QYqHQp7CWs7inLNTnMZuLTQMs197kFds30996q5mQ9NbwN3TeCyNRA22Uf+mubMf
+W+kdhrCt8QQKz/pYGLbseFh8QIA+thu7T7aJPhPQK+UbaKPxTGqM0sMpNaYhCD8r
+XpUa5Iqy0Mai/OqJZAofVlGJJLzeLj0oiw==
+-----END CERTIFICATE-----
+subject=/OU=Domain Control Validated/OU=PositiveSSL Wildcard/CN=*.spankbang.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 7 bytes and written 308 bytes
+SSL handshake has read 4950 bytes and written 281 bytes
 ---
-New, (NONE), Cipher is (NONE)
-Secure Renegotiation IS NOT supported
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : 0000
-    Session-ID: 
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: C84D7B49E64765BD3B06C97EA94F07506D8B3BE1A726DB95E8A829E4E374327F
     Session-ID-ctx: 
-    Master-Key: 
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788454
-    Timeout   : 300 (sec)
+    Master-Key: A7A92674F688A094411482105099E059E7DA50217EE46BC05ED9E0D4D99359D08777791D20C796CF2B529D064A6AF33E
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 35 7d e3 3b 61 c1 ba 91-9d 1b af c8 e3 29 99 51   5}.;a........).Q
+    0010 - 0d 3b 76 07 86 a7 70 83-28 57 17 11 aa 32 71 00   .;v...p.(W...2q.
+    0020 - af f1 2b 9c 72 ec c3 32-50 df b5 8c 23 a2 1c e8   ..+.r..2P...#...
+    0030 - 5c 7a 1b c7 4a 43 e6 87-2b af 20 20 0b be 46 42   \z..JC..+.  ..FB
+    0040 - a9 32 c1 72 fb 61 21 6e-7c c6 9b 95 a5 8c b9 85   .2.r.a!n|.......
+    0050 - 4c 0d fa 6c 35 29 52 0c-e4 49 74 35 da 9e 0c 84   L..l5)R..It5....
+    0060 - 36 f6 41 ba 81 a2 95 5b-08 cf ea ec 2d 13 e2 5d   6.A....[....-..]
+    0070 - b6 dc aa 98 f4 b7 09 5c-d7 a9 be 9d d4 9c 2e ac   .......\........
+    0080 - 86 d3 d3 92 09 d0 50 e2-ea c3 fd c9 26 0d 81 93   ......P.....&...
+    0090 - f2 ae ee d1 c9 b6 0a 44-6a 85 bc 1a 13 1b e1 de   .......Dj.......
+    00a0 - fe 1c d5 a9 73 24 41 94-1f 96 80 15 05 3d 2d 71   ....s$A......=-q
+
+    Start Time: 1577474933
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

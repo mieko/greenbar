@@ -1,0 +1,80 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/CN=imna.ir
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFmjCCBIKgAwIBAgISBBjfBTdb8VZ5NZVPV4onf/93MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMTQwOTQ1NTlaFw0y
+MDAyMTIwOTQ1NTlaMBIxEDAOBgNVBAMTB2ltbmEuaXIwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDNAkio4WY0RBAFcpwREuiewv3GTWyIlNCioQjuPqaX
++qyWVx0ZJHPiY3MPM68KGDMQP38LYD94+koPjSl4WQvQ8BlroPvWLy+pZi7u2NDm
+1PMj6LYc3BBHfrJhhrwylSNo6DtR3UwGxaISvaBcVrdghltfG8P8MaVfCp8QgvwU
+NtluKAKBDGfsfByZMH2OkNsGQvNmUn8IMDpk1wNclZCVKBj4qPFw8+TV8e67VrKu
+BSGzAo6dufM6Reu4/8Fa6UeflPtVuqBAKdRoJ1HLe4EN1AVPFt5boflXFf3yC+7q
+PSRI+MpAICruu3BnEQwPb4impKAj4F6ccPYNmqvX6Pa7AgMBAAGjggKwMIICrDAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFISlnkCciEsuO9KYMAAtm+hy+XUcMB8GA1Ud
+IwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAuBggr
+BgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAvBggr
+BgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8wZgYD
+VR0RBF8wXYIKZW4uaW1uYS5pcoISZW5uZXdzcm9vbS5pbW5hLmlyggdpbW5hLmly
+ghNuZXdzcm9vbS5lbi5pbW5hLmlyghBuZXdzcm9vbS5pbW5hLmlyggt3d3cuaW1u
+YS5pcjBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkC
+BAIEgfUEgfIA8AB2APCVpFnyANGCQBAtL5OIjq1L/h1H45nh0DSmsKiqjrJzAAAB
+bmmFE0UAAAQDAEcwRQIhAPF7BnqS85YtYrEEabFHEQR8tJYw+QTcI+Bt+LkQlR6h
+AiA13NG+b9b3WD+C6ZE0mhHFXX2Jjq+pPxEYlFKnQucymAB2ALIeBcyLos2KIE6H
+ZvkruYolIGdr2vpw57JJUy3vi5BeAAABbmmFEzYAAAQDAEcwRQIgD+JbfTfkoy1I
+48rx259722qNrV6Q9tczlUgt2WlmRbwCIQDxCkJMK95XbFtmc04bM78ZTyN5LbkT
+o++sFUsNS0g/AzANBgkqhkiG9w0BAQsFAAOCAQEAICNq0+3KIRy+pCpFFUBaZM34
+sC+sp4KdcG5k3uJNGImLmvraT7I7qTF+DvfvqGDi1lHkYNbTYHHOQnLMeaqQ7RvR
+tSpcjsTIDDgMCts5JEUl21RlEBwgmgRr1yVykyrYXtyUKA1DrqsiXhDWkQfya6JE
+DHo218hEeLJCqleJA2i9aUiU37GRnAd5Op0hDlOuewE6GcSWPLV2HhxStMxNic8a
+Le8d6mUCfmvREYun/7j+fzLI53H17+kVOuJ7JUFmmJeTUJvVVMg9COIt6ytV1NNP
+dxzslEzVuhRruhWyD4DIeRrnGAthQXau7moKNB04wnU5ZB8ffyDCYxyQhK1Pzw==
+-----END CERTIFICATE-----
+subject=/CN=imna.ir
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3301 bytes and written 322 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: E1AD54D9F1BB1D11F3DE4EB372216174764E6EF3EDAE1AC83F090BD6041B834F
+    Session-ID-ctx: 
+    Master-Key: 363C62C6EDCD63235FD92B29CE28BE0192375BCB8A7B398E0F045C5046C6A00A9F71B1894152693CA7E9099A286B5E35
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - dd bc e0 08 ba 0e cb 04-55 1f 6b 04 a6 2f f2 ca   ........U.k../..
+    0010 - eb d4 56 cc 3c cb 04 bb-de 9c 19 ec a4 6f 82 fc   ..V.<........o..
+    0020 - bb c7 e1 36 32 4d 90 4e-0a 3c fc 67 58 cf 6d f5   ...62M.N.<.gX.m.
+    0030 - 95 a4 94 b2 50 52 f0 64-7b f4 6f ca ad 12 8e 5b   ....PR.d{.o....[
+    0040 - f7 ab a0 0b 07 2a 88 2b-90 92 54 34 21 27 d5 cf   .....*.+..T4!'..
+    0050 - 79 4c d6 47 67 63 10 c9-1c 15 e2 83 75 f3 96 42   yL.Ggc......u..B
+    0060 - 6c 8d b7 76 eb ab 8c d9-9f 08 81 97 12 47 af 16   l..v.........G..
+    0070 - 9c 17 f3 4b 6c ab 53 9d-78 27 fd 0c a5 56 08 38   ...Kl.S.x'...V.8
+    0080 - cb 42 11 ca 94 69 42 ee-72 e1 71 53 89 d0 cb 97   .B...iB.r.qS....
+    0090 - 2f 0f 25 3a 3b 15 63 95-e8 27 05 ea 61 0c 24 c8   /.%:;.c..'..a.$.
+    00a0 - 9a 53 14 88 e3 39 07 76-4c e6 b1 af 9a 8f 4a a6   .S...9.vL.....J.
+    00b0 - d8 3e 23 00 72 82 f2 ab-62 6a 10 42 2e e5 71 dd   .>#.r...bj.B..q.
+
+    Start Time: 1577475923
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,52 +1,72 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=CN/ST=Beijing/L=Beijing/O=Beijing Jingdong Century Trading Co.,Ltd/OU=Operation Department/CN=*.jd.com
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+ 0 s:/C=CN/ST=beijing/L=beijing/O=BEIJING JINGDONG SHANGKE INFORMATION TECHNOLOGY CO., LTD./CN=*.jd.com
+   i:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign RSA OV SSL CA 2018
+ 1 s:/C=BE/O=GlobalSign nv-sa/CN=GlobalSign RSA OV SSL CA 2018
+   i:/OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFDTCCA/WgAwIBAgIQQW3qy1YKwJly0zzHPRpeAjANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
-R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTUwMTIzMDAwMDAwWhcNMTcwMTIyMjM1
-OTU5WjCBljELMAkGA1UEBhMCQ04xEDAOBgNVBAgTB0JlaWppbmcxEDAOBgNVBAcU
-B0JlaWppbmcxMTAvBgNVBAoUKEJlaWppbmcgSmluZ2RvbmcgQ2VudHVyeSBUcmFk
-aW5nIENvLixMdGQxHTAbBgNVBAsUFE9wZXJhdGlvbiBEZXBhcnRtZW50MREwDwYD
-VQQDFAgqLmpkLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMZf
-JBDqpIbtUBpcIGO3d84mzrR6XpEUD9JQ4lz4+dEL/NIhNUjAJLgtSNrtdCAEnJYj
-t6JBMcZPY7VAmg4YxWqbRSBpgeVQPlihNuHH7c7+QuEHts3VqY5RmMJ3I2MI2V/e
-cK25/VKofClnDFoOODSfJNKxrf/dD+yDo39pIR8NaSfS1G/LIqwekDZ15YSgbnk3
-8gVAt8KKe6NpFRqxLIxJLZnrq6TBjLdek6Ze0hAVasGmiSI5I+I7bMf8mDJQTuTK
-JGmfKAc/t8L9mE7UHfLAJs2XgKDobiu7tYPiQ77on+DagOQYKRLYyz69ptc02bn0
-42eH6jgTgEddNMWJfRsCAwEAAaOCAaYwggGiMBsGA1UdEQQUMBKCCCouamQuY29t
-ggZqZC5jb20wCQYDVR0TBAIwADAOBgNVHQ8BAf8EBAMCBaAwKwYDVR0fBCQwIjAg
-oB6gHIYaaHR0cDovL2duLnN5bWNiLmNvbS9nbi5jcmwwgaEGA1UdIASBmTCBljCB
-kwYKYIZIAYb4RQEHNjCBhDA/BggrBgEFBQcCARYzaHR0cHM6Ly93d3cuZ2VvdHJ1
-c3QuY29tL3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUFBwICMDUM
-M2h0dHBzOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9s
-ZWdhbDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU
-0m/3lvSFP3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzAB
-hhNodHRwOi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ24uc3lt
-Y2IuY29tL2duLmNydDANBgkqhkiG9w0BAQsFAAOCAQEATl9/AnkGS/GhAe9SwUcp
-ZUbs/FWJ289ltglNRRo8zDI3fmAU2kl9SbpJRSrk9zUwaBUG16VK6ZfOXrqaSuX7
-DjVAJ7SFKCJsqDT9DYUDDZJ5UmdW97Zw+3VQ2mclDvx3Zb78EZ1RaUuTRV/MJqS0
-uVipOjy2NC+CiWwr5txfPdQDsqthyp4As/wpCK5ZZmrS5QhouQJTh5Z+1ovwp5so
-LHLMNDsJa9DJwGw9gSvgjQU0UhS3G+JOp9cnN19zbGZihZYsP1eTssxjc+Gzxhpy
-S0IONeegTqO9x03o23zhYgnPSxtj6seMt4LQVJGSwAFOi04gm1xtp37FDzEhD+a5
-1g==
+MIIJGjCCCAKgAwIBAgIMbDMr1+p5ilg8R6xXMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0xOTA3MDgwMjQ2MTJaFw0y
+MDEwMjgwOTQyNTRaMIGIMQswCQYDVQQGEwJDTjEQMA4GA1UECBMHYmVpamluZzEQ
+MA4GA1UEBxMHYmVpamluZzFCMEAGA1UEChM5QkVJSklORyBKSU5HRE9ORyBTSEFO
+R0tFIElORk9STUFUSU9OIFRFQ0hOT0xPR1kgQ08uLCBMVEQuMREwDwYDVQQDDAgq
+LmpkLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALyERTDtn1uV
+gIjESg7Fbf8TVR4HojifTvxgzyEGqwiILIaj75fpLihfNoolxlBuZepfbinVu/Ae
+SUitRl6RmKxx3JN7/L9w9aUHwBXX+OanzR6oErIdXwVPLMDQd+e+mzHITUUHRGcs
++E2qBTBXzYnW8MLDNB4QDmrUj8cJqcXAyRkAS1cD/3pMQDSMeMjmhUwxecfjlv3I
+n83AoG5kSFFrqZ3bRgHgzNd05fX+acOQxBtvS5QshxXtYy14rH2wPfSB7xw7WdRV
+9ytJEM604LRVBQMq26Hujwkg7xEef+3iyg4HurrFxJOxbx8JIvuGt+EEpjxRCE3T
+yS0ihSBIDOUCAwEAAaOCBbkwggW1MA4GA1UdDwEB/wQEAwIFoDCBjgYIKwYBBQUH
+AQEEgYEwfzBEBggrBgEFBQcwAoY4aHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNv
+bS9jYWNlcnQvZ3Nyc2FvdnNzbGNhMjAxOC5jcnQwNwYIKwYBBQUHMAGGK2h0dHA6
+Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2dzcnNhb3Zzc2xjYTIwMTgwVgYDVR0gBE8w
+TTBBBgkrBgEEAaAyARQwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFs
+c2lnbi5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQICMAkGA1UdEwQCMAAwggLKBgNV
+HREEggLBMIICvYIIKi5qZC5jb22CBDMuY26CCjM2MGJ1eS5jb22CDTM2MGJ1eWlt
+Zy5jb22CCjdmcmVzaC5jb22CC2JhaXRpYW8uY29tggljYWl5dS5jb22CEGNoaW5h
+YmFuay5jb20uY26CCGpkLmNvLnRoggVqZC5oa4IFamQuaWSCBWpkLnJ1gglqZHBh
+eS5jb22CB2pkeC5jb22CCmpveWJ1eS5jb22CCWpveWJ1eS5lc4IJb2N3bXMuY29t
+ggpwYWlwYWkuY29tggt0b3BsaWZlLmNvbYILd2FuZ3lpbi5jb22CB3loZC5jb22C
+EHlpaGFvZGlhbmltZy5jb22CC3lpeWFvamQuY29tggx5aXpoaXRvdS5jb22CBiou
+My5jboIMKi4zNjBidXkuY29tgg8qLjM2MGJ1eWltZy5jb22CDCouN2ZyZXNoLmNv
+bYINKi5iYWl0aWFvLmNvbYILKi5jYWl5dS5jb22CEiouY2hpbmFiYW5rLmNvbS5j
+boIKKi5lLmpkLmNvbYIKKi5qZC5jby50aIIHKi5qZC5oa4IHKi5qZC5pZIIHKi5q
+ZC5ydYILKi5qZHBheS5jb22CCSouamR4LmNvbYIMKi5qb3lidXkuY29tggsqLmpv
+eWJ1eS5lc4ILKi5qci5qZC5jb22CCiouay5qZC5jb22CDioua21hbGwuamQuY29t
+ggoqLm0uamQuY29tgg4qLm0ucGFpcGFpLmNvbYILKi5tLnloZC5jb22CCyoub2N3
+bXMuY29tggwqLnBhaXBhaS5jb22CDSouc2hvcC5qZC5jb22CDSoudG9wbGlmZS5j
+b22CDSoud2FuZ3lpbi5jb22CCSoueWhkLmNvbYISKi55aWhhb2RpYW5pbWcuY29t
+gg0qLnlpeWFvamQuY29tgg4qLnlpemhpdG91LmNvbYIGamQuY29tMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBT473/yzXhnqN5vjySN
+iPGHAwKz6zAdBgNVHQ4EFgQUFP+6Tg32GWfKhMKtEQAmvJL/SZ0wggGABgorBgEE
+AdZ5AgQCBIIBcASCAWwBagB2ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaO
+HtGFAAABa895gLAAAAQDAEcwRQIgV2Zdx5er3gk9f9d/508cAt1xpJEhuLURXXuy
+UXc34BwCIQCIBQ5ySCq3wmJ2kenCOYHZdeRoT+duogy3zGNW9xmu2wB3AG9Tdqwx
+8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABa895fVsAAAQDAEgwRgIhAPO6
+dkWxDIbqB/OkQ4ioLzJoEc1c1wnhKPYQetOS6j+gAiEAwGzfQw6G93mJL3CDr4r2
+bku7mT4W7a0Hz6T7HOkKtn0AdwBVgdTCFpA2AUrqC5tXPFPwwOQ4eHAlCBcvo6od
+BxPTDAAAAWvPeX01AAAEAwBIMEYCIQClIH77BsiRDoKoXlg9toc8Q5CuBq43niZ1
+gSVwK20f6AIhAPL/SNa2r3jQ3x83dockQgC9dqN1WEhSy150DZ/E3G3pMA0GCSqG
+SIb3DQEBCwUAA4IBAQCQKuIdbYpSo0PY4gZ2ZylBF6dIqGPgYgZN/dn0w1NFRgBj
+GwVJcJsbnU6ckbBmfK8CPNFnKa5K2CjLbxe6LvKleIK5dd1+931zf5Nu05FPZN3s
+naec3+zKOK/DS2KFVBM8tOz0Qhgwqf43cwT5QVBMNj/FGqPvvhY1nd6NgQGRnf1V
+MchCbk9//rUEQXSUXtTwc/Kv9gF86bxUK5mykqVnGezaCGgJc4l1A5OYCGivemVj
+B8ZCqH+FP56M6kYMh/jFjutyuK3DbVNSgpt5qdrcQKIqM/uXz3UIW+Sx1yUvt19Z
+qb/CzIo9hvVxQvtAEk5ds1jKVEGv9he3pR5U/kcZ
 -----END CERTIFICATE-----
-subject=/C=CN/ST=Beijing/L=Beijing/O=Beijing Jingdong Century Trading Co.,Ltd/OU=Operation Department/CN=*.jd.com
-issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+subject=/C=CN/ST=beijing/L=beijing/O=BEIJING JINGDONG SHANGKE INFORMATION TECHNOLOGY CO., LTD./CN=*.jd.com
+issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign RSA OV SSL CA 2018
 ---
 No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 3620 bytes and written 626 bytes
+SSL handshake has read 4080 bytes and written 289 bytes
 ---
-New, TLSv1/SSLv3, Cipher is AES128-GCM-SHA256
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
@@ -54,28 +74,25 @@ Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
-    Cipher    : AES128-GCM-SHA256
-    Session-ID: 9738DC7C0D0A4EE322B6BCA3A9509F15B4EB3FD1707E5F2230411189CC7FF06B
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 273DB49C2FF810F9DB67FA666DFD62495DBCA235C5B81A7B840814391E61A86C
     Session-ID-ctx: 
-    Master-Key: 2D489E7860C12A60FB84B34A1C8AC78CFA9042226D9412170717F944FB6142210CF720947E94B648C72C91476B3C5237
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: A9B2001A0DC1712CCFF20C9DB882A2A8A9AC063629E7BD2AB0A1264FD43BD96F1D2427A71B51F52B182DD63A97CFC4E3
+    TLS session ticket lifetime hint: 86400 (seconds)
     TLS session ticket:
-    0000 - 5f da c6 b7 5f a3 8a cb-b1 af e4 27 7e a4 cd da   _..._......'~...
-    0010 - 20 ba 62 de ae 08 e8 74-cd 9f 99 ed 99 c6 b2 3d    .b....t.......=
-    0020 - 5c 24 b7 dc 71 bf 5c 32-4d fa 83 43 45 b1 8b d4   \$..q.\2M..CE...
-    0030 - 37 b9 35 dd 7a 75 0b f7-78 1e 6f 00 25 48 66 81   7.5.zu..x.o.%Hf.
-    0040 - 0b 90 fa f0 99 0a 4d fc-38 33 8e 79 e2 9b e9 5e   ......M.83.y...^
-    0050 - 97 45 ac f1 87 c2 b1 8d-f5 1a b0 45 94 e7 c5 8e   .E.........E....
-    0060 - 00 53 2f ad 55 c1 87 fb-4f 28 2b 59 99 69 46 49   .S/.U...O(+Y.iFI
-    0070 - 08 80 1b a4 43 55 46 57-96 20 a4 43 31 ca 6b 82   ....CUFW. .C1.k.
-    0080 - 44 03 b7 5e 12 3f b3 78-fc 8d 4a ec f4 84 a1 7d   D..^.?.x..J....}
-    0090 - ad 7f c1 2b a1 25 03 ba-da bb 08 e3 f2 e9 25 94   ...+.%........%.
+    0000 - 41 e1 fb 89 ea 1d ee 15-5c c1 72 1c 73 b7 30 fd   A.......\.r.s.0.
+    0010 - aa e4 42 ea 7d cb 5b 7d-e1 13 f7 e6 c5 a5 d0 d3   ..B.}.[}........
+    0020 - d5 f6 b6 ec 6e 2e 94 f2-fe ec 36 3f f2 7b f1 ee   ....n.....6?.{..
+    0030 - 60 9c d8 06 5e 0e 82 01-81 8a 7d 90 ad c2 da b6   `...^.....}.....
+    0040 - 6c d0 d5 81 bc 5d 6b 41-94 60 b0 0c 87 c3 90 67   l....]kA.`.....g
+    0050 - 4f 03 66 2b 8c d4 e1 97-2b 66 74 30 37 99 6f 6b   O.f+....+ft07.ok
+    0060 - 2d 72 c4 cd 8f f3 e9 cd-52 3e 7c 9c d6 48 46 dc   -r......R>|..HF.
+    0070 - d0 2f 6f 10 1e 4f b9 9e-a2 46 74 6a de f4 cb 97   ./o..O...Ftj....
+    0080 - e4 97 57 8b 2e f8 a3 b2-04 88 9e 40 1a 22 46 21   ..W........@."F!
+    0090 - 8a f8 5b a5 ac 66 5b 00-4f 8d 35 dc d7 6f 73 2e   ..[..f[.O.5..os.
+    00a0 - a5 f9 1b 05 c0 26 15 49-d8 f6 44 2b 00 5d 11 55   .....&.I..D+.].U
 
-    Start Time: 1472787874
-    Timeout   : 300 (sec)
+    Start Time: 1577474779
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

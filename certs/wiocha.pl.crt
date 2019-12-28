@@ -1,80 +1,86 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=GT17128019/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.wiocha.pl
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
- 2 s:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
-   i:/C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+ 0 s:/CN=wiocha.pl
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEpDCCA4ygAwIBAgIDBusHMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNTA5MTQyMzUzNDRaFw0xNjEwMTUxMDQzNDFaMIGPMRMw
-EQYDVQQLEwpHVDE3MTI4MDE5MTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
-bS9yZXNvdXJjZXMvY3BzIChjKTE1MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
-YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEUMBIGA1UEAwwLKi53aW9jaGEucGwwggEi
-MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCf2x0A5yvx8/b4B9J32Cprdshv
-iufPukv9CO/JnUaYJY8gAVuHRX3czuA7e0pd5tuP0tFxhguL9HUffqv9W7DngUb5
-Xo9FHbknjr53XHuGvbJKPG3ftdWO8gHKX+gEWLUd8LZDsBPBjuF6Wbtxm8qA8N45
-zlyZeUKROHGHfpshCwg+dmvny+yDZh6qB2j2FoPYm3hOl5jkBEuB+ECacckd5Pkx
-5D9FpNBGmL/oxBJ27LX5T7VJpehT8V7o8qH/mFp5HfFuZ73Qb0c/yeeqq079sRtX
-rAloJivemqgCvxkZU9iFK/EIuSr/UUUYzQyiFJx1aqtIaLMWHpG9OL2MqfbbAgMB
-AAGjggFOMIIBSjAfBgNVHSMEGDAWgBTDnPP800YINLvORn+gfFvz4gjLWTBXBggr
-BgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6Ly9ndi5zeW1jZC5jb20wJgYI
-KwYBBQUHMAKGGmh0dHA6Ly9ndi5zeW1jYi5jb20vZ3YuY3J0MA4GA1UdDwEB/wQE
-AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwIQYDVR0RBBowGIIL
-Ki53aW9jaGEucGyCCXdpb2NoYS5wbDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8v
-Z3Yuc3ltY2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAAMEEGA1UdIAQ6MDgwNgYG
-Z4EMAQIBMCwwKgYIKwYBBQUHAgEWHmh0dHBzOi8vd3d3LnJhcGlkc3NsLmNvbS9s
-ZWdhbDANBgkqhkiG9w0BAQsFAAOCAQEABII7iCZr8C+9PnAJ20bSdGENTxV+Td+I
-QVUwCrmEW3riFYivxiTE3+QY9rY2obx8RGnxDk1FGzoDyc0xhtm4uhzMMmkosedb
-QHVtbWWWK8Tzb50akENRE4Q4t9AIPKVMRkoSs58IffGHtYNXmJBf1KGXa5a9XFkA
-DeZWFpiSB+b8eqyf35F3sgPvcqOUPKu0URDCjdTPjlB+pnYqqOR3rW6ccilVCowN
-5CwA2dLykWtT5QGWKFETjXBwksL+5OZj8cIi3tPGwXPkdQnYLQRJGflEBYiPGE42
-U8wrnZzLH6reQwIMe5gz4h1KzBDcU3OcLgP153J4BPMdHxphG+TEuQ==
+MIIGujCCBaKgAwIBAgISBJl+63LPar9K6gke9n8RNuLSMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMDQxMDIzMDZaFw0y
+MDAzMDMxMDIzMDZaMBQxEjAQBgNVBAMTCXdpb2NoYS5wbDCCAiIwDQYJKoZIhvcN
+AQEBBQADggIPADCCAgoCggIBAMlKMYKSxIEron4rtkcIzDNN8JmkFy4+fc/fLytN
+ATcogwLI1GBxxoR/gwOYSqtD8reDYAhe+P2Dn5ZqWhm7MGG3neaUTJYqrr03z+XU
+Ig3p7HXsuye67K0twM38ZDpO7B/uCPQe+yn+WVMZIv7TqtaFZuA7CLsmgYlcjov4
+K47kvKyewZTB2PQ5pml5xCDF5NCmkSwTyo8LGy6JJGGXkmTRbCwJjfDWzPB108m0
+LFoIo83MLmr70H6Hb+sEk2Nxpf5YR5Ne26seNzU4fiGMbAMPPMQhisVxwdaPPo72
+8uHGU7fBqjxpd1FvKlhzAeuK+0QiMCMx/oeqzRaWw0Z/E18FQngCqy9n+DHjDvcR
+U/T++PMjgle+1KbJ7DPZ4Hz2xr1t+TYTLCt6uyCqWBapRYaYcjnX8n65qUPXxnWM
+jz7otOKdiLJ1ktIBYnbGNjmdWDfCBRCKCP/FGCWYxHm8kRSYTQxdINIB2kGmihM0
+lO6R62VEt7O3iixSRG8gvnHYgfClEzVk3mN8ji5E8IxUZsrMsuyC67QKIpAlzmvA
+fTiQkjrBPMzZt1A3HQhT1ZwTIXq0mP+e+mREq3xuLm683Le37FQS0QsVHMfO8Rkr
+q8/lTe2AMrxLNNyiZTs8R8yhaHzHR8u25Djf8VWAxKpGCAloFTf+FHbmMUzCN2rY
+Z0jfAgMBAAGjggLOMIICyjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFOkE/upjiFBz
+vR83xXovgYuhoJqyMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8G
+CCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxl
+dHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxl
+dHNlbmNyeXB0Lm9yZy8wgYUGA1UdEQR+MHyCByoub2YucGyCECoucmFkaW93aW9j
+aGEucGyCCyoud2lvY2hhLmZtggwqLndpb2NoYS5uZXSCCyoud2lvY2hhLnBsggVv
+Zi5wbIIOcmFkaW93aW9jaGEucGyCCXdpb2NoYS5mbYIKd2lvY2hhLm5ldIIJd2lv
+Y2hhLnBsMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAgYKKwYBBAHW
+eQIEAgSB8wSB8ADuAHUA8JWkWfIA0YJAEC0vk4iOrUv+HUfjmeHQNKawqKqOsnMA
+AAFu0KZBbwAABAMARjBEAiBJ1NtSkb10+6ao14fDl20tyIIY1l3EQdbYKSxxbgGY
+cgIgDNfyoUzicxf9XjPxVfwKeUGQynatYmrg/whSE/hETTwAdQCyHgXMi6LNiiBO
+h2b5K7mKJSBna9r6cOeySVMt74uQXgAAAW7QpkOWAAAEAwBGMEQCIGA0c/t9hE36
+GTADq8ngv0A65LYdGiMTCp8GJJFHklgmAiBJEsJNIi7XwL6zsNvWLFM7hIbFQBMD
+FeZ7v7vgq8wKNzANBgkqhkiG9w0BAQsFAAOCAQEATgVadJPhbAu1NXj8kKfuKSHU
+Nr8zS3na2D1NwGgizGGICVcoM2TcSL3LMKRDyh2HgE0iVLji2HXFudjcW0dInKA3
+7VOZ3jqdYqhSQn4snqXXIyUA3pfLJKa9XwL6iPbgiUwam0J1iTOAOwOt3nGFpWqf
+OdICrJZ85XS8K/mRWc4ObD/cIR04lbzPUiihgRNAc0ZH11gGV9lbTMrBirVDWtWC
+M1SSdQ1OOVT1iIGE0CN+PQ279dYWMzvej9bj+CrzWQZfly18shwVt6z5XozjDGwD
+c7rT8KOPCAdu1rbEg4nwYe2OOOAdZt2J6f9hImwZqg2VQVl72PCWXBiyGZnfZA==
 -----END CERTIFICATE-----
-subject=/OU=GT17128019/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=*.wiocha.pl
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/CN=wiocha.pl
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
 ---
 No client certificate CA names sent
-Server Temp Key: DH, 2048 bits
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4294 bytes and written 634 bytes
+SSL handshake has read 3845 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-SHA
-Server public key is 2048 bit
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : DHE-RSA-AES256-SHA
-    Session-ID: 42696198B21AF0AFF69D85FDD93E497B4069D5C1840222525DD03EC74072A4B9
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1F2B1F9A776B01CF78C947972322E85541DC2DF81993027E0DE4488500E16BE9
     Session-ID-ctx: 
-    Master-Key: 89DFE41E50E939361FF2B68D650900F633950A79ADA25A42731AE14EB8EBE3ECBFACE1017D33490E43FF3F2145B2976F
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 1500DE9EDF8F6E4D85E3A7D8D0B3180E5ACBFD6A9B791E55B964302148BD6793EB375B15B2AEE29110E5CBC55F076A5C
+    TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - b4 8e 72 f5 57 a6 a4 de-ae 71 85 f5 f3 f2 b8 76   ..r.W....q.....v
-    0010 - 1b 98 2f 24 f6 ac cd d1-f2 08 a0 45 a0 6c 27 0a   ../$.......E.l'.
-    0020 - 35 7c a0 92 c3 35 a1 c8-e9 5c c1 72 b1 85 62 9a   5|...5...\.r..b.
-    0030 - 00 74 7d 7e 0e 41 14 6f-72 7c af b0 20 47 87 c0   .t}~.A.or|.. G..
-    0040 - 10 c5 64 1a fa 32 1f d3-23 06 59 65 fd fd 3e 63   ..d..2..#.Ye..>c
-    0050 - 74 84 5f f2 2a 9c ae 2b-99 63 c2 37 73 1f d9 31   t._.*..+.c.7s..1
-    0060 - da e9 ab f7 91 af 83 c4-a3 0a b6 50 7a 0f ed 35   ...........Pz..5
-    0070 - 6b 90 6a d6 c3 3f 4f cc-91 8a e8 69 d8 68 94 ff   k.j..?O....i.h..
-    0080 - e5 7d 27 23 fb e5 a9 eb-8b d1 f3 d1 10 8a 9b 2e   .}'#............
-    0090 - f7 e5 31 ad 09 cc 65 f7-1b 52 dd 61 79 3a 8a 56   ..1...e..R.ay:.V
-    00a0 - b7 bf fd fc 2e 4b 0b a8-6c b1 ce a3 41 d2 b3 d3   .....K..l...A...
-    00b0 - 83 cc e3 27 5b b6 cc 3d-9f e3 60 3f 12 8d b0 74   ...'[..=..`?...t
+    0000 - ab 3a a0 83 6c 27 38 d4-e2 3c fa 1d 0f 54 00 80   .:..l'8..<...T..
+    0010 - 57 61 f1 6b 26 c0 20 39-e7 e4 ce 35 7c c9 b2 79   Wa.k&. 9...5|..y
+    0020 - a5 77 c1 61 ea a5 7c 8a-5b fc b7 2e ca 2a a3 7c   .w.a..|.[....*.|
+    0030 - 0b 0d 71 53 3d fa b0 89-4c 7b 20 64 95 60 13 39   ..qS=...L{ d.`.9
+    0040 - bb 15 88 f9 aa ac 87 d9-2f fd 33 2a b2 56 50 73   ......../.3*.VPs
+    0050 - 16 d7 1f dc 6e b9 4b de-9f 9c 6d 54 aa 2d e4 10   ....n.K...mT.-..
+    0060 - 8e 6a a3 41 d4 f2 29 6c-32 26 b1 91 f4 57 ba 1e   .j.A..)l2&...W..
+    0070 - f3 af 35 ae ae b2 ee f2-c1 41 5f 7d 13 1a ed 1b   ..5......A_}....
+    0080 - 10 45 ef 8a 43 7a 9f 17-7e 05 5c 88 a7 b0 65 5b   .E..Cz..~.\...e[
+    0090 - 3f 54 e2 9b 5e a6 8f 1f-60 95 47 cc 2b 94 28 79   ?T..^...`.G.+.(y
+    00a0 - b6 00 a6 93 d5 65 97 bf-88 27 29 34 cc 5b 3e 8d   .....e...')4.[>.
+    00b0 - f4 5d d0 bf c6 de 36 11-d7 bd e2 eb 98 83 a6 b7   .]....6.........
 
-    Start Time: 1472790081
-    Timeout   : 300 (sec)
+    Start Time: 1577475700
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

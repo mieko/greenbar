@@ -1,68 +1,71 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=Washington/L=Seattle/O=allrecipes.com/CN=*.allrecipes.com
-   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
- 1 s:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
-   i:/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2009 Entrust, Inc. - for authorized use only/CN=Entrust Root Certification Authority - G2
+ 0 s:/OU=Domain Control Validated/CN=*.allrecipes.com
+   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+ 1 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
+   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+ 2 s:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+   i:/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFQDCCBCigAwIBAgINALAx0coAAAAAUNYotzANBgkqhkiG9w0BAQsFADCBujEL
-MAkGA1UEBhMCVVMxFjAUBgNVBAoTDUVudHJ1c3QsIEluYy4xKDAmBgNVBAsTH1Nl
-ZSB3d3cuZW50cnVzdC5uZXQvbGVnYWwtdGVybXMxOTA3BgNVBAsTMChjKSAyMDEy
-IEVudHJ1c3QsIEluYy4gLSBmb3IgYXV0aG9yaXplZCB1c2Ugb25seTEuMCwGA1UE
-AxMlRW50cnVzdCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAtIEwxSzAeFw0xNTEx
-MjMyMzAyNDdaFw0xODEyMzEyMzMyNDVaMGgxCzAJBgNVBAYTAlVTMRMwEQYDVQQI
-EwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdTZWF0dGxlMRcwFQYDVQQKEw5hbGxyZWNp
-cGVzLmNvbTEZMBcGA1UEAxQQKi5hbGxyZWNpcGVzLmNvbTCCASIwDQYJKoZIhvcN
-AQEBBQADggEPADCCAQoCggEBAIsBY3UoXtiPvvveQNtvlgOm3hdKuiWQE19kRd3I
-YbxBTyqT189+k6W1CtRhnHDx+mHuEv2yStyVWMbRNP/ontVPnnsm/O3vdsKAoBMI
-ymJxqBP45bRdoCtgvdV6Fvgr09Q0qkUtqf3jqyS6uBTn8XaL2XfCzq+KWXZfL6ib
-ylKVJhfvFAovPEtKM/DRiTk0LmdkWlftMPAvOABy7DtU8m0esovD7SzJmgO7NQ5F
-ybWssyMCcrQblSc+uaWtQJcfAZqo3wv++oEAT4C+EIHOGdeUHd1e7ZSBPE2rEjxQ
-W8knQ/vh9ezigsDz4rfo/v1NR2v3ufnbdHl+L1X5f6tmBj8CAwEAAaOCAZQwggGQ
-MAsGA1UdDwQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwMwYD
-VR0fBCwwKjAooCagJIYiaHR0cDovL2NybC5lbnRydXN0Lm5ldC9sZXZlbDFrLmNy
-bDBLBgNVHSAERDBCMDYGCmCGSAGG+mwKAQUwKDAmBggrBgEFBQcCARYaaHR0cDov
-L3d3dy5lbnRydXN0Lm5ldC9ycGEwCAYGZ4EMAQICMGgGCCsGAQUFBwEBBFwwWjAj
-BggrBgEFBQcwAYYXaHR0cDovL29jc3AuZW50cnVzdC5uZXQwMwYIKwYBBQUHMAKG
-J2h0dHA6Ly9haWEuZW50cnVzdC5uZXQvbDFrLWNoYWluMjU2LmNlcjArBgNVHREE
-JDAigg5hbGxyZWNpcGVzLmNvbYIQKi5hbGxyZWNpcGVzLmNvbTAfBgNVHSMEGDAW
-gBSConB03bxTP8971PfNf6dgxgpMvzAdBgNVHQ4EFgQU8zp0a5hnLAiEhfTHzLva
-VCVZUSUwCQYDVR0TBAIwADANBgkqhkiG9w0BAQsFAAOCAQEAS8HhuX6RMNoqNwsM
-su7va5eomACWaSdqj9QY895wD19mCiW1AqaYwcE+RY0l8+LG4HdJIgo/3cQ8Jqf8
-TuqBPXF816f6tqd/Zw2ZhdSPBH3mrpyq6qLEKLv8MDPkRkKbepvWAomPu7FCJQ4l
-wvxdvMChsbBSgsFTdojPpxAA5sakpk0zVD69Ndtk5kS7IZ9bTK86BPLWthO2lHY6
-Sb8W+cGbpGrogIbPHHf40R+FTtVSgjwn5jdyqdiaw2apdag84jPbu1lIEh53Wa7H
-PdAqIP0NsZBAJQkr2zGHZb59c5y9mcQppfVDHpE5zDKeKa+ZG7F+Fy+oLkkMQckg
-clYWrw==
+MIIGPjCCBSagAwIBAgIINv4Fe/Su/3cwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMTkwMTI1MjMyNzIwWhcN
+MjAwMTI1MjMyNzIwWjA+MSEwHwYDVQQLExhEb21haW4gQ29udHJvbCBWYWxpZGF0
+ZWQxGTAXBgNVBAMMECouYWxscmVjaXBlcy5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQC43XbIKwTV0VqCY35kkji/5FdvIHGHy04UdZwOPIrt1oDz
+4ja4L2wyrFyyBk6fwWY2Ed07aeGYROKGnQ9f7EE9zFJj2jcMP+667qY4nvyuDQ9e
+zijqC7OoYuZCBWRi/FzQ6oXnnUj6ZXw4uyC7gkneuBnhdPsSBzWjRxg+8Qn8UxDo
+drQBwB8F5oNBFzyZ5UaPCH050Msp1CnBUWQt73HxTiwhiIMCN1DAYMjuYNxNCNJO
+jKOu+OZJnmwjfGuyoYYkAhCyJR98UG4y404yLWy9rGQiagOUYq304+hUzlczVBTx
+dWM6PD63O9MMpuPhMgAzZ0zGjgSTKvRPgYWkRGuxAgMBAAGjggLHMIICwzAMBgNV
+HRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8B
+Af8EBAMCBaAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5nb2RhZGR5LmNv
+bS9nZGlnMnMxLTkwOS5jcmwwXQYDVR0gBFYwVDBIBgtghkgBhv1tAQcXATA5MDcG
+CCsGAQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9z
+aXRvcnkvMAgGBmeBDAECATB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0aHR0cDovL2NlcnRp
+ZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNydDAfBgNVHSME
+GDAWgBRAwr0njsw0gzCiM9f7bLPwtCyAzjArBgNVHREEJDAighAqLmFsbHJlY2lw
+ZXMuY29tgg5hbGxyZWNpcGVzLmNvbTAdBgNVHQ4EFgQU7XlkBq+XltNmJZV7YKXi
+m4U6fT8wggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgCkuQmQtBhYFIe7E6LMZ3AK
+PDWYBPkb37jjd80OyA3cEAAAAWiHVtQ4AAAEAwBHMEUCIHP9q0p5OjGuksDh8NFF
+JeIzGXExNp7/K1J2MFZZzXVdAiEAuOl95bkZqHOqnSFrBZch/DmmjnAR4vjEvpnw
+1hJfsREAdwBep3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAWiHVteO
+AAAEAwBIMEYCIQDl7BEzS8ipaG5JQFQ1nMvfThBsg9uAOfPCjKfmHXaMrAIhAJsJ
++HBOZb0708F/nfggeXoUnVh/4l3mjKNZY80KleD7MA0GCSqGSIb3DQEBCwUAA4IB
+AQBUOcuz2G0HG0v2jKlbTiHSET4m9bgQsbUGhQUjcZE+/GcuSYXpi8Gdeqd9AsNu
+DadB6UsvPkMBrYCU2bJRQ1wLVAgfOxSK2dOstDFf5EMF14eEdTpULyws1IvKtafk
+1J+JidOHinUA5zrRq6T7vO5+4VWCJMXFeaNwLXuqOtkmzNkfhV3JPOBBmY01ANJR
+tKgQzrLIcYjtwVVEvkSSkoxM8JejUj8gojsWA46/PS76TCOQT83fG22tH0leq0em
+4a5oaR41gbEUyfow7webht+zPXlO8SvwPSFOASjcfJ75yIeGXZYE1BePxsBQMzFf
+PT6jPHyp18zAQlMvVKPpG+Ni
 -----END CERTIFICATE-----
-subject=/C=US/ST=Washington/L=Seattle/O=allrecipes.com/CN=*.allrecipes.com
-issuer=/C=US/O=Entrust, Inc./OU=See www.entrust.net/legal-terms/OU=(c) 2012 Entrust, Inc. - for authorized use only/CN=Entrust Certification Authority - L1K
+subject=/OU=Domain Control Validated/CN=*.allrecipes.com
+issuer=/C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certs.godaddy.com/repository//CN=Go Daddy Secure Certificate Authority - G2
 ---
 No client certificate CA names sent
-Server Temp Key: ECDH, P-521, 521 bits
+Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3207 bytes and written 510 bytes
+SSL handshake has read 4318 bytes and written 322 bytes
 ---
-New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-SHA
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
 Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
-    Protocol  : TLSv1
-    Cipher    : ECDHE-RSA-AES256-SHA
-    Session-ID: 071000000AEC214CFBBD94497A81E34C777CB34F9D1079B5F94C8544D2F4987B
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: A18D7B9E6580DFB269B56ADDAE2867990E752F44B55B6DAA176F95883D78776A
     Session-ID-ctx: 
-    Master-Key: 8B5735EF6E76BC3CF6BD1EB8F6F6762AA42E349F1383E9A2C938F1DF9929D570F6C14078081E98746FA035FE3D3294F0
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    Start Time: 1472788495
-    Timeout   : 300 (sec)
+    Master-Key: 8649C78AB0ACAB0940DCE7479D062CACB10D85AF5FE8D402D6A185A97F19A2ED142E1D5D470999D669F750064F08AE65
+    Start Time: 1577475550
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

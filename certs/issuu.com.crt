@@ -1,50 +1,54 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/C=DK/L=Copenhagen/O=Issuu ApS/OU=Operations/CN=*.issuu.com
-   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
- 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
-   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+ 0 s:/CN=issuu.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFDTCCA/WgAwIBAgIQASNGHyl2+QUZBorvpWlXYTANBgkqhkiG9w0BAQsFADBN
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
-aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTQxMjAyMDAwMDAwWhcN
-MTYxMjA2MTIwMDAwWjBhMQswCQYDVQQGEwJESzETMBEGA1UEBxMKQ29wZW5oYWdl
-bjESMBAGA1UEChMJSXNzdXUgQXBTMRMwEQYDVQQLEwpPcGVyYXRpb25zMRQwEgYD
-VQQDDAsqLmlzc3V1LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
-AKlNrTEoHO29qVKAHIrESkxVmea+oMGMwdyPes+c1hwb7lpr1LdS55UFMEO15oPg
-Q+1rWQlmopLsjVe3II+tt3oIrBlvxrfew5oKZEgf/dUVGW7TfLzJ4Qdp/HIq5k4k
-OyvDtzQgiOGSDM56xYbsUsiQSeDocodhktc19uM9MPqKPsEtMGe9EA7pid20DsVW
-7oBsFzzXAWCNpVxg8HZz5fdiLqj2RMZLFORDPJxMD/Bj6sgcJd1TESqCY4OOl8u4
-jrceE2YcWqzA1rV8NlI/GtZuU48hVxUhTu7/PN6lm5YCY6cC7m5ZSfsON6ZGcYq6
-a/4Yc5kl88p5G6cwcc0jZAMCAwEAAaOCAdMwggHPMB8GA1UdIwQYMBaAFA+AYRyC
-MWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBTvgHBHCkR3xqlcmdiLNBlSk3IE3jAh
-BgNVHREEGjAYggsqLmlzc3V1LmNvbYIJaXNzdXUuY29tMA4GA1UdDwEB/wQEAwIF
-oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2g
-K4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nMy5jcmwwL6At
-oCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzMuY3JsMEIG
-A1UdIAQ7MDkwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3
-LmRpZ2ljZXJ0LmNvbS9DUFMwfAYIKwYBBQUHAQEEcDBuMCQGCCsGAQUFBzABhhho
-dHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRgYIKwYBBQUHMAKGOmh0dHA6Ly9jYWNl
-cnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJTZWN1cmVTZXJ2ZXJDQS5jcnQw
-DAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAA1LKnqvJwxZ+tsc/R26F
-qNs0CBmFi6BY/kzbvwIB9eQnpOL8rJCBlgw7x7+xJ0gslVP52psFhunzeSKvMuhb
-Ji6BF5jIY5+ddyPovbGelUYVkb/QQno27EWF+Zv/ni7w/wgvLuVEP7XqVqiPTNGv
-OzBxaeSmdQBekRE5SglgdFR9/RGc0A5KvD8+oCBVN3/0HQaJi5XNiXZ7TZojRA5h
-0hirOpkp7x66ni6IFoRiWtGKGLZX+zA959uF5gkjpyM/+wCvpQ6uul1Ho+UDXSPV
-1Xo/KmwB45Zb5Ojv4Fg7L2eGLiyDe5UWCsInXz3/jPLiqmbKIV9Fo8F8A63TGekN
-VA==
+MIIFWjCCBEKgAwIBAgIQBRGN1zxdZkjxYlvPJ5yOxzANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTEwMTQwMDAwMDBaFw0yMDExMTQx
+MjAwMDBaMBQxEjAQBgNVBAMTCWlzc3V1LmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBALZvFeUMnw/b+mdTIGW875GgbKEeAR8PSWaCQkTfrfvybwjF
+cRnLD7D8iRM97ryDv1gi25w9SdvQvn4YKaLmvI6pFlWdE/TBCP+cAiGF9ZsT5yXg
+WE/6jWoJQmfJqLs1tH7wfKcEXIK5afO23+Q0BDcTOqOELW/9L5aAFN5f0tQvL4ol
+zTqozb/VG7GAV9ieI+I0B3ughhdBJJCxLZJC9nvndQr34KtOu0ml7z0NTrYhkUio
+V/RsW/NmcEEHdCmrmtUkEzX0ry5dtfgjD18YD/Rkdm+LNI61QQ9eO5wtTP1miM1U
+L+HAfnWRaljXP6dVjrtTjbQ4zUfdDh63K8HBT/ECAwEAAaOCAnQwggJwMB8GA1Ud
+IwQYMBaAFFmkZgZSoHuVkjyjlAcnlnRb+T3QMB0GA1UdDgQWBBTrayT2gC3AuXXO
+0FiGCTugUMb4qTAUBgNVHREEDTALgglpc3N1dS5jb20wDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAs
+hipodHRwOi8vY3JsLnNjYTFiLmFtYXpvbnRydXN0LmNvbS9zY2ExYi5jcmwwIAYD
+VR0gBBkwFzALBglghkgBhv1sAQIwCAYGZ4EMAQIBMHUGCCsGAQUFBwEBBGkwZzAt
+BggrBgEFBQcwAYYhaHR0cDovL29jc3Auc2NhMWIuYW1hem9udHJ1c3QuY29tMDYG
+CCsGAQUFBzAChipodHRwOi8vY3J0LnNjYTFiLmFtYXpvbnRydXN0LmNvbS9zY2Ex
+Yi5jcnQwDAYDVR0TAQH/BAIwADCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AKS5
+CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABbcknKXkAAAQDAEYwRAIg
+f1M5a9BbgN5bqRFu6jBaNdyZHcaZnYdCl76/1edNsaECIEhZ9f9NHFMV+3Sfnk6z
+VUTAITs61TtQiohlPULWk3+AAHYAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq
+/16ggw8AAAFtyScqEAAABAMARzBFAiEA2RRwNc6Aq8pKwwvUXtP7dIuc6L0qO3VZ
+MJ0Xobc02H4CICrIXbzl/adjPYpzVL3Bbyc1Ogsu5vcXgqZj4whTfRImMA0GCSqG
+SIb3DQEBCwUAA4IBAQAmDVsZBEMDkyCp8ZGdkZUlw8c26QwW3GKFYO2AgyNApthV
+mMXUS5K0EC66/Emh87I8pWMypnV7yAsuH1pCbqVAJsThlaRZ+iyrrp2v4D4+TVft
+qOhXaOQvIE0LPE7I4qHm0p2u1f/W2+9xnxXOVCoJzKODEAjDgmYZCaMEoGrr9zNb
+Lc/H5U++u6mz4XKuyahDTB+Ubnk+5tSXQgUAwG7gObWHrwv7ViFDEUPYhHhWFYqN
+/veB1onpUuQFrnfsYNGgk3WUMjXoscIZVXEVTtNCUcegTZoyau+K0lj2o9gn6L1R
+I2GPgvOk+zcYluzpxW2E+AlQU4xsSXHLH1yDvHMB
 -----END CERTIFICATE-----
-subject=/C=DK/L=Copenhagen/O=Issuu ApS/OU=Operations/CN=*.issuu.com
-issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+subject=/CN=issuu.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 3151 bytes and written 434 bytes
+SSL handshake has read 5473 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -55,28 +59,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: 2B7F66D26DD25F2094F92548D998784F432F0C343DFDE16A1D186C6FFDC27C7F
+    Session-ID: 5B98CB0892C1235CFB55871B1A3CE1AC5D8E3038310BF96F14651FFC96434A50
     Session-ID-ctx: 
-    Master-Key: B8A5831B996682D3B3EF9E316217C491688E4ECA86D648B1C1D3AD6C32DF3A97EC0020D013A40242B43F87A9A4B2529A
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: CBE0F428391C99219248E460D22CE21F66F5B49C419C3EE4D8EACA4AE4A37E7B04E1C19BE41231C5D6B81C95F04FADF6
+    TLS session ticket lifetime hint: 43200 (seconds)
     TLS session ticket:
-    0000 - 79 6e 06 7b 5c 55 16 6b-5f dc 8d 28 fb 46 52 cd   yn.{\U.k_..(.FR.
-    0010 - 15 4c cd dc 1c 2f bb 1a-5c e5 af 03 1a 3a 18 64   .L.../..\....:.d
-    0020 - 95 45 98 7b 0e f3 62 ef-d8 96 a8 1c 96 c4 5b 9a   .E.{..b.......[.
-    0030 - 24 6f 52 cf 5b 63 71 2e-11 18 1f 84 a2 de 78 11   $oR.[cq.......x.
-    0040 - ea d1 f6 75 0f 08 ed 72-76 95 63 c1 69 89 57 3f   ...u...rv.c.i.W?
-    0050 - 9a 60 32 e4 a9 2d 9e 76-a9 0b 2e 70 aa 19 77 c8   .`2..-.v...p..w.
-    0060 - ef 75 a5 6f f8 b8 48 90-16 a6 73 f3 c6 4c 0e 01   .u.o..H...s..L..
-    0070 - a7 14 33 6f 31 4e b0 d0-c2 65 22 33 14 44 9a 1b   ..3o1N...e"3.D..
-    0080 - 65 89 e9 3f 2f 57 da 1e-fb a8 da 4d 82 97 51 7c   e..?/W.....M..Q|
-    0090 - 64 62 dc c6 1b eb c0 5d-e5 2c 7a 2b 6e ef 72 72   db.....].,z+n.rr
-    00a0 - 49 61 bc 8d f1 4d f8 12-48 7b bd 2d dd d9 17 4d   Ia...M..H{.-...M
+    0000 - ff be 4a 66 b8 ba 9c a2-d0 a7 9e 2d 89 0c 3c b1   ..Jf.......-..<.
+    0010 - a7 d7 ca 9c 4a 74 ae a0-71 93 4c 9d a2 85 b6 bf   ....Jt..q.L.....
+    0020 - a6 cd 3e 39 f9 c0 1f bc-5d 9f 40 37 e5 61 48 15   ..>9....].@7.aH.
+    0030 - 14 48 a0 15 ce 6b ef 14-0e 08 b3 cc 97 79 df f6   .H...k.......y..
+    0040 - e8 bc 76 16 06 cc 75 b6-a7 1e a7 d8 71 5a 48 9d   ..v...u.....qZH.
+    0050 - 3f 84 09 d8 cc ec 7b a0-16 e9 d6 a2 0a 07 a1 2a   ?.....{........*
+    0060 - fd 9e b7 08 c6 46 0b f3-ed d1 d3 c0 df 3b d9 da   .....F.......;..
+    0070 - 44 0e e9 0d 33 d2 a2 8e-29 e5 f8 53 48 fb 91 ed   D...3...)..SH...
+    0080 - 6f f4 74 bd a0 75 04 df-34 29 59 53 4a 1c 8b a2   o.t..u..4)YSJ...
+    0090 - a2 45 44 b7 d3 f1 3b f4-2f fa 7c f2 c1 d1 02 fa   .ED...;./.|.....
+    00a0 - 76 2e 9a 30 d8 3e 08 bd-a5 fb 19 a2 f2 96 ea 55   v..0.>.........U
 
-    Start Time: 1472788759
-    Timeout   : 300 (sec)
+    Start Time: 1577475099
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

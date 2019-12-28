@@ -1,47 +1,54 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=GT20224955/OU=See www.rapidssl.com/resources/cps (c)14/OU=Domain Control Validated - RapidSSL(R)/CN=*.vice.com
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/CN=*.vice.com
+   i:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+ 1 s:/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
+   i:/C=US/O=Amazon/CN=Amazon Root CA 1
+ 2 s:/C=US/O=Amazon/CN=Amazon Root CA 1
+   i:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+ 3 s:/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+   i:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEpTCCA42gAwIBAgIDAJafMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNDExMTEwNTU2MDdaFw0xODA4MjIyMjQwNDdaMIGOMRMw
-EQYDVQQLEwpHVDIwMjI0OTU1MTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
-bS9yZXNvdXJjZXMvY3BzIChjKTE0MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
-YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTETMBEGA1UEAwwKKi52aWNlLmNvbTCCASIw
-DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALexQRRHQD6Ny/cuAnoL2uvP4vgR
-xEkGNJ02OkEupVM9t54w7V5HD/Yigrsn5F9xSn4H/qUZ7KyqNoa7fUN413Y9WK8B
-QNTc0njsVX/CojVcvCd+UQXave03MCidkBqheL/D3Cs6NARVt+Sx2XjwUDSSGZn2
-krQ2vyuZkiDwZdQ6yQncj9gjRiO/LEN9BtYHSVGT6O9T8dfamaRhHPTxajH4XlOc
-nXqJhUo93HniulDvSf5jn1Jvqx7ytaS3LoZK/+2u29WeSG3E/UMY5LXinZB5nVXT
-Xz8avMckwpmZc9QKH/HCLQuHgN5WOOPDLcG1hoOTsbF/5hvBiAWJoi+JR6sCAwEA
-AaOCAVAwggFMMB8GA1UdIwQYMBaAFMOc8/zTRgg0u85Gf6B8W/PiCMtZMFcGCCsG
-AQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDovL2d2LnN5bWNkLmNvbTAmBggr
-BgEFBQcwAoYaaHR0cDovL2d2LnN5bWNiLmNvbS9ndi5jcnQwDgYDVR0PAQH/BAQD
-AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHREEGDAWggoq
-LnZpY2UuY29tggh2aWNlLmNvbTArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vZ3Yu
-c3ltY2IuY29tL2d2LmNybDAMBgNVHRMBAf8EAjAAMEUGA1UdIAQ+MDwwOgYKYIZI
-AYb4RQEHNjAsMCoGCCsGAQUFBwIBFh5odHRwczovL3d3dy5yYXBpZHNzbC5jb20v
-bGVnYWwwDQYJKoZIhvcNAQELBQADggEBAIIHHZ0EcaxEbF0qu1YeYQw8gSeza/uM
-j4sThJN8DsiO0XU32qAvcnNlSR+8YaU+OXYKIbvs6O3eKyArWkn3DDV595XfOrpS
-PgocNn61zTXGVz+/logSH1apwkb/rb6WDcnj3AvjH9jbL/tPWGboh7slCpKiMihq
-Rtv5kwmuY1hd4NQUVGVBpLk2H9lAYoNZCTm8IvtaAAlLgePH6mVFcg4tuTHXogQP
-KRlWWke41TbUxGOV4P8ziUJvbwIUP/dWTq4uUYgI1qJoiNHvrXBBPt1DSND89Ysj
-M0rmzXMDje1VMXVpx9r5fpwuhWAYIeJUUbBxf48Xd8vbfSFkDdbTGPg=
+MIIFZjCCBE6gAwIBAgIQDGj+0tVXweHmNje8122fHjANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xOTA4MTQwMDAwMDBaFw0yMDA5MTQx
+MjAwMDBaMBUxEzARBgNVBAMMCioudmljZS5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQCfBwxEBAXHWFV2LAwmggs4gCo5qi5rIVvkLsMESb4KRcI6
+hxpxTP17dhULVSVYo1PvYIuiiIUTBww/FkyqpmFnMr8wN+PdFYzSW54fYyK+hSAN
+Dm69x8Ov8Qd9mktGGkcMuFFazjN/2qRRmnz9OYW3S+WH8dtkpOdgvh9D7Ubd9RYp
+mRcPwfReRKq1NSOH5fDEyCqpB+r/E+ALaC+L9Lv416rcWjlIPDoNYpd2nGcdbeuB
+5dArR/b5CiSrSymBILNAQ2LAvErGGxFOP80LiIE+f6izWEOhEkcNmdjikPrnR+9k
+CS0Z662eJLQFgSciT00ZONMDy4t1zsultZYGbWyVAgMBAAGjggJ/MIICezAfBgNV
+HSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQU2BG7yGo0XBQU
+JzBR0QEj3Eppsq8wHwYDVR0RBBgwFoIKKi52aWNlLmNvbYIIdmljZS5jb20wDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNV
+HR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnNjYTFiLmFtYXpvbnRydXN0LmNvbS9z
+Y2ExYi5jcmwwIAYDVR0gBBkwFzALBglghkgBhv1sAQIwCAYGZ4EMAQIBMHUGCCsG
+AQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3Auc2NhMWIuYW1hem9u
+dHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnNjYTFiLmFtYXpvbnRy
+dXN0LmNvbS9zY2ExYi5jcnQwDAYDVR0TAQH/BAIwADCCAQMGCisGAQQB1nkCBAIE
+gfQEgfEA7wB1AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABbI3Z
+E5wAAAQDAEYwRAIgHSbLp0N688OMHFAFLZTt6E2lAK9FvbXMEjONpYxv2l8CIA0P
+GUvP/kR8aB6ibcTCoAM196fF7btJwtRBOtEIPjdeAHYAh3W/51l8+IxDmV+9827/
+Vo1HVjb/SrVgwbTq/16ggw8AAAFsjdkT0AAABAMARzBFAiEA0KcERtqphtZEvXcx
+wWGx8dromt80xxYuY0i+DgumYX4CIHslNfg/pCfY4pjbxnj3Wr6xgj+Z22V2Q0ne
+qmXrcPNmMA0GCSqGSIb3DQEBCwUAA4IBAQDAo4p/kH2RmmIAdF3SE712LZbJH0NR
+uzCmZXZP2G74bX2jMsXiFuN0gkQADXA3TdpPTQRYLLWHXrQdkPPVyaZaCqDpTrgj
+xBezaE1WwgRJ7bjlsZR0LPKGqdTuCCAiWHMuiBC7wlrTgoqeTC95CJEvqEXFEjUE
+j57+doUdnREFmZgtVSs7NF5ChXljATfEZpHLVfUSEqLLYd4jNLocAi7QpN2C6EUm
+K1lwTBVNLo5K+S2i6MCs16nibZDcvN5WloV7MMxAl9f3TEUoOhqgl0JeoouIrndL
+0ms9Woym7Mo+ntdzBWmVdb1FTe1CjIMU6FheK/jDUWbmd/oMsJ6wdxJo
 -----END CERTIFICATE-----
-subject=/OU=GT20224955/OU=See www.rapidssl.com/resources/cps (c)14/OU=Domain Control Validated - RapidSSL(R)/CN=*.vice.com
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/CN=*.vice.com
+issuer=/C=US/O=Amazon/OU=Server CA 1B/CN=Amazon
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2915 bytes and written 434 bytes
+SSL handshake has read 5322 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -52,27 +59,10 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: B9CD0516BDB0F4BE16B063FE31C14ED3BFE02E3C22102630059F42B69F5D7C17
+    Session-ID: 2C7DC3CFE72726C0C3B7CA8472FCC54FC79C092E5747E1C87C4D9DFE9E193966
     Session-ID-ctx: 
-    Master-Key: C2875B5371E3859F57CFD70B084E580E1671D574E5ED2FD6AFBC3619744974A747E33B64CF4187A6785B7A5BA88F0D19
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
-    TLS session ticket:
-    0000 - 94 58 6f 3e 2c db 3e fe-76 52 17 4c 90 54 2e 5d   .Xo>,.>.vR.L.T.]
-    0010 - 32 79 ee 72 9c 29 07 ec-cb 54 97 96 4c e4 29 8d   2y.r.)...T..L.).
-    0020 - 99 ab d9 a2 d6 39 ff 8d-bf 05 d7 58 35 77 2d 82   .....9.....X5w-.
-    0030 - 1a f7 d2 6c bd 39 36 1c-f3 ca 3b 5b 16 b8 75 9a   ...l.96...;[..u.
-    0040 - 17 07 5a c9 35 2e 3a 05-72 45 ee 36 37 3b c8 b9   ..Z.5.:.rE.67;..
-    0050 - 2f b8 5c 75 4a 98 0f fd-50 3d 6f be d2 94 6b e4   /.\uJ...P=o...k.
-    0060 - 48 ef b6 46 81 00 3b b9-58 71 48 c8 98 bd 73 21   H..F..;.XqH...s!
-    0070 - 2f bc af 9c ce 4b fa e0-b5 df f3 7f 3e f6 b7 81   /....K......>...
-    0080 - 52 7b 68 18 92 02 77 c7-09 65 b6 b7 1c 56 d0 51   R{h...w..e...V.Q
-    0090 - 04 25 b4 ce 9b 0e 79 32-06 2c c3 9c 8a ee 5c 76   .%....y2.,....\v
-
-    Start Time: 1472788040
-    Timeout   : 300 (sec)
+    Master-Key: D52DDE3FD14F56B7513B890E99566EF076EC55E567F66853663E1B4245B714446029929073CADBE049472C1545B01063
+    Start Time: 1577474884
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

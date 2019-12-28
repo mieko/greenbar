@@ -1,86 +1,89 @@
-CONNECTED(00000003)
+CONNECTED(00000005)
 ---
 Certificate chain
- 0 s:/C=US/ST=MA/L=Cambridge/O=Akamai Technologies Inc./CN=a248.e.akamai.net
-   i:/C=NL/L=Amsterdam/O=Verizon Enterprise Solutions/OU=Cybertrust/CN=Verizon Akamai SureServer CA G14-SHA2
- 1 s:/C=NL/L=Amsterdam/O=Verizon Enterprise Solutions/OU=Cybertrust/CN=Verizon Akamai SureServer CA G14-SHA2
-   i:/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
- 2 s:/C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
-   i:/C=US/O=GTE Corporation/OU=GTE CyberTrust Solutions, Inc./CN=GTE CyberTrust Global Root
+ 0 s:/C=IL/L=Rishon Lesion/O=Yediot Information Technologies ltd/OU=IT/CN=qa.vesty.co.il
+   i:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIFvDCCBKSgAwIBAgIUdX7PAi9u9+89gbTBrsbWRijugR0wDQYJKoZIhvcNAQEL
-BQAwgY0xCzAJBgNVBAYTAk5MMRIwEAYDVQQHEwlBbXN0ZXJkYW0xJTAjBgNVBAoT
-HFZlcml6b24gRW50ZXJwcmlzZSBTb2x1dGlvbnMxEzARBgNVBAsTCkN5YmVydHJ1
-c3QxLjAsBgNVBAMTJVZlcml6b24gQWthbWFpIFN1cmVTZXJ2ZXIgQ0EgRzE0LVNI
-QTIwHhcNMTYwNTI2MTYwNTEzWhcNMTcwNTI2MTYwNTEyWjBtMQswCQYDVQQGEwJV
-UzELMAkGA1UECBMCTUExEjAQBgNVBAcTCUNhbWJyaWRnZTEhMB8GA1UEChMYQWth
-bWFpIFRlY2hub2xvZ2llcyBJbmMuMRowGAYDVQQDExFhMjQ4LmUuYWthbWFpLm5l
-dDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANUqLbfKS70TnRdVakBR
-SqHqRHLaC2l4qI/NSpFMJ0cvqi8UaL4MJZoQDikUSdk5kyyz1vBVfLyiFn8HYPxn
-dgSgaIrqHFxmb/a3bb2mnNg36UfxaNk/HR8S5wCJzdICCFianjdXJuIvT8EIIkjh
-n6gbbt0AqJyQpDKh5vuNwTKRx2luAl2G0a6K858ng+uTZHriud9G0nzBq50W3IZX
-ixdJqoeIboxlT4/4/RWSuZhpV4NwMagYSRs7TG7PECJsP3C4WEF1Z75fVwkvBRq9
-sRIlAfi53a3uBaNHNyHAY/KJ1Pyd+9TZGJd7fdu4oA1HVOgnBzU1NLaBPJA1XFuK
-O5kCAwEAAaOCAjEwggItMAwGA1UdEwEB/wQCMAAwTAYDVR0gBEUwQzBBBgkrBgEE
-AbE+ATIwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly9zZWN1cmUub21uaXJvb3QuY29t
-L3JlcG9zaXRvcnkwga8GCCsGAQUFBwEBBIGiMIGfMC0GCCsGAQUFBzABhiFodHRw
-Oi8vdmFzc2cxNDIub2NzcC5vbW5pcm9vdC5jb20wNgYIKwYBBQUHMAKGKmh0dHBz
-Oi8vY2FjZXJ0LmEub21uaXJvb3QuY29tL3Zhc3NnMTQyLmNydDA2BggrBgEFBQcw
-AoYqaHR0cHM6Ly9jYWNlcnQuYS5vbW5pcm9vdC5jb20vdmFzc2cxNDIuZGVyMG4G
-A1UdEQRnMGWCEWEyNDguZS5ha2FtYWkubmV0gg8qLmFrYW1haXplZC5uZXSCFiou
-YWthbWFpaGQtc3RhZ2luZy5uZXSCDiouYWthbWFpaGQubmV0ghcqLmFrYW1haXpl
-ZC1zdGFnaW5nLm5ldDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
-AwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFPi9+q9zd8bHG/lLTRGn0TOvr3IRMD4G
-A1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly92YXNzZzE0Mi5jcmwub21uaXJvb3QuY29t
-L3Zhc3NnMTQyLmNybDAdBgNVHQ4EFgQUVXIMYSGUcVqhFYe6ANcdpgz0xBMwDQYJ
-KoZIhvcNAQELBQADggEBAHYq/9CZP26438ls/dyrNSaz00XukLEAn4A0lMo6dQ9o
-BFd7r83oqXoMVnKQEo9D5uDsGKFUhoVDhGTFMwBqSO+X8nedHJimDnnaN29KB09o
-qryRkEqIVekB9yF6hSYJ2GaX4VwWn+xBNAaiPn1PtrbCOf1ARblVZJhJO0lqt08z
-uqKGRKFRS40FZ4p6nmaBuNhRGp6UHTtgyNvBFjjuIYu+rz+Rc/aNrMsVnhQ/RNjN
-swUrA4pQW4lgDHd04KxlcUcY1Bc6wgtxEXE2soLrgOFYulubdMI3SdCNB1HsVM90
-xvfT6Y5MNep20bva7zUxROK9Ufj8u7NPqbV+8KaCaFQ=
+MIIHkjCCBnqgAwIBAgIQB9Mxo8nnu240XOv7XYcHZTANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkwNzI1MDAwMDAwWhcN
+MjAwNzI0MTIwMDAwWjB5MQswCQYDVQQGEwJJTDEWMBQGA1UEBxMNUmlzaG9uIExl
+c2lvbjEsMCoGA1UEChMjWWVkaW90IEluZm9ybWF0aW9uIFRlY2hub2xvZ2llcyBs
+dGQxCzAJBgNVBAsTAklUMRcwFQYDVQQDEw5xYS52ZXN0eS5jby5pbDCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBALfNOdWacJmCwtclvOmKC/T/ikxChX1K
+9ZYo2Vjjl2GGKigjY5bgf3kbDoJgmOAgj9mbL92wUM7MJRVWKp9v48HLgA/QNVyV
+soUlz9NGnceCBYvt/u08O/2ySkv3keaApytCCGso1gYNHaRmzLzlRy/+lUzl2Az2
+rJ0Wvq+HhgAjPH0lVuO5rqUparX+uP1Goo847+VzImulyWNujz/LspRuk5f8CWg1
+5hQtxUBwasUC8BuyCYf9mLrLgafytMqdGiYoypjkIcwOUHpddbPfEOq362+MRhuA
+6cH6HGYmRCatFnoHw8nfWEf+kRIjkEz8IqizTLeycloWFUL9PdE7X5cCAwEAAaOC
+BEAwggQ8MB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQW
+BBQiM9e6zx2D19M8OI4I39kfi9YqFTCCAXsGA1UdEQSCAXIwggFugg5xYS52ZXN0
+eS5jby5pbIIPcWEueW5ldG5ld3MuY29tggp5bmV0LmNvLmlsghV0b3RhbG1lZGlh
+LnhuZXQuY28uaWyCD3d3dy52ZXN0eS5jby5pbIINKi52ZXN0eS5jby5pbIIRKi5j
+YWxjYWxpc3QuY28uaWyCDnFhLm15bmV0LmNvLmlsgg4qLnllZGlvdC5jby5pbIIM
+Ki55bmV0LmNvLmlsghIqLmNhbGNhbGlzdGVjaC5jb22CEHd3dy55bmV0bmV3cy5j
+b22CFGltYWdlcy5iaWdkZWFsLmNvLmlsggsqLnlpdC5jby5pbIIPKi55ZWRpb3Ro
+LmNvLmlsgg4qLndpbndpbi5jby5pbIIPd3d3Lm15bmV0LmNvLmlsggwqLnhuZXQu
+Y28uaWyCGG1lZGlhZG93bmxvYWQueG5ldC5jby5pbIIVKi5wb3dlcmVkYnkueWl0
+LmNvLmlsgg0qLmZyb2dpLmNvLmlsMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0cDovL2Ny
+bDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nNi5jcmwwL6AtoCuGKWh0dHA6Ly9j
+cmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3JsMEwGA1UdIARFMEMwNwYJ
+YIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNv
+bS9DUFMwCAYGZ4EMAQICMHwGCCsGAQUFBwEBBHAwbjAkBggrBgEFBQcwAYYYaHR0
+cDovL29jc3AuZGlnaWNlcnQuY29tMEYGCCsGAQUFBzAChjpodHRwOi8vY2FjZXJ0
+cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyU2VjdXJlU2VydmVyQ0EuY3J0MAkG
+A1UdEwQCMAAwggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwDuS723dc5guuFCaR+r
+4Z5mow9+X7By2IMAxHuJeqj9ywAAAWwpfOluAAAEAwBIMEYCIQCc7kmUPXARTdJh
+zcqrFaOGd+AGaXEurW8yhh772INBngIhAJCTElF/EpyoiMOxmGi5NO7cjY9AANGY
+qMRDE+eNLsi3AHcAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFs
+KXzpvAAABAMASDBGAiEAwUlD2vk9ib7n4h3OSNKIgVue/d46W1V6ruD0muOmxFIC
+IQDlcZZCMs2al3XDcjuopQrMyVxs8VExKn8jlg8kyoL53jANBgkqhkiG9w0BAQsF
+AAOCAQEAQl5BlvTYxhUFpGQuYmSmYdAN5uZjMcsjag6TLjMJvfy6oT8mNobxgwEL
+ObE4+ra30UOXSV3BvNXYHAKHHspa7yNyTKpcTq+R22WBVfkHhCKHEtHIVUbIBLSM
+89n2lNeGQyt5cK0cOTnYNbkFn5JRrFso9KakfTaXmpa1qIlPqgpFPKlaorWXRP49
+333co5OxKFUyVg2ThphEikzMKheTqRb0Mk0uooD2+LyT4XS2q8/bqqZKdlAQlcd1
+wh1jhfkQURbxaywu+qxv6/H5WuH3bo1KH3YCMbUdZiGNsUA0FmZ9CuFIHVnAdrSV
+lFoyYUFBRDAEywhwD0Z1d/3zqOMiRQ==
 -----END CERTIFICATE-----
-subject=/C=US/ST=MA/L=Cambridge/O=Akamai Technologies Inc./CN=a248.e.akamai.net
-issuer=/C=NL/L=Amsterdam/O=Verizon Enterprise Solutions/OU=Cybertrust/CN=Verizon Akamai SureServer CA G14-SHA2
+subject=/C=IL/L=Rishon Lesion/O=Yediot Information Technologies ltd/OU=IT/CN=qa.vesty.co.il
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 4491 bytes and written 434 bytes
+SSL handshake has read 3775 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
-Secure Renegotiation IS NOT supported
+Secure Renegotiation IS supported
 Compression: NONE
 Expansion: NONE
 No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: D519AE78EFCDB90467BFA8723B7A1144E44D9221A21EB756ADB2F9D533222304
+    Session-ID: 8A09B27DE4F3FE8D6F4A4CD649DD252931B5F6C1A77CE6CB6C449EDF3249CBA1
     Session-ID-ctx: 
-    Master-Key: 06A836B95F5AB2C283B7028EDB00E5C28C6C2F8F8CC0630E3494515A42F821B68A0D266CC3FC26C94895F9161B9A6649
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: E8A523C43740D8FD663B38CA2D55263DAFF96F834268B4D41C2C275650265A26529F590CB66062640625DDC8C99DED17
     TLS session ticket lifetime hint: 7200 (seconds)
     TLS session ticket:
-    0000 - f5 c5 2e 84 0b a8 ba d9-35 67 0c e8 fa 96 6c 43   ........5g....lC
-    0010 - d4 e4 70 d5 73 ab 27 34-c1 38 20 5f c3 3c 2d 32   ..p.s.'4.8 _.<-2
-    0020 - 8f 98 3a d0 28 ea 7f fd-e6 4d c1 f6 c7 25 9d 4a   ..:.(....M...%.J
-    0030 - c5 4b 72 a0 93 ed 0e 44-00 5d 41 7a 6e a2 a8 bc   .Kr....D.]Azn...
-    0040 - 67 b9 8b 01 54 93 86 b3-54 d7 b6 b0 1e 64 39 87   g...T...T....d9.
-    0050 - 07 b6 2d 20 d7 b4 5a fe-b5 c5 f6 bd 8e f6 d4 1d   ..- ..Z.........
-    0060 - 8b 1c 5f 6d 6c ee bc 96-fd 85 bd e1 e7 a3 1e 4e   .._ml..........N
-    0070 - aa 37 6c c3 f4 fc e0 1e-48 ea 62 86 a4 72 a9 6e   .7l.....H.b..r.n
-    0080 - a3 4e 77 f4 c4 0c 98 64-25 70 a7 75 b8 2f 8f 81   .Nw....d%p.u./..
-    0090 - 49 9c 12 ec 3a 4e 2d c0-6f e6 55 3d fa 80 5b dd   I...:N-.o.U=..[.
+    0000 - 00 00 30 bc f6 61 0f e5-64 f4 7a 68 ac 3a c7 eb   ..0..a..d.zh.:..
+    0010 - 2b c8 57 73 74 aa 5c 28-a2 b3 72 2e 69 09 92 7c   +.Wst.\(..r.i..|
+    0020 - 24 42 d3 25 9d ae 3f 47-e1 15 92 94 32 8e 93 9c   $B.%..?G....2...
+    0030 - 83 29 97 89 97 b8 31 67-d4 4d ad 11 f2 6a 72 db   .)....1g.M...jr.
+    0040 - 0f 94 68 50 41 f4 fa a9-9e a4 87 ab d5 7a 2c 09   ..hPA........z,.
+    0050 - ed 71 34 0b 71 d3 75 68-6f de 65 73 ab f2 22 7a   .q4.q.uho.es.."z
+    0060 - 5d 36 f7 78 6b 6e b3 6c-af 39 b0 79 04 05 ba 12   ]6.xkn.l.9.y....
+    0070 - 90 84 28 5c 4a 80 ef 9b-bd 9e 9b 9e 85 ca 68 f4   ..(\J.........h.
+    0080 - 41 f5 4a c1 76 52 cb ac-05 0b 1a 44 42 20 04 84   A.J.vR.....DB ..
+    0090 - 3a 93 39 a8 05 ac e8 11-12 c9 45 78 54 30 62 dd   :.9.......ExT0b.
 
-    Start Time: 1472790201
-    Timeout   : 300 (sec)
+    Start Time: 1577475388
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

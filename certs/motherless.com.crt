@@ -1,48 +1,52 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
- 0 s:/OU=GT09389817/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=www.motherless.com
-   i:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
- 1 s:/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
-   i:/C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+ 0 s:/OU=Domain Control Validated/OU=GGSSL Wildcard SSL/CN=*.motherless.com
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIEtzCCA5+gAwIBAgIDBp3wMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
-MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
-NTYgQ0EgLSBHMzAeFw0xNTA4MzEyMDE5MTNaFw0xODA5MDExNjE3MDFaMIGWMRMw
-EQYDVQQLEwpHVDA5Mzg5ODE3MTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
-bS9yZXNvdXJjZXMvY3BzIChjKTE1MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
-YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTEbMBkGA1UEAxMSd3d3Lm1vdGhlcmxlc3Mu
-Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxSKCGTtqcUbrlYya
-yG1vvWO5nWrbZVxjdL/P4kyz5HbtGVGiTgvjksnm+9c1Yh4X6S9BuFWznYYjLWTr
-+HklCEGPFQ/dDLiJtyy2VQC8p/pFvqZka+sicNkM50q3wKRsLqo2mDDwsMhupXJ9
-8QILOtYBP5KhVjOzRuc7WRkPdqUnDvwxq5NkKNITzYDbPp74ncNj2/aEdscRvvxt
-PUNFEcXptuUjzXwrEXJjKyN9AoeYsqCcmTy9aNB7BLpnVAw1m05vZIC9woeC8KRL
-vxw3xwt/CE079mKVzEdAquHUk7vpwRNLftxIq2AuyH4GoCQ+DwtQolFEhaRfxZ14
-EjPJdwIDAQABo4IBWjCCAVYwHwYDVR0jBBgwFoAUw5zz/NNGCDS7zkZ/oHxb8+II
-y1kwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vZ3Yuc3ltY2Qu
-Y29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ3Yuc3ltY2IuY29tL2d2LmNydDAOBgNV
-HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMC0GA1Ud
-EQQmMCSCEnd3dy5tb3RoZXJsZXNzLmNvbYIObW90aGVybGVzcy5jb20wKwYDVR0f
-BCQwIjAgoB6gHIYaaHR0cDovL2d2LnN5bWNiLmNvbS9ndi5jcmwwDAYDVR0TAQH/
-BAIwADBBBgNVHSAEOjA4MDYGBmeBDAECATAsMCoGCCsGAQUFBwIBFh5odHRwczov
-L3d3dy5yYXBpZHNzbC5jb20vbGVnYWwwDQYJKoZIhvcNAQELBQADggEBACwhnWq8
-64FK+YqlaQUXveczJOPJE/w+Z+mxSGOTddggS6jx+W+cFP/ychH3kPH+IA09yd0q
-+aD1P2BJ/Wqui9B0B6wzTLRUb+n6JZ5RmJSq1nhRcXWW3QjfkmyFjQRUKDM1Ji4D
-hAAJeRj5OlE+N4tzkdX3xCh5gvRsZOa5mqnDI4KwnbQbnyIKqi1LXHYC8pZAH2kb
-nsErYbjNLeJ8ETYOHqMkrHhKjPtEPl0jTTATgyyKbrQa8onVz7jsk6nuHJ5ZqN1p
-B1Du3Yv8ht2B9Rh2hqGz0mknxF7pkllj/Qal4glm8w1QHn1kTw2baeVbtwdz5grm
-BlVUbOl44uZxZkA=
+MIIFVjCCBD6gAwIBAgIRAKuvloyRuQogSXmuHjIHRqcwDQYJKoZIhvcNAQELBQAw
+gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
+VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
+Q0EwHhcNMTgwMzA5MDAwMDAwWhcNMjAwMzA4MjM1OTU5WjBbMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxGzAZBgNVBAsTEkdHU1NMIFdpbGRjYXJk
+IFNTTDEZMBcGA1UEAwwQKi5tb3RoZXJsZXNzLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALGpEyLVLioBXLpXR9CVfeagOCqJKUFqS63asZQBC4p/
+xqKljiX1HtZY49CadDkjZa5YTqUe6hQyAHfpx+eGlQF/JMGn9g15MPZCvVHp7Bgg
+DTNzpEcIV/s3nUTExOvrzOVuDuJvuZIj83MzGSuo5/KgrhPFDwUjOxorEjuczv/v
+FCKlDuX1nYr4k+TjZfrYUJSmB2sWzZBntRF0W7uKBbxBI0uo8gawvlIn4SJZ/mcG
+VIlDiSdiGbPdDSEmvklsKgNZhIYohD0vEhEmTDhPED5TFL7B5q5Oz2JTfg72IE8t
+7Sq0ApkeyCdt4lh2YWM2/tbXZT/eozPiPnFQt2HGoE8CAwEAAaOCAd0wggHZMB8G
+A1UdIwQYMBaAFJCvajqUWgvYkOoSVnPfQ7Q6KNrnMB0GA1UdDgQWBBQH5fCVcvBi
+/UFq7Tch/kLzWWVgHDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEEAbIx
+AQICBzArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29tL0NQ
+UzAIBgZngQwBAgEwVAYDVR0fBE0wSzBJoEegRYZDaHR0cDovL2NybC5jb21vZG9j
+YS5jb20vQ09NT0RPUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNy
+bDCBhQYIKwYBBQUHAQEEeTB3ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LmNvbW9k
+b2NhLmNvbS9DT01PRE9SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0Eu
+Y3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wKwYDVR0R
+BCQwIoIQKi5tb3RoZXJsZXNzLmNvbYIObW90aGVybGVzcy5jb20wDQYJKoZIhvcN
+AQELBQADggEBAB5Tvc7bdA+xi6XiFqEdhZdVQ/cUcgM6M1MWVn+LySRnB3Ce5DVH
+CBzaqnOCwprQ69zc3ZlNTKrvEnfQAfkId70JzhIKkOZ/RQPiZRJoLzAK6FNELBWZ
+YAdth/2+rvw3vtCvGm8XJXcCYPVOjtnIeI0t9ELNlMjHBBhvlGgszLn0VqwnQBG7
+R4rdcwIbFzQw9vKCipiVS/gir6PXEJENQq0L9eroN1FtELe9ecdbuG0kOPIda3zp
+xsy6nKDdojDgLRT/ZyalQDS/BzTcunVjIIGtcz36xb+3WErLTBs5T+8Fci1BV+pn
+0Uh1/rYaNTYlhGpve3HMURI2v54CzUbcPdE=
 -----END CERTIFICATE-----
-subject=/OU=GT09389817/OU=See www.rapidssl.com/resources/cps (c)15/OU=Domain Control Validated - RapidSSL(R)/CN=www.motherless.com
-issuer=/C=US/O=GeoTrust Inc./CN=RapidSSL SHA256 CA - G3
+subject=/OU=Domain Control Validated/OU=GGSSL Wildcard SSL/CN=*.motherless.com
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
 Server Temp Key: ECDH, P-256, 256 bits
 ---
-SSL handshake has read 2954 bytes and written 434 bytes
+SSL handshake has read 4994 bytes and written 322 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
 Server public key is 2048 bit
@@ -53,28 +57,24 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES256-GCM-SHA384
-    Session-ID: 46379F5FAD74B56E05267D5CF0C5B9BDC8F4FA3F0992CAC4C5CF9F34122D71EB
+    Session-ID: A6FB8C6B7C369AAEBD22178BBDF74698A323D76BF8EC594A695D99ED323EFE4E
     Session-ID-ctx: 
-    Master-Key: 3F55E0991499DDCB28BE178755D353C3E67C966288EF4A1263A03719A4146D498D02028FD343286960D9C3C8C693F3E0
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
+    Master-Key: 09EC209067A31D0D0A2C3E8650E75FA552A349E40274D3766E7ACB7395DF7DE524A925AE528729D086128C74F4FE5CFE
     TLS session ticket lifetime hint: 300 (seconds)
     TLS session ticket:
-    0000 - f8 f1 b1 ef 78 cf a4 3a-d7 83 e2 f9 28 9a f6 fa   ....x..:....(...
-    0010 - 22 37 53 69 b0 ea d8 ef-14 23 7c f9 06 72 46 f6   "7Si.....#|..rF.
-    0020 - c9 54 32 a8 a9 63 28 16-c8 e6 f2 fc 84 cb 6e 36   .T2..c(.......n6
-    0030 - de 94 dc 41 a0 c4 ff 25-d6 e7 32 16 d2 bd 95 d7   ...A...%..2.....
-    0040 - 9a c1 73 e5 42 96 ca f7-80 25 a9 7f 8f 73 63 73   ..s.B....%...scs
-    0050 - c8 f6 9d 42 ac 36 29 37-01 72 c1 c7 ec 45 d1 0a   ...B.6)7.r...E..
-    0060 - e8 8d 67 d5 b3 1b 3a ec-40 26 aa f0 ce de 14 93   ..g...:.@&......
-    0070 - 16 be c9 ce 27 eb 70 2b-d1 18 4e d2 26 6d 33 83   ....'.p+..N.&m3.
-    0080 - 74 a6 73 f5 3b 44 cc 77-2c bd 6a 3d 9a b7 bf 3b   t.s.;D.w,.j=...;
-    0090 - 1b 4c dc 02 e6 a6 a7 f1-be 6b f2 7c 84 04 71 33   .L.......k.|..q3
-    00a0 - e0 cb 8a b4 16 d2 14 a5-4d 49 a6 5d 89 47 ba 98   ........MI.].G..
+    0000 - f9 d1 ea 8a d3 78 93 38-de 90 25 4a 43 4d de e5   .....x.8..%JCM..
+    0010 - 20 d5 ae 36 bc a0 b2 78-f0 c1 9b eb 9d a3 43 2f    ..6...x......C/
+    0020 - 2a 8f 97 bc a9 8c 2c 75-05 8c 39 28 93 57 65 c1   *.....,u..9(.We.
+    0030 - ed ae 4e 28 49 61 21 76-25 94 ec ab 8e 4f 90 54   ..N(Ia!v%....O.T
+    0040 - 5d b3 03 eb 4b 57 25 53-2a c2 b8 d8 de b1 79 f5   ]...KW%S*.....y.
+    0050 - 8c 5f 5e ce 63 05 03 70-54 81 bf da a2 0f 33 1e   ._^.c..pT.....3.
+    0060 - e7 53 3d 8a af 5f 83 20-33 9b 9f 76 bb 9e fb fe   .S=.._. 3..v....
+    0070 - 9c 66 03 ec aa 25 b0 d6-57 a5 e6 49 ba f2 e2 fb   .f...%..W..I....
+    0080 - 6c ad cc 47 2f 10 7a 75-b5 70 50 57 7a af ae be   l..G/.zu.pPWz...
+    0090 - 05 df 23 4a 32 06 28 9d-6c 8f 32 d9 31 cd 9c fd   ..#J2.(.l.2.1...
+    00a0 - fb f1 f7 3c 49 3f 8a 25-80 45 ca b1 12 e6 fb f4   ...<I?.%.E......
 
-    Start Time: 1472789442
-    Timeout   : 300 (sec)
+    Start Time: 1577475823
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

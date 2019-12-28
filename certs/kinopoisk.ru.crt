@@ -1,4 +1,4 @@
-CONNECTED(00000003)
+CONNECTED(00000007)
 ---
 Certificate chain
  0 s:/C=RU/O=Yandex LLC/OU=ITO/L=Moscow/ST=Russian Federation/CN=*.kinopoisk.ru
@@ -10,49 +10,55 @@ Certificate chain
 ---
 Server certificate
 -----BEGIN CERTIFICATE-----
-MIIGQDCCBSigAwIBAgIQS5eE4fSon0p3GDZTPI8mGDANBgkqhkiG9w0BAQsFADBf
+MIIHoTCCBomgAwIBAgIQf3nhi4iALDcLgD0kAxdUgzANBgkqhkiG9w0BAQsFADBf
 MQswCQYDVQQGEwJSVTETMBEGA1UEChMKWWFuZGV4IExMQzEnMCUGA1UECxMeWWFu
 ZGV4IENlcnRpZmljYXRpb24gQXV0aG9yaXR5MRIwEAYDVQQDEwlZYW5kZXggQ0Ew
-HhcNMTUxMjA4MTQxOTIxWhcNMTcxMjA3MTQxOTIxWjB3MQswCQYDVQQGEwJSVTET
+HhcNMTkwNzIzMDk1NTU1WhcNMjAwNzIyMDk1NTU1WjB3MQswCQYDVQQGEwJSVTET
 MBEGA1UECgwKWWFuZGV4IExMQzEMMAoGA1UECwwDSVRPMQ8wDQYDVQQHDAZNb3Nj
 b3cxGzAZBgNVBAgMElJ1c3NpYW4gRmVkZXJhdGlvbjEXMBUGA1UEAwwOKi5raW5v
-cG9pc2sucnUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDIO2VbNhO7
-WZssrPZGw7G39uXCCVDCbOHRcx7EmnTA2F7aooYh18/T52wFkd/HFXiDGNvzcToL
-ePvRySpVRR7cT+n0o6tkUn7Tb0vNYI7+i4yXqHVDEb6zEi3dLqLi51RSq/XYliaA
-9CZL/oXUFPW61QJdZROxWEp5cpszPYzZfeLurfiSIUOVGt3OPknfNw7EnegpuEyj
-RbPU41zMlRHH4akAPPfbE+68mWniemUJK6u1pIItsN1WiLjZGDGf+vZ+mtF3JiMC
-EiCNWNdYtc+k4dxHs3i0Qv7GOcF+2eCFCacPT0D1cXEYPqv/3jvXpNK2PXQfCpk0
-Z17Z4VsqPKghAgMBAAGjggLeMIIC2jAMBgNVHRMBAf8EAjAAMGkGA1UdHwRiMGAw
+cG9pc2sucnUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDXD0cgRYZt
+4H0w4+sPnw5JPSznANzxmxQwHs7xdkFyOyd6r/2Gxo8KlHx7fVpMR1siOi46v3AY
+Us0Tnya60CEYQWneFOR0Yxp9S92++4lQTfqegEt0OThJ4NSirF6dUnMOv413ftbL
+9MKnfeXnloKSURhSCFfkflEQGvDsn8F2jEtfFB2QQwet8lVNYfiV86vG5ip7yLrq
+LM99wxABtfl69VtX9E6sKmyaGvBgsGrTdUAGE76UdI+tLHhEv9zRQYX7QJZQRM1U
+WMAY4TBRq1M/qNYxQWc6ar5PkanxP7lAQmiw76CKxT48m5oWpsnNSqJTmr7aSvrs
+i70f6fMDS3FhAgMBAAGjggQ/MIIEOzAMBgNVHRMBAf8EAjAAMGkGA1UdHwRiMGAw
 L6AtoCuGKWh0dHA6Ly9jcmxzLnlhbmRleC5uZXQvY2VydHVtL3ljYXNoYTIuY3Js
 MC2gK6AphidodHRwOi8veWFuZGV4LmNybC5jZXJ0dW0ucGwveWNhc2hhMi5jcmww
 cQYIKwYBBQUHAQEEZTBjMCwGCCsGAQUFBzABhiBodHRwOi8veWFuZGV4Lm9jc3At
 cmVzcG9uZGVyLmNvbTAzBggrBgEFBQcwAoYnaHR0cDovL3JlcG9zaXRvcnkuY2Vy
 dHVtLnBsL3ljYXNoYTIuY2VyMB8GA1UdIwQYMBaAFDdc4xngso6hqE7Sz6vQ3OML
-XDVNMB0GA1UdDgQWBBQhcs+YuGk2QnB941EjYRk3jlBcoTAOBgNVHQ8BAf8EBAMC
-BaAwggE/BgNVHSAEggE2MIIBMjCCAS4GDCqEaAGG9ncCBQEKAjCCARwwJQYIKwYB
-BQUHAgEWGWh0dHBzOi8vd3d3LmNlcnR1bS5wbC9DUFMwgfIGCCsGAQUFBwICMIHl
-MCAWGVVuaXpldG8gVGVjaG5vbG9naWVzIFMuQS4wAwIBAhqBwFVzYWdlIG9mIHRo
-aXMgY2VydGlmaWNhdGUgaXMgc3RyaWN0bHkgc3ViamVjdGVkIHRvIHRoZSBDRVJU
-VU0gQ2VydGlmaWNhdGlvbiBQcmFjdGljZSBTdGF0ZW1lbnQgKENQUykgaW5jb3Jw
-b3JhdGVkIGJ5IHJlZmVyZW5jZSBoZXJlaW4gYW5kIGluIHRoZSByZXBvc2l0b3J5
-IGF0IGh0dHBzOi8vd3d3LmNlcnR1bS5wbC9yZXBvc2l0b3J5LjAdBgNVHSUEFjAU
-BggrBgEFBQcDAQYIKwYBBQUHAwIwEQYJYIZIAYb4QgEBBAQDAgbAMCcGA1UdEQQg
-MB6CDioua2lub3BvaXNrLnJ1ggxraW5vcG9pc2sucnUwDQYJKoZIhvcNAQELBQAD
-ggEBAG4XNqscGVFnelQrsRY4k33I9Q02/AqjmBI6h2MH0sMUbQpHlyrdb0kswlmR
-7qGwX8wvp/w3nm9SxQ3jR9lTOKhbuJQd14d+UUln9O/b5Pt/8a/HNigxFF4u85pP
-cHORQpuZnV1WyWV9z+Bk2XcQA30WEE6SbrIR2yGE8+4AMID3++lyeHcE4kzWEWWc
-EF3GdupacdWfYFXgItNmz9Zhw755iUiB/Sy31PrRZJO+ArbaICQa0GzCsPUhHnPz
-DyWMt5I+/nV2BDSZligXSxFHk/R3U9kVorwhYpS2jyrF8B9hu9ypy70CnaUWXshZ
-DLqwVt0Ul4PffD2ymtpu02FjYoc=
+XDVNMB0GA1UdDgQWBBR9lmHmLqMr0iZtCrYptCIZ8XfxmzBMBgNVHSAERTBDMAgG
+BmeBDAECAjA3BgwqhGgBhvZ3AgUBCgIwJzAlBggrBgEFBQcCARYZaHR0cHM6Ly93
+d3cuY2VydHVtLnBsL0NQUzAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DgYDVR0PAQH/BAQDAgWgMIIBDQYDVR0RBIIBBDCCAQCCDioua2lub3BvaXNrLnJ1
+ggxraW5vcG9pc2sucnWCEGhkLWtpbm9wb2lzay5jb22CE3d3dy5oZC1raW5vcG9p
+c2sucnWCD2tpbm9wb2lzay1oZC5ydYIHbXlrcC5ydYIFaGQucnWCDyoua3AueWFu
+ZGV4Lm5ldIIPaGQta2lub3BvaXNrLnJ1ggkqLm15a3AucnWCFHd3dy5raW5vcG9p
+c2staGQuY29tgg1rcC55YW5kZXgubmV0ghR3d3cuaGQta2lub3BvaXNrLmNvbYIJ
+d3d3LmhkLnJ1ghBraW5vcG9pc2staGQuY29tghN3d3cua2lub3BvaXNrLWhkLnJ1
+MIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdgDuS723dc5guuFCaR+r4Z5mow9+
+X7By2IMAxHuJeqj9ywAAAWweN1ipAAAEAwBHMEUCIFi+lw5gdcRREDfiZoXKOfoa
+fP/hc/5Ui11cPHtAN3vLAiEArXVuw2x27aZbuPZKCXtGKSfdoO9p3b47xm0GKKoL
+lUwAdQCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAWweN1jcAAAE
+AwBGMEQCIAi/Am2DvgZzjZQjm0Comt2GZy9XXmyE31c4sqCJYc/oAiAggrxd7bKE
+tMik+fxFqJAIPHfLU4A4he5F/X0Iy8N83gB2AKS5CZC0GFgUh7sTosxncAo8NZgE
++RvfuON3zQ7IDdwQAAABbB43VjoAAAQDAEcwRQIgMS5pNGBfSCvdXVtUc7YM5suo
+lpxn6s6Tw732qS+NjeoCIQC2/hslMn/iFall2epoWQUKc+Vu57xbMqrFPut+kL74
+fDANBgkqhkiG9w0BAQsFAAOCAQEACC7CLGRpTM4lF40H4jdNAUzDuGGm5WPqe0yY
+XJZDoH7qTzUDZz9O+eVDsU9OcWwuBDqRITf/A4gukrLYafkm/SGQPiEslpKXSPU7
+0pdHvwXE7k1Q08t7lYr5i7yi+rQXzE02IUmoyqrn4x6Sc+zfpznc9JQzQwAyqJXA
+UYaY+QM0tYKz/wyY/u9Woq3DGGIzi+HrHJNOM7HPUtzegX9/FUPilcJyfGuJEeVy
+GK8uzIpqm/QaR9OvlnZUszBzd+PHk7T//KWfOwX2b/76P6qWTRxTEkhWw5VnIj7K
+Gv0kL1c52zI4sUshI5EZUhiWD7TW4jRT+P0RMrw3fUV/TV3f4g==
 -----END CERTIFICATE-----
 subject=/C=RU/O=Yandex LLC/OU=ITO/L=Moscow/ST=Russian Federation/CN=*.kinopoisk.ru
 issuer=/C=RU/O=Yandex LLC/OU=Yandex Certification Authority/CN=Yandex CA
 ---
 No client certificate CA names sent
-Peer signing digest: SHA512
-Server Temp Key: ECDH, P-256, 256 bits
+Server Temp Key: ECDH, X25519, 253 bits
 ---
-SSL handshake has read 4689 bytes and written 434 bytes
+SSL handshake has read 4988 bytes and written 289 bytes
 ---
 New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
 Server public key is 2048 bit
@@ -63,28 +69,23 @@ No ALPN negotiated
 SSL-Session:
     Protocol  : TLSv1.2
     Cipher    : ECDHE-RSA-AES128-GCM-SHA256
-    Session-ID: B7E22E705E1FDDC12AA61B6310331139EF753A7753C428B0FB3EC10E71F21FB5
+    Session-ID: C44043B631A7A8B4EF5D386E00C241174D1CEDA3BDD8BA56A01D575D2385CA26
     Session-ID-ctx: 
-    Master-Key: 473C63D7B9728D53E6B3D447594171A1590DCF11F44BA23A8C162AB15E62723A676373937EC13BCCAA1E6E0406D6E1AF
-    Key-Arg   : None
-    PSK identity: None
-    PSK identity hint: None
-    SRP username: None
-    TLS session ticket lifetime hint: 300 (seconds)
+    Master-Key: 8305D6E5F57CBDC28BC90A8088603845E6F20BD157C5A16C615D0551836434B789DBC1F53B9FD9AA74C6B8DFDBA64034
+    TLS session ticket lifetime hint: 100800 (seconds)
     TLS session ticket:
-    0000 - 04 fa ab 8e 93 c4 80 6b-98 75 34 9c fc 66 08 ec   .......k.u4..f..
-    0010 - 9d 80 c1 26 97 8e 50 be-a5 b3 ed 93 c9 3d c7 35   ...&..P......=.5
-    0020 - d1 a3 ad 2f 2c 1a 8a 7f-a2 b3 67 04 37 90 db 88   .../,.....g.7...
-    0030 - 7e ae e9 62 6d 29 4c 39-c0 50 8d 51 4d 27 77 b5   ~..bm)L9.P.QM'w.
-    0040 - 49 91 cf e6 1a e0 a2 70-f0 59 cd fa da 56 bd e4   I......p.Y...V..
-    0050 - 59 51 61 59 6e 5b 09 3c-9e 86 1c df 9d 24 64 f7   YQaYn[.<.....$d.
-    0060 - 42 91 28 e2 1c ae 13 38-ba 39 11 88 62 82 d4 a0   B.(....8.9..b...
-    0070 - 51 09 0d 56 eb ed 38 70-c1 fd d8 0f 0a ef f4 f4   Q..V..8p........
-    0080 - b5 47 95 8d 6e ce c3 8c-d5 66 12 3f ca 4c e7 a0   .G..n....f.?.L..
-    0090 - d3 1c 03 9e 9d fa f7 87-0f 04 32 fb 08 e1 38 14   ..........2...8.
-    00a0 - 4d 0e 03 7b 43 24 8a c6-a6 7b 96 e2 b4 84 83 95   M..{C$...{......
+    0000 - 03 e8 0e dc b6 77 7f d3-e5 46 69 43 be db 12 06   .....w...FiC....
+    0010 - 13 4e 53 6a 50 e2 6d 82-fa a0 39 26 f4 50 e0 73   .NSjP.m...9&.P.s
+    0020 - e7 34 42 b0 b8 55 b9 8e-c0 48 2f f8 61 65 1c 70   .4B..U...H/.ae.p
+    0030 - 7d 3a 9e fb 8d 4c d2 3e-2d 4c bf 26 bf 9b d1 92   }:...L.>-L.&....
+    0040 - ec 96 a0 71 3d 5a 4b 8b-32 35 0f 4c d0 b2 d9 b1   ...q=ZK.25.L....
+    0050 - f9 62 8d 42 a9 e7 97 90-8c f5 61 09 c8 2d d2 68   .b.B......a..-.h
+    0060 - 53 e6 c8 fd 47 b0 27 b6-e6 cf dc d0 95 ad d9 c3   S...G.'.........
+    0070 - 2c 45 ea 97 88 1c 67 e8-d2 f5 e4 bf 60 d9 3b 83   ,E....g.....`.;.
+    0080 - 4b d2 48 c3 a2 e2 db 1b-12 4c 67 f4 1a e0 32 34   K.H......Lg...24
+    0090 - 71 49 1f e1 86 3d cb 84-08 b5 95 cc 55 b3 3a 7f   qI...=......U.:.
 
-    Start Time: 1472788302
-    Timeout   : 300 (sec)
+    Start Time: 1577474959
+    Timeout   : 7200 (sec)
     Verify return code: 0 (ok)
 ---

@@ -1,0 +1,53 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/C=IT/L=Roma/O=Telecomitalia S.p.A./OU=SB-S/C.PSD/CN=www.dagospia.com
+   i:/C=IT/L=Roma/O=Telecomitalia S.p.A./OU=SB-S/C.PSD/CN=www.dagospia.com
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDuTCCAqGgAwIBAgIJAOAy9SvIO+PBMA0GCSqGSIb3DQEBCwUAMGsxCzAJBgNV
+BAYTAklUMQ0wCwYDVQQHDARSb21hMR0wGwYDVQQKDBRUZWxlY29taXRhbGlhIFMu
+cC5BLjETMBEGA1UECwwKU0ItUy9DLlBTRDEZMBcGA1UEAwwQd3d3LmRhZ29zcGlh
+LmNvbTAeFw0xOTAyMjYwOTUwNTlaFw0yOTAyMjMwOTUwNTlaMGsxCzAJBgNVBAYT
+AklUMQ0wCwYDVQQHDARSb21hMR0wGwYDVQQKDBRUZWxlY29taXRhbGlhIFMucC5B
+LjETMBEGA1UECwwKU0ItUy9DLlBTRDEZMBcGA1UEAwwQd3d3LmRhZ29zcGlhLmNv
+bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO9hhSS118IweYxpJ6IM
+n1P9dabxC8nO77tcMPTM84DGivCvaZMCctYSbTAi2hY8waIXVtHdwqNeXdwnxPrn
+e7hxGu2ErGyP7MZKva6qjc0EWZ0zxLb3v6DiCcTpBwiB8j1LK5fOsr3xLnqhZ+i2
+Qqjs02KPn2swHHEP1sDj16oXa9NqQqY+VDP4p8wfOcxv08cU9Bm2unxiX6f08g06
+Q7ZmU4reyvqCHTyuloY4k1ZU/Oz8hj44ArrXe1po8JtgYlw+TdQzUtnOJ64UZmu9
+GU/suS8c/2xSNmqgDROFUs79kbxWhEz7+9Kl23rs+m/KnIt6pLWc376FYVyF9aGH
+ko0CAwEAAaNgMF4wRAYDVR0RBD0wO4IQd3d3LmRhZ29zcGlhLmNvbYIObS5kYWdv
+c3BpYS5jb22CF2Nkbi1zdGF0aWMuZGFnb3NwaWEuY29tMAkGA1UdEwQCMAAwCwYD
+VR0PBAQDAgXgMA0GCSqGSIb3DQEBCwUAA4IBAQBT4aDdzCGypn5do7+wROf+yxWj
+cZWSO8KDtt2b7BFSBw/3/+j/wK/1YGK+cCjWOLS6JcwEqueBmmlfDNThWA0cA7A5
+bkIFeCaq/wtyFicJZbwyl7dyx54mJ8C+n53UyDitZQnYaDuojkAtcb4M/r4hwoLe
+Y2kpMv90kHvZiEeuFDAFd4Fxw+liDr6BKSYzo+kLXPZ0aHPK5ImCSDNGBsq3e5/A
+4caUjb3dcvYLlMrWwlv3hE2/ECw9+/Wuzsnt4Tjcv3TncA94L39BKJpM5CjgZ3NC
+EDh1FwHk29u4/j5rSNG835Lz9o2PEmiWHoGMTuFL5SGN5P+voPo6BKFWNR7S
+-----END CERTIFICATE-----
+subject=/C=IT/L=Roma/O=Telecomitalia S.p.A./OU=SB-S/C.PSD/CN=www.dagospia.com
+issuer=/C=IT/L=Roma/O=Telecomitalia S.p.A./OU=SB-S/C.PSD/CN=www.dagospia.com
+---
+No client certificate CA names sent
+Server Temp Key: DH, 1024 bits
+---
+SSL handshake has read 1650 bytes and written 386 bytes
+---
+New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : DHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1993574A45B32940D2D761041EBF3B583B27BB494E6F2FFCAB2CAA697E7CA6A3
+    Session-ID-ctx: 
+    Master-Key: 704CBF5314968F0F948598A150406F0885DBD9935C383947424A1422168C31418F1E406BB61FFE8BD769AB34A87EB7FA
+    Start Time: 1577475503
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+---
