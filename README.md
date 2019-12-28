@@ -24,7 +24,7 @@ Of the Top 2000 sites on the Web:
   * Apple.com is the largest site with a terrible SSL Labs score: F.  It's not a some weird edge
     case, it's *actually* terrible.  Poodle vulnerability, no secure negotiation, TLS1.0 and
     TLS1.1 enabled.  If it's all for compatibility, they're covering a range *much* larger than
-    most sites.
+    most sites.  `icloud.com` has an A+.
 
 ## Usage
 The `top-2k.csv` is just a `head -n 2000` of this CSV file:
