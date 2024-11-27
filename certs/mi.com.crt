@@ -1,0 +1,99 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=mi.com
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  8 00:00:00 2024 GMT; NotAfter: Nov  1 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  2 12:24:33 2017 GMT; NotAfter: Nov  2 12:24:33 2027 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 18 00:00:00 2024 GMT; NotAfter: Nov  9 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGGjCCBQKgAwIBAgIQD+c/dKxRKAXkdW8MV+NkyjANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR8wHQYDVQQDExZSYXBpZFNTTCBUTFMgUlNBIENBIEcx
+MB4XDTI0MTAwODAwMDAwMFoXDTI1MTEwMTIzNTk1OVowETEPMA0GA1UEAxMGbWku
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiuVAIqnFYrC+J6k2
+9OVH3ugeZzX8mW85Aa2LZTGEhb7XkYgh0unelqRjA623/F8eVQrZo1o/PyPouUme
+c9FuCwvT4vcgBzKLKbhZJO4t6p2yCwowfer9bN6m8dxh+xeYU+y6Yw5UO0kNBZyD
+1VMthjxidrTZKBuOYmknsb4QuIUG4YBB5gLO96svN/fsbyZsr7bhMjNF47wBSOiD
+mAuJzEp9YnOu2P7IdcxOLxut3AgCsqq21PdJyi7W26+U4pkNe6lE+kQs/OZUQO1X
+jdsgyZs+zqwLgFOj7iToYK7tKireI3Of9/ZlEBJlra04ZFJ4UcVGSFrf0BRebaB0
+7Ej76QIDAQABo4IDHTCCAxkwHwYDVR0jBBgwFoAUDNtsgkkPSmcKuBTuesRIUojr
+VjgwHQYDVR0OBBYEFOkqxOjgqGcjsMANd6ZOe9TDHvHYMB0GA1UdEQQWMBSCBm1p
+LmNvbYIKd3d3Lm1pLmNvbTA+BgNVHSAENzA1MDMGBmeBDAECATApMCcGCCsGAQUF
+BwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA/BgNVHR8EODA2MDSgMqAw
+hi5odHRwOi8vY2RwLnJhcGlkc3NsLmNvbS9SYXBpZFNTTFRMU1JTQUNBRzEuY3Js
+MHYGCCsGAQUFBwEBBGowaDAmBggrBgEFBQcwAYYaaHR0cDovL3N0YXR1cy5yYXBp
+ZHNzbC5jb20wPgYIKwYBBQUHMAKGMmh0dHA6Ly9jYWNlcnRzLnJhcGlkc3NsLmNv
+bS9SYXBpZFNTTFRMU1JTQUNBRzEuY3J0MAwGA1UdEwEB/wQCMAAwggGABgorBgEE
+AdZ5AgQCBIIBcASCAWwBagB3ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvl
+hiY6AAABkm0y6uQAAAQDAEgwRgIhANcaO2QK834RHm8dL/uSyKTDMMFlALxp/91U
+FBJNgDUaAiEAw+wHPeNk0X0o1odUbtZAZh86xfoZt7TS4acRSY8jGMIAdgDm0jFj
+QHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZJtMus2AAAEAwBHMEUCIA9j
+7JmU8MPykOC8gF7x+sBidcsBGcofBx++F1O0bBi1AiEA8QcufdBwvxGbrleCXJ4J
+U4S1pjzF/WS6X94EjIHTuZ4AdwDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA
+/kwNsAAAAZJtMus/AAAEAwBIMEYCIQCCXzZAKwle8pvVzphYUBuoKykNZ1Q/kf9M
+ExAng9TaGgIhAKrxjO7Kg4j/krjvn0AjkE4mQXlhjiWCyMrSKtTeJGMkMA0GCSqG
+SIb3DQEBCwUAA4IBAQBPdphI9i85RN36YEbmJszsQ4Z+D+NUJIswzeD1zxNG7s8N
+sPonY+TM0QhRfwZ7VwitfkZbVCtZCYfmAv0/2kctiQjNO6dj6Zldl5pxpuhAJ3U+
+ObUEOS1PgDCxjmdKDhK9laTPQvkDGW8SsTIRSdn5ejmvGBQUJ7sX2FohCqwwU9Ne
+bvsiwncmQ+35A2dKuQP+PWhHZDnbya+scxMqBlRAixvljV/R/aR9Eq8vGaIgF4TS
+InMivgAt5KFnJ0DHtuN3NkWJLbRu4x+4fg/mezsNiaT4H0tfT+VolJneYjP6bVTl
+ifUYvOMNAAV0rfKhLPfAapTey78a8P9KJJnPXsmN
+-----END CERTIFICATE-----
+subject=CN=mi.com
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4594 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BD60E885AEFA26D1480C62CE80841C06CDD20718BC13916C10B8DD86FDA52AEA
+    Session-ID-ctx: 
+    Master-Key: CC99DDB4FCBFCC1B73B11767C9A63D410654737F2A9EB592A5A94DAEAF00CFDB1FA4F6D013424B95C3CC3D084F5F3FC8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 32 32 4e 55 69 4f 58 45-68 39 47 4b 6c 63 78 72   22NUiOXEh9GKlcxr
+    0010 - 83 b6 f6 2a f2 71 31 04-5b 40 3c 3b f6 5c 3b 33   ...*.q1.[@<;.\;3
+    0020 - e8 a3 ff ac 34 ad 06 77-89 92 85 44 2f a0 e1 3f   ....4..w...D/..?
+    0030 - bc 6e 29 e2 49 b4 6d f7-71 f4 40 f7 46 09 14 a0   .n).I.m.q.@.F...
+    0040 - 30 03 bb 03 25 e5 d6 a5-5a 96 f3 95 c4 4b 59 5c   0...%...Z....KY\
+    0050 - f3 af 8c 5c 7d 65 04 00-c7 9d 88 eb a6 90 54 35   ...\}e........T5
+    0060 - 0f 42 02 f0 d3 cc d9 65-3f db 00 ac 70 c9 ec 71   .B.....e?...p..q
+    0070 - f8 99 29 de d4 6e 3b 0f-ac 0e 85 35 b4 3e 05 9c   ..)..n;....5.>..
+    0080 - 7f 40 0f ca 56 85 e2 6b-19 35 ad 5b fc 72 b1 05   .@..V..k.5.[.r..
+    0090 - 6b 54 5b 6a 65 a2 a6 14-9a 43 e1 7e 55 d5 54 3b   kT[je....C.~U.T;
+    00a0 - 36 cd ce e1 0d f7 7e 9b-52 12 56 e6 7c 60 5a e8   6.....~.R.V.|`Z.
+    00b0 - 29 61 3a ee 2a 53 ea 1a-dd 73 79 2f f4 cd e6 80   )a:.*S...sy/....
+
+    Start Time: 1732697518
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

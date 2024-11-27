@@ -1,0 +1,116 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=primis.tech
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr 29 16:59:08 2024 GMT; NotAfter: May 30 17:42:16 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jun 29 17:06:20 2004 GMT; NotAfter: Jun 29 17:06:20 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIITDCCBzSgAwIBAgIJAKcomEBiaG7SMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTI0MDQyOTE2NTkwOFoX
+DTI1MDUzMDE3NDIxNlowFjEUMBIGA1UEAxMLcHJpbWlzLnRlY2gwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDcx9ewEtwbJZwBleJJQjjjrYsFTt9NxmZm
+paK0rmayj12hGQ/mHesTD4cnap0U/I3c5NSWkLVhu5XgmlAFz8pJyKX0aHChAStB
+8NgxcVtNvWfi26atYrLSy5bdC89zGOoDWPNyswnsraGfa3f8WG3ZKGWtLmTP+SYo
+0bLOWQ2sYj1vn8+4lLiDrU+b7g1mWv+69IgvbJ1PjKfrDYgg35L9pAqDEhtGotbK
+mglcvNr3lS+9+z/ZLpNUuDJutbLGPcFpLx7TTNWkOzTCSyyZavS3CapUKewFPwGK
+R+u1ZO9MaMb5hnwbp6+MB5+mRb9O43tNqER6TKnsFKB1S3HpzeNzAgMBAAGjggT8
+MIIE+DAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAOBgNVHQ8BAf8EBAMCBaAwOQYDVR0fBDIwMDAuoCygKoYoaHR0cDovL2NybC5n
+b2RhZGR5LmNvbS9nZGlnMnMxLTIwNzczLmNybDBdBgNVHSAEVjBUMEgGC2CGSAGG
+/W0BBxcBMDkwNwYIKwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRk
+eS5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQIBMHYGCCsGAQUFBwEBBGowaDAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRkeS5jb20vMEAGCCsGAQUFBzAChjRo
+dHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvZ2RpZzIu
+Y3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz1/tss/C0LIDOMIIB4wYDVR0RBIIB
+2jCCAdaCC3ByaW1pcy50ZWNogg93d3cucHJpbWlzLnRlY2iCE3ZpZC1hd3MucHJp
+bWlzLnRlY2iCD3d3dy5zZWtpbmRvLmNvbYINc2VsbGVycy5ndWlkZYIUbGl2ZS5w
+cmltaXMtYW1wLnRlY2iCE3ByZS1jZG4ucHJpbWlzLnRlY2iCF3d3dy52aXJ0dWFs
+YmxvZ25ld3MuY29tghZzdXN0YWluYWJsZS1zdHJlYW0uY29tghF2aWRlby5wcmlt
+aXMudGVjaIIPYXBpLnByaW1pcy50ZWNoghF3d3cuc2VsbGVycy5ndWlkZYIUcHJl
+LWRpc3QucHJpbWlzLnRlY2iCC3Nla2luZG8uY29tgg9wcmltaXMtYW1wLnRlY2iC
+E3ZpcnR1YWxibG9nbmV3cy5jb22CGnd3dy5zdXN0YWluYWJsZS1zdHJlYW0uY29t
+ghF2aWRlby5zZWtpbmRvLmNvbYIXcGFnZXMuZXhwZXJ0LW9mZmVycy5jb22CEGxp
+dmUucHJpbWlzLnRlY2iCE2NvbnNvbGUucHJpbWlzLnRlY2iCD3J0Yi5wcmltaXMu
+dGVjaIITdmlkLW9tYy5wcmltaXMudGVjaIIQbGl2ZS5zZWtpbmRvLmNvbTAdBgNV
+HQ4EFgQUCXsWSPBkkVbKjksWkIqJkb4xzs8wggF+BgorBgEEAdZ5AgQCBIIBbgSC
+AWoBaAB2AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABjyrLyRUA
+AAQDAEcwRQIgAIk1+dKkIXV+aVtlj1vawt3x5VnLap9+r9a1zZn3Oj8CIQDeb4Ah
+ONV/HYZ9q2undmphQsHKIDUgdsGi0LFw0CRA4gB1AH1ZHhLheCp7HGFnfF79+NCH
+XBSgTpWeuQMv2Q6MLnm4AAABjyrLyhoAAAQDAEYwRAIgPkSq4wJB1fkcxni/Caro
+Gow2jHPkFYGaoyCTFfCJfMMCIFOf68Q67xzUuvdJN2bl2zRSnVRYuF2PkHa/WL7f
+kRVnAHcAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGPKsvKtwAA
+BAMASDBGAiEAp6EnICFbVvI6WhIYc4fYaOueIiD9Xo2DWqW6SGku5mICIQCGZjfm
+Lmen4dXjgPcRZcDiC6TI38JEbvZC6pPv97sX1TANBgkqhkiG9w0BAQsFAAOCAQEA
+H2sG4TvA5M1jhTmEz6LcLau/+MyB/hG335J9ASdqDkAwvFSMODhCyvUa4NbQHyTB
+vkdVbCbKN66x3zX0//ppG8vzsKsXEH3YmbgbI+E6v6HG+iWTgjwiWimitXS7zhRg
+UfzbRCu+xetjajayxi29U9HeX3B83VfFnimkBtUP91YKkrY7T1TwukCUGgk3sE3m
+xWVe7BKYb6tzyQnGzkLAn9wP4pPBPSjzEVH7N9zZBnb/CF/Vhk6Sf4pqYr5u6F6F
+exWSZ3qfgVRAlsYlet970/vf1yDRVi7qhXxk7aB/hUn9P/0UUIRumXQXOYbhDyMq
+/MxvRnRwwODT13Kmj8bKgg==
+-----END CERTIFICATE-----
+subject=CN=primis.tech
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6291 bytes and written 471 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-SHA384
+    Session-ID: AC76C2D52F23CFFB127228CF9B12967DF72326C423DB1D3ACF19DC08D6463C01
+    Session-ID-ctx: 
+    Master-Key: A72ED4107DF6EBEF9CBCA23B3B53065B9230D6D50524BCC41E6069DB6E2A4C2B4C4041376524C0AB734B3BEF0B0507CC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 32 6b b9 0f d5 75 81 82-e3 9c d2 f0 04 a3 33 b9   2k...u........3.
+    0010 - 65 af a7 31 0c 5f 39 54-34 f6 de 4e 83 d0 52 86   e..1._9T4..N..R.
+    0020 - 67 45 00 ba 5f 7b 50 81-2c a1 cb 95 81 00 9b ca   gE.._{P.,.......
+    0030 - a2 05 e9 61 26 31 04 bf-a3 83 63 fe e4 54 d8 66   ...a&1....c..T.f
+    0040 - 9f 47 5a e4 78 58 63 9f-6a ea 8b b5 bf 61 56 ce   .GZ.xXc.j....aV.
+    0050 - 99 af 81 e4 d3 7c 82 73-e8 c0 1b da 07 e4 75 f4   .....|.s......u.
+    0060 - 29 08 28 2a 7b 0b 6a 19-71 ef 82 b2 e1 4d bc dd   ).(*{.j.q....M..
+    0070 - ec cb 7e 76 4a c9 e5 f8-91 73 bb 01 0c 3a 18 d4   ..~vJ....s...:..
+    0080 - 55 48 1c 46 28 61 32 9f-10 c6 8e 3f b6 04 ee 8e   UH.F(a2....?....
+    0090 - 73 9a eb 4c 6f 50 0c e4-81 c1 13 02 1b 03 6b 9c   s..LoP........k.
+    00a0 - f2 4b d8 ac f5 5c 70 25-b5 dc b2 71 4a 9c b2 0b   .K...\p%...qJ...
+    00b0 - a6 1d 26 b1 f1 50 4a af-02 1d 8a d9 57 82 7c 01   ..&..PJ.....W.|.
+    00c0 - bf 01 3f 78 b7 d8 77 b7-c0 a8 34 80 d6 38 e4 fb   ..?x..w...4..8..
+
+    Start Time: 1732697673
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

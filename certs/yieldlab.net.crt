@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=yieldlab.net
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 17 13:05:20 2024 GMT; NotAfter: Jan 15 13:05:19 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+DCCA+CgAwIBAgISBJa6RpgpfT7h3N7s0sNansU/MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMDE3MTMwNTIwWhcNMjUwMTE1MTMwNTE5WjAXMRUwEwYDVQQD
+Ewx5aWVsZGxhYi5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCn
+TSKdb0ChfsORevy5bqnEQ5QXvWSH/9G729Cqk+MP2Yb37OZ3zKievB2jVoMbBMl0
+FM/cVa2IYWgD/JJLQJjqgPVCWRRFiGxfYHkr7Zq19QD85rXyhSQMQsCPtaZ8RWM/
+OB722Vy/9A1jkvxEhfdUF/8mN5+eU2wh2qGGrtAIZysX7XNC2YdcpWNYV29n2BOx
+J1HJ63MXojhEHNEV3FmzTwNfIsmCOwLTM5bNKk+AdKRBkkcxa9itzWsdeS1MIX9T
+RdOm3gcpXSyU8MeOytjeVK064msyrW6HTY+V1OzK75+T3uGHJTS2M0axS+BkdzEG
+pO2NblPfaRuH4Jve3/lXAgMBAAGjggIgMIICHDAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFLsPWlL8tWJEvwkJ4Tvq8g021mZVMB8GA1UdIwQYMBaAFLu8w0el5LypxsOk
+cgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3Ix
+MC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxlbmNyLm9y
+Zy8wJwYDVR0RBCAwHoIOKi55aWVsZGxhYi5uZXSCDHlpZWxkbGFiLm5ldDATBgNV
+HSAEDDAKMAgGBmeBDAECATCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AKLjCuRF
+772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAABkprKvnUAAAQDAEcwRQIgaPJY
+0mZTyTye7OEHSQMZo0jPgz43kAp/lE8hIar3mgQCIQDWEoBY+EmXzl30lGEPZiEQ
+klIniJkq3nIlWrROrY22LgB2AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0e
+N45QAAABkprKvrAAAAQDAEcwRQIgKrW0ErboJzjGiq6qYOxLzgGKO65PJ77AMbxZ
+0JUijoMCIQDlpqhHJ+eEuKW0qoyNkMNeRPD8xv8ccWxbsuAA06HALjANBgkqhkiG
+9w0BAQsFAAOCAQEAUy+TTG9Qiv2yvIlMjJsS2vOzT+eDDgYG+j6iZzQtbQ6J2Q4P
+iPVWkKKlK+4Asignk3OAPEtzbVR+CMIoAENQd6oh6WmA1ir20NJRDkE5jblG0VxD
+XdaXt/PU1RaaEDBfEVNsASDP31YaIYK0mIkAGr4/tPf2+4BwcWzN4Znv+k9AZVlY
+vvctf/jrJ0Bncmnb4p61KdmAO15ZVN8VpXiSIiZQyPTKUUZVyhNi8t+8eJK197xo
+i07eMUiBNOEKNEPAMluRVeT+mt3GNyDJaik3AptiZ41JiHqBUIE8qVagcvL5Z+bz
+UFuIXH7lqNMu7DoytiZQCFQwB6PSQa7DmX0/8g==
+-----END CERTIFICATE-----
+subject=CN=yieldlab.net
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3130 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

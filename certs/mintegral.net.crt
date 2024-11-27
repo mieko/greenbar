@@ -1,0 +1,83 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=mintegral.net
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 28 00:00:00 2024 GMT; NotAfter: Sep 24 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF2TCCBMGgAwIBAgIQCj/ZVBAh0egP0QTSpyTbqTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDgyODAwMDAwMFoXDTI1MDkyNDIzNTk1OVowGDEW
+MBQGA1UEAxMNbWludGVncmFsLm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBANoZtLiVj1uYFACFNNS4GgLKe6VfaAA4gkvxKbsXxpRryeXAdjYMiSSS
+N0+GwGjrrtPiK9f0jkaOahkuTonm+LL4xObBrMH73xrVZoUpjbAjJoiPWG/daE0j
+naqmHhew7jGBedeVrpBl/hghETP8OVjVH+9hJSQ/VdRlsdg6iyUYD12qpFp5NHsi
+8F0jMUxkVb92ZQ7QKtGHx2PNDTmZjvdr+PnsIhzQnaLgas7uqlA9/N3kaez5EA/m
+Hve+xmlW6FoaF8x1h2cP1fSSx5CfZYes9a6mXGg4kDTA0YarWgZG8cvCzqfxgJAQ
+oV2VjJlr/QwS7aXsBgsk1VvZJa2Ai/8CAwEAAaOCAvkwggL1MB8GA1UdIwQYMBaA
+FFXZGF/SHMwB4Vi0vqvZVUIB1y4CMB0GA1UdDgQWBBSg3WGWa5Xrv3BSNBHv1yzA
+VXMMOjApBgNVHREEIjAggg1taW50ZWdyYWwubmV0gg8qLm1pbnRlZ3JhbC5uZXQw
+EwYDVR0gBAwwCjAIBgZngQwBAgEwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3Js
+LnIybTAzLmFtYXpvbnRydXN0LmNvbS9yMm0wMy5jcmwwdQYIKwYBBQUHAQEEaTBn
+MC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5yMm0wMy5hbWF6b250cnVzdC5jb20w
+NgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQucjJtMDMuYW1hem9udHJ1c3QuY29tL3Iy
+bTAzLmNlcjAMBgNVHRMBAf8EAjAAMIIBgAYKKwYBBAHWeQIEAgSCAXAEggFsAWoA
+dgAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZGYKarAAAAEAwBH
+MEUCIQDsWy9Yf5/QH0in5ntC76E6wXU73Q+pDj21jaV3P0eKeQIgc1UuYCroS5dn
+sAdmjPXL5C7NMW9D9KKIzoGdEkb+z6AAdwB9WR4S4XgqexxhZ3xe/fjQh1wUoE6V
+nrkDL9kOjC55uAAAAZGYKap6AAAEAwBIMEYCIQD5f6IEofStuktvO+cmTCoh3xto
+Eg8U7gnaQhRc+KotxwIhAPv8iDJbA3s8UVhkBif5jHMNuMpbR0NI8UVDJYlubZAW
+AHcA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGRmCmqjQAABAMA
+SDBGAiEAgXNM+qRknMvFGXbaK7GzKZDK6qtLQgq+leJz416481YCIQDuJtaIjvEU
+8rXenu88eIMQlN7lmPL5+h7MiXVJy88e6DANBgkqhkiG9w0BAQsFAAOCAQEAJscB
+rNfGxroHeuLHJ0zI7lztruLAQz1rOh3SbgHt+bDNwk/jLrAypzZxrxfxfo1ZwyC/
+3L5b4vVPh3m1dHeUVBRwvXhPZp7Oric8WOyfXwFX+SdKT8fVxdcy4Z3GyDi0Pm61
+IMNlWQ9PzJaUtIUSxlMgqaW4PoO1cK8OUiOVettyWWKOuPingY4UGCsc2KdHC/N0
+dH4hACaLNJBGJLFwPUcwCAf5lEsX2Ka7yjeFM6zI6/C2HaTMniuCp21KdanJVUDD
+ODFjU+anK1Hpp8VSkM0ahnd/2ppKdQWt4tGLSTq42drLsSxWpuhBWrZ7F72QQYry
+WzWBxHzTzWVuP1WQZQ==
+-----END CERTIFICATE-----
+subject=CN=mintegral.net
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4310 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 841E621BD5670C6EE848EDC44BF79527898ED964D122DA5EDFFA9F88F45890E4
+    Session-ID-ctx: 
+    Master-Key: 7AD109C627052CCF88C1DB3E216008026B96644338148E592486211B50ECEBE8EB2E71135B21FC476ADB9826A1CC4BD0
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697523
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

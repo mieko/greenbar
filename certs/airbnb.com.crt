@@ -1,0 +1,124 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Airbnb, Inc., CN=airbnb.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 22 00:00:00 2024 GMT; NotAfter: Feb 18 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIK0TCCCbmgAwIBAgIQB7zw1nM/2kBJrlnnf9Yd/TANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjQx
+MDIyMDAwMDAwWhcNMjUwMjE4MjM1OTU5WjBmMQswCQYDVQQGEwJVUzETMBEGA1UE
+CBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEVMBMGA1UEChMM
+QWlyYm5iLCBJbmMuMRMwEQYDVQQDEwphaXJibmIuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAl22q8f/+MLUf6NisSa/O10rC3SwlJNJHv3hgo8Pi
+Pg+moUq6h7G8Fu/qV+l3HEbuqwJ//aUWRgID8UV2LlFMLgB0klWgyB2fcC0iyQUY
+Jz2qIfKbZgA3CLrHFYy1lFKJubzionJQ0KLARBTAeko8Ic0mborcJ4SdzWA0p2x5
++hkThN+uZfylHrhyylM7GBCmUA/rdzr3C3IS99w0MGc15ElOoSONXs1GBOt8a/Ub
+NpUHDQNzFKnnUZld4PSt6S6BfQstTYfgpFnVg7eRIoOQhmfDYKwm6HbSIQnJDmFl
+gs2vBorvZz/N0DRU3/2+QeWRlsWkefmOXZqKRoH8K/2GiQIDAQABo4IHhjCCB4Iw
+HwYDVR0jBBgwFoAUdIWAwGbH3zfez70pN6oDHb7tzRcwHQYDVR0OBBYEFM0RI86p
+ixqJKyAa+xdUkl6/HWJVMIIEEgYDVR0RBIIECTCCBAWCCmFpcmJuYi5jb22CDWFp
+cmJuYi5jb20ucGGCDGFpcmJuYi5jby52ZYIMYWlyYm5iLmNvLmtygg1haXJibmIu
+Y29tLm5pgglhaXJibmIuY3qCDGFpcmJuYi50b29sc4IJYWlyYm5iLmFtgglhaXJi
+bmIuZ3KCCHZhbW8uY29tgg1haXJibmIuY29tLnVhgglhaXJibmIuY2GCCWFpcmJu
+Yi5ka4IMYWlyYm5iLmNvLnVrgg1haXJibmIuY29tLmFyggxhaXJibmIuY28uaW6C
+DWFpcmJuYi5jb20uZWOCCWFpcmJuYi5neYIJYWlyYm5iLmh1gglhaXJibmIucGyC
+DWFpcmJuYi5jb20uc2eCDWFpcmJuYi5jb20udHeCCWFpcmJuYi5mcoIJYWlyYm5i
+Lmx1gglhaXJibmIuYXSCCWFpcmJuYi5yc4INYWlyYm5iLmNvbS5lZYINYWlyYm5i
+LmNvbS5icoINYWlyYm5iLmNvbS5zdoIJYWlyYm5iLm5sgg1haXJibmIuY29tLmhu
+ggxhaXJibmIuY28uaWyCDWFpcmJuYi5jb20ucGWCDWFpcmJuYi5jb20uZ3SCDGFp
+cmJuYi5jby56YYINYWlyYm5iLmNvbS5oa4IJYWlyYm5iLmxhggxhaXJibmIuY28u
+Y3KCCWFpcmJuYi5iYYINYWlyYm5iLmNvbS5hdYIJYWlyYm5iLmNsgglhaXJibmIu
+aWWCCWFpcmJuYi5sdoIJYWlyYm5iLml0ggphYmIudHJhdmVsgglhaXJibmIuYXqC
+DWFpcmJuYi5jb20ubXmCCWFpcmJuYi5ub4IJYWlyYm5iLmlzgg1haXJibmIuY29t
+LmJvgg1haXJibmIuY29tLmNvgglhaXJibmIuc2WCCWFpcmJuYi5tZYIJYWlyYm5i
+LmZpgglhaXJibmIuanCCCWFpcmJuYi5hbIINYWlyYm5iLmNvbS5weYINYWlyYm5i
+LmNvbS5ocoIKYWlyYm5iLm9yZ4IJYWlyYm5iLmRlgglhaXJibmIuYWWCDWFpcmJu
+Yi50cmF2ZWyCCWFpcmJuYi5zaYIJYWlyYm5iLm14gg1haXJibmIuY29tLnZugg1h
+aXJibmIuY29tLm10gg1haXJibmIuY29tLnRygglhaXJibmIuZXOCCWFpcmJuYi5i
+ZYIKYWlyYm5iLmNhdIINYWlyYm5iLmNvbS5raIINYWlyYm5iLmNvbS5waIINYWNj
+b21hYmxlLmNvbYIJYWlyYm5iLmNogg1haXJibmIuY29tLmJ6gglhaXJibmIubHSC
+DGFpcmJuYi5jby5pZIIMYWlyYm5iLmNvLm56gglhaXJibmIucHSCDWFpcmJuYi5j
+b20ucm8wPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwgZ8GA1UdHwSBlzCBlDBIoEagRIZCaHR0cDov
+L2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNSU0FTSEEyNTYy
+MDIwQ0ExLTEuY3JsMEigRqBEhkJodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGln
+aUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcmwwgYcGCCsGAQUF
+BwEBBHsweTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMFEG
+CCsGAQUFBzAChkVodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRH
+bG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcnQwDAYDVR0TAQH/BAIwADCC
+AX8GCisGAQQB1nkCBAIEggFvBIIBawFpAHYATnWjJ1yaEMM4W2zU3z9S6x3w4I4b
+jWnAsfpksWKaOd8AAAGStmn8DAAABAMARzBFAiBspBYBsEKmNl7Tht5XuB1OJ63X
+mdR1cWz4ijg4uiN3+AIhALG+yYTlhRoqPz9BdRKJe1ySEiTytZii2MS0cha+3cke
+AHYA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGStmn73AAABAMA
+RzBFAiEAwPazcrF2Or58OCkwQH7PAZi6Ct8IFnIzx6xicV2r2N4CIAz6nBvlG56a
+jKEfOLK0Bz5/t91GugH0iB9Ml/fHWXWYAHcAzPsPaoVxCWX+lZtTzumyfCLphVwN
+l422qX5UwP5MDbAAAAGStmn74AAABAMASDBGAiEAqRfG3ZoyWlXLXD5RVTOR7BA1
+ZMBG6vbJ3/aqYEnywVUCIQC9mV5HH6o+NpznHYYy1HTOjwmXxKGW9uV10E3Lh64s
+ozANBgkqhkiG9w0BAQsFAAOCAQEAV7X4affXhJHjbpmVNsRwaVyLF1wctWjKR4U3
+u/RFREpnX/VXtwkzmiXL764QFuIOLg2bYWTPw3l71Bix7nofGutv9bO2oUwGfArg
++l8gf7dvGDA2CFAu2B5UJPxy+bfITEkFl3bCxsSgatI/HyQimSCNpxEmRwgCU/TR
+z8IRpuQUzB7BGWH0cISS0B4wMXYpUD/GdJSjTT992FTdOL7bY6atFihiIxfG8OEk
+GezwBZ3o3SBBhMac4TuNrgFMt3Z77P3z4EDVBuzjNDrsvkAKsg/rq09U9ptoKATV
+u6HfC0wyWzar4z8sbCznej28SJT3k6eLAC3WffFBi2ru094IPg==
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Airbnb, Inc., CN=airbnb.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5611 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: CE316B7CB72AC6FEB3A7FDFF4F62BF0941D94AF9469B3C1C01B30E842582412D
+    Session-ID-ctx: 
+    Master-Key: 9F3FCC8C9ACB6C50719A33183B3AA98BFD3F3800877592A6B5804BE9AF1193A70D22A8991FFB94C1E898B269393B6BEE
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - c3 3e ae a2 b3 57 25 92-28 13 18 eb 29 94 26 c8   .>...W%.(...).&.
+    0010 - 46 ea 58 26 4e 75 ea 69-87 3b 1b c4 ca a1 69 63   F.X&Nu.i.;....ic
+    0020 - 2a c1 66 e2 a6 b0 32 97-df f3 63 5d b7 9e ad 98   *.f...2...c]....
+    0030 - d0 4d 81 1e 03 c9 e9 28-68 c9 96 df 85 2e 14 72   .M.....(h......r
+    0040 - 90 a2 73 16 7d 3f bb 7d-97 32 c0 4d 3d 6f 2d 78   ..s.}?.}.2.M=o-x
+    0050 - 6b f2 e6 84 cd a1 f4 f7-52 0e a7 6e bc e7 76 91   k.......R..n..v.
+    0060 - 88 c6 21 8b 45 59 9e 36-59 9f 47 04 66 f3 2b cb   ..!.EY.6Y.G.f.+.
+    0070 - 4b e9 d3 bb 9e 58 b6 34-5c 8c b2 c0 d9 12 aa f6   K....X.4\.......
+    0080 - 26 2c b2 18 94 5a 0e ef-bb 40 70 9b 40 93 df 25   &,...Z...@p.@..%
+    0090 - 2b f3 99 3a 97 b9 a1 83-0f 27 8e 65 53 a7 4c 2a   +..:.....'.eS.L*
+    00a0 - 2b 2a 51 b5 3a 63 f7 e6-34 b6 fc e2 19 2e 72 6f   +*Q.:c..4.....ro
+    00b0 - 28 49 cc a1 2b 1c 92 fb-df 5d a8 2f 24 f7 c1 9a   (I..+....]./$...
+
+    Start Time: 1732696899
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

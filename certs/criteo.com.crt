@@ -1,0 +1,96 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=criteo.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 12 04:46:47 2024 GMT; NotAfter: Feb 10 04:46:46 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPTCCBCWgAwIBAgISA8MrIRXbOt+UE1+53KYwNx3TMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTEyMDQ0NjQ3WhcNMjUwMjEwMDQ0NjQ2WjAVMRMwEQYDVQQD
+Ewpjcml0ZW8uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm2e8
+OmG2irOeBMW7YRajg3z8kQVhIYystgGiGK24+cxQ8kCobxViKtm3ScgNqpspLDZz
+vBXPmkTikzcCWTbWrJvm0JVjo8iPxsFdngNKmoIx/u3CzURH5G18y+189vshumeY
+LWYNlBPk9Z7w4ZyC/em0RBiXj+IITjUx/czmRg1MMTEMpc98FBIKWte9kkEfyc1v
+TEN1NSsqNXIvZEVzlB2bnEA1lS4FrBcllZ6oGHSt0n03MKLqGM32H3y9YvbIpPgt
+paheAdQSdzRVpNDUmU0qliBtTmbuUW2vqRl6J/uRhp75PdVIRwb+39wLBoVvaEPz
+nuT/YSEWc3/zQ2ZScQIDAQABo4ICZzCCAmMwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBTTY5loshfx5fyx/rqomWNWVBhspjAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQt
+sF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEu
+by5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcv
+MG0GA1UdEQRmMGSCCmNyaXRlby5jb22CEWZ1dHVyZS5jcml0ZW8uY29tgg1zdG9y
+ZXRhaWwuY29tgg53d3cuY3JpdGVvLmNvbYIRd3d3Lmhvb2tsb2dpYy5jb22CEXd3
+dy5zdG9yZXRhaWwuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBQYKKwYBBAHW
+eQIEAgSB9gSB8wDxAHYAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgA
+AAGTHuemFQAABAMARzBFAiEA0OUCuTR4P2hTUPsK3le9NW40zeFCfP/+92O7lSJy
+eUICICLJsiiNEp8Fu4crkzk/Fr1x5lseC3KCIOT5JntkkXG5AHcA4JKz/AwdyOdo
+Nh/eYbmWTQpSeBmKctZyxLBNpW1vVAQAAAGTHuemkQAABAMASDBGAiEApzcbQMFj
+OrUwCsCM2vM+V0mZ2cMifrJGOa0WhcO6hHECIQDXOa9lkgQrh0/IZBlHO/CYoTLM
+mUuvvFT1iXI54vM0UjANBgkqhkiG9w0BAQsFAAOCAQEAlqIb/oVBjmdYEVf7oLXa
+GNT+I7aypcf9Ov6WdzWiPKouY7sM3kDSMuFzDC7leWua3jNTsxTOBZx0U8fgAxyx
+s0towxN9Pp4L12N2gDz9ayr9+6y/y10pcvqzSS4NMcGGBIz3kjUpKaOQdWE3DWSn
+d/PlmgVs4f5ONbcVJus5pdmWAP2UyPIbDzoAgoQzIUWwCkFsWtF4FXS+9JXmUFls
+vGGEJ1FYyr+VlXk24zcUB1jK9wKrot1i+sNzXzxfYv7WtDM0UB9TIv4Gw102pSsp
+2HuRISJvIX8rL+AIxUn/W79aIiTQMWyqRBUgjgRZW03GUTCV4htFdAvbfkDhZNta
+RQ==
+-----END CERTIFICATE-----
+subject=CN=criteo.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3184 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: CC2A73B3C51F80E8070D60EBA9B7D85FC3F271134B97B850BD333C378F2C5368
+    Session-ID-ctx: 
+    Resumption PSK: DAD7FBFFC011586D57296FDB7F5D6F4B8AC14D212B1AD360DD319F32B7542905
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - ef 07 b9 e8 c6 82 58 ae-cb 66 0e b0 da 55 4a 71   ......X..f...UJq
+    0020 - db 34 5d d7 68 c2 f6 0a-0d 66 dc be 43 54 a5 15   .4].h....f..CT..
+    0030 - cc 23 63 c0 23 8e 70 3b-71 da 6a 76 0d 2e a8 43   .#c.#.p;q.jv...C
+    0040 - c5 bf 93 44 61 83 e4 90-60 1f 94 cb 22 7d a8 ca   ...Da...`..."}..
+    0050 - ff 64 c5 48 ee 31 49 b6-7d fd 85 7e 96 92 0c 61   .d.H.1I.}..~...a
+    0060 - fc cc b0 b1 79 b8 ef 61-16 f0 d9 a5 44 18 93 a2   ....y..a....D...
+    0070 - 7a 82 b8 57 01 77 cf 5b-35 ac c5 32 1c ae 11 12   z..W.w.[5..2....
+    0080 - d1 c7 95 5a d1 b1 4f ca-40 73 4c 6f 61 11 6e 07   ...Z..O.@sLoa.n.
+    0090 - 1a a9 39 e2 c0 76 38 4d-8f dc 47 86 d1 db ac 90   ..9..v8M..G.....
+
+    Start Time: 1732697112
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

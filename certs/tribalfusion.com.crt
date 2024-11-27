@@ -1,0 +1,80 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.tribalfusion.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  8 11:57:29 2024 GMT; NotAfter: Sep  9 11:57:29 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jun 29 17:06:20 2004 GMT; NotAfter: Jun 29 17:06:20 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGnTCCBYWgAwIBAgIJAN/SMNYKQS78MA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTI0MDgwODExNTcyOVoX
+DTI1MDkwOTExNTcyOVowHTEbMBkGA1UEAwwSKi50cmliYWxmdXNpb24uY29tMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgak8jhTszJ6AQtHUopa/ZLKw
+JuLa4oAMG9GTrO+Mfzthu5ZXa4Lu0CvqhDbIe9d6EosHjXdksu/Mw7y7I/+4atOI
+4ow3drteH8wbHMlnybsxyabILMGIQ566d5HV+yWZx1+ISv2xkZcxkklG7eVAdA+4
+p4cK3HIxI2Bm3/cNB8lA2BUpss7CFGCxIukaSof4R+5Z3UCgD2EAtFKlHjKNA4rb
+haLxP25vcsR6eKSsITcRqjrcGjMWRpAtrVvKUCM11UwIm5BcmCChSUoftsMRBrod
+ddkTfTBq+vBkLxNzi+X1EYxPQcq5943CxPvPKlCONoURV1tin+w1dp7mvEPyIwID
+AQABo4IDRjCCA0IwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDgYDVR0PAQH/BAQDAgWgMDkGA1UdHwQyMDAwLqAsoCqGKGh0dHA6
+Ly9jcmwuZ29kYWRkeS5jb20vZ2RpZzJzMS0yNzc2OC5jcmwwXQYDVR0gBFYwVDBI
+BgtghkgBhv1tAQcXATA5MDcGCCsGAQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECATB2BggrBgEFBQcBAQRq
+MGgwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEF
+BQcwAoY0aHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5
+L2dkaWcyLmNydDAfBgNVHSMEGDAWgBRAwr0njsw0gzCiM9f7bLPwtCyAzjAvBgNV
+HREEKDAmghIqLnRyaWJhbGZ1c2lvbi5jb22CEHRyaWJhbGZ1c2lvbi5jb20wHQYD
+VR0OBBYEFIjS3Uo6XBrp7k+gakRb+1u3t1YLMIIBfgYKKwYBBAHWeQIEAgSCAW4E
+ggFqAWgAdQAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZEx2gKU
+AAAEAwBGMEQCIAn3f32oO/bHOxJDQ8MzV8lk3s3VNDlGHKY5pOloaYmlAiAdz+yJ
+dRd7EOhAc/FBavpYNY6dqUMY8ixG39uY0DY1jwB2AH1ZHhLheCp7HGFnfF79+NCH
+XBSgTpWeuQMv2Q6MLnm4AAABkTHaA3IAAAQDAEcwRQIhAIXX6l55auz1968GMG3c
+gRdV4tQ79x0GpDBBx+0aLjAsAiAH8tKV7i9YsiWxjPPaf09Cc9UVbCBg5gIUZVXh
+btWEzQB3AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABkTHaBAUA
+AAQDAEgwRgIhAPJCxXLP0WyeDNHiOFuPYt2uI9qtYxAyfxCEC6rVYrkPAiEAznqJ
+ZSOamRbF7fH2vcfUoacYm7QPwXJvUunCE2lfajkwDQYJKoZIhvcNAQELBQADggEB
+AIN5l733mXs5Cn5xhqnPvYc4JW0d2jSFcMiEv6IvXjqyLC9Vmui8HPbuWrngnlUN
+Tad+Wj4zxFbXdxEIIPFYuPm5EdxVXKqQtpToj3w4QIGnpG1KaXGHwspTdjxFJhJP
+CBQhG+7gEue5zqL8SrvHumjBgldx5Ve2vHKIg+T+zq26Fu9RY6W5TN3Qs8c29+8w
+EB3i34IMKUmFgEekYvuFG6vz+94TEv+GsK8dpT/ifZjbv25yZc8ULyP5ZmLfRu0U
+IP5er7P5seuM2hTzOvdMJokyeMPi+qFDTVHU/h0lLYzVnEqw885C0XgOzevvQRYy
+US31ycipSWKXio8ejZNp8Bw=
+-----END CERTIFICATE-----
+subject=CN=*.tribalfusion.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5689 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

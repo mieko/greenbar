@@ -1,0 +1,78 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=eBay, Inc., CN=ebay.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Feb 26 00:00:00 2024 GMT; NotAfter: Feb 25 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHvTCCBqWgAwIBAgIRANUHLyw7IYNNNPuwSPml2sAwDQYJKoZIhvcNAQELBQAw
+gZUxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE9MDsGA1UE
+AxM0U2VjdGlnbyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0yNDAyMjYwMDAwMDBaFw0yNTAyMjUyMzU5NTlaMEoxCzAJBgNV
+BAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRMwEQYDVQQKEwplQmF5LCBJbmMu
+MREwDwYDVQQDEwhlYmF5LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAJxpLXQXFdy1sGCYMe46ylAmnvbFTRAd7GqtZD2+5jptdORPx8xdPzyWd0Ej
+2W7Q18kE+2R7LXrV75FcM/KZcy+M1KsdRxy0Wlv2bAphAh25Nrv312kK3/E2vy7S
+IOTEICjISyGoQ58U5gZ9JaS89SQFv3R1NcO4jKUkZdgfMOVOEGO+aBji3ZSpZobV
+iUKCopZu4GvT2hlFQsCm98NVM1KkNPrQIIdsfomLY2+WxF0q9Ykw5xOZ8mHOzXzE
+8mSepY9w6Qe0eNM/0WanMnyu1fA2iSBwU9DXDJvsYm5F9a2u7WJX6anMNW4FqX3b
+YPO05WvSQngNQ7HUAdG3mzdXIFkCAwEAAaOCBFAwggRMMB8GA1UdIwQYMBaAFBfZ
+1iUnZ/kxwklD2TA2RIxsqU/rMB0GA1UdDgQWBBRfFotVwe5BXsl2z4DEQVZggZhY
+7DAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwSgYDVR0gBEMwQTA1BgwrBgEEAbIxAQIBAwQwJTAjBggr
+BgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQICMFoGA1Ud
+HwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuc2VjdGlnby5jb20vU2VjdGlnb1JTQU9y
+Z2FuaXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcmwwgYoGCCsGAQUF
+BwEBBH4wfDBVBggrBgEFBQcwAoZJaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0
+aWdvUlNBT3JnYW5pemF0aW9uVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAj
+BggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wggGABgorBgEEAdZ5
+AgQCBIIBcASCAWwBagB3AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsI
+AAABjeaRQjEAAAQDAEgwRgIhAJr7YmxHuF7rOqBUXSqtKthK4bK9zck/fM9sEJC5
+OK0sAiEA90qpqylvpFmbYoWOxR/6fu5A9ILIRqas+feYCO+alJYAdgCi4wrkRe+9
+rZt+OO1HZ3dT14JbhJTXK14bLMS5UKRH5wAAAY3mkUMEAAAEAwBHMEUCIGhWQf9U
+I8jEvp2IODrRdJIUSCa6NXHKffg3LTr7t4svAiEA9CBWLyAapizIpaDbAAsjJZT/
+csQT508O7oo+lynLZycAdwBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo5
+3wAAAY3mkUKxAAAEAwBIMEYCIQD754yNiCCqjB9gNTnej8YfmLLc3OtbQrLO9HwU
+OZ1wQgIhAPGvnif8T6jyst94vM5qtA5/NAKzdbyKY1ot4neN2zQPMIIBEgYDVR0R
+BIIBCTCCAQWCCGViYXkuY29tggxiZWZyLmViYXkuYmWCDGJlbmwuZWJheS5iZYIM
+Y2Fmci5lYmF5LmNhgghlLWJheS5pdIIHZWJheS5hdIIHZWJheS5iZYIHZWJheS5j
+YYIHZWJheS5jaIIKZWJheS5jby51a4ILZWJheS5jb20uYXWCC2ViYXkuY29tLmhr
+ggtlYmF5LmNvbS5teYILZWJheS5jb20uc2eCB2ViYXkuZGWCB2ViYXkuZXOCB2Vi
+YXkuZnKCB2ViYXkuaWWCB2ViYXkuaW6CB2ViYXkuaXSCB2ViYXkubmyCB2ViYXku
+cGiCB2ViYXkucGyCB2ViYXkudXOCB2ViYXkudm4wDQYJKoZIhvcNAQELBQADggEB
+AD0zh0PuWZE8Bg1nALPdAYpL6u79AnUkDmxSgHdbG/DKqV/ISUTxwl76b1u9fIcd
+MKY2xOVv2GCdtKQ9z5kwQzZW4mGM99M9TBaVLKwT1GnWI2yDAEAzU0A3PPDgUFPq
+z3UuevuZPT2u7Wq7buYKXPeritbgWnvCxhJ98ozy9Pz6sHy8dRQ6EDQaFJQCdZPq
+LXZplSn4ZFpdSqoNvtCU8CWT75RsVGxNfjFFqCCGjXCnBcV4EtTgy2cpXoC8Q81c
+d/ddAgej41Y5qWL/+6rMpivtnfyb0ORIh+yfqroOVSAPxRDnmM2dtUqQDiyDAzfZ
+xir5xzvoJAdD+l34GydTxWU=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=eBay, Inc., CN=ebay.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4109 bytes and written 383 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

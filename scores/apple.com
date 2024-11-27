@@ -1,5 +1,4 @@
 
 HostName:"apple.com"
-"17.172.224.47":"F"
-"17.142.160.59":"F"
-"17.178.96.59":"F"
+"17.253.144.10":"String index out of range: 68"
+"2620:149:af0:0:0:0:0:10":"String index out of range: 68"

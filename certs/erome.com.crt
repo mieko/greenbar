@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=erome.com
+   i:C=US, O=Let's Encrypt, CN=E5
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct  2 11:02:35 2024 GMT; NotAfter: Dec 31 11:02:34 2024 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E5
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEVjCCA9ygAwIBAgISBM8fL+eeb+sIbcpPBxlH0g9qMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NTAeFw0yNDEwMDIxMTAyMzVaFw0yNDEyMzExMTAyMzRaMBQxEjAQBgNVBAMTCWVy
+b21lLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABPb5UKPh+NyzJJgVYSAn
+qH2JaQm3GBJwLW9qdHn6DPtV/5xvs+QYEWecYNiuegSPakmSZpHfcUGw2+In+uAz
+jXmjggLuMIIC6jAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFP1/ZcJav9KMQKRZCag1
+b+4Qh1gwMB8GA1UdIwQYMBaAFJ8rX888IU+dBLftKyzExnCL0tcNMFUGCCsGAQUF
+BwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL2U1Lm8ubGVuY3Iub3JnMCIGCCsG
+AQUFBzAChhZodHRwOi8vZTUuaS5sZW5jci5vcmcvMIH3BgNVHREEge8wgeyCDGN6
+LmVyb21lLmNvbYIMZGUuZXJvbWUuY29tggllcm9tZS5jb22CDGVzLmVyb21lLmNv
+bYIMZnIuZXJvbWUuY29tggxnci5lcm9tZS5jb22CDGh1LmVyb21lLmNvbYIMaXQu
+ZXJvbWUuY29tggxqcC5lcm9tZS5jb22CDG5sLmVyb21lLmNvbYIMcGwuZXJvbWUu
+Y29tggxwdC5lcm9tZS5jb22CDHJvLmVyb21lLmNvbYIMcnUuZXJvbWUuY29tggxz
+ZS5lcm9tZS5jb22CDHRyLmVyb21lLmNvbYINd3d3LmVyb21lLmNvbTATBgNVHSAE
+DDAKMAgGBmeBDAECATCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AEiw42vapkc0
+D+VqAvqdMOscUgHLVt0sgdm7v6s52IRzAAABkk0a+IwAAAQDAEYwRAIgOVjhLupG
+ADqbcSZBnlkg80zlbLlv5XrtkJ0TVx7Bmy8CIHoz5J4Z+ncHjRoT+j8jGSzT3cAU
+BMdTOwQJgI6LZbjuAHYA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsA
+AAGSTRr4nQAABAMARzBFAiEAkXnuspfbItq5QdBGIED+mZwGlnoi8PbAAr7+kITC
+NPoCIBoMYgrLrIm6iuhvjO5a2YO1d4eSvvG7cGlWzAnMxgdgMAoGCCqGSM49BAMD
+A2gAMGUCMQCIO48pae9WLuC9r6Wr26ZQa6cerTNhzTzNoCFmOAYWTyWx+qjzpAh3
+xn5fZG3yEOQCMB3x7vFByYzPn2TY4pvc87KWQ7DtnzyurxFg/94buip//ufrAhE7
+NPOV5Z6DazNshg==
+-----END CERTIFICATE-----
+subject=CN=erome.com
+issuer=C=US, O=Let's Encrypt, CN=E5
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2592 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_CHACHA20_POLY1305_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,64 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.google.fi
+   i:C=US, O=Google Trust Services, CN=WR2
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 21 08:39:31 2024 GMT; NotAfter: Jan 13 08:39:30 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR2
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEWTCCA0GgAwIBAgIQLYM5nzHsGMwKE0NNiolxQDANBgkqhkiG9w0BAQsFADA7
+MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQww
+CgYDVQQDEwNXUjIwHhcNMjQxMDIxMDgzOTMxWhcNMjUwMTEzMDgzOTMwWjAWMRQw
+EgYDVQQDDAsqLmdvb2dsZS5maTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABICY
+JkjqKj7x7boA+gYv+hQHfDA9PVQdspHRjxiG9c0yWxkk6UqmqA/0Gn927fEkoLGn
+ahAYsiS9W1jTOXrazdajggJHMIICQzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAww
+CgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUBm0d3jPFXQC5cmxo
+jQFJU4UhVs4wHwYDVR0jBBgwFoAU3hse7XkV1D43JMMhu+w0OW1CsjAwWAYIKwYB
+BQUHAQEETDBKMCEGCCsGAQUFBzABhhVodHRwOi8vby5wa2kuZ29vZy93cjIwJQYI
+KwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dyMi5jcnQwIQYDVR0RBBowGIIL
+Ki5nb29nbGUuZmmCCWdvb2dsZS5maTATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNV
+HR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93cjIvNzVyNFp5QTN2QTAu
+Y3JsMIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADuAHUAzxFW7tUufK/zh1vZaS6b6Rpx
+Z0qwF+ysAdJbd87MOwgAAAGSrnIzogAABAMARjBEAiBqk6YF5nLPOHh4he0zTEAT
+cM3FiV300Qb85/3OstEDOAIgdxF58DEsftXVW4TkfN8TP18YVg6waqj4x12uxTrh
+LHwAdQDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZKucjOCAAAE
+AwBGMEQCIE2DW/CF71XFPQHgKBUqwnJ0QH2AKG2eQNgf8/IwRuirAiArPJXhX+2D
+E/Ft2lu55H9/qqK+t/TBHgGnIGKFSsP6GTANBgkqhkiG9w0BAQsFAAOCAQEAhweL
+uIcKo22tFwhdlZBp7tCZPZN4O+X+hCgcPkePCiu0ErcZF33/Jxyek+rCRT+TJPYN
+njemiR6s2Vta53RTJJHnRpzTP455JSQGSUFNAMWsUEwSg1yRV2JvuTXD4MdLObHF
+5IjAs7NFLs9T54OzA1pca9FFnstiW+3wEoEa6MKMg8RqVhexfX8pexjpZI5zVvjX
+o5GebwP3SdP+1oO5afvZUm1OE2wTYQMnDHKrifyXLfbH1CyX91FnFigiThuDqWZ/
+irFTaUVEeeMoO36hxhklNn86QVpHPoDg4jWqNWGZM6n66eNwqc5yi9tDDCT10MZQ
+nWg+ULxMSTV1nACaCA==
+-----END CERTIFICATE-----
+subject=CN=*.google.fi
+issuer=C=US, O=Google Trust Services, CN=WR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4109 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

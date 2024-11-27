@@ -1,0 +1,79 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=Massachusetts, L=Boston, O=GoTo Technologies USA, LLC, CN=logmein.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 15 00:00:00 2024 GMT; NotAfter: Nov 12 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+ 2 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHNzCCBh+gAwIBAgIQDdAVf2wc7nf34SggZOneCDANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjQx
+MDE1MDAwMDAwWhcNMjUxMTEyMjM1OTU5WjBxMQswCQYDVQQGEwJVUzEWMBQGA1UE
+CBMNTWFzc2FjaHVzZXR0czEPMA0GA1UEBxMGQm9zdG9uMSMwIQYDVQQKExpHb1Rv
+IFRlY2hub2xvZ2llcyBVU0EsIExMQzEUMBIGA1UEAxMLbG9nbWVpbi5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC/G5CM28LzEGMdjeA4CwPw7EZZ
+ylwXppYL5Mnn7IM3qMGR2vDBxX11BdxBluHpLOVJJ1weLRBWw8HpjEnVmTp6XxcU
+ZGSKMI8jbjO4h+MyeOGb0dO+V0RE9d8DTLEMe383H41tZdYh528XG3t5dnnJ3eqg
+pSdOLoIqerCg1mWYB7FGmk1g2KsMRjWPA6BgrleyPITX+TLWsFbUiK+++XcjCJSh
+pAU2FQuHnVs2LPSgVaVdE6vjZYLxfAq1KHUZgT2tE/oFEORzGqn3IlyjM/cnAzNM
+GydUussMwAxy9LjuZDdkj5a9a1ubEEDYTG47JQLcEkViDbW+alzk62zR7JrdAgMB
+AAGjggPhMIID3TAfBgNVHSMEGDAWgBR0hYDAZsffN97PvSk3qgMdvu3NFzAdBgNV
+HQ4EFgQUhMaD0gsDWbIYXRyhehtgiGG1poswbwYDVR0RBGgwZoILbG9nbWVpbi5j
+b22CE2NhcmVlcnMubG9nbWVpbi5jb22CFWRldmVsb3Blci5sb2dtZWluLmNvbYIQ
+bGFicy5sb2dtZWluLmNvbYIZbWFuYWdlaGFtYWNoaS5sb2dtZWluLmNvbTA+BgNV
+HSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2lj
+ZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjCBnwYDVR0fBIGXMIGUMEigRqBEhkJodHRwOi8vY3JsMy5kaWdp
+Y2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5j
+cmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2Jh
+bEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDCBhwYIKwYBBQUHAQEEezB5MCQG
+CCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUQYIKwYBBQUHMAKG
+RWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExT
+UlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMBAf8EAjAAMIIBfwYKKwYBBAHW
+eQIEAgSCAW8EggFrAWkAdgAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYm
+OgAAAZKQbs4RAAAEAwBHMEUCIGt+b6YDRizJoHcZfMaCju1PJfuS9B3Qa712Mown
+81HZAiEA6Ib+vo0Wh7a31i41V0jTiIetnRZoLPZG3WLxgYQv1PUAdgDm0jFjQHeM
+wRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZKQbs2nAAAEAwBHMEUCIQDfyamm
+2WSf0th3fg7rY9dhAdvTrLNRiCbIlobvBvJKygIgJ7mgc5F6e1Ew7zjV6DShdgOv
+9pEPNHjwLmK8K6W5DfcAdwDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwN
+sAAAAZKQbs1yAAAEAwBIMEYCIQCahuFYH6bBa5YNrsOpRKpJpQYz7ypknnekOdh3
+KQFkxAIhAPrpov89vXuwEUFakRt4DXNsj71i4CQJgwX3Fjjb9pgzMA0GCSqGSIb3
+DQEBCwUAA4IBAQAE++swr6az9+Uk6Zz0FFPHpJn8nt0Gz47cymtpzzReDSsTmzYh
+nRTcFNVG1WKDny0lOyIVa6reqIiGo9ATbxM/fbS2JsEBDupLFiGWaA/FYb+G4lPe
+rAF+mdePZ+x/TSgefoWJyh8pIPUIepYkVWbcEFAoVV9xk6aZW11KQk2FxIJmSomY
+g2Fe4qQcHwGTZubG2RnFqZRuRq9m4VQuJRNzcne0XwEJxBwKSzRTm65U98/kqBDk
+Bw8MrdL0m/BlrRZLLrDD75eoSTE1wMyVGCeridpuFQtZcCqIjUOCJZPRZb1mKCHY
+0PqSDnMzlKxUTxK6w5p2kNqA6HnYh0zly3Qb
+-----END CERTIFICATE-----
+subject=C=US, ST=Massachusetts, L=Boston, O=GoTo Technologies USA, LLC, CN=logmein.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4563 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

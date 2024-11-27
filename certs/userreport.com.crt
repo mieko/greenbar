@@ -1,0 +1,76 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=tls.automattic.com
+   i:C=US, O=Let's Encrypt, CN=E6
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 18 07:06:54 2024 GMT; NotAfter: Feb 16 07:06:53 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E6
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHZjCCBuugAwIBAgISBKatUWH3xNccBpexRpKGsI1aMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NjAeFw0yNDExMTgwNzA2NTRaFw0yNTAyMTYwNzA2NTNaMB0xGzAZBgNVBAMTEnRs
+cy5hdXRvbWF0dGljLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABNrebhrB
+UcqCTS/H/l/Yq+TmfB/i4yDiRzdV+CyjT/Y5k6qv3CIwyB9DInd7iIXEhTBCkJU9
+iPZwsWHwmG2F2NajggX0MIIF8DAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFBZkYskK
+lcmLgIIaHn8bSZ85JRK/MB8GA1UdIwQYMBaAFJMnRpgDqVFojpjWxEJI2yO/WJTS
+MFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL2U2Lm8ubGVuY3Iu
+b3JnMCIGCCsGAQUFBzAChhZodHRwOi8vZTYuaS5sZW5jci5vcmcvMIID/AYDVR0R
+BIID8zCCA++CEGJsb2cud2VibW9iaS5jb22CEmJzYzU0d3Muc3BvcnQuYmxvZ4I+
+Y2hyaXN0aWFuY2hpbGRyZW5jaGFyaXR5Zm91bmRhdGlvbmRvbWluaWNhbnJlcHVi
+bGljLndhdGVyLmJsb2eCGWRpZ2l0aWFsY29udGVudGFnZW5jeS5jb22CEGVtZXJn
+ZW5jZWRibC5jb22CBmZmbS5hc4ISaG5zc2VydmljZTIwMjQuY29tghRrYXJla2Fy
+ZWZlc3RpdmFsLmNvbYIRcHJvZmljaWVudGJwby5jb22CF3RocmVlbGl0dGxlYnVz
+eWJlZXMuY29tghJ0bHMuYXV0b21hdHRpYy5jb22CDnRtc2NobW95ZXIuY29tggx0
+b29tZW50b3IuZWWCGHRyYXRhbWllbnRvc2RlYmVsbGV6YS5teIIgdW5pdmVyc2Vs
+Y2hlbWlzdHJ5bGFib3JhdG9yeS5jb22CEXVudXN1YWwtZm9jdXMuY29tgg51c2Vy
+cmVwb3J0LmNvbYINdXpheWRheWl6LmNvbYIWdml2cmVhdmVjcGFya2luc29uLm5l
+dIIOd2FyZGFoYWphei5jb22CFHd3dy5ibG9nLndlYm1vYmkuY29tghR3d3cuZW1l
+cmdlbmNlZGJsLmNvbYIKd3d3LmZmbS5hc4IZd3d3Lmdic29sdXRpb25zLnRlY2gu
+YmxvZ4IWd3d3Lmhuc3NlcnZpY2UyMDI0LmNvbYISd3d3LmpjYWNvbXBhbnkuY29t
+ghh3d3cua2FyZWthcmVmZXN0aXZhbC5jb22CFXd3dy5wcm9maWNpZW50YnBvLmNv
+bYIcd3d3LnRoZXRlY2huaWNhbHNrLnRlY2guYmxvZ4Ibd3d3LnRocmVlbGl0dGxl
+YnVzeWJlZXMuY29tghJ3d3cudG1zY2htb3llci5jb22CEHd3dy50b29tZW50b3Iu
+ZWWCHHd3dy50cmF0YW1pZW50b3NkZWJlbGxlemEubXiCJHd3dy51bml2ZXJzZWxj
+aGVtaXN0cnlsYWJvcmF0b3J5LmNvbYISd3d3LnVzZXJyZXBvcnQuY29tghF3d3cu
+dXpheWRheWl6LmNvbYIad3d3LnZpdnJlYXZlY3BhcmtpbnNvbi5uZXSCD3d3dy55
+YXRlZW1zLmNvbYIPd3d3Lnl1YW5jaGVuLmZygg54LXNjaGVkdWxlLmNvbYIseHhp
+aWltb2Rlcm5sYW5ndWFnZXNkZXBhcnRtZW50Y29sbG9xdWl1bS5jb22CC3lhdGVl
+bXMuY29tgg15b2dpa2lyYW4uY29tghF5b29wZXJkcmVhbWVyLmNvbYINeW91dHJ1
+dGhzLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATCCAQMGCisGAQQB1nkCBAIEgfQE
+gfEA7wB2AKLjCuRF772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAABkz5OFbkA
+AAQDAEcwRQIgGAP8QaU7ueGqi7L2L+9PjfWCyAD9kJMB09GLklMk7V0CIQDtO2fI
+BsbtrPd/m0VNJLlunmCIzAe856nxkYsoTNj1jAB1AOCSs/wMHcjnaDYf3mG5lk0K
+UngZinLWcsSwTaVtb1QEAAABkz5OFcsAAAQDAEYwRAIgMhgthQE2vfQrVwPIKmU+
+tVvgRVP5JdAJegpNonZyob4CIApYp6Ihc4de7dPNV/G1oLF/Jr9M8MgYVg0jX3FE
+FsFHMAoGCCqGSM49BAMDA2kAMGYCMQDvw2SIbPHk5d+Ie6EwdWbltVlsKDHzGRqB
+L2QuagpOi5y21MMjTYJnwibeWQ3bQWACMQCNdos6qMsUwSAK/NkCZ0WQqZvsWpqu
+Pn0pa77ZBvvcysjE8iiKl674J7PbbRV+Fgw=
+-----END CERTIFICATE-----
+subject=CN=tls.automattic.com
+issuer=C=US, O=Let's Encrypt, CN=E6
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3393 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

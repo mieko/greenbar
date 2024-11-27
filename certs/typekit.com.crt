@@ -1,0 +1,80 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Jose, O=Adobe Inc., CN=*.typekit.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 30 00:00:00 2024 GMT; NotAfter: Oct 31 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHYTCCBkmgAwIBAgIQD6iAht+cAzuix34zLqe/KDANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjQw
+OTMwMDAwMDAwWhcNMjUxMDMxMjM1OTU5WjBiMQswCQYDVQQGEwJVUzETMBEGA1UE
+CBMKQ2FsaWZvcm5pYTERMA8GA1UEBxMIU2FuIEpvc2UxEzARBgNVBAoTCkFkb2Jl
+IEluYy4xFjAUBgNVBAMMDSoudHlwZWtpdC5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDA5oIReVCTQ9ex1+hHIvco9+XtpiL4AqNstNrVIWPUy89Z
+d34r01tP6Yv1OpHjh4WfCiFpJMD7gHSVnv6VOTsy+bZuhydjYRjlQbtAlgV+loJm
+yyipcH0zaBTzL3NrOPxUJc2vp9WEV9HXEyM+5ZYcuaGmA5QQctIMdM9vf/JrCDD8
+GV65OkLEvWW853a7nC5iN4reMTKgD6XdEyX9nqX2qL2HBbpvi9gmhXxi64wm8rb2
+UsdE0tdxU9kMwji96sz3WLpblcszk7wsuYFC30GL/HZ78/8dquVMEsa6J5h1nj17
+3fFSL3fXJuzNjgkZtac6HQ0MfksWU4sYSuS6z6zpAgMBAAGjggQaMIIEFjAfBgNV
+HSMEGDAWgBR0hYDAZsffN97PvSk3qgMdvu3NFzAdBgNVHQ4EFgQUObvQLo7UV37f
+ul3Wj+vIIkdOczMwgacGA1UdEQSBnzCBnIINKi50eXBla2l0LmNvbYIiKi5hbm5v
+dGF0ZS1zdGFnaW5nLmZvbnRzLmFkb2JlLmNvbYINKi50eXBla2l0Lm5ldIIaKi5h
+bm5vdGF0ZS5mb250cy5hZG9iZS5jb22CC3R5cGVraXQubmV0ghEqLmZvbnRzLmFk
+b2JlLmNvbYILdHlwZWtpdC5jb22CD2ZvbnRzLmFkb2JlLmNvbTA+BgNVHSAENzA1
+MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNv
+bS9DUFMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjCBnwYDVR0fBIGXMIGUMEigRqBEhkJodHRwOi8vY3JsMy5kaWdpY2VydC5j
+b20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcmwwSKBG
+oESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExT
+UlNBU0hBMjU2MjAyMENBMS0xLmNybDCBhwYIKwYBBQUHAQEEezB5MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUQYIKwYBBQUHMAKGRWh0dHA6
+Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hB
+MjU2MjAyMENBMS0xLmNydDAMBgNVHRMBAf8EAjAAMIIBfwYKKwYBBAHWeQIEAgSC
+AW8EggFrAWkAdwAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZJE
+ywD4AAAEAwBIMEYCIQDJUGJF0eHAKLm2s+heUuvpbhS5NEdTbmH2W7pveBx8mAIh
+APUk9Iyhxfq1KTBVPH2UVSfnVXQQaEVVYdiYOMjDHjkoAHYA5tIxY0B3jMEQQQbX
+cbnOwdJA9paEhvu6hzId/R43jlAAAAGSRMsArwAABAMARzBFAiA3+eUC8BCPy2Io
+f2FFSTLhVtPjARV0pK/+ss5Ox1kmSQIhAO3mlQB2qz4nmDipSV8HX+LGnAv0KESj
+1z4Lh+/c4T5cAHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGS
+RMsApQAABAMARzBFAiEA0JP5Jb4xbjZwYElUVt+a0tRmvdgExts/mMagz33QnNoC
+IB+wvnKsyGhzzIsBVSQGeWv9dl44XWuyigU6qTY+IndDMA0GCSqGSIb3DQEBCwUA
+A4IBAQAzcVbZJ++F3/mFTrVianOQzsFvqb/eBa44RXvZ5Nv+SLhCV6dp5Z1M1jmI
+wjYaL1PKVVveGj/tGclDVLjiRxbJBzyC1SKFe14Tp09zoeSYZrDCaICjx69ydC5g
+0r9ru4GwpyS0qtqM8313Co5AlsD7+N7gHVB+9M1mM4mcm/Vb4z3nL5z4jOjwowCu
+aGCKsnPwUgd5lywjbFEPPjHLNVC26IjMd7mXoNgtLiXqB/0tS5jpOmvm0qc5dJmx
+Z5wVGo33B5zt2WNahvDkBCF+pTMJT/vP6+v0rD7IqqxL947/Ex8t/pnHkEg67li7
+UE4pFIRx8Ui/oXuMezeODd06CZY9
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Jose, O=Adobe Inc., CN=*.typekit.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4589 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

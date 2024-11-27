@@ -1,0 +1,114 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=GB, ST=London, L=London, O=BRITISH BROADCASTING CORPORATION, CN=www.bbc.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 26 08:32:02 2024 GMT; NotAfter: Jul 19 06:26:04 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 19 00:00:00 2018 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIH9jCCBt6gAwIBAgIMYsNIEaQIPMVi336RMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yNDA2MjYwODMyMDJaFw0y
+NTA3MTkwNjI2MDRaMHAxCzAJBgNVBAYTAkdCMQ8wDQYDVQQIEwZMb25kb24xDzAN
+BgNVBAcTBkxvbmRvbjEpMCcGA1UEChMgQlJJVElTSCBCUk9BRENBU1RJTkcgQ09S
+UE9SQVRJT04xFDASBgNVBAMTC3d3dy5iYmMuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAnY9KmXh8AcZzA9VUQTme4rxp0tB1VsH/GRXCZnJlcA1J
+c/Fkv+qOnPd6sEoTCY5lGqRUXM30F61lWbHpgZpsQTdSyTDonIvCbUPs6NJvKK6X
+rQBg+OJ9HiG3tXClTpmKLsNoPLuy1sa60tDLN69V+5LVBoMTURPSnpRbh/wHfPBa
+t+Fe6qYN9Rp7z5lgJFtps+eECMkpWDz0n28Z8mTbyjzALRLKrjWq3x9vIr+SH4Y1
+Pj4kPoqt7Gr/tpEbLqliqiZl8tt+tGR6iW+h9RHYRIs+aMmGO0bIPQRlEwY4iIKX
+3F3ixWPCVWKtLHtCndNSKLzNXulAo5TmafKBFGI5RwIDAQABo4IErjCCBKowDgYD
+VR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwgY4GCCsGAQUFBwEBBIGBMH8wRAYI
+KwYBBQUHMAKGOGh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dz
+cnNhb3Zzc2xjYTIwMTguY3J0MDcGCCsGAQUFBzABhitodHRwOi8vb2NzcC5nbG9i
+YWxzaWduLmNvbS9nc3JzYW92c3NsY2EyMDE4MFYGA1UdIARPME0wQQYJKwYBBAGg
+MgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3Jl
+cG9zaXRvcnkvMAgGBmeBDAECAjA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY3Js
+Lmdsb2JhbHNpZ24uY29tL2dzcnNhb3Zzc2xjYTIwMTguY3JsMIIBfAYDVR0RBIIB
+czCCAW+CC3d3dy5iYmMuY29tgg13d3cuYmJjLmNvLnVrghJ3d3cuYmJjcnVzc2lh
+bi5jb22CCWJiYy5jby51a4IOYmJjcnVzc2lhbi5jb22CEXNlc3Npb24uYmJjLmNv
+LnVrghBzZWFyY2guYmJjLmNvLnVrghNvcGVuLmxpdmUuYmJjLmNvLnVrgg5uZXdz
+LmJiYy5jby51a4IRbmV3c2ltZy5iYmMuY28udWuCFnd3d25ld3MubGl2ZS5iYmMu
+Y28udWuCEWNkbmVkZ2UuYmJjLmNvLnVrghFuZXdzcnNzLmJiYy5jby51a4ISbmV3
+c3ZvdGUuYmJjLmNvLnVrghNwbGF5bGlzdHMuYmJjLmNvLnVrghJub2RlMS5iYmNp
+bWcuY28udWuCDHIuYmJjaS5jby51a4IRbmV3cy5iYmNpbWcuY28udWuCD2FjY291
+bnQuYmJjLmNvbYIPc2Vzc2lvbi5iYmMuY29tggdiYmMuY29tMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBT473/yzXhnqN5vjySNiPGH
+AwKz6zAdBgNVHQ4EFgQUEblMzpYg8U6AaCOH7DrjhNasfLkwggF/BgorBgEEAdZ5
+AgQCBIIBbwSCAWsBaQB2ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6
+AAABkFOsX7kAAAQDAEcwRQIhAKuCxP7wCz3pp3nUqsaNSZU5D/k9ipgf3g/2QUIc
+jNWPAiBqOopdazVmlphMZFWLC2WUaWZhTUKenccHM057qEpJDQB2AA3h8jAr0w3B
+QGISCepVLvxHdHyx1+kw7w5CHrR+Tqo0AAABkFOsX9oAAAQDAEcwRQIgPEbuiKR7
+hju1cGQFyQ9ot7m40hZdwAOw8JLLHiK1mpoCIQDogqd9ueF0DpmkAgUGIXPTYSlK
+Eau3nrSroxOkr2lOYwB3AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4
+AAABkFOsX8wAAAQDAEgwRgIhAIwetXPvZlDNt85GaV8UJuVvno7aeSaOZ1ftWZKh
+fezSAiEAsmaKwWdXxaaoy51/g4xTuBRz931Qlrub5kgUqb7jSJswDQYJKoZIhvcN
+AQELBQADggEBAGc334/nco4aftMjxY7v8cHCI1lbkrjZb5bB/Q1JxiRttXayL3yi
+DBwiTMzgFfvybIOZzTGOdhQRmlSl1Ls69P+AS0MWLf/qDZtBlUW6PrzSv9Qx2r06
+zeuqWGshBpkYNqlRP+I0Kqj4r23o0UjR4+fFaz6WC1MTxrN3zPH9N4AH48tTB2t3
+M5gkQDf8whotZ4cm6gVhelpwbbbwB4LMn4hUJ5QudU4gSKBy7QWmT7O4v9Cb++R5
+TKGbfdvl5qI3VOj/HYdwI28wk2MAqrRP+4M7Cnd/AZ9ALWUdrDMI9XF6+2zIDLU5
+2xmJvhhdos47p+/dzbHEHyAMUNvARvBi61k=
+-----END CERTIFICATE-----
+subject=C=GB, ST=London, L=London, O=BRITISH BROADCASTING CORPORATION, CN=www.bbc.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4808 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: B4A15AAAC0214212A6DA7F83BF3325F3007C3C18AA47409753CD1CD7D45B8949
+    Session-ID-ctx: 
+    Resumption PSK: 87195FAE372F387762C8DDFEB84F7AD60A59D9A88E11BF8D3ACF9E30A2243431
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - d4 7a 69 59 cf 3a fd 0e-f7 8a 57 e9 b0 cc a1 54   .ziY.:....W....T
+    0020 - 98 7e b7 25 da 5c aa 1a-4d a3 c6 2d 1d a6 2b ec   .~.%.\..M..-..+.
+    0030 - 5a 17 d3 e4 e1 42 7e 4a-db 31 ee 2a a3 1a 8a 46   Z....B~J.1.*...F
+    0040 - 0a 93 54 4b 9f 07 e4 2a-84 9c 91 4b 35 cf fc e8   ..TK...*...K5...
+    0050 - b7 b7 f2 ce 9d d9 1e 04-1b a6 cf 45 94 41 59 dc   ...........E.AY.
+    0060 - 91 96 64 10 48 5d 99 b9-e7 d9 c0 62 5e d4 4f 2f   ..d.H].....b^.O/
+    0070 - c8 35 08 d6 f8 95 ac 75-19 ea 50 88 31 97 6c 5d   .5.....u..P.1.l]
+    0080 - 09 d3 4e bd 01 21 19 11-db 01 ef 1a 0a 7e c2 1b   ..N..!.......~..
+    0090 - 14 ff 4d fc e0 90 f9 3f-d5 92 6d ee 0d b9 0a 5b   ..M....?..m....[
+
+    Start Time: 1732696997
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

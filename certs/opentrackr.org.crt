@@ -1,0 +1,89 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=opentrackr.org
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  6 01:33:53 2024 GMT; NotAfter: Jan  4 01:33:52 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFBTCCA+2gAwIBAgISBMobb8xim4VC1ICVKh2O7GsUMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDA2MDEzMzUzWhcNMjUwMTA0MDEzMzUyWjAZMRcwFQYDVQQD
+Ew5vcGVudHJhY2tyLm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+ALCxIWkx8npTAZIkm8BEDw3yhwv6BDOee02R0+yIStiKMIqz4UrC/7IiVbd/Ow8F
+ZKNspqGKotzM4+2YB5uQ0OJllFqDMAI5iOgtQ//7Ligm2ZBIg0Fhah0Ornw/db9P
+gy7VoE9kdxcRHgatDZF2lEFhr8+3BKo5xTlyh3pzVmzqUl/NyARFkxppkUm5rbRL
+TGbeZaLofNCUmUgu5Jp4k5YiSuSlhUDhyFg7WZ1zj2BkUHBgtlbF4oJVQGKRbnD1
+Lvlje4K/ZM2DQJxHt7qE+G4cDo3+qSQDPJzQtXoKxJoTeFFKsEPgX5tdQCUoRl8I
+UYG4ni2S9PiLZugkjsSc2BsCAwEAAaOCAiswggInMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQURBpz984c/WepO2sut5r9RzB0jIAwHwYDVR0jBBgwFoAUxc9GpOr0w8B6
+bJXELbBeki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8v
+cjExLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVuY3Iu
+b3JnLzAxBgNVHREEKjAogg5vcGVudHJhY2tyLm9yZ4IWdHJhY2tlci5vcGVudHJh
+Y2tyLm9yZzATBgNVHSAEDDAKMAgGBmeBDAECATCCAQUGCisGAQQB1nkCBAIEgfYE
+gfMA8QB3AD8XS0/XIkdYlB1lHIS+DRLtkDd/H4Vq68G/KIXs+GRuAAABkl+rvoAA
+AAQDAEgwRgIhAMAoyHv60QtplwU+n//XqBRHn8yIHxTZR5linn5GuumqAiEAnxOa
+5Z46KqAH0RjS7LfeCEfBoOAPvBZv4TMtU+du4O8AdgATSt8atZhCCXgMb+9MepGk
+FrcjSc5YV2rfrtqnwqvgIgAAAZJfq79FAAAEAwBHMEUCIQCha6B+Hlurc/KEVJzX
+jTOU6mZ9/U3Al8mxFk0aZxOkGQIgWuX248d+PE3IrYQK+2NleBpKZggZOjV6U8oX
+6MEtATYwDQYJKoZIhvcNAQELBQADggEBAGJLglTNeBERdjoJSr+br3lzloEMn/9r
+7sa/dGtE2Ijy73cvy9UHCbYLw7VX7IAlrM1bfCCjZ5/PeU7qN4VhK53ubZU2KWWf
+Lc+Z89Rtpm46GWV/jmh5Sky60cc+rU6SpYNG89C8ZQC8qYkUK3xSzMHDSk1n7iuR
+VuNNv3U4Q02wYkiE7Yi013Y0tit4oKHcpyrhtjScCSinD78GgAYWqH0D9rjVbQAf
+ASQTJi0QWiqFKC1xwLKDjAoyF2xrgVDCZnbGfEJph3D4RjPvZ34v7Q8UQywT72rr
+dw4jQgzZF0w32BBSuY+fcl66TxFerjGKwvKMq6UW/MpuTdylRsBB44E=
+-----END CERTIFICATE-----
+subject=CN=opentrackr.org
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3243 bytes and written 418 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 24193240331AA091D13216227D9042E1C2CC3689789BBA99A03A90CBA9FF8A61
+    Session-ID-ctx: 
+    Master-Key: BF7A9F804C032A39CE8B3EC262899A92FF664DE653EE3DB5F4CA0FDDB7436A86CD1A33CD2FCCF99E50A085A4E89472F0
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 3600 (seconds)
+    TLS session ticket:
+    0000 - 60 5a 30 95 53 90 65 16-2a d3 f4 c2 69 86 95 db   `Z0.S.e.*...i...
+    0010 - 78 19 08 1c 64 e9 99 e5-b5 91 f5 b8 1d 5a 75 27   x...d........Zu'
+    0020 - 08 b9 99 b4 9a c3 b6 59-67 ea 8d 50 62 eb 33 d5   .......Yg..Pb.3.
+    0030 - 73 01 30 e9 d4 b0 c0 58-08 5f 6d dc 71 f3 f0 80   s.0....X._m.q...
+    0040 - d6 f4 b6 80 57 43 56 65-3d ed 43 f5 c0 d8 0f 41   ....WCVe=.C....A
+    0050 - 63 54 b7 73 ff c4 bc b7-3c df 56 56 dd 2c 95 fd   cT.s....<.VV.,..
+    0060 - 0b 03 21 48 14 12 08 c3-52 26 0d b4 53 7a 62 a3   ..!H....R&..Szb.
+    0070 - d9 4d fa 5d 48 a5 ad 2b-49 81 c8 7d 1a 30 79 59   .M.]H..+I..}.0yY
+    0080 - 71 6c 46 ba bc e0 c1 0e-99 59 9e 97 50 3a 54 96   qlF......Y..P:T.
+    0090 - 8f 46 0b 6c 81 0f 96 4d-39 f6 80 5f c8 d2 c6 a5   .F.l...M9.._....
+    00a0 - 11 43 1a 45 97 4b 85 fe-0a 2c bf bf 18 c2 e8 24   .C.E.K...,.....$
+    00b0 - 90 fb 44 39 73 7a 03 c5-e6 aa 95 69 dc 8c 65 8b   ..D9sz.....i..e.
+
+    Start Time: 1732697614
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

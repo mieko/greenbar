@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=rixengine.com
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 10 22:36:02 2024 GMT; NotAfter: Jan  8 23:28:55 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOTCCBCGgAwIBAgIRAL5IE3uXaB84EN+35H0Y5GEwDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IzMB4XDTI0MTAxMDIyMzYwMloXDTI1MDEwODIzMjg1NVowGDEW
+MBQGA1UEAxMNcml4ZW5naW5lLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBANKAvQRrNgNFgI9UJRwktVLPLZXsTBnIUoAL/Rq8hIh3aq7KFIggXMFE
+2xq6vXhjzcEM8EXxgGVO+OKfKFtcmEO+1mspa0wpN/q3I5HsvI7AuhBA0rzR9xpl
+ipPufpTxnL4lT5HiqfGH4sgXgoI6xqPoGPsNIZQ1VL0DXiPHmBshFkvPvmUnZHQz
+Bi7h3eg/oPzN+9tjNbvdcDql0o/wDLJTBhW304ojjzabaQAs4XAHlMjzoSVNuqcK
+PG4tT74P1H9y373nYtoPAY2m2dD0sBpDHY8cORBkh5bvjBKdf/cIaTEYnFHoxE9m
+JAk+pbHVR4/NbDYx/ZmcgAIOSZ7ZwRkCAwEAAaOCAlkwggJVMA4GA1UdDwEB/wQE
+AwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBSF+ds051AcQCyCU7Rc2c1KfMyImzAfBgNVHSMEGDAWgBTHgfX9jojZADxNY6JQ
+MSSgziP+IzBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBr
+aS5nb29nL3Mvd3IzL3ZrZzAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cv
+d3IzLmNydDArBgNVHREEJDAigg1yaXhlbmdpbmUuY29tghF3d3cucml4ZW5naW5l
+LmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRw
+Oi8vYy5wa2kuZ29vZy93cjMvV0VYY1MxREhGT2suY3JsMIIBBAYKKwYBBAHWeQIE
+AgSB9QSB8gDwAHYAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGS
+eMoVRQAABAMARzBFAiEA8Nt+65dN8RrT6iUBjui0Tu39NmT/aMBYVv60agy4W6gC
+IBpotbxdGFmu/FyaPUFLUePoOz8rigO6QULzoEMKGNpDAHYA5tIxY0B3jMEQQQbX
+cbnOwdJA9paEhvu6hzId/R43jlAAAAGSeMoVLgAABAMARzBFAiEA94CbEgSVaEqe
+KfmY/t26wBqaiuvMHudcyoJs9qqTDb8CIFhi1pxtaOiZbtvKsn0XHf5wQnuLNajg
+mZb71QNuEgQ3MA0GCSqGSIb3DQEBCwUAA4IBAQBlTdpkEI+Vf1jzcfbIQ1uQq5Og
+qEtX8wV7s6fszHlZVXfMxvUQS5xav+V24KXxPcUqLSWWWs8HqNGCp3MPCYv31+tv
+i3g6HMPvxNgv/Cw1jCAIQD+OQRGV0ZtVM2ZXOSmBlUo4GudJefdjCseu6mZLD0b0
+ebCL5hGKMjmwRlmePs49VjygIhb1HUEjBVpNOHa6ROpq7N1iqZhSx+d4pZ0wsM8v
+ZUjZxlbf6wGr6zeJkUBxCe2j3FPIxfhnCDEJz4l16IM4nTd5ACwkwmoE2YK4kTAl
+2t/Y5O3bwrHrwp0TriidIK2D5ALiABCXBrkf2YaNQ/9tyWOHhrdw5zqCl77a
+-----END CERTIFICATE-----
+subject=CN=rixengine.com
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4518 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

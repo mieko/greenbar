@@ -1,0 +1,117 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=The Walt Disney Company, CN=editions.espn.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 14 00:00:00 2024 GMT; NotAfter: Nov 14 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Organization Validation Secure Server CA
+   i:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Feb 12 00:00:00 2014 GMT; NotAfter: Feb 11 23:59:59 2029 GMT
+ 2 s:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIINjTCCDHWgAwIBAgIQJSq+zovpYdEHXjk2UUTqzTANBgkqhkiG9w0BAQsFADCB
+ljELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxPDA6BgNV
+BAMTM0NPTU9ETyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0yNDExMTQwMDAwMDBaFw0yNTExMTQyMzU5NTlaMGAxCzAJBgNV
+BAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMSAwHgYDVQQKExdUaGUgV2FsdCBE
+aXNuZXkgQ29tcGFueTEaMBgGA1UEAxMRZWRpdGlvbnMuZXNwbi5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQClncKOFxHv/HfrHqKtd1XokIwYWigW
+9T3d2akG6c1T3QU+eUcoeFtoreF9UWlivCg6y77zJPv/KPRLkbsMyNMgMKm/xG43
+CaZIeD630LZQDGq73E+3LvzYIPSlAxiXiKmK+beBE/0TQZKXugJlwliY/6mhXKQf
+NsuZr45oIMdPmSHMhSNTGQlmwWPrZ+5LgNtIJmJD9uKqcWtlv3IbBhSE7WE8tbIV
+s3Epv8siegK67gROQhEtGdlt9hL3CgJPfIW3MvJW+g9hDq6Fgsc8sfpHiCPHhIhu
+5tu1eVpVABHbLGLW2+3TyDzNODGTEG3b+SIkYm3F1VQxIvKgV5ptf805AgMBAAGj
+ggoKMIIKBjAfBgNVHSMEGDAWgBSa8yvaz61Pti+7KkhIKhK3G0LBJDAdBgNVHQ4E
+FgQU2jv4hzZz/6D6K5kJUAncrHukTRIwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB
+/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEoGA1UdIARDMEEw
+NQYMKwYBBAGyMQECAQMEMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAgGBmeBDAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLmNv
+bW9kb2NhLmNvbS9DT01PRE9SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJl
+U2VydmVyQ0EuY3JsMIGLBggrBgEFBQcBAQR/MH0wVQYIKwYBBQUHMAKGSWh0dHA6
+Ly9jcnQuY29tb2RvY2EuY29tL0NPTU9ET1JTQU9yZ2FuaXphdGlvblZhbGlkYXRp
+b25TZWN1cmVTZXJ2ZXJDQS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNv
+bW9kb2NhLmNvbTCCAX8GCisGAQQB1nkCBAIEggFvBIIBawFpAHcA3dzKNJXX4RYF
+55Uy+sef+D0cUN/bADoUEnYKLKy7yCoAAAGTK4LbdwAABAMASDBGAiEAyozuTUX8
+y9rYRfFzYAZZ6CYZ6zlP3HyoTBYV+k2TgMECIQD1eVQePSIrXQv4FxGNsb7/H6TE
+zhnrKWtHRuLkifjjfwB2AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2w
+AAABkyuC20kAAAQDAEcwRQIhAMGg9JksAuvQT+7zzgkQsVZi9+u3+mNokQ5ThzNu
+JDX+AiAKRiXkyN3nPZ6xO9qB8mKj8Dx/oaQ7Nk9vzEQuuZmhgwB2ABLxTjS9U3JM
+hAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABkyuC2xsAAAQDAEcwRQIhAJAxr4hY
+r/RoyuREULOVHtjyvYugxgoNRYZkv5rrfbn0AiAPoutpW7yN1aFxMLerAJrI8hzq
+O0OUKdLXMx9mVOcP4DCCBswGA1UdEQSCBsMwgga/ghFlZGl0aW9ucy5lc3BuLmNv
+bYINKi5hcGkuZXNwbi5jbIIQKi5hcGkuZXNwbi5jby5jcoIQKi5hcGkuZXNwbi5j
+by51a4IRKi5hcGkuZXNwbi5jb20uYXKCESouYXBpLmVzcG4uY29tLmF1ghEqLmFw
+aS5lc3BuLmNvbS5icoIRKi5hcGkuZXNwbi5jb20uY2+CESouYXBpLmVzcG4uY29t
+LmRvghEqLmFwaS5lc3BuLmNvbS5lY4IRKi5hcGkuZXNwbi5jb20uZ3SCESouYXBp
+LmVzcG4uY29tLm14ghEqLmFwaS5lc3BuLmNvbS5wYYIRKi5hcGkuZXNwbi5jb20u
+cGWCESouYXBpLmVzcG4uY29tLnNnghEqLmFwaS5lc3BuLmNvbS51eYIRKi5hcGku
+ZXNwbi5jb20udmWCDSouYXBpLmVzcG4uZXOCDSouYXBpLmVzcG4uaW6CDSouYXBp
+LmVzcG4ubmyCCSouZXNwbi5jbIIMKi5lc3BuLmNvLmNyggwqLmVzcG4uY28udWuC
+CiouZXNwbi5jb22CDSouZXNwbi5jb20uYXKCDSouZXNwbi5jb20uYXWCDSouZXNw
+bi5jb20uYnKCDSouZXNwbi5jb20uY2+CDSouZXNwbi5jb20uZG+CDSouZXNwbi5j
+b20uZWOCDSouZXNwbi5jb20uZ3SCDSouZXNwbi5jb20ubXiCDSouZXNwbi5jb20u
+cGGCDSouZXNwbi5jb20ucGWCDSouZXNwbi5jb20uc2eCDSouZXNwbi5jb20udXmC
+DSouZXNwbi5jb20udmWCCSouZXNwbi5lc4INKi5lc3BuLmdvLmNvbYIJKi5lc3Bu
+LmluggkqLmVzcG4ubmyCCSouZXNwbi5waIISKi5lc3BuZGVwb3J0ZXMuY29tghQq
+LmZhbi5hcGkuZXNwbi5jby5jcoIVKi5mYW4uYXBpLmVzcG4uY29tLmRvghUqLmZh
+bi5hcGkuZXNwbi5jb20uZWOCFSouZmFuLmFwaS5lc3BuLmNvbS5ndIIVKi5mYW4u
+YXBpLmVzcG4uY29tLnBhghUqLmZhbi5hcGkuZXNwbi5jb20ucGWCFSouZmFuLmFw
+aS5lc3BuLmNvbS5zZ4IVKi5mYW4uYXBpLmVzcG4uY29tLnV5ghUqLmZhbi5hcGku
+ZXNwbi5jb20udmWCESouZmFuLmFwaS5lc3BuLmVzghEqLmZhbi5hcGkuZXNwbi5u
+bIIRKi5mYW4uYXBpLmVzcG4ucGiCB2VzcG4uY2yCCmVzcG4uY28uY3KCCmVzcG4u
+Y28udWuCCGVzcG4uY29tggtlc3BuLmNvbS5hcoILZXNwbi5jb20uYXWCC2VzcG4u
+Y29tLmJyggtlc3BuLmNvbS5jb4ILZXNwbi5jb20uZG+CC2VzcG4uY29tLmVjggtl
+c3BuLmNvbS5ndIILZXNwbi5jb20ubXiCC2VzcG4uY29tLnBhggtlc3BuLmNvbS5w
+ZYILZXNwbi5jb20uc2eCC2VzcG4uY29tLnV5ggtlc3BuLmNvbS52ZYIHZXNwbi5l
+c4ILZXNwbi5nby5jb22CB2VzcG4uaW6CB2VzcG4ubmyCB2VzcG4ucGiCEGVzcG5k
+ZXBvcnRlcy5jb22CFGZhbi5jb3JlLmFwaS5lc3BuLmNsghdmYW4uY29yZS5hcGku
+ZXNwbi5jby5jcoIXZmFuLmNvcmUuYXBpLmVzcG4uY28udWuCGGZhbi5jb3JlLmFw
+aS5lc3BuLmNvbS5hcoIYZmFuLmNvcmUuYXBpLmVzcG4uY29tLmF1ghhmYW4uY29y
+ZS5hcGkuZXNwbi5jb20uYnKCGGZhbi5jb3JlLmFwaS5lc3BuLmNvbS5jb4IYZmFu
+LmNvcmUuYXBpLmVzcG4uY29tLmRvghhmYW4uY29yZS5hcGkuZXNwbi5jb20uZWOC
+GGZhbi5jb3JlLmFwaS5lc3BuLmNvbS5ndIIYZmFuLmNvcmUuYXBpLmVzcG4uY29t
+Lm14ghhmYW4uY29yZS5hcGkuZXNwbi5jb20ucGGCGGZhbi5jb3JlLmFwaS5lc3Bu
+LmNvbS5wZYIYZmFuLmNvcmUuYXBpLmVzcG4uY29tLnNnghhmYW4uY29yZS5hcGku
+ZXNwbi5jb20udXmCGGZhbi5jb3JlLmFwaS5lc3BuLmNvbS52ZYIUZmFuLmNvcmUu
+YXBpLmVzcG4uZXOCFGZhbi5jb3JlLmFwaS5lc3BuLmlughRmYW4uY29yZS5hcGku
+ZXNwbi5ubIIUZmFuLmNvcmUuYXBpLmVzcG4ucGgwDQYJKoZIhvcNAQELBQADggEB
+AG+fmxyHAPVs0PvQ16OU78Kz7LiNOk53AXNopAIpthJHASQBx/ODvgCvUezf0wyD
+cpIbKHrVqgzzhSgWKOFEUue53LkVCqANhY6lZNzZV19UXk+36B5XgnFBRtWL3Y1g
+1/XUDenhEN7fGQs/YE2qsH/sMhB42vS9YzXi7GfuhWPTd7MtkcYg9NL0Z2Posifa
+EQXVWez90msghs0cBZ+KRTaTjuEZ28Xi4mZFnVWp5YFV6Ba8Zp8zUBG2rgbkKkzc
+3hCkPsSiozyN4xgaWKjuQZTt+QGXmAkad5THoXX9TLnd62sd2k4+QpFAMvr55I/s
+I2iMtKnm65w9cQiHrB64y+Y=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=The Walt Disney Company, CN=editions.espn.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 8074 bytes and written 383 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

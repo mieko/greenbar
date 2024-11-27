@@ -1,0 +1,82 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CA, ST=Ontario, L=Kanata, O=Entrust Limited, serialNumber=1000492879, CN=www.entrust.net, businessCategory=Private Organization, jurisdictionST=Ontario, jurisdictionC=CA
+   i:C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 25 17:30:19 2024 GMT; NotAfter: Nov 25 05:00:00 2025 GMT
+ 1 s:C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1
+   i:C=US, O=SSL Corporation, CN=SSL.com TLS RSA Root CA 2022
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 22 17:54:46 2024 GMT; NotAfter: Aug 22 17:54:45 2027 GMT
+ 2 s:C=US, O=SSL Corporation, CN=SSL.com TLS RSA Root CA 2022
+   i:C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com EV Root Certification Authority RSA R2
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  7 17:25:44 2023 GMT; NotAfter: Nov  3 17:25:43 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHyjCCBbKgAwIBAgIQILjpZg0PnyCz9e8UZiORAzANBgkqhkiG9w0BAQsFADBR
+MQswCQYDVQQGEwJVUzEYMBYGA1UECgwPU1NMIENvcnBvcmF0aW9uMSgwJgYDVQQD
+DB9FbnRydXN0IEVWIFRMUyBJc3N1aW5nIFJTQSBDQSAxMB4XDTI0MTAyNTE3MzAx
+OVoXDTI1MTEyNTA1MDAwMFowgccxCzAJBgNVBAYTAkNBMRAwDgYDVQQIDAdPbnRh
+cmlvMQ8wDQYDVQQHDAZLYW5hdGExGDAWBgNVBAoMD0VudHJ1c3QgTGltaXRlZDET
+MBEGA1UEBRMKMTAwMDQ5Mjg3OTEYMBYGA1UEAwwPd3d3LmVudHJ1c3QubmV0MR0w
+GwYDVQQPDBRQcml2YXRlIE9yZ2FuaXphdGlvbjEYMBYGCysGAQQBgjc8AgECDAdP
+bnRhcmlvMRMwEQYLKwYBBAGCNzwCAQMTAkNBMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAooR9fxUZqoQ0X8Q0FgIFEs+usdwjAo8X3p74gyth8ZVVbJny
+EgxQ7e1QtobVPpvO6Ag2yv7/Ce0FFSYFZC59vBrRvnCdlGKUPYO7foRQ7OLKUrKS
+YU9o7QTzrEK37rxiVghhTWmblzBnzzUzVZ3bm3DH1PtDhO9N08o/TcquyMiIGCAR
+h/hwWMjb4O4xCzaCuf75J4nMML7PSV1nOj8HoLcd5xz7NSG0ArLkEen9ApN9Sj8O
+aJi+5KgczwHEh5Br5KkKcBMIiDy1s9gIK6kG72aT+3LBvXUx/HubJWd/vNJKJLjI
+Vx4qwTvbuD/Ov1i4XBh/b871Ii6XUYdYSmuOVwIDAQABo4IDJTCCAyEwDAYDVR0T
+AQH/BAIwADAfBgNVHSMEGDAWgBRzbCHDFz+1lLB7SoJJRJCIz35gRDBoBggrBgEF
+BQcBAQRcMFowNgYIKwYBBQUHMAKGKmh0dHA6Ly9jZXJ0LnNzbC5jb20vRW50cnVz
+dC1FVlRMUy1JLVIxLmNlcjAgBggrBgEFBQcwAYYUaHR0cDovL29jc3BzLnNzbC5j
+b20wJwYDVR0RBCAwHoIPd3d3LmVudHJ1c3QubmV0ggtlbnRydXN0Lm5ldDBQBgNV
+HSAESTBHMAcGBWeBDAEBMDwGDCsGAQQBgqkwAQMBBDAsMCoGCCsGAQUFBwIBFh5o
+dHRwczovL3d3dy5zc2wuY29tL3JlcG9zaXRvcnkwHQYDVR0lBBYwFAYIKwYBBQUH
+AwIGCCsGAQUFBwMBMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmxzLnNzbC5j
+b20vRW50cnVzdC1FVlRMUy1JLVIxLmNybDAdBgNVHQ4EFgQUnGsoNYKwsHTQZMZF
+mchoy1eAaqEwDgYDVR0PAQH/BAQDAgWgMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFq
+AWgAdgAN4fIwK9MNwUBiEgnqVS78R3R8sdfpMO8OQh60fk6qNAAAAZLEw9EXAAAE
+AwBHMEUCIHTKWjbPkRhAPffJ2HPQ/67fK82jOS1Rp1R/GH0+jxDdAiEA9C97IuSA
+t8/zGTJkalMUBiGSaB2/nU83LLcdWIfz5U0AdgAS8U40vVNyTIQGGcOPP3oT+Oe1
+YoeInG0wBYTr5YYmOgAAAZLEw9C3AAAEAwBHMEUCIQDdZLCvf0KIpXIkWEsHOK18
+MxwIiGvs/YdhsIsTNF6NIQIgWUQpLRGTjXnP+DzTE8+ph9b396wJHavlsrkAotEg
+S0oAdgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZLEw9EVAAAE
+AwBHMEUCICIonxQxxj79ejOZgS7EvCC3aP0u97XnC7BGDr7Rs4+uAiEAtQ8fwo8N
+sF3gIomIcfN5fzNgQ0eKrK9VbDK98/MxlrcwDQYJKoZIhvcNAQELBQADggIBAD91
+0202mXx58XsHwCD+ANQiAdhQKS7BIqFJ18HevA4hqf12aWrQmP/t0JWVf78CXxUC
+5o7vNF18ILdyJ8MZLipKxR0czzYnI3x1bRubQ0HNAVzUxTcE423OkNTNUIh7ItAM
+lpmeDQB0kqmhPI1zeMEjWFUNDsF+vAndD//hurxVexcjW0sgunC9wMNIr51GBJCK
+40I6tMnIFu3rBgUJkGKsSkB42bvKpmklOAzttYw++cWOPetoqYv/t1JjrfFbS1WU
+Fux30JdOwevxbw2eHxLV4E+PfBL3NkbGsuEtrFf8CxZ8eymuHTGC8gCSumr8Dbkc
+ivoI1mFP+z/21dyIjIfQUT5kxcgw/rVuhIuz+Uql5vENG1GxkdZMusw/UQB2ipu3
++18XfHIeMO9AYyaqdAsByKjArNwNli2UPHxlZ0ypAKwj/xTRNaevtl/A3NDoQkan
+h1bdMYQvWu+ToalQ4Y/ahnL8qeLx4PeYZ5fnHimqVA9yZ2oscwkh6RzPEZ3bRF3K
+3jMQ0gBu1FhNGk9wY6qwNZgENv1sIlLa4RwkqHEL5G+Sch86G3lC+cQWZ7riRZuu
+oJknWSdx2hkx1PaoB3O+OHEYScJTSuyTQyRwEX6RL8hE89K68+7IFlNQZ3akfVUY
+Jaqyl0Duc6Ye74fokJv+hGftxCAmRpVAdTK/0J7X
+-----END CERTIFICATE-----
+subject=C=CA, ST=Ontario, L=Kanata, O=Entrust Limited, serialNumber=1000492879, CN=www.entrust.net, businessCategory=Private Organization, jurisdictionST=Ontario, jurisdictionC=CA
+issuer=C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5923 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

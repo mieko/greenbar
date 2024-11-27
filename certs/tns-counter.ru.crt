@@ -1,0 +1,72 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=RU, ST=Moscow, L=Moscow, O=JSC ADFACT, CN=*.tns-counter.ru
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 18 08:21:10 2023 GMT; NotAfter: Jan 18 08:21:09 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+   i:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Mar 18 10:00:00 2029 GMT
+ 3 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 19 00:00:00 2018 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJTCCBKugAwIBAgIMWZ0mReIqLShuagBXMAoGCCqGSM49BAMDMFAxCzAJBgNV
+BAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1HbG9i
+YWxTaWduIEVDQyBPViBTU0wgQ0EgMjAxODAeFw0yMzEyMTgwODIxMTBaFw0yNTAx
+MTgwODIxMDlaMF8xCzAJBgNVBAYTAlJVMQ8wDQYDVQQIEwZNb3Njb3cxDzANBgNV
+BAcTBk1vc2NvdzETMBEGA1UEChMKSlNDIEFERkFDVDEZMBcGA1UEAwwQKi50bnMt
+Y291bnRlci5ydTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABIBKUAkZFIIENgvQ
+XV9KJE7VMVvgCOp0qkk08pw1GlFjuGjmqAbi4E4yfbehkKDCpIqDMeUD2wR4vdTt
+SNmG8YijggNaMIIDVjAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH/BAIwADCBjgYI
+KwYBBQUHAQEEgYEwfzBEBggrBgEFBQcwAoY4aHR0cDovL3NlY3VyZS5nbG9iYWxz
+aWduLmNvbS9jYWNlcnQvZ3NlY2NvdnNzbGNhMjAxOC5jcnQwNwYIKwYBBQUHMAGG
+K2h0dHA6Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2dzZWNjb3Zzc2xjYTIwMTgwVgYD
+VR0gBE8wTTBBBgkrBgEEAaAyARQwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cu
+Z2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQICMD8GA1UdHwQ4MDYw
+NKAyoDCGLmh0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5jb20vZ3NlY2NvdnNzbGNhMjAx
+OC5jcmwwKwYDVR0RBCQwIoIQKi50bnMtY291bnRlci5ydYIOdG5zLWNvdW50ZXIu
+cnUwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFFh7
+jnUq/mGAqpBAAa7W6AdGbj9IMB0GA1UdDgQWBBRx1C/YHCpudNxZRnuv3vOU2+Rt
+ZjCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHYAouMK5EXvva2bfjjtR2d3U9eC
+W4SU1yteGyzEuVCkR+cAAAGMfAPITQAABAMARzBFAiBvhrgTB1TDVbdsHAVoLZvg
+JRnS5B/7w65+7oRe8WcKnAIhANR/n3QGfi+Ar1opAvwAhHJWln+qLv2w4aITKYBa
+YhTkAHYA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGMfAPIWAAA
+BAMARzBFAiEA7H92wqCC66IWj909Twsd+mG0FPNIQQ5v2yu0yxthMIYCIEb/XPDb
++atM74CgB6rE6gH/GZ6cozgddHiP+UAMyTNvAHYATnWjJ1yaEMM4W2zU3z9S6x3w
+4I4bjWnAsfpksWKaOd8AAAGMfAPIKgAABAMARzBFAiBPULq75jnDblrfN/bdTA+v
+wtwVEpzm+jldHpLXFamQrQIhAIqK8MPPEYYzLJLT8LCLr2rG66V66+1jLkH+iP7t
+Zrw5MAoGCCqGSM49BAMDA2gAMGUCMHRrKR3kvB3/VGs9NLxD7SUbHFcfiraSMsKz
+sWErZsmJeeSH3tAtziEAhCJ8+SjvmAIxALzjD0c1JSeCg6m8LgY+rb5n1OOy7bJ5
+HjIBVeuDR/joFaHJ8Fp/2LccGHp8X3KFfQ==
+-----END CERTIFICATE-----
+subject=C=RU, ST=Moscow, L=Moscow, O=JSC ADFACT, CN=*.tns-counter.ru
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4521 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

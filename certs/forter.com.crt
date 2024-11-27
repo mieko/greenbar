@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=forter.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  2 04:00:13 2024 GMT; NotAfter: Jan 31 04:00:12 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDlDCCAzqgAwIBAgIRAOdcuHgeBkXXEWV6FAGqigowCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEwMjA0MDAxM1oXDTI1MDEzMTA0MDAxMlowFTETMBEG
+A1UEAxMKZm9ydGVyLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABETOn9gq
+I7Pk48CYbcPpM7pFvrwh4cbrL5kxaFuzZAMdd3Z6Dan14PJ4TF4xkMxUq7HASKl0
+jpu0TJYz2SQAWyijggJDMIICPzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUbLtd4zyGP3vfM4thW5bf
+BkxtsS8wHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS81MXcw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwFQYDVR0RBA4w
+DIIKZm9ydGVyLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCug
+KaAnhiVodHRwOi8vYy5wa2kuZ29vZy93ZTEvVUl1bVI2RWZudk0uY3JsMIIBBAYK
+KwYBBAHWeQIEAgSB9QSB8gDwAHYAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzE
+uVCkR+cAAAGS6z7LYgAABAMARzBFAiA86uToo742F0iRRQkjrAWEvzfgxsBbotGb
+L91/S7OKTQIhAJ1/A1L/IOGFNympTTWjnrLVQTd3oWkjg0jgupuo0dP3AHYATnWj
+J1yaEMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGS6z7LUwAABAMARzBFAiEA
+vQ7W7qodmZCRthPie1dooKd4GSmYv+FP6kXVHU+8haACIAJvhQDJmrUFekVfrfNC
+0b4EJZIBjHe28dOv+pu3eeuHMAoGCCqGSM49BAMCA0gAMEUCIQDFeEj5HyfR93XO
+DMOFSB089tXkSQLJeHOtfYYvOGotNgIgWvkeMVGQI3W5VfvhQRnKkdJjpTbgulP4
+97oW034pB9U=
+-----END CERTIFICATE-----
+subject=CN=forter.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2807 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

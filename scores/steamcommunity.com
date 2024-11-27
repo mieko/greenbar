@@ -1,3 +1,3 @@
 
 HostName:"steamcommunity.com"
-"23.8.161.191":"A"
+"23.59.200.146":"B"

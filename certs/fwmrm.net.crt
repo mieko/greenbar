@@ -1,0 +1,78 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=New York, O=FreeWheel Media, Inc., CN=*.fwmrm.net
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 29 00:00:00 2024 GMT; NotAfter: Nov 29 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHADCCBeigAwIBAgIQDB8cnK4VzwTXi7090DgxCTANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjQx
+MDI5MDAwMDAwWhcNMjUxMTI5MjM1OTU5WjBpMQswCQYDVQQGEwJVUzERMA8GA1UE
+CBMITmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMR4wHAYDVQQKExVGcmVlV2hl
+ZWwgTWVkaWEsIEluYy4xFDASBgNVBAMMCyouZndtcm0ubmV0MIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1eBBSoVlj08cSgwAn+iYCSps1BNjLfsQfv/N
+ziSw5YqjjDx28WBCa0SA7Oc3y0jCVO1LrnLvBZWZSOeADFJyFMWNHtHVQau+pf63
+85xW2A/RYDDqGjsXsNUVHinvB3YztYme/Ywyp6FpoBZEOoe9XGwfZJRCT29B7bB9
+0TSxjpx1kXI2/CSxoCd/JTT/GaFhPSfPp6tdcYF7JpYpeH9nS0hAl0VBhh5aagfM
+FZmxx9WpZqx6o++STOkK3m2CDHmPjur7uOrX4DbdgRj3HXogoz7UewRpTMx9uG+/
+mUwYedg1W3Wdoh3iDmXJX7xuhA5FuU4V+h/eUSL1ME6rtArb4QIDAQABo4IDsjCC
+A64wHwYDVR0jBBgwFoAUdIWAwGbH3zfez70pN6oDHb7tzRcwHQYDVR0OBBYEFIyd
+Q3RxK4p4478nNHZbaRsco3GeMEEGA1UdEQQ6MDiCCyouZndtcm0ubmV0gg8qLnN0
+Zy5md21ybS5uZXSCCWZ3bXJtLm5ldIINc3RnLmZ3bXJtLm5ldDA+BgNVHSAENzA1
+MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNv
+bS9DUFMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjCBnwYDVR0fBIGXMIGUMEigRqBEhkJodHRwOi8vY3JsMy5kaWdpY2VydC5j
+b20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcmwwSKBG
+oESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExT
+UlNBU0hBMjU2MjAyMENBMS0xLmNybDCBhwYIKwYBBQUHAQEEezB5MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUQYIKwYBBQUHMAKGRWh0dHA6
+Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hB
+MjU2MjAyMENBMS0xLmNydDAMBgNVHRMBAf8EAjAAMIIBfgYKKwYBBAHWeQIEAgSC
+AW4EggFqAWgAdwDd3Mo0ldfhFgXnlTL6x5/4PRxQ39sAOhQSdgosrLvIKgAAAZLY
+2j0kAAAEAwBIMEYCIQDSTSmSLyE4yBUr1+xVAG3HZvJg+3xOVZ7ePsk4IhMn2wIh
+APbZhy2LoeANRDhJ4mOk1Wspjnj4xXAeLEa082KIwjygAHYAfVkeEuF4KnscYWd8
+Xv340IdcFKBOlZ65Ay/ZDowuebgAAAGS2No84QAABAMARzBFAiEA/L3Gee0YGlqG
+Xn8t2hkUPJjPXvKBynDtHu+Y3hQgN3ICIChFE8v7fLp6Ck4EJ1hFeVi4hH+9jH5h
+s13j//TNaOP9AHUAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGS
+2No8xAAABAMARjBEAiAkQHlNXQtxj03d1/R1cPbaqCIYf1og4NGELCSxSYgtNAIg
+Nfr/PD8Q+Su3R1h5bodZ9iq2bfKbAEcSTTT5r2/aZy0wDQYJKoZIhvcNAQELBQAD
+ggEBABNGMBand8EDiV9bpT7isU3OeKCcqW6VRw3gOqPtBIHmpTiecnWgAkSIuCUC
+kXzLsJDuqPAn1lYQ6FpK7hp74090QSGjLUpTfGn9akuMkFbSqJzG/3SZUMThL8gF
+4rZUw7aiV0wcZhWgFtlWQDyQrK5mxwjb9hj/VhhrLs9uDvzLd2iHxBlXLZST+GiX
+PDsSSf9Fq6qEeHRakLa+7TyzPO+fHmk4g9XgzH+jslUyVkOXXBw0TeqeUC1rwM3v
+o5zPUwBvs/+s8/u+NN+QlXPNHPRrhfFCEoPX1NxwaS6pD75FudW2nrbj+2ZGxiuj
+vR768H+IBOOcNOhLHQ+IidrdGic=
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=New York, O=FreeWheel Media, Inc., CN=*.fwmrm.net
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4492 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

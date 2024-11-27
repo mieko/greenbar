@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=nianticlabs.com
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 17 18:59:07 2024 GMT; NotAfter: Feb 15 19:51:00 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKDCCBBCgAwIBAgIRALDHXHKWt5yfCes6JuUv4BIwDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IzMB4XDTI0MTExNzE4NTkwN1oXDTI1MDIxNTE5NTEwMFowGjEY
+MBYGA1UEAxMPbmlhbnRpY2xhYnMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAn5/hvW9DIHqsb8145H/4yZApF57APz5wPCWeBrxSm0MxOJssfPW1
+H8CZ1WN4F4qjE/WvZoO6y1jWhdCdqNOJi4oIryQV7EzQhtSOipMvSGuYvEvVAgZj
+5P4XtuCBxayZU00bRbZwp6j5psDNhfO+VztdnkK2b9cMtXN0YAv4Dp6ub9giDkS7
+ioFMxqr99vm/i+GZ9yy76jx9agd6nMsZGrNZfdXNHMaMfqrid2g5rqB2aBagAJ2H
+3fCep5gE0aSO6DC+nc7bKTS4ygolxwQkY6b0Oohj7rX9zVO3omGZZ9ReXjMdbpDF
+pBfSi1ddYRf2Y1QeOUbRZ+WL5xDVBNQxmQIDAQABo4ICRjCCAkIwDgYDVR0PAQH/
+BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFBGXraycYeYk2wi7zgQwawBz6YkFMB8GA1UdIwQYMBaAFMeB9f2OiNkAPE1j
+olAxJKDOI/4jMF4GCCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28u
+cGtpLmdvb2cvcy93cjMvc01jMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29v
+Zy93cjMuY3J0MBoGA1UdEQQTMBGCD25pYW50aWNsYWJzLmNvbTATBgNVHSAEDDAK
+MAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93
+cjMvdFlYa0E2dHZFRUkuY3JsMIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADuAHUA4JKz
+/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBNpW1vVAQAAAGTO7UmygAABAMARjBEAiBd
+8XxBFUeNDjh+NIai3Qq74UrkebgpVPlIco62S6lWHQIgJivBR9iJYWpFeSbEoNfG
+6dntBDCe9UK/MDL24v8ToJgAdQDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3
+zsw7CAAAAZM7tSbfAAAEAwBGMEQCIFC6es/vt8lI8qS+Bk888njHbm0e46MGoSSn
+LesdqyL8AiBgiQZIGm0AvepGQRK8Te0SxJv3t5jd89R8pn9m2byfAzANBgkqhkiG
+9w0BAQsFAAOCAQEAEEoQ/uh5ehEKDGHD1OqvGlAtLpsVLJybzsX9xEbYOF+QEPku
+Q8RPznxiL/OZbiOiopNtPtFtQDt7LkRHLSjxNA8U3v1imsSU41l1Gw69tWS7eSsu
+W22pJviBWQIkUD2YPCsRKcgRcO4WtID22SrBFZWagOhTVCSMzwIln8ssIetv3Z7d
+0XekwR5/Y8xWfhXesEK+bu593YPPrzr+p7qHNFuT2uqjbJ7RV/wGpysHCFxamXrs
+M9x+tkTwhybtbVCF0GhEaNEM4dpNWz4jCR7uS0KoFkX/a3Baegw2qU31xrAgwpga
+tbL5I/1VTvVhR5Ngqqa/QMw16Zi5j5JhB6gn+Q==
+-----END CERTIFICATE-----
+subject=CN=nianticlabs.com
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4501 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

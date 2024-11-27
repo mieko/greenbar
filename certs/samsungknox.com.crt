@@ -1,0 +1,104 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=KR, ST=Gyeonggi, O=Samsung Electronics Co., Ltd., CN=*.samsungknox.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 27 00:00:00 2024 GMT; NotAfter: Jun 27 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG6zCCBdOgAwIBAgIRAPkWtBNgBiJi24/hEd8xd+gwDQYJKoZIhvcNAQELBQAw
+gZUxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE9MDsGA1UE
+AxM0U2VjdGlnbyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0yNDA1MjcwMDAwMDBaFw0yNTA2MjcyMzU5NTlaMGQxCzAJBgNV
+BAYTAktSMREwDwYDVQQIEwhHeWVvbmdnaTEmMCQGA1UEChMdU2Ftc3VuZyBFbGVj
+dHJvbmljcyBDby4sIEx0ZC4xGjAYBgNVBAMMESouc2Ftc3VuZ2tub3guY29tMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAouJV/AUFTKQu3Osmp2PROQpi
+PKy0kBPsaWEwo3DwdNeAtjX2iOcDAJfVol7Mbhn3/GDKfMpx1dUBxy7rFGjKNU0T
+wmSg3ZSm4JEuvIKO9ISdkRf22dx3iU73VMjb5vQEqPZfyzIlgb9dwM90nP8hcFPv
+FAXydXZn29oZ8A9+zWbXiEnbwcfPc04ZR8jnxxiC93IWyHuS8M88eD5UjigB3LcR
+Kbqi/+Wgv/tGMMxtFg/vhNB8fC9Ef3JOWy+IzLv8VYN9h8x3K9iEtPO7xVGfQKb4
+88/kHRi+sI5mooohlCLTIdf89/59Jzu0MMXB2wmTMS69N9l6a2odJ3VauRjw2wID
+AQABo4IDZDCCA2AwHwYDVR0jBBgwFoAUF9nWJSdn+THCSUPZMDZEjGypT+swHQYD
+VR0OBBYEFGSnucCdlffqMuAx5b9tzq1gg66pMA4GA1UdDwEB/wQEAwIFoDAMBgNV
+HRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBKBgNVHSAE
+QzBBMDUGDCsGAQQBsjEBAgEDBDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3Rp
+Z28uY29tL0NQUzAIBgZngQwBAgIwWgYDVR0fBFMwUTBPoE2gS4ZJaHR0cDovL2Ny
+bC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNBT3JnYW5pemF0aW9uVmFsaWRhdGlvblNl
+Y3VyZVNlcnZlckNBLmNybDCBigYIKwYBBQUHAQEEfjB8MFUGCCsGAQUFBzAChklo
+dHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29SU0FPcmdhbml6YXRpb25WYWxp
+ZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2Nz
+cC5zZWN0aWdvLmNvbTAtBgNVHREEJjAkghEqLnNhbXN1bmdrbm94LmNvbYIPc2Ft
+c3VuZ2tub3guY29tMIIBewYKKwYBBAHWeQIEAgSCAWsEggFnAWUAdQDPEVbu1S58
+r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAY+4p60GAAAEAwBGMEQCIBuNCpwE
+KwxOB6EGsK2rKY3gdfnZBYawW1H4HifpDbOYAiAqi++MPXRiYViV7RWSS8Q1eq51
+H9oqs+h9QrfDV0OIeAB1AKLjCuRF772tm3447Udnd1PXgluElNcrXhssxLlQpEfn
+AAABj7inrKsAAAQDAEYwRAIgL0Gq6t1F6hAIYJnq7shrKlOCf08d9GerVSNc3Aph
+0lwCIGrwu2IKEG6i91+dajB9LaGmAnMyhQumIGMFYNM0DLLZAHUATnWjJ1yaEMM4
+W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGPuKesqgAABAMARjBEAiBWQ+KU+QOe
+KKKHW3vyDiyl9cV6zpixf9h+Kq1gIMIgpAIgCJ+LBbk8+ZBYdy0V9GNVH3TvS7y8
+hBy3OI5dW6vgs1IwDQYJKoZIhvcNAQELBQADggEBAJCDRZd+lKRNrbO6vvfmm8cL
+2oFW22ODgJMFat8fucyLsLJ77SMWgNtFW1RZiPzcq47anLYs9rTpjeTuIE6z5FBv
+tr+y54Ju2T2RdY0qUzzQJgyRW8siCh57puh5cOHndnqbZeY+ZXaogPrV1MW8u4cn
+F9fN3iNfqmqMt/BwdZxm+7vGrPxm3DedMJgKT4W3sGqKqL+5kzbpJ9D4DXA79kow
+e3asU5nP4xtnjPh6QxsPpIco1rDLnyiAaOQLoFl9wWu00cL9IAobw64Vg9IG2aOk
+J8BaUVgBzSgngkgSnBQkM5vh77xXTGVII+DjgRE/zQTypa5t2X6o4FGaIIAqqus=
+-----END CERTIFICATE-----
+subject=C=KR, ST=Gyeonggi, O=Samsung Electronics Co., Ltd., CN=*.samsungknox.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 6510 bytes and written 452 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: CD3DAE9C1D0A725E3DDA4D0E7DC91BBEBEAD011CEED37F9FF294DDD6F83378AE
+    Session-ID-ctx: 
+    Master-Key: 251189512DC09A16C69ED8642CA0752AC5BDCD3959FB58C9875B9EAD61CE555CEA619BDD5DB6103B6E60386974D5B702
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 01 b3 a6 8b df 38 03 27-19 23 5d 4e 20 a5 53 bb   .....8.'.#]N .S.
+    0010 - ec ea 22 33 67 9c fa 39-a4 22 8d 6e 0a 3b ef 5f   .."3g..9.".n.;._
+    0020 - 9e b2 77 8e 57 33 b3 dc-2d 0e 08 9e 4f ed c1 ed   ..w.W3..-...O...
+    0030 - 05 91 9c c6 8e 86 b9 f6-bc 78 24 95 e4 1c 81 3d   .........x$....=
+    0040 - 26 ae 9c 41 06 2a d2 92-de 56 7e 1c 79 14 bd f1   &..A.*...V~.y...
+    0050 - bb 27 a8 d9 b1 19 42 cd-71 19 f2 4f dd c0 7f e5   .'....B.q..O....
+    0060 - 83 3c 1e ce f3 a0 51 54-29 08 c5 c1 fc c0 17 17   .<....QT).......
+    0070 - 3e cb bd 6f 1c df a7 e9-05 de cd 82 b7 86 d4 5c   >..o...........\
+    0080 - ef 2e 5f cd bf d5 ca 87-dc 43                     .._......C
+
+    Start Time: 1732697757
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

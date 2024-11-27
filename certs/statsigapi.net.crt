@@ -1,0 +1,64 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=statsigapi.net
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 13 22:00:57 2024 GMT; NotAfter: Jan 11 22:00:56 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFITCCBAmgAwIBAgISBLJLC/Mm6oZTpaol6ZBIvLrKMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDEzMjIwMDU3WhcNMjUwMTExMjIwMDU2WjAZMRcwFQYDVQQD
+Ew5zdGF0c2lnYXBpLm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+ALryMq+YBBaZ+I211coKdTPANghkaZVhw8PB5siG2MRdpVf69ZKnwJEJfCXRXht0
+0nY+bQCw3BjsmWEtrNAJ/yilsJG8oeh4sght4sU4sDye8mQspMjNwMq99wjnPBir
+pmwbPmrTrmnEYK2y+k5RjcLq9gm3QmoHHFz4Xql4obiSLFXLl50gTL9CBW/JUC9l
+DaqLruRDtWI2rFv/Pwlb/5hnKja7KmqUsayMwzFsdM+LxLmZEEOWqbNgaTQHyQ6x
+h+BmDn3EoCNEpwevEuUafUA3hRwCsRMTj5xElCl8AvJhHbfVHVpctGXVbBPv4Qu7
+FL1+Xjh0Ya+U/TKP60Kj458CAwEAAaOCAkcwggJDMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUhpYW3iK/bIBYXSSrJKeiF01zKjgwHwYDVR0jBBgwFoAUxc9GpOr0w8B6
+bJXELbBeki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8v
+cjExLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVuY3Iu
+b3JnLzBNBgNVHREERjBEghVldmVudHMuc3RhdHNpZ2FwaS5uZXSCG2drZS11cy13
+ZXN0MS5zdGF0c2lnYXBpLm5ldIIOc3RhdHNpZ2FwaS5uZXQwEwYDVR0gBAwwCjAI
+BgZngQwBAgEwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgDPEVbu1S58r/OHW9lp
+LpvpGnFnSrAX7KwB0lt3zsw7CAAAAZKIG6u6AAAEAwBHMEUCIQD2+E0SwAjnMS37
+oAV0bHv4e9AIvJ2BIHaWgVMJqTsFFwIga5VedgHyfWyG4YyklpghTCNOaa2JJvee
+FdOwsYylOYIAdwDgkrP8DB3I52g2H95huZZNClJ4GYpy1nLEsE2lbW9UBAAAAZKI
+G7NQAAAEAwBIMEYCIQD3TT2rTOMSRvMtPKFAu4o8DcIoPLu9zPLO8CTGi8D/owIh
+AOYQGlppRO7Pgj+smY7MBab07fxu7sc7EVg8SufmaTVQMA0GCSqGSIb3DQEBCwUA
+A4IBAQBZOG72YTNdtwtH5wn2sM3QjbJmixvyHX0XPsAlHHuxWIV5GPdmV5DfM1Be
+er8Jr4KQJyN3NcJy2Mkm2ItDsUT5F7jaFlqChqmonLlzzWaipicNtq3kykh4wkq8
+fHPBClhEh89kKt5Y4sKEO82YEnq+AkG2Gpr5vTr8f85KYYTYH7BgT0qknJDfEQYU
+nxS/ns5XSTXeCjqEFc+sZHnm9KFl6CZPD6+HL0zy99vkK4jd53n2GTO5D7DBEwWr
+R6GL+YaO8QA/rVXujCZU1hJGzIkG1R7mF4kPf6fRRdnBN+t7sJyHJ1LMDUIO+FTn
+6AKGsCyhW5j5zVyG867nN1rJrry1
+-----END CERTIFICATE-----
+subject=CN=statsigapi.net
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3102 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

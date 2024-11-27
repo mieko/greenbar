@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=unifi-ai.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 28 07:34:38 2024 GMT; NotAfter: Jan 26 07:34:37 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6TCCA9GgAwIBAgISA/yzPL+1/8hmcZbc7eAQLHHVMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDI4MDczNDM4WhcNMjUwMTI2MDczNDM3WjAXMRUwEwYDVQQD
+Ewx1bmlmaS1haS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCW
+dI1Ep6GOjBMUT7rIPsTnp3ehd0rer04Y38KjLz3Cy34lEL1PlW8qqad3TXnbxtQJ
+4T9fCd0eCEg+S/LBKFVAI6Hos/tc8FH/qLdji7xovs8L9cOtinM2aW73Nie3ThgB
+mTvjbYTfwg2Ku2qgaJFVEqgppqj2TJDQw3Xis5l7u7g5rOKdu7qatelYO9RlLtIH
+cshbWbSA3SSQZz9F64Yo9Y/cqFkjlHJAe03K7PgdjjoVjdYQo9e65grdvpyQ81T6
+XCEQCL0rHBQNrz0xHvYaOKY6I+IPtnIY9z+I/BMGZP2duOWZorHL0ZgrrjjSIXgz
+s3JVPd//lJoAByTeGiuTAgMBAAGjggIRMIICDTAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFHD1TPrnE/Q1fwWzkefWClxEBmVlMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyV
+xC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3Ix
+MS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9y
+Zy8wFwYDVR0RBBAwDoIMdW5pZmktYWkuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIB
+MIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAfVkeEuF4KnscYWd8Xv340IdcFKBO
+lZ65Ay/ZDowuebgAAAGS0kHp9QAABAMASDBGAiEA/JQ1V8+HKIiPR1BrGXMc1+00
+9NknY7empeP0/yqbC7sCIQDt9RAV80FOdhSP9SjtNY2XyHSqZ/eNg8e37VNQRnZ4
+FwB2AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABktJB6n4AAAQD
+AEcwRQIgLc/Jeq4I9NLKPlMLt0xZSQJonXJ5YeFtCLQxHbE3CyICIQDZZO5l6eTo
+M6hmex2MdkIIgbiGuQGWk12WvdHu+5zSzTANBgkqhkiG9w0BAQsFAAOCAQEAXp55
+1bkBaRzCQOt45IkZ0NjnRAb6ii26WWehra95gLiTNqVeR9slfcM0oGshyP93rKNz
+ZJx9LtFuCuC6JCC3MB3xwwjM++5EFSxHQdJO+i0Qr3ynWshsMJxArcPL2GDWTVT3
+N2urcs/ZPBUa6Uhslti5DRJ1k0Dvmufjf7YSKdq7zCpeCnmLhl0EvG1z4qfKPteu
+eZfj3MR65ZBHv9AQNihS97dSYPzxOol7Hou9/HJTsHYh3rM2O1bxsPcVjNHcQc7W
+xv0xHu8y7/URPPpzYJP4VkJQBHBfPMzaEMCt7ikbCvMtsv8/m+Gwb9dWYFsl3dHV
+VzXTAMrSwRBjFN7DKw==
+-----END CERTIFICATE-----
+subject=CN=unifi-ai.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3046 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

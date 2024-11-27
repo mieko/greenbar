@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=snapcraft.io
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 29 21:21:37 2024 GMT; NotAfter: Jan 27 21:21:36 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+zCCA+OgAwIBAgISA6oyg1DuDOx5qiFbMeeZjiD5MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMDI5MjEyMTM3WhcNMjUwMTI3MjEyMTM2WjAXMRUwEwYDVQQD
+EwxzbmFwY3JhZnQuaW8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCv
+OFprA/I3fVCwGB7Yb4c62XrY6xkKYMstDEJEmKuz7XNXzx36fcqTB5b20FZKHOqm
+PDiXo1Sfn3DC+AAH1AMradXO/kMrZZDS//Zyf52FstIZyVTw7wS441nyfYyqj84v
+RPVw2uOB7Hn7ktX73gUeRiooUmIdInfhdYLExg+ulu+TAJPFARVI4oTjUPNgxTPW
+cTbCJ+JN7ozEQmIVAK5vhSLPNptHhpi0G027kwHGbEQzPgUi1m6s8299tbLW8vGy
+9BhfAyfL5LNGBwsfekrW66/M2BBHi/vyvz4h29H+EBbpH5VyHwhx6NDcDpbYOdPW
+EjvGempIa+3HZyu3wzb7AgMBAAGjggIjMIICHzAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFHqg9gTG0Whz9nyfkFNS84joGVGQMB8GA1UdIwQYMBaAFLu8w0el5LypxsOk
+cgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3Ix
+MC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxlbmNyLm9y
+Zy8wKQYDVR0RBCIwIIIMc25hcGNyYWZ0LmlvghB3d3cuc25hcGNyYWZ0LmlvMBMG
+A1UdIAQMMAowCAYGZ4EMAQIBMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAouMK
+5EXvva2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+cAAAGS2l1nCgAABAMASDBGAiEA
+7VZg2qBac6dFxUxh6XUmbwseA25hWBC319xdAPI5dhsCIQCNGJQC87yR1lOqdTN5
+EC1RS1itstnlrd6c2Qi450vMyQB2AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHS
+W3fOzDsIAAABktpdZ10AAAQDAEcwRQIgWk1KtlBnoqYKUSvMtmkW4FLBfMJWtkmM
+O+AK7tBiUyACIQChKOBXCvHPACRIVfivO6kwZyfW/2vodaB6f1PBWEbEvDANBgkq
+hkiG9w0BAQsFAAOCAQEAexQfGYfxJ3VZrIDW6mV33aKEqB9u3tGmwNTwfTK9P0pd
+iHXG6P6R6DRxlTmtxaFMggeUossCbnHhKxLWx89WD0MGdSg1TrRzLAC3IzjiRPqO
+j6CfRIBCdgAjyk4mnKOq6/I84GD9RMprOWujjLr0wPJEVgamnChaZl7j9MRJ+1wY
+GA44y9tLsgP7YiKi8CoTvqkDBC+DkPoslpvMfRX36aV5wPox3hIwJ0HL8+lES2JB
+yuOrb1Wi9Ff0furo2kj9WWU5+HW4FJr0P1uT1AgahpscLg+wSR4iznTa6jvjsEmU
+DGEioGpARgCghqMTGUXd+zJYlEgNp9KZk5NxbRGOYQ==
+-----END CERTIFICATE-----
+subject=CN=snapcraft.io
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3133 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

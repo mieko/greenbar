@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=zopim.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 21 01:48:25 2024 GMT; NotAfter: Feb 19 01:48:24 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDnjCCA0SgAwIBAgIRAKWh1+7BF43wDSXeWokghSMwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEyMTAxNDgyNVoXDTI1MDIxOTAxNDgyNFowFDESMBAG
+A1UEAxMJem9waW0uY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5K7OYkcN
+FrLQ4ltBetV/2K+7EPLnY5MNC0DiUBj2ciQuF0Y2oGPO7jw2nfuVWREt7HqLRtaC
+K78HEWZK83Sw8qOCAk4wggJKMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggr
+BgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTN1uzyQ3mb8URI0bxByE9C
+Zq7U6DAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEFBQcB
+AQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL3BhRTAl
+BggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAhBgNVHREEGjAY
+ggl6b3BpbS5jb22CCyouem9waW0uY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYG
+A1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9PcE1DUVQ2c1Z3
+Zy5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBOdaMnXJoQwzhbbNTfP1Lr
+HfDgjhuNacCx+mSxYpo53wAAAZNMnvWSAAAEAwBHMEUCIQCEckxGTzWbNydSrz0v
+u/wkKf9NmFEiP1wEgWQj6LWjygIgW+R9hv+Q++sDOhawziuaTirO6FAXB3fHSf+u
+J5Ya+bcAdQDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZNMnvmO
+AAAEAwBGMEQCIF4QRJdtGV9csKjf7gCOjpVgARjwQXJojwxzsMPAlXxPAiB8CvcQ
+zIbDYwxpwC3A2qz2jQa+4ieqkomXWysbiBuysDAKBggqhkjOPQQDAgNIADBFAiBp
+R6BBJ+SBEyFAWqoNcTid7ZnJxemzmqFHRowVAqUyyQIhAJpNR/ETgwAzDHO7Jq/m
+yrXWxngUMOcOWnsOUhsHcSQ+
+-----END CERTIFICATE-----
+subject=CN=zopim.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2818 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

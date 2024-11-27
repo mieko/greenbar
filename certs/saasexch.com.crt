@@ -1,0 +1,78 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.saasexch.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  6 00:00:00 2024 GMT; NotAfter: Sep  4 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGRjCCBS6gAwIBAgIQCNlp9xO50PJ6WU2HlAGMqTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDgwNjAwMDAwMFoXDTI1MDkwNDIzNTk1OVowGTEX
+MBUGA1UEAwwOKi5zYWFzZXhjaC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCunuMv9mdy+FUb4236uum0y6yAssjzLQBEUnBhFn1LKqR7ZAhnaO2S
+t4TxQ+iH9rhXZTOhvj3SAUvOCOnf4Zto8NTLt2tToZ+WtINaEWmKn0Uoj1R18cnz
+dxFB9pi3zsdljlQ2LEupfLfyNj20YeiOlz9JI8NoTPN9uy7vnxfzx4zmUPm+ZHoJ
+qtPUxfmLzVUdQdQA5xGY+EoskTBLOXqh2xcL5J+7MM1Sxv9fSZlZeCIfo4QggB7C
+Qtf04mrZYkSFNql0ZvQd1vf4eWH8aFz6iki3Uu/01WsvMtXJ/4NhfZ+0lsHSeofT
+Lm2oBKKDmrabde31YoAW0GHH7uwEZlkzAgMBAAGjggNlMIIDYTAfBgNVHSMEGDAW
+gBRV2Rhf0hzMAeFYtL6r2VVCAdcuAjAdBgNVHQ4EFgQUcymOq8nGRxS0pWO8EdLM
+j+4XXiowgZYGA1UdEQSBjjCBi4IOKi5zYWFzZXhjaC5jb22CDSouc2Fhc2V4Y2gu
+Y2+CDyouc2Fhc2V4Y2guaW5mb4INKi5zYWFzZXhjaC5tZYIOKi5zYWFzZXhjaC5v
+cmeCDSouc2Fhc2V4Y2guaW+CDCouZWFtcGxlLnh5eoINKi5zYWFzZXhjaC5jY4IO
+Ki5zYWFzZXhjaC5uZXQwEwYDVR0gBAwwCjAIBgZngQwBAgEwDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAyMDCg
+LqAshipodHRwOi8vY3JsLnIybTAzLmFtYXpvbnRydXN0LmNvbS9yMm0wMy5jcmww
+dQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5yMm0wMy5h
+bWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQucjJtMDMuYW1h
+em9udHJ1c3QuY29tL3IybTAzLmNlcjAMBgNVHRMBAf8EAjAAMIIBfgYKKwYBBAHW
+eQIEAgSCAW4EggFqAWgAdgAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYm
+OgAAAZEmyu/aAAAEAwBHMEUCIH6HIyT4Opt5aZ1VwcYOk1mgXNzhPM+3mT2+5uh7
+G0x4AiEA5kqzMH+iivzDlxKRH0EUgMVP/3EQdtDmHp57u+vSRAQAdgB9WR4S4Xgq
+exxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZEmyu9rAAAEAwBHMEUCIQDv6Udo
+uJrZpCj8/0pkL25yXKP0yWZjhlAfkrZnHG2IVAIgZxBZ+BemfVYQdkDTzxwD8Bsj
+SZmW3QrJuKAERdaCPtAAdgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeO
+UAAAAZEmyu9vAAAEAwBHMEUCIQDEnd9bFF8rXw+BzWFZ5qnDL3iDnDC5Z6tjN6ce
+111BmwIgCs69BVF4d3cCK1yRMYdMEdwBMGoDKJXjBxU0JIeYhtMwDQYJKoZIhvcN
+AQELBQADggEBAHaHUtCFINcH7lsxYU7l9mKFMlQqTzzaP7+uyGhFSCDaCrg9zIq5
+u9uoMAC5cod6jqK/kiGvFZCEBV4TZ6CWeY8iKMdj1u2Bb9gLj/PCNjf1YvSThHI6
+CbX7AliCXosMkyR0ieqrBFlo6Y1DB1VEjbBafmDV9yJSPZhsvJ08VtEi+LRUet8W
+pax86mJ8ApKdMqbN0368JB5NdQgQsbMhoHlCixuOwNioBr232u0W0bqiktppyvcc
+DAHxiTkLclD3YWpwgI+rZgzIj6sDOrFuKO3Nw/xxukCLxVfIyYmW1rT1mWiIuZmQ
+CLvFUc0T5qbzstgmtCp/SNUBt2VVxjL/Tpo=
+-----END CERTIFICATE-----
+subject=CN=*.saasexch.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5610 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

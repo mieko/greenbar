@@ -1,0 +1,78 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.wb.ru
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 18 08:38:38 2024 GMT; NotAfter: Jul 20 08:38:37 2025 GMT
+ 1 s:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   i:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Dec 10 00:00:00 2014 GMT; NotAfter: Dec 10 00:00:00 2034 GMT
+ 2 s:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jun 19 00:00:00 2019 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+ 3 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+   i:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 19 03:43:25 2023 GMT; NotAfter: Jul 19 00:00:00 2026 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGSDCCBTCgAwIBAgIMVLfkW7NvKHFLrx1sMA0GCSqGSIb3DQEBCwUAMFUxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSswKQYDVQQDEyJH
+bG9iYWxTaWduIEdDQyBSNiBBbHBoYVNTTCBDQSAyMDIzMB4XDTI0MDYxODA4Mzgz
+OFoXDTI1MDcyMDA4MzgzN1owEjEQMA4GA1UEAwwHKi53Yi5ydTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBANO6dDFzPe/WCGswAiSNvEFkPvashSHGpBKl
+zxkxPJf7q00MnZi1PkulX3lGOq/TYE6nBH9jdSdUEvErc9E3IQnW2wyDp6L86tmQ
+BzAH++KgsJkiqLFWi0VsEXw8ZNfXESmtSQ08C58I865tr4kQi9dHvRdg5/J5xL8z
+Rs/pVVK5XvwGJJnBJ8wMzkyDTYLwW7iQ+FDzFMUFdvYsdKy0NjhFKrc4O1TdhR7l
+bLJcxe/boFPoxPFMqzxYdTw3pTUw23i+M7nn28eTzA0j/8IglfeRaEifx1UhN2el
+2h3eKsa2vysjWp2j0wsN6dgC674rnofQD+49mukRVhSVyyjS248CAwEAAaOCA1kw
+ggNVMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMIGZBggrBgEFBQcBAQSB
+jDCBiTBJBggrBgEFBQcwAoY9aHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNvbS9j
+YWNlcnQvZ3NnY2NyNmFscGhhc3NsY2EyMDIzLmNydDA8BggrBgEFBQcwAYYwaHR0
+cDovL29jc3AuZ2xvYmFsc2lnbi5jb20vZ3NnY2NyNmFscGhhc3NsY2EyMDIzMFcG
+A1UdIARQME4wCAYGZ4EMAQIBMEIGCisGAQQBoDIKAQMwNDAyBggrBgEFBQcCARYm
+aHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wRAYDVR0fBD0w
+OzA5oDegNYYzaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9nc2djY3I2YWxwaGFz
+c2xjYTIwMjMuY3JsMBkGA1UdEQQSMBCCByoud2IucnWCBXdiLnJ1MB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBS9BbfzipM8c8t5+g+F
+EqF3lhiRdDAdBgNVHQ4EFgQU5hsCFijyl3tCYITCj6ecJMSYrwUwggF+BgorBgEE
+AdZ5AgQCBIIBbgSCAWoBaAB2AA3h8jAr0w3BQGISCepVLvxHdHyx1+kw7w5CHrR+
+Tqo0AAABkCp/jJ4AAAQDAEcwRQIgT+EJ+TiY7H9rIwVLcvnulWZ9Sfxfgvl/PPOW
+sTlVYLQCIQCcHW1GcTfMOBxsFKDMC3tUmTku78gFz+WkN80ynxVSKQB2AObSMWNA
+d4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABkCp/jJ8AAAQDAEcwRQIhAPCP
+zJT1rAMyV075mT+51nYlCZQTQdjU25iRpwQG/yUuAiA8e6x3Du6sbOxw1XaQnj4E
+oQwgIMc6dTP2GmkHEACq7AB2AN3cyjSV1+EWBeeVMvrHn/g9HFDf2wA6FBJ2Ciys
+u8gqAAABkCp/jL0AAAQDAEcwRQIgJfojzONmmTjKiMFYDH6y9R1kDUwgIUORVTbv
+NPNn5egCIQD56YF+8KKGMM1zjWY6G011J2zxYP5+YzFzs67KSq2QtDANBgkqhkiG
+9w0BAQsFAAOCAQEAk4gUOyk0daCnJbonrttzRsbSHY1j/zlbGNnkLgfCgA0c+Giy
+NHSurNaPmnwellPx4EkThPQTXEhzu/MiXoM32VcCwmdg7e6b9A4sWw/299xdfCG2
+xUN6HGGT21z2YRAe45SL0bZbf/7uhDBjwu18EAxmzfml7u3hlfJqzzI8g7Pjkxzv
+FmYiCaWyo+IfwkbUs6i1biISxGG4+hwedFQuUwWaoyikyU/Jcvz31oAK6kiq8uym
+/cEg6mNeEwknrmWxEWxeKAKxjj0NzTrYont0Ui6n0VSLhXrE+GR0a8rJR02ByHX3
+YvSRrDLxaNeb74rT/lXc9rbGovU2gVivtyw3lw==
+-----END CERTIFICATE-----
+subject=CN=*.wb.ru
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, secp521r1, 521 bits
+---
+SSL handshake has read 6585 bytes and written 813 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

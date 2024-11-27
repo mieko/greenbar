@@ -1,0 +1,102 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.sendgrid.net
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  8 15:37:25 2024 GMT; NotAfter: Jan 15 18:00:24 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGkTCCBXmgAwIBAgIJAJCdthp2cCMlMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTI0MDEwODE1MzcyNVoX
+DTI1MDExNTE4MDAyNFowGTEXMBUGA1UEAwwOKi5zZW5kZ3JpZC5uZXQwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC/tSBEfv4cmKTkD1/xb/8lOQe7G3ck
+jX5Cc6WVLJVO5g0bnUAddKIEYjcSpxiZUjqu8Lu43ZQhs6Dj1qcsVizsRpsCc2BI
+9WqXg7zO3+HE4uLwLXQIWxYgQr8pan/dCUu+ztm/TFCTl499eECZ7nG0qpzz+DLr
+oPTe9uGPM7uPwBciyIrNyskSw4UUJRNRimGc56A+hJJHF8YSQCeFlgAkbhbuLi15
+HIivgQ6sLRqLDFpugNvv57k4vTUJ/6jHDT81nMSH6VD3Rpab57dmNaIsIYMSSrG6
+VlHQfKC/GMTiZswQQOt1bEG5Nh27HfUEC/BDLT65oU6iAB7mS8rKCyj/AgMBAAGj
+ggM+MIIDOjAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAOBgNVHQ8BAf8EBAMCBaAwOQYDVR0fBDIwMDAuoCygKoYoaHR0cDovL2Ny
+bC5nb2RhZGR5LmNvbS9nZGlnMnMxLTE1MDQxLmNybDBdBgNVHSAEVjBUMEgGC2CG
+SAGG/W0BBxcBMDkwNwYIKwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29k
+YWRkeS5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQIBMHYGCCsGAQUFBwEBBGowaDAk
+BggrBgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRkeS5jb20vMEAGCCsGAQUFBzAC
+hjRodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvZ2Rp
+ZzIuY3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz1/tss/C0LIDOMCcGA1UdEQQg
+MB6CDiouc2VuZGdyaWQubmV0ggxzZW5kZ3JpZC5uZXQwHQYDVR0OBBYEFGRCFgNl
+K6oVQEeD9pEi+Z0pY7cIMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgBOdaMn
+XJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAYzpuMFgAAAEAwBHMEUCIQDC
+aJWr59cz9CEy3HahLzeuAUozdTYxH6PzZF0F96DZXgIgI5rHv+pLu/IHxUBeky94
+iADzxF8rPh/XnmCz2CAGnWcAdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kO
+jC55uAAAAYzpuMIGAAAEAwBHMEUCIQCU5NsYfqPRRdC8tYVreNSYfTxyN/muC9IB
+IV3hqy2j7gIgI0aaWuNyzmgkFIwoDm+gRveI6KJTf9q44x3Xjh36YSgAdgDm0jFj
+QHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAYzpuMMBAAAEAwBHMEUCIAOe
+wZfFmfajiUim0P0P9GJbr0i45XqjXfanLwFNj0fdAiEApHPI6i8KmjTy3A8FTrNb
+Fp1KvON9WFC83hw0rtWB2vowDQYJKoZIhvcNAQELBQADggEBAJie9DMr7zDSwmFR
+AHBMnxptZUGZMtN9Tv/cts+yykNdnECyq2X6PqNrrAb40kt3f3cBlzopJXJc/i3L
+l8T6C3vPflTA4gf1Z1+hJ8WUe2C8UTRbK5lT1LcajsdZKwuB0WyhGraCfOOAF9rU
+CrgJmu2TnyX2M84lFCJ8etxnctUtKQxAj3aE3RcA8hcYNrvW1VWSBSZ6Lz3xr9Y9
+vvsV6dmcFDlpesHXfHKGijB6l+x9JbJPsX5IubGyOuhsGM+vEdJ3SMMeUAIq5ZWC
+QpPogV7iMsEG+nISVkIvM9raMTgrKXdu2zNpL4XmyvufH677mJuTQYF231qPWspB
+8lMiZZA=
+-----END CERTIFICATE-----
+subject=CN=*.sendgrid.net
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4766 bytes and written 449 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 22455308FA3AA4069D17A326F9FA95A6B798F317362C8166E7C739FB62B60476
+    Session-ID-ctx: 
+    Master-Key: 0AC520185D02745CFEC4C8100995054716E1C411F52BA390E034AA0E56BD74FCFC556006C3A7C173644042DF02CF86DA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e5 9d 37 18 9d 8f 23 dd-ee b9 81 03 53 f5 59 2a   ..7...#.....S.Y*
+    0010 - 17 5c a7 11 a7 88 4c 83-7a 88 1e 69 07 3c 10 b1   .\....L.z..i.<..
+    0020 - 10 e1 c7 e5 70 f5 18 9f-b7 60 ab 9a 97 3e f8 b8   ....p....`...>..
+    0030 - cf a4 a0 73 22 aa 05 8a-91 f8 a6 f2 67 fb 23 88   ...s".......g.#.
+    0040 - 76 ef 8f f3 7f c8 ae 03-70 a0 b0 72 d9 0b 0d 26   v.......p..r...&
+    0050 - 0c b5 3c 85 b9 78 50 73-1d 91 05 34 9b 62 4c f6   ..<..xPs...4.bL.
+    0060 - 1b cc ee 2d 71 85 8e 24-b3 c9 09 ff d1 61 c4 ac   ...-q..$.....a..
+    0070 - b7 c5 03 87 43 4d 3e 1d-6c 91 ee 6d 1d 28 3d e7   ....CM>.l..m.(=.
+    0080 - 81 d2 1c e3 12 29 5b 28-e4 87 56 94 08 d7 1e 7a   .....)[(..V....z
+    0090 - 05 fb 97 db 86 e3 a7 c2-f6 46 96 21 c6 f3 fc e5   .........F.!....
+    00a0 - 06 d8 49 ea 64 fe bf 44-3c cb 1b 63 bf 60 57 8f   ..I.d..D<..c.`W.
+    00b0 - 73 b8 d4 f7 92 62 c8 e1-96 41 d0 d5 14 96 b5 d0   s....b...A......
+
+    Start Time: 1732697774
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

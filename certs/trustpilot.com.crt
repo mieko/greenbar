@@ -1,0 +1,99 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.trustpilot.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 00:00:00 2024 GMT; NotAfter: Jan 29 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF2jCCBMKgAwIBAgIQDp+LS7DpnuMfbbvV7Q9ReDANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDEwMTAwMDAwMFoXDTI1MDEyOTIzNTk1OVowGzEZ
+MBcGA1UEAwwQKi50cnVzdHBpbG90LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALQomNkQQ6t/7/SYfOM7kzpq4MyNrmFi2zVBzSKXGRADVHyow/mS
+poIsfN28lA/k5z5+Dc/IImh9/jqde+JsN0txlS8iMzqNs6MiDhQAI6cNqhAkJ+TM
+ZbY4P7mG7XGjivBetJEzVP+/kamHAUxfAFsY35WZD/1mdAWF+aItLJfgeKW3H3kC
+U4Su7zG0dDGW5h+LWCdohm0OiKI/MTUfXUzuj4zth8QR4KPkhoqukHncNojUH6w9
+EH22acWBs3BBDQK085leO1Hf25ytfKg9KphzSS8KYyN190vcNQqXDxVTTJPAESfr
+ctprWYsjfpUKrmLlVbzYwXuhMVt1pTCAn08CAwEAAaOCAvcwggLzMB8GA1UdIwQY
+MBaAFFXZGF/SHMwB4Vi0vqvZVUIB1y4CMB0GA1UdDgQWBBSBqoGqVPEIFEmfxHX6
+T+xo2gOFLzArBgNVHREEJDAighAqLnRydXN0cGlsb3QuY29tgg50cnVzdHBpbG90
+LmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6
+Ly9jcmwucjJtMDMuYW1hem9udHJ1c3QuY29tL3IybTAzLmNybDB1BggrBgEFBQcB
+AQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnIybTAzLmFtYXpvbnRydXN0
+LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5yMm0wMy5hbWF6b250cnVzdC5j
+b20vcjJtMDMuY2VyMAwGA1UdEwEB/wQCMAAwggF8BgorBgEEAdZ5AgQCBIIBbASC
+AWgBZgB2AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABjMKD2wEA
+AAQDAEcwRQIhAM0XqKOUp7UuZnOqkSc1sUjoTwRngtCvpkPBOKXNnUuNAiAX1FpX
+xi29r4hsnBOq8Iv1VhcIZ//jMJDLx20++sI1mwB1AH1ZHhLheCp7HGFnfF79+NCH
+XBSgTpWeuQMv2Q6MLnm4AAABjMKD2ygAAAQDAEYwRAIgY+7Xd5WvMEeksU6EGJ0Y
+vECPCxsHAJWquwW/yQqI99QCID83cmp8wk1ED/tozW81zHu08q1DjYSdBAih+KUy
+p/cgAHUA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGMwoPbUQAA
+BAMARjBEAiBNUOJiEzQh/KWu0w33oirAyhEHH1qeV1VxpMAo0iqJkgIgLzLv15+5
+q/wj3CWfTPhsdehFmJLefhNw+sQ1KmuJWEMwDQYJKoZIhvcNAQELBQADggEBAFqR
+BjwOumWPsMeilpKrb6d3qFg/9pv8cW/5cqf+QpM2h48NNEfz5p4k0FqbvcbVwZl0
+l6IPLRM2ZU84tmJ5ix/uAF0DV5GIAwJvo6D8WlQCn/hcxcTVEjjXVeeEI7bWx1qj
+j0Ndga0/zP0MpXTKgtQR/kzOESwii/zufusFVesFVZVDw5h6BahtaubY6H7qTpN5
+MSOFQW86uRauHnK17ul+hanOTpMhbYxLee/96HA4kBiZRLB/RiGncYihbU0UsCLB
+Q081tS5vv6ByFRz4ica1sVNcRYBNO9dLREtt+CM1nmH/DyUXRSQESjtqr+PR+l/s
+UzgA2lcx3FUiBpf+Wjw=
+-----END CERTIFICATE-----
+subject=CN=*.trustpilot.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5622 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: C12B857CE3BE25EE8C37736FF67AFE6998B18DEBC47C5561060E0C7114DAA641
+    Session-ID-ctx: 
+    Master-Key: 881BA6CF5DA24FC05E93A008A1ECAE0ED8E491E90DC27D3264FF234047715EAE76EA57D0F29BEF786FD50C595DF57734
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 01 79 10 f2 06 7d 36 0d-3e 82 06 28 60 b8 db 11   .y...}6.>..(`...
+    0010 - b9 d5 82 7e 9d 96 b8 97-a9 5a d5 a0 f6 93 a2 93   ...~.....Z......
+    0020 - 9d 45 66 1e 39 6f c6 41-f4 64 df aa 62 0c 30 f7   .Ef.9o.A.d..b.0.
+    0030 - fe da ba 86 4d d1 57 23-3d 9a 39 80 a0 8e 8b a6   ....M.W#=.9.....
+    0040 - e5 b9 b0 78 7c 06 e7 a6-fb 56 45 d6 44 d5 a5 32   ...x|....VE.D..2
+    0050 - d5 e0 8d 31 c4 9d e8 73-26 25 39 dd 24 1c 08 25   ...1...s&%9.$..%
+    0060 - a6 98 eb 44 0e ba a0 1d-fb 7a a9 cf da e6 89 0e   ...D.....z......
+    0070 - 17 6d 18 d7 0d 57 61 64-81 56 15 40 85 04 19 a9   .m...Wad.V.@....
+    0080 - ed e3 e5 aa 92 26 ac 10-4d 7f                     .....&..M.
+
+    Start Time: 1732697895
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

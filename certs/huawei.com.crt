@@ -1,0 +1,97 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CN, ST=Guangdong, L=Shenzhen, O=Huawei Technologies Co., Ltd, OU=Security Engineering Dept, CN=*.huawei.com
+   i:C=IT, ST=Bergamo, L=Ponte San Pietro, O=Actalis S.p.A./03358520967, CN=Actalis Organization Validated Server CA G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun  4 10:19:51 2019 GMT; NotAfter: Jun  4 10:19:51 2021 GMT
+ 1 s:C=IT, ST=Bergamo, L=Ponte San Pietro, O=Actalis S.p.A./03358520967, CN=Actalis Organization Validated Server CA G2
+   i:C=IT, L=Milan, O=Actalis S.p.A./03358520967, CN=Actalis Authentication Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 21 08:35:02 2019 GMT; NotAfter: Sep 22 11:22:02 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG/jCCBeagAwIBAgIQYKJRZP8XmSa8szQycE8LqzANBgkqhkiG9w0BAQsFADCB
+lTELMAkGA1UEBhMCSVQxEDAOBgNVBAgMB0JlcmdhbW8xGTAXBgNVBAcMEFBvbnRl
+IFNhbiBQaWV0cm8xIzAhBgNVBAoMGkFjdGFsaXMgUy5wLkEuLzAzMzU4NTIwOTY3
+MTQwMgYDVQQDDCtBY3RhbGlzIE9yZ2FuaXphdGlvbiBWYWxpZGF0ZWQgU2VydmVy
+IENBIEcyMB4XDTE5MDYwNDEwMTk1MVoXDTIxMDYwNDEwMTk1MVowgZYxCzAJBgNV
+BAYTAkNOMRIwEAYDVQQIDAlHdWFuZ2RvbmcxETAPBgNVBAcMCFNoZW56aGVuMSUw
+IwYDVQQKDBxIdWF3ZWkgVGVjaG5vbG9naWVzIENvLiwgTHRkMSIwIAYDVQQLDBlT
+ZWN1cml0eSBFbmdpbmVlcmluZyBEZXB0MRUwEwYDVQQDDAwqLmh1YXdlaS5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDNnJdX0ANjblDCxn5S8/IT
+6EQIDyz8W5+Zx4cXS9bpm/1KWGw74FLnWkwJgtwVGKp8PHcoq9vh1QIl4eTHFKH+
+9MqswsYVv8ee0uwdKfpyTrYTpSfXbDTWrP8Zyaxj2MeIurrqws7JTDADNMb5qVly
+yypBKrbb/sdIyw4uANFt/L61C7oM3iLLYI+gINsT/cqi3HSYGkJze91taZuLySoj
+N7iIR+Sh/YdyFdheRzh9973+28ngTEg8ItE7DI+wkoobfiuFvujgymsMwhQYRoAd
+HZ2YCdbAp1WNpEbxOzkkykxlmrn+tKQE7NFZVM0XeTk3g2+hsze+3HQBfs6MFte1
+AgMBAAGjggNFMIIDQTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFGL+uyeKZETt
+aJZaWHmh21omrf+7MH4GCCsGAQUFBwEBBHIwcDA7BggrBgEFBQcwAoYvaHR0cDov
+L2NhY2VydC5hY3RhbGlzLml0L2NlcnRzL2FjdGFsaXMtYXV0aG92ZzIwMQYIKwYB
+BQUHMAGGJWh0dHA6Ly9vY3NwMDkuYWN0YWxpcy5pdC9WQS9BVVRIT1YtRzIwIwYD
+VR0RBBwwGoIKaHVhd2VpLmNvbYIMKi5odWF3ZWkuY29tMFEGA1UdIARKMEgwPAYG
+K4EfARMBMDIwMAYIKwYBBQUHAgEWJGh0dHBzOi8vd3d3LmFjdGFsaXMuaXQvYXJl
+YS1kb3dubG9hZDAIBgZngQwBAgIwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMBMEgGA1UdHwRBMD8wPaA7oDmGN2h0dHA6Ly9jcmwwOS5hY3RhbGlzLml0L1Jl
+cG9zaXRvcnkvQVVUSE9WLUcyL2dldExhc3RDUkwwHQYDVR0OBBYEFDVPUVcERFn/
+Ryc35St5qhpj8U9bMA4GA1UdDwEB/wQEAwIFoDCCAX4GCisGAQQB1nkCBAIEggFu
+BIIBagFoAHYApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFrIgm6
+dAAABAMARzBFAiEAkKdY1s98BccYBT8S8FM3UyMVwEp2jpGOgCbeaOsY37cCICL0
+LHGynPkqTySiaRRxE6786ipwHmvSI/JCMnDkk/zRAHYARJRlLrDuzq/EQAfYqP4o
+wNrmgr7YyzG1P9MzlrW2gagAAAFrIgm7pQAABAMARzBFAiEAlAD9TqVKJQkz15cx
+RhgZzZquU/6AGpnI+/448O/SjMsCIGPHaDGLGIaFTH9RNWNaukMdrPIlfzazvtWX
+YZjuc3bVAHYAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFrIgm7
+7AAABAMARzBFAiBHvlt+K+Y4V6aB7jO4kKMDhtL1DPXQft0MAiMtX/TfAgIhANmd
+zr11dVFCIXeHVCQF800/MzI9a7ju9RW3wY92Jkp2MA0GCSqGSIb3DQEBCwUAA4IB
+AQBmOQYSZOPxvfDd9hBT6b1YdbQnOAprPdopVv9p51vVjqsdPth5EOXqtznOB9Qm
+kCnR3TFM7T2PTkVf7tHEIfI62qSbPjqCMxy+RrCzKTTsQC90MClU2C2UWTmbvTxP
+YfKvkF1rFWDVqTC7N6RYkQSqOX1k67obPvX+EZY7EHdz50FzhqTbeBe5x5ocbO0P
+d3+igd7UpeJk6L4qtWLq0CxPo7xweyrhABVVZY9ov3xV4OF3UyMs+YseqwkwWAr6
+OAWldOKEL56SAyGtRLPq7A1i01g2s01G3gRj9X0ODf9epoRiRGqT7dKUqKsY51TX
+WT/CH/HBKzwvvgfTbncbh8zq
+-----END CERTIFICATE-----
+subject=C=CN, ST=Guangdong, L=Shenzhen, O=Huawei Technologies Co., Ltd, OU=Security Engineering Dept, CN=*.huawei.com
+issuer=C=IT, ST=Bergamo, L=Ponte San Pietro, O=Actalis S.p.A./03358520967, CN=Actalis Organization Validated Server CA G2
+---
+No client certificate CA names sent
+---
+SSL handshake has read 3860 bytes and written 679 bytes
+Verification error: certificate has expired
+---
+New, TLSv1.2, Cipher is AES256-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-SHA256
+    Session-ID: 16FFDE00A19BA207EDA9D5FAC4632C79A6EDD0A68E27401545BF2A88C9E6A6FB
+    Session-ID-ctx: 
+    Master-Key: A14BE94B29D7E7C39F110840F195F16E857BB08F8088459FDAB15A5AFDC53C840BB60794B3CD0E2E2B389A46B5ACC28D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - bc 93 a4 ef 7a 6b 59 82-9b 1a 76 f2 58 0a f0 02   ....zkY...v.X...
+    0010 - 4c 99 ac e8 72 a8 65 d6-24 9c 35 a4 40 ad 9f 21   L...r.e.$.5.@..!
+    0020 - 28 b1 35 6e 22 7f c9 30-9d 7a b4 a0 36 3c b3 07   (.5n"..0.z..6<..
+    0030 - 27 b2 37 b0 26 38 39 72-c5 02 0c cd 48 e9 2f dd   '.7.&89r....H./.
+    0040 - 4b 58 98 66 8e f1 a4 ea-b8 82 af 39 06 dd 1d 1f   KX.f.......9....
+    0050 - 73 5e e5 b9 97 d1 35 ed-07 11 b9 e4 95 fc a1 38   s^....5........8
+    0060 - 1f f9 96 c0 06 0b 71 c8-ae a1 1d 25 ef 8b 0b 0f   ......q....%....
+    0070 - fe ff 98 ff 35 13 39 de-cc 3a fd 98 e5 75 f8 16   ....5.9..:...u..
+    0080 - 05 36 e5 6a c5 d7 47 df-b8 c5 d9 49 d2 cc 09 e5   .6.j..G....I....
+    0090 - 83 09 2c 52 e4 4b f0 c2-5a 3c 15 40 f3 73 34 eb   ..,R.K..Z<.@.s4.
+    00a0 - a6 3c 9a 2e 1e 76 22 c2-71 ed b5 53 96 f8 b4 aa   .<...v".q..S....
+    00b0 - fc 65 f3 7d c2 fc 31 c5-82 b3 de f0 c0 7e 43 6b   .e.}..1......~Ck
+
+    Start Time: 1732697321
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
+    Extended master secret: no
+---

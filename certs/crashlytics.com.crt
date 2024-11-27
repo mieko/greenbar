@@ -1,0 +1,64 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=crashlytics.com
+   i:C=US, O=Google Trust Services, CN=WR2
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 21 08:40:08 2024 GMT; NotAfter: Jan 13 08:40:07 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR2
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEbTCCA1WgAwIBAgIRAOVZW8UrYBqJClmc4fgTFwswDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IyMB4XDTI0MTAyMTA4NDAwOFoXDTI1MDExMzA4NDAwN1owGjEY
+MBYGA1UEAxMPY3Jhc2hseXRpY3MuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD
+QgAEn1/JaACa8VNiuX4sJOsFGE+TW1f7PwQdSzmQ8UtgZCcAjTwxaLjwPkCxzoqu
+deHED6szGBwhxSall2iJ9e1gbKOCAlYwggJSMA4GA1UdDwEB/wQEAwIHgDATBgNV
+HSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBT+FidtRY77
+zcp2u3kl8hE9quK6LTAfBgNVHSMEGDAWgBTeGx7teRXUPjckwyG77DQ5bUKyMDBY
+BggrBgEFBQcBAQRMMEowIQYIKwYBBQUHMAGGFWh0dHA6Ly9vLnBraS5nb29nL3dy
+MjAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd3IyLmNydDAtBgNVHREE
+JjAkgg9jcmFzaGx5dGljcy5jb22CESouY3Jhc2hseXRpY3MuY29tMBMGA1UdIAQM
+MAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29n
+L3dyMi85VVZiTjB3NUU2WS5jcmwwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgDP
+EVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZKucsHWAAAEAwBHMEUC
+IQCiT2wYI5sWUFyhPdZuAijHwesIlgLGU+EsekcNVE2SagIgfoA3r/5bvKWDs0rN
+LQOnPjtwzcr5Isgs1Q633H4ilrgAdwDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2Xjbap
+flTA/kwNsAAAAZKucsHaAAAEAwBIMEYCIQDbKqLPcVSYURNRRvgmWu1/aUHwUbnc
+M9qvSotXAhUBmAIhAKOnt73VXKsPBjWHglLZfuJXXx+OfZ+y+w52gZWEiywRMA0G
+CSqGSIb3DQEBCwUAA4IBAQAcwDBRTNCkHKKhjCWjBLsreIBr/f3V2TKAOfHX9fNB
+4fYfkNM0zOgS0nm2tI1iuyViJpfCt5T/GRaNExxrQgRNPQj/KTSxb2lXTbk5z9PN
+aOT7xPkHONjXjtPvb1VVlCWrzyLDOT1lGXn8tZ+l94NQaNf4Ddq42tTeatDnFlgz
+/DqkmA/6nJ3r2gJh6z6blxpZLaGnU3JZMM9EJftjzHrin2CiH7oUdOkJzdNfWben
+eWGPAOpD1+qejjLccZm+RhX/1mgGmHqEd1I2JEpatB015eCrO2kCxpIG80qujv9p
+ytA/hDdxrN3cT4zNiRu20gZ0C3XtpwGU41rvup/rG5/J
+-----END CERTIFICATE-----
+subject=CN=crashlytics.com
+issuer=C=US, O=Google Trust Services, CN=WR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4128 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

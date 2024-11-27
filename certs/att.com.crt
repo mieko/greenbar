@@ -1,0 +1,88 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=Texas, L=Dallas, O=AT and T Services, Inc., CN=att.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 14 00:00:00 2024 GMT; NotAfter: May 13 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 24 00:00:00 2020 GMT; NotAfter: Sep 23 23:59:59 2030 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+8C+vNkuRqL9YChIM6Smy8HBd4yfPTg==
+-----END CERTIFICATE-----
+subject=C=US, ST=Texas, L=Dallas, O=AT and T Services, Inc., CN=att.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4451 bytes and written 444 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BCEB4E55B14F6358E4F3818B58D74A245A8B956314AD006FAFEAC04AA8E71AB1
+    Session-ID-ctx: 
+    Master-Key: 2FE84225325DAC44BF34E4A620967ED0756038E0B4FEECC93BC4DF41C03D432FAFFF288868F629D583D89D0192AE2B12
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732696965
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,61 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=permutive.app
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 25 18:16:49 2024 GMT; NotAfter: Feb 23 19:16:47 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDwjCCA2igAwIBAgIQPnmjIpmrd3oOe9dU3dC7CzAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTI1MTgxNjQ5WhcNMjUwMjIzMTkxNjQ3WjAYMRYwFAYD
+VQQDEw1wZXJtdXRpdmUuYXBwMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZBUa
+IpBT9JM6TGxBvJ4aNit4UkttEHoxoGtbvixeXH9CTfCGWg7NtMpCjidwFmzSh3nR
+6WEn8jDvBdrFO8ICsqOCAm8wggJrMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSm4sbSWp+vKh4pmM7r
+7pV4KTnbOjAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEF
+BQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL1Bu
+azAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDBBBgNVHREE
+OjA4gg1wZXJtdXRpdmUuYXBwghQqLmVkZ2UucGVybXV0aXZlLmFwcIIRY2RuLnBl
+cm11dGl2ZS5hcHAwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmg
+J4YlaHR0cDovL2MucGtpLmdvb2cvd2UxLy15T0k4dTRKM2RNLmNybDCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB2AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0e
+N45QAAABk2TBS7AAAAQDAEcwRQIgLkuwFSq/QPimOIXaDCckHt9WjS6587740B6j
+lFSuE5oCIQCeI4WbMujozxw7UHKqL1m0s1Ccg0FaG3qAAAF0TqgNzwB2AM8RVu7V
+Lnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABk2TBS8cAAAQDAEcwRQIhALLx
+LpWysB74Ji+dR6M9sIZ/9wNIqLtrmb7ui7+h/87BAiAQjAq+9169ccicoU+znq+q
+HMdory1l4cq2LKgG5Qjs3DAKBggqhkjOPQQDAgNIADBFAiEA2uDr8ypVLYK9bXYz
+FiW6useWMG/QYTT3xeceN009Nr0CICYwAR6xDmCEuiLPNeD3YLBFGNSR+fDGx/7d
+RfubEBbj
+-----END CERTIFICATE-----
+subject=CN=permutive.app
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2854 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

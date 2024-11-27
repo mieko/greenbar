@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=eyeo.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 29 13:09:20 2024 GMT; NotAfter: Dec 28 13:09:19 2024 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+zCCA+OgAwIBAgISBGxaLsq015r1J8/jDO9qa5K9MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQwOTI5MTMwOTIwWhcNMjQxMjI4MTMwOTE5WjATMREwDwYDVQQD
+EwhleWVvLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ7exRa5
+6CEtN/1sGm1m3Y0+2930Rao+f4vlSbv2RqwgC42TrfMILJdJylvxPf4qNUnzRwAd
+P1s+UIaFT3U+bP3Gc8BvJdbKfDy004E33taQ45lYMdoRPS/fgFJ+q9iZhsjHNFeF
+Hvks0oiOuJXdBjmgk9/IOS9RIJ44jOINvAsGgpi/97BgMcPdO9Sx/YB5I0V8/r2o
+dENdRhSHJVL4Onf9PZc072CouZw35ybq5HUw2gGsrJffdmhpeC4fjROX0jIuVtqy
+IEVaJSw0myiyrbreUFpWhrb283kQdyXCxSlkyN+FBM3NfA1dwGzkL7lP3BlJ+VUS
+YwrBGmoCf6jXtLECAwEAAaOCAicwggIjMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+30vSurTndXkeu3bfdKNkdleTiM4wHwYDVR0jBBgwFoAUu7zDR6XkvKnGw6RyDBCN
+ojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjEwLm8u
+bGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iub3JnLzAu
+BgNVHREEJzAlgghleWVvLmNvbYIMd3d3LmV5ZW8uY29tggt3d3cuZXllby5kZTAT
+BgNVHSAEDDAKMAgGBmeBDAECATCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AD8X
+S0/XIkdYlB1lHIS+DRLtkDd/H4Vq68G/KIXs+GRuAAABkj4b8FkAAAQDAEcwRQIh
+ANe2rcmYD970i+e5qlnZbP1DoUqao0eUxzv9uZ+HVqe7AiAzdx26AxzznIQDCcqe
+g/vfY11Os/4POax266zrQ/cR5gB2AEiw42vapkc0D+VqAvqdMOscUgHLVt0sgdm7
+v6s52IRzAAABkj4b8FIAAAQDAEcwRQIhAPS/eMD8jgX/xUaoSd+xMEC9YrZOJIjB
+1a7PRUAcz+KwAiBWwW+ynv3iroCkQ5DxMZj+PiPvNQTpH/4kEKAAKjDBVjANBgkq
+hkiG9w0BAQsFAAOCAQEAzpVy7ocwQ2FVTCrdUstJh+HPt/EfY+lU3K2JN+3GPVl3
+YGOuGn3OxiS1s3oy7rfDwc2hDH1DtPbNsGdsfGhvLShcqvkj6MzwkX6r4c3+MvwN
+WM/Zhutcg3x7kZOmPP+X6XxyDOl5p1dRqjFMx4oU6Y7Ai8DsJ47iEmFgGgyVgQIL
+GzyNhWHjmTlPJftG+9y2FYhAowU9ldLWZaAfkbOxGW7LfxS8J9/1UjOWkP4e5zr4
+nymlY8ht1+iqOe4w5CfShqj2l/Ld5cygUZcZa0dghFX55OWNGsBxLUaQisuIuvLc
+wbUwz649hksy3SGZObnFDCesjiqcBwWtxi4HiWWYDg==
+-----END CERTIFICATE-----
+subject=CN=eyeo.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3133 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

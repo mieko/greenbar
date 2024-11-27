@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=sportradar.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  2 18:45:15 2024 GMT; NotAfter: Jan 31 18:45:14 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDmjCCA0CgAwIBAgIQZknOlCvHkR0RQ+sG0wUOFTAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTAyMTg0NTE1WhcNMjUwMTMxMTg0NTE0WjAZMRcwFQYD
+VQQDEw5zcG9ydHJhZGFyLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABLEp
+KaPH7ilOZU0pt0wfeEcnqN6I2ZkGv09jV47ekBHBwZf2t6BydJOE8ZWUQ6KaGmfI
+J6t6XQ3/ywlL7dBu3ZqjggJGMIICQjAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAww
+CgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU7QryU1SMoLtUD0VU
+fDkIS21XRRQwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYB
+BQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9a
+a2swJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwGQYDVR0R
+BBIwEIIOc3BvcnRyYWRhci5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0f
+BC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL2otNlBhZDJxdUVjLmNy
+bDCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AE51oydcmhDDOFts1N8/Uusd8OCO
+G41pwLH6ZLFimjnfAAABku5pE0gAAAQDAEYwRAIgQSDVgzn8fL5Uqa2U5p2OrYS3
+lAIM4xQvMlZodxusOswCIGvAFHB7wfvT66omZ0STHxfTiN9x/GGOgbTaAnW5bHzm
+AHYAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebgAAAGS7mkTZgAABAMA
+RzBFAiANUpL3pR2I0yYgRdfZgtZdMRfAdfehBd+4aE8tiWU2AQIhAKI+oXtHpYhw
+/8xjLHXhUr1MTUnonzEsmyQ1eud7ZIuFMAoGCCqGSM49BAMCA0gAMEUCIQCPCr6C
+tsrhN5SFOrbu3zn6oHmcJQ/qMSOkGDzEQync8AIgUtzlcvpQyCxnmuDccAAVaLzw
+O7g3zGEsA7XWqDu1tCw=
+-----END CERTIFICATE-----
+subject=CN=sportradar.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2814 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

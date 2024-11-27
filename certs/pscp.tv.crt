@@ -1,0 +1,86 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.pscp.tv
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr  1 00:00:00 2024 GMT; NotAfter: Apr 29 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=CN=*.pscp.tv
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5440 bytes and written 444 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 898F652D88E6A549D0B1593A33FA3CE8332D538341E49A546DC63F548F5164B4
+    Session-ID-ctx: 
+    Master-Key: 52729FF4EF3946D06C8A4D74CE84BDE97FCCA5B862F2B3EC4D6BB329D34C638A20C1D3EB1E3A64AA151C0E0E34377929
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697675
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

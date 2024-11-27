@@ -1,0 +1,91 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=rudderstack.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  3 19:27:44 2024 GMT; NotAfter: Feb  1 19:27:43 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE7TCCA9WgAwIBAgISBITr1pUlsqTzopyjuDmW5pUqMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTAzMTkyNzQ0WhcNMjUwMjAxMTkyNzQzWjAaMRgwFgYDVQQD
+Ew9ydWRkZXJzdGFjay5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDbhCq7piRBbc+PwtTzGRKCt996yWPkYElTGsceNCVpupt1eG7BVMshpp/EC4VG
+UGQvaqd1M+SvsibFj3xhf9m3qIGA86ADKjCH4xXCM56kPbTy81Fg4CANMKnrCby5
+kKpFgFEaCKPhhX4aFIkrZxvHJLi6VGGefiwDgzxGljNsBOrbVVLUzotB9egG3+kE
+NARPZS6wXyIZQ2h2+ESbgs7jpFWXBuiL4ASpZb+HFZz2g98sBkKcIvWQA0QKTeow
+tQFN5aYj8ZlKyPjJFPK9WojyyoLZLBf29pKt/3A+uUEUl6hyljpr9VMuAvjXSTjq
+6GZ4ccVnb3Ef5712Kq0C1IJbAgMBAAGjggISMIICDjAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFGt+oBdT2slQqZJIb5hEOfmj2ZmdMB8GA1UdIwQYMBaAFLu8w0el5Lyp
+xsOkcgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDov
+L3IxMC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxlbmNy
+Lm9yZy8wGgYDVR0RBBMwEYIPcnVkZGVyc3RhY2suY29tMBMGA1UdIAQMMAowCAYG
+Z4EMAQIBMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAzxFW7tUufK/zh1vZaS6b
+6RpxZ0qwF+ysAdJbd87MOwgAAAGS87TyUgAABAMARzBFAiEA3ypkURiOkHVVP1AZ
+uzrz7SCcF97pOM+jIBxhKy/Z2owCIEYGF7CKNTNYnnLTK7vPFXNvNEDf1Pd9Jrxq
+RBwXUAfYAHUAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+cAAAGS87T5
+1wAABAMARjBEAiBsKPdf4ff03g5ew6o/ak7JZlUOVeuphPy2iOFM+PBY0gIgejJK
+/5vRX/ZcLqtE32Q5qic/crjMcN48sO26hFenHPkwDQYJKoZIhvcNAQELBQADggEB
+AF81mnIqXZzDgsh2F7c8yf1HD8E7KMIEaXX5bXxr2BBQx4e1REYiBQkh7RoOfQlj
+GPW1BLhmnZH8JrtBUoXgI5nWMbuO4H2/kywW0rNobMKK6BQ7dhqIvssOObEbgdT8
+nkIrfB0vqZc4aty0/UOe6bCZ4eaVIee/7eiki3pZRXC7NO8yhAjiS/heydRjzmO5
+q3jceyuBVJO6FjtTvyKdQLumLKOiWdTuxy01xB0VW+IMlLy6BQEN1/Y3CNgeHllm
+03kQU8/90VrX/pwOk0ScUTJ7oVuOs/osSbj3McoSZl05Q2ky9RLTBCMJmZoAuYJR
+4xXb62AQeB0Dwds47+kOPLc=
+-----END CERTIFICATE-----
+subject=CN=rudderstack.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3099 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 358E882028588ED9772A92884B30BD18DBCBB8F4FE2B8DDC56C384237C26BA4F
+    Session-ID-ctx: 
+    Resumption PSK: 6CE03B4CB65A6F7D80AD00811F88368A513C537E1553F63BDC7CD5BD975297F2
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - ba c1 6a a8 55 5c ac 15-17 1f 9e 57 4c 9d 80 30   ..j.U\.....WL..0
+    0010 - d5 7a 48 45 e9 e6 fd 18-47 5e 75 43 d5 50 fa af   .zHE....G^uC.P..
+    0020 - 29 1b cd 18 75 3e 07 3b-5d 59 95 d4 4a a5 1e 1f   )...u>.;]Y..J...
+    0030 - 81 9a 84 65 d9 09 90 70-9e 6a 76 05 8a 1c c5 ef   ...e...p.jv.....
+    0040 - e7 4b 24 a2 e3 99 a5 50-58 90 ad ae b0 78 f1 13   .K$....PX....x..
+    0050 - 05 77 46 82 37 76 a1 28-7a e8 49 36 64 cf 8c 0d   .wF.7v.(z.I6d...
+    0060 - 74 94 c2 9a 23 bd 47 48-8d                        t...#.GH.
+
+    Start Time: 1732697739
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

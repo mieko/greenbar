@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Cloudflare, Inc., CN=garmin.com
+   i:C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Jul 10 00:00:00 2024 GMT; NotAfter: Dec 31 23:59:59 2024 GMT
+ 1 s:C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+   i:C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 27 12:48:08 2020 GMT; NotAfter: Dec 31 23:59:59 2024 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFBDCCBKugAwIBAgIQDaPXnsBE355ywyr/gVSAxTAKBggqhkjOPQQDAjBKMQsw
+CQYDVQQGEwJVUzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEgMB4GA1UEAxMX
+Q2xvdWRmbGFyZSBJbmMgRUNDIENBLTMwHhcNMjQwNzEwMDAwMDAwWhcNMjQxMjMx
+MjM1OTU5WjBqMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQG
+A1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjET
+MBEGA1UEAxMKZ2FybWluLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABAJ8
+caBv3qtFnPKAfquH3rmiVmixEzMECEDKaW9YPlGJGgERI0wlkAoBgg1lhsJPIefi
+LBpPxvjwHBLBQCMe9JujggNRMIIDTTAfBgNVHSMEGDAWgBSlzjfq67B1DpRniLRF
++tkkEIeWHzAdBgNVHQ4EFgQUWIM6ac9zLRRd0/sP3t4Obg28vQUwFQYDVR0RBA4w
+DIIKZ2FybWluLmNvbTA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIB
+FhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgOIMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjB7BgNVHR8EdDByMDegNaAzhjFo
+dHRwOi8vY3JsMy5kaWdpY2VydC5jb20vQ2xvdWRmbGFyZUluY0VDQ0NBLTMuY3Js
+MDegNaAzhjFodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vQ2xvdWRmbGFyZUluY0VD
+Q0NBLTMuY3JsMHYGCCsGAQUFBwEBBGowaDAkBggrBgEFBQcwAYYYaHR0cDovL29j
+c3AuZGlnaWNlcnQuY29tMEAGCCsGAQUFBzAChjRodHRwOi8vY2FjZXJ0cy5kaWdp
+Y2VydC5jb20vQ2xvdWRmbGFyZUluY0VDQ0NBLTMuY3J0MAwGA1UdEwEB/wQCMAAw
+ggGABgorBgEEAdZ5AgQCBIIBcASCAWwBagB3AO7N0GTV2xrOxVy3nbTNE6Iyh0Z8
+vOzew1FIWUZxH7WbAAABkJpLbNUAAAQDAEgwRgIhAMOzG6ItnJ0zD4BJgYMNsLyY
+qTI77pmXB63EOqlJDsjJAiEA/Fc7P/Vd2EBC1yd7dWy2QJlkd6Hak7sHW7dJGNyk
+ubYAdgDatr9rP7W2Ip+bwrtca+hwkXFsu1GEhTS9pD0wSNf7qwAAAZCaS2x/AAAE
+AwBHMEUCIQC/QfZtVtuqSmXF5pxzC2COG2/29Pmwoe8Y5dhxW15lywIgFVe3bAPt
+0lgnYuQB4Ga1lEI3SjxnjPrbqWLZhXwsQZUAdwA/F0tP1yJHWJQdZRyEvg0S7ZA3
+fx+FauvBvyiF7PhkbgAAAZCaS20uAAAEAwBIMEYCIQDzLDSDTkLwbC6b2dddXgQ0
+/DoV76UJ7mR/PeZNjXV9RAIhAJyQ6v/sQSv8d+MCc+qIHW6V70mV4vqRvqO1Ei+D
+OtK6MAoGCCqGSM49BAMCA0cAMEQCIBRPoLjO9jxMJaZq1UnTtocujhoJFdaVQ8oC
+EGSSjBTrAiBICP14Qm/ZKOCDShNUIPf2bsvpvGknIhcIPVnXbZA+7A==
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Cloudflare, Inc., CN=garmin.com
+issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2579 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

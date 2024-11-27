@@ -1,0 +1,77 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=JP, ST=Tokyo, L=Setagaya-ku, O=Rakuten Group, Inc., CN=*.rakuten.co.jp
+   i:C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 21 00:00:00 2024 GMT; NotAfter: Nov 19 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 24 00:00:00 2020 GMT; NotAfter: Sep 23 23:59:59 2030 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Nov 10 00:00:00 2006 GMT; NotAfter: Nov 10 00:00:00 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGxjCCBa6gAwIBAgIQBcMovFDtud8uncaWExsedzANBgkqhkiG9w0BAQsFADBP
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMSkwJwYDVQQDEyBE
+aWdpQ2VydCBUTFMgUlNBIFNIQTI1NiAyMDIwIENBMTAeFw0yNDEwMjEwMDAwMDBa
+Fw0yNTExMTkyMzU5NTlaMGsxCzAJBgNVBAYTAkpQMQ4wDAYDVQQIEwVUb2t5bzEU
+MBIGA1UEBxMLU2V0YWdheWEta3UxHDAaBgNVBAoTE1Jha3V0ZW4gR3JvdXAsIElu
+Yy4xGDAWBgNVBAMMDyoucmFrdXRlbi5jby5qcDCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAMg6C96K7sHihPrTp01bU3i0NNzZJ+dw++s9xsGiVgbAAE1v
+1hNIhCvGFx3MHdoWFB2WD6Ovx/CjFdxyL+dxwsdKM53e2KIgf2ORaVIcwqmtXGy3
+APsptSq4/JJxzf3Wy4Tld5OQeT8qFizys2vJuiU+xuW/+4vZDwab2ZeLk2ydhzj/
+O34CQr7WaKpAtvJsxv557/AqdWMK1AMCGC7hPyYwZofNAIagwEEGK5PYQA7TzWGB
+y3SwfgmR86Q6stUZE5i44Mqb8Md9OXUQrUVIR1q7RnFlJieypB2C7zE1oCFvQfgR
+OGTNenVcXBI7LJh6Yc64uKrkVepz31RiVUpxM90CAwEAAaOCA4AwggN8MB8GA1Ud
+IwQYMBaAFLdrouqoqoSMeeq02g+YssWVdrn0MB0GA1UdDgQWBBS8TWJbW5kRldxH
+9fE0c35aGXP23jApBgNVHREEIjAggg8qLnJha3V0ZW4uY28uanCCDXJha3V0ZW4u
+Y28uanAwPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDov
+L2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hBMjU2MjAyMENBMS00
+LmNybDBAoD6gPIY6aHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExT
+UlNBU0hBMjU2MjAyMENBMS00LmNybDB/BggrBgEFBQcBAQRzMHEwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBJBggrBgEFBQcwAoY9aHR0cDov
+L2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hBMjU2MjAyMENB
+MS0xLmNydDAMBgNVHRMBAf8EAjAAMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcA
+dQAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZKtz+RTAAAEAwBG
+MEQCIDFu+jFU37IR08TZXeglSxA+X7Nu91FUkHPUa2ksadSsAiAcPSbDwmCxCEv+
+VF/JY8crZyv818R4XUCk0xC4mmG+dQB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWe
+uQMv2Q6MLnm4AAABkq3P5EsAAAQDAEcwRQIhAIQirWQkbLKzxkntXKZlpkCDUHHo
+XtGkUNyOvsNjfEkRAiBMCLHnR4S5rkX0soGrcE7fK0hmaIAtHSHD/SySV14XUQB2
+AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABkq3P5FMAAAQDAEcw
+RQIgaEouogLLwFWGvMclDsF4irGQ5XPKvhbJrIljgb/D1aYCIQDRsHztCE+DMuAB
+5+r2NZ6HCFeMJ0e7BhzmX4aN9I/ZITANBgkqhkiG9w0BAQsFAAOCAQEAeRPGZk+z
+Y2vHdjH0w+VUYIYEi5z58okngHn7aEq8LkYlvZAWzf/PowdDttTNu5FqFcop6lTs
+a0txWZBRnUNzbzVvhUIVszq2rz7+a9KIG+dfEItWAjmdC/7ztY9ZsKtiMnUixk6l
+rlAqcGlKrb1dOKBuy2TV5gXnxFqlfs9i0VCe0NeeBCv3S5vGE46xR+VfmDN6J7XQ
+mju84sxM7nOzdtGaLXQNfrSRHopVLfuQAI/Ke2YuyD7j4SBi2MQodvf7FxKi/NSQ
+CHaugpazqQoLOb+FjZeiYRFLIXGjindYi8YPKx/SkIA9ti9Emokqez6s6edwTJjf
+CXofjoMtq3ARNg==
+-----END CERTIFICATE-----
+subject=C=JP, ST=Tokyo, L=Setagaya-ku, O=Rakuten Group, Inc., CN=*.rakuten.co.jp
+issuer=C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4517 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

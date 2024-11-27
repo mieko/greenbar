@@ -1,0 +1,61 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=honeygain.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  9 11:58:17 2024 GMT; NotAfter: Feb  7 12:58:14 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDwzCCA2mgAwIBAgIRALRThaJvYiY/Ef4SofVNEQcwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEwOTExNTgxN1oXDTI1MDIwNzEyNTgxNFowGDEWMBQG
+A1UEAxMNaG9uZXlnYWluLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABLuX
+flAH+aoqS34YsLQDmLidfGxSYLSe9cnldDXbcFj5Cl68WSqzowJKFi8kDXZA7D5p
+6970akhGPrlmMT/N2HSjggJvMIICazAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAww
+CgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUDsB61Z8SLNNDPJ8z
+5y9ysg6S05cwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYB
+BQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS90
+Rk0wJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwPwYDVR0R
+BDgwNoINaG9uZXlnYWluLmNvbYIPKi5ob25leWdhaW4uY29tghQqLmJsb2cuaG9u
+ZXlnYWluLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAn
+hiVodHRwOi8vYy5wa2kuZ29vZy93ZTEvbEl0d0U3RkhPT00uY3JsMIIBBgYKKwYB
+BAHWeQIEAgSB9wSB9ADyAHcAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5M
+DbAAAAGTEQD+zAAABAMASDBGAiEAh/YsfRI+ZkQH9EsYPqNl36jcfSqG1NGlsi0B
+4N1H7HwCIQDFOdrlLbWK1EgyAlyQ1lJCP97xlqHs/sjFPvY9GpTuBwB3AM8RVu7V
+Lnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkxEA/sQAAAQDAEgwRgIhANqU
+PXl/BjSoHTwVXpf5oY1a/3zdVvhKNLZzBJIk6Pv7AiEA0a3bWtOqbfGR8FIe1c0Q
+JlMK1vujAvqtyiX0d6ivmWIwCgYIKoZIzj0EAwIDSAAwRQIhAJbVQWceKn6/rKHO
+jOCydXmQ+vixTROoyNxtobHzRyEGAiABRKpDeZmkZL8rVk9NX7FZjbZpLuOiSypo
+/ArGvz/EtQ==
+-----END CERTIFICATE-----
+subject=CN=honeygain.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2855 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

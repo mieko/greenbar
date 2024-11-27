@@ -1,0 +1,76 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.ahagamecenter.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 19 00:00:00 2024 GMT; NotAfter: Apr 16 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF5TCCBM2gAwIBAgIQDoKthPDTG4oHS/cBeSGq7zANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDMxOTAwMDAwMFoXDTI1MDQxNjIzNTk1OVowHjEc
+MBoGA1UEAwwTKi5haGFnYW1lY2VudGVyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAKUSMjF7QBb5EblgeHtU0yQiXmCloE+N6z6F4sOMqpVJxYlZ
+m876PYCKFqGxdhfUlEDYgpYA7LsdbCl/wJ8ywWWcFmFHp7ilv5PUil9vZGWuV99E
+VeJPKGm0A+3XW6LClzavSZbJLq1k7RZ+Kf2t4Sio6Xu84t9u3snmVAsM6I878NR7
+LNe87wryp68t6Kzl6PotVQ9PJZwoXAwXvcwyU9VFF74p8+avz85dUNuUv/GsmoQr
+301L9Zj4yrHkAGf+/izz/uprYOle0xS9KvzSgMPD2IRaKQU7O7tYqMaidomvwTOi
+ZI985t2gIsixnc7zQwqow0sNcekwj+3hSsM8oDsCAwEAAaOCAv8wggL7MB8GA1Ud
+IwQYMBaAFMAxUs1aUMOCfHRxzsvpnPl664LiMB0GA1UdDgQWBBRwuJyfWb5UbOgM
+xLvEKw8REmgIEzAxBgNVHREEKjAoghMqLmFoYWdhbWVjZW50ZXIuY29tghFhaGFn
+YW1lY2VudGVyLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAu
+oCyGKmh0dHA6Ly9jcmwucjJtMDIuYW1hem9udHJ1c3QuY29tL3IybTAyLmNybDB1
+BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnIybTAyLmFt
+YXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5yMm0wMi5hbWF6
+b250cnVzdC5jb20vcjJtMDIuY2VyMAwGA1UdEwEB/wQCMAAwggF+BgorBgEEAdZ5
+AgQCBIIBbgSCAWoBaAB2AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnf
+AAABjlaY+2EAAAQDAEcwRQIhAMUBwonVbffoTX4RCmvMgNoiw9z+p76vGkGR5JDm
+igeGAiAuG3rab7vcjHQMsHu/GbYCi3c4EsVYxXrolOrPi5pujgB2AH1ZHhLheCp7
+HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABjlaY+uMAAAQDAEcwRQIgef1h+2j7
+oUIXfeA9APilzqj9NTrork3FTE9u290bCPwCIQD2NUFptzpG6gMru7P47RYT+36x
+IDgbPoC22HtCfUQoXgB2AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45Q
+AAABjlaY+vIAAAQDAEcwRQIhAKFguWAND+YBi+ZHzS7dkMdjDQAPjn0LlPuOzUok
+GJsVAiB2F9hI2yShSR02bKqvkCj/zq6oDw9xvhYdmLM8AbUzwjANBgkqhkiG9w0B
+AQsFAAOCAQEAhpP0VtI0EstNNM4PB/tvt8tgqvOvmSs9+Po5aGbghBQkgBeYW49W
+Gln+7CVhSVrcEPZyZQBYm4hgUQv9TbTjdNJuVG12MPL+6Y+if/qZXzOsxkhKWntR
+xeFzvb9TfHNQVx5bXKGBoBBR7kPNB801kCChqKV7QnrdzxTn3FWeJtHCVAPY1Z6T
+lYl3U5+u4d7vtEollMrUPn2Z0cDCB3WzZsG8qINyT62jf3vQX2SVcm8E6fanPwY1
+hO94mfpm6pfc/sJ2wbHExZuyI/xvQ0ymmoEwwf8jEIw6SVxHwWV+ZN+8XeCtE4Cv
+J+v1+syPj/tAl4otH/ri7gJNiESq4ZzlNQ==
+-----END CERTIFICATE-----
+subject=CN=*.ahagamecenter.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5513 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

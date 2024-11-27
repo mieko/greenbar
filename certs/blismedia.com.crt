@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=blismedia.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 16 06:09:46 2024 GMT; NotAfter: Feb 14 07:09:42 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDqzCCA1CgAwIBAgIQdQeAHXRYiUkOz4Q8LfJfgzAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTE2MDYwOTQ2WhcNMjUwMjE0MDcwOTQyWjAYMRYwFAYD
+VQQDEw1ibGlzbWVkaWEuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEV3qt
+oOFyWkdy38rhHYYNlJJoZmeswawJdCVs/gz9TVvzAoOqShTfwfhQCg4KkjgSXcTc
+z4hi7B6GA1I+CWIvIqOCAlcwggJTMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSoPmgoL6MRoMeCNSGp
+FiBTS+nrjDAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEF
+BQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL2RR
+YzAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDApBgNVHREE
+IjAggg1ibGlzbWVkaWEuY29tgg8qLmJsaXNtZWRpYS5jb20wEwYDVR0gBAwwCjAI
+BgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2Ux
+L0t2dTdjZjlfZF80LmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2ABNK3xq1
+mEIJeAxv70x6kaQWtyNJzlhXat+u2qfCq+AiAAABkzPOb8YAAAQDAEcwRQIgC3yi
+Gx2Ql8wlqSHHIHfmgXTL943HDg5uDiKr/KJrAVkCIQCVerTk1dTSZRMVi2f/YuBV
+6dF8O9iurf8VOrbVa9yfiwB2AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fO
+zDsIAAABkzPOby0AAAQDAEcwRQIgHPtWznP62wnwt0ojs72nYlZ8LCxfgHr7eWrY
+RlytJ0sCIQDOav6Dv0u4GbEB3hSkNEhfEXlwzZYtyFlz6abobB/i4jAKBggqhkjO
+PQQDAgNJADBGAiEAw/my4/fVnvV3KSkzyXbTDHh9Mfl0gFt/2agbd6UhHQYCIQDD
+lrbwmGTpuSY/jrLezHUauyGK3ggTrWsszLO9XA6ABA==
+-----END CERTIFICATE-----
+subject=CN=blismedia.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2830 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

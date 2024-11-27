@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=vimeo.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 23 09:29:58 2024 GMT; NotAfter: Feb 21 10:29:55 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDoDCCA0agAwIBAgIRALxEmkYsvXWtE7Ur7EVMAQgwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEyMzA5Mjk1OFoXDTI1MDIyMTEwMjk1NVowFDESMBAG
+A1UEAxMJdmltZW8uY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEX56mbI/C
+6rJwUDjhE6lWzMYEvqA5NGLFn4jMexFuTnA7bYDSflM+E0x8+iAjPerjwHMbQMoI
+Lc2WnDlsqkf9wqOCAlAwggJMMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggr
+BgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBS6Hy2rC3miGTooTQv3jPVo
+M/3sajAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEFBQcB
+AQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL3ZFUTAl
+BggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAhBgNVHREEGjAY
+ggl2aW1lby5jb22CCyoudmltZW8uY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYG
+A1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9MY1Qzck1UOUtw
+TS5jcmwwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwDPEVbu1S58r/OHW9lpLpvp
+GnFnSrAX7KwB0lt3zsw7CAAAAZNYkjvAAAAEAwBIMEYCIQD77ZknRnhF3mlBgqC1
+ZSBDrU31w4HmKcim1X2w7JoKZAIhAKKweN4SOn+b31Zdcoucy3KlVXL4znS8ewiX
+0GwprINiAHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGTWJI7
+zwAABAMARzBFAiBsGGAu+EM5hEPMG06mQp6B84OXROQYd7SxVjfCLL8R4gIhANHy
+znapr9wS16KO0Id37z298f9RlBxOYBsqQexzeiVPMAoGCCqGSM49BAMCA0gAMEUC
+IQDjqrCBaXPbX7LecGfH/15lZ+YvEkFphUkhABkdD/KSQwIgdy/yDQ/hVTEMAeOi
++V7HWNVAEQWEOjTfgo+b6A7Dk2s=
+-----END CERTIFICATE-----
+subject=CN=vimeo.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2819 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

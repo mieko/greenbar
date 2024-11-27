@@ -1,0 +1,94 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=www-fastly.debian.org
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 28 00:57:43 2024 GMT; NotAfter: Jan 26 00:57:42 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFBjCCA+6gAwIBAgISBKdrHLPUiqJhEKMMNapMCRxzMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDI4MDA1NzQzWhcNMjUwMTI2MDA1NzQyWjAgMR4wHAYDVQQD
+ExV3d3ctZmFzdGx5LmRlYmlhbi5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDbWcvoUOz6+9wvEtvV4wlk3CLrjDawvqaBJoS4SFfDkL0Q3bIRemCB
+kOYG9Z0UfdiWrUm2v+D69fhdYen727ofk9s4545QEnvK5DxYmtYM/T+JTEUVuxIa
+ehirGpYMcI9LBtQa6+uRa6NiCr6tUXF9UOXj1sOoEnRTuhFOL+r8A/BCaRa/yRDd
+1BeYzoLsY66Zp7Uy0qJDpeinhWFZbm8+DJmeyBpLAPKX/eUH7aSzTykFn81k0rLd
+/kk/y5HnE1PtmRyDNqLN1Cn996a/hRM3X/LTcsZL2TlWqNfEazdolG8uIenbNrxL
+v1HOmrBHbk6RyS2vsbR4LcoiVoCfKlpXAgMBAAGjggIlMIICITAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFG821YzLgHBfY9yr6B1zhHC918LVMB8GA1UdIwQYMBaAFMXP
+RqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYW
+aHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5p
+LmxlbmNyLm9yZy8wLAYDVR0RBCUwI4IKZGViaWFuLm9yZ4IVd3d3LWZhc3RseS5k
+ZWJpYW4ub3JnMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHYAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGS0NaJ
+AgAABAMARzBFAiA5UhRcT1bjm+/mhvNl7/P+4D13HLPHBg9Sqn5zT81S9QIhAIUy
+lu8OLMtFm88bsloyZYckW4RWA7f4p5bPYwkTfKtnAHYA4JKz/AwdyOdoNh/eYbmW
+TQpSeBmKctZyxLBNpW1vVAQAAAGS0NaJGwAABAMARzBFAiEA4OKsJterp9wSN9Bl
+T6tdGE11jYPUcEQdlinm5N6QduQCIHCUHhNc/FkRVvCNyAp4+FgqBJ0RobuZ7ZEY
+VJU26+qxMA0GCSqGSIb3DQEBCwUAA4IBAQCvuVpml0dQZlbN1BIh/izO74fd5unN
+yBF3Whd7BltNgsRkyqizPVv400CDAe0ydqpyAbaaR2GwnO3+cPnnpUMW1A/7M0gQ
+dRkW3MiUVklvj7rbumTe43ihTlD5v7CEXnqRNnxs3u8kwlnF+w+Pb467AFYJnvO5
+iTEvWKOxMeT/JK1mJTMrEOJAwApdZAhwQltdHPi0pS5nIH836tNYfaJjbmz8jXIa
+Cui7QcUwFBOhcsIDWzJGhS7K3PixlL2biy+r1yGk0rp+PWO8ZOSQCJq30WvkM7CK
+mvyd3MEVVJsiu/NA6HAabW39XbgxkXC5WYT5kLG4nt193XJHGtJ41XQ8
+-----END CERTIFICATE-----
+subject=CN=www-fastly.debian.org
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3129 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 9EBAE60E17755975F124D9816E4BE105CA2F03B40CF2C12B24E7F67F4B3B0470
+    Session-ID-ctx: 
+    Resumption PSK: A783A0E7350671224E1816D1FAB0E4FEF252425109F27AA837062ED937806D72
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - ac 2a 60 04 a4 1d 4a 37-6e 09 3e 8d c5 2e d7 ac   .*`...J7n.>.....
+    0020 - 4a 74 1c 0e f7 a8 64 24-80 30 2a d9 52 fc 0c b3   Jt....d$.0*.R...
+    0030 - 78 19 f0 eb 90 d6 42 a9-a3 4a b9 32 9f e6 f6 f0   x.....B..J.2....
+    0040 - 3b 5d 11 02 f1 ab 8b 2e-41 1c 7c fe b9 b5 11 32   ;]......A.|....2
+    0050 - 8e 89 c6 28 e0 ca 81 1e-ee 01 7b 0e b0 60 c7 1b   ...(......{..`..
+    0060 - c3 39 67 24 58 61 68 ab-93 32 13 14 79 b6 66 cd   .9g$Xah..2..y.f.
+    0070 - 7b 25 ad 4b 69 41 33 5e-34 97 6e ee 15 d8 97 fa   {%.KiA3^4.n.....
+    0080 - 52 39 57 05 a9 03 ed c1-8c 60 c8 56 0c c2 d0 31   R9W......`.V...1
+    0090 - 1e a1 2e 32 c8 ab f7 2e-02 bd a1 98 f8 93 ba 62   ...2...........b
+
+    Start Time: 1732697136
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

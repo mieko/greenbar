@@ -1,0 +1,105 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.utorrent.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  2 17:01:51 2024 GMT; NotAfter: Sep  3 17:01:51 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jun 29 17:06:20 2004 GMT; NotAfter: Jun 29 17:06:20 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGkzCCBXugAwIBAgIJALPEI/6YgILkMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTI0MDgwMjE3MDE1MVoX
+DTI1MDkwMzE3MDE1MVowGTEXMBUGA1UEAwwOKi51dG9ycmVudC5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDBM7bA0F21H75gs6nmS9hyo8ra7pnF
+2FFlz1dqNLBZePJlfLAxn8EhvwduA/7eAxcFasFAKwwTj/5PRAw2Gn+xb9Vv5VIQ
+b9XhqHBx4nMFIUQHi4gpLMQU5fF+gFifrXIEoJD5p74xvpNH0sohq3nT6YeAXWFg
+/39KV5InKq7aaz2h+5Z9IYeIWGz1k4dbpAosNROg4T9BuvczFgTJMdUrDOScF3S+
+w+ikb7ysh23RW0jLkK2pY9560uIqkvN/dJMgqhWpJUh+v8Mx1/6sUI0Tk93kbfxs
+TCY9rysZEACIXiCp5Xp8jHmBNbEoRWnQd+evr4URazBAj5SF1T7AglQZAgMBAAGj
+ggNAMIIDPDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAOBgNVHQ8BAf8EBAMCBaAwOQYDVR0fBDIwMDAuoCygKoYoaHR0cDovL2Ny
+bC5nb2RhZGR5LmNvbS9nZGlnMnMxLTI3MTk1LmNybDBdBgNVHSAEVjBUMEgGC2CG
+SAGG/W0BBxcBMDkwNwYIKwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29k
+YWRkeS5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQIBMHYGCCsGAQUFBwEBBGowaDAk
+BggrBgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRkeS5jb20vMEAGCCsGAQUFBzAC
+hjRodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvZ2Rp
+ZzIuY3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz1/tss/C0LIDOMCcGA1UdEQQg
+MB6CDioudXRvcnJlbnQuY29tggx1dG9ycmVudC5jb20wHQYDVR0OBBYEFOsO/XrZ
+tafpQd33i+tfxbHj6wTZMIIBgAYKKwYBBAHWeQIEAgSCAXAEggFsAWoAdwAS8U40
+vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZEUCoK4AAAEAwBIMEYCIQDa
+YwkDPKPd8jrSCK31xWPt/iBLw89IJaNvhKVBE00VgQIhAKzfiolbBTB9h01UX6Vd
+pbWH/kmQd3aYNbNqQm3DncW/AHcAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/Z
+DowuebgAAAGRFAqDiwAABAMASDBGAiEAjISE4J07/C9zrwDzpv3I1ZfmlarIzJnN
+a73F+soiAsACIQDdBVkFv/NQB1kg39EIGGB1wHNguqMG+H2IrCl3pUMg2QB2AMz7
+D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABkRQKhPIAAAQDAEcwRQIh
+AIODPiOM48hluBUuY6lJe6Pii9C8muL5STiyga2mPbv1AiBoXzQgAkiIJwGrDB0a
+CWW1uKRrkG5YreoPLNJfZFh8yjANBgkqhkiG9w0BAQsFAAOCAQEAmze8E4d3X5/q
+oEx2RS9WWt2AnUxU1TsG3h/PO3bvhvDYBX3kzh/Gj9h6vpyXp2O5Z3UX2tPzIoI1
+xk7IcYtnR2lvYYI6BqQxm4EUAqS6OX5ho14dk1yA0CWU712BNNBmyb/siSYM78LL
+DcxXoKCOWiTN8anzNNdJ0ktjMKZCBC4tMuJilhFw8B9ZLbHvIkpZF20L1/rj21VK
+UsUyrywDNALOJG+523M5v/ghcEK2FBLL27YKQMJ136lA4QfLE+N6I3pu3hJQhW2f
+kQ1zB6pt3LRemyvHUnC1d2Oq6MN63HmZ6TbAquyh06Uotdtq3D8P642mVwuQ54ir
+U+PxdQS2RA==
+-----END CERTIFICATE-----
+subject=CN=*.utorrent.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5787 bytes and written 449 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DA7FEEB063E6955D14A5058FE2C440CE272F4CD19EFD0F5C169AEE71B9BC4DB0
+    Session-ID-ctx: 
+    Master-Key: 7B419B7AA13AB00F57AD00666ED65250D626440E1A65C02A09AB485753B77BE15D9B7E52A8070978D2E2263475238744
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - b5 57 4d d4 08 89 35 50-31 c1 5b d9 6b 3d 20 e8   .WM...5P1.[.k= .
+    0010 - dc 53 28 b0 48 df 67 83-e1 f1 59 55 9b a5 7b 52   .S(.H.g...YU..{R
+    0020 - 6b 02 df 2f 44 be 41 a2-3c 95 59 8b a0 11 15 53   k../D.A.<.Y....S
+    0030 - 9c 43 d7 4e 44 05 fa e0-92 28 08 6c 26 53 60 ef   .C.ND....(.l&S`.
+    0040 - b8 28 b1 f3 50 7a b5 dd-cb 0c 27 57 48 11 63 f7   .(..Pz....'WH.c.
+    0050 - 3b 82 c4 aa 14 20 76 1f-d5 44 9d 17 75 52 94 35   ;.... v..D..uR.5
+    0060 - 25 7b af 74 74 2b 91 ab-aa 77 5c 92 dd 18 b3 16   %{.tt+...w\.....
+    0070 - 62 1b ed af 51 cc 8f f2-b8 02 aa 98 74 ea eb e6   b...Q.......t...
+    0080 - ef ae cc d3 5d 48 21 bb-ff 33 08 71 ab f4 b9 2a   ....]H!..3.q...*
+    0090 - 80 9a 96 36 23 7b 91 0e-fc 22 30 d4 01 78 76 2d   ...6#{..."0..xv-
+    00a0 - 2c 37 a1 4d e4 13 81 6a-80 2b 84 d8 44 60 50 76   ,7.M...j.+..D`Pv
+
+    Start Time: 1732697946
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,80 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.pubnub.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Feb 20 18:27:44 2024 GMT; NotAfter: Feb 20 18:27:44 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jun 29 17:39:16 2004 GMT; NotAfter: Jun 29 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGtDCCBZygAwIBAgIJAKjQJy/hkuQsMA0GCSqGSIb3DQEBCwUAMIHGMQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEl
+MCMGA1UEChMcU3RhcmZpZWxkIFRlY2hub2xvZ2llcywgSW5jLjEzMDEGA1UECxMq
+aHR0cDovL2NlcnRzLnN0YXJmaWVsZHRlY2guY29tL3JlcG9zaXRvcnkvMTQwMgYD
+VQQDEytTdGFyZmllbGQgU2VjdXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcy
+MB4XDTI0MDIyMDE4Mjc0NFoXDTI1MDIyMDE4Mjc0NFowFzEVMBMGA1UEAwwMKi5w
+dWJudWIuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy4f+nmyC
+eL0QQ9fo7fPv8KBPlybBJpMvxwk0YbyymhUUGjOxfNCWdE9oxm7HJkDy0bwczXI9
+yIJNI0tzYSzEv6tN4z2Mvy1j51+a2VJtON9qpHYDDjDlIAC2DZA7l5dhIt8Gwse4
+jWKHXoKyFI/Bqp2DZjFEdgQ8Xbm/8nzTOJK4hKpux0AxFZWH2JwuxXvIc7SalvJK
++D1p9DsaTlAVpdXh0pVNwJwk9DuSZjIHTa9h8+O2yChIbFUtoQ7wadQYgrt+3o02
+4/ZxI88lKf5eJ9/nX9/1PhekuMU6kl6MITCLoe/Xk+rzaiOi8d50U318Psv5KUE/
+tEwIDHsvflbgWQIDAQABo4IDUTCCA00wDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwDgYDVR0PAQH/BAQDAgWgMD0GA1UdHwQ2MDQw
+MqAwoC6GLGh0dHA6Ly9jcmwuc3RhcmZpZWxkdGVjaC5jb20vc2ZpZzJzMS02Nzgu
+Y3JsMGMGA1UdIARcMFowTgYLYIZIAYb9bgEHFwEwPzA9BggrBgEFBQcCARYxaHR0
+cDovL2NlcnRpZmljYXRlcy5zdGFyZmllbGR0ZWNoLmNvbS9yZXBvc2l0b3J5LzAI
+BgZngQwBAgEwgYIGCCsGAQUFBwEBBHYwdDAqBggrBgEFBQcwAYYeaHR0cDovL29j
+c3Auc3RhcmZpZWxkdGVjaC5jb20vMEYGCCsGAQUFBzAChjpodHRwOi8vY2VydGlm
+aWNhdGVzLnN0YXJmaWVsZHRlY2guY29tL3JlcG9zaXRvcnkvc2ZpZzIuY3J0MB8G
+A1UdIwQYMBaAFCVFgWhQJjg9Oy0svs1q2bY9s2ZjMCMGA1UdEQQcMBqCDCoucHVi
+bnViLmNvbYIKcHVibnViLmNvbTAdBgNVHQ4EFgQU9W/inyeqJ95elxCfWx7euuTF
+nU0wggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2AE51oydcmhDDOFts1N8/Uusd
+8OCOG41pwLH6ZLFimjnfAAABjcfGF+EAAAQDAEcwRQIgN5tpeUDOAEzks+W/09e/
+B2bGn3NnX/UcwZqkfh8oGgoCIQCrCcrFcEGA4Bg63TuTKsYj+Bs2+4v6xTWrZF0Q
+pz845wB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABjcfGGPUA
+AAQDAEcwRQIhAMLaTdSRggxkMFsDpnCQqvG2hpJE6TqhuYzkcP1t3dNPAiBSDmvI
+PQ4u8KCAzX0YLf5mQWFoTdx/SojubrgdWHLiogB2AMz7D2qFcQll/pWbU87psnwi
+6YVcDZeNtql+VMD+TA2wAAABjcfGGVUAAAQDAEcwRQIgOs218/x9z+CUAOJOwr/+
+0la2wbgeZUwT0FvZVCJX24wCIQCbCpqBYFJS4DswPpEAazFEy27FN+2VP/YbiMfe
+WosDaTANBgkqhkiG9w0BAQsFAAOCAQEAsRmmMqVKIChuS15yzGlio/HfiZ1FjPaP
+rIdZL+q4wGKYjDUMBt6+aXfibfT2u7yhLXEIshbr59/j46/+FYXvQGOYKkoplztQ
+E29EhzbUljwAYAen/XuLpw9WqHvwbR7cMc7o2pmFbTIjpNRgmXo2V8cMFoD/taEG
+IoQp7MWaVeZ14FTkt1ma78XSohDZORMTm/VdvwFtVrCwBY70m6EnUq2dolQj5YFU
+8uuQmr9MI7zdTSp0fXyfuu4Mfpuj3am0u2D/LMtSG0qN2aksYzKDnUPDnbho8HIu
+UwCzadjdzaBEttEHdMSn5L7SbxrAfjR1vz/HMALsYMcFzoRAXZL6Jw==
+-----END CERTIFICATE-----
+subject=CN=*.pubnub.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5810 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

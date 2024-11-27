@@ -1,0 +1,76 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=New Jersey, L=Piscataway, O=The Institute of Electrical and Electronics Engineers, Inc., CN=*.ieee.org
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 29 14:56:02 2024 GMT; NotAfter: Apr 30 14:56:01 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 18 10:00:00 2009 GMT; NotAfter: Mar 18 10:00:00 2029 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGojCCBYqgAwIBAgIMX2YmrAMEWh7wfzFvMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yNDAzMjkxNDU2MDJaFw0y
+NTA0MzAxNDU2MDFaMIGSMQswCQYDVQQGEwJVUzETMBEGA1UECBMKTmV3IEplcnNl
+eTETMBEGA1UEBxMKUGlzY2F0YXdheTFEMEIGA1UEChM7VGhlIEluc3RpdHV0ZSBv
+ZiBFbGVjdHJpY2FsIGFuZCBFbGVjdHJvbmljcyBFbmdpbmVlcnMsIEluYy4xEzAR
+BgNVBAMMCiouaWVlZS5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDItK/WsOf/lBliHV1TCibhzVYO/crIzChg/xKfvmK1DrgJJjGPn9j86d0t2MOq
+SXqxWVzJb+cl9ffVkGhjQVBes5p7YP74anhnz/hlutpb/cSwsDJhOYAeRPOvhyKp
+DHZmE0i+O0c6ubRq4JD9ZYO5c9ZayoabJK8GdtgsIQ5Fxhjjs+fomana5bQsoH0t
+EVEoZBH/tomhf9jWXUzL9ou8oJYRGOj5rDrpVoRMt7k9s4mjnezuUfmjyzzwZIzS
+g3PGRLExEONloXTMYqC3jrqSmCBQOqODxmRMDPzwb60WkHTdV9rMOPM49z6IRN2H
+WmLPm3iCsv3/XjFOimhx6mYfAgMBAAGjggM3MIIDMzAOBgNVHQ8BAf8EBAMCBaAw
+DAYDVR0TAQH/BAIwADCBjgYIKwYBBQUHAQEEgYEwfzBEBggrBgEFBQcwAoY4aHR0
+cDovL3NlY3VyZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQvZ3Nyc2FvdnNzbGNhMjAx
+OC5jcnQwNwYIKwYBBQUHMAGGK2h0dHA6Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2dz
+cnNhb3Zzc2xjYTIwMTgwVgYDVR0gBE8wTTBBBgkrBgEEAaAyARQwNDAyBggrBgEF
+BQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wCAYG
+Z4EMAQICMEgGA1UdEQRBMD+CCiouaWVlZS5vcmeCFCouc3RhbmRhcmRzLmllZWUu
+b3JnghEqLnZ0b29scy5pZWVlLm9yZ4IIaWVlZS5vcmcwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFPjvf/LNeGeo3m+PJI2I8YcDArPr
+MB0GA1UdDgQWBBS2+0Fl6zZXhLOVpGdeXFDB4QyDxzCCAX8GCisGAQQB1nkCBAIE
+ggFvBIIBawFpAHYA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGO
+irX1BwAABAMARzBFAiAYtIe1k3RM63pMgEBeUPqoHpyzwEexqnx1gSWPMA6Z1QIh
+AKC2S0c5zR9V+JMec9pElCPMl3jYNBnJGpDegny6XrPGAHYAouMK5EXvva2bfjjt
+R2d3U9eCW4SU1yteGyzEuVCkR+cAAAGOirX1AgAABAMARzBFAiEA+iAJV9QxtnA3
+qlsLpMNeTqERtDpAIXrZ5jh7Ck8JWRMCIFZmMQizLx7RucjgGku6gvOUi+ID6cQj
+bqsHupjjMG72AHcATnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGO
+irX2HAAABAMASDBGAiEAoxc3JdVZMfUYzQlRtAntNJqBUnpZ9h7us1NPIl86EXcC
+IQCcyacilYminPH9zDMxANyzuVhPb6fneoe9POHM3pD0FTANBgkqhkiG9w0BAQsF
+AAOCAQEAC+7iR3ipxf1i5PBUhLzn2i+flXZLx4nFK+Dy4JHnYaGRKq5w3AdpENta
+GMTBS8frJK2Etp2DC4+I5KPE6bCq/fTovsV0XtHSVKlmTn4zzbEleZmU4nad+MBx
+ybMz1Y7wP8pnJKgBABWX9yG8HsWJunPPWKgmcdgpDxfle+XFOefb83U7sZiyvfNC
++tea/oPTC6ptfYzQOaIFXrBvP4GpE6WB0BYY9Vyk/s4luq9H5vNSzrtRc0WJlUjU
+/0a6bmc5qd0DFJucVtOJnvktURFqj1acmF/mB4K+tKwWg9eb6MD608clkwGVTRgt
+7W/uybs6XMlYvxR5PAkvp3jZnt8PWQ==
+-----END CERTIFICATE-----
+subject=C=US, ST=New Jersey, L=Piscataway, O=The Institute of Electrical and Electronics Engineers, Inc., CN=*.ieee.org
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4225 bytes and written 383 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

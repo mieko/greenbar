@@ -1,0 +1,82 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=KR, ST=Gyeonggi, O=Samsung Electronics Co., Ltd., CN=*.samsunghealth.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr 16 00:00:00 2024 GMT; NotAfter: May 17 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG8zCCBdugAwIBAgIRAMx64xS4SCMNtVNNZy/xYfswDQYJKoZIhvcNAQELBQAw
+gZUxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE9MDsGA1UE
+AxM0U2VjdGlnbyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0yNDA0MTYwMDAwMDBaFw0yNTA1MTcyMzU5NTlaMGYxCzAJBgNV
+BAYTAktSMREwDwYDVQQIEwhHeWVvbmdnaTEmMCQGA1UEChMdU2Ftc3VuZyBFbGVj
+dHJvbmljcyBDby4sIEx0ZC4xHDAaBgNVBAMMEyouc2Ftc3VuZ2hlYWx0aC5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCS3sSWHWJ49f8IsgIHIUq+
+dXo21yB/AcX0I2Q/bS9rRmIuSisuGrGNRqha8M1fVENHmHCngVHVz5KnH6PhJgSu
+tWMSQX2uQV+oqvNgR+mFrpkVakCgSVi6hjftAL+gIQBKrNScOaV54KV1nEh2lJ2C
+3XRKxvpFUU0RJOf4iFRGX3Dbqmr5+PMns3JlNBIS7qyf+VYpjnHcE2pLatLW8r+Q
+UaQX0S1Yo82A1TGhvIULXLHQ3Yd8w2QIOuQricEmZc0Ph397LH9UOgtGg7D9P/KU
+r/y4ImRAjeoYOIhO2+g4FvJks1LgazjgjnWE3e8GzWfwjm/SqnECb5qEn5w9W1l3
+AgMBAAGjggNqMIIDZjAfBgNVHSMEGDAWgBQX2dYlJ2f5McJJQ9kwNkSMbKlP6zAd
+BgNVHQ4EFgQUY5rcRLZYZzvI2Q6Rv96qJbNNSIswDgYDVR0PAQH/BAQDAgWgMAwG
+A1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEoGA1Ud
+IARDMEEwNQYMKwYBBAGyMQECAQMEMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2Vj
+dGlnby5jb20vQ1BTMAgGBmeBDAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8v
+Y3JsLnNlY3RpZ28uY29tL1NlY3RpZ29SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9u
+U2VjdXJlU2VydmVyQ0EuY3JsMIGKBggrBgEFBQcBAQR+MHwwVQYIKwYBBQUHMAKG
+SWh0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JTQU9yZ2FuaXphdGlvblZh
+bGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9v
+Y3NwLnNlY3RpZ28uY29tMDEGA1UdEQQqMCiCEyouc2Ftc3VuZ2hlYWx0aC5jb22C
+EXNhbXN1bmdoZWFsdGguY29tMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdgDP
+EVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAY7l55ZWAAAEAwBHMEUC
+IQCcru3me4kGznjRfNYwU46bhnTgTmBdp83B7V/NjkFfDAIgcUHXtSGToUNnMLD2
+gpMJnjXDnFaUs28LNTY0tlTdeWUAdQCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14b
+LMS5UKRH5wAAAY7l55YQAAAEAwBGMEQCIHS8OWVpJgBXzoawxzw4NKjotRxR3kcI
+2ZTuvMqy04vaAiBFuA2dWMNFq2qrwXOl1inp9pnkczrcJrU6tQSLRHbZ3AB2AE51
+oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABjuXnlfcAAAQDAEcwRQIh
+AMBgSpc8xEDGzqqPkOzbwdwtXpcI57DWLD805/npAxzBAiAGAYo3dyJ5NZ81nA0j
+OLGICyVMoPpihHucWAdrXBv11jANBgkqhkiG9w0BAQsFAAOCAQEAEaGe6CotSE24
+qGBAV6UjPPkP44CFEINB37CrB+jK3wnRTyOQvQaJ3+rgDDnSJM/mAtNSD5+UJJFl
+Hxy/jGOTPNkncIDMgEHysyAQ/vpI1txrLdYRQqBidLo7syjeZlx+HFEc3GIPDoBN
+mDvjJ13J0JC1tuiOJoHHRq6Jj2x0hxrCK5FOGz/9Yqesf8oEDWoR+d6e9/qhYz38
+9Qtx/DI+k3Ns6RR0s1jMdDE4/lld2eIikM/UfA9yDmIm3N84T0VwadTUEv+sbLfj
+FDYzTb/xlT3EqtulvQK4LF8NsDkqmecK2QlNWilq28u5JAdkXW1Jqi1KPuUcvNWS
+i22imgMZzg==
+-----END CERTIFICATE-----
+subject=C=KR, ST=Gyeonggi, O=Samsung Electronics Co., Ltd., CN=*.samsunghealth.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6398 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

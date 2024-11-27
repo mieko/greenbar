@@ -1,0 +1,76 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CN, ST=Beijing, L=Beijing, O=Kuaishou, OU=R&D, CN=cert.kuaishou.com
+   i:C=CN, ST=Beijing, L=Beijing, O=Kuaishou, OU=R&D, CN=cert.kuaishou.com
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 19 12:21:45 2020 GMT; NotAfter: Jul 16 12:21:45 4758 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDUjCCAjoCAQEwDQYJKoZIhvcNAQELBQAwbjELMAkGA1UEBhMCQ04xEDAOBgNV
+BAgMB0JlaWppbmcxEDAOBgNVBAcMB0JlaWppbmcxETAPBgNVBAoMCEt1YWlzaG91
+MQwwCgYDVQQLDANSJkQxGjAYBgNVBAMMEWNlcnQua3VhaXNob3UuY29tMCAXDTIw
+MDgxOTEyMjE0NVoYDzQ3NTgwNzE2MTIyMTQ1WjBuMQswCQYDVQQGEwJDTjEQMA4G
+A1UECAwHQmVpamluZzEQMA4GA1UEBwwHQmVpamluZzERMA8GA1UECgwIS3VhaXNo
+b3UxDDAKBgNVBAsMA1ImRDEaMBgGA1UEAwwRY2VydC5rdWFpc2hvdS5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDJCQRfj/Ko9LHilpfhszczfY9A
+WeSjZlwjFJfQqm+20L1Aw+HFca4bKHFLoQv5Dlk6Bsla/Amf4TOyKg1pz8mPBPVw
+Wz2DZT2S91+I780XFQK4XPzkrx/qieE1bksBTAd2kxEUF/6LIHALFkfk6U2L5YJt
+yOkQ2fO9u1L08BzYVZMTKvOvdvn9sG+hrE5zRmwceu7hph7JbJtUizy+MYvp2hzf
+uKDI/c2ZRiJydIP6XCD8iQi9z3s1XTuVmzdmkzqYV3PCdlexzz48Ay6PH/9pl9/s
+eQq1ZHsPpPX5vYoBHud1RNkGnBH54V6fKcdiDlPHh44H3aTDV0FHaDLPU5rJAgMB
+AAEwDQYJKoZIhvcNAQELBQADggEBAGkkW9LvH3lsvenfHaS4Blt1zKDzXwYRvonM
+HWjKAj6vRqWeH0GCibnFFrZu+ejvRE1Sbj86zX2ZkVy4CIQoG3RJXwqEmnIR29b2
+VFHeCJMCF4TzD+rYLhkeNPp+gZZc1ZPz3x33vMaot4N4TE7hOQirQ/MyYnDdid7P
+OQ9d61QxtaX4+w3uu9eYzQHU1p7rJv/tS2u+nk4Rk/9FW1evFUdv1j64fAnzQTCA
+jwdrmXuicG+Q2pBDObmY2LFI2LZv7HHxyZwkgZRIOpjIhd/gHnqgCNvvYUGNZNDB
+l/ZSkTPnrsTB0X3k8Gj/Yuz6wcOdp9qVhjNyoh57e3G5D72Wc1s=
+-----END CERTIFICATE-----
+subject=C=CN, ST=Beijing, L=Beijing, O=Kuaishou, OU=R&D, CN=cert.kuaishou.com
+issuer=C=CN, ST=Beijing, L=Beijing, O=Kuaishou, OU=R&D, CN=cert.kuaishou.com
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 1515 bytes and written 413 bytes
+Verification error: self-signed certificate
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: DECF132ECD5445870DEAE5A46A47BCE6076A489E5BC4AF29A4BB608226457F0D
+    Session-ID-ctx: 
+    Master-Key: 9788FB47D6B982DFC80D447522731BB41E751AAD83BEB3D9C1ABDDF3A555057F107FBB40E40CDD5B33720552106852F9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 21600 (seconds)
+    TLS session ticket:
+    0000 - 97 34 b1 30 2f 1c 63 f3-d6 ee 68 4e 31 25 85 f9   .4.0/.c...hN1%..
+    0010 - 28 b3 42 90 72 e0 9d 06-24 95 01 0e 04 82 f7 a5   (.B.r...$.......
+    0020 - 57 e1 30 07 61 75 9a b1-97 0a 5c 0b 32 b3 cc af   W.0.au....\.2...
+    0030 - 84 78 4c c0 98 20 57 53-9f d8 dd 79 92 c5 29 b5   .xL.. WS...y..).
+    0040 - 38 3b d5 b4 da 6d 32 d4-86 e7 a1 00 08 f8 76 80   8;...m2.......v.
+    0050 - e9 83 d1 73 30 d0 07 52-e5 4e dd ee 61 db 03 cf   ...s0..R.N..a...
+    0060 - 0f 9c 34 65 62 eb 9f 76-b4 e3 22 be 77 c4 30 a8   ..4eb..v..".w.0.
+    0070 - 1a ae af fb 48 df 11 57-1b 85 d3 fe 21 47 a3 92   ....H..W....!G..
+    0080 - b7 4b af af 23 d8 69 f7-74 69 24 db 2c bc f1 ca   .K..#.i.ti$.,...
+    0090 - 4c 15 77 6b a2 f8 c3 59-28 fa a2 87 e4 fb cb 94   L.wk...Y(.......
+    00a0 - ad 8b 67 9e b5 42 ea 0d-0b 55 f4 34 39 2a 62 9d   ..g..B...U.49*b.
+    00b0 - 6a 02 f8 68 1e cf 21 ec-4a ca ba e8 2d cc 6c 4d   j..h..!.J...-.lM
+
+    Start Time: 1732698010
+    Timeout   : 7200 (sec)
+    Verify return code: 18 (self-signed certificate)
+    Extended master secret: yes
+---

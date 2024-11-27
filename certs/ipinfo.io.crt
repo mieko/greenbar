@@ -1,0 +1,67 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=ipinfo.io
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 13:08:41 2024 GMT; NotAfter: Feb 13 13:08:40 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFqzCCBJOgAwIBAgISBA/iwuIoIz+9GN1J8dfISrdOMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTE1MTMwODQxWhcNMjUwMjEzMTMwODQwWjAUMRIwEAYDVQQD
+EwlpcGluZm8uaW8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDnBq+4
+aNAyepzPy2QO9u7NmPF8ymoy1wKKkF1u782qJP88vCXxHRBiIs6Z7Dl7pZ7AjGxL
+f1VhzpK+6eSTFnXerDOr+uXvbAiRfqn6G2wmTZisXlBwbri1EzOd1F40aJM7BlEp
+CaaK9RbdByaRRLrVpVLmmgoUw3GJF/hdalCrJam/OZ+r1OWLMHiDSgPEorvwmeZm
+7xFA428mvhd1xWODi9lyUBVu5lNTRtb9TYoFPeRH5gwQxv/Lrfk0BqmmIpUhL6gA
+U+LE3rb8/JZ9YrWLPojcNhbwXbueR5Y+jVJTss+LVkjdNZ6ziJbXZ6wCyg0f44cf
+AgoJjc5hh75dJSaNAgMBAAGjggLWMIIC0jAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FJZ7EIxDhUD1NCUnlUxyTMJnWIg7MB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2w
+XpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5v
+LmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8w
+gdsGA1UdEQSB0zCB0IIMKi5jb21wYW55LmlvggkqLmhvc3QuaW+CDCouaXBpbmZv
+LmRldoILKi5pcGluZm8uaW+CDCouaXBpbmZvLm5ldIIMKi5pcGluZm8ub3Jngg4q
+LmlwaW5mb2lvLmNvbYIOKi51c2VyYWdlbnQuaW+CCmNvbXBhbnkuaW+CB2hvc3Qu
+aW+CCmlwaW5mby5kZXaCCWlwaW5mby5pb4IKaXBpbmZvLm5ldIIKaXBpbmZvLm9y
+Z4IMaXBpbmZvaW8uY29tggx1c2VyYWdlbnQuaW8wEwYDVR0gBAwwCjAIBgZngQwB
+AgEwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwDgkrP8DB3I52g2H95huZZNClJ4
+GYpy1nLEsE2lbW9UBAAAAZMwJjn2AAAEAwBIMEYCIQDayvQlZ74LsHdnYmPegezl
+sszPPRksN0o4egKTPLYxCAIhAIRfoAOkG3gvLU3OUv+eV8xCzn6EIMexHewVDpoY
+e+m+AHYAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGTMCZDDgAA
+BAMARzBFAiEAuN+MmcGUtf3pLD9qouaeagaxz6SIdILPs7+U9F26WRYCIG4flpcS
+SiQrPB0K0kFKo9rYt6s7ZE5qsj4UdRSsNKnDMA0GCSqGSIb3DQEBCwUAA4IBAQAk
+G09BvcxlCJinsutQMPBw3CDS9Ln77M7V2xoP7K8H8FeMzUtNLGxWmSKENsAvz+d0
+U1sl4I+dhn53NSiriGwP5qIzPqHbgP+3HmpxEX/YSRIG0P5DQbMaRXEXd6Bph0C5
+HRbjFhOoVhEiWVF+qs1+E8bM84jBX7lK52wYJd0mdGwZ5o8nMTg+MEqG0U+nUldf
+9da+JVrL91C9KYRToC1v111aV6Qsx9e4CTUpxG5BugDxtvXdOFk6ZmZjmX60ylc5
+y6wF3DNCAgkPs++wT8C0ET6wL18GwhnX9HfIFerDVGHiKjRYkpokXGcijBUg+Dhx
+B6XxlcmEvHqi2Zy4WGQb
+-----END CERTIFICATE-----
+subject=CN=ipinfo.io
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3240 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

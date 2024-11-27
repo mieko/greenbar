@@ -1,0 +1,93 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=RU, ST=Moscow, L=Moscow, O=Mt-Technologies LLC, CN=*.adhigh.net
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul  4 14:56:46 2024 GMT; NotAfter: Aug  5 14:56:45 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 18 10:00:00 2009 GMT; NotAfter: Mar 18 10:00:00 2029 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHxzCCBq+gAwIBAgIMTXWlmuLBKpyJxoaZMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yNDA3MDQxNDU2NDZaFw0y
+NTA4MDUxNDU2NDVaMGQxCzAJBgNVBAYTAlJVMQ8wDQYDVQQIEwZNb3Njb3cxDzAN
+BgNVBAcTBk1vc2NvdzEcMBoGA1UEChMTTXQtVGVjaG5vbG9naWVzIExMQzEVMBMG
+A1UEAwwMKi5hZGhpZ2gubmV0MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKC
+AgEAuiYvoEvyMF0YnZBgw9MrxlJWbTepv/8vAdgHO+QyD0wCWBQztJgR2Qj3hpSV
+EJH7cKTyEVtHME2AJc/MkYBAkdOjys3rOIqXnuaEAnj6t5J2C5xAFMUTKJeDCjXv
+YOq4S3AYdkIWD3Jgtj4oVdMF4c1WOroTNU8HmsWK8pfm4am9mGs9nI0SE7bRs6sI
+EIOPEUfPVPpYLNHGRUFJXx/C0PPIsdRMqo6gGPXYzHQVb93w5ks1Bl56VkGBlnek
+ZZznj2+xHS4lrIeZ3BdrlLFQ08M3CmAt396VTyiAyGHfuarrNtzDPIFdTo3RFqWY
+SXHDgYM+6v106vunD6m7cM1SpPfcsjRfr/lRBo5H53jicJdQrTK2o6JyERTg02Lq
+qm9+ta8TAj9EG7fPZD8xuX5VntE1EFVFXNLWjpXEljfuzpuKKDxiil7IZKPlZQeQ
+zrIboIMEmsTuvBqdQcoHZsaGDQrJ++mIgevMJPFIi3/n0FrZyoM4ajWpA7l42lXG
+2u8xNg9yV74kySX65R3FWoyG48b9VNNv0Sp7UaufgyST9UoU6oQE3LWmhGUUvuyw
+2HJURWYTkaNP/Q4jneYaEH1MT1YwTgG2QOFQHX+b+7lb2dahRL7Mvu7zYRp1Onk7
+zpYGQik/R9DWerG5PjN5jLAHE7bxovouY3MIs+7qQ5YE6scCAwEAAaOCA4swggOH
+MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMIGOBggrBgEFBQcBAQSBgTB/
+MEQGCCsGAQUFBzAChjhodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2Vy
+dC9nc3JzYW92c3NsY2EyMDE4LmNydDA3BggrBgEFBQcwAYYraHR0cDovL29jc3Au
+Z2xvYmFsc2lnbi5jb20vZ3Nyc2FvdnNzbGNhMjAxODBWBgNVHSAETzBNMEEGCSsG
+AQQBoDIBFDA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5nbG9iYWxzaWduLmNv
+bS9yZXBvc2l0b3J5LzAIBgZngQwBAgIwPwYDVR0fBDgwNjA0oDKgMIYuaHR0cDov
+L2NybC5nbG9iYWxzaWduLmNvbS9nc3JzYW92c3NsY2EyMDE4LmNybDBdBgNVHREE
+VjBUggwqLmFkaGlnaC5uZXSCF2F1dG9kaXNjb3Zlci5hZGhpZ2gubmV0gg9tYWls
+LmFkaGlnaC5uZXSCDm93YS5hZGhpZ2gubmV0ggphZGhpZ2gubmV0MB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBT473/yzXhnqN5vjySN
+iPGHAwKz6zAdBgNVHQ4EFgQUXrgnt3p5xYaj2yF3h85exjkzpKAwggF9BgorBgEE
+AdZ5AgQCBIIBbQSCAWkBZwB1AK8YGijWjKPgqYpMnGerCfi7vCK6rryxOKOhndP5
+tgMNAAABkH4/flMAAAQDAEYwRAIgRF2s7WdWA0Z71zkQ5PJ++Blv/7WVm8wxwa/g
+u4E7ExMCIHN+ezNC7m1m/ArI925pMYih8h6fv9akG1j/yKBXb7wuAHcAEvFONL1T
+ckyEBhnDjz96E/jntWKHiJxtMAWE6+WGJjoAAAGQfj9+MAAABAMASDBGAiEA6HCg
+HmvVOQ4lNGfJrSg3CxPOcjMvVepMLxbM482rx1sCIQDqkryx5YHxC7bBHvu3oSxZ
+jpGihUXQUg/urZ9fCeBCygB1AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0e
+N45QAAABkH4/flkAAAQDAEYwRAIgaVlTm4/q8tQr5VfpcMaHlfeFTr0qNVZ/0h2E
+gtIbMxcCIF5T6cONtCFYwjkCOMs/rYhdW5Flx28oiEzyQ0LeEqtpMA0GCSqGSIb3
+DQEBCwUAA4IBAQAkeKETkxJ+/Rd+gUeSNeCqHIxEB8e2A3sAWLX73qOX1BF72Shz
+b/dJmBGnaw3GwLTilkUOPcRawn93O0lcrYIY8RfngNxm3DMS1wVaoCGTHw9pTF6z
+d+MS/RA27EyF8NAg8ZY53WzXvUtvBTMS/jK9aTY3ycoD62+U04+KitC0ntmSjR9W
+poJSOrUKNpo6xHMrWpZt/vrChm5XixP2lvZfkT3YeFNbkpWGmg74pRKUA7aiqnRj
+emepi9DgYnPI2cKFABQhw2UQQEGiChv4n7Eg6cjaDRsMRycDW+5V5UcCUgYwQSB9
+XQiuRPKrhi5UFRqITiWwweR94B2qK7wDn97B
+-----END CERTIFICATE-----
+subject=C=RU, ST=Moscow, L=Moscow, O=Mt-Technologies LLC, CN=*.adhigh.net
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4741 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B7F3ED03F9E1E9C2441982903B4420504269900C934D1AF93F6B91F8F06240A9
+    Session-ID-ctx: 
+    Master-Key: C445A9FC3FBB203DEE4B5B59D390AFBB76E754D5D9602A068B3395617559B9B43BB9732B03788522DEE6C583F546229A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732696880
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,101 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.adswizz.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  1 00:00:00 2024 GMT; NotAfter: Nov  1 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGNDCCBRygAwIBAgIRAKGyxMFJ0MvW8IcgnydOhf4wDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yNDEwMDEwMDAwMDBaFw0yNTExMDEyMzU5NTlaMBgxFjAUBgNVBAMMDSou
+YWRzd2l6ei5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDBXF1x
+5R8YyPZYtM5VKyCaoACMzulnv8cWOW7bukLZ7BII+aNRJjTqRtGcuFP/zn0njL2s
+jMuaU3ETXLXg1ZYu/gh5x7I/D5OSuB3xODbT2pz88kz5BXYGCmqLUocBIG0pbX4W
+2pAc/LV71kfuODQoARJKl2sJ97pRlzmbsF/XVhdT3JUybv0Kb3V2Y/etXkMpczQ8
+k6pqjYJuwPfkKbPmlr961ZA4Lo4HCpSkRK4jNSEpVTy0k7Kks4fJ1qYPByj5L0lB
+XSzQJmSys74qu3y+IiyxUf3Gl2DwhtVWU7SZUKuzLL/01lEE/qaDFhJFlgkQDCjZ
+S/gV5jt873F34oihAgMBAAGjggL/MIIC+zAfBgNVHSMEGDAWgBSNjF7EVK2K4Xfp
+m/mbBeG4AY1h4TAdBgNVHQ4EFgQU3FMzhzw0nywL6/FJAweJbRRBnqcwDgYDVR0P
+AQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEFBQcCARYX
+aHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEFBQcBAQR4
+MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JT
+QURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGG
+F2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMCUGA1UdEQQeMByCDSouYWRzd2l6ei5j
+b22CC2Fkc3dpenouY29tMIIBgQYKKwYBBAHWeQIEAgSCAXEEggFtAWsAdwDd3Mo0
+ldfhFgXnlTL6x5/4PRxQ39sAOhQSdgosrLvIKgAAAZJHFAXKAAAEAwBIMEYCIQD+
+2czoRqx6WE0bhI2/PJKPbxOQcuj5j3cuT+MK3sSmiQIhAJwN9UooW4t8brasRCEg
+PeZTbAyJLcsmEOo72WLFO2HpAHcAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5U
+wP5MDbAAAAGSRxQFjQAABAMASDBGAiEAoegxTanH3QAybQOEHNotjD6gV9a6oQkg
+7fwhPhLguGICIQD9I8VI3qCjDNwt5ovab2wQt30576LO7RHGk0GgS6sYWwB3ABLx
+TjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABkkcUBWkAAAQDAEgwRgIh
+APXs4P24vxn1WzIre+mZtwqQ1D/cnVXVX4hsTpT2rwQBAiEA7cyGdHxwL2xzq69l
+E568jHh22cSxG7HPctd2k3sfHdkwDQYJKoZIhvcNAQELBQADggEBAI6wKX7BgQby
+jhVO4A4yTXM1L5rhWfGzP7VuhZNmeRLwBv5RWiyQOhYOuPdyJifhMGgvYUxZz2/e
+zavUNVm8x99eO8HLpcNTTF5RZjDOJUcObUbUA2T3YcKUa56W3gXiMsgT+A73YgnJ
+5OiGTlPvCsiFtBaFBvHQOFT+3PU4+lqDh4ILoAjcb5dL1+airtTxvHfEHKjAi5L1
+Nqy+L61ZxVGhAYIdaR2UPkwcO2O5EX5hC6vBsNGbwXQvIDeBLrQnZS3Wmbla4p3j
+ZFkYxmgMZANe2YHlCi/sP/6fAiEtT0AglojIjzf0IxtnRAlLzlqGcobdqj16IJZH
+tTjP6gt3TBA=
+-----END CERTIFICATE-----
+subject=CN=*.adswizz.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5276 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 214CB5C252E59B0C7FF0CF75D8297341AF85A113F6D8F2526C626C91C28B02FE
+    Session-ID-ctx: 
+    Master-Key: 9345549E5B265D09234301F75634B9375815713541629FD13E8E2D3C180236419520ACCA6C0E5191876DC06E8B95A2D2
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 1800 (seconds)
+    TLS session ticket:
+    0000 - c1 f9 39 0d 42 09 6a ae-8a f7 24 9c ee e7 02 db   ..9.B.j...$.....
+    0010 - 65 7e 50 28 94 38 a1 2f-02 f6 89 ea 6d ac 59 ce   e~P(.8./....m.Y.
+    0020 - f7 bf 64 d8 9e 54 73 78-1c bc dd 9c ef fb 0c bb   ..d..Tsx........
+    0030 - 02 8d 59 59 f0 f0 b6 d8-f2 1a ff cb 5c 5a 86 f6   ..YY........\Z..
+    0040 - ec 8a 10 ea 18 8b 52 21-64 83 19 35 e7 ac 82 ff   ......R!d..5....
+    0050 - 28 12 6b 76 24 be a8 d2-cc 0d 5a 8e ea 94 72 d4   (.kv$.....Z...r.
+    0060 - 15 0b 10 77 fe c0 fa ab-c4 20 29 80 b3 17 a1 6c   ...w..... )....l
+    0070 - fb bb 86 cb a5 66 f9 14-8c ed d5 59 d1 46 19 66   .....f.....Y.F.f
+    0080 - 35 74 2e cf 1d a9 c8 e5-2d b0 03 6a e9 21 a6 98   5t......-..j.!..
+    0090 - 24 ff 0d fe fb d6 9a 77-87 51 25 07 b1 4c a3 41   $......w.Q%..L.A
+    00a0 - 2c 96 20 3b e4 55 6f ee-07 77 69 e6 8b 94 ed 89   ,. ;.Uo..wi.....
+    00b0 - 38 e4 61 e6 e5 9a 92 17-98 49 73 0d ad ba 94 d0   8.a......Is.....
+    00c0 - 59 35 09 4e 43 e6 4b f6-2d d0 82 f3 ab 27 19 f5   Y5.NC.K.-....'..
+
+    Start Time: 1732696892
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

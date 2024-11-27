@@ -1,0 +1,105 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=DE, ST=Berlin, L=Berlin, O=Adjust GmbH, CN=*.adjust.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 11 00:00:00 2024 GMT; NotAfter: Apr  2 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
++Ohf5kf597EURv4e/fUcreEwSvLaKGSFVOo=
+-----END CERTIFICATE-----
+subject=C=DE, ST=Berlin, L=Berlin, O=Adjust GmbH, CN=*.adjust.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4760 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: A330A4D860C370C5765CD9C16C0F793052D74665D0636B2D272B795EE00B3B24
+    Session-ID-ctx: 
+    Resumption PSK: 751D2DFAC528AE2AD8276912D45C0E7B649B67789DF00FA9B1E859C9DAAF1C4A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - ed d6 90 58 05 37 a6 a5-20 1f 0c b6 df 3a 98 e3   ...X.7.. ....:..
+    0010 - b4 de 88 cc dd 94 dc 76-00 0d d0 41 11 18 87 e3   .......v...A....
+    0020 - a1 72 e8 23 35 b9 88 10-f7 27 d4 92 56 c8 b9 fa   .r.#5....'..V...
+    0030 - b1 af 4b 37 bb 2b 11 d1-b4 d4 a5 d4 85 9a 88 04   ..K7.+..........
+    0040 - 03 c5 92 a2 73 5a 88 e1-c2 b8 cb f0 e4 04 e8 8c   ....sZ..........
+    0050 - 66 60 02 7a 28 f5 24 b5-91 d5 f8 57 08 4e 1d 98   f`.z(.$....W.N..
+    0060 - 06 5b 27 b4 08 d3 15 af-8f                        .['......
+
+    Start Time: 1732696883
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

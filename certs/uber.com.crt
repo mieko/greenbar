@@ -1,0 +1,73 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Uber Technologies, Inc., CN=*.uber.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 10 00:00:00 2024 GMT; NotAfter: Jun  9 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGwTCCBamgAwIBAgIQBo9/3xIcAioM8DoRrUmYVTANBgkqhkiG9w0BAQsFADBP
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMSkwJwYDVQQDEyBE
+aWdpQ2VydCBUTFMgUlNBIFNIQTI1NiAyMDIwIENBMTAeFw0yNDA2MTAwMDAwMDBa
+Fw0yNTA2MDkyMzU5NTlaMHExCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9y
+bmlhMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2NvMSAwHgYDVQQKExdVYmVyIFRlY2hu
+b2xvZ2llcywgSW5jLjETMBEGA1UEAwwKKi51YmVyLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMMpRTRvbSgOrW9vHSWieNsQwV6VoNDOz9Guk727
+IbOy0+XjOCDnrZs5AZZIZy9zBVLipI/EWl+I1XokERoqseEm+EJEnPvEYULoOIj9
+PATn5azROyLoEHyRbLI3tHw6C8JCefbPGnvp0eLtsRuleR5fE7I5LaEH6eQfH9TY
+NpcTXIoDPUwFyXFUpda+A+mkgRSkHSnaB3hJiJr5Zw4f8Sw2RqRQsfew0Cbgnhm2
+nudbrASpq87qbKw6bshslNqABMcYwUa41Ks1wusL3VCsDQH53h2VahvwcV/fnthm
+/aKlDVBQpzeLdytq8Ch4WVO5uV1RlIE1a0Oj05Q/NPHTDLkCAwEAAaOCA3UwggNx
+MB8GA1UdIwQYMBaAFLdrouqoqoSMeeq02g+YssWVdrn0MB0GA1UdDgQWBBRm1gjE
+4PlDEh9h8EK11ZXQpjHZIzAfBgNVHREEGDAWggoqLnViZXIuY29tggh1YmVyLmNv
+bTA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3
+LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3Js
+My5kaWdpY2VydC5jb20vRGlnaUNlcnRUTFNSU0FTSEEyNTYyMDIwQ0ExLTQuY3Js
+MECgPqA8hjpodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRUTFNSU0FT
+SEEyNTYyMDIwQ0ExLTQuY3JsMH8GCCsGAQUFBwEBBHMwcTAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEkGCCsGAQUFBzAChj1odHRwOi8vY2Fj
+ZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRUTFNSU0FTSEEyNTYyMDIwQ0ExLTEu
+Y3J0MAwGA1UdEwEB/wQCMAAwggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB1AE51
+oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABkAOnfIYAAAQDAEYwRAIg
+bV5RB3bN2FAJ/vBC+J2WfKmXM+zeVRIamCTGKNEbV6UCIGBq/NH4fKlXhUPZSqsM
+8Czd0oNNyJ5EmgdTaTWjRwRvAHYAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/Z
+DowuebgAAAGQA6d8uAAABAMARzBFAiBiDXn4G7XUTFbr3xNmTJ7W9cooN1kSbJos
+r8HrkoCYWAIhAL2zKjLGFVn3k3n3TqhisoYAC7U1DUTjDrr2BzQDdNQdAHUA5tIx
+Y0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGQA6d8ygAABAMARjBEAiBd
+biac/FtPTYM7vecJLeurkjAlqXT2lpASi5fkzljYuwIgCvGD68BclZCZZ4sddGNb
+NvMrHajiJStAW9mWn0/tPlYwDQYJKoZIhvcNAQELBQADggEBAGp/lu9/bs12qdYO
+FP2B1vnjbsSHVIvER2vRa+fn2ifs2Btf23AykgRFlMYFfPd4p8UyY36EKOrWeCtx
+WzGiWrkxuUdtnynLeYfTwRbtpr88q90ob/ayLMNErMnzy6UyY9mTm29To5wbjaVC
+KPfFwN1WetGtENnKUBMCb2dkDZYNe32mg09RWN3W5RwdrPpb1dNJ42+T+BpTfIc3
+QD+6OcAZnavwvioVQdx6wMwjl52cziHLc9S2WxA/8nq7u009TRRdNj3xBGLrxG+g
+CLtM/Zs/TA+h0AuzhmeoOwhw7D3lTMVoqMOGfHdJ7i4hxni0J2PpGSX97NDUIRke
+EQmuWGI=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Uber Technologies, Inc., CN=*.uber.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3446 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

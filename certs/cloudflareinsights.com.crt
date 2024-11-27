@@ -1,0 +1,61 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=cloudflareinsights.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  1 08:16:38 2024 GMT; NotAfter: Jan 30 08:16:37 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDxDCCA2ugAwIBAgIQeokVoNGSkq4RtMV3sTYWETAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTAxMDgxNjM4WhcNMjUwMTMwMDgxNjM3WjAhMR8wHQYD
+VQQDExZjbG91ZGZsYXJlaW5zaWdodHMuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0D
+AQcDQgAEkURUf6ICP4A4UHUhjOJYzQzmkl4MTZWMvcsm0FwLw81R8kZ9jfQSVrtq
+tSkz9Nd++wV27s3Pj83xEA8O1PQyyaOCAmkwggJlMA4GA1UdDwEB/wQEAwIHgDAT
+BgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBS8GrmP
+haDqjKgxjuNXmlYpqJ5UDTAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5
+ODBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29n
+L3Mvd2UxL2VvazAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNy
+dDA7BgNVHREENDAyghZjbG91ZGZsYXJlaW5zaWdodHMuY29tghgqLmNsb3VkZmxh
+cmVpbnNpZ2h0cy5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAr
+oCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL0JNVkdfWEwwbF9NLmNybDCCAQQG
+CisGAQQB1nkCBAIEgfUEgfIA8AB2AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHS
+W3fOzDsIAAABkucDML8AAAQDAEcwRQIgBrbFdYSwGsVZHWeTrFVJg0wbS+6pxTAi
+LkmxJdKhKHYCIQCAGvc3bFLtVsdGHyLjReW/G2/mH84iBTw20XgFL9QW8gB2AOCS
+s/wMHcjnaDYf3mG5lk0KUngZinLWcsSwTaVtb1QEAAABkucDMKUAAAQDAEcwRQIg
+cDetxVmWQgDbE1DQneJiug3Y72hK7ybMXlkxuY98p/QCIQCxVtNGfwm8M1XNJD0p
+B68Lazej7rnX/YaVa0qKF1F1VjAKBggqhkjOPQQDAgNHADBEAiBD7JQdv8bAI07e
+xTiUFtapTwk93fmRZWP9hURZWlksxwIgO8Xppn1CAUbm0SQIiKh6roOt51EWNjko
+XEiAOSdbNZY=
+-----END CERTIFICATE-----
+subject=CN=cloudflareinsights.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2857 bytes and written 413 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

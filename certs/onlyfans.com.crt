@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Cloudflare, Inc., CN=onlyfans.com
+   i:C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Aug  7 00:00:00 2024 GMT; NotAfter: Dec 31 23:59:59 2024 GMT
+ 1 s:C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+   i:C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 27 12:48:08 2020 GMT; NotAfter: Dec 31 23:59:59 2024 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFCTCCBK6gAwIBAgIQCPo4fh7sagdTUAoNPEz0fjAKBggqhkjOPQQDAjBKMQsw
+CQYDVQQGEwJVUzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEgMB4GA1UEAxMX
+Q2xvdWRmbGFyZSBJbmMgRUNDIENBLTMwHhcNMjQwODA3MDAwMDAwWhcNMjQxMjMx
+MjM1OTU5WjBsMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQG
+A1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEV
+MBMGA1UEAxMMb25seWZhbnMuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE
+u48roV5UsrFllUEPGuzoMAfu56G61CPNZvxwAXCK+CqpzG458Pkuj1LlPtI2Cgx1
+HdeE639JAjZG2psPGrX6vaOCA1IwggNOMB8GA1UdIwQYMBaAFKXON+rrsHUOlGeI
+tEX62SQQh5YfMB0GA1UdDgQWBBQ3HbBog2KxgKP+k5VxTNMgJfnDADAXBgNVHREE
+EDAOggxvbmx5ZmFucy5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEF
+BQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwID
+iDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwewYDVR0fBHQwcjA3oDWg
+M4YxaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0Nsb3VkZmxhcmVJbmNFQ0NDQS0z
+LmNybDA3oDWgM4YxaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0Nsb3VkZmxhcmVJ
+bmNFQ0NDQS0zLmNybDB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBABggrBgEFBQcwAoY0aHR0cDovL2NhY2VydHMu
+ZGlnaWNlcnQuY29tL0Nsb3VkZmxhcmVJbmNFQ0NDQS0zLmNydDAMBgNVHRMBAf8E
+AjAAMIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkAdQDuzdBk1dsazsVct520zROi
+ModGfLzs3sNRSFlGcR+1mwAAAZErObWcAAAEAwBGMEQCICGdaCYRKjVbzIOkFDyC
+UhXa+Mp8L1hKHcZ/ai1AR1dUAiBu75JbFiiFHigWV3Pbutto3oTxWkSwYlIjmdKt
+WHLnuwB3ANq2v2s/tbYin5vCu1xr6HCRcWy7UYSFNL2kPTBI1/urAAABkSs5tT8A
+AAQDAEgwRgIhALacUcyuYln4f0tWOt9S+Q1bJzf/I1AYuS3KoKnCU48gAiEA/rVj
+7aVK75zNmtkDtj8nlkok+rii3EgKmW0gLM8DwhcAdwA/F0tP1yJHWJQdZRyEvg0S
+7ZA3fx+FauvBvyiF7PhkbgAAAZErObXTAAAEAwBIMEYCIQCFMJ5qz2oXSRReqSBH
+5mDBFuKFq5MPx8OsfDTAv5LMTgIhALujGfSmJj7ZuCfuAEPiZRQzUcPi8rY79BNo
+un6LN5IoMAoGCCqGSM49BAMCA0kAMEYCIQCmC3vm6C2spUN57sV6tLQerEr1N+LQ
+nWwjfJsjEXRYUwIhAJdVuh3FmPgdswu3/DmcLFsSD1Cj6zvjmmIN8rzQWd2f
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Cloudflare, Inc., CN=onlyfans.com
+issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2583 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

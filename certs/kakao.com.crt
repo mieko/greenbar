@@ -1,0 +1,85 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=KR, ST=Jeju-do, L=Jeju-si, O=Kakao Corp., CN=*.kakao.com
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte TLS RSA CA G1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2024 GMT; NotAfter: Sep 29 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte TLS RSA CA G1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  2 12:24:25 2017 GMT; NotAfter: Nov  2 12:24:25 2027 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=C=KR, ST=Jeju-do, L=Jeju-si, O=Kakao Corp., CN=*.kakao.com
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte TLS RSA CA G1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4201 bytes and written 413 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 964EED4C315D2855083B48E155F36D9F08D5B8FD5F679FD4777039E788E98887
+    Session-ID-ctx: 
+    Master-Key: 38A522E4902FF3F99C5BA22D3D6EEEE0149F1965030705128E8FB138002E199252B304345344EE6C5FC5B288F4E842CF
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697401
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

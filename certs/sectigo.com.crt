@@ -1,0 +1,111 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=GB, ST=Manchester, O=Sectigo Limited, CN=sectigo.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 20 00:00:00 2024 GMT; NotAfter: Jan 18 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHojCCBoqgAwIBAgIRAIT5qHCKW/ktiMya86l1z+QwDQYJKoZIhvcNAQELBQAw
+gZUxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE9MDsGA1UE
+AxM0U2VjdGlnbyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0yNDEwMjAwMDAwMDBaFw0yNTAxMTgyMzU5NTlaMFIxCzAJBgNV
+BAYTAkdCMRMwEQYDVQQIEwpNYW5jaGVzdGVyMRgwFgYDVQQKEw9TZWN0aWdvIExp
+bWl0ZWQxFDASBgNVBAMTC3NlY3RpZ28uY29tMIICIjANBgkqhkiG9w0BAQEFAAOC
+Ag8AMIICCgKCAgEA1+IPHk+PkMEXWTI7UUBIhWYce3Uiaz8COAZR1TeWs9F07kxg
+qbF33LLJ7FsouFjFYrZmYdZVIsaONXE+TtceBucU6feaoF8wCpaBlzBVzOT+OGR6
+G7al73odT3GG4oYlCjfHbrE8zNQZe3MToWmaTqa+m95RXr9StkqvCoeVr2zoU1TB
+4aBrn18YdfL4he0JLbS98cdwSuGxxi44Gktt29zx7JieVwQTHlve2YvjL7GdBaKT
+fHphJU8FuPHaaZtY+hL2HBgW0kYM4EHlYamO4seKNYGIq7dKtP5/64uc4OhDARvp
+Qc8ZCtMiUAlwWYZGRanxUr7dfAwcxDVabU2dsihp+ZRAsfGOAIaEy6krMvWLDkJl
+jUT5jfLuPy9nFIWQ4RIHgabAF5X+oqh14aAlMbeq75GFKbARFWPgbls12FRWhX1R
+YnYr0/TmnKmPvw5XWcninJsEXAef7y59S/2TfP1a3sV77qBtiAAdyuYOHXJP3Lk5
+dpITrFgGSlBZjXuLBBGNcQ5ZwgL5SWu3P7rO/QJnoL93yidk/FgXgBn1ozbPjdPR
+Z8SVkg7fhepOpE9seeLKteC9La5pIgfxCmy8YN+wQL394Xi9k5n9LakrsiUlJcys
+zLrZwHyUVuSsUsodg4u/QvPevW4ERQ5TJOvJJxv50PDHuayDgGHM/lCHA+ECAwEA
+AaOCAy0wggMpMB8GA1UdIwQYMBaAFBfZ1iUnZ/kxwklD2TA2RIxsqU/rMB0GA1Ud
+DgQWBBQ/dC6taq+h/n1kP/zvwEEWB3G9CzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0T
+AQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSgYDVR0gBEMw
+QTA1BgwrBgEEAbIxAQIBAwQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdv
+LmNvbS9DUFMwCAYGZ4EMAQICMFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwu
+c2VjdGlnby5jb20vU2VjdGlnb1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25TZWN1
+cmVTZXJ2ZXJDQS5jcmwwgYoGCCsGAQUFBwEBBH4wfDBVBggrBgEFBQcwAoZJaHR0
+cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNBT3JnYW5pemF0aW9uVmFsaWRh
+dGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Au
+c2VjdGlnby5jb20wggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgDPEVbu1S58r/OH
+W9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZKoLrs+AAAEAwBHMEUCIE6I6uLSwsza
+mhG1DbarrvcY3NjwCuc76vbTNvJZWyNVAiEAtOP9WZvX19kcAYW1xFkQVPPyaj8z
+z4IyXLIGiTRXtkoAdwDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAA
+AZKoLrsTAAAEAwBIMEYCIQDAgZtaQfgKWoziMhDvMJuwsvdJ7TNZrNU6PJx0cvL1
+FwIhAPBTr5VTa3FxVweKv0CBlpOZLT9WkEZPEN7F8BQtvWFGMGwGA1UdEQRlMGOC
+C3NlY3RpZ28uY29tggxjb21vZG9jYS5jb22CEWVudGVycHJpc2Vzc2wuY29tghJo
+YWNrZXJndWFyZGlhbi5jb22CDmluc3RhbnRzc2wuY29tgg9wb3NpdGl2ZXNzbC5j
+b20wDQYJKoZIhvcNAQELBQADggEBACSF6mgmtvMkV20BmZ+2eJQrG9CyuwvDZzlU
+6xYZ2yEe37CZkTk67754vBcg2paBRv425pzJWveg9l2a4a+whUihywBxYfh/GEF6
+kWJYBLfGELifvsuzRY8x7I1gZMy5CX0Lmsutfx16k2TsLotYUgxfFRW2E1xVEfz/
+vv49fncaQuU8eBRL0JuB+PxtuDlSgs4MBohcFbPBYKrWAQ7UIIZEYTy+h+v+0Zv6
+tY9U8kAoLvFAGKMzajeA4tFXE8qKNadcHD1BUgf0Hx/yOn25fIZx6X2AXFsdBvrG
+Nf0zc5rGOlmlktx9ZWAUMBqeFfgZQOYL5+W6JAmQGZt0qUREMM4=
+-----END CERTIFICATE-----
+subject=C=GB, ST=Manchester, O=Sectigo Limited, CN=sectigo.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6932 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 6AAB967860372F39C7932C5848E9308DD1E75D27EA465CE31DD32BD815BD7C17
+    Session-ID-ctx: 
+    Master-Key: BBD93626F5C40BCBFB57AC3D641DE70236F9AFB3BDEDD36E061BE2F8B86FC7AF1F0F06E46CF8A3E030B2EA332F02DE56
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c0 f6 2a c4 49 87 13 19-c2 43 41 fd 84 db ff b1   ..*.I....CA.....
+    0010 - 82 1f 0e b6 5e e1 bc ce-fc ee 40 b8 37 bc 00 50   ....^.....@.7..P
+    0020 - dd 1d a3 87 20 05 b4 bf-e2 2b 4a 67 1a 4f e6 0c   .... ....+Jg.O..
+    0030 - a6 9f 6f 59 e0 47 ca 9b-49 0d b0 ef c5 9f 50 15   ..oY.G..I.....P.
+    0040 - 55 0b 21 b5 b5 7b 6a 17-ac 5a a4 58 78 25 a0 fc   U.!..{j..Z.Xx%..
+    0050 - e0 79 f0 af a8 9f d1 27-97 37 92 25 49 53 a4 88   .y.....'.7.%IS..
+    0060 - da 8b 5c 2d 18 ab c1 1e-22 f7 51 c6 9e f0 cf 79   ..\-....".Q....y
+    0070 - 97 68 45 50 6d e6 95 a9-ef d7 6a e8 7f 68 7c 6f   .hEPm.....j..h|o
+    0080 - 2a 33 8b 60 04 84 e6 3a-77 3f 66 1e e7 0c ab f7   *3.`...:w?f.....
+    0090 - 3d 8f 50 fd 62 8b 70 5e-25 d7 5a dd 9b d3 b2 eb   =.P.b.p^%.Z.....
+    00a0 - 1d 71 b5 a1 5b a6 4b 54-7e 52 7e af 77 9a 11 33   .q..[.KT~R~.w..3
+    00b0 - 3e c5 85 47 99 70 8d b4-8d 41 ac 1d 14 9c a1 56   >..G.p...A.....V
+
+    Start Time: 1732697771
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

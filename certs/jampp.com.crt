@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=jampp.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 26 08:12:30 2024 GMT; NotAfter: Dec 25 08:12:29 2024 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE4TCCA8mgAwIBAgISBKnN78L4FnyuTs92/ml6s+pMMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQwOTI2MDgxMjMwWhcNMjQxMjI1MDgxMjI5WjAUMRIwEAYDVQQD
+EwlqYW1wcC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDcml7V
+eWH3mxiUn745fi/9BdnBdTZ0dHKfoNiDvt3UCfuXjgNB1N+SqSDwZ6h8cqG/YL/Q
+Ue7Gql146g5AliaQ2LzbNChGk62m9/FnrzpnXf3cTG5XPQrdmojU3Joz58n9eZPw
+EFQrxLbrcnYKAvMCgU//S2OUXR7vOhIl1BlRkeS92SRsx63OCcLCpXJg7/gdUFDM
++wIbc/zrCBAA30Ge0DnflFs6iozNmHo9U25SOeGarHM+HLC/TfPE0rZVTcj7zTEF
+SVk7ATiW2ciIQ/dlRVLn/2BcoIxKB0SGRpmUnlbtkWiYx9jjZX91sPgdv3DPriNN
+OCW7RADcJVwinRJjAgMBAAGjggIMMIICCDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FCR1+Uxa8tR5kCBnRPplNsH4x6EIMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2w
+XpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5v
+LmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8w
+FAYDVR0RBA0wC4IJamFtcHAuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBAwYK
+KwYBBAHWeQIEAgSB9ASB8QDvAHUAGZgQcQnw1lIuMIDSnj9ku4NuKMz5D1KO7t/O
+Sj8WtMoAAAGSLZkW4wAABAMARjBEAiAdgQBQVqmTsUR3mCRuL8IUH3B5EPSocxNf
+ISysC9UH4QIgJfNj83UGdq5hDFa2GrdFoImFQxIprKVo8u1JnPm6x2sAdgB2/4g/
+Crb7lVHCYcz1h7o0tKTNuyncaEIKn+ZnTFo6dAAAAZItmRcGAAAEAwBHMEUCICLZ
+PirgDATdajha7ugjGso/YXuAVYPOh1cv6j5aX/U5AiEA+/Dq5f9wtQ694Z42t1lt
+3Wk8DmT97EpVQoYP4MtXPuswDQYJKoZIhvcNAQELBQADggEBAA/OpZOnlM207Vje
+SP0xixtpJrI71SCPaQTY8/QPDuuDppSQHoeYJPXjQdlf97mL+H3F+lzLMld/CJoK
+Bmv5XSEFigMcxYwzIGiSDWUg968FkAdU//RQsOC/SRLpYh2ko1Fbda4t1N/NvJXu
+Mk42t94pCsi7dIRhU9paHVY16qy3oHQIJOb15xr/eL1Jjus+cPOCKrPvB7OV3qjK
+y9XcY7qIuUNoccnucfxTS5uHrdTgJHsBdzOYbhPYGzZPbnIz3a87Ty1c57pusNFT
+4SGrbL/cnHtEaEv4qTPmLIVIdKsS/xa6cOVipsbzxoTUr5KnjupuyPkuW3X2tV6K
+6xv06YI=
+-----END CERTIFICATE-----
+subject=CN=jampp.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 3234 bytes and written 753 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

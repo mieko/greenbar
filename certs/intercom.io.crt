@@ -1,0 +1,76 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.intercom.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 15 00:00:00 2024 GMT; NotAfter: Feb 11 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF8jCCBNqgAwIBAgIQDU+oXUEQxDRsYmvRrjMa7TANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDExNTAwMDAwMFoXDTI1MDIxMTIzNTk1OVowGTEX
+MBUGA1UEAwwOKi5pbnRlcmNvbS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC1vZSSJYm/CpGbiKH7RBdgPH2zzenSlLpBWkVx1qWEMZGjEvuVMTaO
+9vbbQAlPWv6e3dSAOZ2L/SHUH4ZEAyIq8GFl4g0mpBO65QPhUiGEdj4bw5Nr11wc
+ZgIh2ETk4J8/l5ZMc6OY3tBIxTjmvdxNvDetA0pzGl1MSh+CPqe1ThE2nnMENnNl
+KEbzeVELDEwUnRoWkiISx/aKaTVNtA+2xccHGrBp4+RPZxtjJEpe9IOjykwrWVxM
+uj5OWkLXqvunZT/IwCjcvZEToGu2OKFEiA/YGWAkmnwn/mGyRRZ5Mnzr6UHEQKCv
+NOIdTZSE2u9GUT8PifxM8Z+6AvvQXnaZAgMBAAGjggMRMIIDDTAfBgNVHSMEGDAW
+gBRV2Rhf0hzMAeFYtL6r2VVCAdcuAjAdBgNVHQ4EFgQUdZaUB1Q/Be6e6kL6BjYe
+FxDoPowwQwYDVR0RBDwwOoIOKi5pbnRlcmNvbS5jb22CC2ludGVyY29tLmlvggxp
+bnRlcmNvbS5jb22CDSouaW50ZXJjb20uaW8wEwYDVR0gBAwwCjAIBgZngQwBAgEw
+DgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7
+BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnIybTAzLmFtYXpvbnRydXN0LmNv
+bS9yMm0wMy5jcmwwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8v
+b2NzcC5yMm0wMy5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9j
+cnQucjJtMDMuYW1hem9udHJ1c3QuY29tL3IybTAzLmNlcjAMBgNVHRMBAf8EAjAA
+MIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgBOdaMnXJoQwzhbbNTfP1LrHfDg
+jhuNacCx+mSxYpo53wAAAY0MsjNqAAAEAwBHMEUCIHOoMeaFCFixSK4j3D5WGfuW
+xYONgSKX2GWwYL/7VgJjAiEArweV50bvP+1rbKHCHYvxVkvDCkOuRf/+yl4I9U7E
+JXQAdwB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAY0MsjOhAAAE
+AwBIMEYCIQD2MIRApMFJ8OIPgARNEFsSYwttGisbYs7XdvBevV5K4AIhALlRrQu2
+UJOTjjORjqKWwGQ9al2vrbPUXb6tgDyrYuPcAHUA5tIxY0B3jMEQQQbXcbnOwdJA
+9paEhvu6hzId/R43jlAAAAGNDLIzzAAABAMARjBEAiBN4k2Mq9YPIKje38AN6kS4
+pMVs804qQynk6icArsOrRgIgBOJrNYUGxNtutdWbG5opX8nUfZHo7kbx1g5RLB7r
+2bAwDQYJKoZIhvcNAQELBQADggEBAJcfaNEGRvlPFF+x2NiKjDff+jovvhv3bXQJ
+LG5JeXwfj2/sX66LkaGzUqEcacWvmn7X1Rr7kQec+zCPkxAf/PmuFrhRjJCh12E1
+qP2KxT0yvdpC/QXsXVRBbDP/2neZuaDHW84pJ5I6Uqu942F+owf52EzvNKkVnyvC
+RpA0T+3L2IL1I9Qk48b4UFci/EuGpnNadEMoxeX2QUbwc2vEI8nmrqLv8iB0TMGX
+5KBCNGYaQdKItO2MxQLp0qINiFZDzMauPtcVKj0ObWIqja1pbWhsBQyiM0WEwdpu
+jckLg6p4Kiqn+Erh10h9ABUe3Jngrxjwkmd8+U/7aN4c1OCRpPM=
+-----END CERTIFICATE-----
+subject=CN=*.intercom.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5526 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

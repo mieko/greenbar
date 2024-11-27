@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=conviva.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct  7 10:44:30 2024 GMT; NotAfter: Jan  5 11:44:26 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDlDCCAzqgAwIBAgIQTqCxKGCXviEOsUuGeH9C2DAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMDA3MTA0NDMwWhcNMjUwMTA1MTE0NDI2WjAWMRQwEgYD
+VQQDEwtjb252aXZhLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKkmUEoU
+JKkugnLBSGSkRauCBd3owW2sL6tjxFdGjfuY7yq7P3qJtr5q6cNGidHY2uKZ7IPm
+5m1ZmCspAjO8IhOjggJDMIICPzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUfSbNkoNNZHQoL8UDYA3D
+Iit+/1gwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9UcUEw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwFgYDVR0RBA8w
+DYILY29udml2YS5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAr
+oCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL3RWRnM1dEItYWNvLmNybDCCAQMG
+CisGAQQB1nkCBAIEgfQEgfEA7wB2AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6
+ZLFimjnfAAABkmbLlP4AAAQDAEcwRQIhAICV6nmIAiVZM6lA8dhBAc/OxpTnyzf5
+vDfD9s8oVg0lAiBZuF7OwwyU0q8hiFzLANuCuWIehelc0y3Kx7wBcTLvHQB1AH1Z
+HhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkmbLmQwAAAQDAEYwRAIg
+W8St6ZmF3gD/AgiSoEqHrFJxcHllC2wF4LudjeyRhAsCIHiWqdn/zhHIfkr+d+H2
+1d+uzM0ieHA9nKUwLDEakVR3MAoGCCqGSM49BAMCA0gAMEUCICRBnHqcq8fEuZsk
+AQ5I08mgiQ5PmB+9z7TV+eK29P6WAiEAk/R0cJERMAmuYbLHLpP/J1BMTSh9Jk4d
+lRgVqt1/rko=
+-----END CERTIFICATE-----
+subject=CN=conviva.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2808 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=e-volution.ai
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 18 23:07:42 2024 GMT; NotAfter: Jan 16 23:07:41 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6DCCA9CgAwIBAgISBKKFLhj4fI+UhxUrVotnj2qOMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMDE4MjMwNzQyWhcNMjUwMTE2MjMwNzQxWjAYMRYwFAYDVQQD
+Ew1lLXZvbHV0aW9uLmFpMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+oPz/rxmPKfBfzxWdDB6MRmHkH8mQwkyIyqRg+ZS084ChRyGod/xkrR7JBr6Q3Wpj
+JCHq0uLDeov6ov8mB0PLR4w199ERg9VVHK8VuD92mQfeHyM/43K7gGspW828VZtf
+u7r7tOfmUPnT21hgDM8YZFqI9CJZzTPVQbs/i0NSUh2tNLyWHOdYx7GnSHXaVcBr
+Ks3xWoHxVgaXDQjX4+8I0eHNtYmDtkFXeEKS4LNSjTvjnJVlnG7q/G8cUGXNd0He
+o/2/wLJHUB9oPKw8X/H+kwAfmhChe2no15+r1hvwHxHfML7NFJ8hJ1cfCXcfgDCc
+8NAi/P9Dl48rZouGMWR3IwIDAQABo4ICDzCCAgswDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBTdSvLo2CTUqQ86o9l3R8ak8X7q1DAfBgNVHSMEGDAWgBS7vMNHpeS8qcbD
+pHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9y
+MTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5v
+cmcvMBgGA1UdEQQRMA+CDWUtdm9sdXRpb24uYWkwEwYDVR0gBAwwCjAIBgZngQwB
+AgEwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQCi4wrkRe+9rZt+OO1HZ3dT14Jb
+hJTXK14bLMS5UKRH5wAAAZKiGJSiAAAEAwBGMEQCIAa5AxBCy4LsIn/fsY9pWrHy
+bvhCu+Fut/JZd+kSOfGMAiBm8KztAUh3SsurBkazR7zpmYaEhDUbwlniHoyKpikt
+2gB1AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkqIYlNcAAAQD
+AEYwRAIgS3uZv9Rqr6/ReuEE1+Nxc9QSPHPewdeuoazwEKR9qccCIBfJUHjh+CC9
+EQFzkZ5FcG2LscSoU38WpKPu4CbWnZI3MA0GCSqGSIb3DQEBCwUAA4IBAQCT+X8+
++RQBBU2RESERLfBrl5sU6pV+u437DEJ2EofyjqD9/XeMikD/xh2da23AWJ4rNVXG
+pwUqNIwW6SjjjAq04osJPbz5epQ0M0MhwuGo0worw1G6n93dH1OU14GoZJQel2cL
+3xCFWEeYpUhaSk/ssGaY8lsZrpy980PasRWsi+HSmavT/T9yGVVtYTbXXwOQ4Dwg
+kdm0/on2mCK1AwrCNn2qUqloa9uZakkkEjZxmcvgKqxBBmrHXVCbfYrolRlsNhBn
+ygRxWxoM//ErMLcP5nxfFusitaR7mSJz5dWXgQyzSKJMmUThxD0QwzH4T+11f+sQ
+dLkWzuFMuAR4pI12
+-----END CERTIFICATE-----
+subject=CN=e-volution.ai
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3114 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,70 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Utah, L=Salt Lake City, O=IdenTrust Inc, CN=identrust.com
+   i:C=US, O=IdenTrust, OU=TrustID Server, CN=TrustID Server CA O1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun  6 16:13:03 2024 GMT; NotAfter: Jun  6 16:12:03 2025 GMT
+ 1 s:C=US, O=IdenTrust, OU=TrustID Server, CN=TrustID Server CA O1
+   i:C=US, O=IdenTrust, CN=IdenTrust Commercial Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 12 16:32:39 2019 GMT; NotAfter: Dec 12 16:32:39 2029 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGWTCCBUGgAwIBAgIQQAGP7lM7i6ZtyiC+oR+vQTANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzESMBAGA1UEChMJSWRlblRydXN0MRcwFQYDVQQLEw5UcnVz
+dElEIFNlcnZlcjEdMBsGA1UEAxMUVHJ1c3RJRCBTZXJ2ZXIgQ0EgTzEwHhcNMjQw
+NjA2MTYxMzAzWhcNMjUwNjA2MTYxMjAzWjBlMQswCQYDVQQGEwJVUzENMAsGA1UE
+CBMEVXRhaDEXMBUGA1UEBxMOU2FsdCBMYWtlIENpdHkxFjAUBgNVBAoTDUlkZW5U
+cnVzdCBJbmMxFjAUBgNVBAMTDWlkZW50cnVzdC5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDdG4RnriZt3jXoMaYN3H/hVS497Fozsub3WdiCDv3N
+PKldFJ9L6KKOYGy/3OlgbVHkBDoheRf4Rcn+dnrQDEOWeUHvShjdrxwksL/bqsu0
+qTv/zZOen/QPZo8eIUi/cm5HWQmAiYGT50Av/h4kZ09xz1nBgdEZZdyHng5KJO+4
+Dn0tUITJzXIHIig75GfDwBAHPsz1uDOgX1CDlpeop/+olPHt0t6lFHHza+pnyXPW
+eDHkmTBxRugwWy2SFP0cTntGBwE1kpYV6upMaywU9Uw7E7CV/qdk/GXMO/gfWPcA
+SdTDs+gBl48dhfxCJJ9wpWlN1l2rgw+r4ifKACBq0uNBAgMBAAGjggMPMIIDCzAO
+BgNVHQ8BAf8EBAMCBaAwgYMGCCsGAQUFBwEBBHcwdTAwBggrBgEFBQcwAYYkaHR0
+cDovL2NvbW1lcmNpYWwub2NzcC5pZGVudHJ1c3QuY29tMEEGCCsGAQUFBzAChjVo
+dHRwOi8vdmFsaWRhdGlvbi5pZGVudHJ1c3QuY29tL2NlcnRzL3RydXN0aWRjYU8x
+LnA3YzAfBgNVHSMEGDAWgBROFxkWWg5M3E70cuzkOgHBGZT9NTAhBgNVHSAEGjAY
+MAgGBmeBDAECAjAMBgpghkgBhvkvAAYDMEQGA1UdHwQ9MDswOaA3oDWGM2h0dHA6
+Ly92YWxpZGF0aW9uLmlkZW50cnVzdC5jb20vY3JsL3RydXN0aWRjYW8xLmNybDAr
+BgNVHREEJDAigg1pZGVudHJ1c3QuY29tghF3d3cuaWRlbnRydXN0LmNvbTAdBgNV
+HQ4EFgQUGrztjCrFAWUt6wxW31JZTqKc3+IwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMIIBfAYKKwYBBAHWeQIEAgSCAWwEggFoAWYAdQBOdaMnXJoQwzhb
+bNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAY/uUzztAAAEAwBGMEQCIHGuHHbOuBaG
+7hvX0xL2vWLByJXpuDeJJNUfbSefmNjUAiALspVDD38MADQk6+uQoySiMA6DxuXf
+dYPzszz4WwYn7gB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAAB
+j+5TPIcAAAQDAEcwRQIhAMq6qwXYdl6W7pv/+76g7YJM7SrYLKo6KqqzY2n2mF6R
+AiBsDamkxMox+lgpAPEVB9w8YnzN7DzJx2Hr3/1Q0f+QlgB1AObSMWNAd4zBEEEG
+13G5zsHSQPaWhIb7uocyHf0eN45QAAABj+5TPH4AAAQDAEYwRAIgWhXkiFl60YF4
+1S4Fh5Q8SGyS2W+EXxMFYEcAi57VB9gCIEeu4SNXhaneW1tPbbot+7chBOPfxno7
+6tYZ3m8rP6LmMA0GCSqGSIb3DQEBCwUAA4IBAQCgXxrEGRE3JReeQw0Q8BKVrDsP
+GZmH38WqShK0xW+RoeOWHlb2iF19XdXqYm0ghZFk/A7EfNumz3Eu/mKDyKMfTb3t
+SJfIoLWC2m59SrRP4Tz7lqWdPm5Iac1Bw845+HxT80HOnwpEYsJCCHKj9nDh0J7f
+wUdIA7IV/hArGfiTRIwcK0LdFp84G/6ejpmqovBChzftZMteMPfw3sGpL7WLNret
+R7r6srPsj3jPa0JEopcKc4AxDhsoVb8Kk4/biZ9TG1IarT9Y9VzEf1HAeOd0k7sm
+R4D69pvQgzB4lNRwD+BDlKqPLZrkCdTV/kzMP0JT+BQ2dWHC0e1+q7MK9hPc
+-----END CERTIFICATE-----
+subject=C=US, ST=Utah, L=Salt Lake City, O=IdenTrust Inc, CN=identrust.com
+issuer=C=US, O=IdenTrust, OU=TrustID Server, CN=TrustID Server CA O1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3857 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

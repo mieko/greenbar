@@ -1,0 +1,107 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=New York, O=Squarespace, Inc., CN=*.squarespace.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Feb  9 00:00:00 2024 GMT; NotAfter: Feb 28 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIH8jCCBtqgAwIBAgIQCBp86o6s5B+ihy1i5a59MTANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjQw
+MjA5MDAwMDAwWhcNMjUwMjI4MjM1OTU5WjBrMQswCQYDVQQGEwJVUzERMA8GA1UE
+CBMITmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMRowGAYDVQQKExFTcXVhcmVz
+cGFjZSwgSW5jLjEaMBgGA1UEAwwRKi5zcXVhcmVzcGFjZS5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDFV7uXjCtpWdD9boWPuvZidxYBcgrIaAjJ
+MFmylzQ0H8lXdUL+Ir6OE89osQXZAlYcl5v7v2UE357yiw9AKMs+cCVcz4AmqlwR
+QuyDW6AADSy8Vg0Mkysi4i7Q6/NpW3ZcgFHYsiiPRC4hkANpGujmzr/0fGgFfBXa
+f0k/gkW5bAaGRGI+QqhhucpXHtCzj0lr+LRbA99NOrXIscvq4G+1qvqSc03L4Ikf
+JX+Zc3v7bj5paWcTdI6bxWBaTI02F2xOvTq+2yDpbH5W4Z1IpuWJYHhLoQ1+dT89
+37Z+kXFxOxlkCubJSJkZqXUELdctN7JUQ6g/ZKazV6hMCX1eJsvrAgMBAAGjggSi
+MIIEnjAfBgNVHSMEGDAWgBR0hYDAZsffN97PvSk3qgMdvu3NFzAdBgNVHQ4EFgQU
+BsN0dAV8hD5omWpKh3/aO7bl47wwggEuBgNVHREEggElMIIBIYIRKi5zcXVhcmVz
+cGFjZS5jb22CD3NxdWFyZXNwYWNlLmNvbYIaKi5jYW1wYWlnbi1wcmVmZXJlbmNl
+cy5jb22CGGNhbXBhaWduLXByZWZlcmVuY2VzLmNvbYIKKi5zcXNwLm5ldIIIc3Fz
+cC5uZXSCDSouc3FzcGNkbi5jb22CFXN0YXRpYzEuMS5zcXNwY2RuLmNvbYIVc3Rh
+dGljMi4xLnNxc3BjZG4uY29tghVzdGF0aWMxLjIuc3FzcGNkbi5jb22CEmNkbjEu
+MS5zcXNwY2RuLmNvbYILc3FzcGNkbi5jb22CHSouZW5nYWdlLnNxdWFyZXNwYWNl
+LW1haWwuY29tghtlbmdhZ2Uuc3F1YXJlc3BhY2UtbWFpbC5jb20wPgYDVR0gBDcw
+NTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5j
+b20vQ1BTMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwgZ8GA1UdHwSBlzCBlDBIoEagRIZCaHR0cDovL2NybDMuZGlnaWNlcnQu
+Y29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3JsMEig
+RqBEhkJodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRM
+U1JTQVNIQTI1NjIwMjBDQTEtMS5jcmwwgYcGCCsGAQUFBwEBBHsweTAkBggrBgEF
+BQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMFEGCCsGAQUFBzAChkVodHRw
+Oi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNI
+QTI1NjIwMjBDQTEtMS5jcnQwDAYDVR0TAQH/BAIwADCCAX8GCisGAQQB1nkCBAIE
+ggFvBIIBawFpAHcATnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGN
+j4dSXAAABAMASDBGAiEA4POGn6e3RlrBuiS1Y+LLNjWVU7lYwEOVCDIH8QxS9p0C
+IQDfXXg4bVtfs++aOBmgfIFbBRBOyFC4q0nTMNVZj9F+NgB3AH1ZHhLheCp7HGFn
+fF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABjY+HUpsAAAQDAEgwRgIhAIfvysLjfLD9
+nKqkcNlOLy2Ip2JRh3b3+utzusRIk4x7AiEAqbs54AiDfMidsso42KK4ljAr96sK
+PUPP7oODKpuawuYAdQDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAA
+AY2Ph1KVAAAEAwBGMEQCIDnv8Z5QBqMOLOIKXO3YRbbAmG0bDubw7vWjh8rCGSqc
+AiBZCY4gDqy0XDBH2qEZKCQgsQhWiGZEWBCH7QdrGlfwpDANBgkqhkiG9w0BAQsF
+AAOCAQEAP6PVtK+Ql0hj3Qgnf1Y7z8hfVLJ2Di6fUbeTIkVbnjpNgyP4XDVW2XmJ
+Bh1JrK4ZG9vH/rzuv+lnjrA6mb8asHguuU9vah8FOdL7pZ6FLDZnOozDBTt3s8gz
+ISdH0f9BuOU0XCyrz2V+m3PPgPOHm3WNfWvbT0vMTB6pjEd1NryV/P49ymnTuR6A
+nad1lpp+TSwX+IMb58d/D9hpBVM2VfnxPF9dTj+KjLPDvlkeLFeDZAnZVQVZR5KL
+0Wp54kCN5H/ruku74/1ZJ97WncKWUwbYblbqui1ESlUN5u9mAtqt/FDy7rBeIEx7
+YSvUbOUvXRRvg+UnPk9hPurxDqd2AQ==
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=New York, O=Squarespace, Inc., CN=*.squarespace.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3811 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: D04B951BC40EE78DC4A17BE32ABD2BC2E0C365FDC69EB91336F8F4A7FC77E366
+    Session-ID-ctx: 
+    Resumption PSK: 52A61755A3C3DF9B599DC651FF7EC82D4A892DD553B0272B558BDE83BB9651F6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 69 70 cf 99 8a 84 43 0c-3e 69 55 47 20 b9 fc 42   ip....C.>iUG ..B
+    0010 - 6d 0d 6b cc 83 41 d9 15-f2 db b7 02 69 e9 77 17   m.k..A......i.w.
+    0020 - d6 8b 01 99 ea 7b f0 92-18 62 b1 62 08 94 14 d8   .....{...b.b....
+    0030 - bd 04 1a fe f5 93 1f 7e-a4 23 90 ba 7e 82 32 22   .......~.#..~.2"
+    0040 - a4 17 56 18 70 3b 99 8c-31 cd 0f be 23 ea 17 53   ..V.p;..1...#..S
+    0050 - f7 c4 95 85 15 d8 1e 5a-54 20 86 f2 50 ce 31 aa   .......ZT ..P.1.
+    0060 - 13 fa cd 99 40 c1 b1 8c-b6                        ....@....
+
+    Start Time: 1732697824
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

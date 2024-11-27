@@ -1,0 +1,56 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=coingecko.com
+   i:C=US, O=Let's Encrypt, CN=E5
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 12 21:10:41 2024 GMT; NotAfter: Feb 10 21:10:40 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E5
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDjTCCAxKgAwIBAgISA46AH6XozT9k0NKwDy799FnfMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NTAeFw0yNDExMTIyMTEwNDFaFw0yNTAyMTAyMTEwNDBaMBgxFjAUBgNVBAMTDWNv
+aW5nZWNrby5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQQC+z2kIwPSAlE
+Opfcxp5mKBXft+Fs46oNMEN9UCEng5S3V7jtmYAu/xuydai0zwRDjukYUnMurvsV
+VvOWzFo1o4ICIDCCAhwwDgYDVR0PAQH/BAQDAgeAMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSNtiIMsiHiRNKG
+6q8LlKUjaAslezAfBgNVHSMEGDAWgBSfK1/PPCFPnQS37SssxMZwi9LXDTBVBggr
+BgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9lNS5vLmxlbmNyLm9yZzAi
+BggrBgEFBQcwAoYWaHR0cDovL2U1LmkubGVuY3Iub3JnLzApBgNVHREEIjAggg8q
+LmNvaW5nZWNrby5jb22CDWNvaW5nZWNrby5jb20wEwYDVR0gBAwwCjAIBgZngQwB
+AgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgCi4wrkRe+9rZt+OO1HZ3dT14Jb
+hJTXK14bLMS5UKRH5wAAAZMibGy2AAAEAwBHMEUCIFmePHHuhX/kUixJEz/2t+K5
+zTXyx6Jbr4AlIe2WjdRrAiEA4A+ON+sf53Zaynq0YUc+K658WnWxSvFeFohh1esY
+A3sAdgDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZMibGzpAAAE
+AwBHMEUCIDjO68AoXYfLXmuDOrvP7mjMXkWSZoJC3QBsrHhhzNMhAiEAv/NNRhmw
+R+xKvOpQ2XPARWybRHsuBICe3dMJm1YEbj0wCgYIKoZIzj0EAwMDaQAwZgIxANGR
+CUb0Xq7qYkJckXcxBPYj9mZ0y4AV3rxVCFV6/PyfwM1itKQDtWIbR3J/n0zEJwIx
+AJxjq9PNUdn1kihy+sq3JxLwCZiNc66v/U8RoX6hhRAOBSNhm/GrMqauiHE/TVrc
+dw==
+-----END CERTIFICATE-----
+subject=CN=coingecko.com
+issuer=C=US, O=Let's Encrypt, CN=E5
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2341 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

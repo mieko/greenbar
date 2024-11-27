@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=liftoff.io
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  2 08:46:21 2024 GMT; NotAfter: Jan 31 08:46:20 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDlDCCAzqgAwIBAgIRAOMSq9cSCgDCDeD5gNGLAqIwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEwMjA4NDYyMVoXDTI1MDEzMTA4NDYyMFowFTETMBEG
+A1UEAxMKbGlmdG9mZi5pbzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABIN8yTRj
+lno147W5jLmApAPt/sWTfltjFWOMJ8EnC5hqi1b9gJcYEJ2eKARbm+Fys/WvX7UH
+dZzjBgKg3SgZqK2jggJDMIICPzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUvXtKP9S7eUQU9x4pS2/v
+g50n8T0wHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS80eEkw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwFQYDVR0RBA4w
+DIIKbGlmdG9mZi5pbzATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCug
+KaAnhiVodHRwOi8vYy5wa2kuZ29vZy93ZTEvdUlqeGpucUF0OTAuY3JsMIIBBAYK
+KwYBBAHWeQIEAgSB9QSB8gDwAHYAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJb
+d87MOwgAAAGS7ETDZAAABAMARzBFAiBKO0K+4jXAGp3cepIX4nF74ONSdp2Tejnt
+re7jnYDwyQIhAJmqrL6+CCFSqzehZWYInfRnviLgZ1/R/M8XNoujcrxaAHYAfVke
+EuF4KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebgAAAGS7ETDWAAABAMARzBFAiEA
+wXaynuzAUFOp1QI9c47CBc2R0+7f9xT0VdNVMhcnb2ICICe7xykxTVxhZahD9ZKU
+Z3UcABeCtTYxvy01S1FNef+cMAoGCCqGSM49BAMCA0gAMEUCIQDRwiGNovcQb6uq
+TcCyBazHHagaRHxvKt/ZYsIv5TQBvwIgSr79OcEdLYWwyUA+YkhvNSuXNx5KTlZl
+qS/eBcC7kig=
+-----END CERTIFICATE-----
+subject=CN=liftoff.io
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2808 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

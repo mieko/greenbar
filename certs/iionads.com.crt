@@ -1,0 +1,62 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.iionads.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 31 00:00:00 2024 GMT; NotAfter: Oct 31 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEwTCCBGegAwIBAgIRAOeA0N9WwA7R3ZChSYqpcHswCgYIKoZIzj0EAwIwgY8x
+CzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAOBgNV
+BAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UEAxMu
+U2VjdGlnbyBFQ0MgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQTAe
+Fw0yNDEwMzEwMDAwMDBaFw0yNTEwMzEyMzU5NTlaMBgxFjAUBgNVBAMMDSouaWlv
+bmFkcy5jb20wdjAQBgcqhkjOPQIBBgUrgQQAIgNiAATThGA3LO9jhfsH86OJA/8u
+hi9YMJtIOCWEEbqKhAGO3xevEllug5EctjF6nF99NKhYlsuHRCnB+Llkm5OG5QcK
+nd3lzmbgXC6rH83P3QKuLUwRiyGYaCunWRhgYRqd9TujggL7MIIC9zAfBgNVHSME
+GDAWgBT2hQo7EYbhBH0Oqgss0u7MZHt7rjAdBgNVHQ4EFgQU5xvY6BPYmP9lizle
+IT5ERUNYQ6owDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcw
+JTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIB
+MIGEBggrBgEFBQcBAQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGln
+by5jb20vU2VjdGlnb0VDQ0RvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5j
+cnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMCUGA1UdEQQe
+MByCDSouaWlvbmFkcy5jb22CC2lpb25hZHMuY29tMIIBfQYKKwYBBAHWeQIEAgSC
+AW0EggFpAWcAdgDd3Mo0ldfhFgXnlTL6x5/4PRxQ39sAOhQSdgosrLvIKgAAAZLi
+WS8RAAAEAwBHMEUCIQCIFinfF0HL9RqpqYgCqlJ+ZHY59wIbrUKlhArdhtu44AIg
+J+ivZUtmFKpiWciTGrU3R6aEC/NG3MCnuETwfVOS0NQAdQDM+w9qhXEJZf6Vm1PO
+6bJ8IumFXA2XjbapflTA/kwNsAAAAZLiWS8pAAAEAwBGMEQCIFcuInxpJzKIpSfo
+59/x6jfdhl0h+UHzbcYGG1b3+JIHAiBbIO6wjSRfMmxls9GAk7kA186CaUFfRxgD
+59zHJ3oz4AB2ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABkuJZ
+LvQAAAQDAEcwRQIgAwgKcFgl7EyVpB1pHt0b+Sc5MrcR6Hx3C8BbpRE/YYMCIQDz
+G9XXMmB3yolzgDeZYFcH5chG+OphT2+ZlyYMqOlv6DAKBggqhkjOPQQDAgNIADBF
+AiAqqEAG4dqvaKrn+jKDoN+ILpTNjuhwKQ0Howm3lsaKLAIhANc+W5fJgnufcOpf
+wizc8UMES6GtVkeOQqPt8DCyRQEa
+-----END CERTIFICATE-----
+subject=CN=*.iionads.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA384
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2558 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_CHACHA20_POLY1305_SHA256
+Protocol: TLSv1.3
+Server public key is 384 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,77 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Florida, O=Insticator, Inc, CN=*.ingage.tech
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 00:00:00 2024 GMT; NotAfter: Aug 11 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG1DCCBbygAwIBAgIQe6jXE0w9nR1cqmCBc384izANBgkqhkiG9w0BAQsFADCB
+lTELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMT0wOwYDVQQD
+EzRTZWN0aWdvIFJTQSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTZWN1cmUgU2Vy
+dmVyIENBMB4XDTI0MDgwMTAwMDAwMFoXDTI1MDgxMTIzNTk1OVowUTELMAkGA1UE
+BhMCVVMxEDAOBgNVBAgTB0Zsb3JpZGExGDAWBgNVBAoTD0luc3RpY2F0b3IsIElu
+YzEWMBQGA1UEAwwNKi5pbmdhZ2UudGVjaDCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBANsnRoBJRxqVyO39OitAeruGhKtmgIUgWhDJsRIdl5CQH3ZPvQOC
+1JVLXq6/fu5s/HvbMVYqH1r70pFCK92mr7ONlOVy6VxvBt7U4kl9isVmKToINsdI
+bXXcmvUBhCEwOjh3PukR9ovMAz0S7Xiev5/rWpflp5MhdVgPdw7Zuu1UATP4yDAw
+a0CcACEDx4WRxCjlTgieutirVo0hEmQSFur1YzXBiEsirImO0DSGVDWnXM6HHIQm
+oY5wUZvvX2lQ8HavwKHK6mBkBnbmEKrOgHPSoR1yv5xvPOa2Z2aJgvYK8uIyKlcp
+swxZrhiWsLvn9WwQMtJmSNrXdsYSZstfsScCAwEAAaOCA2EwggNdMB8GA1UdIwQY
+MBaAFBfZ1iUnZ/kxwklD2TA2RIxsqU/rMB0GA1UdDgQWBBQSiW6f6kDA90us7KDt
+vFnx8I98HDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwSgYDVR0gBEMwQTA1BgwrBgEEAbIxAQIBAwQw
+JTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIC
+MFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuc2VjdGlnby5jb20vU2VjdGln
+b1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcmwwgYoG
+CCsGAQUFBwEBBH4wfDBVBggrBgEFBQcwAoZJaHR0cDovL2NydC5zZWN0aWdvLmNv
+bS9TZWN0aWdvUlNBT3JnYW5pemF0aW9uVmFsaWRhdGlvblNlY3VyZVNlcnZlckNB
+LmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wJQYDVR0R
+BB4wHIINKi5pbmdhZ2UudGVjaIILaW5nYWdlLnRlY2gwggGABgorBgEEAdZ5AgQC
+BIIBcASCAWwBagB2AN3cyjSV1+EWBeeVMvrHn/g9HFDf2wA6FBJ2Ciysu8gqAAAB
+kRAl740AAAQDAEcwRQIgMzM1Dv7zmYeR0rD2VUqwHks2rbqrvBtTTVYNFd0NNegC
+IQCUx+G0C+aoHaxIek3CABeu8U66ImxC/bDG6InrjIMmNQB3AA3h8jAr0w3BQGIS
+CepVLvxHdHyx1+kw7w5CHrR+Tqo0AAABkRAl70IAAAQDAEgwRgIhAKn8x6xykYaL
+1QMvSLMiicAipuK4ffdNHxCjNUvhwlQbAiEA+acwSkuLFWHoIFbHxMBsjOq3reqi
+S/Cg76oWOMVOe/oAdwAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAA
+AZEQJe8TAAAEAwBIMEYCIQDvzrtLCuuzFnwvi+SvBcT3O7pQJi3ImYmAaf5HMaIp
+4wIhANBfQfHqLp2uT/jbMiHHl4nx7Hlz/U+rfwXmCl4kyUKIMA0GCSqGSIb3DQEB
+CwUAA4IBAQA5hrDE3QS9iC6czCWnPj1iKVTyvbGydiTsX0wM2uY00SlqI1e+SiT+
+1yk2ULAL+DBABFn4imVUVsk2h+xfGXIrT/HwV6q8WcBFIUTeKS2D4sSzCb5YoRox
+srTazvfmtW5p/FNGp5aDGYza7B2DkxYd+HGlS0gF9T4fd9+iUx9Ad+oDb6r8yRUd
+uQnafLRzw4Xpeeyi7dGuyoraV1xlb1lEWuN/MnTS8HY0T6dzwhMSbcA7U7Jiub7B
+mOx6ap2Mv5eoLqsRgSt2LiKItdxISLbVSTWutLeBUkWGvgLX0s4iivkHPTqFtHfy
+DptEYHIbfJ0P+5N1DFdq/031qURMEA4a
+-----END CERTIFICATE-----
+subject=C=US, ST=Florida, O=Insticator, Inc, CN=*.ingage.tech
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5234 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,61 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=returnyoutubedislikeapi.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 15 10:42:00 2024 GMT; NotAfter: Jan 13 10:41:59 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID0zCCA3qgAwIBAgIQMcddTdIURnMOqI3KtPgtjzAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMDE1MTA0MjAwWhcNMjUwMTEzMTA0MTU5WjAmMSQwIgYD
+VQQDExtyZXR1cm55b3V0dWJlZGlzbGlrZWFwaS5jb20wWTATBgcqhkjOPQIBBggq
+hkjOPQMBBwNCAARmgukg1ZGjtfix5K0++qwYcDocycvgKHIcANNfaPEALObmHzyE
+2ddYPoqDMkT2L3IZQpK7Xai5A4d0pwKfayLjo4ICczCCAm8wDgYDVR0PAQH/BAQD
+AgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FEDXx51RlNY0Y85S/mNqSqjcWkcuMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mA
+eXvMk/k4MF4GCCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtp
+Lmdvb2cvcy93ZTEvTWNjMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93
+ZTEuY3J0MEUGA1UdEQQ+MDyCG3JldHVybnlvdXR1YmVkaXNsaWtlYXBpLmNvbYId
+Ki5yZXR1cm55b3V0dWJlZGlzbGlrZWFwaS5jb20wEwYDVR0gBAwwCjAIBgZngQwB
+AgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL3QzTEpi
+WmlCdHNVLmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB3AM8RVu7VLnyv84db
+2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABko/8KjEAAAQDAEgwRgIhAOnDlSQV6nWL
+1lxZrEsDXTb9Qu5WRFj/Yh/jQKPaF1D/AiEAj0c419TavY2PBgIIhpEf6I/pvPm+
+rpGuR0JgujgAffkAdQDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAA
+AZKP/C4fAAAEAwBGMEQCIBBZXiKCPTm9A23mb2muXOh8Sa3D768IerzXCz82aSnX
+AiBQdbE2EO9p/JLWjW0uayTbBQkWpWmoZMpzDi8KgG8JkDAKBggqhkjOPQQDAgNH
+ADBEAiB2/zAAxavtzrvqETh99A0K0QzXqEmN0yWUt0e/BlJ0pwIgZjdb1sql243q
+OuuXXfS8itrvuaC4c22cAezAcbAiNCw=
+-----END CERTIFICATE-----
+subject=CN=returnyoutubedislikeapi.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2872 bytes and written 418 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

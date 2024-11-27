@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=stackadapt.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 20 04:06:04 2024 GMT; NotAfter: Jan 18 04:06:03 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE/zCCA+egAwIBAgISA4tA+h0xG+RDGKMFbqPSEoOXMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMDIwMDQwNjA0WhcNMjUwMTE4MDQwNjAzWjAZMRcwFQYDVQQD
+Ew5zdGFja2FkYXB0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AJ/8sNc+hs+kAXXBvLnwzvL3bpEBCf5mIX5aaxhqCbhllv7Lk9aOAKLPoysHKYFK
+fbxptdN5qseck9ff1R1uoG+Ebjajq9eF25EX41qjKKwsalVUnRtV4UMDm2W+Zq9V
+hOEGcjmzwnebhswv3JTiC0zJ0GkRVAgZtjziGMNBH1cGJJ2roj1dHwZKMlsdieSW
+bFdmuusWS/mh00KjczjTQYOXZA6qn1nZrGOlQ0CmmzAGPKLVKlc3bSZp7SVm8igG
+C4qQ8omut2Mq1Ei/HEXo4zj6pHSV1cRwjryYtVhqGd8+00AB4FACkwpgQHLDnUu3
+efqBisWH9kACXRS96VqkBssCAwEAAaOCAiUwggIhMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUodpuQbBC6eBCIilw9dykJzESwzUwHwYDVR0jBBgwFoAUu7zDR6XkvKnG
+w6RyDBCNojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8v
+cjEwLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iu
+b3JnLzAZBgNVHREEEjAQgg5zdGFja2FkYXB0LmNvbTATBgNVHSAEDDAKMAgGBmeB
+DAECATCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AM8RVu7VLnyv84db2Wkum+ka
+cWdKsBfsrAHSW3fOzDsIAAABkqhQF+kAAAQDAEcwRQIhAP51zgFFTXI7HOd7bNdZ
+TYQc43MI54reyGhGUYY84hpuAiBUbAs78KiJGGRblJdmG+giFNtjswZs4wwVZGrA
+A5iWgAB2AOCSs/wMHcjnaDYf3mG5lk0KUngZinLWcsSwTaVtb1QEAAABkqhQGCgA
+AAQDAEcwRQIgCKO7lLRUrUZ2PSZ6FAJU7wGnaPSxv0gMqoizGDo1iXcCIQCZqlM8
+2JuLMYNF7lxvMa1RRINZfNUUBjFFpeg7797/OzARBggrBgEFBQcBGAQFMAMCAQUw
+DQYJKoZIhvcNAQELBQADggEBAMZNNfus6vQ8fWmRdODdxJPoDwEQVedUde7zSpS6
+cCrTRoRAHq8CXuJ60cROgnHQhJV/rrs/+l4t5jfJxOZg6DjKD/zOYrxwkPKkqkY4
+SlhzgEo1H9orXa905eriLXCSmATblfrGraM+BDhqThLSWVpxvGGxMzjm4kU+a/UE
+GWA6hRUfE04uWLSd9xp5sVHnb9LGqo4eYn5xCb/QCS9hWzXzgxY7QStHgdGnHPe7
+4O60YoGfLbBk/4hNSovAgjeaPAgaZjT0TSkCwCXHIOnUfK0qnlLSTa3yNU3cbIB4
+nBh1eSsrcb7DCAl/pmleWhX1dVwEHDJ8UTV/TtKckofnRlw=
+-----END CERTIFICATE-----
+subject=CN=stackadapt.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, secp384r1, 384 bits
+---
+SSL handshake has read 3295 bytes and written 795 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

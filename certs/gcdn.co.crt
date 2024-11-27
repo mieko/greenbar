@@ -1,0 +1,69 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=LU, L=Contern, O=G-Core Innovations S.a.r.l, CN=*.gcdn.co
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Jul  3 00:00:00 2024 GMT; NotAfter: Aug  3 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYTCCBOagAwIBAgIQAs4kmM+RVYpnXh3vksBbwjAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjQwNzAz
+MDAwMDAwWhcNMjUwODAzMjM1OTU5WjBYMQswCQYDVQQGEwJMVTEQMA4GA1UEBxMH
+Q29udGVybjEjMCEGA1UEChMaRy1Db3JlIElubm92YXRpb25zIFMuYS5yLmwxEjAQ
+BgNVBAMMCSouZ2Nkbi5jbzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABPcNc6xV
+x51lLlDWejLcVSbBgvmvf2mL+i8OSQx7FIs05ZKVY+5ATW5vVvb1L85Fu7PZy67S
+ZnZ+Vu6JSPo2LuGjggOPMIIDizAfBgNVHSMEGDAWgBSKI+uea9f5N135bSE5dpqh
+Z94QqDAdBgNVHQ4EFgQUpvRXxRzSUQQTgdfjR2o1AXOEtzIwHQYDVR0RBBYwFIIJ
+Ki5nY2RuLmNvggdnY2RuLmNvMD4GA1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYB
+BQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMC
+A4gwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMIGfBgNVHR8EgZcwgZQw
+SKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcz
+VExTRUNDU0hBMzg0MjAyMENBMS0yLmNybDBIoEagRIZCaHR0cDovL2NybDQuZGln
+aWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNFQ0NTSEEzODQyMDIwQ0ExLTIu
+Y3JsMIGHBggrBgEFBQcBAQR7MHkwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRp
+Z2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZFaHR0cDovL2NhY2VydHMuZGlnaWNlcnQu
+Y29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNFQ0NTSEEzODQyMDIwQ0ExLTIuY3J0MAwG
+A1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2ABLxTjS9U3JM
+hAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABkHhrafAAAAQDAEcwRQIgfUwemLeF
+TTFRZ6li2XtiLpcvqo6U2/Txkk6+uq03YuwCIQDVKaAAWNqvm+X4VqnZfoEx0oGJ
+5va1EqWwgM9yYr3lWAB2AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45Q
+AAABkHhracsAAAQDAEcwRQIgWXA5IeohXHGjlu5avkfjZJo6t9I0vEEt8mQwthh2
+BysCIQDqSYP5M/hgktTW7QYZf00c35Sb+M0p48CHkGQ52EuVaAB3AMz7D2qFcQll
+/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABkHhracUAAAQDAEgwRgIhAPMBW9w+
++tJPtxeNQCGKM79Gcr0qhrGp32txLhOT5KzRAiEAja4ejTRdMe5KaaE5yssPFCko
+6d9stlsxndXOOIXO4GEwCgYIKoZIzj0EAwMDaQAwZgIxAL07Df7v8LeHk218wMrn
++of/2WIvNLUdKWoeM28PKqjtLEcHrY/8fflwF+NNiDh2qwIxALLs1sKef9Wum8vE
+11DrhMjtZf73aUx8wBQAYLdqyReFR0uDLKLGAj+77TOvd82uaA==
+-----END CERTIFICATE-----
+subject=C=LU, L=Contern, O=G-Core Innovations S.a.r.l, CN=*.gcdn.co
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3237 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

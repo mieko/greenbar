@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=home-assistant.io
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct  9 06:06:20 2024 GMT; NotAfter: Jan  7 06:06:19 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDuDCCA16gAwIBAgIRAKjndohvgq0ZDgRYaII6PfcwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTAwOTA2MDYyMFoXDTI1MDEwNzA2MDYxOVowHDEaMBgG
+A1UEAxMRaG9tZS1hc3Npc3RhbnQuaW8wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC
+AATKiazf6rrpp3z47HzAesfja/vmlXZn8KEEiUz7qyhBOwrF++pbg1Fvsl5EO+Wf
+Yr756CUyItag51SYZo/JgvC3o4ICYDCCAlwwDgYDVR0PAQH/BAQDAgeAMBMGA1Ud
+JQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFH1Z8rBPV6KC
+++EJiRzGtipHdMW0MB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4G
+CCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93
+ZTEvcU9jMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MDEG
+A1UdEQQqMCiCEWhvbWUtYXNzaXN0YW50LmlvghMqLmhvbWUtYXNzaXN0YW50Lmlv
+MBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9j
+LnBraS5nb29nL3dlMS9KVHdQZGNoX2VDOC5jcmwwggEFBgorBgEEAdZ5AgQCBIH2
+BIHzAPEAdwDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZJwGZ/f
+AAAEAwBIMEYCIQDC/taFsc4QukCgJZql/LeLOF/l0KbXKU/1I9B0rIJKSQIhAOsK
+YutdXvZhh/ErcZuXBaFrfu+Cj5HPGH2GUO56lvU+AHYAzxFW7tUufK/zh1vZaS6b
+6RpxZ0qwF+ysAdJbd87MOwgAAAGScBmf3QAABAMARzBFAiEA2wSbsmXEpftUfxUl
+toObj6t9wihPV3ODS1Tv7VcDsH4CIDH6NOaDUnOv+DBED3jbcdPsiMxoIP9oA7To
+YXJbjU+LMAoGCCqGSM49BAMCA0gAMEUCIHnH2+yo7++z+V4YEDzlJDjO5P1eY4L9
+p4Q3Dn6l5VNPAiEApXnXEaCDAfKLSa0tfc/R+LV7jsOlDcMaraFokKk8la0=
+-----END CERTIFICATE-----
+subject=CN=home-assistant.io
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2845 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,61 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=the-ozone-project.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 14 07:47:37 2024 GMT; NotAfter: Jan 12 07:47:36 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDwjCCA2igAwIBAgIRAKqrVzoG2rPHEXVZocnF20kwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTAxNDA3NDczN1oXDTI1MDExMjA3NDczNlowIDEeMBwG
+A1UEAxMVdGhlLW96b25lLXByb2plY3QuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0D
+AQcDQgAEwNmdgrq91gfNKxQi8vlF5UKqjCegKub/+SBdFpsMcQrZasUyHVn7BhQE
+NJG0ksLisxyJf0Zxo5MqO+xJFd3yTqOCAmYwggJiMA4GA1UdDwEB/wQEAwIHgDAT
+BgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTGXytf
+cQUbMc3HkyrYi/yumDm41zAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5
+ODBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29n
+L3Mvd2UxL3FxczAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNy
+dDA5BgNVHREEMjAwghV0aGUtb3pvbmUtcHJvamVjdC5jb22CFyoudGhlLW96b25l
+LXByb2plY3QuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6Ap
+oCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS8xOVdXSEtuVm95SS5jcmwwggEDBgor
+BgEEAdZ5AgQCBIH0BIHxAO8AdgDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3
+zsw7CAAAAZKKNiqbAAAEAwBHMEUCIGCWARTdij3XvC6jVDWepLufjqkgcQa1tXlO
+Pz2GhHzjAiEA9Af0hokD/PEjS7or8B77/AhWaRUdMvftE056CqAS+AsAdQDgkrP8
+DB3I52g2H95huZZNClJ4GYpy1nLEsE2lbW9UBAAAAZKKNiq+AAAEAwBGMEQCIBMi
+GF2Qr9ulmY8m0Zqh8eiSP62y7bLjU7S8t8tLMK+jAiAn7ARIIbjOLKI6746Ydy9u
+Dt687Y9y40Nr7VAi9BLYNjAKBggqhkjOPQQDAgNIADBFAiEA5oSTKAM4Xy5ZIklL
+afdjgWACksnpw2bCmWz3rIiHTG0CIA5qnMl6WDqd4maP0PytWmzVUAvX+Avanfj2
+GbfHE/Yv
+-----END CERTIFICATE-----
+subject=CN=the-ozone-project.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2855 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,76 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=unrulymedia.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr  4 00:00:00 2024 GMT; NotAfter: May  3 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF3DCCBMSgAwIBAgIQDfxPN3mUtAIBx0SIL21mVjANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDQwNDAwMDAwMFoXDTI1MDUwMzIzNTk1OVowGjEY
+MBYGA1UEAxMPdW5ydWx5bWVkaWEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAmSyy5xfVEZ5TUPJqMO9DPUozUlehYuEAFSNWgDu4n4uuzvzSBakQ
+mrSZ0Ne1M9QVV3kYt6CvWayT8moTFr1Gn+zNtuyxR2/IrdSCyQVcTfqX0J6bpVhQ
+6G4PGIcHxkQqk78KfQWIR+WfG+b0oqPuMC8jCRA9Ej6N5/qsb/TGserQ0NzVLbup
+nfCNYnwLSdYcjmxNwBSMBfjZej3HKN1tqj6mJ9xE3QSvdf1knOGWxOfM5XqQUKJG
+brUZq9QyBFZCD4w4mxfpSzcl94zTYssbRngEVrHBtnZkW1W9Y4JFA3XtqkOXaFCP
+x/M9ydvt/W9K88c97sVThOXS7sb8FE/14wIDAQABo4IC+jCCAvYwHwYDVR0jBBgw
+FoAUVdkYX9IczAHhWLS+q9lVQgHXLgIwHQYDVR0OBBYEFKP7WJiJNdyqL7ZsZIRQ
+VYam+7FbMC0GA1UdEQQmMCSCD3VucnVseW1lZGlhLmNvbYIRKi51bnJ1bHltZWRp
+YS5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRw
+Oi8vY3JsLnIybTAzLmFtYXpvbnRydXN0LmNvbS9yMm0wMy5jcmwwdQYIKwYBBQUH
+AQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5yMm0wMy5hbWF6b250cnVz
+dC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQucjJtMDMuYW1hem9udHJ1c3Qu
+Y29tL3IybTAzLmNlcjAMBgNVHRMBAf8EAjAAMIIBfQYKKwYBBAHWeQIEAgSCAW0E
+ggFpAWcAdgBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAY6oMa/y
+AAAEAwBHMEUCIGfRFRQ06ICV72GPVZiEmI9HrxU0F4mB1xplyt+m2DWdAiEA9tPo
+C8y1m0YzOSpKyaKIh/BqQm83e2ikXsNQZtPSDEMAdQB9WR4S4XgqexxhZ3xe/fjQ
+h1wUoE6VnrkDL9kOjC55uAAAAY6oMbAeAAAEAwBGMEQCICQ3aDPW2YF/aUjwHZdY
+26nK2I/TZpQ5eUf4rO5e+uraAiB7WfIxooAYAeUSrrvvKl/UKjENGL1K9GOqRHzi
+0WzQjgB2AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABjqgxsE0A
+AAQDAEcwRQIgPj4rdnT0rn2VULDd9LoXUh5TnR6t+NXL1O7XcdaTl9gCIQCKniLp
+9weXcSVW2yZjV2bXbOM7LgV6Zdc/zw+zPbR0LDANBgkqhkiG9w0BAQsFAAOCAQEA
+sBo1YOcK2ACxozgdJ8ICRjaO/RSXov+3+4+ETAJAH98uh+KEB8KN9SF5gHOGY/iG
+7gkKxK7YbNcNI2sszNphHIVSPer079hJIR+G8Yk2nJxSUA51/XTJ5k2HZb2fXBTi
+LZ0rF/rBQEeNfnUm5AX5UPM6tFOriKmLLbQVT+dMenHmqczd5LHRD6tohDo4/qv4
+19p3CXuBP/Hpms3KczpGFpLJW2daWO/YxJ4TLuyVwsexAXlgqt4ubKBW14e7gZH9
+IxxBTN00BLaBqjQUYYFq+pgPsfKchh5DgfuWwUI7+NGnw+lQ4IpBvynnNkIbCLQl
+fYrsM4pyWxRDBg3li4A/2w==
+-----END CERTIFICATE-----
+subject=CN=unrulymedia.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5504 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=dashlane.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 26 10:05:06 2024 GMT; NotAfter: Feb 24 10:05:05 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDmTCCAz6gAwIBAgIRAJD0icyb1XOSDoJ4RPQ23x0wCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEyNjEwMDUwNloXDTI1MDIyNDEwMDUwNVowFzEVMBMG
+A1UEAxMMZGFzaGxhbmUuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsMjL
+mhMShx6B5I9x3hEBMx7v2GgeaDQgZimLyuYkLQQYMApFDx6C6vSacxmV6gzIr7SH
+i0SdtWDJdZCBZryqX6OCAkUwggJBMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSuSDU85tbUyt/KtoEd
+N5zsIOQ3hDAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEF
+BQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL2tQ
+UTAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAXBgNVHREE
+EDAOggxkYXNobGFuZS5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8w
+LTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL1Q1OHEzeDBqeVhJLmNybDCC
+AQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7
+uocyHf0eN45QAAABk2glevYAAAQDAEYwRAIgarVMKrYdTthWhxz1tfnnyipWdkd+
+ocgZWAAIheFET94CIGG7iLBTtykZi0BJ0KlG6nO00AGQZuFtxcmxMxLeRjkRAHcA
+TnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGTaCV66AAABAMASDBG
+AiEAnU7Q7ztyQ49ZqvAzyAQ7esjmWqkhODJkiGJ3ZQs0KOkCIQCjl0Uh31ggS7lH
+DajtMXZtNmj9U5S6dy2cTzpnAdjpRTAKBggqhkjOPQQDAgNJADBGAiEA9kNH7KNh
+Co7HY/V9JG4e0j4L1OdSo36gbw2qdMgkhWQCIQDemWV9psH54kmuKEH/SiInzTAr
+u97MrhFYepkt9L5pAg==
+-----END CERTIFICATE-----
+subject=CN=dashlane.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2813 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

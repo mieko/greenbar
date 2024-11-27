@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=traffmonetizer.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 12 03:10:08 2024 GMT; NotAfter: Feb 10 03:10:07 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDvDCCA2GgAwIBAgIQUTN3/PxRuLQNhqZxBO/v/DAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTEyMDMxMDA4WhcNMjUwMjEwMDMxMDA3WjAdMRswGQYD
+VQQDExJ0cmFmZm1vbmV0aXplci5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC
+AASsOnv0nMR6cK4xIHoj7zP8K7tj8dJwxm/slNGb8N+lG8ryTcFFidG/Qvcge8mp
+KRn6dcAMKpjwi3kIrST6aHxEo4ICYzCCAl8wDgYDVR0PAQH/BAQDAgeAMBMGA1Ud
+JQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFIfI3x7Ue7Js
+HQinuxTeskMR94OjMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4G
+CCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93
+ZTEvVVRNMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MDMG
+A1UdEQQsMCqCEnRyYWZmbW9uZXRpemVyLmNvbYIUKi50cmFmZm1vbmV0aXplci5j
+b20wEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDov
+L2MucGtpLmdvb2cvd2UxL2lvQ1dmTGx5X0dnLmNybDCCAQYGCisGAQQB1nkCBAIE
+gfcEgfQA8gB3AKLjCuRF772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAABkx6Q
+iEwAAAQDAEgwRgIhAJLQJof4QpYJxVy5HMGoxROIO5pJs3jMuYt4htLU7FqkAiEA
+wrSlY17mRn6pc52ofNHRYq0g0aDoXOMUugboWvwygnoAdwDPEVbu1S58r/OHW9lp
+LpvpGnFnSrAX7KwB0lt3zsw7CAAAAZMekIhtAAAEAwBIMEYCIQCisbqwCBtQI+xk
+LllHFwvz7gHXRxhGeltHmDcAy90xKwIhAPKkf2cdrKtfdDgbTuBllqX40MYmDGuI
+1ZUkD21Aqn41MAoGCCqGSM49BAMCA0kAMEYCIQCo1eG/N6KlTWdA4OHDuS06GeLi
+xCcsKn/s0FNi1KTr9QIhAPNZTMDQsiN7ATiNFeXDywbB7/Tlx+Y/ev8ONU047ppv
+-----END CERTIFICATE-----
+subject=CN=traffmonetizer.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2848 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,76 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=privacymanager.io
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Feb  4 00:00:00 2024 GMT; NotAfter: Mar  4 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF4zCCBMugAwIBAgIQBG1qonxfZCwkn6BWDZRn/zANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDIwNDAwMDAwMFoXDTI1MDMwNDIzNTk1OVowHDEa
+MBgGA1UEAxMRcHJpdmFjeW1hbmFnZXIuaW8wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCUAh0oXcixXYcqn483dybK7906baZUOF85x030wSaWTCnSJGPp
+84LQtJ4FCpaWtGYJyA4rwWmiJvdXQTz1sHo91JrSK+GG8bMin9KUFmieDzDJL8xR
+a0nXGEvcv2ss2p/ghUfcORM3MGk3SEZGhTqALpmHoKpJOkVaut6+wgRemQ9Y6MsN
+2bIV8CoiSU92t9aoTH1G8Gw7L3rxrl6B7LbWWNkpukRAbEozy6cDhNW7GOm0X7cg
+tQJojASr6Zs9gK/OgJX4la3FDpZb4KH95cBNcgiW2EdjeE8RaBcYDTw+c1RAIH2N
+MQNhoJAQUplS83/zBLz1478VDU2vOASKgA7NAgMBAAGjggL/MIIC+zAfBgNVHSME
+GDAWgBTAMVLNWlDDgnx0cc7L6Zz5euuC4jAdBgNVHQ4EFgQUyXYxeXdQoIVpmEkj
+DcUGPaRcKAswMwYDVR0RBCwwKoIRcHJpdmFjeW1hbmFnZXIuaW+CFXd3dy5wcml2
+YWN5bWFuYWdlci5pbzATBgNVHSAEDDAKMAgGBmeBDAECATAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAu
+oCyGKmh0dHA6Ly9jcmwucjJtMDIuYW1hem9udHJ1c3QuY29tL3IybTAyLmNybDB1
+BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnIybTAyLmFt
+YXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5yMm0wMi5hbWF6
+b250cnVzdC5jb20vcjJtMDIuY2VyMAwGA1UdEwEB/wQCMAAwggF8BgorBgEEAdZ5
+AgQCBIIBbASCAWgBZgB1AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnf
+AAABjXI4bU4AAAQDAEYwRAIgEr6bN3ajYy2B1u29v1NDWMtoSqG+nS9EWrffKojP
+n1gCIG0dLxjGp4L7XD7VHpHB5WPbhbZCMlDFW0LI4RR2Ob4EAHYAVYHUwhaQNgFK
+6gubVzxT8MDkOHhwJQgXL6OqHQcT0wwAAAGNcjhtlQAABAMARzBFAiEA0c2b+zxz
+WJpLMEalqZBO1gkPB/GlndSVROgPOPUUNpgCIEvVrO53mzy+W61hoNXVsH9Ugp6L
+icUgntbqinUEtgrnAHUAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebgA
+AAGNcjhs7AAABAMARjBEAiBfBWLM72WK6BCfy9m/6AKnQr8fR/KOXLyQ/Tj9fxGO
+6QIgWIWWwwUtb05Z/pIWbZbn7+/yWpZaTfQHNkYEtmp/OEowDQYJKoZIhvcNAQEL
+BQADggEBAFrH2u98gidhCcZGlpqqCYEnriVpmw0EB5FDIJBkysH60RnhNg+51ZXJ
+4cm4foyHYhaSb07ftLg6nvaz7/Xiyj3/5Tilq6PkxxTOsCpIwdvj2ovQdlgh9wRF
+m2+NO74RtwZTZrAcqD7A9kKVjQhzc/p70NNmrkDDeaUWzvMSJiRUaIIs05SjW7Wv
+owxpAAnURFLX2LnRumS13n4X5LiZ8LGLmdAmOxBhnTLueaRmYnb8F0dB0KtgNQi0
+UuK+JKkv3DoiFrUipyOHPSepJz6CPnH3l5E6queKN0qgy6fuzB1AMQeH9hQ13+ew
+sRsEx54RUOxkRL2kMc9h3iOx8teBv9c=
+-----END CERTIFICATE-----
+subject=CN=privacymanager.io
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5511 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

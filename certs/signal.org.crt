@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=signal.org
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 24 12:20:07 2024 GMT; NotAfter: Feb 22 12:20:06 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDlTCCAzugAwIBAgIRAMt5KpV0DS69DSAy5mW2mPowCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEyNDEyMjAwN1oXDTI1MDIyMjEyMjAwNlowFTETMBEG
+A1UEAxMKc2lnbmFsLm9yZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABMERtRTo
+0dH4YIntf99BoIj0YHvqBZ/pa+TO7LnssRlS5swIPdCpMa1Dbnlh1n2P47bDoAaX
+9PgvS6BsvHiPsqujggJEMIICQDAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUeO9RlgoKhy5rHZx6ACuo
+Xmd53xIwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS95M2sw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwFQYDVR0RBA4w
+DIIKc2lnbmFsLm9yZzATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCug
+KaAnhiVodHRwOi8vYy5wa2kuZ29vZy93ZTEvVHRPVFRyQzh2UlEuY3JsMIIBBQYK
+KwYBBAHWeQIEAgSB9gSB8wDxAHcAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJb
+d87MOwgAAAGTXlRglAAABAMASDBGAiEAotbfg0H0+wpLEeybVy4SDpvSaPzSgxjy
+ZneXxlpaJMQCIQCiH2vGF5UHIJw4YA+iUighKT/lPFDIS6j+Sn8t3TzOlQB2AObS
+MWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABk15UYHgAAAQDAEcwRQIg
+CweNNcTwd9urgrcwxQlW0dagnCVJQuHB2SQPthj9Y+ICIQC5VsZ38aXtjfXZXCP2
+zNePAaVtIhBCyzsQjRLDtbJtODAKBggqhkjOPQQDAgNIADBFAiEA9Czcf7fjlw1c
+DQH/LOjDqqedEyIxS5ojqyFEvTxGNDgCIGwC+Yn+ircKqloSpERPpSp1YgZCwqdD
+ZIEK6sEfphzp
+-----END CERTIFICATE-----
+subject=CN=signal.org
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2809 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

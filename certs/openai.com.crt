@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=openai.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct  7 23:23:47 2024 GMT; NotAfter: Jan  6 00:23:46 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDojCCA0egAwIBAgIRANQI8xXB3Rs4DUfhTACFiSQwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTAwNzIzMjM0N1oXDTI1MDEwNjAwMjM0NlowFTETMBEG
+A1UEAxMKb3BlbmFpLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABDKFRurh
+YxdM4P7kPa2wKVAq4gQgRO0o6UNHjdli5GJrcGamFMLcpRHCTJYGFH9PIdf9uFzI
+VBUPJSFScFjeFJ+jggJQMIICTDAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUvStVeXWGK9Z0Zirjxk+M
+jESkPZwwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS8xQWcw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwIwYDVR0RBBww
+GoIKb3BlbmFpLmNvbYIMKi5vcGVuYWkuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIB
+MDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9XQ3V1RWJf
+T2Rudy5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDPEVbu1S58r/OHW9lp
+LpvpGnFnSrAX7KwB0lt3zsw7CAAAAZJpgruwAAAEAwBGMEQCIGbxvTiZvTGlyg7n
+mGTH72XoLp38hBWHmqbcozZqvgnCAiBkX2IXayEdb0S+etBma4IJq2v7EeNvHR7R
+UB3/VoQ8jwB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkmmC
+u58AAAQDAEcwRQIgLTTU8M9Hf+Nxl7d8i97iU1e+W+hxhcquxpBUz2xsQC0CIQCx
+CLZGBBG1oepJLFcLA+PphMtb0sedeN8tQCuwMKhF3zAKBggqhkjOPQQDAgNJADBG
+AiEAsR1koytSiwjYfbi6XeolX22x12AV8UadSRVko5U3rXcCIQCyxSKB4GrGtGAb
+20TpGrHnjKetQd/H6GdtPpPQNujy+g==
+-----END CERTIFICATE-----
+subject=CN=openai.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2821 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

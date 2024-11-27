@@ -1,0 +1,77 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.tynt.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  5 00:00:00 2024 GMT; NotAfter: Sep 30 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGJzCCBQ+gAwIBAgIQHVSbEFcGymEA4dKLBDHypzANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTI0MDkwNTAwMDAwMFoXDTI1MDkzMDIzNTk1OVowFTETMBEGA1UEAwwKKi50
+eW50LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJNDsLyLsBnc
+46O34/cdkdNmhtnKGlfnwuw6Xir96i8a7bFwk7ZcHIszTnZHe99jvx0lBzrcdJtg
+G/gT9vl3PwC7uPQW0VTw3UH6EKgmHLmOVvxYUZT40OUMRyKtN3lyxoiYr1ENAOKs
+1Dckb48kKMFu7/WwVV3jaLTBIC9yllFnJrKOcSVyzimxIT6Z6dSPPmx1GtAyJnNn
+/ol9dRo7VZu7DFZHwW8rIYdHJDx6RFEjjn9ddAMljJuEISkoJYLxKBpTnNei9zz3
+7gIGYsliti5wAIJzf3xXWyxQcmyScCXR9Vzwr915WvMkz1pGubsJPQnRZR1Gf2Bj
+0/FJlH6F5XcCAwEAAaOCAvYwggLyMB8GA1UdIwQYMBaAFI2MXsRUrYrhd+mb+ZsF
+4bgBjWHhMB0GA1UdDgQWBBQkcSV99cu9aOStuXWvSzZT+uxacTAOBgNVHQ8BAf8E
+BAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIBFhdodHRw
+czovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEBBHgwdjBP
+BggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNBRG9t
+YWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcwAYYXaHR0
+cDovL29jc3Auc2VjdGlnby5jb20wHwYDVR0RBBgwFoIKKi50eW50LmNvbYIIdHlu
+dC5jb20wggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB3AN3cyjSV1+EWBeeVMvrH
+n/g9HFDf2wA6FBJ2Ciysu8gqAAABkcKb7yQAAAQDAEgwRgIhALk30RVyd3GYtCgF
+NH+fjf0ZfeHEpqul+vU3D9Zcr7LXAiEArpMOKF4EfrwymGRmzl3Gt5HIbVa2ggkF
+5tsYbGEAx2cAdgAN4fIwK9MNwUBiEgnqVS78R3R8sdfpMO8OQh60fk6qNAAAAZHC
+m+7iAAAEAwBHMEUCIQC9wxKHoDIm+sMQWVMt2ONVLnZIv0BOX+Es83T5Bi1ojQIg
+WgwPljww0SYqVeAU8iS+GIn2gFU7kg05kq5Fthi2LBcAdQAS8U40vVNyTIQGGcOP
+P3oT+Oe1YoeInG0wBYTr5YYmOgAAAZHCm+61AAAEAwBGMEQCIAPBKFP5wyVBEOnE
+GANzD6SarlLNWXbZ4kX4B5rHcjEkAiAS11JsT3iG77HoYesUF4iFxnMd7M/cKARp
+MQs1zUA/lDANBgkqhkiG9w0BAQsFAAOCAQEAk/7d1tRvuJH7L/wRDrcOqIyaPtB0
+PUcFNfvQc4BFUjaiAtvE9eec7IB0gtEZI3ZpZg8AciArecWP8YEIXJVUQt+VAkMW
+9rq4m6nnVoAi/J59/dnJX/Idw1oyfwcax9B3AqxRTGY4KCO9hnrTWhJdajQRyRRr
+IyMSLwzeTTbUBVQlc7rY55opu9b9f0vIeJorfi8gfCFBvrLUFIdMWyyGuOFo2ng1
+2NynLdzgiovPlxsU7IfYMHMmVshT7+x9KZ1nd6QHiiXNw/r01+DGfOSBwH6VZWQY
+qL7H5yuNIARYVUeHBdFlxBYijsR9Bhn56t0tdmTLnqB3gMfoW61t/9enwg==
+-----END CERTIFICATE-----
+subject=CN=*.tynt.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6204 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,89 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.flixcdn.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr 15 00:00:00 2024 GMT; NotAfter: May 16 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMTCCBRmgAwIBAgIRAOBDHnBEIdMILaAdR2UjgVAwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yNDA0MTUwMDAwMDBaFw0yNTA1MTYyMzU5NTlaMBgxFjAUBgNVBAMMDSou
+ZmxpeGNkbi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCLCW78
+YggK6KNGq5mmHFgrnSLPyb6txuVdOLosU4IXs95Xxb/mG/NL0PNosr5piAayb2Hr
+03PTMop9lqqRpuNqg3Wizm7yCFpQDm6IFWf+1xg/AMAF9GHYQwrxO1oN6pnUdoIn
+GW+jT071b55Etz2+92FqBJREPAu8XxbnGT/R234kq0OxizYYT9JI3L/6Y5gqg2Gc
++bNB9r+VTXeS492b/8FZD48RsUAJOmWIe/T+0hJftnQ3UFovjpcTPmVLrwS9IAzr
+Lb9JtE1gYY+V0j4zEM/5mDNX4vMx2h42VwPB/xM2yiuDUVydT3FE8/AhpB4JMH88
+4CLAfG4MFCokI7YxAgMBAAGjggL8MIIC+DAfBgNVHSMEGDAWgBSNjF7EVK2K4Xfp
+m/mbBeG4AY1h4TAdBgNVHQ4EFgQU+B6V1y7alrXCPH1ASuwYPN0ZZM0wDgYDVR0P
+AQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEFBQcCARYX
+aHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEFBQcBAQR4
+MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JT
+QURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGG
+F2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMCUGA1UdEQQeMByCDSouZmxpeGNkbi5j
+b22CC2ZsaXhjZG4uY29tMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgDPEVbu
+1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAY7iFvulAAAEAwBHMEUCIQDT
+S3G+S+EWyaaw7O534O0TWL2FLYoodXc6zqfOXXCfDAIgHwAlFELNx694zplbxcYC
+ZLdBgSy/n4lCL0bfkZ2qPg8AdgCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14bLMS5
+UKRH5wAAAY7iFvt7AAAEAwBHMEUCIChGWK0deQA8zPGtbIZevapI4/US1zgwGVxW
+CBDpy7vfAiEA2ARQ3yRhHy2tENX+C1x+eHizD8f9taWyWCf5rJQfBp0AdgBOdaMn
+XJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAY7iFvtIAAAEAwBHMEUCIQC+
+ZK29S/dAm2A0gqlxjHdG1xALFIwSo/fa3hTaddG3FwIgNI6c8GUrMFCQPHnTvhZ8
+XzJyu1FCKEI5wR/YZP/WbkIwDQYJKoZIhvcNAQELBQADggEBACfp4joymTiNz+c9
+DwrFHfZ9w5LzthdqWuEAp+zyWj9V0wGiQI8xQdmRa1q78/OYCHPb1W07Sdsu/Z00
+pRqUTDGNyh5FJnXjeaB2vRTzFHXAOZBmS/h8DfO657yujwoqy06/AuebyYjfHapZ
+UiSnrfVnm0S8IVK4KeH2ofbHucamiB0kg3FxFx/Fta5REtA7lIIuLHjHiDk77Xb5
+XeybJobAq+FNvQ0bjcBFlMvE9HAUC149fMHNliUUMdw6n2X1XnoqBWPOq7ZU5cED
+Lp1LytOoB8mc3aeGJTuXDGADwtLT8/hgouDNRdBjlSKp5DbLeDQIyXIqr9WNmYyT
+hD7RPcE=
+-----END CERTIFICATE-----
+subject=CN=*.flixcdn.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, secp384r1, 384 bits
+---
+SSL handshake has read 6195 bytes and written 480 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 70A3D42CC8CE663D9C763F6D38FF8FA96E3340B99E198D3FE25E5E06B272CFB2
+    Session-ID-ctx: 
+    Master-Key: 879ED0F4908DC1E96D46DF6C9CCBE330D365C1833616CDD4B73916C6C49FFC5789837CF8C9BA58CEF88F14D7029774D8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697211
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

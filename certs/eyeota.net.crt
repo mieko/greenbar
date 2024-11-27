@@ -1,0 +1,89 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=eyeota.com
+   i:C=LV, L=Riga, O=GoGetSSL, CN=GoGetSSL RSA DV CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr  2 00:00:00 2024 GMT; NotAfter: Mar  8 23:59:59 2025 GMT
+ 1 s:C=LV, L=Riga, O=GoGetSSL, CN=GoGetSSL RSA DV CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Sep  6 00:00:00 2018 GMT; NotAfter: Sep  5 23:59:59 2028 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGODCCBSCgAwIBAgIQVBDKaAW8wMSw8dCR4lN3mDANBgkqhkiG9w0BAQsFADBM
+MQswCQYDVQQGEwJMVjENMAsGA1UEBxMEUmlnYTERMA8GA1UEChMIR29HZXRTU0wx
+GzAZBgNVBAMTEkdvR2V0U1NMIFJTQSBEViBDQTAeFw0yNDA0MDIwMDAwMDBaFw0y
+NTAzMDgyMzU5NTlaMBUxEzARBgNVBAMTCmV5ZW90YS5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQCkHUFV+1w841ho9pD+vDirvomhzTRt5beYuVEm
+k6Yj5eyQAozcf+Nl7yjoIlMzwIC8GK1K8671/iOQf8Ocgi8wkDaXbggMucrsf0pR
+wYArUDMfXMwl9175jBmWVLHFi18S74Rniu6ffz1CW/zBVP6uHzitiIPUzTAjSegN
+28GEHrJnPNZDHLvkn8yv0jT7/rxiuzRzbPuHMDE+QOsLHasNLsZdnphnQpFPQL68
+BoxCUSmDFyQSoKDzdwW2+b+RyhrKRco/JU73IXDV004zUdCP85ti+IJQlQS4kotC
+XQgWIO7RIqZyXkTv5zNAgptZKNjh4D5lsuhXLIsxZxNWOHqRAgMBAAGjggNLMIID
+RzAfBgNVHSMEGDAWgBT5+1DEi2e7Z2T+gyGmqc4/VYSTmTAdBgNVHQ4EFgQUEmxE
+op1iT2m5oCSJ1tU+siCSLtowDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEsGA1UdIAREMEIwNgYLKwYB
+BAGyMQECAkAwJzAlBggrBgEFBQcCARYZaHR0cHM6Ly9jcHMudXNlcnRydXN0LmNv
+bTAIBgZngQwBAgEwPQYDVR0fBDYwNDAyoDCgLoYsaHR0cDovL2NybC51c2VydHJ1
+c3QuY29tL0dvR2V0U1NMUlNBRFZDQS5jcmwwbwYIKwYBBQUHAQEEYzBhMDgGCCsG
+AQUFBzAChixodHRwOi8vY3J0LnVzZXJ0cnVzdC5jb20vR29HZXRTU0xSU0FEVkNB
+LmNydDAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudXNlcnRydXN0LmNvbTCCAXwG
+CisGAQQB1nkCBAIEggFsBIIBaAFmAHUAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ys
+AdJbd87MOwgAAAGOnn9qLgAABAMARjBEAiATyFb7jfbhfc8Z9vw4iSR4v8o0+e5y
+RiCeyZSa+9xfoQIgelPU9y//u1NRddPorDlcdeU0d5Rz/BGQ9ecYA9G7xlcAdQCi
+4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14bLMS5UKRH5wAAAY6ef2oMAAAEAwBGMEQC
+IB1AAQdkCUWN1MRiSwSknmv/qrcfuP8IAGfOxs0n3F9oAiB+yPDCChPvBYwiZIIM
+EDTCfHc8VdwiPzBE43F879BH2wB2AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6
+ZLFimjnfAAABjp5/agsAAAQDAEcwRQIhAP58CVgidn6sV9GfIQZcStrfA42nkO4E
+mTtUyeDxkumpAiB2NXnGlspNzYlnmRIDHE7ksnAjxFhAUlXTsDAvnf9nRTBLBgNV
+HREERDBCggpleWVvdGEuY29tggwqLmV5ZW90YS5jb22CECouaW50LmV5ZW90YS5j
+b22CFCouc3RhZ2luZy5leWVvdGEuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQCGJoFk
++luil7vU0RUxvQ/yY6P06LMyoVF4SZeICNYmMhE8GnQ5vK+PL8C0BcII8dEyoCpH
+6MZSwucLXc7VGpubMTh3btbNxLHVmpXy68oClzieYBoDnJEAMQS0mRq/YUUb+eWK
+moyVpJXN5US4TdmIhyjKz2b+JLQkZHQWG42oB8ozmjSJLC729wONindD8fdFR0mm
+pqq0xsy/uyUDcF6S5uepw9hJuoBFik3gJW9+UbtKGRLxSlqiuzPN+b6GG2ex9iu3
+Q6b1yQYLKjv9LJE9NBCOf8NcavU0GFfEgv2TV99qkWXKygtUVDIQBuddGflwLu9q
+xe2//IjGQH2OHDbt
+-----END CERTIFICATE-----
+subject=CN=eyeota.com
+issuer=C=LV, L=Riga, O=GoGetSSL, CN=GoGetSSL RSA DV CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 6102 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: DFB8E8ADE2F31F14525204745F8C5DD1A0346271A98F42A52DC5FFCC159C9AEB
+    Session-ID-ctx: 
+    Master-Key: FF2308AAC3432EE19BB466C83A3395A2D06FB719DBF6A5BCE0D56FFA5974E088D06C5B92CAF5319B56ADA7B4E75E21EE
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697190
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=surfshark.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct  6 23:08:52 2024 GMT; NotAfter: Jan  4 23:08:51 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDqzCCA1GgAwIBAgIRAO2/6e9vSq6wDsv6JvEyUYwwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTAwNjIzMDg1MloXDTI1MDEwNDIzMDg1MVowGDEWMBQG
+A1UEAxMNc3VyZnNoYXJrLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKtm
+pofLTWnKL/Bcs2FTrhffUxWif1TY6nOVfSdwU2U1/+/Yt2z5pDvg4VCPFoRgbzi2
+ra5vLu87p3iUBbVCpPKjggJXMIICUzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAww
+CgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUzXQ8um8RY25Bs1Mb
+QuUxrCfglbAwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYB
+BQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS83
+YjgwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwKQYDVR0R
+BCIwIIINc3VyZnNoYXJrLmNvbYIPKi5zdXJmc2hhcmsuY29tMBMGA1UdIAQMMAow
+CAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dl
+MS9zNzdncUMwMldnby5jcmwwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDPEVbu
+1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZJkTrWtAAAEAwBHMEUCIHVa
+bBfjAkQM2n3m/fsHKXU2M9UtBQh5unopJGgqGgwCAiEAu1HCPRDuuOgQ+zTqBq5K
+uzNbx7QdZF7PXEhiPuqjQ90AdgDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA
+/kwNsAAAAZJkTrW4AAAEAwBHMEUCIHKMyrUDAbLeQwiMYb07CP2hai0W7QauQuUB
+PuNmMCrJAiEA1MyrQhXlNvM9vBdJLPL//D50Dn7moDU9efWoujEMf8UwCgYIKoZI
+zj0EAwIDSAAwRQIgUH42Utmc4pICxBDJ7b0E/t/0/8e63/d3tZu34RgsvHECIQCv
+qJsuKFB3qBFOd1wVWjOg3z683P3NPajfOnAEWQaoag==
+-----END CERTIFICATE-----
+subject=CN=surfshark.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2831 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

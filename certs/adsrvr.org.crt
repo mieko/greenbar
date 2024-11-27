@@ -1,0 +1,74 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.adsrvr.org
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R3 DV TLS CA 2020
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr 23 12:44:34 2024 GMT; NotAfter: May 25 12:44:33 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R3 DV TLS CA 2020
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 28 00:00:00 2020 GMT; NotAfter: Mar 18 00:00:00 2029 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 18 10:00:00 2009 GMT; NotAfter: Mar 18 10:00:00 2029 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGTDCCBTSgAwIBAgIMDG6URTd1I/i3S1E5MA0GCSqGSIb3DQEBCwUAMFMxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSkwJwYDVQQDEyBH
+bG9iYWxTaWduIEdDQyBSMyBEViBUTFMgQ0EgMjAyMDAeFw0yNDA0MjMxMjQ0MzRa
+Fw0yNTA1MjUxMjQ0MzNaMBcxFTATBgNVBAMMDCouYWRzcnZyLm9yZzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAPV3HolKV05QPl2Y1gdK+fwH25sy4rp1
+hP0MPhc03odT9SBv5hfQXC1ovRf0NGGJhEJpgFMYRO8ktoe1io66m86pzoNC8bqA
+ONj1qE+Uo29a7dkKAaZWGf68KM/1bbttjla0t0aKwZsDJfVw9Jnj2yhdatXbmJ2e
+bU4nU0DjHPEwVbubgYk7rdiCPyP2IjHJxaC6qmU/wBcKDap98w3oCGs+LRQhXADq
+m8S5jkMOa37ZfLMdmP3x3hKhBM6DFnb60xpY2lIm0z1BNGBLqKcPnPGbFSCEHEMc
+kmUW+yJ4ucp/+Wb91+qYin9jYq4NbfgzVFwgl/JSEUbmes49NKU5omsCAwEAAaOC
+A1owggNWMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMIGTBggrBgEFBQcB
+AQSBhjCBgzBGBggrBgEFBQcwAoY6aHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNv
+bS9jYWNlcnQvZ3NnY2NyM2R2dGxzY2EyMDIwLmNydDA5BggrBgEFBQcwAYYtaHR0
+cDovL29jc3AuZ2xvYmFsc2lnbi5jb20vZ3NnY2NyM2R2dGxzY2EyMDIwMFYGA1Ud
+IARPME0wQQYJKwYBBAGgMgEKMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmds
+b2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECATBBBgNVHR8EOjA4MDag
+NKAyhjBodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29tL2dzZ2NjcjNkdnRsc2NhMjAy
+MC5jcmwwIwYDVR0RBBwwGoIMKi5hZHNydnIub3JnggphZHNydnIub3JnMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBQNmMBzf6u9vdlH
+S0mtCkoMrD7HfDAdBgNVHQ4EFgQUabYCIOeOXKYFvQTF3NPslCg89WMwggF/Bgor
+BgEEAdZ5AgQCBIIBbwSCAWsBaQB1AKLjCuRF772tm3447Udnd1PXgluElNcrXhss
+xLlQpEfnAAABjwr8mywAAAQDAEYwRAIgLyFzJUJMq2KbWaQR1pjonZEc/sRIILus
+TaM7d4AbX+0CIDRP2aHELwHaqmp+l0ze8cbwthDv5M3pcbKo/YVTQoluAHcAfVke
+EuF4KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebgAAAGPCvyanAAABAMASDBGAiEA
+wknbVlth/N0B4UIhHK7H/9rkocAQNstRkm4Kjc6x7Q4CIQCceEFXYthxjFPd7XVM
+GAeYDxXN+5oe4pEy3hmNSVrYuQB3AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6
+ZLFimjnfAAABjwr8m+cAAAQDAEgwRgIhAKjrKZJ4KnsT2/TKWkKGpiUCCpPRT5+W
+XSwmfF+M7ifWAiEAyEO8QqytvRaNQfMOaiuYEGxX4v9BJ38vwjzzuNcnWXcwDQYJ
+KoZIhvcNAQELBQADggEBAJVMbGal1Qqr0KZXHglby00FicAwRo6DbuQiRM45LrY9
+e5JUvI9umv9peGqM9pROuNnF1su5rZt4rSesYnROlmQ2dMOwMZeY5Qs8X2AS8n21
+5cTaIgxpWON4n7rniUEBt+oZYDjVaMxBmsTG1ks8OIQs5KhkvOysI9iFXuYqfgwg
+KxV0dxqpzcFpVcAtyGvL+ymdruVwvIj3iUQCiuFLHWMFb7uJn7ZivrRGmFvOyDqC
+NRegHX51dvLj+XNDvElqUT1iTOsg8MCPDXSn089xXv+8JLWiezo/+2+0ZjtltFjv
+lct0anhPD1pmOlKpJ5JK6Bju3mf1923HUo/kCjxHWZs=
+-----END CERTIFICATE-----
+subject=CN=*.adsrvr.org
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R3 DV TLS CA 2020
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4241 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

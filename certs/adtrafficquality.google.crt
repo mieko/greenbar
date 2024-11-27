@@ -1,0 +1,65 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=adtrafficquality.google
+   i:C=US, O=Google Trust Services, CN=WR2
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 21 08:39:59 2024 GMT; NotAfter: Jan 13 08:39:58 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR2
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEgjCCA2qgAwIBAgIQXawaDpO+qJwQGPDmWKK4DTANBgkqhkiG9w0BAQsFADA7
+MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQww
+CgYDVQQDEwNXUjIwHhcNMjQxMDIxMDgzOTU5WhcNMjUwMTEzMDgzOTU4WjAiMSAw
+HgYDVQQDExdhZHRyYWZmaWNxdWFsaXR5Lmdvb2dsZTBZMBMGByqGSM49AgEGCCqG
+SM49AwEHA0IABDqsstzJm9oHivkD0IuW2Blt0PaAaV0gt3B46oOXOvR2k3G8rBeu
++UtQlgevgFk1GSENmqlC2OoeYobmmCOXdfijggJkMIICYDAOBgNVHQ8BAf8EBAMC
+B4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+lzdT7IZmKSC60jzLoC0XHrsKdVswHwYDVR0jBBgwFoAU3hse7XkV1D43JMMhu+w0
+OW1CsjAwWAYIKwYBBQUHAQEETDBKMCEGCCsGAQUFBzABhhVodHRwOi8vby5wa2ku
+Z29vZy93cjIwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dyMi5jcnQw
+PQYDVR0RBDYwNIIXYWR0cmFmZmljcXVhbGl0eS5nb29nbGWCGSouYWR0cmFmZmlj
+cXVhbGl0eS5nb29nbGUwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAr
+oCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd3IyLzc1cjRaeUEzdkEwLmNybDCCAQMG
+CisGAQQB1nkCBAIEgfQEgfEA7wB1AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6
+ZLFimjnfAAABkq5yn3EAAAQDAEYwRAIgUwChM8STu9xhswA1FHka05crYYuXNm+P
+2iGG0pxaxHICIHNp2fSu05cWUrYn+EF8PV4sRzw/Iq5q6IUrD1hb5ZuUAHYA5tIx
+Y0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGSrnKjbQAABAMARzBFAiEA
+7D+nhsKVwzchpBXkhVLOVOcK15moeKeI2oZajgQ1laQCIGJEqZC72CStSmnPw1Ia
+B0vw4kBLQiWLUq83NjCFtptOMA0GCSqGSIb3DQEBCwUAA4IBAQAubsMbgYtGiN7/
+NiEiPU+jZ9NdU5LHVZM2JQD8aXqjLntei3gJ2cvms1ZCj8plTBtCt91Nc7NKoAmo
+sd9UV6w6I0TQJ63VW77lSh0H8gXf406XxYMN2cMPZVwdTDNw5/thCymytIWbrDP6
+4USRk8AlZEr3vBaEEXlgv2UIVF+oiBCOqCASN1AtUznqpsm6+8ndKCXSU1/B1P18
+HoekcgN0xovgXt9AaA4+JzEj1uZPQVQMVD5fOQyjo0J7o15ZObkSIIg02sRREIFy
+gGFs3ESoAQJUTBc0cJxr6+8SU5ey6bPFdIrfc9ZzXQzm8XK6kGOjEVIW4QRHeuvE
+LrxXT36J
+-----END CERTIFICATE-----
+subject=CN=adtrafficquality.google
+issuer=C=US, O=Google Trust Services, CN=WR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4150 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

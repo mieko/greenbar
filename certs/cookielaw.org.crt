@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=cookielaw.org
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 11 18:54:25 2024 GMT; NotAfter: Jan  9 19:54:23 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDqjCCA0+gAwIBAgIRAM9tmbVBRwsEE2NFKIkr3jkwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTAxMTE4NTQyNVoXDTI1MDEwOTE5NTQyM1owGDEWMBQG
+A1UEAxMNY29va2llbGF3Lm9yZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABL/g
+hcYL9n/sJAwOzdnOCerB2XLkoXMwGKBaIr8SSTMg8CUIlRRTXAHCA8jywlF+Hr7t
+PNCI9yusbcB5g/b7zcKjggJVMIICUTAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAww
+CgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUGkHkfpxWyD0Vyb9s
+o4VpxlO7JqswHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYB
+BQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS96
+MjAwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwKQYDVR0R
+BCIwIIINY29va2llbGF3Lm9yZ4IPKi5jb29raWVsYXcub3JnMBMGA1UdIAQMMAow
+CAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dl
+MS9PaE1aam1UMUJmWS5jcmwwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQDPEVbu
+1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZJ9JYvYAAAEAwBGMEQCIHim
+nNgDorYFEDq9SBpGqha1Q/JxyHh7P2OPqexYez8EAiB4lxuL/+QuCYTxegt6M4Pw
+Vyfjl/2X/iWmyE5tONeZZAB1AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+
+TA2wAAABkn0lk68AAAQDAEYwRAIgZ2GozV2QG3AhktHI4YHWqHMCKYkNGvn5fxeh
++e8I9xgCIEhkSELi6jzXJyu5vm3Mr+t7uwHkYKqf5aybjNXJcRd7MAoGCCqGSM49
+BAMCA0kAMEYCIQDyCwj3mbLLkPCj0fz/xhaSQyly7HlV/K0M9UWM5+tSigIhANs9
+kBKOAgUl4k5h5NHd7DzpmQwkCU0/51R+Mu5RTDnx
+-----END CERTIFICATE-----
+subject=CN=cookielaw.org
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2828 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

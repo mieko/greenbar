@@ -1,0 +1,65 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=GB, L=London, O=Onetag Limited, CN=*.onetag-sys.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Jan 23 00:00:00 2024 GMT; NotAfter: Jan 29 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZTCCBOygAwIBAgIQBDcDdrlI/axDBdms6kpFMDAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjQwMTIz
+MDAwMDAwWhcNMjUwMTI5MjM1OTU5WjBSMQswCQYDVQQGEwJHQjEPMA0GA1UEBxMG
+TG9uZG9uMRcwFQYDVQQKEw5PbmV0YWcgTGltaXRlZDEZMBcGA1UEAwwQKi5vbmV0
+YWctc3lzLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABHIvDytSYF1SDjB9
+INiSamRhATtzW1PHnHTq6b2NlkZO3PVlb+BLJJB3vp5kutIKhPemotjM8Divg55Q
+Fey2lCqjggObMIIDlzAfBgNVHSMEGDAWgBSKI+uea9f5N135bSE5dpqhZ94QqDAd
+BgNVHQ4EFgQUelBISRlh5jeUF7axEZfxxFX3rZkwKwYDVR0RBCQwIoIQKi5vbmV0
+YWctc3lzLmNvbYIOb25ldGFnLXN5cy5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgIw
+KTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1Ud
+DwEB/wQEAwIDiDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwgZ8GA1Ud
+HwSBlzCBlDBIoEagRIZCaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0
+R2xvYmFsRzNUTFNFQ0NTSEEzODQyMDIwQ0ExLTIuY3JsMEigRqBEhkJodHRwOi8v
+Y3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHM1RMU0VDQ1NIQTM4NDIw
+MjBDQTEtMi5jcmwwgYcGCCsGAQUFBwEBBHsweTAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuZGlnaWNlcnQuY29tMFEGCCsGAQUFBzAChkVodHRwOi8vY2FjZXJ0cy5k
+aWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHM1RMU0VDQ1NIQTM4NDIwMjBDQTEt
+Mi5jcnQwDAYDVR0TAQH/BAIwADCCAX0GCisGAQQB1nkCBAIEggFtBIIBaQFnAHUA
+zxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGNN3nTnAAABAMARjBE
+AiATFQjU31NGOSIKR2JoSVDCvCgy2/TEDdAQhwMxUT0jeQIgLqCvU9AISQ6AjK4+
+ON01jewdqocgOCzxBUc/py7iKtMAdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkD
+L9kOjC55uAAAAY03edNAAAAEAwBHMEUCIQCnH7AEaPr7OUySkPYJu0U7LEEHhBPy
+TozNqKL19Et8JAIgY+UJfEzH8FgLiHTcmkZg8MCpsPNAGHCa1Lga5NfSyJAAdgDm
+0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAY03edNfAAAEAwBHMEUC
+ID4SJhzWPRLo0BeaqvIom3y4jVzU/fOb9ne/v98h6QOvAiEAyoMjZw9AItWH2yQN
+BCTIg9wgTIynV4Q3SkmqhbqRTc0wCgYIKoZIzj0EAwMDZwAwZAIwArcG12U8Z5RW
+rFOY/BaE4CXUNOMS4XUjPoq31jxJjDm0/ONeobE15A9WaHjoJV5UAjBbQ7U4XiYt
+W9tjtbbQgn1RVhrqJ+976igRChiXHUfLH8cSOujtWCkVqQRD5Oxb1xE=
+-----END CERTIFICATE-----
+subject=C=GB, L=London, O=Onetag Limited, CN=*.onetag-sys.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2643 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,57 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=gist.build
+   i:C=US, O=Let's Encrypt, CN=E6
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov  1 20:26:52 2024 GMT; NotAfter: Jan 30 20:26:51 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E6
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDvTCCA0OgAwIBAgISBJKgJ9l6zdjGcMzibJa2Qx12MAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NjAeFw0yNDExMDEyMDI2NTJaFw0yNTAxMzAyMDI2NTFaMBUxEzARBgNVBAMTCmdp
+c3QuYnVpbGQwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATkNcm+njrjXfn4xrDg
+MFTvobjHjmFaX5itxFUCkyugiH8GRC06p7fL2v7XoPONwpodNd0/ACiePQxRnDVF
+sCxMo4ICVDCCAlAwDgYDVR0PAQH/BAQDAgeAMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBT+1ktA5ts4yoU38kjP
+hTOihNZcszAfBgNVHSMEGDAWgBSTJ0aYA6lRaI6Y1sRCSNsjv1iU0jBVBggrBgEF
+BQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9lNi5vLmxlbmNyLm9yZzAiBggr
+BgEFBQcwAoYWaHR0cDovL2U2LmkubGVuY3Iub3JnLzBdBgNVHREEVjBUghQqLmFw
+aS5kZXYuZ2lzdC5idWlsZIIQKi5hcGkuZ2lzdC5idWlsZIIQKi5kZXYuZ2lzdC5i
+dWlsZIIMKi5naXN0LmJ1aWxkggpnaXN0LmJ1aWxkMBMGA1UdIAQMMAowCAYGZ4EM
+AQIBMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAouMK5EXvva2bfjjtR2d3U9eC
+W4SU1yteGyzEuVCkR+cAAAGS6Z5bPgAABAMASDBGAiEA9uMO4WeFMzDZ5K2sWrAb
+/COZlPZNDqv/WK5s5yBu6Q0CIQCEt1n2DryZCNnwQDIL3kG2d3wbm/fPamg+lrz4
+UnfALwB1AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkumeW3wA
+AAQDAEYwRAIgXcLY0ocOqW5KrZCqyUEacpRJqiFni4q4GmgbHwuVZc4CIGuhPNT4
+CNGmG32JCRl+UU3uxc/iaEWAoFEzfacL6VujMAoGCCqGSM49BAMDA2gAMGUCMGgx
+BILMdy6qwP4BLFPNQ/zxdTW5Ri1Wnuh3ax/Vv/cd9WAMVH7U0VOon7Nln9IZmAIx
+AOSEoaOVygco3pF0Hd4qLOXv15WMpXMzauGSlizpgO0rIWWAUu+i7Mu3PZ001JRS
+bQ==
+-----END CERTIFICATE-----
+subject=CN=gist.build
+issuer=C=US, O=Let's Encrypt, CN=E6
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2391 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

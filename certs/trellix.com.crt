@@ -1,0 +1,82 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=Musarubra US LLC, CN=www.trellix.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 24 00:00:00 2024 GMT; NotAfter: Oct 24 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHDDCCBfSgAwIBAgIQAgQINUbbpz5vbt64RZj9KzANBgkqhkiG9w0BAQsFADCB
+lTELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMT0wOwYDVQQD
+EzRTZWN0aWdvIFJTQSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTZWN1cmUgU2Vy
+dmVyIENBMB4XDTI0MTAyNDAwMDAwMFoXDTI1MTAyNDIzNTk1OVowVzELMAkGA1UE
+BhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExGTAXBgNVBAoTEE11c2FydWJyYSBV
+UyBMTEMxGDAWBgNVBAMTD3d3dy50cmVsbGl4LmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAI5ejOB+7KquexXW9n4vxy7OxHZKGqayXYsNvzIOw69K
+SYPEVktnN7mRIzfKgWuSZyF8xP83gFxk7wJVV7809gQH8L50UeaC/WAzj79R1OPd
+eJ5eLG7rfNYugvsAEDXle+ZXB/7LLF92NEjryFURFmC85d9qWT12u1SAB4c4tRsz
+8rY9jSetZjIi3u2EbbicWQCt61inFpt7/ypkO3GAU6nJYv2tqiM4Cnw8hnCHSvH4
+i9MezgFH9IhaMCvYmBt9C6GKq8F8Wr4L+M/KXcsS1hP11wetxsAhAKqGe20yKfTC
+xJr4cU9+KsEDh/A272SMQ2w+/oQgaIv/lPMcQPiea20CAwEAAaOCA5MwggOPMB8G
+A1UdIwQYMBaAFBfZ1iUnZ/kxwklD2TA2RIxsqU/rMB0GA1UdDgQWBBTVzfAlPbef
+asamxnlZQRmAXgzNUTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSgYDVR0gBEMwQTA1BgwrBgEEAbIx
+AQIBAwQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQICMFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuc2VjdGlnby5jb20v
+U2VjdGlnb1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5j
+cmwwgYoGCCsGAQUFBwEBBH4wfDBVBggrBgEFBQcwAoZJaHR0cDovL2NydC5zZWN0
+aWdvLmNvbS9TZWN0aWdvUlNBT3JnYW5pemF0aW9uVmFsaWRhdGlvblNlY3VyZVNl
+cnZlckNBLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20w
+ggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB2AN3cyjSV1+EWBeeVMvrHn/g9HFDf
+2wA6FBJ2Ciysu8gqAAABkr0uoyQAAAQDAEcwRQIhALhYauTLLU6D4OXQC2d98aCh
+HXrhwc0I8ExK5OtzDpRxAiByEydkTK8SzbGqkCrYNLBpdim9B1AN7NDtcSVTOj4e
+HQB1AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABkr0uovUAAAQD
+AEYwRAIgMPt/JLeKJL17bL+KrHyRcmiDojMJBTWO/Goa9D0RoK8CIC9iMd8c6v1Q
+ZV3F+cE4V7dd1PWY027L9vVUn5ouoMMIAHUAEvFONL1TckyEBhnDjz96E/jntWKH
+iJxtMAWE6+WGJjoAAAGSvS6ixwAABAMARjBEAiBeiMUelaWt14w1wfv2zBE4fDQ0
+nFanNJvAZ5VAfGXqVwIgCY4Sd+Vp1cs9bYAQVOAgmW254DS32bjhOkxowf9TAvww
+WwYDVR0RBFQwUoIPd3d3LnRyZWxsaXguY29tghZvcmlnaW4td3d3LnRyZWxsaXgu
+Y29tggt0cmVsbGl4LmNvbYIad3d3Lm9yaWdpbi13d3cudHJlbGxpeC5jb20wDQYJ
+KoZIhvcNAQELBQADggEBAJm8GY6sUUavZflNMD77V5qugUgSQlMZrFviRVyZaug2
+EzMzSYCY8afJRKYVTXcsl85vUHL6ECAUlYiDKA7BD/ch7aNDWlH/byHZXHqHdZD+
+WHWD7PgVOwA6jQtRwMPqYjf8s4Zyc4dRSKcMGTBv5Vi8AmCs3HLju8HH/IO5Toga
+RyD8tlFvLVlf45gJcYPmdKmTNFSnwxEsxJBB+YoGE6/fOY151jLI0e2viJd2Bzxu
+8kI3cNRYSLX3TzmmTYbhM1SjXF7E1Qm5bSUTWiyjvmbvajOCqaUnjGiB1Gso3u9y
+aENROBfTyeYkp8J9DpeVvKS31qgtacF9lG6bU7+U5qU=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=Musarubra US LLC, CN=www.trellix.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6369 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

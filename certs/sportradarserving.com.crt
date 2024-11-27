@@ -1,0 +1,76 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CH, L=St.Gallen, O=Sportradar AG, CN=*.sportradarserving.com
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  4 12:36:42 2024 GMT; NotAfter: Oct 13 12:36:41 2025 GMT
+ 1 s:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  5 19:13:56 2015 GMT; NotAfter: Dec  5 19:43:56 2030 GMT
+ 2 s:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul  7 17:25:54 2009 GMT; NotAfter: Dec  7 17:55:54 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGlTCCBX2gAwIBAgIRAOq9XKdINoA4/avA4gVeDBIwDQYJKoZIhvcNAQELBQAw
+gboxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1FbnRydXN0LCBJbmMuMSgwJgYDVQQL
+Ex9TZWUgd3d3LmVudHJ1c3QubmV0L2xlZ2FsLXRlcm1zMTkwNwYDVQQLEzAoYykg
+MjAxMiBFbnRydXN0LCBJbmMuIC0gZm9yIGF1dGhvcml6ZWQgdXNlIG9ubHkxLjAs
+BgNVBAMTJUVudHJ1c3QgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkgLSBMMUswHhcN
+MjQxMDA0MTIzNjQyWhcNMjUxMDEzMTIzNjQxWjBbMQswCQYDVQQGEwJDSDESMBAG
+A1UEBxMJU3QuR2FsbGVuMRYwFAYDVQQKEw1TcG9ydHJhZGFyIEFHMSAwHgYDVQQD
+DBcqLnNwb3J0cmFkYXJzZXJ2aW5nLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAKrIt/ilUEYFdAVUl7UyVgf5dhte4Kuo+0FzLU7Cd6pzrO2rA3y+
+VvDFMqzUprYbpSG3ffuH3u5kxJIKO6QQM5EDBAs86yoABPD7Mxsh/vF8gq7i8KK7
+SsUVdNA9f7ccbZ8wIXkNr8q76B5U0xU+nHFjZnIRw1sI6mh1pD9WwbkIABvG/9Gq
+tfGpPyyDHRPUvf43W+qgkWHIxfibAEzVStLamFUGS9smlICxtje6Im9U/8INub59
+MfVmTcCdIyJj3E3cYuwG5WPmWK+83lrhkKbxT77zO3PHL7AGmWm6ZBB+FAqXoXBl
+GbNGx1Od5voTM9Ka4g7UWqo52/lNXLelUTkCAwEAAaOCAvIwggLuMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFIU2QwLbWtBngccvsMoXkTrEBHrsMB8GA1UdIwQYMBaA
+FIKicHTdvFM/z3vU981/p2DGCky/MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwOQYDVR0RBDIwMIIXKi5zcG9ydHJhZGFyc2Vy
+dmluZy5jb22CFXNwb3J0cmFkYXJzZXJ2aW5nLmNvbTBoBggrBgEFBQcBAQRcMFow
+IwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLmVudHJ1c3QubmV0MDMGCCsGAQUFBzAC
+hidodHRwOi8vYWlhLmVudHJ1c3QubmV0L2wxay1jaGFpbjI1Ni5jZXIwMwYDVR0f
+BCwwKjAooCagJIYiaHR0cDovL2NybC5lbnRydXN0Lm5ldC9sZXZlbDFrLmNybDAT
+BgNVHSAEDDAKMAgGBmeBDAECAjCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHUA
+zPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGSV4hJPAAABAMARjBE
+AiBGH2kwzlnCgLUng5qaqv47Kcl2EL7lK9XmjhZ4G8j3iQIgMdZoeqCAZh1G7Pga
+26o5EjtRE2NDJEvEwX98xzKOG4sAdwAN4fIwK9MNwUBiEgnqVS78R3R8sdfpMO8O
+Qh60fk6qNAAAAZJXiElYAAAEAwBIMEYCIQDYAakD3J0fCyskCR6K0siLNJFY8joc
+aVrfEfeAbyw3sgIhAOJcbSDheGOwacbQVaHoUYE7Q3qpArMu19Svvce+ZrxEAHYA
+EvFONL1TckyEBhnDjz96E/jntWKHiJxtMAWE6+WGJjoAAAGSV4hJYQAABAMARzBF
+AiEAwEJx2NZIPQVMLNlR8awRD+QJjdlqeGctTcUzCc8NcY8CIH+t+Gmsjd8qHPnX
+KOdUlJf3cGA+3qEZU/nve7prmEvxMA0GCSqGSIb3DQEBCwUAA4IBAQC3R1kVWmvi
+1+Kl9wTD+PDv9D8d1rZ/ryeCEtUovqPqN2zvmUaKp7EAxDptqitXH5VycE09KpjP
+2v4lfwLKHmRqZPPwo6WDrMyQwWyRL/OLTpc6C+rVrXU0Xno7DZ02OruFd2cmwg1X
+21jom5nRfoXsRIHAdA21/vaEEFs1Kk59xwgXb6A8E4/YJUX8nkic+uWME2kffASQ
+McqOUXizdgEwskH2yCEK8dVIQOjt0KzO6MPbFBY9asoSqJw+TSbQVYAGjpdKIEcj
+hRTmNtf6veRxnBJBX7kVwDO8ACfdaH6zbXTGc1blrGJgrzpC85jeXAQCg0MT2xC5
+97+ZpoN61l6B
+-----END CERTIFICATE-----
+subject=C=CH, L=St.Gallen, O=Sportradar AG, CN=*.sportradarserving.com
+issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4577 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

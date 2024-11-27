@@ -1,0 +1,77 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=Roblox Corporation, CN=roblox.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  4 00:00:00 2024 GMT; NotAfter: Nov  4 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG1DCCBbygAwIBAgIRAJf6Cp7XC5RFpKgI91SY6CIwDQYJKoZIhvcNAQELBQAw
+gZUxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE9MDsGA1UE
+AxM0U2VjdGlnbyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0yNDExMDQwMDAwMDBaFw0yNTExMDQyMzU5NTlaMFQxCzAJBgNV
+BAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRswGQYDVQQKExJSb2Jsb3ggQ29y
+cG9yYXRpb24xEzARBgNVBAMTCnJvYmxveC5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQCUoyNlscO0kdR7F2XNPms6NteLk6RYVV5vBNDvGM5V9ZX0
+0so0gaV5HmdTBOJHk1uhrK5xEHfg0BSd/S0r/GWU/jWrhPTUHROGpCQQ0wAJMc6R
+aAiVA0B/kehaz1wBGqrJNNOznKUwldicoNyvmAugbY9nDLJ1nUe0UQDIaZaCxx9R
+33hRu5Mv/ApNiVsEwXJloTKqH9dFXCM2e4jXWE1gipLPUTSPn5CaoMBPPGlecPcz
+GxVmnSqgnjdvj2Ym9fAqYBd8n/5H80QalRrlWNreFpONykkf6d8zHIleLFfoxMba
+U5IiCxoa8whWzWq0rBr/2w0AF2bJf66KZcjd1pczAgMBAAGjggNdMIIDWTAfBgNV
+HSMEGDAWgBQX2dYlJ2f5McJJQ9kwNkSMbKlP6zAdBgNVHQ4EFgQUVWKuFBcmJ987
+/JkhNHkJa+1lo8wwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEoGA1UdIARDMEEwNQYMKwYBBAGyMQEC
+AQMEMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLnNlY3RpZ28uY29tL1Nl
+Y3RpZ29SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3Js
+MIGKBggrBgEFBQcBAQR+MHwwVQYIKwYBBQUHMAKGSWh0dHA6Ly9jcnQuc2VjdGln
+by5jb20vU2VjdGlnb1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2
+ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMIIB
+fgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgDd3Mo0ldfhFgXnlTL6x5/4PRxQ39sA
+OhQSdgosrLvIKgAAAZL4OiLUAAAEAwBHMEUCIFeY1kyDLrJR/hWrbkmGNB8P7+t7
+4xB+US8Y7vga65gUAiEAgLMTT0IHTBNcJfHQ10KSyI8fnKG7NY7e60e8xo8IboEA
+dgDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZL4OiKDAAAEAwBH
+MEUCIQCRaFEdQs4ITaYYJKx68LuHOTDup1405Q6Xh2qnNA3ERQIgIVgnEjdwp7Lo
+mNv2lWwWOF6H2FpJ7ZVbO4HBaOVBBRQAdgAS8U40vVNyTIQGGcOPP3oT+Oe1YoeI
+nG0wBYTr5YYmOgAAAZL4OiJPAAAEAwBHMEUCIQDPEhOAOIhmKB74zAobDTHXmrHa
+82Tk4szMbie5D+oF2QIgdtFFRE5G6iJo83BVoOj9LLBtqqbRpuD220Ywk1s2pCUw
+IwYDVR0RBBwwGoIKcm9ibG94LmNvbYIMKi5yb2Jsb3guY29tMA0GCSqGSIb3DQEB
+CwUAA4IBAQAc2nAkW6Y8OAp+DWzriGpeSwa2XYY3MvrWTPrDtdnvTQmjnSrNN/mV
+at7M/zxkxIjUoKALmFJEeHNOdqJjZ5KC2r9UcfTPB2qqQ5dMEc484lC7gQMmjRuF
+ezIuYLqgPasUNhaV7LikyoPlzWx74IjxM/KnrrfdsOiaII9WqqBNsrXoxLb0kGPO
+1Wj886XeK/aJRf1X4e4wPOEkiOKzvn0qBDRaOgUwuFFZTafeyvUkwmIv/7G3ZuU+
+8sBgNRy42C1Z5ypb1TXY0UxvmFVNSDXd7xaDUGoh1Xr8dDJLOU1bmhSlsWfswpxw
++MNzQi1PyQW9KV9Vt8/8D+NJuHqeuYlW
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=Roblox Corporation, CN=roblox.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5284 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

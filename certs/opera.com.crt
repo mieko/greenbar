@@ -1,0 +1,65 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=NO, ST=Oslo, L=Oslo, O=Opera Norway AS, CN=*.opera.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Jan  5 00:00:00 2024 GMT; NotAfter: Jan  9 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXjCCBOSgAwIBAgIQBVAnfEAZVfrz+OhEuDMo9DAKBggqhkjOPQQDAzBWMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTAwLgYDVQQDEydEaWdp
+Q2VydCBUTFMgSHlicmlkIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjQwMTA1MDAw
+MDAwWhcNMjUwMTA5MjM1OTU5WjBbMQswCQYDVQQGEwJOTzENMAsGA1UECBMET3Ns
+bzENMAsGA1UEBxMET3NsbzEYMBYGA1UEChMPT3BlcmEgTm9yd2F5IEFTMRQwEgYD
+VQQDDAsqLm9wZXJhLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABGsOQjve
+OXH54HwRoF95icqO80UcLOxguqaRLhUpe5b/ev3gb4+bacCIVFWRtS/TslSPUjEg
+po2kQVtybHBtV+qjggONMIIDiTAfBgNVHSMEGDAWgBQKvAgpF4ylOW16Ds4zxy6z
+7fvDejAdBgNVHQ4EFgQUounGCUKK16po4ch1ypaBfqbFK+MwIQYDVR0RBBowGIIL
+Ki5vcGVyYS5jb22CCW9wZXJhLmNvbTA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcG
+CCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/
+BAQDAgOIMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjCBmwYDVR0fBIGT
+MIGQMEagRKBChkBodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRUTFNI
+eWJyaWRFQ0NTSEEzODQyMDIwQ0ExLTEuY3JsMEagRKBChkBodHRwOi8vY3JsNC5k
+aWdpY2VydC5jb20vRGlnaUNlcnRUTFNIeWJyaWRFQ0NTSEEzODQyMDIwQ0ExLTEu
+Y3JsMIGFBggrBgEFBQcBAQR5MHcwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRp
+Z2ljZXJ0LmNvbTBPBggrBgEFBQcwAoZDaHR0cDovL2NhY2VydHMuZGlnaWNlcnQu
+Y29tL0RpZ2lDZXJ0VExTSHlicmlkRUNDU0hBMzg0MjAyMENBMS0xLmNydDAMBgNV
+HRMBAf8EAjAAMIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkAdQDPEVbu1S58r/OH
+W9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAYzY6XqgAAAEAwBGMEQCIAc1WStwVhos
+VDpMLa00hC7H29xs10NpZqsJvuy7TiyuAiB77hLu9ZOcA7PVjbPDfdnWgp4xUAUh
+7GUmORsNHLmebgB3AD8XS0/XIkdYlB1lHIS+DRLtkDd/H4Vq68G/KIXs+GRuAAAB
+jNjpeqIAAAQDAEgwRgIhAMUXym5apNQUESzhH5Ru2EtqayIRIiXvZ7SnNMbh+0PJ
+AiEAierczbpT+jpnMBB1KRv3bND1Ipz8d7ifmS6lnb5+Y+0AdwB9WR4S4Xgqexxh
+Z3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAYzY6XqQAAAEAwBIMEYCIQDBvP0fFnVn
+qEt1fSW4CWs68T4UsdYF/tgqBeWzMtRY6AIhAO5JqV8ylSiypGFiymu4QMWK/GCb
+/9vP/fIKFebljdyOMAoGCCqGSM49BAMDA2gAMGUCMQCUe4ByXmSTRZC9Acl+5gBp
+CCB/XodB5EiGv4gH8rXFfET0+CzWcY01zsYodzi3amUCMFwRv8q3rJcy5hysFy6e
+7S20AiXxgShUDIGcI/mRYC676mrzGDcAAS2Zw9Y8hPkJXg==
+-----END CERTIFICATE-----
+subject=C=NO, ST=Oslo, L=Oslo, O=Opera Norway AS, CN=*.opera.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2793 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

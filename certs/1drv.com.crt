@@ -1,0 +1,82 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=WA, L=Redmond, O=Microsoft Corporation, CN=*.oneroute.microsoft.com
+   i:C=US, O=Microsoft Corporation, CN=Microsoft Azure RSA TLS Issuing CA 08
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Oct 25 02:40:26 2024 GMT; NotAfter: Apr 23 02:40:26 2025 GMT
+ 1 s:C=US, O=Microsoft Corporation, CN=Microsoft Azure RSA TLS Issuing CA 08
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jun  8 00:00:00 2023 GMT; NotAfter: Aug 25 23:59:59 2026 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIjTCCBnWgAwIBAgITMwCki1L3TZRExosb1gAAAKSLUjANBgkqhkiG9w0BAQwF
+ADBdMQswCQYDVQQGEwJVUzEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9u
+MS4wLAYDVQQDEyVNaWNyb3NvZnQgQXp1cmUgUlNBIFRMUyBJc3N1aW5nIENBIDA4
+MB4XDTI0MTAyNTAyNDAyNloXDTI1MDQyMzAyNDAyNlowbzELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgTAldBMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNyb3Nv
+ZnQgQ29ycG9yYXRpb24xITAfBgNVBAMMGCoub25lcm91dGUubWljcm9zb2Z0LmNv
+bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKi3CwF19aPcF9hCO3el
+0B4Q362JtwF2bQukvaLsscH63lNEW7kvRTpzip1WNLrXImR3wThe5IB6Ykgd2Tmr
+17C7rz21ivhEYuJJHKm7rGN8GdWz30GttEIseHCehBO8eP4a0Z5OV3iPt2Aasgqz
+wQjmxhmx1MiHHbZWZ8g6J1CH1ItKRmLD9sDcBkQEYC9BF9B+I53JAedVlS66Sk2v
+ukeRRyoCfhb82VnPXTNZyrEkBZwnCCPro++ry0z6NiHKuChJAVk8K2tusIaptwsx
+d3gIyzk7UQzPASSPzU/XR33O3wBQCuGihdAkuYN2uUlYWHwJmAL3Km4Hp7bh0Sd9
+/70CAwEAAaOCBDIwggQuMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdwBOdaMn
+XJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAZLBlSNHAAAEAwBIMEYCIQDc
+bXtiEJTVmxSPM98aHueWhyG2fMLKQiTSiTUf+SmA9QIhAP7nPYfZDnYO++mt9BAC
+4i5F3vwPjUA8ArGMdbo7XSwBAHYAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/Z
+DowuebgAAAGSwZUl4AAABAMARzBFAiAptjTXCSxUMcEybxwLvzowVvDoT6GoEakl
++A3s34icJQIhAKtBrkqSMiL7MWQklqHhTdiwUr9txE1/EZRNscQKBRI7AHUA4JKz
+/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBNpW1vVAQAAAGSwZUkBwAABAMARjBEAiBe
+lj946MwFkDHOBmDjcqHqhDxnmGgdgjha/R1vIghfaAIgN64PZhKVgZ5xa2TEs04h
+St90zxpRYoiZ19wlJ5Tjqz8wJwYJKwYBBAGCNxUKBBowGDAKBggrBgEFBQcDAjAK
+BggrBgEFBQcDATA8BgkrBgEEAYI3FQcELzAtBiUrBgEEAYI3FQiHvdcbgefrRoKB
+nS6O0AyH8NodXYKr5zCH7fEfAgFkAgEtMIG0BggrBgEFBQcBAQSBpzCBpDBzBggr
+BgEFBQcwAoZnaHR0cDovL3d3dy5taWNyb3NvZnQuY29tL3BraW9wcy9jZXJ0cy9N
+aWNyb3NvZnQlMjBBenVyZSUyMFJTQSUyMFRMUyUyMElzc3VpbmclMjBDQSUyMDA4
+JTIwLSUyMHhzaWduLmNydDAtBggrBgEFBQcwAYYhaHR0cDovL29uZW9jc3AubWlj
+cm9zb2Z0LmNvbS9vY3NwMB0GA1UdDgQWBBS8L4sD4PAxSFxBzS/QnRVpvpGWAzAO
+BgNVHQ8BAf8EBAMCBaAwOwYDVR0RBDQwMoIYKi5vbmVyb3V0ZS5taWNyb3NvZnQu
+Y29tghZvbmVyb3V0ZS5taWNyb3NvZnQuY29tMAwGA1UdEwEB/wQCMAAwagYDVR0f
+BGMwYTBfoF2gW4ZZaHR0cDovL3d3dy5taWNyb3NvZnQuY29tL3BraW9wcy9jcmwv
+TWljcm9zb2Z0JTIwQXp1cmUlMjBSU0ElMjBUTFMlMjBJc3N1aW5nJTIwQ0ElMjAw
+OC5jcmwwZgYDVR0gBF8wXTBRBgwrBgEEAYI3TIN9AQEwQTA/BggrBgEFBQcCARYz
+aHR0cDovL3d3dy5taWNyb3NvZnQuY29tL3BraW9wcy9Eb2NzL1JlcG9zaXRvcnku
+aHRtMAgGBmeBDAECAjAfBgNVHSMEGDAWgBT2fi+9gKNKsnBb69+aH9jtymGABzAd
+BgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwDQYJKoZIhvcNAQEMBQADggIB
+AAkBU+f8v6xxq3w5m8ICTbC7VEFi70GtgSL1w7MqOG5vezevKyKPe2i4jxcn66Dh
+JGPPtqNQLwCXAIEjRvxvUcJzsN9vzECIixPNmzGWCKbPp4YBYpU5I7Y/QE//ApCe
+ozGdYlOpUa7o+VpS/gcc5OkTkReKk2iP5EytagaDeDtVEMkFfkG0/7ymBQ/4eiUw
+ehRQXmThcLXwGmOFt+LoyL0WU3cte4licZikjxQqti8oWRO/HRhAo/E+UIJzGUJY
+guT/wCoiBDXTFKLv+zCFDMPF05rYXWoVoHPTXNXCirX6hkDiyAEZUHM1szthNahb
+Y609q+ThJyL1WMCDPwm2nUihQdYHBh78F3iBm6BDM2DdpWLR875xsipH70C1eYGq
+cNME0PzMnVzKUufJPVa2DTTrpyRCiIWq1/drJs5OvthzlFC/MXfh8lP3Lv1/bppz
+tPM0orPk1DKBCYxD6ZWWWzpD+CCMxMDJEVfAZsJLpxa5SgArVan3hDYlDowbjMFs
+dn6iKzi/qlKt7PTy/9ts3gbYVahRJXK1WVPUkRfT8S1t/2JdWtAYOPLfUHmOFllR
+DAF3sKPzXl1+tR8SzDex5e8/iRlKwiY8CXEWh7R4ZfvO5oWFB/9fVJbpXZG5xtOK
+a1EgT1iqYApA254ILrN/j29/JU4d9I5iI4y5Cl8hAb4e
+-----END CERTIFICATE-----
+subject=C=US, ST=WA, L=Redmond, O=Microsoft Corporation, CN=*.oneroute.microsoft.com
+issuer=C=US, O=Microsoft Corporation, CN=Microsoft Azure RSA TLS Issuing CA 08
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4194 bytes and written 383 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

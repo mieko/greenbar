@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=rudderlabs.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 29 09:25:38 2024 GMT; NotAfter: Jan 27 09:25:37 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6zCCA9OgAwIBAgISBMVJsOVT9ly++GbEDSrP0H9BMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMDI5MDkyNTM4WhcNMjUwMTI3MDkyNTM3WjAZMRcwFQYDVQQD
+Ew5ydWRkZXJsYWJzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AKtRm+MW4w7EYKgJGybzYMxPgKtk11/S8Iri7u0DQOUcosF0ACUlb3b4CBB+8v4E
+ACIc/MsZ+Qs/IVBOXQCIQKTCqdPFGqZSiTQEe5GLVqjBsAj9zsT0xTvSaUJGzc8h
+7qPFDgS+HBJVYjGjhMDNzlJWH6v+ttbhy61YwNrN8EqqThQhfN8HCYt1A7fLkELK
+AHG79QH4vZPWdlxhgex0ITwrQbASUX0i/w7AIkOeTfx2XutYXcRI56WuckV4UDp9
+EOP2e0b5HRNKSYz4XdxSY4UXcfnHSHMJHpcmxfiRJcLio5RYycOxGxUcHQ+Jwhbz
+7NETZqRAiqQj/MVgxCIbb6MCAwEAAaOCAhEwggINMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUuyr4R+7kNSrs90gFba64TqHZkFEwHwYDVR0jBBgwFoAUu7zDR6XkvKnG
+w6RyDBCNojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8v
+cjEwLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iu
+b3JnLzAZBgNVHREEEjAQgg5ydWRkZXJsYWJzLmNvbTATBgNVHSAEDDAKMAgGBmeB
+DAECATCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AM8RVu7VLnyv84db2Wkum+ka
+cWdKsBfsrAHSW3fOzDsIAAABktfN6IwAAAQDAEYwRAIgboo+rSrLOLb3aqYlm205
+1eGh1n1jN0xR4+IVR94he4QCIF0X9YxFhztQYSE1LhJsIYaek45gy5rm+920usKc
+qqVHAHYA4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBNpW1vVAQAAAGS183oMgAA
+BAMARzBFAiEA37/WkOK5oKugmOP3lo0mZT++ZVG4qdOp6KdA98kdA58CIBzhYKWz
+yTAvON+hngxINb4A68z6j9aU/CVPrufHPahEMA0GCSqGSIb3DQEBCwUAA4IBAQDE
+eUBFjiDb4HQRXlyATBaS8/w6bdJMhwBQDukltNCZYykYb7mbfjqrXlrgR91Y4z8C
+3A7frml11ci9K4Nac8qXDeZE/qiLZLeCY+5CoMisyV8UG0Zg2ac2KKYIBhRj9GiQ
+wrQosv3mB88lt/th3WhbRryy05i7vnwCoJ8QxCQUmOunDvuODz0G6WzNJtlqqcQc
+V8kTgn83Q/H/EZcLdHMdoXrw6nQmTzELMCaCiW6q3rb8lyuhvZwiu85z6SIfUGYC
+AZpU9JKHq3pnGqZSFZBSK+0TiBGUyjbSm0csEkn9wK8c7oadKbqbQjdNVwAd2OQ0
+5ITDcmvQ2c3ZgVxSqrN/
+-----END CERTIFICATE-----
+subject=CN=rudderlabs.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3117 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

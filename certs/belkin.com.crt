@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=belkin.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 16 08:19:02 2024 GMT; NotAfter: Jan 14 08:19:01 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDnzCCA0agAwIBAgIQLgK6WhzonLwOfH5a3Y7exjAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMDE2MDgxOTAyWhcNMjUwMTE0MDgxOTAxWjAVMRMwEQYD
+VQQDEwpiZWxraW4uY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEffeb2kWg
+Ql9JdTQ5MCwaxtqgKwP5Ldvh8xQJMLAYSZwKwJvzHKiKXTEqskEzbNLwd9hgE1Vq
+rVEGgcSPQADFaKOCAlAwggJMMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggr
+BgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBS0WcREY/O3Iq/D70eQk+Iq
+OoCfOTAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEFBQcB
+AQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL0xnSTAl
+BggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAjBgNVHREEHDAa
+ggpiZWxraW4uY29tggwqLmJlbGtpbi5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEw
+NgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL3BlRFhhcUYz
+VHA4LmNybDCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AE51oydcmhDDOFts1N8/
+Uusd8OCOG41pwLH6ZLFimjnfAAABkpSfpBMAAAQDAEYwRAIgMKOxdQ4sQ6uY4KIQ
+JmYkhL/t/kIzu90p61Sh6JB3Ss4CIBrf0jnKzfYLi7306vxxJ0ddOmNt1fkWLnNu
+EY/2SjnxAHYA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGSlJ+k
+JwAABAMARzBFAiEAoWY2zvM8C7qHRjVIj5e4ujKgUwkr9QaE72KiZBjMuG4CIGBL
+yogMZHokAcmnwIOQs6fennv+6MuCYP8ZkTa4+cR1MAoGCCqGSM49BAMCA0cAMEQC
+IApL2rvCHUN+iyIzk1YBFSLfvQvRtMrADTunAvms9wViAiBAAy3GqK1sJZ6dYx8x
+CNY98eplc0bvYkdvopu0UbhdEQ==
+-----END CERTIFICATE-----
+subject=CN=belkin.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2819 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

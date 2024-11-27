@@ -1,0 +1,93 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=netflix.net
+   i:C=US, O=Google Trust Services, CN=WR1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 31 21:16:33 2024 GMT; NotAfter: Jan 29 21:16:32 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEVzCCAz+gAwIBAgIRALG4FRC9GO1HEVSVyY6GymMwDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IxMB4XDTI0MTAzMTIxMTYzM1oXDTI1MDEyOTIxMTYzMlowFjEU
+MBIGA1UEAxMLbmV0ZmxpeC5uZXQwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATU
+3L2TEdGkoWF26uqtAZYYY7B/OEvC1+6vLkel8SBrhSRxGrkZp4iORHlqJ/Lw+JlT
++tI1RNRKblKrxYEoE8uVo4ICRDCCAkAwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQM
+MAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFKPC7MlB9d3JpwPf
+SiMZMfAtw2lQMB8GA1UdIwQYMBaAFGZpSdTeKpyRA8+JDiS4DjADboguMF4GCCsG
+AQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93cjEv
+c2JnMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93cjEuY3J0MBYGA1Ud
+EQQPMA2CC25ldGZsaXgubmV0MBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQv
+MC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dyMS91QmxRUU82VHg0ay5jcmww
+ggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBOdaMnXJoQwzhbbNTfP1LrHfDgjhuN
+acCx+mSxYpo53wAAAZLkpt03AAAEAwBHMEUCIQD9MZbGf2ng+/9biME7ePuq9gzX
+MQE44n2Ojn+tNukkugIgbAH29vfIYRB0b6CT7lvLbUf9pQAetbms0aAEyfKdIMIA
+dgDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZLkpt1qAAAEAwBH
+MEUCIQCZJWIWK+6RbPq2NXbwCNjF8VW8/4jXxnp94O+hfa1NxgIgPIDzqRgUHuV7
+bu6io2InQtjRa1zCSAhWEd6DYgik3PswDQYJKoZIhvcNAQELBQADggEBADKg9tYo
+NQYmlZnw9N1enipsSRTV7M58RwHE/0+2D3QSDme5/EWQ8l0127hLXJQc96N/x3CC
+ZJmHbBvqdHb1lBvD2YUGus7YmRKhyMTCwBmoE2wcxeJfpvJNeJlA2QeHZaPKKfi+
+qBc1V6bqXrhparVMaF+cFpNHRo0W8aHuhhqn6pZAN4HnjC42/yqxwlFiKicwHyTY
+lv2X6E377TbkMvo7o5+ZtNZNPabrIq9YHSz1Vjhyf/SsK/KgZR2fxsUDb0s8BCV2
+OCpO1Csfsr1l3uKZN+Q3AuEzpFj8YlKAEGLGFul6zIzY5hr8+ssLgl7gdKvOWd60
+MMltnMEOidiKtt4=
+-----END CERTIFICATE-----
+subject=CN=netflix.net
+issuer=C=US, O=Google Trust Services, CN=WR1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4158 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: ADF277D9836743B9B7C8CE0AB06AC0518114D75FC278BD5E949D90FFBB796F5C
+    Session-ID-ctx: 
+    Resumption PSK: 55D025ED38A652D6B26F14D3B3560192A7275ECABD251DCBB9B60F962D914F7A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - fe 0f 1e 8b 1f f6 3d fd-4e 4e 52 8e ef 9b 78 8c   ......=.NNR...x.
+    0010 - 76 41 05 b0 e5 fa bb 10-e9 37 eb c0 af 8c a7 f6   vA.......7......
+    0020 - 8d e6 1a 65 e1 55 6d ac-9e 2a 2e 6a e2 ad 94 e3   ...e.Um..*.j....
+    0030 - a7 5f 84 e2 53 3c a8 d3-ab 85 85 9c 16 c6 48 a1   ._..S<........H.
+    0040 - 63 42 ba a3 9b 26 ed 03-4c d7 0d 0f 08 1f bf 77   cB...&..L......w
+    0050 - d4 69 43 3c 02 0c 3e 06-b1 c9 74 45 ca 64 51 88   .iC<..>...tE.dQ.
+    0060 - 48 c0 cf bc 0a f9 bb 25-3b 81 28 9a ad de 05 f2   H......%;.(.....
+    0070 - fa                                                .
+
+    Start Time: 1732697573
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

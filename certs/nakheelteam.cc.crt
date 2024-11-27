@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=nakheelteam.cc
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 17 05:57:04 2024 GMT; NotAfter: Feb 15 05:57:03 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDrjCCA1OgAwIBAgIRAOroDAJbSshhDRXwm8AgssUwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTExNzA1NTcwNFoXDTI1MDIxNTA1NTcwM1owGTEXMBUG
+A1UEAxMObmFraGVlbHRlYW0uY2MwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAS6
+LAXa2UStZu3AtLEGSzIVKvGzL0xeYQwA+e8EGA/9ryGwgKHgqYu61lFGsfcmstue
+JILWrU2GuW7NmGltMxQPo4ICWDCCAlQwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQM
+MAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDSE4KWixRiB1SDQ
+6IO3QgpvknzlMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsG
+AQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEv
+NnVnMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MCsGA1Ud
+EQQkMCKCDm5ha2hlZWx0ZWFtLmNjghAqLm5ha2hlZWx0ZWFtLmNjMBMGA1UdIAQM
+MAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29n
+L3dlMS9fNllKLWVuSHcxWS5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQBO
+daMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAZM46SknAAAEAwBGMEQC
+IF4aWgQUaGZS+ynKt/nuxJ1xQjRYGTPjsP9918x6T1lnAiB4stvO0isRR125Jfav
+x/RA9jma/3kNYisQMYpDf7pr+AB2AKLjCuRF772tm3447Udnd1PXgluElNcrXhss
+xLlQpEfnAAABkzjpKTYAAAQDAEcwRQIgYk9YBu2YwMvu5fUXHa7lqtt2B2pJ1lck
+KijXLS+E08UCIQDgT8R2HFJRz6AwpIJHN2MT6XKxnWInQGdTdoDr/5NDIzAKBggq
+hkjOPQQDAgNJADBGAiEAib4ygwf2iY1Geb3nj2BCHVET/X83LcciZd1KcPsH1oIC
+IQCxZ/H1IPk2PWhlmpOeGbQO2IPGSz2YrMswInEgMo/Q2A==
+-----END CERTIFICATE-----
+subject=CN=nakheelteam.cc
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2834 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

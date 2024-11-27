@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=pingdom.net
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 10 23:27:29 2024 GMT; NotAfter: Feb  9 00:27:26 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDozCCA0mgAwIBAgIQJYbwsDWOaPcN4Ncf/TjPtjAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTEwMjMyNzI5WhcNMjUwMjA5MDAyNzI2WjAWMRQwEgYD
+VQQDEwtwaW5nZG9tLm5ldDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKmLajxc
+MQ2u2OmdRUHvpyi3ORAd3vpNt1eTIviNj0aa91MiqsR0Wo7vbrA4mqAJM/GS6OLo
+zq7a3nYuwlBESUejggJSMIICTjAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUjBzy1Lv4/t32MycrflH3
+X2dTbggwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9KWVkw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwJQYDVR0RBB4w
+HIILcGluZ2RvbS5uZXSCDSoucGluZ2RvbS5uZXQwEwYDVR0gBAwwCjAIBgZngQwB
+AgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxLzZYczRp
+ZFhxMzVVLmNybDCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AM8RVu7VLnyv84db
+2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkxieVboAAAQDAEcwRQIhALE7Ponv+5LI
+M9SDmll2S+UIzA7p4U1zJlV77LOeGtHgAiADB0Tum4hxPq96a28BL5y+FPRA0gxj
+4KcuS/XNYhL7HAB1AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAAB
+kxieVaYAAAQDAEYwRAIgQ/r7pLm1Rmmvqw3ADDpLrZIFK8g8Vsod/iDqKj5r36UC
+ICg0TO2Li5AnVfXe8iUBImGNFYOgRJinPMuLhno79SVoMAoGCCqGSM49BAMCA0gA
+MEUCIGAXxHNXZwapanxZog3v3Z1m6S2twh5PrxlsGCy5cna1AiEAxymVQfnKVp4c
+z9KLknqjQHHHvFuBi1dJAdw/haL6fDo=
+-----END CERTIFICATE-----
+subject=CN=pingdom.net
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2824 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

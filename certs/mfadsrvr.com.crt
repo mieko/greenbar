@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=mfadsrvr.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 21 04:02:37 2024 GMT; NotAfter: Jan 19 04:02:36 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5zCCA8+gAwIBAgISBAK4r1OQ8OE8nG06sRGy+4W6MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDIxMDQwMjM3WhcNMjUwMTE5MDQwMjM2WjAXMRUwEwYDVQQD
+EwxtZmFkc3J2ci5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCr
+0adz6zI2aL92cn4tSfdyOoexGilWOyKLTt8HtYdT2hlny1mE4DG0oSrO+3Fy7NUK
+Z8LAV79sRRPs2yQ98F4scyhjpOCnfHnULCZVLU7M+QSBDTDail5nhE8nW3xvsrQ5
+kktTdD0IwT2EmV8SiVV3RwAeDnm+i0x3RHJ3yqLQpwUITq2w1l2bzuGWwzygBtOj
+8bp9DKZMZRumds4IFvDArt0exlTvtqMV7ZsV3N9VfBrkqYP2ugq2O4cBths/vQSX
+8mB5EUXJhNJQFtWA1K8HKQGabGdvrhWEMRDLH7UnRcrpLi8SkkT3anqEPLz5HZV5
+n29oSxSgVFSLFJT+WV5JAgMBAAGjggIPMIICCzAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFL2BcVhSxqG2pAhzs6YfUeNS/Q7bMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyV
+xC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3Ix
+MS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9y
+Zy8wFwYDVR0RBBAwDoIMbWZhZHNydnIuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIB
+MIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAouMK5EXvva2bfjjtR2d3U9eCW4SU
+1yteGyzEuVCkR+cAAAGSrXNL3AAABAMARjBEAiApAiC557/zzmZXpiPXxe1PcRo6
+jPQ53dgxhNp5CRl1KAIgMi74EKPc+3k2gwUyrkWZRUJ6a97Wy2T5z/bsGT3KVwQA
+dgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZKtc0vjAAAEAwBH
+MEUCIHjsi0ekB5NtH8NFqY8PvS97BiS2Csx9YyetfAKbKcMJAiEAsTzYVpmzdTPZ
+SlH4xL1JMqs7bauLs/+BsBbS6AtfYqUwDQYJKoZIhvcNAQELBQADggEBAFmncWZ6
+cIoUXSP/YR+DxgadcJpmRR5DnHo4r8w2773Eq4tYAu+3TEplSF2uZLu91lJvnIqn
++y4WEItmqOQstWQ5tLzTuArwPgdAGhVMVvx29V7QiKqrO27s9eaHQhozRBQBU6ot
+UNWAZYqc89PP5Wynp4hqcomVqfycZ0c4WTdVeDwfjZg8J+qhCcFftL9dGqKtnIpx
+EhyVL3NWnoKvkr4E85fAZNiOx82ez4w0izS3evfQnKETLdm95wyb9nczA5r7CcvX
+ioru0PNDgtaB6A/Ye8dd6/7ojrWA9UYNQTd9sxaLOMW6bO8z+oCVDMAwZn6luozr
+9G7s2XKU9a6ME0I=
+-----END CERTIFICATE-----
+subject=CN=mfadsrvr.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3114 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

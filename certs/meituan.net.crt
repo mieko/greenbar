@@ -1,0 +1,101 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=CN, ST=北京, L=北京, O=北京三快科技有限公司, CN=*.meituan.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 16 06:30:02 2024 GMT; NotAfter: Aug 17 06:30:01 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 19 00:00:00 2018 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGXTCCBUWgAwIBAgIMREDeq2wz7fsPj+MuMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yNDA3MTYwNjMwMDJaFw0y
+NTA4MTcwNjMwMDFaMHAxCzAJBgNVBAYTAkNOMQ8wDQYDVQQIDAbljJfkuqwxDzAN
+BgNVBAcMBuWMl+S6rDEnMCUGA1UECgwe5YyX5Lqs5LiJ5b+r56eR5oqA5pyJ6ZmQ
+5YWs5Y+4MRYwFAYDVQQDDA0qLm1laXR1YW4uY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAgLXkwWUr1xyUkaBNHGpHR/Wi1OfgLOoGTlI8qerKxZjL
+dm2DfSaDdto4brbn1OKn9Cg+zOkTjfccBRBF2pnUNUa0Fads08Mac/CKxqwM83YA
+LSuGlCYk0TU7TaLdLckr9iioaS4FyVElDiNpdcqt2doEuBRY1cttnRCtrvv2OJGX
+x9IyFGtlgFhh0CvDcWlLqDXCJldryJOyPGMB6rMHt07RqcFXFH/oqxSdT5bMG6zV
+8Q0nUUfhSYje1P54mHZHUWGOojPxRNRdGxau4P3g294hKrEryxW/FrMJN6exVJ9T
+W6VlhoFEn4KZhQGwIU/6j8aU/4oeP0hXE2qMTnUj2wIDAQABo4IDFTCCAxEwDgYD
+VR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwgY4GCCsGAQUFBwEBBIGBMH8wRAYI
+KwYBBQUHMAKGOGh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dz
+cnNhb3Zzc2xjYTIwMTguY3J0MDcGCCsGAQUFBzABhitodHRwOi8vb2NzcC5nbG9i
+YWxzaWduLmNvbS9nc3JzYW92c3NsY2EyMDE4MFYGA1UdIARPME0wQQYJKwYBBAGg
+MgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3Jl
+cG9zaXRvcnkvMAgGBmeBDAECAjAlBgNVHREEHjAcgg0qLm1laXR1YW4uY29tggtt
+ZWl0dWFuLmNvbTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0j
+BBgwFoAU+O9/8s14Z6jeb48kjYjxhwMCs+swHQYDVR0OBBYEFPIKwOXlTuAifqYP
+ZBEKIMZkqioRMIIBgAYKKwYBBAHWeQIEAgSCAXAEggFsAWoAdgAS8U40vVNyTIQG
+GcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZC6O94/AAAEAwBHMEUCIA14V0o+n6pf
+KHJhQOHUB6Mqa2b8VMG6wGmG+mWWWnLxAiEA1JiFJ6EChSXhWll/TbitKPWbyRme
+rpQSXOkwjXl0CloAdwAN4fIwK9MNwUBiEgnqVS78R3R8sdfpMO8OQh60fk6qNAAA
+AZC6O95gAAAEAwBIMEYCIQDe0h2e+J7t3hyvgvodOXcb3ElGPrXqZmFVRPqlZLvX
+QgIhANVtwgzdp55rPutZw1SYFnFf1JrC9uxtjSL3aE3U/HhIAHcA3dzKNJXX4RYF
+55Uy+sef+D0cUN/bADoUEnYKLKy7yCoAAAGQujvegQAABAMASDBGAiEA+q9IeY5h
+0WLKGcABFPDyyByIPAEYM5sUZxg32lHfTw8CIQC3D7baoeP9SEOP/6quIRm1hjC2
+x/IvhdG/zSU62K/JozANBgkqhkiG9w0BAQsFAAOCAQEAFg44gyP/bdaOW6UzseMu
+ki8gtAyrrII5dC29nKqS6+3u7yXP6AVmrHrJCccgIxCv2hQw0CjxOcxPG5rLo+Wc
+bJqI13nl0joU264gp0zHrE4F0XPZfIAeVWYs0zSzd+T2J3VlQdX6xeA7mq6sytXB
+v7Sd/1J6LbcYaZPJf2vC/uC2x/JMlTugZ1ow9ltRAp/ofI6S+rznsO3rXAk/LFNH
+R+/QQg7popKCdC25g8NFZGJ3j+HPL+Fqx8dacU6Di1QgEek1D8mvAyZuugWprPER
+ck0MUTOS2dhd/ysU4uKSoc+GOlJh6MB11vDM0OmawfCFpw/GajVOHTgGXlZHq3Xm
+QQ==
+-----END CERTIFICATE-----
+subject=C=CN, ST=北京, L=北京, O=北京三快科技有限公司, CN=*.meituan.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4504 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 30BC712A76144C4768B325C199B3ED4543ED42A0EE073CBB52B83611CFFA12C2
+    Session-ID-ctx: 
+    Master-Key: D85D1743DACBD7E0422ACF62CFBFFFF69912CE60769E18DC74369B4EB1C38D64BB50436D1CB69D5435C67C54E74BDE7D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 2100 (seconds)
+    TLS session ticket:
+    0000 - 9d 2a 87 76 7b b9 d1 fe-e7 cd ac 58 2b 5a 92 52   .*.v{......X+Z.R
+    0010 - f3 d8 05 21 b6 bd 84 bb-fb e9 57 ba 81 ad 22 a6   ...!......W...".
+    0020 - be 9b be 97 7e 33 59 49-4e 61 81 df 78 7f 1c b2   ....~3YINa..x...
+    0030 - bb eb 62 45 95 29 ba 92-4b 22 03 06 e2 1f 2b 62   ..bE.)..K"....+b
+    0040 - 0d 55 99 3f 28 25 74 e5-60 88 29 f2 0f f8 b7 0f   .U.?(%t.`.).....
+    0050 - 98 65 10 52 5a 6b 6e fb-7c c5 d0 25 64 de fe 99   .e.RZkn.|..%d...
+    0060 - 55 59 9e 39 7c b5 c7 fe-14 fb 19 99 01 c0 e3 8a   UY.9|...........
+    0070 - a8 97 0d 14 ee 72 ff a3-46 a8 29 91 55 24 a4 93   .....r..F.).U$..
+    0080 - 93 f0 34 a6 37 dc 88 49-12 59 99 c3 d5 dd 91 f1   ..4.7..I.Y......
+    0090 - de 49 43 9e 34 36 2b 3d-56 7a 75 b6 1d a3 54 9c   .IC.46+=Vzu...T.
+    00a0 - a7 0e 84 3e 4f bf cb 27-c8 07 9a 06 cd 98 2b df   ...>O..'......+.
+    00b0 - 05 88 28 3b 86 36 4b e2-db 88 8d c5 32 df c7 79   ..(;.6K.....2..y
+
+    Start Time: 1732697513
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

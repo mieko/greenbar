@@ -1,0 +1,91 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=aditude.io
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 15 04:16:54 2024 GMT; NotAfter: Jan 13 04:16:53 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5TCCA82gAwIBAgISA7kDcMfSPSbSxRcnSPXLu+ANMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDE1MDQxNjU0WhcNMjUwMTEzMDQxNjUzWjAVMRMwEQYDVQQD
+EwphZGl0dWRlLmlvMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsEjY
+Mq+RaIEq+CgodIcAJV38NjU4BzgChtty7HfiRLwSLy1lDLmYiIbkXtzYzNurgavq
+rJhLqvYL31WWymrHjbvbii1jeQLNaId+y9qkV/iHPDiXNYlSSgVRuWtD1F08YcTx
+DhANN8qTKPmEABIdMRd5i6JJhH5LWBA9Og/DeLeql1L7hPUrzG4V1SHHlQ8MgKLt
+522utY3n6+emJenFjrzLeJHb2SC8yspdcjjCIZKsiz5D68BUnIDqmxBErEiKz0tj
+KuIzcj4MylGImIqvek+Bw1WVN2HfW2fP6Kt6H2aPh2RSwkhq1LGwGKMuX2fNesGj
+PMLjazBcn0TOVJ+lLQIDAQABo4ICDzCCAgswDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBThinNisjJdmIMz0Pzg4A4WYoh7NDAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQt
+sF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEu
+by5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcv
+MBUGA1UdEQQOMAyCCmFkaXR1ZGUuaW8wEwYDVR0gBAwwCjAIBgZngQwBAgEwggEF
+BgorBgEEAdZ5AgQCBIH2BIHzAPEAdwDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB
+0lt3zsw7CAAAAZKOmjkOAAAEAwBIMEYCIQDxyGD35CKQFG2VpLoDXE9fNBSgbuce
+SVCYo1URZk/a2AIhAIyV1QqvhXy/V7qMZffefb3MUB4tEtxNrG58c0yUJSgnAHYA
+4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBNpW1vVAQAAAGSjpo48gAABAMARzBF
+AiAIFyZ34XJ0KEEUNhmvjSHWC7bD7TCNwyGgZC/MTptR0gIhAM5cdCkA2FbDLMkM
+7/+RCvEPGdjKo8xB5Xs2R5dwotIkMA0GCSqGSIb3DQEBCwUAA4IBAQCJakxYNxPi
+b0AJTRW9dBLhJFL1QMZNsFPqHq5m84pv5e9MzLjDantL1TL11thrN7BdTAgg6GL7
+axoolpYL+nHqhp2SONMh9zOLqmKYddECNxulGBwyKRU97s4hYUmIHueRuunSMe+k
++492tKjcp/QSBZWorBIAWRDp4VpKRbK2DHr7KFL4qx9DoYoEBQU9+PfnwsyJ/n/K
+O2RSa6ApTtnr1nByWS3TJqY6KHuPcLnw6J3THe6DbWPLjQkUJEMSEtVOHZZqxJVr
+407qiJ4hCZWIDXhxlAPvm+AcnzybysnQfxtLDi3FX0NfqbQLrAhD0zdnylhVlSOk
+RTHu7mqON8Lk
+-----END CERTIFICATE-----
+subject=CN=aditude.io
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3092 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 7D0D5F20037886BE52C2FFA763971B20F3D071DAD4100E9F0088F465CAA2F2B8
+    Session-ID-ctx: 
+    Resumption PSK: A1F7BC5BD1C48E00A0A41F22054017315B390BC7EA887878717FB4442ABA6C36
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - a8 dc 78 1a 1a c3 80 1d-77 2a 4d 96 ec e7 3e 54   ..x.....w*M...>T
+    0010 - 1f 54 7e 00 1c fd c6 33-10 a5 d3 1b 64 e3 4d 12   .T~....3....d.M.
+    0020 - 6a 21 4a d8 63 01 41 75-8e 98 9e e4 35 65 e1 42   j!J.c.Au....5e.B
+    0030 - 95 c6 f4 52 9d 95 f4 7d-d4 9b 15 41 b8 d6 39 71   ...R...}...A..9q
+    0040 - 49 73 dc de b5 32 5e e4-3a 5e 26 82 3e 96 79 58   Is...2^.:^&.>.yX
+    0050 - dc e3 0b 8e 7e 3e 67 ff-75 83 7f ff e9 74 0c 18   ....~>g.u....t..
+    0060 - 7c f4 83 6e ea 70 3f a4-87                        |..n.p?..
+
+    Start Time: 1732696882
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

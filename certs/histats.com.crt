@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=histats.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 30 10:03:19 2024 GMT; NotAfter: Jan 28 10:03:18 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE9jCCA96gAwIBAgISBDsBfYh7ZGAkFac6dtl0k3euMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDMwMTAwMzE5WhcNMjUwMTI4MTAwMzE4WjAWMRQwEgYDVQQD
+EwtoaXN0YXRzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALM7
+opxmCLCUkqhU3A4YmBKDboAmZiIk13ORkvpchBZZkjmW6tWBQXqgo559xlflwhgG
+aeYLvd/nE9bVkw+teROLCTuqatbPaTDGCH/sUhT+WKqdvdQGihO657l3ebNT4va5
+pN3Nyl5fy+H2b/n2HDZYueiYXJ9itQL3KevVVvbfwIjIYt8S+rwkHEZLsWuqGPqr
+CmV6vA/mgHw6PDjc6lQIHmdIwuEyKN8UWx/+ZOa3n+raFND57c1rasdvK8Jdz8zh
+WUbQzQluK0agHnIXZxM36SgcvlHQH68pzovh7l46sM1uD4bCXGEO7Yp/Be8WMoDJ
+0PaV/faAs5/RlCPuQu0CAwEAAaOCAh8wggIbMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUDTYG5KyQoLKC2075JA6yK+Z1Vd4wHwYDVR0jBBgwFoAUxc9GpOr0w8B6bJXE
+LbBeki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjEx
+Lm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVuY3Iub3Jn
+LzAlBgNVHREEHjAcgg0qLmhpc3RhdHMuY29tggtoaXN0YXRzLmNvbTATBgNVHSAE
+DDAKMAgGBmeBDAECATCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AH1ZHhLheCp7
+HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkt0WxZkAAAQDAEgwRgIhANlxWDxT
++NY82O24NmgAbnSoj3pv74/WmGaxMcWa8HDHAiEAkhASw/5xjraossgsE0KAd1Vi
+lTeo+MkhJ2wXQ2rWJGIAdgDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7
+CAAAAZLdFsXlAAAEAwBHMEUCIQDxx8dwO1VSrU/gi8KzLh2jqGzpv7NJHm7Elm2H
+3GA2owIgWUINIIQY25nIeZGWJZiOn9uG29VVTCXkFP3LqNcpNaAwDQYJKoZIhvcN
+AQELBQADggEBAJG2PkidTGPTdngzp6Ioj+03n5qORMiLyBkrmAdSjACqwKZiJiMk
+6zOjwMZKoHzQG8pIS3rQosI6irYbZY7uSvZAN7QiVvBMbph69qYIBVfSLSCgra97
+aLXBYQiIDIpBA/VpaeH+29YgKmydVMnjOWFsY+E8KqfKU7StS/20NCYMxsuEHa6u
+O5mKPYtLfEAGxcfTiYGv/7QFyixMuRzxuPxtmluGIAT3z36fO8AXSK7+xiBsZXrS
+vu/JwFsKRhDwYrK6HErasszTLtzW8kzfZeQgcarurtxGdgInjHOEc8TXxr8yUZWI
+0DeVKOipuV8DyxpIvyZ3WfeL6BS2UD2wrpc=
+-----END CERTIFICATE-----
+subject=CN=histats.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3129 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

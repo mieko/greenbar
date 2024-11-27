@@ -1,0 +1,95 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=Intel Corporation, CN=intel.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 26 00:00:00 2024 GMT; NotAfter: Feb 24 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJhDCCCGygAwIBAgIQF/dM7lSfUAdiuBsaAp2EbjANBgkqhkiG9w0BAQsFADCB
+lTELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMT0wOwYDVQQD
+EzRTZWN0aWdvIFJTQSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTZWN1cmUgU2Vy
+dmVyIENBMB4XDTI0MTEyNjAwMDAwMFoXDTI1MDIyNDIzNTk1OVowUjELMAkGA1UE
+BhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExGjAYBgNVBAoTEUludGVsIENvcnBv
+cmF0aW9uMRIwEAYDVQQDEwlpbnRlbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDrVnE2gmQ38R0T3o0FaD3R9PgKWBUQmsDXmE8S0roDvJrs37BY
+vXchhbdqyqz5UKwjT/COewwXCZT6LgOipz+f6dCOcZfpZGP/+EWxoAiuMA1vQk7m
+PCF6RLkuVdHOozMYlBBeCKeYTD/EH7AhEsYjk+21W3JvH+7vuGwFJgnAqBF3CNkg
+vOM8F6uoxIxfstQFwUDjzlhMj/ZNbFgW7dVYQogI1G3lIKNWrR/mhIG9O5Da1BY2
+cxXD5ehx/zZ5ogbihs7Z6rbPsqNZP1kRtf71p/+sVYZRcn+2HmIoFiia1QQ6/5e1
+8tkCVtWublBTlkrIdA09xnDN386z36YV9CYZAgMBAAGjggYQMIIGDDAfBgNVHSME
+GDAWgBQX2dYlJ2f5McJJQ9kwNkSMbKlP6zAdBgNVHQ4EFgQULHaNm5qUI0R1gjpK
+Jg4L1nIi520wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMEoGA1UdIARDMEEwNQYMKwYBBAGyMQECAQME
+MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAEC
+AjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLnNlY3RpZ28uY29tL1NlY3Rp
+Z29SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3JsMIGK
+BggrBgEFBQcBAQR+MHwwVQYIKwYBBQUHMAKGSWh0dHA6Ly9jcnQuc2VjdGlnby5j
+b20vU2VjdGlnb1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJD
+QS5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMIIBAwYK
+KwYBBAHWeQIEAgSB9ASB8QDvAHUAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJb
+d87MOwgAAAGTaS7uhwAABAMARjBEAiBlFJeJ99/p+0S/QMXCxFxfeL1sb17QLUb8
+rVjzyjJsmwIgDhxIOu0dT9KBKYAaj5+pC+SIPpB7nkFBw9WR5V7EGtoAdgDM+w9q
+hXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZNpLu6SAAAEAwBHMEUCIQDn
+4AU55CCVRrxGXSK8Bcli3memdaSW2fvoN7SHRhoZOAIgBZ14WTQtzqIsF+iivx4X
+w1ojkHpBdLnKE3XwS05L93gwggNPBgNVHREEggNGMIIDQoIJaW50ZWwuY29tggYw
+MS5vcmeCCmFjcGljYS5vcmeCDGFsdGVyYS5jby5qcIIKYWx0ZXJhLmNvbYIUYmFy
+ZWZvb3RuZXR3b3Jrcy5jb22CDWJ1eWFsdGVyYS5jb22CDmNsZWFybGludXgub3Jn
+ggxkbWwtbGFuZy5vcmeCCWVhc2ljLmNvbYIQZXhwbG9yZWludGVsLmNvbYIIaW50
+ZWwuYWmCCGludGVsLmNhgghpbnRlbC5jboILaW50ZWwuY28uaWSCC2ludGVsLmNv
+LmlsggtpbnRlbC5jby5qcIILaW50ZWwuY28ua3KCC2ludGVsLmNvLnVrggtpbnRl
+bC5jby56YYIMaW50ZWwuY29tLmF1ggxpbnRlbC5jb20uYnKCDGludGVsLmNvbS50
+coIMaW50ZWwuY29tLnR3gghpbnRlbC5kZYIJaW50ZWwuZGV2gghpbnRlbC5lc4II
+aW50ZWwuZXWCCGludGVsLmZygghpbnRlbC5nZ4IIaW50ZWwuaWWCCGludGVsLmlu
+gghpbnRlbC5pdIIIaW50ZWwubGGCCGludGVsLm1lgghpbnRlbC5waIIIaW50ZWwu
+cGyCCGludGVsLnNlgghpbnRlbC5zZ4IIaW50ZWwudm6CEGludGVsY2FwaXRhbC5j
+b22CFmludGVsY29ubmVjdC5pbnRlbC5jb22CEWludGVscmVhbHNlbnNlLmNughJp
+bnRlbHJlYWxzZW5zZS5uZXSCFmludGVscmVpbWJ1cnNlbWVudC5jb22CDG1vdmlk
+aXVzLmNvbYIMbW92aWRpdXMub3JnggpvcGVuY2FzLmlvgg9vcGVuZHJvbmVpZC5v
+cmeCC29wZW52aW5vLmFpgg9wYXNzd29yZGRheS5vcmeCGXByb2plY3RjaXJjdWl0
+YnJlYWtlci5jb22CFHJlbmRlcmluZ3Rvb2xraXQub3JnggpzaWdvcHQuY29tghRz
+aWxpY29uLW1vYmlsaXR5LmNvbYITc2lsaWNvbm1vYmlsaXR5LmNvbYIbdGhyZWFk
+aW5nYnVpbGRpbmdibG9ja3Mub3Jngh11bml2ZXJzYWxzY2FsYWJsZWZpcm13YXJl
+Lm9yZzANBgkqhkiG9w0BAQsFAAOCAQEAhnukZ5CqO8YdKhTqpFMbTp4hWwfPzz7p
+Cm6gNgjMXTi1TnikO+SRUaYeOGLpvblcRX5yjWdnny5a9SrvNVjHl8ssbVl22Jjc
+gPxhfsGLPOfUGlR9JxjxIpI7zA9vI/dd3AR9Epi6Ad5y+VX8owBpL0CVH8C6L3Dl
+1PemtuXSa4LwHCDv+JymkFOksvaG/Im83aqvodihcz4bBqyQMmQV5RdyIK4ZfNgo
+D2LuJEYq6HWrqkd1WsRl2pkqUwuLt3fiCSW3CuyH/+H77AH6KJ/4xIXE6kG9o2Ma
+mQ0m6EGfdUG0JCZNp5iVFe/VkjJEn4kpzRxol+hfWY9gQqmpPogpxQ==
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=Intel Corporation, CN=intel.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 7071 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

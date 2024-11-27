@@ -1,0 +1,74 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.richaudience.com
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Feb 14 00:00:00 2024 GMT; NotAfter: Feb 25 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  2 12:24:33 2017 GMT; NotAfter: Nov  2 12:24:33 2027 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGNjCCBR6gAwIBAgIQD6ZLdyBKo+ytwjluRpPfqjANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR8wHQYDVQQDExZSYXBpZFNTTCBUTFMgUlNBIENBIEcx
+MB4XDTI0MDIxNDAwMDAwMFoXDTI1MDIyNTIzNTk1OVowHTEbMBkGA1UEAwwSKi5y
+aWNoYXVkaWVuY2UuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+1WguX/7LuGw9L+QY/5MtkzXs25JDceIS9tBkrPCIKdWaYiuw/smWfoIGluV8jplu
+Zq62eHvVcgBaaEHTP/jOVpVTjMX3MsAESuRerzKuZ7Ao5sLGp2iWrQ0ZINj9t5GH
++CA5+cIWvbiFzXtCn3ghF0JK2urXONp4NZMuGUWCvso8QVKByIGtfHsTM/XX0XyC
+uWpLZyMPWif7VfcJl+R/5xeULi5+ROMa9B/LUolq+o3bo1GbbypMypVwo83JZa1s
+M+5Z+X+0rGShmya2x8WUIT/VoS8ThvotuyDqHoucjal1OuY+6UViWMB3+v0vYWQ6
+Rr5LDz2/gNkGd/OZxKE7HQIDAQABo4IDLTCCAykwHwYDVR0jBBgwFoAUDNtsgkkP
+SmcKuBTuesRIUojrVjgwHQYDVR0OBBYEFCtl381lKluy2i9XSoWDghCxQc7nMC8G
+A1UdEQQoMCaCEioucmljaGF1ZGllbmNlLmNvbYIQcmljaGF1ZGllbmNlLmNvbTA+
+BgNVHSAENzA1MDMGBmeBDAECATApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRp
+Z2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY2RwLnJhcGlk
+c3NsLmNvbS9SYXBpZFNTTFRMU1JTQUNBRzEuY3JsMHYGCCsGAQUFBwEBBGowaDAm
+BggrBgEFBQcwAYYaaHR0cDovL3N0YXR1cy5yYXBpZHNzbC5jb20wPgYIKwYBBQUH
+MAKGMmh0dHA6Ly9jYWNlcnRzLnJhcGlkc3NsLmNvbS9SYXBpZFNTTFRMU1JTQUNB
+RzEuY3J0MAwGA1UdEwEB/wQCMAAwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2
+AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABjabgpjIAAAQDAEcw
+RQIhAJP2JjckzueqC6mkDybk+YmdRZdblDxZQZZj7PY+aWGtAiArxsKnas0S7UCB
+sDRHZi8zynSvM6f0ntDoh6Nt16GC2wB2AFWB1MIWkDYBSuoLm1c8U/DA5Dh4cCUI
+Fy+jqh0HE9MMAAABjabgpq0AAAQDAEcwRQIhAJCpmdrdK8jS5weWxmYip5UO0qAW
+sZcozjeLgsa8V5KmAiBuoIQSWj7DQZi6eyMYL0KIDgbf+pZLYIbGh1yaF0ENAAB2
+AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABjabgpfoAAAQDAEcw
+RQIhAMo9RkP6lswpRq1rCecOEbqaSgqnQ84D4pk3dubBrbfxAiBkZAEEKPFx1aqC
+xBrKtBOXg6EQLAlmw/ByktrA4zio2DANBgkqhkiG9w0BAQsFAAOCAQEACkXuV8gw
+cH2TrxGtQsQAuTvG25sNZkcr0EnaW8SUkh6vwceC0uuFIZz5nKiZfA0QdoXL0NiB
+qFXkSfkGi/u9KpxfcPVvwIC5XNFw67/koqqXUzqc2h3aapX3Ngm6N2B1qr/MKSe7
+uGubh6rxPdPk1DGG+UF2PG6gocDikolv4OVf8E82hEdkmStDqzfZYsiEwAF+f7h3
+py5vDLM7PYzEFSxlj+p5zb23lSGEdAOBkxYkCwFMfFyCanKDXGF1hMByzCJpsHMj
+3TVMWtKzXWMKSDLlySBflWCjQYd+htQJNv0xWhsJWV258QlF8PNSbiuuHxypRYuq
+ZxOazw5TOUBWAw==
+-----END CERTIFICATE-----
+subject=CN=*.richaudience.com
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4285 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,98 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=telephony.goog
+   i:C=US, O=Google Trust Services, CN=WR2
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 19 02:32:33 2024 GMT; NotAfter: Jan 28 02:32:32 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR2
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIojCCB4qgAwIBAgIQGdVZJCXxQBMKa++Fo9KpQjANBgkqhkiG9w0BAQsFADA7
+MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQww
+CgYDVQQDEwNXUjIwHhcNMjQxMTE5MDIzMjMzWhcNMjUwMTI4MDIzMjMyWjAZMRcw
+FQYDVQQDEw50ZWxlcGhvbnkuZ29vZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IA
+BAQZZnkDdTelbhkSnKLO/ZLNk+6yEpbGbnJD+FE7L+oPQrzbzWz7VZRGX9RaJlgM
+LusigoUVSneX9wE0kLJmcOSjggaNMIIGiTAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FPdYKX2eBgarjyH8+OqMYvtmmAAWMB8GA1UdIwQYMBaAFN4bHu15FdQ+NyTDIbvs
+NDltQrIwMFgGCCsGAQUFBwEBBEwwSjAhBggrBgEFBQcwAYYVaHR0cDovL28ucGtp
+Lmdvb2cvd3IyMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93cjIuY3J0
+MIIEWwYDVR0RBIIEUjCCBE6CDnRlbGVwaG9ueS5nb29nghRjaGlycC50ZWxlcGhv
+bnkuZ29vZ4IYZGVza3Bob25lLnRlbGVwaG9ueS5nb29ngh9kZXNrcGhvbmUudGVs
+b3BzLnRlbGVwaG9ueS5nb29nghFmaS50ZWxlcGhvbnkuZ29vZ4IUZmliZXIudGVs
+ZXBob255Lmdvb2eCF2d0cC50ZXN0LnRlbGVwaG9ueS5nb29nghVvYmloYWkudGVs
+ZXBob255Lmdvb2eCEnAxMS50ZWxlcGhvbnkuZ29vZ4IVdGVsb3BzLnRlbGVwaG9u
+eS5nb29nghR2b2ljZS50ZWxlcGhvbnkuZ29vZ4IUd2F5bW8udGVsZXBob255Lmdv
+b2eCEWFwLnRlbGVwaG9ueS5nb29nghFldS50ZWxlcGhvbnkuZ29vZ4IRc2EudGVs
+ZXBob255Lmdvb2eCEXVzLnRlbGVwaG9ueS5nb29nghYqLmNoaXJwLnRlbGVwaG9u
+eS5nb29nghoqLmRlc2twaG9uZS50ZWxlcGhvbnkuZ29vZ4ITKi5maS50ZWxlcGhv
+bnkuZ29vZ4IWKi5maWJlci50ZWxlcGhvbnkuZ29vZ4IXKi5vYmloYWkudGVsZXBo
+b255Lmdvb2eCFyoudGVsb3BzLnRlbGVwaG9ueS5nb29nghYqLnZvaWNlLnRlbGVw
+aG9ueS5nb29nghcqLndlYi5maS50ZWxlcGhvbnkuZ29vZ4IaKi53ZWIudm9pY2Uu
+dGVsZXBob255Lmdvb2eCGyoud2ViLnRlbG9wcy50ZWxlcGhvbnkuZ29vZ4IWKi53
+YXltby50ZWxlcGhvbnkuZ29vZ4IQYy50ZWxlcGhvbnkuZ29vZ4IWY2hpcnAuYy50
+ZWxlcGhvbnkuZ29vZ4IaZGVza3Bob25lLmMudGVsZXBob255Lmdvb2eCE2ZpLmMu
+dGVsZXBob255Lmdvb2eCFmZpYmVyLmMudGVsZXBob255Lmdvb2eCF29iaWhhaS5j
+LnRlbGVwaG9ueS5nb29nghd0ZWxvcHMuYy50ZWxlcGhvbnkuZ29vZ4IWdm9pY2Uu
+Yy50ZWxlcGhvbnkuZ29vZ4IWd2F5bW8uYy50ZWxlcGhvbnkuZ29vZ4IXeGF2aWVy
+LmMudGVsZXBob255Lmdvb2eCGCouY2hpcnAuYy50ZWxlcGhvbnkuZ29vZ4IcKi5k
+ZXNrcGhvbmUuYy50ZWxlcGhvbnkuZ29vZ4IVKi5maS5jLnRlbGVwaG9ueS5nb29n
+ghgqLmZpYmVyLmMudGVsZXBob255Lmdvb2eCGSoub2JpaGFpLmMudGVsZXBob255
+Lmdvb2eCGSoudGVsb3BzLmMudGVsZXBob255Lmdvb2eCGCoudm9pY2UuYy50ZWxl
+cGhvbnkuZ29vZ4IYKi53YXltby5jLnRlbGVwaG9ueS5nb29nghkqLnhhdmllci5j
+LnRlbGVwaG9ueS5nb29nMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0w
+K6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dyMi85VVZiTjB3NUU2WS5jcmwwggEC
+BgorBgEEAdZ5AgQCBIHzBIHwAO4AdQDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB
+0lt3zsw7CAAAAZNCeqhpAAAEAwBGMEQCIH9gTjCv2ZGGN49yocYwzBTTfr1Drq8n
+eH+j8Bdyn8n0AiA8KZQnHAQoL6GXrEYwUcKO29ONpqE8bHM+urAq1DRaGAB1AMz7
+D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABk0J6qUQAAAQDAEYwRAIh
+AI3MXFwSUvY9BrIv4YvRpR/tMbfTXV/4H4mBjUmWSlIlAh9MLYR2kIjrVkS935mq
+9s/+7bA/0m/OAlY5LAqcBc4fMA0GCSqGSIb3DQEBCwUAA4IBAQCMYWBe8oBON6lt
+ZWrKDK1zNY5A1l2+a4kpEgZMgCiNkkpLHTSmwvHriiDUNOPE0+ngJFQp3ReYpnL2
+InGQihTAakWRXMj35H9JbDe/ta4vp/0i4xVoe1qh88cDY4Rn+UALPnNPo7fbuiNt
+LqeTx3/fBkbGKKEmKBfpze4xRBVH9YjCuP8i2rt3xTauwVAnhFgwLXwyQ9zvagDp
+BOpOor8F+qxFo5IiGHZRU321e6ntunblmvSR9DGQ+/JxrNY1SfNHIH/2LPoCk6LU
+CDVJHYworBCtlQXHQXTYuUgLHq4UX7Gys2oh/AZEoO05L5p+bPV5RP6i56NhVQz0
+8Jvp2eAj
+-----END CERTIFICATE-----
+subject=CN=telephony.goog
+issuer=C=US, O=Google Trust Services, CN=WR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5148 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: 
+    Session-ID-ctx: 
+    Master-Key: 9598B4C1B860C7F6D7359C1C393C27AF2079DEEFE32E6F8FE35DF1F7BA3E46199C27CE7F80BEB50C6F2798F7C26E3FDC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697870
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

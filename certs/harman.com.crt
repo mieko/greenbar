@@ -1,0 +1,89 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Connecticut, L=Stamford, O=Harman International Industries, Incorporated, CN=*.harman.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  8 00:00:00 2023 GMT; NotAfter: Dec  3 23:59:59 2024 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG/zCCBeegAwIBAgIQDZAhvcbH5bqUqR9n+ln3TTANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjMx
+MTA4MDAwMDAwWhcNMjQxMjAzMjM1OTU5WjCBhTELMAkGA1UEBhMCVVMxFDASBgNV
+BAgTC0Nvbm5lY3RpY3V0MREwDwYDVQQHEwhTdGFtZm9yZDE2MDQGA1UEChMtSGFy
+bWFuIEludGVybmF0aW9uYWwgSW5kdXN0cmllcywgSW5jb3Jwb3JhdGVkMRUwEwYD
+VQQDDAwqLmhhcm1hbi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCYad/EVuD/7Q/e+z/5mSXSNeaO4zR2p+1VLJNkFFeezgxO0a4kOUp92YlEOoLm
+3AnODdAXFUNdaTPSZN24/vRt/CUYHYlzwUOoW97P5UZa6Zes+WxYgqNLgrvEuoNp
+byfeJB9GOY80uzX4c+4jUVZ+LNmmm+Zp6gdT4h6oAVWZ2k/lrYs6zYobPirIjsAa
+fznYBqO4EWXJiQeYrRsHG6ucxSo3KebMtv+4n5Pk7uNa3MoGbnFSEZVT5d0KXHCg
+79v3j/ISWlaYztmGymWkFkN1Gl4XMJUjx/SQuVnewsn+cFii21XvgcXozTOY+iUN
+D001jTiDhXGeQCf48firtPsdAgMBAAGjggOUMIIDkDAfBgNVHSMEGDAWgBR0hYDA
+ZsffN97PvSk3qgMdvu3NFzAdBgNVHQ4EFgQUd0oTnigVlBH1u9bvVjZcu1WPOXkw
+IwYDVR0RBBwwGoIMKi5oYXJtYW4uY29tggpoYXJtYW4uY29tMD4GA1UdIAQ3MDUw
+MwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29t
+L0NQUzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNv
+bS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDBIoEag
+RIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNS
+U0FTSEEyNTYyMDIwQ0ExLTEuY3JsMIGHBggrBgEFBQcBAQR7MHkwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZFaHR0cDov
+L2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNSU0FTSEEy
+NTYyMDIwQ0ExLTEuY3J0MAwGA1UdEwEB/wQCMAAwggF+BgorBgEEAdZ5AgQCBIIB
+bgSCAWoBaAB2AO7N0GTV2xrOxVy3nbTNE6Iyh0Z8vOzew1FIWUZxH7WbAAABi6+2
+IdAAAAQDAEcwRQIhAJdM+sSY5G3WfRocgksb1SxUFvwX4QES3k8G3RFfQR9BAiBH
+xy/dZgfIogT/d6xR5NiHasPET2C1ovV/KmxYbnXQewB3AEiw42vapkc0D+VqAvqd
+MOscUgHLVt0sgdm7v6s52IRzAAABi6+2IfUAAAQDAEgwRgIhANkfk8q4Tj9eDYj8
+zoOYcoziIlRcuXNkg6cQyVv4BMq6AiEAlg+eCwR4NTouuiFmaA5LHRqSmlpiWM1u
+62CDDi0HtOYAdQA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAYuv
+tiJAAAAEAwBGMEQCIAzq8HAAuXig/pctjZu1Qyq9pvh7YPaL+RYnh1O9M3m7AiAE
+eu6t5fC2SFb5iDvxmMC9PjZJ1eIq394aPPCGMNbuKTANBgkqhkiG9w0BAQsFAAOC
+AQEAoMXEXBuuqKV7cP/ttfku0NRWgFNyRmL6Zkkg5yqZkPNpunpm953MF5BikjNV
+JzZTm/S6Wy7UmQZFmXkyW47YSKbDVRQMZKdtvuAA+zcqHSJ7vNwSCRVhaNhqr/T+
+FR8MWShvRZybow1WLjOGPi8YfVwoOxLrKsH4J6Cego40q7iHU0/nr3xSX6kL+1B5
+E17l863Mt+vZwuhushvzs2fw4KjFaJzv+pN8w0r+cy5tYkY04Aw/Bu8xwuC2ishw
+Y4fLabg633pRzIJpcaShrDy1dpk2AW2zmnKvyyoZE/vwAMcflCvMdSXHaVHPpDIl
+9tvkJqNQscZmkfsA4rPXKNJLDw==
+-----END CERTIFICATE-----
+subject=C=US, ST=Connecticut, L=Stamford, O=Harman International Industries, Incorporated, CN=*.harman.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4456 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 56BCF9F6EA40AC1BBE049477D309D42343B0F56AFF219446647FB6E8A2992433
+    Session-ID-ctx: 
+    Master-Key: 39F9FBC30FD6AC8650D01AA08432E094CBFFC775D5C644CC81C6D11CD82D061296C4D90BEAB770C6D09D0ECE84E5E1EE
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697301
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

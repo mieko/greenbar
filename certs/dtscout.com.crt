@@ -1,0 +1,88 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=dtscout.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  5 02:04:28 2024 GMT; NotAfter: Feb  3 02:04:27 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE9zCCA9+gAwIBAgISA3vcgZJmrXpaNltO9e/EsvQ4MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTA1MDIwNDI4WhcNMjUwMjAzMDIwNDI3WjAWMRQwEgYDVQQD
+EwtkdHNjb3V0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKL6
+h7YdUNyT26KET3xApaoqWopIWGYzxH6AT+DGHTJmTsRUwhFuK2CaFZpnEBL0CIZl
+9z4V8cjG4B1UGgFSjm7jrBDLZpgvldNwEDMYkzjT724MaVXGbQSabWDF1E5Q8f9a
+7qGjJlggkwKZ+qYgKS2IKyLQVtYY8agfAUMa/ETHZLeiwp/sVKwZhr8QQ5Fqy7fY
+OhmJKuXgyJ4WBXYZu11Walnej1viLDo3+pXRwm77yDBQGM0BDsjFswJck8DsveJF
+EjV5J/pg9PYjt7P6dO88j2Qi26mS1awlaoin6vUtRyrQ1E0JLmpJaACbWsGHmC8A
+53iTNvjNLRFBkHr9x5kCAwEAAaOCAiAwggIcMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQU02c5QOCDhVt6Q301YmzJfAwbikcwHwYDVR0jBBgwFoAUxc9GpOr0w8B6bJXE
+LbBeki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjEx
+Lm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVuY3Iub3Jn
+LzAnBgNVHREEIDAeggtkdHNjb3V0LmNvbYIPd3d3LmR0c2NvdXQuY29tMBMGA1Ud
+IAQMMAowCAYGZ4EMAQIBMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUAouMK5EXv
+va2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+cAAAGS+kaDsgAABAMARjBEAiB/L9EH
+nFbK/nEQzTtVV4NS8r0CgCQ6qFLR3kU7AHukTQIgKg887az9/X5aPBLs29obWeWL
+mnNI/iLx6+Mw2uNvybEAdwATSt8atZhCCXgMb+9MepGkFrcjSc5YV2rfrtqnwqvg
+IgAAAZL6RoR6AAAEAwBIMEYCIQDNJuUHjuSLdbgPYtNFkiYnfkf6cov0a0GKxqrw
+ZoDYPwIhAPqPQNng5Nyf0FWtkvz0WF9dpWmFF1qhzXDPe06bekExMA0GCSqGSIb3
+DQEBCwUAA4IBAQAl/2Zc+QD3S3HXke1sO0SYT/z46Hs1hCzzF4GrWA4Jk7+V8tKE
+zI/QNwQa01aAT76OIDqR8wlMcrNwiqe1JFa6RGrDnQ4e8JkGcBiTFCEwAq9c8XV+
+FH+8LeKnOAUeZi/dbCnGosKj1BSJWvwfT9aIeVZcIUyVRGrN4+GW/YioskY34E3T
+ZG9owH7TbXhDXQWYw6snlV3iAb2zt/x1VQ785O01ZxiEArrP8gv+u6Mx+/FcJsJS
+de6x6IVwRcmS58jk9i8rBm3JQ4+P0gum8WMvisR+TlQHJHLyjITGY/3kwv1rm6H9
+30DtHuvIUTdiHE39vnz/lgw2i+bjLhgA3kXN
+-----END CERTIFICATE-----
+subject=CN=dtscout.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3201 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 7A973B5758C882539D4E2B0D5D91AF088659AA0ECD2CC701A5726A65C8317EE3
+    Session-ID-ctx: 
+    Master-Key: 7B032C645EDB929399BE0ACB3805E94431A836C45FD7065B8D4455E3C9AD1FF8C45DF612C29C56CF7A7051FCB6BF8F4F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 98 96 ec bf a5 51 fd 60-aa ba 5e 4c 8c 69 fc 93   .....Q.`..^L.i..
+    0010 - 26 8e b5 d1 7e 6d 69 63-bc 61 68 05 ae 79 4b c9   &...~mic.ah..yK.
+    0020 - 19 1b 32 90 13 2f 00 c5-96 2d 0f a6 57 b3 d3 11   ..2../...-..W...
+    0030 - 11 48 f4 ca 35 01 51 9f-75 ec b7 0b de c7 62 fb   .H..5.Q.u.....b.
+    0040 - 89 37 20 a7 62 47 cf 5d-41 b9 a6 9e c5 fb f4 67   .7 .bG.]A......g
+    0050 - 13 f8 f0 8a 56 c5 b2 5b-26 7e 62 dc 1e 63 93 8d   ....V..[&~b..c..
+    0060 - 27 f3 be 84 e1 1e f3 ff-0a 83 5d 19 f5 e9 db c0   '.........].....
+    0070 - 36 65 75 89 22 2e 6e 8c-99 87 ac 23 d8 47 eb 1c   6eu.".n....#.G..
+    0080 - 44 6a 54 14 1e 85 db cd-3a d6 b0 32 71 05 45 60   DjT.....:..2q.E`
+    0090 - e3 31 a3 e5 07 df 8d dd-df 6e 4a be 0f 3f ea d1   .1.......nJ..?..
+    00a0 - 1f 9b 17 1e 79 db d6 09-9d c7 bc a1 7f 86 92 97   ....y...........
+
+    Start Time: 1732697156
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

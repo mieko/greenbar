@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=eset.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 30 01:39:40 2024 GMT; NotAfter: Jan 28 01:39:39 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE3zCCA8egAwIBAgISBMLo+z78MfiHtFkKBw4XTlcZMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDMwMDEzOTQwWhcNMjUwMTI4MDEzOTM5WjATMREwDwYDVQQD
+Ewhlc2V0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKfjN2zs
+yMbaoJMFv3vMR0pbx+P5OYrEQNRbdg9Z1wRqSYSPFgwT+mM0ESlBqxMmWyChcQCW
+OtR6290TOmERNWEOVdisamJlzdyYVj3t1Oet7OmT1BS5UKBdDZrSXJ+AMRt4lwdx
+pH3njfjuSWIV22lAAldAPncqFx3tYiUAi8UAahTOVfhXHTpkQVTXVkRMt3EyXneG
+42+KD9U3/lMRSrurrpBQheYo4kpHXT0SWuP6Dq0rrfjnKiwkycIMqgIjID8UEIuq
+QpUI48hCPYlbXO9UpGOFxMq+tvVEhDlPLU4METxLfJF4LoOYxceLVmIsjULC2O1C
+PmUbEFPuVxghjocCAwEAAaOCAgswggIHMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+HpOidtpkOsrI/TZH9vKBMlPCodEwHwYDVR0jBBgwFoAUxc9GpOr0w8B6bJXELbBe
+ki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjExLm8u
+bGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVuY3Iub3JnLzAT
+BgNVHREEDDAKgghlc2V0LmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATCCAQMGCisG
+AQQB1nkCBAIEgfQEgfEA7wB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6M
+Lnm4AAABkttJqssAAAQDAEcwRQIgErOn9VvLLbwV6rvN9DgEvqiGE0qj4fqrSXWP
+T6DN6C0CIQDdQbEAF7r75irLOCLF1QgpDyvv/C8NLEfqZrFCVbEOvQB1AM8RVu7V
+Lnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkttJqo0AAAQDAEYwRAIgWNvS
+bkSHTtYE2hfy1883lXJ9/bfiFwWTxujrDjz7FcYCIEls0akECaKn5MGiVA/f70te
+72Ych3bhJIZZ/82OF4/VMA0GCSqGSIb3DQEBCwUAA4IBAQBo0v2f6PW6mSh0dOCS
+L2S+AH5CUrMbpQJWRh0R7TvajBpc+cj3Aogv957BlCwJQpeuBMzE5/S9mDDdVjy7
++YOt41jv/0Q4McYO/Ap1pGrRMvGp2RygX7MaVv0Gs/mYeTlnnrIAouIBYagVBd9D
+AU1p8vJv+mz+nM395MfgxKL+r5/PUBmMR04TBwWjgKllB3Bj6PGvYjvN9umS8mEG
+5KBxVuZifH6+vRPMqSTYQsgklrVOfmxYGDT31B5WFNLEDsjKb+VErtLUWuBYmGgA
+cem2xREF0jqbeFjPi8iY10B4fA1RJVj2KLD2ONHpzV3cBIgjz+IiZvQx2oEG+FiK
+GhvM
+-----END CERTIFICATE-----
+subject=CN=eset.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3106 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

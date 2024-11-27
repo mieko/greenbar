@@ -1,0 +1,75 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CN, ST=北京, L=北京, O=北京星网锐捷网络技术有限公司, CN=*.ruijienetworks.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr 24 03:05:51 2023 GMT; NotAfter: May 25 03:05:50 2024 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 19 00:00:00 2018 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGfDCCBWSgAwIBAgIMO9EzzQCTbppNDsSEMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yMzA0MjQwMzA1NTFaFw0y
+NDA1MjUwMzA1NTBaMIGDMQswCQYDVQQGEwJDTjEPMA0GA1UECAwG5YyX5LqsMQ8w
+DQYDVQQHDAbljJfkuqwxMzAxBgNVBAoMKuWMl+S6rOaYn+e9kemUkOaNt+e9kee7
+nOaKgOacr+aciemZkOWFrOWPuDEdMBsGA1UEAwwUKi5ydWlqaWVuZXR3b3Jrcy5j
+b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDZo4M1oAEJoN8XItZq
+yBWXGIvyMkSLFOQJrsKw2sdsTjPRKyqcC3+4vFNC/SSEahl8Jj5kNi7EBhf+6BA/
+JjHHVxs7WPqwxHtjWSkupvWKm9H+X4XG7S5lH/b4kvlIrjQlM/SpZH0Lk/tHIaXm
+w+DX7IUQcHh/3A08UoU/xa1Hu48tpDjwBqU3iCyBLGY3JrO/cvw14ljQOyumJGeg
+4TrieP7Ijuyq/Bag3p2luSACC8cf+ce8v6yirn/AtY3yqJHwRElGKQFCCpkqgShB
+byBy4kEVi8U3nYNzhK4xK/b6YeeS5MO2/bQuFre7MmO1AtDegP3kZghTg0HnRQeV
+3iEtAgMBAAGjggMgMIIDHDAOBgNVHQ8BAf8EBAMCBaAwgY4GCCsGAQUFBwEBBIGB
+MH8wRAYIKwYBBQUHMAKGOGh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2Fj
+ZXJ0L2dzcnNhb3Zzc2xjYTIwMTguY3J0MDcGCCsGAQUFBzABhitodHRwOi8vb2Nz
+cC5nbG9iYWxzaWduLmNvbS9nc3JzYW92c3NsY2EyMDE4MFYGA1UdIARPME0wQQYJ
+KwYBBAGgMgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24u
+Y29tL3JlcG9zaXRvcnkvMAgGBmeBDAECAjAJBgNVHRMEAjAAMDMGA1UdEQQsMCqC
+FCoucnVpamllbmV0d29ya3MuY29tghJydWlqaWVuZXR3b3Jrcy5jb20wHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFPjvf/LNeGeo3m+P
+JI2I8YcDArPrMB0GA1UdDgQWBBTm+dsewDMsCKCue3US/nXgr8VZgDCCAYAGCisG
+AQQB1nkCBAIEggFwBIIBbAFqAHcAc9meiRtMlnigIH1HneayxhzQUV5xGSqMa4AQ
+esF3crUAAAGHsTmsBQAABAMASDBGAiEAqnyQfaUnDPhUdaXjOJ5KxUv+1txJQMmX
+UrLdyXP0n3MCIQC90chMtnhH3BDC11oIxCx1GI8QfBWeAOwEsfScaTEb7gB3AO7N
+0GTV2xrOxVy3nbTNE6Iyh0Z8vOzew1FIWUZxH7WbAAABh7E5rtwAAAQDAEgwRgIh
+ALe5ZM+lSxsPiq0EzvDItXHMTnhj32cKUOP+CUGnI5YxAiEAjvvF3VgN6hhxFrT/
+63FgkgSBK8SL5LV4EOgH82blVr8AdgDatr9rP7W2Ip+bwrtca+hwkXFsu1GEhTS9
+pD0wSNf7qwAAAYexOa5uAAAEAwBHMEUCIGB7iJ7NfxblpBbCvAoxjRmhE7e2yQ8I
+62CuQxOqp5gPAiEAyGituVFYWwPoJwMBas8GAE+trvFP7QCOeet9QkCUFIAwDQYJ
+KoZIhvcNAQELBQADggEBAJ1lz9Zr08xv1BseUiTYBNpcGE+vW5BG9i7VNlSliQ/S
+1Ffaj0B5unFDYeEYpqn6MDd+HOXUQcGLkWRWKkwrpOgg03Vu+BP8BNWCKAfo5llF
+uf1Y2taibKgIz332fa0hUFK0NzZMFRPqo6sVQE7G6zEYiRCutow6gl7G+ZLyfKqQ
+me6yx+c/nPS+wBK/EvCj1J7tur8NiXsMav9+VqjuLIPvZOp5QYM28WnZ/Iy9hmSb
+Taj6/TWNdbxKCOwAdenZXoeNhlTAQzEctneHKg0oVrYogvaFcSVSLYv0TvFINXFv
+ns3W8dD/Bl7Kfvmz+mXy1HflIUHM38fS1h0KayEppMg=
+-----END CERTIFICATE-----
+subject=C=CN, ST=北京, L=北京, O=北京星网锐捷网络技术有限公司, CN=*.ruijienetworks.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4446 bytes and written 409 bytes
+Verification error: certificate has expired
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 10 (certificate has expired)
+---

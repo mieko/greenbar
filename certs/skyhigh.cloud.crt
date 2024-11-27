@@ -1,0 +1,83 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=Musarubra US LLC, CN=www.skyhigh.cloud
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 18 00:00:00 2024 GMT; NotAfter: Mar 18 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIH3zCCBsegAwIBAgIRAPM3yYJc3e/yyhej8w3YiY8wDQYJKoZIhvcNAQELBQAw
+gZUxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE9MDsGA1UE
+AxM0U2VjdGlnbyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0yNDAzMTgwMDAwMDBaFw0yNTAzMTgyMzU5NTlaMFkxCzAJBgNV
+BAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRkwFwYDVQQKExBNdXNhcnVicmEg
+VVMgTExDMRowGAYDVQQDExF3d3cuc2t5aGlnaC5jbG91ZDCCAiIwDQYJKoZIhvcN
+AQEBBQADggIPADCCAgoCggIBANNOGF26x5RDMWpcpd9FHQJUCCu1OEEbDI9AjVny
+/UqE3ksrrd1R9Blsl1QHqy7MzkLIPUP4AX9x9PoJQ0v0WTNMmQRAZvSumOfCFYrk
+jSXt6b+3NirypqMiTy+0DGw+00iOy9HKlmzonjmUBnJFMm1MMPBriJzyVJwG4dJL
++ZFnwm93XvpkzFsVCEsrdwvAYHrH4NiQcGJNoTvJC+vqvFOtEIdjedrlXxQ8zHxX
+vdgdyq83R0o1rFySqyfmNK6pKqtWyVhEQd6RJUitFRwVO6ToRUIFHzC+CI7LmVG9
+vUgfDOCzFxnLbK1iXLCf783jqylnnfJPc/7tzbBbumqeW8aBYXFeG6Umm98stlet
+DkBuG+mAoZ85SAH2IKyMob8sw91bMiUwTxNsazw+cBiKLMPnku2a5E1xi+ufPDYO
+FxOIJLVjPYta95P3ihLcH69WgcdXoM29UGoGmJqlCOjYkVjjYZWPVwcFXtkzB1y3
++iBNHQph6JWsFeKvV/wMbKIPpSvtfAFnHgLGJNmYpbjR1QVmvXQX4Wu/Jug7P5Oj
+arVoRATtvnp25tY99aBkj89W/D6B5yurLZdr417wZMCS/7I6/0582QN7LLLOQ/it
+hUKKEAooXRdzChi96Lo1Va/ZCW1NA1TuLVOjn3Xd5tVi5zBvnx+JwtZWNqk7VKLk
+hm9dAgMBAAGjggNjMIIDXzAfBgNVHSMEGDAWgBQX2dYlJ2f5McJJQ9kwNkSMbKlP
+6zAdBgNVHQ4EFgQUPzZY3l74fsJYc9J2Z51Ye1eBUjYwDgYDVR0PAQH/BAQDAgWg
+MAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEoG
+A1UdIARDMEEwNQYMKwYBBAGyMQECAQMEMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8v
+c2VjdGlnby5jb20vQ1BTMAgGBmeBDAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRw
+Oi8vY3JsLnNlY3RpZ28uY29tL1NlY3RpZ29SU0FPcmdhbml6YXRpb25WYWxpZGF0
+aW9uU2VjdXJlU2VydmVyQ0EuY3JsMIGKBggrBgEFBQcBAQR+MHwwVQYIKwYBBQUH
+MAKGSWh0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JTQU9yZ2FuaXphdGlv
+blZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6
+Ly9vY3NwLnNlY3RpZ28uY29tMIIBfAYKKwYBBAHWeQIEAgSCAWwEggFoAWYAdgDP
+EVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAY5RnViwAAAEAwBHMEUC
+IQCGEug4uE0dsYI6AUeqIScbjlNN5rGaR5Fxs52xviacSQIgYvaOWPORKrBXRRK9
+3E+FgqnF7qQ2pubSsFlJGE09Wk4AdQCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14b
+LMS5UKRH5wAAAY5RnVhOAAAEAwBGMEQCIBEIpcZs6pYwr//8zTIwNizi3pNzzVyj
+ler4ru6J8g7GAiBBLG3hTt316CvkJMEM70o4ZOrtQBGGRIxiCVO5XuRMugB1AE51
+oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABjlGdWE4AAAQDAEYwRAIg
+WfiPejyRxPCw1roeGmLbGwjBlRTOmzZVI26mCVfmLFwCIAO3b7XXnnDVaddXhe70
+oi064WF6i7DM8mimjmslhNDTMCsGA1UdEQQkMCKCEXd3dy5za3loaWdoLmNsb3Vk
+gg1za3loaWdoLmNsb3VkMA0GCSqGSIb3DQEBCwUAA4IBAQAkbAH5dK228Cd+tWpC
+tXv2jL2Bw60SBbu0nMUfRfOTgRqkF9cfQtTiP7wLV/u2yDkoVHJb5bXuMZOjeioU
+BB8WDxNJm91g24RPiKbzfDT0fjCNeoIZv9shG4G1r2DTwvyIoZ0q9Q6MGU8L3CCK
+BtYf7Ppna9ySlWQmG8v9FpXZVfxLth46szR2c3fAFrFBpeMjSmvI3MfxiwYXjcMh
+24bxVAuIuZR0YvGNdn/mZa5YizaL5sA+uRIs3rWCP1xZjvHOYuJZ3oPB9hg4j/Du
+hLFZQzYiiaZYogNdAamYKuPUMK3/9YLO0AJHgSqMfHhxVg8NhOmWQyheIijyvukr
+SBSC
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=Musarubra US LLC, CN=www.skyhigh.cloud
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5916 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 4096 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

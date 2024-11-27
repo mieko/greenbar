@@ -1,0 +1,78 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=Delaware, L=Wilmington, O=Urban Cyber Security Inc., CN=*.urban-vpn.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  1 00:00:00 2024 GMT; NotAfter: Sep  8 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHBTCCBe2gAwIBAgIQCSOROU4eblV2JNudx5U+kzANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjQx
+MDAxMDAwMDAwWhcNMjUwOTA4MjM1OTU5WjBzMQswCQYDVQQGEwJVUzERMA8GA1UE
+CBMIRGVsYXdhcmUxEzARBgNVBAcTCldpbG1pbmd0b24xIjAgBgNVBAoTGVVyYmFu
+IEN5YmVyIFNlY3VyaXR5IEluYy4xGDAWBgNVBAMMDyoudXJiYW4tdnBuLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANDYO2U18l09UY9nopUN+Ytm
+gAwXsC55rPuf2Q5Qjr1EnQnDAOBzDDbU0phrkkmTm9hZRg8ataYm0F0shbEhI7+d
+xNBOa6GcjX6twfPSpoQ6EHebqtwK4i4eiDDtpzTu77ur0P3f7vrlyP9rQAl6P+ul
+HneKf4QJAYLIg5Vvp6CWeSYRM4NUJZZ7zoaHhqOfFROBBQQ8WYxLABecz/IG8Vcg
+Dmz66muxEdg2gCkzI86zec/srIitjE27IYHCOUvE/BSNWMX304MGME3uYykLPnAu
+PNeOryfiGdqjhxaoGL1bnLA/rZjXjhNkkmIG8KWVflEh00U5/M8krkbSyz1U0psC
+AwEAAaOCA60wggOpMB8GA1UdIwQYMBaAFHSFgMBmx9833s+9KTeqAx2+7c0XMB0G
+A1UdDgQWBBTkDnh4IfnTdaixBzujH5xDvdiyIzA8BgNVHREENTAzgg8qLnVyYmFu
+LXZwbi5jb22CDXVyYmFuLXZwbi5jb22CEXd3dy51cmJhbi12cG4uY29tMD4GA1Ud
+IAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNl
+cnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2lj
+ZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNy
+bDBIoEagRIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFs
+RzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3JsMIGHBggrBgEFBQcBAQR7MHkwJAYI
+KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZF
+aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNS
+U0FTSEEyNTYyMDIwQ0ExLTEuY3J0MAwGA1UdEwEB/wQCMAAwggF+BgorBgEEAdZ5
+AgQCBIIBbgSCAWoBaAB3ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6
+AAABkkcslM0AAAQDAEgwRgIhAPenYPVgpo/YW0mUVnxTG2FPgOZqWh8ltKhOlpR6
+zpBwAiEAqHS+p9N0y/yNQ1MGJvyIT/+TTGpt+6/GJICsEwvVVuoAdQB9WR4S4Xgq
+exxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZJHLJRCAAAEAwBGMEQCIF07TVKK
+ChcL+Yl2vfh1Ss31rPMgSdl6jYftGjDdubP3AiBlzIHJpH37hoWXW54N6gVw663G
+mM44Hn+5WRQ8HEMUMAB2AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45Q
+AAABkkcslFoAAAQDAEcwRQIgfDrblEfrMdgKrO2EuofB23KhHOHMpcY9dtCOoTeI
+EpQCIQDDW2CwCpCbDEbueCTXk2voDTMJNKWj6rfB6N7EhepBMjANBgkqhkiG9w0B
+AQsFAAOCAQEAWyPHb+VbW71+tN6Oq/5vxfXc2hj7icSF7Oqr6IodqVYgKlwBNu1t
+BWis9Y6zxWk8/kTBpQPIb4/fRCcDBelXkiym0qsx+ZZnH9qLiDV06I2l3iJ7N9o1
+B9yQehbebEWhEdD5U0qoXAwHCMARfs3UwXB66aMsaHNKWU4IkRV49OXdxmFL9fyu
+M7a/Dd0Aw7U3WxbpeqSiSqvCd98tw5brl/9Re3iGB65Cxq4nbLssQiz9AZrT13ta
+cPb1upqPcARaVQoEgmf/rXTEKh1Xqg+BSllsiQs/isDGTpFkBSgvMPxoJbwbcoie
+m6Jq08Gquw7rYxArMBI4PjhN+U5cyTzboQ==
+-----END CERTIFICATE-----
+subject=C=US, ST=Delaware, L=Wilmington, O=Urban Cyber Security Inc., CN=*.urban-vpn.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4497 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,82 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=quora.com
+   i:C=US, O=Google Trust Services, CN=WR1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 22 17:17:25 2024 GMT; NotAfter: Feb 20 17:17:24 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFvzCCBKegAwIBAgIRAMZA233z52SsDhuiCnwEY8IwDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IxMB4XDTI0MTEyMjE3MTcyNVoXDTI1MDIyMDE3MTcyNFowFDES
+MBAGA1UEAxMJcXVvcmEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAjB1iIE9E+qt/UcmEr35Zvt/i7XXWT2/b2CqdUOOxZuhaBc9KCv2Pj954CA45
+1Amo38l5GI9BzpQyF6Xas9OBQ4AcIrB++XE6ks6+fNBBx00j87zJtgi34XZzn7K2
+uTZy6Aj/fq018E2Izp1wTzhqtuyQoO5WpSeFV0wZ2gTRPwiF/VYYH7u7HIbdlX33
+tHvVyV2xhqXUzDfNCzpyPw/2qNcu3o+1PPuyS//lv/mZ2YFU+otcO1m1KcwmmnJM
+3kzXKbxImCTPKQFj24edcaV+3EZ2g4YBhAwcC4nXOWR1mV11wUqpRStb4CFBipBJ
+iaZcNDWzMY42PImOJ7HZF8Zi5QIDAQABo4IC4zCCAt8wDgYDVR0PAQH/BAQDAgWg
+MBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFEvV
+01ZTNXoH4yTiFOl7hgjR8/ouMB8GA1UdIwQYMBaAFGZpSdTeKpyRA8+JDiS4DjAD
+boguMF4GCCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdv
+b2cvcy93cjEveGtBMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93cjEu
+Y3J0MIG0BgNVHREEgawwgamCCXF1b3JhLmNvbYILKi5xdW9yYS5jb22CDyoud3d3
+LnF1b3JhLmNvbYIPKi50Y2gucXVvcmEuY29tghMqLnRjaC53d3cucXVvcmEuY29t
+ggVxci5hZYIHKi5xci5hZYIPZnMucXVvcmFjZG4ubmV0ghEqLmZzLnF1b3JhY2Ru
+Lm5ldIIQY2YyLnF1b3JhY2RuLm5ldIISKi5jZjIucXVvcmFjZG4ubmV0MBMGA1Ud
+IAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5n
+b29nL3dyMS9laG14azRYME1xay5jcmwwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAA
+dgDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZNVF9oVAAAEAwBH
+MEUCIFaA7pzRXJ7eKw7lq8+KADGV0/w4xbPEI6UEjZYwyHO3AiEA+ArzWc9nFW+1
+ELJXbS9C2mnWYaruhz/JhSnvB9mEsk4AdgDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2X
+jbapflTA/kwNsAAAAZNVF9oZAAAEAwBHMEUCIAhKrctULzw0tYBAC/tddDLyrbLG
+cG/MDh0tM9hzj/AoAiEAvJY0kvdn1lJPuVQZtlqVK0oaaI50EHgqaCmEBVU/s3Uw
+DQYJKoZIhvcNAQELBQADggEBABPVoKVnTMyD1m2Ah5NET4x0alpgdkgANBgb5mQf
+lJR2dcbg/lCEfsIqJhDppFNlv+F4z4ejLq05nMHGPUWUvM2FdZmy+C5RL1Wp/eSz
+88Drl/H0bTIeJnTKgyf/LPUOXHDOlovOlkkMs0RW5qscaOgQ4g9f3K311Yu1Cr5C
+XHSb1R9jL4c9M4zsYvcYi+u8JZIV/rr1XvXFGiHAgfgdNV7LZCgSXmNdnaM4f+O9
+I6+wQLOUgbFWbdarK+gV61tF2P9R+b51RvwlApwA3RWWg+2IIe1u1y6mLwaTDj9+
+GTy2tP54tjlTJNr8xxWXtw+5xULKpHqXCzXlNrercSgzsVw=
+-----END CERTIFICATE-----
+subject=CN=quora.com
+issuer=C=US, O=Google Trust Services, CN=WR1
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4665 bytes and written 446 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 351DBBEB7BD109DF17FE170BBF2F915175A3D530780870D97B0F9B0701BF78CA
+    Session-ID-ctx: 
+    Master-Key: 9A5642F11DE70518B554CFE927F0F08A75CBCF20F465AD0C05A14BBA68C0CDDB9F46C9BDBD8AAEE820B988246CC0F125
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697704
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

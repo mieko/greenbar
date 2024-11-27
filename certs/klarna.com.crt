@@ -1,0 +1,78 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=www.klarna.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 31 00:00:00 2024 GMT; NotAfter: Apr 29 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGOjCCBSKgAwIBAgIQCvlBngKnucwYRhcCSt/9FTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDMzMTAwMDAwMFoXDTI1MDQyOTIzNTk1OVowGTEX
+MBUGA1UEAxMOd3d3LmtsYXJuYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDavZrsFEdixFjrb0BUlYFKe6F39F74IWpcd1Nr8OUC6evLbC4HFlaO
+Nb2UqhQczL+HWcKn1IfdOvo465GLfUVQpt5mQqdIsHFyhDUx3EnR8t1KdF8HJgWx
+rWxePZwivs8oVcr8xaxkuqhik2Xwp5jcT0yRBG8pPgvlgQv33vyHGF4d+2jPZLU/
+dz3ryf56ktMW7oO+LgfJdP3P4JUDFXHnyb6M5NvS/AdvxY+4goeTCBWxTGNCPx5T
+ZyOhnYUNYtUb0dw1XvEhFwJsG4jXhO/IM5h2kFNTrjRCER7uub5Kzm8aRMNPE6rv
+dNJIvuU4dSJZaHwg7GHlHeM7z78bDeDLAgMBAAGjggNZMIIDVTAfBgNVHSMEGDAW
+gBTAMVLNWlDDgnx0cc7L6Zz5euuC4jAdBgNVHQ4EFgQUpCZ5p9IIMV8qUKQX08nA
+wG9GZs4wgYkGA1UdEQSBgTB/gg53d3cua2xhcm5hLmNvbYIJa2xhcm5hLmV1gglr
+bGFybmEuc2WCCmtsYXJuYS5jb22CCWtsYXJuYS5ub4IJa2xhcm5hLmZpgglrbGFy
+bmEudWuCCWtsYXJuYS5pdIIJa2xhcm5hLmVzgglrbGFybmEubmyCCWtsYXJuYS51
+czATBgNVHSAEDDAKMAgGBmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9j
+cmwucjJtMDIuYW1hem9udHJ1c3QuY29tL3IybTAyLmNybDB1BggrBgEFBQcBAQRp
+MGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnIybTAyLmFtYXpvbnRydXN0LmNv
+bTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5yMm0wMi5hbWF6b250cnVzdC5jb20v
+cjJtMDIuY2VyMAwGA1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsB
+aQB2AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABjpH7i/EAAAQD
+AEcwRQIhAI1sOedCh7+Nerb3SJm13N0bk2YxfpPdLbN6jl+pAoteAiBjJwWdhYrN
+Gqk9UW8r+QaEXcp5s1b9FIQLfsI7zrmRkQB3AH1ZHhLheCp7HGFnfF79+NCHXBSg
+TpWeuQMv2Q6MLnm4AAABjpH7iysAAAQDAEgwRgIhAOYSloVUJB8bTkvvT64EsnIl
+Z8cEovrkRgwpYjxEdxAFAiEAlgXBZKzU8RD2byLFrMm/PcazmZad9CsTMgsInwM6
+FYEAdgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAY6R+4s+AAAE
+AwBHMEUCICzOrRLOwcTdgoplBOrSkcGFA7IcMAkY0MIv1x7y65PCAiEAzzxS3yd7
+A80WLKm+s3e3DpqLCSBzkPucL/MhNX9iXIgwDQYJKoZIhvcNAQELBQADggEBAAQI
+uDmrnZxsZ9GWwaVRuTfSOGmatO03vUYEoUmhlaprvbQT+UDizz5vMfMhP5TtEgVl
+bx9cGT5zbcJ/BkMxJ4u3sPniY3aQdkaiP2bWH6TutNCWpD53vnRYYqT0N7I75Seh
+if/xeWuLpLfvUZEyW3U4eVzhHhPZS+Ad1uyjWiSY821suXtZOpjXL1Gd390/HG67
+LVbuAxRLouozlH8LxpzUmYL8amVC1fM0aiNl0wivl51QB7AJqKt/W9DEJcibGDdJ
+66gXwNTLffMb3ZKHmfAhjoJN+j87OnAwzz9FPo5Vkryq7j5x4Rc4/9y46spONMOu
+Jy7qQbQnDwxjPnr7OKs=
+-----END CERTIFICATE-----
+subject=CN=www.klarna.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5598 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=hubspot.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct  3 18:47:20 2024 GMT; NotAfter: Jan  1 19:47:16 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDozCCA0qgAwIBAgIQDCWbWjWBx/sRGaFEhKenjDAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMDAzMTg0NzIwWhcNMjUwMTAxMTk0NzE2WjAWMRQwEgYD
+VQQDEwtodWJzcG90LmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABLnyNqLv
+0aQgz48PYAaC2vZwb8hDNcjmb/MoMR/s+5KUe16PigBSsWtU549jzPokHMSN2LIW
+ICzYYGF96YKMtXSjggJTMIICTzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUD0KW7Frk2zHXtHjV/i2K
+0ig1KvcwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9EQ1Uw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwJQYDVR0RBB4w
+HIILaHVic3BvdC5jb22CDSouaHVic3BvdC5jb20wEwYDVR0gBAwwCjAIBgZngQwB
+AgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL3Jkb1ph
+UC1DRTRZLmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AE51oydcmhDDOFts
+1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABklPsL64AAAQDAEcwRQIhAPNof5wEvAzd
+Hiip261WbJh/ET6EzJr3lKJo1eqG1bWWAiB55bF1AGUDX2fzJXb6MwKzQHGuZuau
+ZdpdHjcLrnE/XAB2AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAAB
+klPsL/QAAAQDAEcwRQIgXrydlr/MG9rlWKyGC1gC7uIhIBWQWIwnB+GkwLBJGG8C
+IQCs3w7iusrw81/Pra+5C9eMopDbQjyHtxdoMA5jlMCtnzAKBggqhkjOPQQDAgNH
+ADBEAiAGyZXmUbUz12+Yp4LrmSM3dM5Xwx9yEaRlH1/DtBeifwIgeHJWUQnQa6fG
+kz6lBAlmz2F/tHjq8ZyBiE+IAxFmo78=
+-----END CERTIFICATE-----
+subject=CN=hubspot.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2823 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

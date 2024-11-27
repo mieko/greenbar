@@ -1,0 +1,62 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=piano.io
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 25 17:51:20 2024 GMT; NotAfter: Feb 23 18:51:16 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID+DCCA56gAwIBAgIRAKb/LwLY4AMaEzdGiAKSYREwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEyNTE3NTEyMFoXDTI1MDIyMzE4NTExNlowEzERMA8G
+A1UEAxMIcGlhbm8uaW8wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATrrVRxFNq2
+Bu34AnsH+MXKgBPnodWBBn8sNw56loy6LR6kfD7XKL/Z/1ifkGQsZf/ekdGl1Wlk
+vObHpftW3iqho4ICqTCCAqUwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsG
+AQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFIl+sI2OWNHfnq87swH/E1su
+rbPTMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsGAQUFBwEB
+BFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEvcHY4MCUG
+CCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MHoGA1UdEQRzMHGC
+CHBpYW5vLmlvggoqLnBpYW5vLmlvgg4qLmRldi5waWFuby5pb4IVKi5tYW5hZ2Vt
+ZW50LnBpYW5vLmlvgg0qLnFhLnBpYW5vLmlvghIqLnNhbmRib3gucGlhbm8uaW+C
+DyouZGVtby5waWFuby5pbzATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAt
+MCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93ZTEvdUNnbGNtd3dmdGMuY3JsMIIB
+BQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ys
+AdJbd87MOwgAAAGTZKn3EAAABAMASDBGAiEA5ejI0ipvVAPxaehfOkKwWgEL/1UC
+JRZ3LAElSfCQdFACIQDkINQrmYOQvHCbVyUtoiYQsDpy1qkGTnPiIYrq89c15wB2
+AOCSs/wMHcjnaDYf3mG5lk0KUngZinLWcsSwTaVtb1QEAAABk2Sp92oAAAQDAEcw
+RQIgCdB9Q4EGGoHNk7O/uhiLsosflFAeY4XqJiHsb6KtfDoCIQCfkkGHM6BgPtu8
+l/ue4lJUNMUiCQs2Ve+0PpVufb/mWzAKBggqhkjOPQQDAgNIADBFAiBPfkIH3Bc3
+anbhwN3L+NnSZBfRMaYmo2YxBQAfmy5BlAIhAIdcCoDVujoMt5Uhj474sBuFBKM3
+YhtGN9U8p57nFPZ6
+-----END CERTIFICATE-----
+subject=CN=piano.io
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2907 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

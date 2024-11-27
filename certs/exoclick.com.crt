@@ -1,0 +1,55 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=exoclick.com
+   i:C=US, O=Let's Encrypt, CN=E6
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct  6 16:19:56 2024 GMT; NotAfter: Jan  4 16:19:55 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E6
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDiDCCAw+gAwIBAgISBDb56r1SNFDsK/rPSJj8FjlxMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NjAeFw0yNDEwMDYxNjE5NTZaFw0yNTAxMDQxNjE5NTVaMBcxFTATBgNVBAMTDGV4
+b2NsaWNrLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJ7iZ+/sD50BO9/M
+4frbHxX+FqgRUzxSHMTUgmxsnabrZTFF0kp19Cko49OA+UID2/UAYTrdybSyBaQM
+kOucW9OjggIeMIICGjAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFZd/O32JfXAsvCZ
+/nDCt+idcMRJMB8GA1UdIwQYMBaAFJMnRpgDqVFojpjWxEJI2yO/WJTSMFUGCCsG
+AQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL2U2Lm8ubGVuY3Iub3JnMCIG
+CCsGAQUFBzAChhZodHRwOi8vZTYuaS5sZW5jci5vcmcvMCcGA1UdEQQgMB6CDiou
+ZXhvY2xpY2suY29tggxleG9jbGljay5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEw
+ggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+F
+auvBvyiF7PhkbgAAAZJi1vBZAAAEAwBHMEUCIQDs0tLleh35WiLoGu/umBtEn/MX
+D3cW4jCmYGBPxJtdsQIgBvIb/9+0c4WRe0CPLPXlBWdUdHQpU2sgZ81PgZDLrGoA
+dgDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZJi1vhXAAAEAwBH
+MEUCIBodkldTEfbVoLLGR+J0jtxCXEvqmRJUoTTSshYzFy2SAiEAiySG/EGGRb0k
+urNREI5JRyuhNXU2O1pibEgjXlSCBIAwCgYIKoZIzj0EAwMDZwAwZAIwGdapg++r
+YpnoVPWDTxsj5/6oUB2fwoOEjPVICYwiTZ8qcYVPN2CEnGkEfbHGGWsXAjBFw4Xt
+qi9n5KnEF6Nhb/xPoGh+/ZpouSOQpRqxe5nBrWTDYWRQPYGHDMuAwlOgNkw=
+-----END CERTIFICATE-----
+subject=CN=exoclick.com
+issuer=C=US, O=Let's Encrypt, CN=E6
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2403 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

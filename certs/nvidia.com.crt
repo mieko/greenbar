@@ -1,0 +1,116 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=nvidia.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 18 00:00:00 2024 GMT; NotAfter: Jul 18 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIILPzCCCiegAwIBAgIQB8110+iS1ZNw34mNivZ4VTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDYxODAwMDAwMFoXDTI1MDcxODIzNTk1OVowFTET
+MBEGA1UEAxMKbnZpZGlhLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAIN16zu1yKe+TzqAvMv/uY0vCLvp1ZXuepKKh3OIlbbL+EWCkI/JkBn7QiuV
+FwDHHw7Jz0pm2lLmV8eVS+BZwNG5ZPqLBVrtBAQnqQW2s6CT4T95Y1R34b/yVnsk
+ZF5T4ijIpJc3iVE9AtnTgK80tDykg8IrbDIpw1+2FjRGKN4iP2ydgsaOr+Mw5wkg
+6MCUx7Mu5s5RhaJ/O9gCzbSYeIYqh3VpNMiVSyJaZ6KQ4tlmUcVX700ruNeYzFxR
+HlABtoTrmKzqMIF9QtAxtUxuJvwOJIEFY9DThbDbUvbXMfOOa7i1S+1O0O3UOnw1
+C+GsOZwvPpaZI4WaHtonoZ8T1yUCAwEAAaOCCGIwggheMB8GA1UdIwQYMBaAFMAx
+Us1aUMOCfHRxzsvpnPl664LiMB0GA1UdDgQWBBTx4zG0OPHtAV/G77YpDSWiCZwe
+rzCCBZIGA1UdEQSCBYkwggWFggpudmlkaWEuY29tggsqLm52aWRpYS5hZYIOKi5u
+dmlkaWEudHJhZGWCDioubnZpZGlhLndvcmxkgg4qLm52aWRpYS52aWRlb4INKi5u
+dmlkaWEubHV4ZYIOKi5udmlkaWEuZW1haWyCDioubnZpZGlhLnN1Y2tzgg0qLm52
+aWRpYS5zaXRlggsqLm52aWRpYS5pZYIJbnZpZGlhLmRrggxudmlkaWEuY28uaW6C
+EyoubnZpZGlhLnVuaXZlcnNpdHmCCW52aWRpYS5kZYINbnZpZGlhLmNvbS5wbIIJ
+bnZpZGlhLmN6ggpudmlkaWEuYmlkggwqLm52aWRpYS5iaWSCDG52aWRpYS5jby5p
+ZIIRKi5udmlkaWEuY29tcHV0ZXKCD252aWRpYS5ncmFwaGljc4IMKi5udmlkaWEu
+c2V4ggpudmlkaWEub3JnggtudmlkaWEuaW5mb4IKbnZpZGlhLmluY4IQKi5udmlk
+aWEuc3VwcG9ydIILbnZpZGlhLndpa2mCDG52aWRpYS5lbWFpbIINbnZpZGlhLmNv
+bS5icoIPKi5udmlkaWEuY29tLnBsghAqLm52aWRpYS5jb21wYW55ghFudmlkaWEu
+dW5pdmVyc2l0eYIMbnZpZGlhLnZpZGVvgg4qLm52aWRpYS5jby51a4IMbnZpZGlh
+LndvcmxkggtudmlkaWEubmV3c4IRbnZpZGlhLnRlY2hub2xvZ3mCCW52aWRpYS5l
+dYIMKi5udmlkZWEuY29tghEqLm52aWRpYS5zb2Z0d2FyZYINbnZpZGlhLmNvbS51
+YYINKi5udmlkaWEuaW5mb4IOKi5udmlkaWEuY28uYXSCCW52aWRpYS5hZYILKi5u
+dmlkaWEuZXWCCm52aWRpYS5uZXSCDCoubnZpZGlhLm5ldIIJbnZpZGlhLmllgg4q
+Lm52aWRpYS5jby5qcIILKi5udmlkaWEuZGWCEyoubnZpZGlhLmZvdW5kYXRpb26C
+DSoubnZpZGlhLm5ld3OCCyoubnZpZGlhLmRrggwqLm52aWRpYS5jb22CDyoubnZp
+ZGlhLmNvbS5icoINbnZpZGlhLmNvbS50coIMbnZpZGlhLmNvLnVrgg9udmlkaWEu
+Y29tcHV0ZXKCCyoubnZpZGlhLmN6ggxudmlkaWEudHJhZGWCESoubnZpZGlhLmdy
+YXBoaWNzghFudmlkaWEuZm91bmRhdGlvboIMbnZpZGlhLnByZXNzggludmlkaWEu
+Y2iCDG52aWRpYS5jby5qcIILbnZpZGlhLnNpdGWCDyoubnZpZGlhLmdsb2JhbIIM
+bnZpZGlhLmdhbWVzgg5udmlkaWEuY29tcGFueYILKi5udmlkaWEuY2iCDm52aWRp
+YS5zdXBwb3J0ggludmlkaWEuY26CCW52aWRpYS5jYYITKi5udmlkaWEudGVjaG5v
+bG9neYIMbnZpZGlhLnN1Y2tzggsqLm52aWRpYS5jboIKbnZpZGlhLnNleIIMKi5u
+dmlkaWEub3Jngg9udmlkaWEuc29mdHdhcmWCDCoubnZpZGlhLmluY4IMbnZpZGlh
+LmNvLmF0gg8qLm52aWRpYS5jb20udHKCCyoubnZpZGlhLmNhggtudmlkaWEubHV4
+ZYIJbnZpZGlhLmpwgg1udmlkaWEuZ2xvYmFsggsqLm52aWRpYS5qcIIOKi5udmlk
+aWEuZ2FtZXOCDioubnZpZGlhLnByZXNzgg4qLm52aWRpYS5jby5pZIIPKi5udmlk
+aWEuY29tLnVhggludmlkaWEuYmWCCyoubnZpZGlhLmF0ggpudmlkZWEuY29tgg0q
+Lm52aWRpYS53aWtpgg4qLm52aWRpYS5jby5pboIJbnZpZGlhLmF0MBMGA1UdIAQM
+MAowCAYGZ4EMAQIBMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5yMm0wMi5h
+bWF6b250cnVzdC5jb20vcjJtMDIuY3JsMHUGCCsGAQUFBwEBBGkwZzAtBggrBgEF
+BQcwAYYhaHR0cDovL29jc3AucjJtMDIuYW1hem9udHJ1c3QuY29tMDYGCCsGAQUF
+BzAChipodHRwOi8vY3J0LnIybTAyLmFtYXpvbnRydXN0LmNvbS9yMm0wMi5jZXIw
+DAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHcAEvFONL1T
+ckyEBhnDjz96E/jntWKHiJxtMAWE6+WGJjoAAAGQKb5v9AAABAMASDBGAiEAxE8k
+npQr93qJmR6Sozv0yfokI6NkQgOhldGwjj8NnIICIQCsNjhJIxn2ESHN4ddx/oyu
+5V1Qjp128ptHIij7MNXoZgB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6M
+Lnm4AAABkCm+cC0AAAQDAEcwRQIgPhe32J5++U5aFOLEuqKpTE9W2RQK7vVob64g
+84PSEUMCIQDIUDj7i7liDOB+Ch8ja+tJIuUDUvrxRHvRkdZZ7lPotAB1AObSMWNA
+d4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABkCm+cEMAAAQDAEYwRAIgcF4b
+I6Hyvzf/CRFdNHCjGgoh+ZJ1Q0talZkYlnXOCp4CIBRspdniTl45OKsAAj8A778H
+UJbRVqo24Wbl3jRTKxNYMA0GCSqGSIb3DQEBCwUAA4IBAQCIxJ7VPwPUWUZ+K4Md
+nvwsNfqp4Tukj6sfRnPMgZcDtYwIW1gBbUJ0ztHM6yqWh5+AOq100IBBdwhFZfGX
+I6Y6ogLm7rOZPvpclQQnCFJW4Rpote0+Y1TzTdno+Qmpxoygc/NRhjnjxvDkMqtO
+2yHE0Bkmr10ah0lVOLcWDneBUsn9EXoIarv0cwiTJqmSqn7k9xNwfP2VMX54kHe6
+UTmHV0XzH0agzEhEa+T0fUglx7ly+Ii0bkEwlCZ91EGc0b2MUfUvur4AKMOwrG/8
+qx57inRj7Qs7QxwfGGihhI3NTw3Z2Vk2YvFxI7BPECjwMtleo33gh3FlxWR+UhnW
+TUSv
+-----END CERTIFICATE-----
+subject=CN=nvidia.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 6846 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B603D36C16D2D9A8A5A200D4EAFF2EF168B74C17A2B7F69302718F614203B660
+    Session-ID-ctx: 
+    Master-Key: D17B3EA7AC6E1CEF0102B47DB5A1CEECAA9524BF9F1F4CDE430EA9FC82EDCC03C67B65EDF50806815FED0C0FD04C947E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697597
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

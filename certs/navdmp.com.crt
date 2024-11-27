@@ -1,0 +1,86 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=navdmp.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 25 02:08:03 2024 GMT; NotAfter: Feb 23 02:08:02 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpDCCA0qgAwIBAgIRAOPuicQk7HKFEzbVAq6gTQAwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEyNTAyMDgwM1oXDTI1MDIyMzAyMDgwMlowFTETMBEG
+A1UEAxMKbmF2ZG1wLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABIOX6b/r
+n1TYliLmEQu8+TjgJdCVVglaE8HzAiLbWQBycmflJzpOVPXx2YWZrZMcPp5/jnQU
+F7wUPm3W1fkoMQSjggJTMIICTzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUMgKPUivLVd9AC6cokjME
+Ln7fAJMwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS80LTQw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwIwYDVR0RBBww
+GoIKbmF2ZG1wLmNvbYIMKi5uYXZkbXAuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIB
+MDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9iNHJyRmc0
+Z09oQS5jcmwwggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwBOdaMnXJoQwzhbbNTf
+P1LrHfDgjhuNacCx+mSxYpo53wAAAZNhSl1oAAAEAwBIMEYCIQD0PnHEZ/ilq96N
+UTURR7J6negczpfT+FBmuHPpPips3gIhALcV6Za7l/rQy/YX7Mwaz9H9tBynJls/
+SuOrm0+VU8tbAHcA4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBNpW1vVAQAAAGT
+YUpdnAAABAMASDBGAiEAo1eZN/gNMFkIpxsZEjkp4u6ZlhXjZNN8myiGjzUSyKkC
+IQD8y07vht9MyIhpiFZK9jjXVqo8YObKL3NBH7DN4fzxMDAKBggqhkjOPQQDAgNI
+ADBFAiEAlbgQ+0JWgc1VYp4H7Rzy7VmVHZ2bvTk5znE+plbplLoCIEdIHhJK+NGW
++XIDuZMNgpkhVuWBso8z58TFGa9FFs3/
+-----END CERTIFICATE-----
+subject=CN=navdmp.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2976 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: 207C5F56E298749FF8F057684015DF5465BF79FC06E6FDA4AB2CC5ED7C9C8A05
+    Session-ID-ctx: 
+    Master-Key: A43983CB8A2BAFD7E2FA44F0210C2957F3EC02C40B3D175413C0EC2171394490652C8B79033106A1DD3A504D5C6F9F6E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 93 4b 4f 31 a2 3b 61 99-69 8c a1 cc fb 33 86 05   .KO1.;a.i....3..
+    0010 - 75 97 2b f4 b8 45 72 8b-34 38 9a 88 9c 55 5d 9e   u.+..Er.48...U].
+    0020 - cf 7d a1 f8 29 a8 a3 33-f8 01 f1 53 e3 62 ff c0   .}..)..3...S.b..
+    0030 - f7 c3 5d 0b fd 9f 19 0c-73 54 5b 5f 3f 41 8f c2   ..].....sT[_?A..
+    0040 - a4 29 89 bb 77 27 98 3d-fd d6 43 11 bf 35 27 f0   .)..w'.=..C..5'.
+    0050 - dc a2 4f 74 00 81 01 09-3e 7b e5 78 d9 2b b8 b8   ..Ot....>{.x.+..
+    0060 - e9 05 f7 e4 ed bb 30 b7-87 39 ec b2 3b 50 c2 c6   ......0..9..;P..
+    0070 - 5e a2 71 6c 9b 1c f0 0b-62 c5 a0 8b b9 f6 5b 54   ^.ql....b.....[T
+    0080 - e3 35 71 be 5d c1 2d a0-c1 20 45 f1 33 27 7b 0d   .5q.].-.. E.3'{.
+    0090 - 03 04 08 e2 d1 06 30 19-58 a3 3c 7c 08 57 37 ec   ......0.X.<|.W7.
+    00a0 - 84 2d ab 24 68 8b e0 53-14 35 49 ad 82 c1 73 b3   .-.$h..S.5I...s.
+    00b0 - 80 cd b2 3f 21 a5 ab 5a-7f 9d 8f b6 03 52 ea 3e   ...?!..Z.....R.>
+
+    Start Time: 1732697566
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,105 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.acuityplatform.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  8 00:00:00 2024 GMT; NotAfter: May  8 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 4 s:CN=*.acuityplatform.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  8 00:00:00 2024 GMT; NotAfter: May  8 23:59:59 2025 GMT
+ 5 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 6 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 7 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGRDCCBSygAwIBAgIQQ0x1/SPA5BODiwPoUDCFcjANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTI0MDUwODAwMDAwMFoXDTI1MDUwODIzNTk1OVowHzEdMBsGA1UEAwwUKi5h
+Y3VpdHlwbGF0Zm9ybS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCuWzRRO/86ZlHpYejULuRHQg+N/Obcooyf9dZsEu20YUgxlsc4LtktebhBpI02
+4cExbWFAYrdsrSXfbvUe2CyGZg5HS623TcMJxhR0KcC/gc7hy9uNteshDBCm5com
+oxwpOBtl+Sfs0cR/BuTw1Y532YT7uLjqDjubI1Q1f8v2D/6gfyijwGqsxCvfvVdr
+6LswUS6qmOeKKsuUzYzdTxHW+CTSmjWFYR5Z8wGmMAjUze3nIHtt3+Lw+LIicsJ5
+aMwpmtDsYpNB8Kq4I8FWMwXq6+PWGXzhXnZsLXAoRJW3CCyefATfNeTaZ0lxhLNE
+FztX+GV3/aJh1UGGxyQQZx8DAgMBAAGjggMJMIIDBTAfBgNVHSMEGDAWgBSNjF7E
+VK2K4Xfpm/mbBeG4AY1h4TAdBgNVHQ4EFgQUQd7Atoj6ndac3e4hwTBoFSyrLK4w
+DgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEF
+BQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEF
+BQcBAQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2Vj
+dGlnb1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYB
+BQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMDMGA1UdEQQsMCqCFCouYWN1
+aXR5cGxhdGZvcm0uY29tghJhY3VpdHlwbGF0Zm9ybS5jb20wggF9BgorBgEEAdZ5
+AgQCBIIBbQSCAWkBZwB1AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsI
+AAABj1msjO8AAAQDAEYwRAIgUOmkrhORi4DdaCbHRBpoWLTR0OhWPmwhvs2Yv5lw
+rJcCIGSTlOGYZOlfwBL9ZgtwhUyF5rKynATt3PpIUThaX8IMAHYAouMK5EXvva2b
+fjjtR2d3U9eCW4SU1yteGyzEuVCkR+cAAAGPWayMogAABAMARzBFAiEAvmbc0wpK
+Z+TaQLWun48ME/IrTD3eex9XtDw/e9lTpJYCIFNNYZBlnsQ3maUIfGEz60qkj9GI
+Zj0QCxV3RvOwgHhGAHYATnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8A
+AAGPWayMiAAABAMARzBFAiBYyV1NaYzjo7sMX/O6mDlnZqc7IrybqVFxX60nDJna
+LgIhAJg3doJS8UB0lcP25GN9J40V+b2ZdsdHAKcKBUPr0i+fMA0GCSqGSIb3DQEB
+CwUAA4IBAQBkOHD/TkAWY9U/wmMrdVZnCbE9fKfdDUpw2l9IDWlThq6C8qlBTYGf
+awifeabQRd6WO0sgzTZrjDeXYYftU549YWAFH4KK+2nVu17XjpE+NLQvfPlIu2ZO
+07zpaR0qmW8L+pZrtsgs9g3ij9atj7Qji7FUct0OYVUIi4InrPx5+2n4UdxC/zQa
+Y2gV7bXb5Jmj8Z1MPfl8T1D7BrokvJjaVvh7UIJe+UEO9AN6TWDRcpdx4S8Y2c9v
+CwUYWN9drE4gLbRbg1KE6zLcyV8KCqUvAXWrGNsfDc2cRt3BRhQp8LQAh5F9bQje
+hH/6x8W9W93posyW0VPugPAiDXQ4Klzy
+-----END CERTIFICATE-----
+subject=CN=*.acuityplatform.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 11816 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 
+    Session-ID-ctx: 
+    Master-Key: FEF6775223E711DF69D3FFA0C1C2C18086ED912438DEB92EE50C731CC43A32DAC41673265D89B33601BDA2DC6FC426DD
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732696876
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

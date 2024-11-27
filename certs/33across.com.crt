@@ -1,0 +1,94 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=33across.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 16 06:02:24 2024 GMT; NotAfter: Jan 14 06:02:23 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFDDCCA/SgAwIBAgISBD95HPLlitSJTq2eNR7PYWw7MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMDE2MDYwMjI0WhcNMjUwMTE0MDYwMjIzWjAXMRUwEwYDVQQD
+EwwzM2Fjcm9zcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDS
+I/iUhv2he5TMAy6OQYm/CCK+pNMJxMx+FwI9vXVZJcRGCBxu57sFPB9QTkQDAh9Z
+v+eGpsxIx8kpxqWQk2QqXHDQxlfKb3lm6iqNcwwkhHqcp79LLowdxcDKJpsNR12N
+baMoGuWUyNDcykdJMNFqnG91C2na3ihs7+NObrfWWvheRQ1gbMtaUBoj6AXTQhG5
+XFE9FpfWfncjSh/qRlOp12ga3nUhDKa4CG1sOGQuW/LRQZl2v0EBibZDCAyocV9a
+Dlw8/mt7ZVGDnSSauImrF3LfcYd8X990ub9wl3k4dDdhsYxdEIxy/eGAfL4e12CZ
+0ar3ww6XcHFGH78xAkj/AgMBAAGjggI0MIICMDAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFC897fhXmIvxTXKBT+sAHZ/Ki+1XMB8GA1UdIwQYMBaAFLu8w0el5LypxsOk
+cgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3Ix
+MC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxlbmNyLm9y
+Zy8wPAYDVR0RBDUwM4IMMzNhY3Jvc3MuY29tghB3d3cuMzNhY3Jvc3MuY29tghF3
+d3cxLjMzYWNyb3NzLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATCCAQMGCisGAQQB
+1nkCBAIEgfQEgfEA7wB1AD8XS0/XIkdYlB1lHIS+DRLtkDd/H4Vq68G/KIXs+GRu
+AAABkpQhKcEAAAQDAEYwRAIgRGsoLa6sRv7+zUF9qHP5QC10dYJeusqDi7Ps//9N
+xdYCIAqYMxJbYbK+Wlnv2mGLtvRoS8xIlZzBiGOdZNuE3fHmAHYA5tIxY0B3jMEQ
+QQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGSlCEqOQAABAMARzBFAiEAirUqbfcR
+TNg3iekMUE/RXSMTUIexD0P+xud7omeo4BYCIECOY7xBNR03uhl+Mk1d9tuC7hCi
+x4bzPVNV2meRW+BkMA0GCSqGSIb3DQEBCwUAA4IBAQA6xNey3DaFxIg5HKPRBeSD
+2P+E7B9NcSTzz+CmIMYOQy9VsVPpWRqWHhD8/OdyK6yI7urqkVSaPzSjTCxk61zk
+hhnRMfC+3z70fwzoWgSMzbDd+coFFpHxkAfRJPfutVW1vPX0xWnod2T2AGmqb6nK
+2HSeIYdR5kEgd13ggZhaVNqYyxbHSyDawuwxlzjJ5IfD2TTCfj1kAEpHaJn+jCWX
+hhKHt55RLLhxsl+xErL7NIwIo99lRfoYrxM68JWk3HHnnAhxnG3Vf9bLHNdyMVu2
+ZKEeHjOKoXpNfgebl2tQSGqhh0AiygEMRsslsIQEodV2Mbo1lLLLHlmJjtaLpscg
+-----END CERTIFICATE-----
+subject=CN=33across.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3134 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 1D5F375A9F62B1F2986D72C5EEF4272B41A3CDEA165B04347AC77A13F45BEF99
+    Session-ID-ctx: 
+    Resumption PSK: 684B0BADEE80893A9CB69294D7650CA969FB359750A97E9B10BEFECE3862C07D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - d2 12 fa c8 77 44 df 83-54 7e 08 65 ff ac b0 cf   ....wD..T~.e....
+    0020 - 8b dd c6 82 0e d2 f3 f0-af e5 94 68 6d a9 fc 2c   ...........hm..,
+    0030 - 36 04 b7 08 1e 81 2b a9-84 0c 29 49 3b 19 48 2e   6.....+...)I;.H.
+    0040 - d5 4d 55 69 63 1e d8 e0-e2 20 24 43 2c 5d be 36   .MUic.... $C,].6
+    0050 - d7 d3 fe 42 d4 89 dc c6-30 fb 1a dc c6 d7 59 de   ...B....0.....Y.
+    0060 - 5a 0c 7d 11 4d a3 02 0d-04 5a a4 ef bc 50 ae 7e   Z.}.M....Z...P.~
+    0070 - 54 29 7e 8e 53 8b 5e d2-19 ed de d9 27 a1 fb 94   T)~.S.^.....'...
+    0080 - 77 d3 db cf 76 bf ed 17-7c e2 e6 92 17 68 04 1f   w...v...|....h..
+    0090 - ab 39 f1 40 2f 36 0e 60-ff b9 36 ee b3 b3 83 e7   .9.@/6.`..6.....
+
+    Start Time: 1732696865
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

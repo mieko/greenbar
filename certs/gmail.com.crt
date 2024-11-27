@@ -1,0 +1,64 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=gmail.com
+   i:C=US, O=Google Trust Services, CN=WR2
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 21 08:37:55 2024 GMT; NotAfter: Jan 13 08:37:54 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR2
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEWzCCA0OgAwIBAgIRAMdxYkl4jopPCvtOPUQRBdMwDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IyMB4XDTI0MTAyMTA4Mzc1NVoXDTI1MDExMzA4Mzc1NFowFDES
+MBAGA1UEAxMJZ21haWwuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7wIC
+3Chr7r8+kIHmvbgW+r6CvLDbG9aINGIpnJJ4fNgg4QH2zVmdT5N9xc93Zl5t1bg7
+MyFRdc9LcJNJUmul6aOCAkowggJGMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQNPrueDbErHOY0T4+7
+NpaGtrtn1jAfBgNVHSMEGDAWgBTeGx7teRXUPjckwyG77DQ5bUKyMDBYBggrBgEF
+BQcBAQRMMEowIQYIKwYBBQUHMAGGFWh0dHA6Ly9vLnBraS5nb29nL3dyMjAlBggr
+BgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd3IyLmNydDAhBgNVHREEGjAYggln
+bWFpbC5jb22CCyouZ21haWwuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1Ud
+HwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dyMi85VVZiTjB3NUU2WS5j
+cmwwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwDPEVbu1S58r/OHW9lpLpvpGnFn
+SrAX7KwB0lt3zsw7CAAAAZKucLsrAAAEAwBIMEYCIQCUPzANXqfHCfglgyqk2A6o
+8fuzdFmpJRg6U/uoPSHU3gIhANhFfGcV40QC2BiMWkSSsPdl+vrPXB84S+yUPyoB
+WjjWAHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGSrnC7KQAA
+BAMARzBFAiEA+pw2LilAAjiEFKkUzVeSeT5rsoQEETvpdqOgkxgtu8UCIB7lff9u
+KOBMLgAct/hESQSHcp+BqaaT+M/20QcdY5dNMA0GCSqGSIb3DQEBCwUAA4IBAQBl
++u7N7yclU7PmFIZGbEO8wZfc/eikbcRpH2YhUZrEfis+Fgl/AJExAhIRYzmbTm7W
+Qt6StRGxVGcLSmXvT1Ho6kkx8O1X9aBC02ZRELLQ18cTR5a9AuwzaUHJ7H4dzeYT
+eIE2j4J0eN0b3HiVDeZa2ijqjVuYDGqNmxO9OwW0MSZ2YMkFbc2nX/VlpLGZBh9A
+NxfP2w/X3WRljTlAS0W1IaDs4XTrFtcqrB19vdtJphP81laMLf+TLT96iHrRRJHm
+NXSEM8nPRPTYT1oZpb70spOdFSaR0k4o1Tis9CgCP8glWnGW3tXg8uO9KWqqx5SS
+pZkpkIq/cIe3nP+mVUri
+-----END CERTIFICATE-----
+subject=CN=gmail.com
+issuer=C=US, O=Google Trust Services, CN=WR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4111 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

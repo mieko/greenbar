@@ -1,0 +1,65 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.wordpress.org
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Dec  1 00:00:00 2023 GMT; NotAfter: Dec 31 23:59:59 2024 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEqDCCBE+gAwIBAgIQMnl7iWIeNVgKgsC8nkIYgDAKBggqhkjOPQQDAjCBjzEL
+MAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UE
+BxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQDEy5T
+ZWN0aWdvIEVDQyBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENBMB4X
+DTIzMTIwMTAwMDAwMFoXDTI0MTIzMTIzNTk1OVowGjEYMBYGA1UEAwwPKi53b3Jk
+cHJlc3Mub3JnMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEd0lEiOdlDDj5257p
+BJTlPcI6W7qVJOFua6ousTbRpWx5AsTFSIRZqhGuLCIyIR+wORAjkbPp6ZDhREfP
+rXoQc6OCAv8wggL7MB8GA1UdIwQYMBaAFPaFCjsRhuEEfQ6qCyzS7sxke3uuMB0G
+A1UdDgQWBBROzT4pHm7wIoGX8437Y5U+ICKprTAOBgNVHQ8BAf8EBAMCB4AwDAYD
+VR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0g
+BEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3Rp
+Z28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcw
+AoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvRUNDRG9tYWluVmFsaWRh
+dGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Au
+c2VjdGlnby5jb20wKQYDVR0RBCIwIIIPKi53b3JkcHJlc3Mub3Jngg13b3JkcHJl
+c3Mub3JnMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdQB2/4g/Crb7lVHCYcz1
+h7o0tKTNuyncaEIKn+ZnTFo6dAAAAYwjiR0EAAAEAwBGMEQCIBzGG6Kgc55I9iga
+GZjmhGGnpIhsHqQHheQldJyM8k+lAiArASJZpzyZQYp2Bi+rlAls84LLx7NTELX3
+NSwYNsq97wB3AD8XS0/XIkdYlB1lHIS+DRLtkDd/H4Vq68G/KIXs+GRuAAABjCOJ
+HT4AAAQDAEgwRgIhAIIj1XJe7M94i8wv8byFNn60JKtA227TEekqNrC47z05AiEA
++e4985IZJRvzX3U4SmpQTMi2L6xPmWyM4nSJIfyjLHAAdQDuzdBk1dsazsVct520
+zROiModGfLzs3sNRSFlGcR+1mwAAAYwjiR0tAAAEAwBGMEQCIHJf5MjJ8TcyNESV
+obZg6rRITxGTjfoFNWDzBvNj5AURAiBoA84P1Yejj1ZnflDjh7aI4zq/XbEMdO73
+SCguGZeO2jAKBggqhkjOPQQDAgNHADBEAiBOrxb1zAm9Q+6B4qIF7f/hI32Lz48E
+tqE+xPWuF78c/AIgHxej2r2rr2mlpFi+IC+HdPqVRPgDYuvGs/MiJ9sY+gU=
+-----END CERTIFICATE-----
+subject=CN=*.wordpress.org
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3505 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

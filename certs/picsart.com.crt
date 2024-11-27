@@ -1,0 +1,74 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.picsart.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  6 00:00:00 2024 GMT; NotAfter: Oct  7 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMzCCBRugAwIBAgIRANMlvfgyktKvCIO20zndpIUwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yNDA5MDYwMDAwMDBaFw0yNTEwMDcyMzU5NTlaMBgxFjAUBgNVBAMMDSou
+cGljc2FydC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCjZF32
+Qxk2rtySKzfOt7wksQUuxw5Y5iWWOL/mB4Ut6ggQ8vgEHoaEgvqZ+zYM2esWcC2k
+4XXttxYT34MqfBK9XU3+99ejCSKYXIchiR1wxoDgoCt9u4Z4FfphAukI8nydKKrU
+a2/i1B5H2A0zA/XWOuR6AtmucC+uhoffNlSlfrdFJqqn8PfRj4aNtXg6kBm7zAoj
+IqVdN2TlgWeoS2thT2i2Sny6SDdrqAoEKQ/RACtULgQWPKgm7gK+/EMmiaMgtyAQ
+xbAqH7pdnLTpgYRN3phvT/XpYE9JQkpu7ZWWjfXCT7NDe7zv4hpj3axWwrNNKPcz
+CuXxSLxo3wKvGUlBAgMBAAGjggL+MIIC+jAfBgNVHSMEGDAWgBSNjF7EVK2K4Xfp
+m/mbBeG4AY1h4TAdBgNVHQ4EFgQUW0dLUTtfcpEWRY+NGQHURDEyzRAwDgYDVR0P
+AQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEFBQcCARYX
+aHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEFBQcBAQR4
+MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JT
+QURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGG
+F2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMCUGA1UdEQQeMByCDSoucGljc2FydC5j
+b22CC3BpY3NhcnQuY29tMIIBgAYKKwYBBAHWeQIEAgSCAXAEggFsAWoAdwDd3Mo0
+ldfhFgXnlTL6x5/4PRxQ39sAOhQSdgosrLvIKgAAAZHHKRnRAAAEAwBIMEYCIQCR
+T62ZMfaoOeeXmGnHFo97EC23Ct+tPrHQq0WYpsSrwwIhAOHB9kafXg/+tu+GM6su
+/1UyTU/fyZoS6HknNp/8dXHeAHYADeHyMCvTDcFAYhIJ6lUu/Ed0fLHX6TDvDkIe
+tH5OqjQAAAGRxykZkgAABAMARzBFAiEA6J7m7bx16M4PMw8cfvsVD7EAC4FOGhg+
+cs7sAOw+x8ECIH+KUt+em2kWXoiWofiD756cct1dqGSuZLMzG8AO2zfPAHcAEvFO
+NL1TckyEBhnDjz96E/jntWKHiJxtMAWE6+WGJjoAAAGRxykZXgAABAMASDBGAiEA
+7TrhG+YRUNbDVZ/oITduTjfDsag4gisy23vdHbB6bJQCIQCsPe3quplTAJV5hUIE
+RqEmZImpZt3yHizL4wCw2E+OmjANBgkqhkiG9w0BAQsFAAOCAQEADf211uq3v3RI
+Z26M7JsWOQ+5xGAFGxup8FprVvk1xwzmf3PX18miU9AWdb23qqN0MvDcoWJFqo5T
+XkolbPcbYLbOoVCWv/MtUtIj0MMQP+U5DwUv5SOp5k05SYGapb53FDg7/9ftQt7q
+cfAugRjy6kH3p2eoAREgyHcYK0ALgZYmgzOe1WyZVEXwIvOQn0Kp9jRy9ZVkn64N
+fbGyJXEBBeKq92gF6yk143+WoNBR56XN6zK4fEQFOntE5r5RcEv63j2krcnKPzYa
+Xy1nHuwzOu/tmTFLyFTyWwBeyjX8j6lN54QzB8Pt3Kwu05Sb62tlYkpGJdy7si+l
+W27dpHFLag==
+-----END CERTIFICATE-----
+subject=CN=*.picsart.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5160 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

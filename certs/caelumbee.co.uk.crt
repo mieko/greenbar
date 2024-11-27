@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=caelumbee.co.uk
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 20 13:42:48 2024 GMT; NotAfter: Feb 18 13:42:47 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDsDCCA1egAwIBAgIQF82PTG27Qi0TAhFgH48wBzAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTIwMTM0MjQ4WhcNMjUwMjE4MTM0MjQ3WjAaMRgwFgYD
+VQQDEw9jYWVsdW1iZWUuY28udWswWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASC
+w7G4jdAdzMFoujrLSG6PMAqD0RRZ6M2YiEv0qSr5ckOR4NtnF16zpZFFFz2idVHk
+dKH9RzFlO3YuZCqVGUkno4ICXDCCAlgwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQM
+MAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFGIl0gsXjeBDV0ke
+d3Ybsfs4016NMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsG
+AQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEv
+RjgwMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MC0GA1Ud
+EQQmMCSCD2NhZWx1bWJlZS5jby51a4IRKi5jYWVsdW1iZWUuY28udWswEwYDVR0g
+BAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdv
+b2cvd2UxL2ZXYTB3MHNNcWNBLmNybDCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2
+AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABk0oGoq8AAAQDAEcw
+RQIhAMtexA44zU0ugGSNf8bnaJRG8lzHEMeLqCBYdSDm1jROAiBWHDsDV46rXp42
+jPzrEke/LDboHmncVhQFuLnMBtRBgAB3AMz7D2qFcQll/pWbU87psnwi6YVcDZeN
+tql+VMD+TA2wAAABk0oGouoAAAQDAEgwRgIhANeb7JzSy0FUDhNcC4GHHd1Q6FFz
+BEK0UnmxU5qN5aGZAiEAlWqVCXW+UuayHgkL9wV9BhHy8Dg7MEBGWSH99d/dY7sw
+CgYIKoZIzj0EAwIDRwAwRAIgTQNzPwSfCteKPrahFIbs0HHSHGNQivTlO+TlA0Z9
+yJ0CICx2ugDtJyloyG1+atpTQISb+MQYLZ4+TY50o4k7wJnC
+-----END CERTIFICATE-----
+subject=CN=caelumbee.co.uk
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2837 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

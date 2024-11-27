@@ -1,0 +1,90 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Salesforce, Inc., CN=salesforce.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 15 00:00:00 2024 GMT; NotAfter: Nov 13 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep 24 00:00:00 2020 GMT; NotAfter: Sep 23 23:59:59 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJ/DCCCYOgAwIBAgIQBo+1OpMi3oupQ1ipqwEx8zAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjQxMTE1
+MDAwMDAwWhcNMjUxMTEzMjM1OTU5WjBuMQswCQYDVQQGEwJVUzETMBEGA1UECBMK
+Q2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQU2Fs
+ZXNmb3JjZSwgSW5jLjEXMBUGA1UEAxMOc2FsZXNmb3JjZS5jb20wWTATBgcqhkjO
+PQIBBggqhkjOPQMBBwNCAAS5VmQIvfoyod1/5UiN+P/wsrjk2EaCm9eGdXPedtcz
+hKzMW/pLwL7dbK0OoRN6OUfgaJRfM+3MPk7IfEsgP8xYo4IIFjCCCBIwHwYDVR0j
+BBgwFoAUiiPrnmvX+Tdd+W0hOXaaoWfeEKgwHQYDVR0OBBYEFP0gwz2lfuWYzlOU
+zlUIFqnzQmsgMIIEogYDVR0RBIIEmTCCBJWCDnNhbGVzZm9yY2UuY29tgg9hZ2Vu
+dGJsYXplci5jb22CDGFwcGNsb3VkLmNvbYIMYXNrbW9yZW9mLmFpgg9hc2ttb3Jl
+b2ZhaS5jb22CDGFzc2lzdGx5LmNvbYINYXRvbml0LmNvbS5icoIOYXRvbml0LmRp
+Z2l0YWyCCGF0dGljLmlvgg5iZXlvbmRjb3JlLmNvbYIOYnVkZHltZWRpYS5jb22C
+C2NoYXR0ZXIuY29tghZjaGF0dGVyLnNhbGVzZm9yY2UuY29tghFjbGlja3NvZnR3
+YXJlLmNvbYIQY2xvdWRjb25uZWN0LmNvbYIOY2xvdWRjcmF6ZS5jb22CC2NvdHdl
+ZXQuY29tghRjcmVkZW50aWFsbWFzdGVyLmNvbYIIZGF0YS5jb22CDmRlbWFuZHdh
+cmUuY29tgghkZXNrLmNvbYIRZG9jdW1lbnRmb3JjZS5jb22CDmRyZWFtZm9yY2Uu
+Y29tggxlaW5zdGVpbi5jb22CCWZvcmNlLmNvbYILZ29yZWJlbC5jb22CDGdvdmZv
+cmNlLmNvbYIPZ3Jhdml0eXRhbmsuY29tggxncmlkZGFibGUuaW+CC2hleXdpcmUu
+Y29tgghrcnV4LmNvbYIMbGV2ZWxqdW1wLmlvghVsZXZlbGp1bXBzb2Z0d2FyZS5j
+b22CD21hcGFueXRoaW5nLmNvbYISbWFya2V0aW5nY2xvdWQuY29tggttZXRhbWlu
+ZC5pb4IKbW9iaWZ5LmNvbYIKcGFyZG90LmNvbYIMcXVvdGFibGUuY29tggtyYWRp
+YW42LmNvbYIMcmVsYXRlaXEuY29tgg9zYWxlc2JsYXplci5jb22CDXNhbGVzZm9y
+Y2UuZGWCGXNhbGVzZm9yY2Vjb25uZWN0aW9ucy5jb22CEHNhbGVzZm9yY2VpcS5j
+b22CHHNhbGVzZm9yY2VtYXJrZXRpbmdjbG91ZC5jb22CDHNlcXVlbmNlLmNvbYIR
+c2VydmljZWJsYXplci5jb22CDnNmZGNzdGF0aWMuY29tggpzZm9yY2UuY29tgghz
+aXRlLmNvbYIKc29jaWFsLmNvbYIOc3RlZWxicmljay5jb22CC3Rvb3BoZXIuY29t
+ghR0cmFjdGlvbm9uZGVtYW5kLmNvbYIOdHJhaWxoZWFkeC5jb22CDXR3aW5wcmlt
+ZS5jb22CEHZhY2NpbmVjbG91ZC5jb22CC3Zsb2NpdHkuYXBwggp2bG9jaXR5LmNo
+ggt2bG9jaXR5LmNvbYIKdmxvY2l0eS5kZYIKdmxvY2l0eS5mcoIKdmxvY2l0eS5p
+boIMdmxvY2l0eS5pbmZvggp2bG9jaXR5Lmlvggp2bG9jaXR5Lml0ggp2bG9jaXR5
+Lm1lggp2bG9jaXR5Lm5sgg52bG9jaXR5Lm9ubGluZYIKdmxvY2l0eS5wbIIQdmxv
+Y2l0eS5zb2Z0d2FyZYIRdmxvY2l0eS5zb2x1dGlvbnOCDHZsb2NpdHkudGVjaIIS
+dmxvY2l0eS50ZWNobm9sb2d5ggp2bG9jaXR5LnVzgg93ZWludm9pY2VpdC5jb20w
+PgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5k
+aWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIDiDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwgZ8GA1UdHwSBlzCBlDBIoEagRIZCaHR0cDovL2NybDMu
+ZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNFQ0NTSEEzODQyMDIwQ0Ex
+LTIuY3JsMEigRqBEhkJodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRH
+bG9iYWxHM1RMU0VDQ1NIQTM4NDIwMjBDQTEtMi5jcmwwgYcGCCsGAQUFBwEBBHsw
+eTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMFEGCCsGAQUF
+BzAChkVodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxH
+M1RMU0VDQ1NIQTM4NDIwMjBDQTEtMi5jcnQwDAYDVR0TAQH/BAIwADCCAX8GCisG
+AQQB1nkCBAIEggFvBIIBawFpAHcA3dzKNJXX4RYF55Uy+sef+D0cUN/bADoUEnYK
+LKy7yCoAAAGTL2/FCgAABAMASDBGAiEAiQtOWPGL+3HZZwbhtAYlbYpAWNOwpZL2
+fEvLARjTaDkCIQD7wI6hUOwvT8y6LkLZ2vySNYNIM566KWsd0B7/0iuZvQB2AObS
+MWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABky9vxPEAAAQDAEcwRQIg
+eqNmJxdwss6JTAjjyjsHGtZlYKYo9CelQdWITwWiVCYCIQDH1SxRhp/gIvZR/wir
+soHo+9QKm1C1utUC+1AZ6LHhuQB2AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+
+VMD+TA2wAAABky9vxLoAAAQDAEcwRQIhAMjbdpIFdV8SGEz/h1l8/P9cLneLksVD
+JmMsr8yQTGbHAiBBhLnz2XbE+HbMpPpk9JDgRhea4T1Si7Gc8PsVIMeAijAKBggq
+hkjOPQQDAwNnADBkAjBKmmhd2lBEopSPY8R2fogDnd8d+4aU7c08AvSmdJRZKFoZ
+wohLOXEZWDyiyX4Uw8cCMGgNFXjUxKMcfBCfyBP66yfc0O8vpfNQjJaoLPPqoriz
++wwuUsB1sXb4upT8ORHj9A==
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Salesforce, Inc., CN=salesforce.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3888 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

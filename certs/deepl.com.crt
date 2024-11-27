@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=deepl.com
+   i:C=US, O=Google Trust Services, CN=WR1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 22 13:38:43 2024 GMT; NotAfter: Feb 20 14:36:31 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFHTCCBAWgAwIBAgIRAI7A7juUgMNADaArwxcFjhswDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IxMB4XDTI0MTEyMjEzMzg0M1oXDTI1MDIyMDE0MzYzMVowFDES
+MBAGA1UEAxMJZGVlcGwuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAybsClJ1RrOH6WPKg8qb1Iml+3hiPRP/eO6kn4ibzRGD/DtFn60Q+apLA15E+
+LGrHsoViw/LevwG9BBM6x5H1eYxdRGa6AOCObhlOKX2R0EmwLFRykS32eeqlB1yq
+OTSeCscodLRvJtdHp2nx4jUjBWkuHqt/OpR0rBU4nQjZQAT1IowBoYXwuQ50qXPK
+HluYAFkRzPdY2aRwayZaaaC1jLGBl3m+bgC0iE/xM5UjM6h4Z0quzFlsssCcV7IB
+4WAVU5YkLnVrrO1j81ujIVaUnRfRgAsVLbJ2Az8/wqwnU2cpajtZW4mmixwk4ctr
+7eyGYOa7BEq58b9n2BQ2Ju0RPQIDAQABo4ICQTCCAj0wDgYDVR0PAQH/BAQDAgWg
+MBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFAqD
+C5N0y3xDY1IyhKckg1svxshQMB8GA1UdIwQYMBaAFGZpSdTeKpyRA8+JDiS4DjAD
+boguMF4GCCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdv
+b2cvcy93cjEvanNBMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93cjEu
+Y3J0MBQGA1UdEQQNMAuCCWRlZXBsLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATA2
+BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93cjEvVTFkSVMycWps
+cFEuY3JsMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUATnWjJ1yaEMM4W2zU3z9S
+6x3w4I4bjWnAsfpksWKaOd8AAAGTVE+eWgAABAMARjBEAiAChtYDL9izgU3viBRC
+flBNlFrqD+L/zDto+N5/qgLFawIgJ87GHRsQcwMp+eFdFQuZdsJEzviHGSmkr7HA
+gGdyF2UAdgDgkrP8DB3I52g2H95huZZNClJ4GYpy1nLEsE2lbW9UBAAAAZNUT56f
+AAAEAwBHMEUCIAa7piO++/WFJOwGegkehX+euYivpSBUhv0G9OZRS7C7AiEA0QcM
+8ahvkesYqpOPpw1DJWDqEomkxh3yuiqC7kXiQMowDQYJKoZIhvcNAQELBQADggEB
+AHDZJ6mLG4AloLFH5n4UG8U9EzkEb0D5zVQgcSwU4thFlkrISvl9/cKhO+HJIb+F
+cJkGLpJDkgTM0k9E2uKmxYmyYvTjJGerEi1wMRUVrSEK5sRqQ3n/5M4IoCzGeIFA
+6fGk9WsXpIQHzauZIGI6Z6CkI0qEnW+qSPxN4mjaHy94i6Ygr5i2Od0pF7XylPcN
+FGQlKAxlRXZIMNGWEubmUWU1q2rxdYEP7YFq/tfyntISu6d7js1mcMc9yuBCrGmN
+t9ITV37Fu6PSx5NSIn+iJ4UeDFt+lif+rEt2RiJ5Drkrn+mFUV+J6trkNSS3OWvd
+zIUGOJ3n9ZsXTaZyfiWCHZs=
+-----END CERTIFICATE-----
+subject=CN=deepl.com
+issuer=C=US, O=Google Trust Services, CN=WR1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4494 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,123 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=Redwood City, O=Oracle Corporation, CN=oracle.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Feb  5 00:00:00 2024 GMT; NotAfter: Feb 25 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Nov 10 00:00:00 2006 GMT; NotAfter: Nov 10 00:00:00 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIKgTCCCWmgAwIBAgIQAyMo0VLvemCym9Ed79phzzANBgkqhkiG9w0BAQsFADBP
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMSkwJwYDVQQDEyBE
+aWdpQ2VydCBUTFMgUlNBIFNIQTI1NiAyMDIwIENBMTAeFw0yNDAyMDUwMDAwMDBa
+Fw0yNTAyMjUyMzU5NTlaMGsxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9y
+bmlhMRUwEwYDVQQHEwxSZWR3b29kIENpdHkxGzAZBgNVBAoTEk9yYWNsZSBDb3Jw
+b3JhdGlvbjETMBEGA1UEAxMKb3JhY2xlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBALfB02YnJMWy9te5A4ciiuDIF3YU3yzlkntXWYpD6JSM+6b6
+Lnq9LasXQYlZNRssszWTNXLrejLpiZ1lCrPDfQI1HE78yEHG3s3mw2Qga0wLLWA+
+xgpUvmwMakzwvZ8ntNZlg/I01arX4Lcp8yv6GhFiYA9c8qvZmx+EZFvkDB/Wn+Ep
+6VGm9y3nKEp0Unag86/jCL6zznkPsvyszTkzK6TIVtAxK9s/aBSxiOqOxCky44bv
+O6KNF8XyChChZCPDFg4oZbzx56TGaGKyd5Y/BPHSN3C3+lCS2dnEPZQzcXgfquHR
+hL/vgmJDtzTNHDh3kh9rulvrPG+yln++cHwMprsCAwEAAaOCBzswggc3MB8GA1Ud
+IwQYMBaAFLdrouqoqoSMeeq02g+YssWVdrn0MB0GA1UdDgQWBBQ1fDcOQqdd0Om4
+XCinJR+P1biMijCCA98GA1UdEQSCA9YwggPSggpvcmFjbGUuY29tgg1vcmFjbGVp
+bWcuY29tgg9vcmFjbGVjbG91ZC5jb22CE3d3dy5vcmFjbGVjbG91ZC5jb22CCm9w
+b3dlci5jb22CD2Jsb2cub3Bvd2VyLmNvbYIScG93ZXJ1cC5vcG93ZXIuY29tghJz
+dXBwb3J0Lm9wb3dlci5jb22CDnd3dy5vcG93ZXIuY29tggtjb25qZWN0LmNvbYIT
+c3VwcG9ydC5jb25qZWN0LmNvbYIPd3d3LmNvbmplY3QuY29tggdwdXNoLmlvggt3
+d3cucHVzaC5pb4IPYmlnbWFjaGluZXMuY29tgg5jcm93ZHR3aXN0LmNvbYIKYWNv
+bmV4LmNvbYIPYmxvZy5hY29uZXguY29tgg53d3cuYWNvbmV4LmNvbYIPc2VsZWN0
+bWluZHMuY29tgh9vY29tdGxkLXN0YWdlLmFwcG9jaS5vcmFjbGUuY29tgh5vY29t
+dGxkLXByb2QuYXBwb2NpLm9yYWNsZS5jb22CHG9jb210bGQtZHIuYXBwb2NpLm9y
+YWNsZS5jb22CD3N0YWdlLm15c3FsLmNvbYIJbXlzcWwuY29tgghteXNxbC5zZYII
+bXlzcWwuZmmCCG15c3FsLmx1gglteXNxbC5iaXqCCm15c3FsLmluZm+CCW15c3Fs
+Lm9yZ4IPbXlzcWxuZXR3b3JrLnVzghBteXNxbG5ldHdvcmsuY29tghBteXNxbG5l
+dHdvcmsub3JnghBteXNxbG5ldHdvcmsuYml6ggtteXNxbGFiLmNvbYINbXlzcWxj
+b3JwLmNvbYIPbXlzcWxzZXJ2ZXIubmV0gg5teXNxbHByZXNzLmNvbYIObXlzcWxw
+cmVzcy5vcmeCDm15c3FscHJlc3MuYml6gg5teXNxbHByZXNzLm5ldIIPbXlzcWwt
+cHJlc3MuYml6gg1teXNxbHByZXNzLnVzggpzYWtpbGEubmV0ggpzYWtpbGEub3Jn
+ggpzYWtpbGEuYml6gglzYWtpbGEudXOCCmlubm9kYi5jb22CD3BsYW5ldG15c3Fs
+Lm5ldIIQcGxhbmV0bXlzcWwuaW5mb4IPcGxhbmV0bXlzcWwuYml6gg9wbGFuZXRt
+eXNxbC5vcmeCB3N1bi5jb22CD3d3dy1jZG4uc3VuLmNvbYILd3d3LnN1bi5jb22C
+DnZpcnR1YWxib3gub3Jngg5vcmFjbGVjbG91ZC5ldYISd3d3Lm9yYWNsZWNsb3Vk
+LmV1ghFzdWl0ZWNvbW1lcmNlLmNvbYIVd3d3LnN1aXRlY29tbWVyY2UuY29tMD4G
+A1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGln
+aWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwzLmRp
+Z2ljZXJ0LmNvbS9EaWdpQ2VydFRMU1JTQVNIQTI1NjIwMjBDQTEtNC5jcmwwQKA+
+oDyGOmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFRMU1JTQVNIQTI1
+NjIwMjBDQTEtNC5jcmwwfwYIKwYBBQUHAQEEczBxMCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5kaWdpY2VydC5jb20wSQYIKwYBBQUHMAKGPWh0dHA6Ly9jYWNlcnRz
+LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcnQw
+DAYDVR0TAQH/BAIwADCCAYAGCisGAQQB1nkCBAIEggFwBIIBbAFqAHcATnWjJ1ya
+EMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGNehcnBAAABAMASDBGAiEA1lfj
+pA9+q/2pw0CwDhtWpFipR6D/3B/yp2QAjbEyBHkCIQDpGxFuVfytJ09US2vfpcxN
+UFhp/lvsNyePfX0Zi85cgQB3AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6M
+Lnm4AAABjXoXJpoAAAQDAEgwRgIhAPAi8G5ScKMk0h3+7woQ6dy9Q6UIjF44IdSj
+F8XNzDlYAiEAq/wO4SuGY12xwbrqXsYf7+eGP8hjUyqwx0QQZ8n1WcoAdgDm0jFj
+QHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAY16Fya8AAAEAwBHMEUCIQDv
+lVNd6eTsCT/C7Dye620+ArZZexVc9rx2RWPHDG9J2AIgP1vutqQwxgVyR4PfLA1r
+rrD5G4RsbEx5Xtdg4nzKdvEwDQYJKoZIhvcNAQELBQADggEBAE0TrJj0waLuAbb4
+pCJUhTqGOy2tQduca621RdzRFQ+1CAr2+6x+/BqrnmnAxHbNFst/MfDauy6WQ6uS
+LdTqKG/8OWhhDRuaXXKtBQ7W3eewlLtoSG/Ivnrjn/8yRzF5t59nZVq3hj14ntPV
+X0JbnUAhyrVRHe4L9cHjZGK/TmLIEtWD8jG6/ZkyDtFlAhgwJpj2jE0MePKPWYAP
+ECKnOZtGnKbRNa6vxUeXWUe5wwZp/GxcJjtc0eVwI8T7Kja1DuIrc8Wg2ojoOUOK
+LaCJkcoofYCkUM5bBoHcDNesAqULUc3e3zS2VuklX04FnNGYCEGXlV4tg4ZnZL9w
+tgr6NGY=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=Redwood City, O=Oracle Corporation, CN=oracle.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5554 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: FADA6931C1C4C485AA0E7F84080B9306C2F3301B83201D1AEB64E88873659AA1
+    Session-ID-ctx: 
+    Master-Key: 2CC004FA09FF7A00745E7AE7806231A203BEC5A028DB78CFD056F340F6DAE69DB3C80F59FC4B033A18ED1F0E23D29204
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 88 cf a5 3e 07 75 99 d1-43 6e a6 9d 56 be 69 b7   ...>.u..Cn..V.i.
+    0010 - 56 88 b8 b1 39 e4 23 b9-f6 c3 2a 78 05 a3 1c ac   V...9.#...*x....
+    0020 - 11 ec 76 4c a1 2a c7 20-17 ae ee bf f2 44 aa 8d   ..vL.*. .....D..
+    0030 - 9b 53 79 b5 ed 41 1e 7d-d6 e4 aa be 65 b8 ec 24   .Sy..A.}....e..$
+    0040 - ec ba 83 76 d6 f1 a5 fe-14 ba 89 82 d0 dc ae 58   ...v...........X
+    0050 - 36 5f d9 06 27 30 39 8c-88 43 58 3c 8e aa 65 0f   6_..'09..CX<..e.
+    0060 - e5 0b f5 83 51 ec 8b 9f-38 8c d5 84 44 65 d0 3c   ....Q...8...De.<
+    0070 - 4f 09 8f 4a 52 f8 2c f2-63 e1 97 c4 24 2f e1 ae   O..JR.,.c...$/..
+    0080 - 95 08 71 99 25 89 31 44-ca e2 84 f1 74 f8 d6 39   ..q.%.1D....t..9
+    0090 - a0 4f d0 5c 19 10 9f 05-6a cf 39 f4 f6 9f ec 1c   .O.\....j.9.....
+    00a0 - 17 f9 48 8e b6 d2 4c a1-c3 27 cb 7e 27 d1 0c 29   ..H...L..'.~'..)
+    00b0 - 14 1b 4a 6d 40 b5 55 fc-ac e5 71 fb 16 28 d8 03   ..Jm@.U...q..(..
+
+    Start Time: 1732697639
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

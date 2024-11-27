@@ -1,0 +1,140 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=www.baristabot.app
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 10 21:57:08 2024 GMT; NotAfter: Feb  8 22:55:38 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIM4jCCC8qgAwIBAgIRAPB7t+XDAGT4Eu2l9islQx8wDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IzMB4XDTI0MTExMDIxNTcwOFoXDTI1MDIwODIyNTUzOFowHTEb
+MBkGA1UEAxMSd3d3LmJhcmlzdGFib3QuYXBwMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEArHzJbk1o9thCDPn8EBwPDxRgbYO27ytZaZr48YqRBXXFKzBh
+7xok1uGfrOPiL4W9ZASsMfecoW8BcKRL67NFvqRmxWeQcamHH+SkLPui/lKpn22A
+JgAFY/rrFaMjI9F14W7K24sFxGx39ewcwUor1Edo701TqUuGcFXrw85IKsDInz3X
+EabKkfRJPZGyrLQiIkej6SVYwQ8B9M1BOvOE3m7cY7gNCOJwJmxwW2b7bU/43WrJ
+2DRubSQLytkG719esH4p4AjVia+OZiEgwpYRsEQinoxv3NiFhY1oq+DU2BTJjSeM
+6aZYQvVvIX/5T9tdarptYDNbiQUoyTrT22whrwIDAQABo4IJ/TCCCfkwDgYDVR0P
+AQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFGxwJEHEGf1Kbxqb1Y+iFE4mIRDIMB8GA1UdIwQYMBaAFMeB9f2OiNkA
+PE1jolAxJKDOI/4jMF4GCCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDov
+L28ucGtpLmdvb2cvcy93cjMvOEhzMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2ku
+Z29vZy93cjMuY3J0MIIHzQYDVR0RBIIHxDCCB8CCEnd3dy5iYXJpc3RhYm90LmFw
+cIIUYm9tYnVzY2FyLnBsYW5jay5iaXqCDGl0c2FkZWFsLmFwcIIVd3d3LmV2ZXJ5
+ZGF5cXVvdGUuYXBwghJyZXN0YXVyYW50LmdvNGUuYXSCEmRlc2lnbmJ5aGVyYi5j
+by51a4IUc2FuZGJveGxpbmsuZXBhcC5hcHCCB3pub2ouY3qCFGZseWluZ2J1c2lu
+ZXNzLmNvLnVrggp0b3JtZXkueHl6gh90aXJ1dmFubmFtYWxhaS5ib29rZHJvcHRh
+eGkuY29tghxtb2JpbGl0eXBsdXN0ZXN0LmFncmVlZWQuY29tggpuZWJsYXIuY29t
+ggxjdWxwZXBwZXIudXOCEmdvbW9oYW1hZGFsbGFuLmNvbYIRc3RhZ2luZy5sb3lh
+bGwuY2iCFmVsZWFybmluZy5pY3BjMWhuLndvcmuCEW1lZGhhdmlvbmxpbmUub3Jn
+ghhkZXYuYXBpLmNhYmluZXRkZWFscy5jb22CD2FwcC5iZXZ3ZXJrLmNvbYILYXFh
+cmNvby5jb22CDGFwcC50LWJpdC5pb4INd3d3LnNhZGF0YS53c4IgaXItc2l0ZS12
+Mi11YXQuaXJhc3Nlc3NtZW50cy5jb22CDGljaHVzeW91LmNvbYIWaGlzdG9wYXRv
+bG9naWFvcmFsLmNvbYIPbW9uc3J1ZG9wZW4uY29tghZ3d3cuY2hyaXNhdmdlcmlu
+b3MuY29tgg5kb21rbmd1eWVuLmNvbYIKbW9kd2lzZS5haYIQaGQuY29pZGFiYW5o
+LmNvbYIRc3VwcG9ydGJpem5vdy5jb22CFXpvb21kZW1vLmhzam9zc2FuLmNvbYIa
+dHJhdmVsYW5kdG91cnMuc3VnYXJpYy5iaXqCGGluZGlhbnN0dWRlbnRzYXR1dGFo
+Lm9yZ4IZdGVzdC5uYWtlZGNvZmZlZS1hZG1pbi5jb4ISZGVscmlvLmJpaWJpaWMu
+Y29tghF3d3cuYWR3aXNlci5jby56YYIRY29pbmZlZGFpbGVyaS5jb22CD2FwcC5u
+aXdwbGFuLmNvbYISd3d3LmZ1bmdlYXIuY29tLmhrggthbGFmbG93LmNvbYITd3d3
+LnJlYWx0aW1laXJsLmNvbYIOcWluZ3l1Y2hhaS5jb22CF3d3dy5saW5rcy5jb3Zh
+bGVudC5sb3Zlgh92aXJ1ZGh1bmFnYXIuZHJvcHRheGlvbmV3YXkuY29tghFhcHAu
+YmFsZGFzc2FyaS5jb4ISZmxhdHRlLmFtZW5la28uY29tghZjb250cm9sdGVzdC5n
+cmVlbmJpLmNvggppbnQwOGguY29tghhwb3J0Zm9saW8ubnVtZXJvdXMuY2xvdWSC
+F2NveW90ZXMuc2Vhc29uc2hhcmUuY29tgh9yYW1hbmF0aGFwdXJhbS5ib29rZHJv
+cHRheGkuY29tghNzbWFzaGhpZ2hsaWdodHMuY29tgg13d3cuaWduYXQuZGV2ggxv
+cGQub29jYS5kZXaCCW5pbmdsaS5tZYIPdnBlcmZvcm1hbmNlLmlughd0ZXN0LmFk
+cm9pdG92ZXJzZWFzLm5ldIIYY29ybmVyc3RvbmUtY29uY3JldGUubmV0ghtkYXlz
+dW50aWxpbWFycnlzYW1hbnRoYS5vcmeCDW5pdHRvd29vZC5jb22CGnBvcnRhbC5z
+YW5kYm94LnVzZW5hc2guY29tgg5iaXouYmV0ZXIuYmVzdIIOYXBwLm94c2hpcC5j
+b22CCG1vdXd5LmRlghJpY3JwZy5rZWxjdWx1cy5jb22CD3d3dy51bnlvb29uLmNv
+bYIRZGlzYXRpbWVkaWNhbC5jb22CF3RlbmFudC1hZG1pbi5rdWRvLmNvYWNoghV3
+d3cudG9tYXNicnVja25lci5kZXaCEmltYWdpbmF0aXZlZXllLmNvbYIKdGFpcnl1
+Lm9yZ4IQd3d3LmhleWJlbmphbS5pboIPbnlhLmFsbWlyaXFpLnJ1gg9teXRydWNr
+bGFuZS5jb22CDnd3dy5jbGltYXRlLmlkghB3ZXZhaW5mb3RlY2guY29tgg9zdGcu
+c25hcHBlcnMudHaCE3d3dy5zdW51bGF0aW9ucy5jb22CFHd3dy50aGVuYW5ueWNh
+cmUuY29tghJic2lkZXNiYW5nYWxvcmUuaW6CFWRhc2hib2FyZC5kb2NyLm5kLmdv
+doIUd3d3Lnd5c3RlcmlhdGVjaC5jb22CD2ZhdXhzdHVkaW9zLnh5eoILbWVkaGF3
+aS5jb22CEHd3dy5ub3JheWxhYi5jb22CE3d3dy5ub3dzdGFmZmluZy5uZXSCEm1h
+a2V1cG1hc3Rlci5jby5pboILY2xhc3N5Lm1lbnWCIG1hbGluZGliaWtlcnMucmVm
+bGV4LWJpa2Vycy5jbHViggxrcHN0ZWxsYXIuaW6CFGluZHVzdHJ5YmVzdC5kaWdp
+dGFsghlyZWNlaXB0LXByZXByb2QudGlpbWUuYXBwghFzdG9yZS53eXNobGlzdC5p
+b4ISc2hhcmUubm9yZXBseS5sb3ZlghZ3d3cuc2NyZWVuc2hvdGZsb3cuY29tgg93
+d3cudGEzYWxlai5jb22CB3R5bHQubXiCFGRlbW8tY2ZhLnNtYXJ0b2YuYXBwMBMG
+A1UdIAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBr
+aS5nb29nL3dyMy9mNEJjb2l1SEVTUS5jcmwwggEEBgorBgEEAdZ5AgQCBIH1BIHy
+APAAdgDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZMYS57FAAAE
+AwBHMEUCIGcmz4XsH8sW6JBI7BbjAyDlWbQReS58Uf8yxcP42uVvAiEAn6OHl4iw
+Y4Z6clISs8bycJzmtir/IQgRSU7k66/TVf8AdgDM+w9qhXEJZf6Vm1PO6bJ8IumF
+XA2XjbapflTA/kwNsAAAAZMYS6KQAAAEAwBHMEUCIQC9cyYFTTOHb1I9GCh6I6JC
+3hLuanLrnN4E/tM7eg3nSgIgTxlvi3I7Lv7fAYJlPHIRbLGmgSEmQHSGgzRM3av4
+Yz4wDQYJKoZIhvcNAQELBQADggEBAFUNRk4QX+y6GJ+IgKBS9V6O2LPPZQkWIjK8
+svKoG2+1oInIVHD6E45sEssDESSRAVeqI/k58nJsrZuUjLiLxBZvHuJkbTfkvqiT
+aU8grXcKSF5y8o2qD0kEnT5uhHYdDg6/WGt6P2PjiybWsaXmycgsw4flKLix1WJ2
+KG/XOU6G8byGDYbay3zZ31u5BjvG0N6Yj29iXQEErOSaiKa2HxFhn0qYNoMBk/zP
+F1rMwbOqZopwTB6AaG4su8QjA2eGpix9Envnh4yf4pZxZRRJAMuNxGQvrahIEmVi
+TD0g1XMoGP/TzW7tYhCBUWXDcdSDSJXm51McjnnFzpSVxBrKlcE=
+-----END CERTIFICATE-----
+subject=CN=www.baristabot.app
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6533 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 0D266968348037A789287758ADF468E1D19EEC6F84CFEC77963AAAFDF8019B5A
+    Session-ID-ctx: 
+    Resumption PSK: 8C171140106C6C1E3C4B926422F9B82C7AB20099FD50D06CBBF5EF133FF7169B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - 8a 5c 9f 42 59 27 7c 86-bb 62 da b0 0e 94 36 f9   .\.BY'|..b....6.
+    0020 - ad ab 4f 7f 85 20 80 ed-66 52 89 8b 33 83 61 3f   ..O.. ..fR..3.a?
+    0030 - 30 f1 fb 24 6b 10 17 b9-68 f5 9e f4 81 e8 a2 62   0..$k...h......b
+    0040 - 30 04 bc f8 59 ba 4c 82-51 2d de df 87 10 7a 80   0...Y.L.Q-....z.
+    0050 - 45 7e 2e 10 6e 89 7e b1-07 3d bc 48 f8 6d 49 07   E~..n.~..=.H.mI.
+    0060 - 49 b7 fb 12 ac cc 14 8b-f5 5a 80 1e 5d 5d ad d9   I........Z..]]..
+    0070 - 73 c3 cd 7c 02 9d b6 9f-80 b6 fa e8 5f 0e 4d 48   s..|........_.MH
+    0080 - 0f 65 84 40 4b 3d 0b 30-3c 84 67 06 f4 21 f3 88   .e.@K=.0<.g..!..
+    0090 - 56 18 15 aa f5 5a 79 ef-a1 8a 98 0a d8 36 9f 67   V....Zy......6.g
+
+    Start Time: 1732697360
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

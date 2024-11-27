@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=frameo.net
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 27 00:26:52 2024 GMT; NotAfter: Feb 25 00:26:51 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpDCCA0qgAwIBAgIRANbgSh8hacofDsMZIQ1x1L0wCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEyNzAwMjY1MloXDTI1MDIyNTAwMjY1MVowFTETMBEG
+A1UEAxMKZnJhbWVvLm5ldDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABM05Y4AP
+4CNFWWaiTUbkYP3LqYiewmK9yyuZvtE65DOhLHCwYjhrXzYJ5TmdgKRDbLCMWvTm
+z4uFm4kK9NERiwajggJTMIICTzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUYaRc/7b9uTyrniOgRq6c
+V0iFIHEwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS8xdUEw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwIwYDVR0RBBww
+GoIKZnJhbWVvLm5ldIIMKi5mcmFtZW8ubmV0MBMGA1UdIAQMMAowCAYGZ4EMAQIB
+MDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9GdWNCM19h
+Ylk5NC5jcmwwggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwDPEVbu1S58r/OHW9lp
+LpvpGnFnSrAX7KwB0lt3zsw7CAAAAZNrOnIuAAAEAwBIMEYCIQCy5i8eJ0l+qkx2
+QyASLXqlcdi0p7Fv3nZi5kG1nTFhqwIhALrp1UCKl6QACujMPzZjmew26HvzWUVx
+xodjZbHXuk6XAHcAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebgAAAGT
+azpyJAAABAMASDBGAiEA0vA+Aev/m9/Qvi109PwlV+E3Fjnn78nvgRhOrv98j6YC
+IQD7xPsxYf9Hy3LWcWpu1tNakYuiF6AD9q5ozKlnXUGhpTAKBggqhkjOPQQDAgNI
+ADBFAiBW0WIWE1tX0HL6xp/GHXxkrjUvnpdGjnT6Li5Vm1DU4gIhAPiZAoDjyS8G
+xMxCExoB6t2KQMtHW/lNqL4t6eMrSaXR
+-----END CERTIFICATE-----
+subject=CN=frameo.net
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2824 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

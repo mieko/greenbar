@@ -1,0 +1,70 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.wikipedia.org
+   i:C=US, O=Let's Encrypt, CN=E6
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct 15 02:51:23 2024 GMT; NotAfter: Jan 13 02:51:22 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E6
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGVDCCBdqgAwIBAgISBNo4y/PObXtJRP+DozUJYutvMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NjAeFw0yNDEwMTUwMjUxMjNaFw0yNTAxMTMwMjUxMjJaMBoxGDAWBgNVBAMMDyou
+d2lraXBlZGlhLm9yZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABOPlNcvYEwr4
+xFTuDY8QwOYwION5C24bmaUX9C9+5xo07R4loRA9m2+QyQHrfY3wQCzMpJpIlSHd
+LBye5HlARpijggTmMIIE4jAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFCBgEkMAHdQi
+EUD5dbVEZ7vGOjF+MB8GA1UdIwQYMBaAFJMnRpgDqVFojpjWxEJI2yO/WJTSMFUG
+CCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL2U2Lm8ubGVuY3Iub3Jn
+MCIGCCsGAQUFBzAChhZodHRwOi8vZTYuaS5sZW5jci5vcmcvMIIC7QYDVR0RBIIC
+5DCCAuCCESoubS5tZWRpYXdpa2kub3JnghEqLm0ud2lraWJvb2tzLm9yZ4IQKi5t
+Lndpa2lkYXRhLm9yZ4IRKi5tLndpa2ltZWRpYS5vcmeCECoubS53aWtpbmV3cy5v
+cmeCESoubS53aWtpcGVkaWEub3JnghEqLm0ud2lraXF1b3RlLm9yZ4ISKi5tLndp
+a2lzb3VyY2Uub3JnghMqLm0ud2lraXZlcnNpdHkub3JnghIqLm0ud2lraXZveWFn
+ZS5vcmeCEioubS53aWt0aW9uYXJ5Lm9yZ4IPKi5tZWRpYXdpa2kub3JnghYqLnBs
+YW5ldC53aWtpbWVkaWEub3Jngg8qLndpa2lib29rcy5vcmeCDioud2lraWRhdGEu
+b3JnghMqLndpa2lmdW5jdGlvbnMub3Jngg8qLndpa2ltZWRpYS5vcmeCGSoud2lr
+aW1lZGlhZm91bmRhdGlvbi5vcmeCDioud2lraW5ld3Mub3Jngg8qLndpa2lwZWRp
+YS5vcmeCDyoud2lraXF1b3RlLm9yZ4IQKi53aWtpc291cmNlLm9yZ4IRKi53aWtp
+dmVyc2l0eS5vcmeCECoud2lraXZveWFnZS5vcmeCECoud2lrdGlvbmFyeS5vcmeC
+FCoud21mdXNlcmNvbnRlbnQub3Jngg1tZWRpYXdpa2kub3JnggZ3Lndpa2mCDXdp
+a2lib29rcy5vcmeCDHdpa2lkYXRhLm9yZ4IRd2lraWZ1bmN0aW9ucy5vcmeCDXdp
+a2ltZWRpYS5vcmeCF3dpa2ltZWRpYWZvdW5kYXRpb24ub3Jnggx3aWtpbmV3cy5v
+cmeCDXdpa2lwZWRpYS5vcmeCDXdpa2lxdW90ZS5vcmeCDndpa2lzb3VyY2Uub3Jn
+gg93aWtpdmVyc2l0eS5vcmeCDndpa2l2b3lhZ2Uub3Jngg53aWt0aW9uYXJ5Lm9y
+Z4ISd21mdXNlcmNvbnRlbnQub3JnMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYK
+KwYBBAHWeQIEAgSB9QSB8gDwAHYA4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBN
+pW1vVAQAAAGSjkvvswAABAMARzBFAiA08DNsqpUqEcqJgCV1J64tfXGkuyr4AXiM
+EawpHboGyQIhAKEMNgOdzhAwnbZq6XL+SmS/zBW7qQ/ACsRGWpOJyh5CAHYAzxFW
+7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGSjkvv5wAABAMARzBFAiB3
+zjkwWR17y4O82Ybue7YBweob9RpRRpXNLX4000llBwIhANLS53NGgw8/iLAU6cMW
+RNeEAxg/40vS0b25/wWq3aPqMAoGCCqGSM49BAMDA2gAMGUCMEvnrXam7aioS8za
+CHuzE6YydM9BdTJzDmeKWFHYDbTlYx9hx+UugLGGMZRyvUg/VQIxAISazCXripur
+UQE6QuZOFnjy+AM3B4XQvtMiQStiESU/rxPfT2dwyuAElzU5cVsYHg==
+-----END CERTIFICATE-----
+subject=CN=*.wikipedia.org
+issuer=C=US, O=Let's Encrypt, CN=E6
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3104 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

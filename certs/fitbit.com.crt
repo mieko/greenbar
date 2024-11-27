@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=fitbit.com
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  3 13:13:33 2024 GMT; NotAfter: Feb  1 14:09:28 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLzCCBBegAwIBAgIQfd5O/7UzG3MSzb+RLpQ+PjANBgkqhkiG9w0BAQsFADA7
+MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQww
+CgYDVQQDEwNXUjMwHhcNMjQxMTAzMTMxMzMzWhcNMjUwMjAxMTQwOTI4WjAVMRMw
+EQYDVQQDEwpmaXRiaXQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAtc/xkZBBFDHREWNWK7tpMaYiDFVC5T8bfIY+tkAxbjDNyOPmdPyvAbUwTFX4
+hjXUEeemJQi69YgNSPqI7q01aEOATvQGIf2edotBAAPPxVta+xLHU9NXXWGbIw7I
+iY+z8VDceYvUHOe68kTcKFywNkQYipoknQ2Gd9VZvQDyojYts5xZBcMAVNeO+stS
+JTwhHcMYFVrYRa03OYTUqunvJFQZDbNNVpy7OKuIsZcMVEbfYa4AB3w0wSTOhbcK
+kEJ8CQybhN3mGIpZpsaXce2nOp6drHc9fEPT5qechIFH7bNvQIrs9bq1eNpcCRvl
+99keFxlaREYt68KzS2hoxOr5awIDAQABo4ICUzCCAk8wDgYDVR0PAQH/BAQDAgWg
+MBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFN4k
+CQuyvUNgBp5C9vBTxiMUks9NMB8GA1UdIwQYMBaAFMeB9f2OiNkAPE1jolAxJKDO
+I/4jMF4GCCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdv
+b2cvcy93cjMvZmQ0MCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93cjMu
+Y3J0MCMGA1UdEQQcMBqCCmZpdGJpdC5jb22CDCouZml0Yml0LmNvbTATBgNVHSAE
+DDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29v
+Zy93cjMvVnVwTy05Y0ZHNWsuY3JsMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcA
+TnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGS8l+9zwAABAMASDBG
+AiEAojrllJ8bwTMxKR8BzZWyGahoM/i4kiDWJk3YlDUW+MwCIQCDG6NgESY7n+5y
+tqLML7ZbAwsAUrhOtfB8oAqRTai9TwB3AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7
+uocyHf0eN45QAAABkvJfveoAAAQDAEgwRgIhAPD6fePWxdylL9Jgf8ofoic7IQzU
+K+S06V3qI6AarylcAiEAl9dDKyGbBBgQTD1z+j5s+qpGj+0ptsNsID5w7JXGig0w
+DQYJKoZIhvcNAQELBQADggEBAIF16frns9kGY/g1E1pKR4QnsOGEnqJZBVnDcRyS
+T1j7ZAkTxqgAS9wbo8xUHjabFZ5+URJkVnIudk1M39b77jq5IDWD3PJszK5r9/dh
+RyXIfiPQveS5BwF8LIRK/spxEJm/Q/pJNqHC5sLL2GcRg2CPrbOHc00SiEDW9+dF
+wL44Z1mbClwttvUPjz1EmxGzHv/6MX4NjpN1BfO72F65qhBLojsxtYLEEdUbXHGs
+aTXW4/j0Xk16QFFEF3MwMmFW8EbnduOD0IP7pEusDJgSCF7nrAJC26ctBYLVyjoT
+OZca9/L/ld9RxvUgwSKoRIsZEDv53R84+MDK6+wA0nLKgbU=
+-----END CERTIFICATE-----
+subject=CN=fitbit.com
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4508 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

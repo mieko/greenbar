@@ -1,0 +1,75 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=nike.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 21 00:00:00 2024 GMT; NotAfter: Jul 19 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFxjCCBK6gAwIBAgIQAixFmD1kvMMzNQxaRnd8NzANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDYyMTAwMDAwMFoXDTI1MDcxOTIzNTk1OVowEzER
+MA8GA1UEAxMIbmlrZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDCzBw388k9wuHWCGyTLrdV0BFAzZ2l+F3oPZ+XFXkvsyXQc2jljRy2w/ePwVic
+iBLBhHvSecWAWBVL08BXvZzs/rlkBaFNrv3UiFLDvUl359ErSHsVq6X1WHroKkJr
++t3SggXyPEMeEfYrDPTov6VLJwtISDX5JPjq5Bqpej04Cyn8d2Qxgc6Y8rUdXHse
+06/7TZ0qB1F/Lq4ioARwLmPwK1iCybwEyH4qXD8E4wIFMsUdM7fyBlKzVULWR0bO
+E+u+RugK/VJkk0qI2/oT2xvngoMmzzcyBD011SxfWlO7s52QVeOM8ggBcZyluQRs
++xen2fi9ixFNgCy8k4C6Fsz9AgMBAAGjggLrMIIC5zAfBgNVHSMEGDAWgBTAMVLN
+WlDDgnx0cc7L6Zz5euuC4jAdBgNVHQ4EFgQUZo8xpSV3on9Y/UgpEU/EEXiuUWcw
+HwYDVR0RBBgwFoIIbmlrZS5jb22CCioubmlrZS5jb20wEwYDVR0gBAwwCjAIBgZn
+gQwBAgEwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnIybTAyLmFtYXpvbnRy
+dXN0LmNvbS9yMm0wMi5jcmwwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFo
+dHRwOi8vb2NzcC5yMm0wMi5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0
+dHA6Ly9jcnQucjJtMDIuYW1hem9udHJ1c3QuY29tL3IybTAyLmNlcjAMBgNVHRMB
+Af8EAjAAMIIBfAYKKwYBBAHWeQIEAgSCAWwEggFoAWYAdQAS8U40vVNyTIQGGcOP
+P3oT+Oe1YoeInG0wBYTr5YYmOgAAAZA5MnXcAAAEAwBGMEQCIEgXQadWdCE1nSq6
+7yCbFptgiIT/okWYW6DU7sqpX/uXAiALiKfUxdaeftJfj14Gg0SVbPnUaCCL7o1m
+CYqF3x/epgB1AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkDky
+dhUAAAQDAEYwRAIgTXQ9vqEH+yJM8cz+zFxlC2yBHkhTWMpAf0DCH620xcsCIA53
+iklLJdTbPXpbQYt7ax4Z446funOBhb6t1IVxfBzfAHYA5tIxY0B3jMEQQQbXcbnO
+wdJA9paEhvu6hzId/R43jlAAAAGQOTJ2JwAABAMARzBFAiEA75mZbkHl3tgypyni
+hiIjiejBVOpK0KlCjoxQhHox9sECIAcD5YBJi6AoFOWK1tfvN0iVelhkSgoh8fTi
+cqFc5IPEMA0GCSqGSIb3DQEBCwUAA4IBAQCB9JJ6vfglwVMyS/appLLPfXMx9+AK
+SQajUcoER8ZR27dcHqZhbSh2Acoc9hSStZdhySAnqXh8MeBL0yKCgHWcF7HqpQBS
+q1PpGboCHZgMv2/LIykNdvxpWJIcAdFA2M6TPVGQOu03KvDWI+cu7AQhZMER+vmw
+v6R1v3R3sJ2cpvdcxS0dYDHciE4FVNGjM6LIwAg2mh7gTH+NtzEpu2Z1J4Oa4v+g
+J0o+ma6RKVeR8ynlXS9eSTCFZrJDGNmAloLJj2Vw8Lad674gp4nL1uVedd8KhrVf
+hwg9cx31qyZ0lTEhhwbio95dfOF4hZmphnDZVPjdVkoFL1QVqLLH9wyl
+-----END CERTIFICATE-----
+subject=CN=nike.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5482 bytes and written 383 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

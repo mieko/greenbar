@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=moloco.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  1 16:21:47 2024 GMT; NotAfter: Jan 30 16:21:46 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5TCCA82gAwIBAgISAxMYpBzXtLfpCJQ8Lav9xrG2MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTAxMTYyMTQ3WhcNMjUwMTMwMTYyMTQ2WjAVMRMwEQYDVQQD
+Ewptb2xvY28uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1IxL
+d6Zzk0Cei24pw1A0dXu4IrqX6NOs9+BVG/zXATPqDxhdQW2+6g8nG/QQRevNWXbj
+ERFeTPfuNA50xaJRjNoZcQlIIzX+MnU+blMtTLi7ddBFAXORB6YjMfKt9jupO0kQ
+qbBEvrKb6UuUVrelOza8mVhxs8BQR3K5pzCA3iJvmQQbEvaM9zoJKkdNYBE4x0M/
+iRjcaSWcW407htR3L7aMMIl0ujcNKp75BLaQIcK9V8Un/Jdvpk3k0fvzuaTklfjz
+a9MtsTjW7ENiDupwqIXkF4snrL4xmLKsLJz7AZX9q6hYEfQVxAIZa/pr2DglQz45
+FurO38M2EmFSX+W5iQIDAQABo4ICDzCCAgswDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBRUMOCmGpngyO3d244RwBCKVTu7BjAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIM
+EI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAu
+by5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcv
+MBUGA1UdEQQOMAyCCm1vbG9jby5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwggEF
+BgorBgEEAdZ5AgQCBIH2BIHzAPEAdwDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB
+0lt3zsw7CAAAAZLovfqBAAAEAwBIMEYCIQDlE/Svao01tpIShxrVqzz6TCO+UXTm
+n7o90Y0/Lotx5gIhALgQxMAI/jhmAJjPHe6BP8u7HgMOLO5K1kJwtfgENNmXAHYA
+fVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebgAAAGS6L36RgAABAMARzBF
+AiEA9FO0nyLSgSvMGncBgkQ16jZRFHWC5oJvHccqd66zTOcCIFxC8Kh0G/KD3Fnq
+5DpXkxYn1YnPlBAsYpfKFWrBvY8fMA0GCSqGSIb3DQEBCwUAA4IBAQCSFPE1aeOL
+4vIBFpGgLkoS8YLSTX5DPaXQUrixPVGOrOgYaNyd3EgfDxDc4KACSFQyJFXPPpnQ
+O28w22Vy3wR52Ij116vGye+9UKuz//JUA4Abbu3h146Vjtfv220k3Md2ojlu+Qut
+Vkm2fc3nWkXZWSxv4RnuDxtSGjhKJeQXVCT2U0e9nFbDi4WtsC4v3MwpYipbFzdb
+gsKIeQQgsKS3cnEQdvu8KrSC3AhCc0BwN5X26Ar2JqEru31N9gG0q8Eny2j+nXkN
+8cPBpeVSTPRzGDpCWSkltKYgn3bhnqhGekFBsm2SbPicjoGQh1EgkC72+xdTVfP5
+zzI3aPZqlYcq
+-----END CERTIFICATE-----
+subject=CN=moloco.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 3237 bytes and written 755 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

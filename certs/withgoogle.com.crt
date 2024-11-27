@@ -1,0 +1,82 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.appspot.com
+   i:C=US, O=Google Trust Services, CN=WR2
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 21 08:36:39 2024 GMT; NotAfter: Jan 13 08:36:38 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR2
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHrjCCBpagAwIBAgIQN0Mg3zspAbASbi4ggsjqGDANBgkqhkiG9w0BAQsFADA7
+MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQww
+CgYDVQQDEwNXUjIwHhcNMjQxMDIxMDgzNjM5WhcNMjUwMTEzMDgzNjM4WjAYMRYw
+FAYDVQQDDA0qLmFwcHNwb3QuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE
+wZgc+lg/PEvKzleGXdUufRi4N96Y/YyB0FUvMy0Ls+t9xRtE6vhlCbNhCzlh2vGV
+HW+0t5nS6Oy2WkvUj6FgSKOCBZowggWWMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUE
+DDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTnEpC8lrZps+QX
+H1v/7InNGVLabjAfBgNVHSMEGDAWgBTeGx7teRXUPjckwyG77DQ5bUKyMDBYBggr
+BgEFBQcBAQRMMEowIQYIKwYBBQUHMAGGFWh0dHA6Ly9vLnBraS5nb29nL3dyMjAl
+BggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd3IyLmNydDCCA3EGA1UdEQSC
+A2gwggNkgg0qLmFwcHNwb3QuY29tggthcHBzcG90LmNvbYISKi5kZS5yLmFwcHNw
+b3QuY29tghIqLmRmLnIuYXBwc3BvdC5jb22CEiouYW4uci5hcHBzcG90LmNvbYIS
+Ki5kdC5yLmFwcHNwb3QuY29tghIqLmR1LnIuYXBwc3BvdC5jb22CEiouZWwuci5h
+cHBzcG90LmNvbYISKi5hcy5yLmFwcHNwb3QuY29tghIqLmV0LnIuYXBwc3BvdC5j
+b22CEioudHMuci5hcHBzcG90LmNvbYISKi5sei5yLmFwcHNwb3QuY29tghIqLmV3
+LnIuYXBwc3BvdC5jb22CEioubncuci5hcHBzcG90LmNvbYISKi5leS5yLmFwcHNw
+b3QuY29tghIqLmV6LnIuYXBwc3BvdC5jb22CEioubnouci5hcHBzcG90LmNvbYIS
+Ki5vYS5yLmFwcHNwb3QuY29tghIqLm5uLnIuYXBwc3BvdC5jb22CEioucmouci5h
+cHBzcG90LmNvbYISKi51Yy5yLmFwcHNwb3QuY29tghIqLnR6LnIuYXBwc3BvdC5j
+b22CEioudWUuci5hcHBzcG90LmNvbYISKi51ay5yLmFwcHNwb3QuY29tghIqLnV3
+LnIuYXBwc3BvdC5jb22CEioud2wuci5hcHBzcG90LmNvbYISKi53bS5yLmFwcHNw
+b3QuY29tghIqLnduLnIuYXBwc3BvdC5jb22CEioubG0uci5hcHBzcG90LmNvbYIS
+Ki5lbS5yLmFwcHNwb3QuY29tghIqLmttLnIuYXBwc3BvdC5jb22CEioucGQuci5h
+cHBzcG90LmNvbYISKi51aS5yLmFwcHNwb3QuY29tghN0aGlua3dpdGhnb29nbGUu
+Y29tghUqLnRoaW5rd2l0aGdvb2dsZS5jb22CFHRoaW5rd2l0aGdvb2dsZS5nb29n
+ghYqLnRoaW5rd2l0aGdvb2dsZS5nb29ngg53aXRoZ29vZ2xlLmNvbYIQKi53aXRo
+Z29vZ2xlLmNvbYIgYXBpLnByb2plY3RzaGllbGQud2l0aGdvb2dsZS5jb22CD3dp
+dGh5b3V0dWJlLmNvbYIRKi53aXRoeW91dHViZS5jb22CCmFwcC5nb29nbGWCDCou
+YXBwLmdvb2dsZTATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAn
+hiVodHRwOi8vYy5wa2kuZ29vZy93cjIvNzVyNFp5QTN2QTAuY3JsMIIBAwYKKwYB
+BAHWeQIEAgSB9ASB8QDvAHYAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87M
+OwgAAAGSrm+S3QAABAMARzBFAiABLzfPKV2JuX8yzT9WSqpZsFS2soz0RKLKrM1x
+BhkM6AIhAJF5afg9jEbv138+VaKXvy7OOlgOr2toSOkmw8d6K/t2AHUAfVkeEuF4
+KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebgAAAGSrm+S0AAABAMARjBEAiBPqB7H
+AprVH/dkg+K2vck1zd7+uX5mTsFBEABMXSJFDgIgf0AMEwKBqwhl/yUDeCI9fhmv
+0PRSx7s52cOOCamXnXcwDQYJKoZIhvcNAQELBQADggEBAEa58Lp5kWEGgUUMjpKF
+Tsz+GzyRS8PmuYbumMAZf22f4rgvTVwG6IA96JD+qsdM9U9K3a5HuGTpK+U1ETys
+3hJGSVfw9M+fJm1qCyEySzD2QHKrsftTHUrqviCT7+a9h5Q02V4ya6jcPrH02+wh
+00V05oBCWSGyNT8YGe/+8S9/MFSxqV2J3xZkWHioHGM6d2qbNKWWc6gsSHIY+hVx
+SuxI+iIC8mht///4F99kyVp9GBPAHZG9gR18bqj7ycPFLykCqzLYbWRXChF9FLa3
+U/59ZfVaVMAUkQ2zHkaNd5O1nKfdVEJg5l/RCZOBwtdNbjsRdYYmsWpBKqpULhhk
++Aw=
+-----END CERTIFICATE-----
+subject=CN=*.appspot.com
+issuer=C=US, O=Google Trust Services, CN=WR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4962 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

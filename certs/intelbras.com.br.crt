@@ -1,0 +1,80 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.intelbras.com.br
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Feb 20 12:49:50 2024 GMT; NotAfter: Feb 20 12:49:50 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jun 29 17:06:20 2004 GMT; NotAfter: Jun 29 17:06:20 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGnDCCBYSgAwIBAgIJAIJO01A0ZYJ9MA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTI0MDIyMDEyNDk1MFoX
+DTI1MDIyMDEyNDk1MFowHTEbMBkGA1UEAwwSKi5pbnRlbGJyYXMuY29tLmJyMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsogfPJZ3kiZS9KCl4jwiKO/9
+N+0hu2Mki8HNaEMcZTeCi3e7uFVOyRvfE6hSvTTacobQQshLcPGLvsrNFO9Itaya
+JLdwWI9TD3dUX8bcnV5n3dPviNg2WDV733x4vTmWB2koiGP2KhvrEuj7aZF3DCPX
+2HhJ7df4pVOcNPsuh1Rg9yAgT234Lya5vs7mT6YUd17AnSPqD1qXLIhUX5n3nRk5
+Aypg99oxPnSPPRQPCs09JbAOKX98xIcDMCB4exjWo0HQqRS5G82Gf3y7q0POYpPd
+Zb0ibl6EnedQkTaz009Ab6ww82JOQKHechc/1P/5oyrxosFwJ+vPu3ytzO/n/QID
+AQABo4IDRTCCA0EwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDgYDVR0PAQH/BAQDAgWgMDkGA1UdHwQyMDAwLqAsoCqGKGh0dHA6
+Ly9jcmwuZ29kYWRkeS5jb20vZ2RpZzJzMS0xNzQ4MC5jcmwwXQYDVR0gBFYwVDBI
+BgtghkgBhv1tAQcXATA5MDcGCCsGAQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECATB2BggrBgEFBQcBAQRq
+MGgwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEF
+BQcwAoY0aHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5
+L2dkaWcyLmNydDAfBgNVHSMEGDAWgBRAwr0njsw0gzCiM9f7bLPwtCyAzjAvBgNV
+HREEKDAmghIqLmludGVsYnJhcy5jb20uYnKCEGludGVsYnJhcy5jb20uYnIwHQYD
+VR0OBBYEFAn9js8BzB4S1ZjPtSPuzSqNETZ1MIIBfQYKKwYBBAHWeQIEAgSCAW0E
+ggFpAWcAdgBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAY3GkL4x
+AAAEAwBHMEUCIQDmR0GXlXvQPImFctwVY3NVshUNpGa90ymXGHsPrH5xLQIgRc/X
+rCJgwQA37YKxiMdoRjMNEyH21xgdIpTx7om28q8AdgB9WR4S4XgqexxhZ3xe/fjQ
+h1wUoE6VnrkDL9kOjC55uAAAAY3GkL82AAAEAwBHMEUCIFhy6rbSR4NTI3YFV8NB
+WBsNDhe4xVwrFYhqSzJ7NraYAiEA3d7LVgOM338pB/ceOB60SfMubV/jYy2UL6sq
+wbhD9DAAdQDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAY3GkL+T
+AAAEAwBGMEQCIEk2bPHLg5Bd2osaP74SBHrtsNt68VPoYnlJ1SSTH6DeAiBIy9Av
+Z2ACBhffJT9kFmVnO9t56KsiaySYqM3IWAw0/zANBgkqhkiG9w0BAQsFAAOCAQEA
+H3cFfpmJM4G9QnK7XiZfFuLDvoLFEM+fPhSAEx7n5lSGWwijgumpwTvZYIO49KHd
+QpYT+vj4HwxdzvNw8J89MIwiyvq05VrcvkLyey28UF1FEYdZUVR8yUcfHt/j2e6b
+Qv1wvSi433aelDWhfpejvIGEltQGJp/tSERfyQPqgq45tFGYgCe5ixZ1DHh8f6Xf
+T1lReE7N1rwFrmMUfAbjQTTXngygo8SwcpgidFmj8+vsvC95YB855iBfvcoa2l2R
+GNE2rCNfdser82kwLv3vBAWOxeL1DZ3HD96sLGL+E3AMQbcH2kiH0FVaRnZz3EX4
+0kEGXsN3hkrsWNLsT/7BSg==
+-----END CERTIFICATE-----
+subject=CN=*.intelbras.com.br
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5672 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

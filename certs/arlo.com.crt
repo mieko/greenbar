@@ -1,0 +1,75 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=Milpitas, O=Arlo Technologies, Inc., CN=arlo.com
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 15 16:26:36 2024 GMT; NotAfter: Aug 24 16:26:35 2025 GMT
+ 1 s:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  5 19:13:56 2015 GMT; NotAfter: Dec  5 19:43:56 2030 GMT
+ 2 s:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul  7 17:25:54 2009 GMT; NotAfter: Dec  7 17:55:54 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGizCCBXOgAwIBAgIQFGDQ5hsx4Ne4hEoyE2rUrjANBgkqhkiG9w0BAQsFADCB
+ujELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUVudHJ1c3QsIEluYy4xKDAmBgNVBAsT
+H1NlZSB3d3cuZW50cnVzdC5uZXQvbGVnYWwtdGVybXMxOTA3BgNVBAsTMChjKSAy
+MDEyIEVudHJ1c3QsIEluYy4gLSBmb3IgYXV0aG9yaXplZCB1c2Ugb25seTEuMCwG
+A1UEAxMlRW50cnVzdCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAtIEwxSzAeFw0y
+NDA4MTUxNjI2MzZaFw0yNTA4MjQxNjI2MzVaMGoxCzAJBgNVBAYTAlVTMRMwEQYD
+VQQIEwpDYWxpZm9ybmlhMREwDwYDVQQHEwhNaWxwaXRhczEgMB4GA1UEChMXQXJs
+byBUZWNobm9sb2dpZXMsIEluYy4xETAPBgNVBAMTCGFybG8uY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnv1SRaDf62ijtDQjfRAt8q30Y/MViKLI
+i3ckVpdj4VTDCUSY4qDeD3P3rjjI6WhuLhjHdBit1vLM2yX5m1pWafK46o3W3AOT
+05R8+/L6CtS3e5eET2wNafhmMeQN7SMFUR94XrP/TYs/krA8Jb00nKYuZ4CKCWf6
+19rUmJ8teaejgQMrlsJAamyKYkQML8Ydvl5vTzrzkU0i/LC8nzVjejWvqlz5V9JT
+aaeu3b8IMRoJfkWRlEsoVMixKP98kk1tMCkV82NUuJS34Z1b0kqpLRfvo/nrQSR+
+yaLzWGiuTh2TL/xovZzSqBAW2/wj8XmxsjdtlIo9C5JsWUPM0nSqEQIDAQABo4IC
+2jCCAtYwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUlgYGKJp/TD+8AKo+9m7bz7jz
+yPYwHwYDVR0jBBgwFoAUgqJwdN28Uz/Pe9T3zX+nYMYKTL8waAYIKwYBBQUHAQEE
+XDBaMCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5lbnRydXN0Lm5ldDAzBggrBgEF
+BQcwAoYnaHR0cDovL2FpYS5lbnRydXN0Lm5ldC9sMWstY2hhaW4yNTYuY2VyMDMG
+A1UdHwQsMCowKKAmoCSGImh0dHA6Ly9jcmwuZW50cnVzdC5uZXQvbGV2ZWwxay5j
+cmwwIQYDVR0RBBowGIIIYXJsby5jb22CDHd3dy5hcmxvLmNvbTAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMBMGA1UdIAQMMAow
+CAYGZ4EMAQICMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgAN4fIwK9MNwUBi
+EgnqVS78R3R8sdfpMO8OQh60fk6qNAAAAZFW3MyRAAAEAwBHMEUCIAm6fo7G3D/c
+b0YDVOs37sfaeCyku3ylkOQ0/GQFG4bwAiEAi/Zs3e8pOhoZj4Lo7hrLaAZAHQzY
+P1Dn5dwYNK6fq78AdgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAA
+AZFW3MybAAAEAwBHMEUCICYgH0ztAm1ubUKRnDOclIrKmcvRclbSzP4nLOFdVdUn
+AiEAg/J/UCECKrfknerBGgA+r+by7tGhlrbVMA/iUgENscQAdgAS8U40vVNyTIQG
+GcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZFW3MyZAAAEAwBHMEUCIB8EbAYBR8Dk
+HKU//AeHnF+XdzDhkUlKQRDbr2J4uPNOAiEAr0Xk/K/DNulxKdNxB8xvxz1EVLFv
+hR3zjAdrZeVark0wDQYJKoZIhvcNAQELBQADggEBAG9vsIqWrIFavSNM7ScatSuK
+SGVlRu/bUmT2Szl/xdBVzp5EoL3Ovpq1DmFpEMkydg1/FiN7pCBrni5ASrMKYz4b
+9m4n1ECXHiDG1szD2QvK6xv790wdxV3o3DoawLQl7G2dgoB6F9Zjj08WMIyPUiaH
+w5A02VJwKeqNLd6RD8BV5SiudBj9FMlIlojvS7i/mvd6iAcuwGRoGvKsB5H3+SV/
+BuDD6ZoBYNNJZnail+flZjglFvsOAAuUofXprRlGbFUREz2o/oqkBF+RGp3YfJuC
+A5cAgVRNYrUXRyDitmdKBKSgitZtuYSmYSsuUvkDRPfVXifQUo57n/didr3xhgU=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=Milpitas, O=Arlo Technologies, Inc., CN=arlo.com
+issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4571 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

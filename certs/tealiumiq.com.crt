@@ -1,0 +1,75 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.tealiumiq.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 28 00:00:00 2024 GMT; NotAfter: Jun 26 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFyTCCBLGgAwIBAgIQC3IGdLt8tJWFQnIrSdMYqTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDUyODAwMDAwMFoXDTI1MDYyNjIzNTk1OVowGjEY
+MBYGA1UEAwwPKi50ZWFsaXVtaXEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAtGo/OzR6867G6i0UPrdBZfyMrbdK/2xqLaHvI+hn/lduCmcJqYkz
+fAhDKVob5ipL3N/RYeoaGdIGVk+lpa+aDhYUEIlXbDuoypcYswx1FC1K/Q4GkF9R
+3aFt/RTlrxAJWb6KSQdMJy89/ZI/gDl0UdjvnraRrEOfi+CWNO7hMDSryl2AGa46
+b1b4a++E3iA7q4JRN1l6d8Gd4azWrsXwXxLZG141q4zVO09ZGLDfsnj4WOIPK9pI
+rRkYcQggzSzhvTtmDH8VeLh5b3xrwCCliY57IiKq8nZ7iutrxFUIuhYhEPsIXxd4
+LET/DwV+sMrXk5VLIFWDdiscCYTNTD5ExQIDAQABo4IC5zCCAuMwHwYDVR0jBBgw
+FoAUVdkYX9IczAHhWLS+q9lVQgHXLgIwHQYDVR0OBBYEFABbYvIequKzr0wBvyqG
+FgiyiuvNMBoGA1UdEQQTMBGCDyoudGVhbGl1bWlxLmNvbTATBgNVHSAEDDAKMAgG
+BmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwucjJtMDMuYW1hem9u
+dHJ1c3QuY29tL3IybTAzLmNybDB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGG
+IWh0dHA6Ly9vY3NwLnIybTAzLmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYq
+aHR0cDovL2NydC5yMm0wMy5hbWF6b250cnVzdC5jb20vcjJtMDMuY2VyMAwGA1Ud
+EwEB/wQCMAAwggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2AE51oydcmhDDOFts
+1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABj7yRt9QAAAQDAEcwRQIhAIqBhzlh6m2h
+d7RvgOagWczFbnX6hgxZtLVkk4Mg9XASAiBrUKmWFV/0QLmjlkWWjbI02pbLDJYu
+Gmfp6qJnH+nzxwB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAAB
+j7yRt9AAAAQDAEcwRQIhAL3KN3hNtFc8qrMMx0D2jTruh/fUe2q9LFj8VDJXTPeS
+AiA45X1+/gwWZL5OGcXJCuif6dZQp1T4k+shXYJBgP5WCgB1AObSMWNAd4zBEEEG
+13G5zsHSQPaWhIb7uocyHf0eN45QAAABj7yRt+YAAAQDAEYwRAIgSjQgCqnxwReW
+7KCpK8ubz4LNCNNaj02x/UrMVDKNt9wCIFPy0uIf9djOQJ0piVMxuFMS2Rlqifij
+aLSfjIFCrv9jMA0GCSqGSIb3DQEBCwUAA4IBAQBlYrYy1btAwltDDxtrwJXN6FJX
++ASOs1g2hghjoB58Poj1/wWN3DkhpVzVJBmXpKIhSc0To2P11ehx/ttc6BgP9qAM
+V+daIUb0L1l/KeYh6L1pq4J34+KWFN6iJyzA2RwH7IDpvE/91XlZq0ork6NhKhax
+yBjOb6HjloVSq273BcBSwYZDYX2Nz2d8sspAwRcxNgkeCOB9+q7Xp9D7hk8Wlct/
+FTMA1ga3L+cRLPbcCHWDQtpewbDgVL3sk3tTNNrPIlKqpSO3m4JXbTkvyI5yLv/P
+aUHdodOmtKd/OgbQTHAsBOfNj6L1dg3McC0c5KqlfDKmcMCiYfi35WNg4Flh
+-----END CERTIFICATE-----
+subject=CN=*.tealiumiq.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5481 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

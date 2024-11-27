@@ -1,0 +1,74 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=RU, ST=Moscow, L=Moscow, O=VK LLC, CN=*.okcdn.ru
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 10 10:08:51 2023 GMT; NotAfter: Dec 11 10:08:50 2024 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 19 00:00:00 2018 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGTzCCBTegAwIBAgIMKF70dt34SlFwh3SbMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yMzExMTAxMDA4NTFaFw0y
+NDEyMTExMDA4NTBaMFUxCzAJBgNVBAYTAlJVMQ8wDQYDVQQIEwZNb3Njb3cxDzAN
+BgNVBAcTBk1vc2NvdzEPMA0GA1UEChMGVksgTExDMRMwEQYDVQQDDAoqLm9rY2Ru
+LnJ1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2naJQzXD1WC3lxuP
+C2a4qIRQp1SCc4gEHAuE0OWmJEuuM+GSFHfxq5LMrQT6BFJa90YGck8r9wd6gs9e
+FpOLqNLaFCAukjGy+i72aXTexOS+lNNj2+vu5AMaUyDTe9FW76vMiY8JSYDwFE1y
+zi+2i07jpsm9jtozPiJq5PSJkJpopggUwiHs31JcwPqAcs1vio0al9BQ05STgBJT
+HNtmK1MOXJxPklBEOlV0ZN3iwcOlWvlO0J6/WzsxH4EILWiBXwcMMpTQRbs68sj5
+FboXo2XrBZI3sZWOUgsEUPWIJI1X8ZvBgxT5pc9BRQNo73ujJegUPYfZVKWZ9KYW
+cqgNoQIDAQABo4IDIjCCAx4wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
+gY4GCCsGAQUFBwEBBIGBMH8wRAYIKwYBBQUHMAKGOGh0dHA6Ly9zZWN1cmUuZ2xv
+YmFsc2lnbi5jb20vY2FjZXJ0L2dzcnNhb3Zzc2xjYTIwMTguY3J0MDcGCCsGAQUF
+BzABhitodHRwOi8vb2NzcC5nbG9iYWxzaWduLmNvbS9nc3JzYW92c3NsY2EyMDE4
+MFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8v
+d3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECAjA1BgNVHREE
+LjAsggoqLm9rY2RuLnJ1ggoqLm15Y2RuLm1lgghteWNkbi5tZYIIb2tjZG4ucnUw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFPjvf/LN
+eGeo3m+PJI2I8YcDArPrMB0GA1UdDgQWBBReyJ6bXkwAKaY4i3z6nq9gNeucbTCC
+AX0GCisGAQQB1nkCBAIEggFtBIIBaQFnAHYASLDja9qmRzQP5WoC+p0w6xxSActW
+3SyB2bu/qznYhHMAAAGLuLS4ZgAABAMARzBFAiEAx0/aFGtMiySYibMjaq7eUmze
+VAw4kFBYybJM0jq8UvQCIFF/1cfuyP3HWu9h5xwMxJvySjOZ5xbH3EXTcwzJYzXm
+AHYA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGLuLS5twAABAMA
+RzBFAiEArMHbm8JxA5icTnptLRkzUbxWzm7MwvyobL4Uy4STA2QCIAbV4Qc4QvZt
+1x5GR1rG7JYTGKNUoUdUx0AyKQTTOmH+AHUAdv+IPwq2+5VRwmHM9Ye6NLSkzbsp
+3GhCCp/mZ0xaOnQAAAGLuLS8nwAABAMARjBEAiBflIPo7kdM0iA+Pchtee97ZoqI
+0mA5RqwH3SZwT4qCqgIgfGqzBKfva/1b61I70wCVaFTDxkZOKo38jg/7ig4TpFIw
+DQYJKoZIhvcNAQELBQADggEBAGzMPtqqw+ESK1MfjM8C+zXp4A9e+QDjNnlYqYLp
+Cx+Omxvq9mUg1+AdMHPV5fqgR3ee8HgC2cgzchNTo360vkg2hQtQJOc8RiJVQrfF
+uplPW+RNtzONhhnMhJDpGJn4lDCK3wQ8PZ+EnMDGla7G5BhU+dbFxuji2POuRxS/
+npJsAS6vGGrqKcjoR2ZHlVwmVno92zj4omu7H57L1w5M9+2YzCz0XTtbzshccvCG
+5ti40ARx5e0UPrzBwC5PA0O/6nEKc5QhBOm6qrofcNSBXPwvIfCoQHjhoauZ8AhB
+ywUolcWVyMNHcdtf0bMCaujz1Opx3Qkn6UnwCYr4ETS31Wo=
+-----END CERTIFICATE-----
+subject=C=RU, ST=Moscow, L=Moscow, O=VK LLC, CN=*.okcdn.ru
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4401 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

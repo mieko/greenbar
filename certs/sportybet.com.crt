@@ -1,0 +1,94 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=sportybet.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 11 00:00:00 2024 GMT; NotAfter: Oct  9 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFxzCCBK+gAwIBAgIQDUasi54lzlmQWhDKzZPiFzANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDkxMTAwMDAwMFoXDTI1MTAwOTIzNTk1OVowGDEW
+MBQGA1UEAxMNc3BvcnR5YmV0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBALy0bgLdC1t6h3Ty4rdcelfWjfXnJDStOPov1QrzsDt92zzp2DCl12/p
+zDdiqTQHwiJts6Zy5WEHaLoxYCcbOe5O4xBH0LDWo5WNR3KY+DqAPSFQ4eqgCVLj
+KNRh+Ml2FBa0Ag5LA5P6V4OVkd98jzL1J9LG6wLGWkMHqtzxBvV6h6w0xyhc6ZYL
+kUx8t5Ro7WidSxtvrnD0LnoGBVL4H3locUVIc6XZ4m6DDChLut66nBVDFdYg0e5p
+Vizi7i2EgmxnZyzKvzJuY2SwoCQ3XNKYlw0YNaXAfHWJpkeVRDnj3QfNe8iuClWX
+Ag24OH96nVcGfl14OyO0JTKLOsFDDhcCAwEAAaOCAucwggLjMB8GA1UdIwQYMBaA
+FMAxUs1aUMOCfHRxzsvpnPl664LiMB0GA1UdDgQWBBQEnkp1ArKgzyVUxITYNl+t
+XWRejzAYBgNVHREEETAPgg1zcG9ydHliZXQuY29tMBMGA1UdIAQMMAowCAYGZ4EM
+AQIBMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5yMm0wMi5hbWF6b250cnVz
+dC5jb20vcjJtMDIuY3JsMHUGCCsGAQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0
+cDovL29jc3AucjJtMDIuYW1hem9udHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRw
+Oi8vY3J0LnIybTAyLmFtYXpvbnRydXN0LmNvbS9yMm0wMi5jZXIwDAYDVR0TAQH/
+BAIwADCCAX8GCisGAQQB1nkCBAIEggFvBIIBawFpAHcAEvFONL1TckyEBhnDjz96
+E/jntWKHiJxtMAWE6+WGJjoAAAGR3nijwgAABAMASDBGAiEA8/jZtXJaKCrv78sk
+nwGMtx/zcEUFkwyAcinG4R3xmR0CIQDgOA+RhfcMDnGC4vGQaO16pt4i/tw/Wv/z
+U2Ncb//A4gB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkd54
+o3kAAAQDAEcwRQIgLUDjwaFVJn5Vvq40Hh+36JYEEveMLTbBPB08u/AqWgwCIQCg
+pLF3kr2mOLQp4m4GdeIp4JDucwIUi+irBdGZpxG5OwB2AObSMWNAd4zBEEEG13G5
+zsHSQPaWhIb7uocyHf0eN45QAAABkd54o5IAAAQDAEcwRQIgJEOnj3720RnBx0zT
+fFxAE8578fs++EBzErRvqGCkdqkCIQDkRTVgdHT+mC1sCmBLRV3kYaKQ8SS8TWXe
+YwcZ/TONHDANBgkqhkiG9w0BAQsFAAOCAQEAdVaWOu+Pnz28i4U6R0kZvraeXdPN
+v9PJsOxC2qxChaaDcq3gXq+C5Pc1KEo5Hk/Mm+nWgsLSBlbHI8gEmHcTET8QsUKc
+XZtPpqAtg3UC3TVbHGmkYtZCqrjAcMf2D40+4jErl84+CmLt+GTmKh0xlcH8/aOQ
+U4Bj4jZm4pbR4UBK3qmwDbhNv+3q3d5ws9591YaNEAEQ+k4tvzd9/QU05iIUFSzb
+PC9TNUNhznh4ntJywcVuM8pQDBJ+4RS0pjyIZK/lfBAlCEs+hge/L4ZlCTBvsWtm
+jcZgM7Cy4oW2p/AqV5f9fFLwRBvULV8Sq1ozO8LZ95gz+xN0jRZz5/vw4A==
+-----END CERTIFICATE-----
+subject=CN=sportybet.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4455 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 57A44C1511A642CFB346D11A255D0CC0DF3BB16D845AE4C39D0B5AFE65A881D9
+    Session-ID-ctx: 
+    Master-Key: F66700CDD4688BC4F558E8DE37F9B0295CBEDEB6E71918032ADEBCD47E152E707E1C6B952276144179EB07A77A6937A8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 01 5c 89 b0 23 34 77 5f-ed 68 e5 9b 06 3f 94 2f   .\..#4w_.h...?./
+    0010 - e8 fa 36 44 48 ac 74 63-ed a6 1f f3 fe 31 50 a5   ..6DH.tc.....1P.
+    0020 - 47 eb 4a c8 c6 50 9a e8-12 1e 01 73 a1 18 87 cc   G.J..P.....s....
+    0030 - f9 55 57 c6 19 e2 96 00-68 ce 5b 05 6e b6 76 f7   .UW.....h.[.n.v.
+    0040 - 6b 7f b8 5c 87 20 fc 85-13 4f 4c 52 98 e1 4c 92   k..\. ...OLR..L.
+    0050 - 0d c8 4a 17 6b 31 7d 05-1f 79 80 21 9b d1 18 86   ..J.k1}..y.!....
+    0060 - f7 d2 70 d6 c3 a1 53 22-67 2e 47 4c 0f 1f 11 69   ..p...S"g.GL...i
+    0070 - 52 19 5e 8c 39 7f 8e c6-16 97 07 74 41 10 23 60   R.^.9......tA.#`
+    0080 - 43 1b ec ae 04 6a e7 98-e7 52                     C....j...R
+
+    Start Time: 1732697823
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

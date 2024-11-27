@@ -1,0 +1,74 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=www.gocove.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 25 15:24:25 2024 GMT; NotAfter: Feb 23 15:24:24 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHCTCCBfGgAwIBAgISBCS9ZGzfawTslqiFMUEn8Qt/MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTI1MTUyNDI1WhcNMjUwMjIzMTUyNDI0WjAZMRcwFQYDVQQD
+Ew53d3cuZ29jb3ZlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AJ6TqrZ47QMEn2iik2CySS6IDGnFmP+P0sZWLrhFKEQDLojxN9BkkTO126xDE2jU
+toP/G9t7or7v0zSpReIvCERuMYr7YfN8hAgWQewPNtlBsubjVomI3W54dBkW+hhy
+Q4/VavPYl8+Vc/i6hg/++dDy9zcu3287FDYlUmALvod1xVC/gLpZtnOFbBRRf/Zk
+SQhsc4CjWivydCVWtDXUJsZbB5lLir8lP8LnFeARh8R0wJXE2vyDArrNcLV8beSS
+6tAws1+3ncatRqFzPQy4h52T1/nqE6eMAiT4R8hVMC+wYf5G9clzxnoVvzExGp2I
+wIwlItZDFB81cr/UC8JIhsUCAwEAAaOCBC8wggQrMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUW0udovDina2C3+CS8qxxC9h0ImswHwYDVR0jBBgwFoAUxc9GpOr0w8B6
+bJXELbBeki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8v
+cjExLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVuY3Iu
+b3JnLzCCAjUGA1UdEQSCAiwwggIogiBhZG1pbi10YWtlY29udHJvbC5zb2xhcndp
+bmRzLmNvbYIvYnVzaW5lc3N0cmFuc2Zvcm1hdGlvbi1zZWN1cml0eS0yMDIzLm4t
+YWJsZS5jb22CGWNvbnRlbnRyZXF1ZXN0Lm4tYWJsZS5jb22CFGRldmVsb3Blci5u
+LWFibGUuY29tgg9kb2NzLm4tYWJsZS5jb22CJ2RvY3VtZW50YXRpb24uY2xvdWRj
+b21tYW5kZXIubWFuYWdlbWVudIIKZ29jb3ZlLmNvbYIfbWFya2V0YnVpbGRlci5z
+b2xhcndpbmRzbXNwLmNvbYI5bXNwLWluc3RpdHV0ZS1kaXN0cmlidXRvci10cmFp
+bmluZy0yMDE4LnNvbGFyd2luZHNtc3AuY29tggpuLWFibGUuY29tggluLWFibGUu
+bWWCCW5hYmxlLmNvbYIRcGFzc3BvcnRhbG1zcC5jb22CEXNvbGFyd2luZHNtc3Au
+Y29tghJzdWNjZXNzLm4tYWJsZS5jb22CGXN1Y2Nlc3Muc29sYXJ3aW5kc21zcC5j
+b22CGXN1cHBvcnQuc29sYXJ3aW5kc21zcC5jb22CEnRhYmxlYXUubi1hYmxlLmNv
+bYIOd3d3LmdvY292ZS5jb22CDXd3dy5uLWFibGUubWWCDXd3dy5uYWJsZS5jb22C
+FXd3dy5wYXNzcG9ydGFsbXNwLmNvbYIVd3d3LnNvbGFyd2luZHNtc3AuY29tMBMG
+A1UdIAQMMAowCAYGZ4EMAQIBMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAzxFW
+7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGTZCIWGgAABAMARzBFAiBq
+frIUc6/XzD8p9mcpnk9HgEXRoDXrePgEQzP2CsP2SwIhAM2AO7gVASsPL2WwrcHD
+NnndoTAL6u46s3qXbS7af3TTAHUAE0rfGrWYQgl4DG/vTHqRpBa3I0nOWFdq367a
+p8Kr4CIAAAGTZCIXDAAABAMARjBEAiBFLYt21lzEIEQce6q5HjRSv3tDwMCZazYf
+gELpK1F+CgIgYsaPlWQCA8M/s16nSAz5JuKraKbnPmCxlQNN5iiI1uYwDQYJKoZI
+hvcNAQELBQADggEBAEb1y43ei/gwkhfM/gFtO674LRt5MBJXyolcRm2uko1bAYfY
+G9p592t5O93/HAhAMdkp/34QKuTJiKSuNv2LLrav66ExASQjluUrVDgQ1rc7e0V/
+gAXmlktcLdG/kclqolgZL00O9N0Zq+1OS2Fd17yjl6l7Ot+Nu6VPO2b1piY/O7u2
+x66cV1lk4c8wE/YBWoR0KEhXssFMNEOnpMXG1u9UEDqLtFFs4OAoe2Zp3ZX+XSL9
+BZD55F7dycvZc50e5kBmLAnRJ2CYDK6zUJ9JiUP0MB6N4wemOoX/eRP3IiJak/QQ
+7AM6qj7jcSTEsjw3QhA1SvDDAPJ+iUaE4WA4FLg=
+-----END CERTIFICATE-----
+subject=CN=www.gocove.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3660 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

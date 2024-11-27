@@ -1,0 +1,89 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=ravm.tv
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 14 00:00:00 2024 GMT; NotAfter: Jun 12 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGNzCCBR+gAwIBAgIQAmSO3CQ6tM562pJvs/gW6TANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDUxNDAwMDAwMFoXDTI1MDYxMjIzNTk1OVowEjEQ
+MA4GA1UEAxMHcmF2bS50djCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+APCDO5Dn0rx/PISumfZkKcz7FiBALd61/PT3wex7UnW7VjxCfhT1EkmIhDFHpkBg
+tQwYSgzhZELEg8/29oTiYXctnaoF2CPBT24FGYiHdj2zusLpQSuVttu0Ps2dJJa7
+ao+szFCqi6og3Ka8ycTiXEhQJr5Oj5/RxJVEMgZD6iNYtJaBCZ/IFQmvq9uyChQh
+IjPWz2CMxxPR0r3Ar5DvZ+Icm+XBNVzjFaXWlFocjp5ik92Cu8AZbiXk+KYwnWuq
+yxsa8iPZk3ammOtUyPeElp2ixL9vZzkEqrtzDj/AMMVqzyKBR/Yhq6IXHPo84yXS
+O4d7HWtG90MCHIn3jQL/T4ECAwEAAaOCA10wggNZMB8GA1UdIwQYMBaAFMAxUs1a
+UMOCfHRxzsvpnPl664LiMB0GA1UdDgQWBBQ6DGU/Y0NPQQuRLFD7G5O35vXEPTCB
+jQYDVR0RBIGFMIGCggdyYXZtLnR2gg9kaXNwbGF5LnJhdm0udHaCGXJhdm0tbGVn
+YWN5LmRhdGEucm9rdS5jb22CCXAucmF2bS50doILcnhyLnJhdm0udHaCCSoucmF2
+bS50doITcnhyLXcuZGF0YS5yb2t1LmNvbYITcnhyLWUuZGF0YS5yb2t1LmNvbTAT
+BgNVHSAEDDAKMAgGBmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwu
+cjJtMDIuYW1hem9udHJ1c3QuY29tL3IybTAyLmNybDB1BggrBgEFBQcBAQRpMGcw
+LQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnIybTAyLmFtYXpvbnRydXN0LmNvbTA2
+BggrBgEFBQcwAoYqaHR0cDovL2NydC5yMm0wMi5hbWF6b250cnVzdC5jb20vcjJt
+MDIuY2VyMAwGA1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB3
+AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABj3ivPsEAAAQDAEgw
+RgIhAKjASP++AbjsCALzy03ON/6WffYzxT3PZbSnQCLXSX9AAiEA2Bx0sSIHyWA3
+Vb+/3PF3CVE9uB/0/hpHh5Y8iJ4mEPQAdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6V
+nrkDL9kOjC55uAAAAY94rz54AAAEAwBHMEUCIC4ihB/B3Q6wzHItYnkvVJTSXZgk
+3H3FptzGpYGz7bh1AiEAglYgzMhA1aupe/QqaatIIwqb4zAPn2qUyYIe3pRC8dIA
+dgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAY94rz6OAAAEAwBH
+MEUCIQDreDdKPWFPC/gj4zqk3WZrMrqOrpQI4Est+PAvCdxzHAIgbfIKcGpN75sp
+OSRnFKpOBzd0zPYFsvksUmqwKEO+HqswDQYJKoZIhvcNAQELBQADggEBAGWjQH4z
+4FRX3ENJ0Lu2HL3LI6Ztm8EhYYRtzIC7Q/EGeJz9K6QGMaP+4DNiZQtjQHULJFLb
+W81ee+vqHvWy4/9KlQKbsy+pHiE9T+PUezbD9l2GcGJ/z7SWLRNN4IMNTFARPUct
+9MInt+ZEDjxZCTkMoOlLjwoV/bnHyMfOdgngCOeIXesi3IpxHZygaHwQXP7vAWbm
+tVR0tB8k7qi/MtImtOnY2zRw9tNVrsqLuLO/9nLqKBAfwXNbcPfbecabhfPUlnMp
+WhKjXwnbDPkt/W3RmvRHdq0DNS/YJcMV4NFBKyKaOaObukwSQxsDhmSFTbEZ9NEc
+1SDk/thCx8wV3E0=
+-----END CERTIFICATE-----
+subject=CN=ravm.tv
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5552 bytes and written 444 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B072A74285370EC71E0620261FB5F408A1F746A5C6A55B5A086460041C56A42C
+    Session-ID-ctx: 
+    Master-Key: C298B04EF72E7B5821F87C8689A5105BA67B3F7E46BA633F3F8DFB5E8326BB135C3BB06DAA1BD797FFB1038A3C5D4270
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697708
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

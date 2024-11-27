@@ -1,0 +1,101 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=CN, ST=北京市, O=北京奇虎科技有限公司, CN=*.360.cn
+   i:C=CN, O=WoTrus CA Limited, CN=WoTrus OV Server CA  [Run by the Issuer]
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 20 00:00:00 2023 GMT; NotAfter: Jan 19 23:59:59 2025 GMT
+ 1 s:C=CN, O=WoTrus CA Limited, CN=WoTrus OV Server CA  [Run by the Issuer]
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jan  8 00:00:00 2020 GMT; NotAfter: Jan  7 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+ZA==
+-----END CERTIFICATE-----
+subject=C=CN, ST=北京市, O=北京奇虎科技有限公司, CN=*.360.cn
+issuer=C=CN, O=WoTrus CA Limited, CN=WoTrus OV Server CA  [Run by the Issuer]
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5251 bytes and written 443 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: F65A253484BCFFD7AC70D7B1FA8BD28EFC93F5B19E0EAF5BE49D65E8C1311A1F
+    Session-ID-ctx: 
+    Master-Key: DEC9141A0A4E76AA75E04635E6D3213806F45FA44964BE7F8E92503F779E3B114D6A7614B6FD87E5C283354EF6F4DFA1
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 88 4e 65 e8 87 e1 8a 0f-c2 0b 62 1b 04 6a 07 c9   .Ne.......b..j..
+    0010 - 36 db 55 10 ee d9 08 d1-f6 82 86 87 f9 4f c0 95   6.U..........O..
+    0020 - 9a c5 f5 de d5 aa 50 4d-e1 86 fb 3a 0a 30 2f ab   ......PM...:.0/.
+    0030 - ac 90 cd 39 55 40 da b8-89 6c 60 2c be ba b0 b4   ...9U@...l`,....
+    0040 - b1 59 0b 56 ae 0f 96 ff-b9 82 21 ee 1a b1 e1 1c   .Y.V......!.....
+    0050 - 71 43 4b 54 3f 67 0f 9b-1c 42 d1 34 01 4f 20 ab   qCKT?g...B.4.O .
+    0060 - cc 6e 10 59 7e 19 b5 aa-6b 1b 62 1b 58 8f 32 b0   .n.Y~...k.b.X.2.
+    0070 - 37 c6 dc d6 b5 04 2f 33-ab 6e 18 ef b6 b9 46 0d   7...../3.n....F.
+    0080 - af d3 81 d4 b6 e3 63 15-48 84 52 65 91 8e cc d4   ......c.H.Re....
+    0090 - 08 d8 45 71 4d 50 67 c0-ab e9 85 20 8a a2 64 38   ..EqMPg.... ..d8
+    00a0 - 91 6f 3f 17 f9 5f 36 b3-b0 60 0e 02 fb b8 15 d1   .o?.._6..`......
+    00b0 - 20 39 bc 26 b1 fc a9 9b-cd 28 77 bf ba 53 8e 73    9.&.....(w..S.s
+
+    Start Time: 1732696866
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

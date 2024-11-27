@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=cleverwebserver.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 24 09:58:37 2024 GMT; NotAfter: Feb 22 09:58:36 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDujCCA2GgAwIBAgIQaJuFBfYAZ4gRdHzL+sp7JjAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTI0MDk1ODM3WhcNMjUwMjIyMDk1ODM2WjAeMRwwGgYD
+VQQDExNjbGV2ZXJ3ZWJzZXJ2ZXIuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD
+QgAEkk1+O2juDWKQK4szEC74jIiyP1bCN47pGq4Y9orvp6r6kO985LuKqZ5owgL2
+A1pdpA2PK/cxan/KpsJdCLZAD6OCAmIwggJeMA4GA1UdDwEB/wQEAwIHgDATBgNV
+HSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSUKktGX/3s
+vuV9XQHPzep5kk/H+TAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBe
+BggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mv
+d2UxL2FKczAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDA1
+BgNVHREELjAsghNjbGV2ZXJ3ZWJzZXJ2ZXIuY29tghUqLmNsZXZlcndlYnNlcnZl
+ci5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0
+cDovL2MucGtpLmdvb2cvd2UxL09wTUNRVDZzVndnLmNybDCCAQMGCisGAQQB1nkC
+BAIEgfQEgfEA7wB2AKLjCuRF772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAAB
+k13S05EAAAQDAEcwRQIhAPSNAuCUoMk9QFPy1Pog7UR0d48WLzjm46oRKFgrVMbr
+AiBzCODS6h2GnySi04+T+/W7fBmLRxzhyWnifZu4t4Y8rgB1AM8RVu7VLnyv84db
+2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABk13S07IAAAQDAEYwRAIgLhe80jDL1mKk
+Ti/KEaeaJvuoIRTT5ANn/6warP+5w+cCIAxfnOjaKeWfKVaNPOu5hEAdRtb6k8xH
+hFGqxsX1qn25MAoGCCqGSM49BAMCA0cAMEQCIDraWthwwfLzUF2zSU37YnRpo4PU
+OcJz5VVPsOaUZsRxAiB7Qt6zLpj0TwE1DTlFohZD/vdC/k9Eu/5K/kcHFN//1w==
+-----END CERTIFICATE-----
+subject=CN=cleverwebserver.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2845 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

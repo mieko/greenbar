@@ -1,0 +1,75 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=mobilefuse.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 00:00:00 2024 GMT; NotAfter: Aug 31 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFyDCCBLCgAwIBAgIQA6OOpf+pa0P7BgOO3BATDzANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDgwMTAwMDAwMFoXDTI1MDgzMTIzNTk1OVowGTEX
+MBUGA1UEAxMObW9iaWxlZnVzZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC4oSl6tgC+Li0x+OfHw1SJ4qAelPwSiNBBaKQIrL0lFNkF+cyVPPrT
+m1ya0TANAebpEQi0dqq19Tsw2P4A73GUe24hm9NFCraDkSwjEjUlwKlgM7u9gzvi
+ZFtY1kcClfCCDeA18gAgyd++coh4j7oNZJDI3lzWBfNXBuxmMldRj5ISJ1fShOBE
+PD6w9Z/CnlQNVrMaCghdzNDnEUtX/0B9NEI80cPgo0OMNAepUJIjXwScBzjKWHj6
+HLDHaOEWtGNsPSquhlsqEnIG5rJUPhunGbGdXq0xnd6lbKq3cAtweCGSS74YrsmN
+sdaZ8+B7aBgDyBgBZN96rKjpnY8eh3yfAgMBAAGjggLnMIIC4zAfBgNVHSMEGDAW
+gBRV2Rhf0hzMAeFYtL6r2VVCAdcuAjAdBgNVHQ4EFgQUe3a8yyMOuOuT6LeMmbp9
+glUNa9owGQYDVR0RBBIwEIIObW9iaWxlZnVzZS5jb20wEwYDVR0gBAwwCjAIBgZn
+gQwBAgEwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnIybTAzLmFtYXpvbnRy
+dXN0LmNvbS9yMm0wMy5jcmwwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFo
+dHRwOi8vb2NzcC5yMm0wMy5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0
+dHA6Ly9jcnQucjJtMDMuYW1hem9udHJ1c3QuY29tL3IybTAzLmNlcjAMBgNVHRMB
+Af8EAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgAS8U40vVNyTIQGGcOP
+P3oT+Oe1YoeInG0wBYTr5YYmOgAAAZELvSu6AAAEAwBHMEUCIQDSaKCIeNs9Pqof
+kUGoAEV3AVpcjGE+iOUmtI02o8vS4gIgIeEWFcUEi8kFlQ3TUHP+6By3Ib+dZXum
+GVCkQEMNGlkAdgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZEL
+vSuPAAAEAwBHMEUCIQDzcKsmtcAsmKMj4ELwRedWhoI9umX0tQlL5ZUCG0mIjAIg
+TICWUC4qu3bzmQukNj03wwC3c3Cq77NnMB+LLf2QmxcAdgDM+w9qhXEJZf6Vm1PO
+6bJ8IumFXA2XjbapflTA/kwNsAAAAZELvStCAAAEAwBHMEUCIQCISaL0tPq//vBp
+Xc27kdt4V23ytnljI5FH+Rih6wVFzwIgZMz9gO9HWYG0xFgPlhceqBv1/iu+5H+J
+R7WLubJkAWswDQYJKoZIhvcNAQELBQADggEBAFFtGI0pHk+A/uF4GUIVy9tQTYUs
+yM3FHOcAR0oML+rR7gtC1MP1+w6F9pFGdTNwV1fj1atWbwCgArNWJ6p0vxv9e9le
+RDb/bK6c9C0B/FGqZEiTUGR+7mzzPgIDD4U5uELXg/tWLVaiWvl8KV4z1kVkqGPw
+kHjTYGMlnETDnAEqNFkAGBTLr7J0ck9OvJmvZG8XMEUqDt07t1QkZceY4X+EnYG2
+dzsSdO0SG+cbNy+B7f5MrvrztgaTsdbCSkAsqWvfRMm+BDUsW0i4nDYu39uTO4kl
+xYBQIhA0iU3wBDi4RwESvQnSoCIaCh2xGT/eCBD8L/b+BtGnLc9YgR+NkjI=
+-----END CERTIFICATE-----
+subject=CN=mobilefuse.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5484 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

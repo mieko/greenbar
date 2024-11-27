@@ -1,0 +1,119 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=4675506, C=US, ST=California, L=South San Francisco, O=Stripe, Inc, CN=a.stripecdn.com
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 30 00:00:00 2024 GMT; NotAfter: Feb  6 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert High Assurance EV Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 22 12:00:00 2013 GMT; NotAfter: Oct 22 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIKVjCCCT6gAwIBAgIQCSnjINsTZBW6VDqNl0jEOjANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTI0MTAzMDAwMDAwMFoXDTI1MDIwNjIz
+NTk1OVowgdExEzARBgsrBgEEAYI3PAIBAxMCVVMxGTAXBgsrBgEEAYI3PAIBAhMI
+RGVsYXdhcmUxHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRAwDgYDVQQF
+Ewc0Njc1NTA2MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEcMBoG
+A1UEBxMTU291dGggU2FuIEZyYW5jaXNjbzEUMBIGA1UEChMLU3RyaXBlLCBJbmMx
+GDAWBgNVBAMTD2Euc3RyaXBlY2RuLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALxii7+9WFoUbLLoLgwTknyI+p4PSU1CLI38sfqoNrvNyB5iKtQe
+0R6qtlFCDh/yjK55e8LRmEA/PU60fO/4bhbB7bc90/0Jno6Q71U7Z0Dgj8iOOSdh
+19yuqKaWeT9/DcJ4ursOeoSdbk9jlaiAvs05PYhl8AdiPK9KB4rVp4nkaBdA9bzX
+o5gL/GxSsqEK7OJlDOuyQmA8DhX4b46z9yM8adUzZi2UXRHKG3UJv4hUyuaondZ5
+6XJqaV+v1B6FhjbgMxhQeSL6Rkk+Im+NnvWLFNtMxEuID1PA/1O3XZijPGrqVhCj
+Z+BqTfZv7KmE6WjcGGq6rESrY+v8oEAeUzsCAwEAAaOCBoMwggZ/MB8GA1UdIwQY
+MBaAFD3TUKXWoK3u80pgCmXTIdT4+NYPMB0GA1UdDgQWBBQaRtMvNppkP/laItXk
+kbVyP4S65jCCAy8GA1UdEQSCAyYwggMigg9hLnN0cmlwZWNkbi5jb22CD2Iuc3Ry
+aXBlY2RuLmNvbYIPYy5zdHJpcGVjZG4uY29tgg9kLnN0cmlwZWNkbi5jb22CDXN0
+cmlwZWNkbi5jb22CDWpzLnN0cmlwZS5jb22CGGpzLmZhc3RseS5jZG4uc3RyaXBl
+LmNvbYISZWRnZS1qcy5zdHJpcGUuY29tgh1lZGdlLWpzLmZhc3RseS5jZG4uc3Ry
+aXBlLmNvbYIVY29ubmVjdC1qcy5zdHJpcGUuY29tgh5jb25uZWN0aW9ucy1zYW5k
+Ym94LnN0cmlwZS5jb22CE2NoZWNrb3V0LnN0cmlwZS5jb22CHmNoZWNrb3V0LmZh
+c3RseS5jZG4uc3RyaXBlLmNvbYIYZWRnZS1jaGVja291dC5zdHJpcGUuY29tgiNl
+ZGdlLWNoZWNrb3V0LmZhc3RseS5jZG4uc3RyaXBlLmNvbYIOc3RyaXBlLm5ldHdv
+cmuCEG0uc3RyaXBlLm5ldHdvcmuCG20uZmFzdGx5LmNkbi5zdHJpcGUubmV0d29y
+a4IVZWRnZS1tLnN0cmlwZS5uZXR3b3JrgiBlZGdlLW0uZmFzdGx5LmNkbi5zdHJp
+cGUubmV0d29ya4ISaW52b2ljZS5zdHJpcGUuY29tgh1pbnZvaWNlLmZhc3RseS5j
+ZG4uc3RyaXBlLmNvbYIXZWRnZS1pbnZvaWNlLnN0cmlwZS5jb22CImVkZ2UtaW52
+b2ljZS5mYXN0bHkuY2RuLnN0cmlwZS5jb22CFGVkZ2UtYm9vay5zdHJpcGUuY29t
+gg9ib29rLnN0cmlwZS5jb22CFmVkZ2UtZG9uYXRlLnN0cmlwZS5jb22CEWRvbmF0
+ZS5zdHJpcGUuY29tghNlZGdlLWJ1eS5zdHJpcGUuY29tgh5lZGdlLWJ1eS5mYXN0
+bHkuY2RuLnN0cmlwZS5jb22CDmJ1eS5zdHJpcGUuY29tghlidXkuZmFzdGx5LmNk
+bi5zdHJpcGUuY29tght0ZXJtaW5hbC1zdGF0aWNzLnN0cmlwZS5jb22CD2JmY20u
+c3RyaXBlLmNvbTBKBgNVHSAEQzBBMAsGCWCGSAGG/WwCATAyBgVngQwBATApMCcG
+CCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8EbjBs
+MDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2ZXIt
+ZzMuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc2hhMi1ldi1z
+ZXJ2ZXItZzMuY3JsMIGIBggrBgEFBQcBAQR8MHowJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBSBggrBgEFBQcwAoZGaHR0cDovL2NhY2VydHMu
+ZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMkV4dGVuZGVkVmFsaWRhdGlvblNlcnZl
+ckNBLmNydDAMBgNVHRMBAf8EAjAAMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcA
+dQBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAZLehzwaAAAEAwBG
+MEQCIH5uOrLTIln5zJ7N2A0R65JoEk36MxgtJMLql7S6gu7GAiAIdDSzLtsYGPYz
+EIIpQg+2ZUd85G4PcR9u/nZtLFf3oQB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWe
+uQMv2Q6MLnm4AAABkt6HO+AAAAQDAEcwRQIhAPxFkX1mpLE/QxiTsc3m4sqdhsa4
+k3GO36/I4Lth0zciAiBRmpJwj3i4zoBZItiX5K2ioPYx7BogEU2UfYisdS014wB2
+AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABkt6HO+0AAAQDAEcw
+RQIhAN09dmhmgy1U7vcuPv6D35GbnZDLjQ4CW9X1KNKCpZuKAiB7Rbv6FB8xGpbU
+4Szqvxm0ZPnqjuwmRlOgnLDoULPGKTANBgkqhkiG9w0BAQsFAAOCAQEAqSCi/KgR
+segmXZqj5sm3UD2MwE31ouFMo8s8QXaUW4WkA/M70/RQ3A9ba+QfVzg1U9IwiCrM
+xgnwWZYTocjjNL1gcziqaY/e04X5hyzlqDs5AjaVNZmA+LI3b9RadtJJUwWNwLJh
+W08M8TctcGQ9cE9danKuWD7drdp8zqxMhBuRmcGTPWgapuuYvpckb0AwCLrjkw6O
+sFKEinn7LC3EFZt3tU34x39wPCiSeHZSNlmJ6ql0wllMKwJ3HCmtj+vuvuKsX/Kx
+ic2Xqkb1rFNE72bk9Xcdmzq6pIJ+OWrAV9uuNVy9unqBecBrT8Rc2+Zh0xGRz4uU
+TDQ5hUDw0mMPNg==
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, jurisdictionST=Delaware, businessCategory=Private Organization, serialNumber=4675506, C=US, ST=California, L=South San Francisco, O=Stripe, Inc, CN=a.stripecdn.com
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4540 bytes and written 418 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BF3172FA579714B0013C8EBC9529CF2385000422C4F1FE60716948D9D1637FAA
+    Session-ID-ctx: 
+    Master-Key: 05C94578438D5E804C77AAD8DA328F6B4E7AF338FF17250EA6E1D37F0AB776394C547AF5FC6D15D6384AC760E669E305
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - de d2 de 02 7a 72 f1 40-84 fb 69 6e 3a 86 08 2d   ....zr.@..in:..-
+    0010 - a8 2f 6e 1f 91 ed 77 66-22 4c cc 42 27 87 b5 8b   ./n...wf"L.B'...
+    0020 - 75 3b 8d 1f 0d a4 fe f1-3b f6 d1 35 e4 46 bd 7c   u;......;..5.F.|
+    0030 - fb be 06 01 ad 2a 35 fa-8d 1d 37 20 67 17 73 64   .....*5...7 g.sd
+    0040 - 43 3d de 58 e8 58 c7 83-66 fc 8f 77 0f 5c a4 ee   C=.X.X..f..w.\..
+    0050 - 99 70 ef 9e 8f 37 b1 ae-d8 ed b5 4f 1a 6b cd a8   .p...7.....O.k..
+    0060 - b9 42 d7 f7 3e 23 51 11-a9 c7 c9 24 e6 a3 14 f2   .B..>#Q....$....
+    0070 - 94 ad fd 63 23 e7 1f a8-27 50 ac e2 4c 58 96 be   ...c#...'P..LX..
+    0080 - 8d b1 8d 82 01 aa 91 d3-44 74 24 81 ea fc ec 02   ........Dt$.....
+    0090 - 51 48 19 e8 47 b9 2b 12-18 6c 30 07 b5 5a b6 8f   QH..G.+..l0..Z..
+    00a0 - f4 58 72 e2 8c d6 47 7f-b2 cb c1 89 e9 4c b1 35   .Xr...G......L.5
+    00b0 - 6b bd 7b 23 8c 7d 7a 57-37 9c 2b e2 02 67 af 35   k.{#.}zW7.+..g.5
+    00c0 - 9b 53 95 49 30 20 b5 5f-15 ef a4 f8 8a 07 8a ea   .S.I0 ._........
+
+    Start Time: 1732691443
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,75 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.adtidy.org
+   i:C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Oct 22 00:00:00 2024 GMT; NotAfter: Jan 20 23:59:59 2025 GMT
+ 1 s:C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jan 30 00:00:00 2020 GMT; NotAfter: Jan 29 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+/cAGf/aSSZx8QN0eG+51LFhTagXEjQ==
+-----END CERTIFICATE-----
+subject=CN=*.adtidy.org
+issuer=C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5324 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

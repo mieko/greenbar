@@ -1,0 +1,64 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Cloudflare, Inc., CN=lunalabs.io
+   i:C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Jul 20 00:00:00 2024 GMT; NotAfter: Dec 31 23:59:59 2024 GMT
+ 1 s:C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+   i:C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 27 12:48:08 2020 GMT; NotAfter: Dec 31 23:59:59 2024 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFFTCCBLugAwIBAgIQDAJAWX03Rw0oU2ZaJdcofjAKBggqhkjOPQQDAjBKMQsw
+CQYDVQQGEwJVUzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEgMB4GA1UEAxMX
+Q2xvdWRmbGFyZSBJbmMgRUNDIENBLTMwHhcNMjQwNzIwMDAwMDAwWhcNMjQxMjMx
+MjM1OTU5WjBrMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQG
+A1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEU
+MBIGA1UEAxMLbHVuYWxhYnMuaW8wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATf
+aFEMNUlkY/UMFrlfjcAVdk7rOZ8Ar84Z67llSfF7G4iQM796YuNQElbFKQEYR1Fi
+w1HGQ1zv9Ro6kKMevyANo4IDYDCCA1wwHwYDVR0jBBgwFoAUpc436uuwdQ6UZ4i0
+RfrZJBCHlh8wHQYDVR0OBBYEFN67DSdQLsboAHVGURxyRS4vLD5GMCUGA1UdEQQe
+MByCDSoubHVuYWxhYnMuaW+CC2x1bmFsYWJzLmlvMD4GA1UdIAQ3MDUwMwYGZ4EM
+AQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAO
+BgNVHQ8BAf8EBAMCA4gwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHsG
+A1UdHwR0MHIwN6A1oDOGMWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9DbG91ZGZs
+YXJlSW5jRUNDQ0EtMy5jcmwwN6A1oDOGMWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNv
+bS9DbG91ZGZsYXJlSW5jRUNDQ0EtMy5jcmwwdgYIKwYBBQUHAQEEajBoMCQGCCsG
+AQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wQAYIKwYBBQUHMAKGNGh0
+dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJlSW5jRUNDQ0EtMy5j
+cnQwDAYDVR0TAQH/BAIwADCCAX8GCisGAQQB1nkCBAIEggFvBIIBawFpAHcA7s3Q
+ZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGQzzC/aQAABAMASDBGAiEA
+1gm63FazclM6/U6/t2knZU5Rya3hGcPif3nvPMQDBckCIQDxuLH0PjbBZ1+/xHmZ
+nryTXshTAzJ/sXnmr81NPW04JQB2ANq2v2s/tbYin5vCu1xr6HCRcWy7UYSFNL2k
+PTBI1/urAAABkM8wv4IAAAQDAEcwRQIgPjuQJrJX9Ak3cvzC1J4EBpT/JqxZIWtM
+tAhP2LYQ/5ICIQCFfVwGgbM21De09/hzhGvjfW1OgSJ7bV1PQ8m0TCY9YgB2AHb/
+iD8KtvuVUcJhzPWHujS0pM27KdxoQgqf5mdMWjp0AAABkM8wv+8AAAQDAEcwRQIg
+APtQlI6awuyWm8JF24sGI3EsZMW9ot6GQS9CIVfUUsUCIQDbJvx+FRrpQZrMA71e
+seiKAuJBtd9TQR+6vhhLqYnwGzAKBggqhkjOPQQDAgNIADBFAiBfFl+hXQu0Fn+0
+cE7hF8Bd1pYoWWQ9ajmkxMH8mUHEtAIhAPb2kpKD+JOjvP0EmNhcRdFwIk5/qIO0
+3xnAjiVaUEXc
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Cloudflare, Inc., CN=lunalabs.io
+issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2597 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

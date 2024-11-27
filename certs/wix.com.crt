@@ -1,0 +1,64 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.wix.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 18 12:36:26 2024 GMT; NotAfter: Feb 16 12:36:25 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFIjCCBAqgAwIBAgISA3VbgJ0z7GsWvmtcWBhYcpHlMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTE4MTIzNjI2WhcNMjUwMjE2MTIzNjI1WjAUMRIwEAYDVQQD
+DAkqLndpeC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCsuji4
+FrP+UUke9Pmt35OuZ15ldjHWIohhYr9hFo6DFldgcoN4ksvf4UzotH+4tyuho++g
+a1t1IydSNbK6T/aO6iHUn9lZQGGaLE7KPyi8IEB4JlFiyCObinPrNNeXdZLkANQ7
+1TwuUaGntIl3x5ZklKf3vipqF85Fleg95em7MAwdXN3001zsYLW2ISiLjfF8fvRE
+2ag6g4/BpXzKeQmnC8V7n2Muic3uqjhAN1WhibtCFjOVWIzUqIQyci0Tv5c0iMw6
+wb9u2vpLgykQGsY8NnHrL9wP8k/feyI1Pz5B+F3tvy/DY4nR72gz+sbYajs1aN6O
+ZQFBV+81r6oBKxXzAgMBAAGjggJNMIICSTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FFlHHx0x0R2K/XeTCVagyGP7KGIIMB8GA1UdIwQYMBaAFLu8w0el5LypxsOkcgwQ
+jaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMC5v
+LmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxlbmNyLm9yZy8w
+VQYDVR0RBE4wTIINKi5lZGl0b3J4LmNvbYIJKi53aXguY29tgg0qLndpeHNpdGUu
+Y29tggtlZGl0b3J4LmNvbYIHd2l4LmNvbYILd2l4c2l0ZS5jb20wEwYDVR0gBAww
+CjAIBgZngQwBAgEwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgDgkrP8DB3I52g2
+H95huZZNClJ4GYpy1nLEsE2lbW9UBAAAAZM/e8ZnAAAEAwBHMEUCIAO49BnXaMKW
+vcGRYrQQcZSGXUmlr3iSaOlxBzHEc0jgAiEA5xHzzdJuY5vbQZmg1CZM/xc0B+5X
+SGW5kki0Vp9+dmkAdQDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAA
+AZM/e8aQAAAEAwBGMEQCIBYMrEOQO8/S+iHEdLjvH3AS+pKoP5sAVzyxp2XN5Vw0
+AiBLGHkgddnepER8TB5dABSBEf1I8jMu3k5jcXHD8j+FeTANBgkqhkiG9w0BAQsF
+AAOCAQEAThEvpMWL+wJRhAiOfY+aGjrb+7fHuXPRPUSuGuK/wfZ4F6Z1RvCbMeDL
+o1m5eqnPVTvNXI9fMhXCvj1hLqktbnaWWX2l65wEN38AVvRgwHa1ZrSPDXeCNd0H
+G3fKdFqnvsCys/rH30KMoD84vFt9vUCyX2o3zaqTit4k/fS4Z7X5otCkrIIwPm+O
+Sy6orR82tdnzjYKadqdKq9gJihz5MnJTOAF4n8K6NiofaRmJvJDxZOnbnI8PEPEp
+nrZoXQGo7knnLype9JrsasH9zk/PtktjlK5sjfPMS+Qy104XbEx8a/1gIywuoSBL
+xCpxo2VQPWY3eg0sYGhbVfXDpt1OfQ==
+-----END CERTIFICATE-----
+subject=CN=*.wix.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3152 bytes and written 382 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

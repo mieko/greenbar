@@ -1,0 +1,72 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=sonobi.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun  5 20:19:10 2024 GMT; NotAfter: Jun  5 20:19:10 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGsjCCBZqgAwIBAgIJAL/iXMls9hHVMA0GCSqGSIb3DQEBCwUAMIHGMQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEl
+MCMGA1UEChMcU3RhcmZpZWxkIFRlY2hub2xvZ2llcywgSW5jLjEzMDEGA1UECxMq
+aHR0cDovL2NlcnRzLnN0YXJmaWVsZHRlY2guY29tL3JlcG9zaXRvcnkvMTQwMgYD
+VQQDEytTdGFyZmllbGQgU2VjdXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcy
+MB4XDTI0MDYwNTIwMTkxMFoXDTI1MDYwNTIwMTkxMFowFTETMBEGA1UEAxMKc29u
+b2JpLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK+QjfW41O1s
+G/+A2qSlo3kxiKUi1D/VKTTmbNzg+lfhAOrxe8FgnCei0Lbt4WJuvZ6CtHVShy3f
+zMRB91De/LuF49jo2PshNvJU1k1lWNaPR5qtgMpiFCLYCAozfQg7gYw+ucC+Frtu
+16Y+LUbXJwqy/GHYMEV7UeNiH0Gcw3olgKNv2j2wtBCc+fCX5M/hIC0AXzqhn+3I
+2aqSm2PP/Sxs89KWN00j1/uMQDR/GCLBPt5DUAGE2zj+Rnbxs8a7J+N0jcp5FR/D
+90GL5CCh7SSC1TaQ/AURKya7lwmhGJvc9L2UxTegX02aE+vWYYwPC73p9vl+lvMs
+JNoTmYP7obsCAwEAAaOCA1EwggNNMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMA4GA1UdDwEB/wQEAwIFoDA9BgNVHR8ENjA0MDKg
+MKAuhixodHRwOi8vY3JsLnN0YXJmaWVsZHRlY2guY29tL3NmaWcyczEtNzIyLmNy
+bDBjBgNVHSAEXDBaME4GC2CGSAGG/W4BBxcBMD8wPQYIKwYBBQUHAgEWMWh0dHA6
+Ly9jZXJ0aWZpY2F0ZXMuc3RhcmZpZWxkdGVjaC5jb20vcmVwb3NpdG9yeS8wCAYG
+Z4EMAQIBMIGCBggrBgEFBQcBAQR2MHQwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3Nw
+LnN0YXJmaWVsZHRlY2guY29tLzBGBggrBgEFBQcwAoY6aHR0cDovL2NlcnRpZmlj
+YXRlcy5zdGFyZmllbGR0ZWNoLmNvbS9yZXBvc2l0b3J5L3NmaWcyLmNydDAfBgNV
+HSMEGDAWgBQlRYFoUCY4PTstLL7Natm2PbNmYzAlBgNVHREEHjAcgg53d3cuc29u
+b2JpLmNvbYIKc29ub2JpLmNvbTAdBgNVHQ4EFgQU2axlLqctmX6z2WynhNnEQusf
+ir4wggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB2AE51oydcmhDDOFts1N8/Uusd
+8OCOG41pwLH6ZLFimjnfAAABj+oONsUAAAQDAEcwRQIgVmzqzBiJEI6N5MgrY1O5
+R6hoS1rGr8ZI8+bYkDfYtrQCIQDsqbsn55P9S/dT1pG5z4/2nNW/JT0I+M3TioBh
+Q3v55wB1AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABj+oON2IA
+AAQDAEYwRAIgbl0ZSGdBY6tsrmWQ+dcm6yGiKlQRsJpeT8P0lG7uk/kCIBJ6YVjn
+xhOxPhRlUwKR1B3SReRdJ8O1VBPatjns0iCAAHUAzPsPaoVxCWX+lZtTzumyfCLp
+hVwNl422qX5UwP5MDbAAAAGP6g431QAABAMARjBEAiAnXEqnU1J4MnaUWShiP/S6
+HJIys5UqYb19M6TJK/GUngIgMCfN2GhTZ8wL+sJRJTaXkAs65OI61mzY2P0Llizt
+zCkwDQYJKoZIhvcNAQELBQADggEBAE4ES6w9Uj9nblMQCmi0yyoLEJb8aAPV48qS
+k3W9eLh4yHGIU6DB6/lUliCcUySV64JocjaC2ILzYEKuvx/kx/r+Y0gyuzZQFuoX
+KIqe6Jmv0+bgPMOaeogTCFXEhXZ1GDGHvuDca9WvbPwOofu0vkVBTD6oL9W1B8in
+tur9Y9WGPTCEoYm7heDvR8NS4/IPcWBDaxl8xhihBnwhI13mHbkhlQLJ5/mifklh
+JLnbZdmbpS7BZCcXg1IwWRfFN4ngHSdQfIrg8puX6ijcgp7uvb3RT8WK51LBOFx9
+QzKSOZT2E0q1cJ8GhOioTFoqzisj1bdmcSBZwi3GZ9sU3kwgoQY=
+-----END CERTIFICATE-----
+subject=CN=sonobi.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3567 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

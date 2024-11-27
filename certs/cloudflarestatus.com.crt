@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=cloudflarestatus.com
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 27 04:23:12 2024 GMT; NotAfter: Feb 25 05:17:06 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMzCCBBugAwIBAgIRAMmxrEcel/R1EtGBEJ7G6nQwDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IzMB4XDTI0MTEyNzA0MjMxMloXDTI1MDIyNTA1MTcwNlowHzEd
+MBsGA1UEAxMUY2xvdWRmbGFyZXN0YXR1cy5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDQAIbvHvIGfgb5i9l/5DrX/7ZC0UrtEBGteqHHTgwJQaP9
+2etBSNnXkV7atwk/fsDViU9qwo0wtu62tjEopqxH5Jy5NLhuV3Gw83ymUd39WQ8U
+YTUPhmtpuu5vRUE03C6ePXCqQ1dRRvmEPBu4XUcXZdBHrlISAyYqWAQZKZlgvhJy
+n7IvxLE202WlOLAxDKypv/syg5S0jngl9CypGOW4z6pAOPExmmQISZcZFqG93bu3
+X77s61k/Ld929Yu2Lhluz45c9tEZFPGRIKtXKWYtXWVOkpxCKbek4NhP/JLClMdx
+LlVQ0moIlEtcIh3FNCBywllIjIcmlEipygkCNenvAgMBAAGjggJMMIICSDAOBgNV
+HQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUiieOFQldmbEFKh1/dT7OnNnaXFAwHwYDVR0jBBgwFoAUx4H1/Y6I
+2QA8TWOiUDEkoM4j/iMwXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRw
+Oi8vby5wa2kuZ29vZy9zL3dyMy95YkUwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBr
+aS5nb29nL3dyMy5jcnQwHwYDVR0RBBgwFoIUY2xvdWRmbGFyZXN0YXR1cy5jb20w
+EwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2Mu
+cGtpLmdvb2cvd3IzL3VuWDhWU0NIcXVvLmNybDCCAQMGCisGAQQB1nkCBAIEgfQE
+gfEA7wB3AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABk2wS0sAA
+AAQDAEgwRgIhAKi38ng/6Ni8PUclWqaVW2hxitVlCaGjSs39g2olSO0HAiEArLxC
+0WYd4a/Qq7c1HJoXPm2P/ktVugdU7535gycBBqAAdADM+w9qhXEJZf6Vm1PO6bJ8
+IumFXA2XjbapflTA/kwNsAAAAZNsEtLIAAAEAwBFMEMCHyFi7dEIzPMaifUnkl4s
+B01DoDjNhhAEbw1L7RpCjZsCIHAASNPB1vWHpKuPWiodsL6ApsaKcwGYaB+xowVW
+nDXjMA0GCSqGSIb3DQEBCwUAA4IBAQCOKuM3hnzFhkDCwXvjn1ZrCCcIxiAVTTnw
+2yrYkoIHrv7cwQEPzh2gmjBCcwVrbKIgl9qF9kQqKJwFUyQP97YICDMEiYezd7Rz
+M7379bLOaFOWdvkxDzB5zPZYuFbnsrywuvHEOPkCuj0j5PjNsMTROCYfcVHxpqjB
+yknmP56jH0TCdRlWbvTIpU2+MEGdlWxnTPqkHnDDSh7SD2DhesRA/dnamV+oUdbO
+3vMJjjtMecQW7TYEyvg7jT2N7Wk4E33OaIYcTyCMBmiqkc6G7/bjo+Rmt9TcRJx8
+/Bb3JvnbDoSthtzbcO8xC7XVqIRG4lR9H6CBx2L4MDD/BRlLs+8v
+-----END CERTIFICATE-----
+subject=CN=cloudflarestatus.com
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4512 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

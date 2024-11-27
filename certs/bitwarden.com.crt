@@ -1,0 +1,94 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=bitwarden.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 16 13:22:50 2024 GMT; NotAfter: Feb 14 13:22:49 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6jCCA9KgAwIBAgISA6vMgBiu5ax9v8JVi/FPtZkDMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTE2MTMyMjUwWhcNMjUwMjE0MTMyMjQ5WjAYMRYwFAYDVQQD
+Ew1iaXR3YXJkZW4uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+w17CziNCjuZoxmCKcaa98kjEv9Q877ML362Syz3Z3APF09tpMcnfoCAqge0HpgLi
+7o44Jxm2c/XzwoQMJ2V8ppB+yDy2TqSKYB1DFNxx4T3bFVJI8ag1q2xSeume1Smm
+sdhzicQ0fgltMXbhSNRivAFJPq7dPKafqkRALZxSwkjdZHxyzdihrSkoDrFXFuvZ
+QJaRRY46d6rWyPpAUrNnp6LpQV/fmmGapZhYQzleLVPPTNfXuAnXZxZzCRoCB72x
+LLc3YThW0VsHyDTe6TqOlfBSGp1t/qrtqIyg3VX9GXAt4hHFt3CQrKJmty1/mivB
+p2x05BFhTyyNWi8UoyG/wQIDAQABo4ICETCCAg0wDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBQ2Blw3Ym0lLdmEhNmlIS4MUHAhQTAfBgNVHSMEGDAWgBTFz0ak6vTDwHps
+lcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9y
+MTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5v
+cmcvMBgGA1UdEQQRMA+CDWJpdHdhcmRlbi5jb20wEwYDVR0gBAwwCjAIBgZngQwB
+AgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgATSt8atZhCCXgMb+9MepGkFrcj
+Sc5YV2rfrtqnwqvgIgAAAZM1WYwBAAAEAwBHMEUCIBibtu4H5dEAePONbFq11hEb
+KQDm5PBBmi64UNJsHC0rAiEAyaX2Vlt5s3R1whMa4RQ0qHY0kGTbSt+JMjDlX/cX
+XoAAdgDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZM1WZMEAAAE
+AwBHMEUCIDzmuv/Jmy7Kj89n9BS00pGcIL+e7jfEPbI1g6/onbqRAiEAqe4CnAyI
+qekBdWcpNivlf3b01ziCH2G+gGumzqj1dg0wDQYJKoZIhvcNAQELBQADggEBAJQA
+q/h6g1Zvnc/LtBFcNbogRB2kHZmvipdOBsR016d+zph+QUjnYa2J4XomBIZL4AoM
+N1dJVEusAfxV27ncP58f3NN1CeepZJs0GmUGEYpVjOmAgu6jqOVdXzvHIB0bkCY5
+pO9wFxWUv7BxPQ2gShFvqhxT2Shr0NeCGd+vVluBDapGXQp1tOUqiTOrdKF4LUIO
+oAVOeXJFhP7qLRF3AQT8KhVkghldRRE7icxwPdaXxU6JyVCJG2q1qhm6ffF1Wq+i
+68LN8u9UOMFm1IAUJP26fysEq+WKl6J7FjKJW+Q+nsJP1rdSsXA8tr7/+qacdLgY
+exdF8y34nRIoXOXE+qE=
+-----END CERTIFICATE-----
+subject=CN=bitwarden.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3101 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 48C8AF80C2BD5187100EC70B3E3004F5D1033F189323C6DC393F7D3AA2D118B4
+    Session-ID-ctx: 
+    Resumption PSK: C115F6ECA8CF518CF50099309A88B796D1EE3AB48A73219F7052E633281F4562
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - fa 6a 1e 22 3a d6 56 b7-30 d0 80 de 32 5a 37 1b   .j.":.V.0...2Z7.
+    0020 - 72 b3 18 9d 24 d6 dd 6b-71 11 81 30 f0 6a 28 23   r...$..kq..0.j(#
+    0030 - e9 03 cf ed c9 89 d8 4e-04 5e 47 22 ae 12 20 7f   .......N.^G".. .
+    0040 - ca 5b 3c 3d e7 14 5a e8-e7 a6 5d b7 18 cc 04 f3   .[<=..Z...].....
+    0050 - 08 28 df a0 7e 38 9d 08-0b 4c 3a ab db ef 82 d5   .(..~8...L:.....
+    0060 - da 2d 70 5f c7 21 4b 85-1b 5e 71 9c 80 cb 35 0b   .-p_.!K..^q...5.
+    0070 - 9f d5 07 62 e2 60 fb 7d-3d 14 20 9f ac 52 91 00   ...b.`.}=. ..R..
+    0080 - 15 a3 ed ed 04 8a c1 8e-23 b8 1a 8d ee e1 40 00   ........#.....@.
+    0090 - 32 e9 d9 c0 b3 e4 1c 45-21 88 11 2a 6a 40 75 16   2......E!..*j@u.
+
+    Start Time: 1732697019
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

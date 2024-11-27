@@ -1,0 +1,76 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=www.ensighten.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  5 00:00:00 2024 GMT; NotAfter: Sep  2 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF3DCCBMSgAwIBAgIQC3HRnMj5y6p0Wvgq0EsWVjANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDgwNTAwMDAwMFoXDTI1MDkwMjIzNTk1OVowHDEa
+MBgGA1UEAxMRd3d3LmVuc2lnaHRlbi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCaZ4DwZyVR/v4UG+Q/nwmjk8u5JVo3U1eYuy4BtOknFIwZY31v
+4Kog6aEiLtqVbB7sBXTJbHASYCCTVIiDG+V4Ng/vYxz8R4y2IyEm0GntNunKzIKd
+/4tc8lLmWP6WxGd0JyGG+LHvu1A19sZrB+w0O8NHr2HGOyEhmqo7qY+ESjkfFDTF
+vo9wrq00NZ3qILu1FvM5/QL3PrDtv4Wbt2AfYTnGFAqInuTbih1uHvtmtxAJ7Ir2
+rJJngiKyEDWh+K4MrpfUANwbCoOLHxR0n3kBU0KHfSMep0Rm32F+rXxfeNY3yJrU
+U0vNX8Tqdjk0UrFJOfId0DYhzMdrRLKSvWL5AgMBAAGjggL4MIIC9DAfBgNVHSME
+GDAWgBTAMVLNWlDDgnx0cc7L6Zz5euuC4jAdBgNVHQ4EFgQUhoGEowbjhpp7X3Oe
+SBqmkh+nG3kwKwYDVR0RBCQwIoIRd3d3LmVuc2lnaHRlbi5jb22CDWVuc2lnaHRl
+bi5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRw
+Oi8vY3JsLnIybTAyLmFtYXpvbnRydXN0LmNvbS9yMm0wMi5jcmwwdQYIKwYBBQUH
+AQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5yMm0wMi5hbWF6b250cnVz
+dC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQucjJtMDIuYW1hem9udHJ1c3Qu
+Y29tL3IybTAyLmNlcjAMBgNVHRMBAf8EAjAAMIIBfQYKKwYBBAHWeQIEAgSCAW0E
+ggFpAWcAdgAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZEhTF3p
+AAAEAwBHMEUCIFbhcnfwSknTwjZp2HH5aMgw4Dh1oDidSjIKttL2/091AiEAkqiH
+efryi1P3kUV1O8+tqlVs7KamezGfLThvxqIpIsYAdgB9WR4S4XgqexxhZ3xe/fjQ
+h1wUoE6VnrkDL9kOjC55uAAAAZEhTF4iAAAEAwBHMEUCIBHGHXLnCIgvAf12MLMm
+i9ix9pCBkvjUB3SID2DzMhyPAiEAxniSzmWW//Cu8ao+t0kW/YOuJtsLNqk67DF7
+tnnIIEQAdQDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZEhTF41
+AAAEAwBGMEQCIDVHgYVgcMO8dddwMErLExmGZO9Ztfl14ATTGyQXF1BrAiApOwHz
+bQJvkBr+yZ0/FUBuNY+hING8Uu7+gvn+syHykDANBgkqhkiG9w0BAQsFAAOCAQEA
+X5ebLhDHKWfGBt7N691f+pNB46APzxKnhiZSsBBw7SdXf9/It4ZCG0l/ItifYW3h
+CnQr72b+DILzcXC4hUdYNQ6syEMOX4TMfn9EdTCSzU14zgDIU3S9Jr0BfggPp0T+
+DQAMgkXesW9rjA1L599iA5YsH3/KU6vmEpcscpcKYHtSkkqVFSNoiGS77J3YlKyy
+iqZUuBi/cAwH+s2TgVm/O0xSIfygtLHpxDhPi8FyqNSkVVYEjBGUuw1j12w9CBbU
+glO2M4WFwfboRHfHMUoe5FdxHuXDgzEzTgtNcrXv/GKEOpnAX5FKwUdMHvE23sqX
+U0f2RrMikLVkfY4uPG+qlQ==
+-----END CERTIFICATE-----
+subject=CN=www.ensighten.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5504 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

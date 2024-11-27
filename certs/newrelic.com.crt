@@ -1,0 +1,99 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=New Relic, Inc., CN=*.newrelic.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  8 00:00:00 2024 GMT; NotAfter: Sep  8 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr 14 00:00:00 2021 GMT; NotAfter: Apr 13 23:59:59 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGxjCCBa6gAwIBAgIQBm6X272G5xn43qU5kF2rCTANBgkqhkiG9w0BAQsFADBP
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMSkwJwYDVQQDEyBE
+aWdpQ2VydCBUTFMgUlNBIFNIQTI1NiAyMDIwIENBMTAeFw0yNDA4MDgwMDAwMDBa
+Fw0yNTA5MDgyMzU5NTlaMG0xCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9y
+bmlhMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2NvMRgwFgYDVQQKEw9OZXcgUmVsaWMs
+IEluYy4xFzAVBgNVBAMMDioubmV3cmVsaWMuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAw7Ij2c+zq9hwa+lE1WlMYfthiIhAPai3SABq/NTHAGZH
+oxR2ZFdNBpf3uo8ZTVT104hr3QVBXP3JxbSoo76JrgIPfjlrkdLaJVHs/fawOkbn
+rLHoe5YwBbbwcWCNx/MIdSBf+P/8RZwXbHs+JgGV43RdiR9Pi43ikKJ/F4357jXf
+tF1CC2yDbECHoVYMJ+2RmdgptS4alyWWquzUP5/kAJVVxEis32CclrwNMfJJvBTg
+ofzcGaLXMK+IUjKhorYUNlCWcUFREN6Tn5C6tNzlK3gPP8/zuSUcCsMmPGUsIceO
+MDy6RnkxbVvBTd6wjrO7fKAJTfZzNxG5mYbBKzTZjwIDAQABo4IDfjCCA3owHwYD
+VR0jBBgwFoAUt2ui6qiqhIx56rTaD5iyxZV2ufQwHQYDVR0OBBYEFOKQMDY4K21e
+Q4vc+S9MfpEzOtXjMCcGA1UdEQQgMB6CDioubmV3cmVsaWMuY29tggxuZXdyZWxp
+Yy5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDov
+L2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hBMjU2MjAyMENBMS00
+LmNybDBAoD6gPIY6aHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExT
+UlNBU0hBMjU2MjAyMENBMS00LmNybDB/BggrBgEFBQcBAQRzMHEwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBJBggrBgEFBQcwAoY9aHR0cDov
+L2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hBMjU2MjAyMENB
+MS0xLmNydDAMBgNVHRMBAf8EAjAAMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcA
+dgAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZExQosoAAAEAwBH
+MEUCIQC2F/HjmB6Kqoz3ezbeQH4sQE+q4AeHHbp6kSO8agjiqwIgeXT4b8gzFxDA
+/PNDI6AfoNVIh2PqTSkp0aPqUndtamsAdQB9WR4S4XgqexxhZ3xe/fjQh1wUoE6V
+nrkDL9kOjC55uAAAAZExQotiAAAEAwBGMEQCIF0YcbxW1NL+GVgtCzJwWO2Hw5dg
+hlsSsiK86TmncHIpAiBzg9xsLZpq7KBoN23L/4ucOptSAV57u3a3V2agLz0zSwB2
+AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABkTFCi10AAAQDAEcw
+RQIhAK4Jre/LYzfuP6gAHsE4NSvznBu/TubbYKLeul/XOghJAiAA7kUZMF6QxwDw
+RLSbTvzvfLw+AC8ttW+j9J0VgkLVQTANBgkqhkiG9w0BAQsFAAOCAQEAVTeQDTda
+Vsp6tAwqwlNdsmiRgbkB2f7lZ3pV4LqVZpnKomUYDyTEVYxNnVazTAtsyRdmf9Um
+W06oFzAra0+DKLc91cJ/UlP43Vwic5ZQTJrOOoce8B9hiD+ACxk0Ynl/1y4Fq1B0
+QINkZQ9dFUV/L2ccl2kEjXXQ6zmBy+MtDCaNEyzjGO3aLgdyNEkY9eQpgZsv0nUL
+UZyKzCr2ZQFxRiYd0VdwpHP6bP+d9Z0EIPL4xvryNnmqyX8uBiFs7krw7UZeAvg5
+Qqz9UpAU9wIyEe73PJNxxnA2C0Hemm3+JBLWdoPW/qzo4WmZAdznHzRlFl/fKtlK
+K5cetAlO0A8RfA==
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=New Relic, Inc., CN=*.newrelic.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3610 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 0AB2C4610FA919711880905E8C91D0B6AEB49DAE778A04CD6345D9CE769E8D3D
+    Session-ID-ctx: 
+    Master-Key: 078D75519DAE376D08B195CA1F8A36CA9B8C7A5954144114DC5E4A28B767B1CDC1B6E78ACD60CC755EFEAB64F1A6157B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - 40 c4 b4 1c 2e ba 9e 07-d7 3a cc 6a 0e f2 b7 a6   @........:.j....
+    0020 - 61 af c3 f5 82 08 ee 45-8c 34 84 05 15 9b 90 f9   a......E.4......
+    0030 - b9 27 4f d8 ec 96 07 e2-84 6e fb 2c 1f bb 1a 7f   .'O......n.,....
+    0040 - 40 5f 28 a9 99 dc 39 c1-1d 64 82 06 7f dc ff 5c   @_(...9..d.....\
+    0050 - 85 29 14 30 2b 4f f9 ef-19 70 af 82 25 8e a9 9c   .).0+O...p..%...
+    0060 - 6f f8 26 e9 65 c3 3d f4-d1 61 17 ec 17 9d b7 c2   o.&.e.=..a......
+    0070 - 94 55 33 1b 82 27 26 e2-39 b1 26 c1 f2 7a 33 51   .U3..'&.9.&..z3Q
+    0080 - 83 c0 c0 28 d8 9e 31 df-85 02 55 82 3a a2 51 44   ...(..1...U.:.QD
+    0090 - f2 46 23 be 04 e5 90 32-2a 52 a7 67 32 6e 7a d1   .F#....2*R.g2nz.
+    00a0 - e3 01 c1 ea 4e b4 0e 00-28 fa 5e c5 02 58 72 b5   ....N...(.^..Xr.
+    00b0 - 44 e7 9b 92 62 a8 84 70-b1 92 90 80 d5 63 06 8e   D...b..p.....c..
+
+    Start Time: 1732697574
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,67 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=ifconfig.me
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 13:09:37 2024 GMT; NotAfter: Feb 13 13:09:36 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFnjCCBIagAwIBAgISBOeCL929damaYfvtriR7mlhEMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTE1MTMwOTM3WhcNMjUwMjEzMTMwOTM2WjAWMRQwEgYDVQQD
+EwtpZmNvbmZpZy5tZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKHI
+BMcGQEj4+0eTLivUBkPMfry/s2t3mdR/9scAD2DdG8wuYKjMbjLKMdVlYiM3x0VG
+hjnSsFxIJ+McghMyiDxGrpojSGA7yJ0SKET9YFm3NrB5AxSka87ltSaYps7usj9z
+Sx7LQLPnDrVc8v+TRRGlBQjNxDsKb3mk9uHyiJgr8ziFDdS/aPvb6UyVyhMlvdR7
+xubw5Py5dsr8aY6ZRc3qFCHyORDEnksm+IE9nLQYp1h/R81DWAB9T5k5jHJXJYOZ
+TaJDp38uHf8ewHQYjacleMJ/C8IuKGH4hfXAM1psTJr4wihxTSUGe1dhMeuKnBz3
+qx+PbjGeRd0lWBDn18cCAwEAAaOCAscwggLDMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQU0YefzLHF9WtSzi4XFu1gsK3qB7owHwYDVR0jBBgwFoAUu7zDR6XkvKnGw6Ry
+DBCNojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjEw
+Lm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iub3Jn
+LzCBzQYDVR0RBIHFMIHCggwqLmNvbXBhbnkuaW+CDSouaWZjb25maWcubWWCDCou
+aXBlY2hvLm5ldIIMKi5qc29uaXAuY29tghIqLm15ZXh0ZXJuYWxpcC5jb22CDiou
+dXNlcmFnZW50Lmlvggpjb21wYW55LmlvggtpZmNvbmZpZy5tZYIKaXBlY2hvLm5l
+dIISaXByb2JlLnByb2JlbmV0Lmlvggpqc29uaXAuY29tghBteWV4dGVybmFsaXAu
+Y29tggx1c2VyYWdlbnQuaW8wEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEE
+AdZ5AgQCBIH1BIHyAPAAdQDgkrP8DB3I52g2H95huZZNClJ4GYpy1nLEsE2lbW9U
+BAAAAZMwJxMuAAAEAwBGMEQCIErHHmvn3Bpo/rA0rjX3T+CDk+To/3xLf/FSdW4P
+M82oAiAMxrO9oYFonjdHkHJUvZwrJEwzUepWCDhMnDlaqN00QAB3AKLjCuRF772t
+m3447Udnd1PXgluElNcrXhssxLlQpEfnAAABkzAnGkgAAAQDAEgwRgIhANUBxnBz
+8v6UFUjXvZZRZ2OTFMGw1rxPs9kv0Vn6neuAAiEA9ZN7A6k/mbjZqCRbDLHW/963
+KLqyXKo1hQpO5C1TbZYwDQYJKoZIhvcNAQELBQADggEBALEOStpXlCWkNKAk1Wc+
+T09FOvVJn2etWG0RdTtDvh3dh9nx14CCyKN+RWrKS2Lpu5TJrdmCgJumGwm078k6
+anirnpikGJKuxkRZ4EF3A8QGnyaqsQfTIghPwKLrGRTwRfuO5tnsdhy+WvuwstQN
+9sFi0feC5aBdW5WyHM/EG4Rw83AJ4wNOIl9TAwVafDDlgEhDnNdqIqMcVYeiT7FZ
+t1HX40XfOFdDgl9wEr5eCm04qCtqAPcKaHUVXV6GuCQ/edpDeiKOg3pxJghEqIqq
+KxAJiwK8WppRhNoOJaveVlUEqgKVzbIL6GBspV+Vndrd5VePudHUnLiz9OaZqHHg
+rrw=
+-----END CERTIFICATE-----
+subject=CN=ifconfig.me
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3226 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

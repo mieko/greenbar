@@ -1,0 +1,81 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=SonicWall Inc., CN=*.sonicwall.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 11 00:00:00 2023 GMT; NotAfter: Dec 10 23:59:59 2024 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG2zCCBcOgAwIBAgIRAOAA7wCU0QadDRoY9MMybqIwDQYJKoZIhvcNAQELBQAw
+gZUxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE9MDsGA1UE
+AxM0U2VjdGlnbyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0yMzEyMTEwMDAwMDBaFw0yNDEyMTAyMzU5NTlaMFUxCzAJBgNV
+BAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRcwFQYDVQQKEw5Tb25pY1dhbGwg
+SW5jLjEYMBYGA1UEAwwPKi5zb25pY3dhbGwuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAu6khN5swDYngcY7PfdF/GAfXcCbO/GDvKWdfmOODkVsg
+eAGwp5lGj/Yx7gJVCqUjk+X4TBZgV6qoI8jDLmiXxhBfbi+bDGibi3HN58tqhr83
+62LZjLLMgCiS/OMYbDGKMA6lLE1dzfiAyYIVdhk3K+bv6v7+5H8EKB40kLuyK2vC
+lVcf65IjPsdHPk3qLaj9wUvD/tuShNGagNBRxEWRsKCFgHjBWlR43qWLjQT7J1Gj
+Tr+rDpzTckO+iL2kc63dR3MchQCgw5DvPaMagidqvIxPC3HNVzvuM6IxrOm4t1kE
+Kc8vvuwYa+sgtk6MP2iCAzDNjZIvdN+O4wlIJ/ZVYQIDAQABo4IDYzCCA18wHwYD
+VR0jBBgwFoAUF9nWJSdn+THCSUPZMDZEjGypT+swHQYDVR0OBBYEFDLDDTsO730d
+nP0zymcjqoRqvyyHMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBKBgNVHSAEQzBBMDUGDCsGAQQBsjEB
+AgEDBDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgIwWgYDVR0fBFMwUTBPoE2gS4ZJaHR0cDovL2NybC5zZWN0aWdvLmNvbS9T
+ZWN0aWdvUlNBT3JnYW5pemF0aW9uVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNy
+bDCBigYIKwYBBQUHAQEEfjB8MFUGCCsGAQUFBzAChklodHRwOi8vY3J0LnNlY3Rp
+Z28uY29tL1NlY3RpZ29SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJlU2Vy
+dmVyQ0EuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAp
+BgNVHREEIjAggg8qLnNvbmljd2FsbC5jb22CDXNvbmljd2FsbC5jb20wggF+Bgor
+BgEEAdZ5AgQCBIIBbgSCAWoBaAB1AHb/iD8KtvuVUcJhzPWHujS0pM27KdxoQgqf
+5mdMWjp0AAABjFoPsDIAAAQDAEYwRAIgKYOW29z7TAjH0nBZ2z3ooS5bIJtFe2T+
+/rA340eSRTICIA3Wc/zwHiUkqF8aWvzZ7NTkSOJ1M3UOVqtk8yjA/oPTAHcAPxdL
+T9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4AAAGMWg+wuAAABAMASDBGAiEA
+2IFXpv5LHMT5cur5NUxhX+1XmUFoaVwfU0dNf8s3jDgCIQCBT6NLyrBG23zmvIRO
+U3Gmcl9d5Rf4ixfwQ6Z8btF6AQB2AO7N0GTV2xrOxVy3nbTNE6Iyh0Z8vOzew1FI
+WUZxH7WbAAABjFoPsFwAAAQDAEcwRQIhAOvSa8togsfv+lUxZUjHEov4YwjKzO2m
+iAAN5S+1vrznAiAhxnaxizfZfPID9XrXTS4PkXz3JAuR6b/8APVEmMWLPzANBgkq
+hkiG9w0BAQsFAAOCAQEAimJ3W2nB3MtRx7TEArkH/FSzo0nqN9lDNJJjsIbpUw1g
+AHd/IKrYNWejv/97HPiDHrGky45qmkrQVdL3bh0fCupoRtUg6dxvNdqRulgszRPU
+5xvEJCq4XkJc3R/Lt3IJbWtIhtXc0etBrq1Mfs+qYGFEMu4Ft7wd/E5rDM/LwlRV
+2pu2WdX7SvAJZJ0DmYWPiEd9r04OTbdMDAOmq1qEF7Hchluz3p/u7IcBTy0AVFl5
+f6Nk9uKTPwsS/z+W9gd+OGkKSYXg6vfSz7GJPCMyy0/orwvsQNfrVKUnlu9BFE77
+6cPgq3qE77IcTWGeL82Kf4tmqU/LPxsM0gu6IS7/jg==
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=SonicWall Inc., CN=*.sonicwall.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6374 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

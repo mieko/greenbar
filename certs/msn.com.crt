@@ -1,0 +1,82 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=WA, L=Redmond, O=Microsoft Corporation, CN=*.msn.com
+   i:C=US, O=Microsoft Corporation, CN=Microsoft Azure RSA TLS Issuing CA 07
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Oct  9 22:01:23 2024 GMT; NotAfter: Oct  4 22:01:23 2025 GMT
+ 1 s:C=US, O=Microsoft Corporation, CN=Microsoft Azure RSA TLS Issuing CA 07
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jun  8 00:00:00 2023 GMT; NotAfter: Aug 25 23:59:59 2026 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIczCCBlugAwIBAgITMwCam+/P2y7733AkTQAAAJqb7zANBgkqhkiG9w0BAQwF
+ADBdMQswCQYDVQQGEwJVUzEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9u
+MS4wLAYDVQQDEyVNaWNyb3NvZnQgQXp1cmUgUlNBIFRMUyBJc3N1aW5nIENBIDA3
+MB4XDTI0MTAwOTIyMDEyM1oXDTI1MTAwNDIyMDEyM1owYDELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgTAldBMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNyb3Nv
+ZnQgQ29ycG9yYXRpb24xEjAQBgNVBAMMCSoubXNuLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAJmy/KQIuURG2ae/nvzqHvexieJsqpJV++oP4goG
+d2UUFu00Inv+eB89OxJ/IOkDfrlZg0KbpNTBI8xAUjVCsjXyJ5lX2PX+5BeglXxD
+c8xyDj42dg3eI2a0iDLxOqF+gkLJj2BiKVi2X2uni1ALoklJoXSqaS+O8dX9jlNG
+phfcGLwl+6eFSqQohw7Fnpq9KctFgrknePXLHdDTauTZmgIud3lGy+jGgx0uBj0q
+3jIREthpKaysYaxFU8M62GvTDWOVuq0gezBwBrRkUGAWzUyTV2wkkRmWSs3RDj1f
+YMCu5Xa0SV2n4KOE0TgsNTVKTx4uxRI5Q1bI08EKc+SbWIkCAwEAAaOCBCcwggQj
+MIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdQDd3Mo0ldfhFgXnlTL6x5/4PRxQ
+39sAOhQSdgosrLvIKgAAAZJzVkTAAAAEAwBGMEQCIFA4yxiqLCnC8zqN67pKLUOy
+ZK9n4NTFvrahJ7ZOs6BWAiAx9tJge+wL9QZIJEccljVb8VEpKRiuz+A2YywBVoQZ
+NgB3AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABknNWRaoAAAQD
+AEgwRgIhAPEd+DWCVw0RMnyNGiOM7q9cfAq+dVSerJZb8IossMmFAiEA5PncTegH
+SazFE5a9zPRqyHoTo3oIi+WU4k4CtlQILvgAdQAaBP9J0FQdQK/2oMO/8djEZy9O
+7O4jQGiYaxdALtyJfQAAAZJzVkWhAAAEAwBGMEQCID5ZThw3Z9ot+HEdHkilMfdl
+TD7wTkT7rALP10vl6WbsAiB8PJWR9tFt0Lkqg7dPrWKPcosGlyKzZq81VzhJ7Jxh
+gTAnBgkrBgEEAYI3FQoEGjAYMAoGCCsGAQUFBwMCMAoGCCsGAQUFBwMBMDwGCSsG
+AQQBgjcVBwQvMC0GJSsGAQQBgjcVCIe91xuB5+tGgoGdLo7QDIfw2h1dgoTlaYLz
+pz4CAWQCASYwgbQGCCsGAQUFBwEBBIGnMIGkMHMGCCsGAQUFBzAChmdodHRwOi8v
+d3d3Lm1pY3Jvc29mdC5jb20vcGtpb3BzL2NlcnRzL01pY3Jvc29mdCUyMEF6dXJl
+JTIwUlNBJTIwVExTJTIwSXNzdWluZyUyMENBJTIwMDclMjAtJTIweHNpZ24uY3J0
+MC0GCCsGAQUFBzABhiFodHRwOi8vb25lb2NzcC5taWNyb3NvZnQuY29tL29jc3Aw
+HQYDVR0OBBYEFD4ysicGoJfEiM9QgYjM2AWUjIKVMA4GA1UdDwEB/wQEAwIFoDAx
+BgNVHREEKjAoggkqLm1zbi5jb22CEiouc2VydmljZXMubXNuLmNvbYIHbXNuLmNv
+bTAMBgNVHRMBAf8EAjAAMGoGA1UdHwRjMGEwX6BdoFuGWWh0dHA6Ly93d3cubWlj
+cm9zb2Z0LmNvbS9wa2lvcHMvY3JsL01pY3Jvc29mdCUyMEF6dXJlJTIwUlNBJTIw
+VExTJTIwSXNzdWluZyUyMENBJTIwMDcuY3JsMGYGA1UdIARfMF0wUQYMKwYBBAGC
+N0yDfQEBMEEwPwYIKwYBBQUHAgEWM2h0dHA6Ly93d3cubWljcm9zb2Z0LmNvbS9w
+a2lvcHMvRG9jcy9SZXBvc2l0b3J5Lmh0bTAIBgZngQwBAgIwHwYDVR0jBBgwFoAU
+zhUWO+oCo6Zr2tkr/eWMUr56UKgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMBMA0GCSqGSIb3DQEBDAUAA4ICAQCmUMAeLPe3ubJ10UW9C2YirGog0oo8IxNE
+vjpwKZaoMF4AqepSkQ3KaafIPh2Y2nyS/hwUrliB8h35n9fe/VFxqk3/Mx7yHNUK
+/wYTj7wp10wUkMn56G4f/O5gh+zOH5caj1UiLUFiyIIZ4x3EoiwGnTMx8QrN9hah
+NGKj7s9zpPdVra8w2jh3GJIFFYObFKZ3RjpBrBWJkNaqEP4Lslpukr8itc2t4FVq
+VqIy9cuCwvNhBBAgilfVvAaPhsjhjABmB3GwGE+5qwRD/Sc+6BnfSTRYO3h05Suv
+O8w8y1ZOxOUsRc+4WGjnz+/A59X3L/pgvoKCDXVFz9JaPas8RVpbM+mcDJfI82rc
+Mx95YcRu1sqFrHGH6x5E23NLeovOT9fRtAsTeuvJR31Tp6IK6bqZEy3G+oHblVmF
+m5G5cUpOukKtR4K4nElMVv/z8A0g/40MkxQYtjiUDXYVvLF9B/M/v1h0CcTcDOtc
+HgAe7t/K7pinLvyV3L66ZNyZKNhdJ3XIqN1wFuoicxkYugCg0oUNRGNPNX/e2BpZ
+5FTpGuiApa5tRxfnpyxjePTl+3vErIQNd3yzrze+8gr6jP3y9ix/kazL/sJJ+BgM
+pE5uPidEFBEJavlSHT79nUD+8dn8Khgcco0k/jhvTf7MRkqFPVBrlJlhUaDf4/RZ
+WWxsIu5Dug==
+-----END CERTIFICATE-----
+subject=C=US, ST=WA, L=Redmond, O=Microsoft Corporation, CN=*.msn.com
+issuer=C=US, O=Microsoft Corporation, CN=Microsoft Azure RSA TLS Issuing CA 07
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, secp521r1, 521 bits
+---
+SSL handshake has read 4316 bytes and written 817 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

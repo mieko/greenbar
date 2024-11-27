@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=firefox.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 19 05:06:16 2024 GMT; NotAfter: Feb 17 05:06:15 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5zCCA8+gAwIBAgISAw+a95r5eQ/BJRt5+5JFL5pvMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTE5MDUwNjE2WhcNMjUwMjE3MDUwNjE1WjAWMRQwEgYDVQQD
+EwtmaXJlZm94LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL0e
+mO7xZp8huv7FA33t0bLP38iDKdUB9jcJt5tHwxEHE7Acdxt5EuGHTdXKx+m5Zmza
+joZDqCa1cax2qeiDpnEJ7I/0J8aJSactC0gtG4Ez9HLr1IJsRpRwmjJx0DbiaY8E
+12DyIXQc3MIDSe6n6hoEnglk4JIZ80Ry32qLMNCZLlGIuLSX/89z74C5IYh+L04+
+nlJiPG0fni8T3x4iGmvKXnY7QiCeCZVOuI4tXRsVd48I8IUTYeWSmtrhejTK7Kr7
+E7ojb4G27Nb9dVOLd23Spah4M/DWrL4aefInxL3SFidXKzDrJvtBYt8UbC2iKcKf
+rDrqCt6AaYFgwWIPUrkCAwEAAaOCAhAwggIMMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUbmBJsnf/E93jsHUlC1HhWVbI89QwHwYDVR0jBBgwFoAUu7zDR6XkvKnGw6Ry
+DBCNojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjEw
+Lm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iub3Jn
+LzAWBgNVHREEDzANggtmaXJlZm94LmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATCC
+AQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AKLjCuRF772tm3447Udnd1PXgluElNcr
+XhssxLlQpEfnAAABk0MGAD4AAAQDAEcwRQIhAI/e6rPgT3rAwJ+lFhgC2eNTsT7W
+t3jykB6fi9T/JViLAiAUn+YMchL9wenx2+ZjEdmKLVnaLRO7mzDjQshXEV1ViwB3
+AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABk0MGAQ4AAAQDAEgw
+RgIhAPqnEXkzE+L4uWerJJM4gMsbCtxTv4YAqrwiEtYHjOY+AiEAvpgFA4dJUCP6
++v3SBIfK5efWZ4VSZE5OddKAOep5sn4wDQYJKoZIhvcNAQELBQADggEBAKBhEP1+
+hxSl323/WYc/zGzMRtx8zfYw7am9HgFDK/b5odzZhhMv/Q7lV6BJ8WbSBrIVuwgB
+vd6y3BoqXzEG0dVQapP+L8SMIQl2HVVyZH/KVLVA9hDOn2QALiajyu1knE9EUsrM
+gZEQ73Dj3ESdO9hzdBOhEuRjuu/pRlqRgThu+W2OLYiHAPLnJXqGO3EY1nejKG0v
+hBMydygi912aXdtEPBXJ4lBRgshG4+mj9zRab22Cpvik8B9swoK4XSpEEs2D58rj
+GhaLVdCTob7Br0VI7nuE8VVGcv5XY9APFAwM3OxYU7Fc2hd7VMWZnGg1J99g10ug
+oSyMUyDSx8vUFCE=
+-----END CERTIFICATE-----
+subject=CN=firefox.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3043 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

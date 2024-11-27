@@ -1,0 +1,73 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.gemius.pl
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  7 00:00:00 2024 GMT; NotAfter: Nov 13 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGKDCCBRCgAwIBAgIQMGM6o4q20kr6l5y9ej6MxzANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTI0MTEwNzAwMDAwMFoXDTI1MTExMzIzNTk1OVowFjEUMBIGA1UEAwwLKi5n
+ZW1pdXMucGwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDMNGq+rGxs
+Ns4MrM8J0w0IJaAuLPNSL+yniYJ4bnfKrQ3q1U8In/13dmUjTjaSxHN06BnOfuSz
+zu551ZE/Xz1wPh3ioM4h1Ta+4xAfKow07EyiWNplM+PltDcqGafTdzNknk8Bi/CS
+2O/KWGkmYfA7X/BuMoMJIaRiNHpsAUgnoNIXp6EyFqbfpHfIPB83/ufQiHYgSP1r
+71sNNOqZ6FB+225QqpMk2dW//eIvbQwLZqiLSLeF/UKPlvrjk5r2rQP77V3+y7Tb
+dV9F0YyAbaUS12Ucfj8R550S/tglZy2IwDXseksSNtA3DhwEMNRpBDlF9XrTwH7g
+op3vj06Mek9hAgMBAAGjggL2MIIC8jAfBgNVHSMEGDAWgBSNjF7EVK2K4Xfpm/mb
+BeG4AY1h4TAdBgNVHQ4EFgQUXDtBf1r2yvPsDGUlK502Ee81znMwDgYDVR0PAQH/
+BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEFBQcCARYXaHR0
+cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEFBQcBAQR4MHYw
+TwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JTQURv
+bWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0
+dHA6Ly9vY3NwLnNlY3RpZ28uY29tMCEGA1UdEQQaMBiCCyouZ2VtaXVzLnBsggln
+ZW1pdXMucGwwggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB2AN3cyjSV1+EWBeeV
+MvrHn/g9HFDf2wA6FBJ2Ciysu8gqAAABkwYL9w8AAAQDAEcwRQIgEaCc911KTxZy
+GzUhSNoEpSylhPV/hPDKV0glDTTWAWgCIQC/3cuM05pGnTBO0anwLhx3P+hoyTz/
+/HfImKPkjEtE5QB1AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAAB
+kwYL9tMAAAQDAEYwRAIgIsqmfA6o7xbeG4JK6pRYORYX8XGJkYx+ffMWo6AWpk4C
+IExzE098vb335+TXOruffnuS9mWoAelxUO37f4SOeEeIAHUAEvFONL1TckyEBhnD
+jz96E/jntWKHiJxtMAWE6+WGJjoAAAGTBgv2pAAABAMARjBEAiAgGtpf5Ehip9tW
+OD1l/XkGwgX39uOfl7qtGA6DZQH3SgIgUPkdKvgGmAQjQwkjF1ljljb5UKjzGEQ8
+Gtov5wdVOn4wDQYJKoZIhvcNAQELBQADggEBACbKW6xxTTaHlM58KC9MFdrEAEg7
+tyT1AxKc4qQu4bxP/uR6fuclUnd6pRXqEUZibzt02L7BHAK/49qAY4K9ZsUkAouG
+63kzUpJq8hIr/6UxJkyoaxo/13a8CcWnJ1vOSIdRlDweEFdhR3O2KtI4TGm3AuMB
+E7Gd0pMGV6NolDM+u07Kb7mV32lHfcQ3qvJmvAdoiAgulDymd8YjQX1q8hCORGFx
+j5wD4dAV0/A+ARKadVsEwChuwYw1zVk8/ZUvIskNWkRQ6XhflV5LisY7ddoEiExP
+/3/029hBM9ATCaj55IT8QypwtQwcC3mMxQwo3fld1H1cdatlqbLEtLAxzxg=
+-----END CERTIFICATE-----
+subject=CN=*.gemius.pl
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5122 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

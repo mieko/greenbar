@@ -1,0 +1,75 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=RU, ST=Moscow, L=Moscow, O=YANDEX LLC, CN=*.yastatic-net.ru
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct 25 06:33:44 2024 GMT; NotAfter: Apr 24 20:59:59 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+   i:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jun 19 00:00:00 2019 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGbjCCBfSgAwIBAgIMXspSnhv4XVi+nDHhMAoGCCqGSM49BAMDMFAxCzAJBgNV
+BAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1HbG9i
+YWxTaWduIEVDQyBPViBTU0wgQ0EgMjAxODAeFw0yNDEwMjUwNjMzNDRaFw0yNTA0
+MjQyMDU5NTlaMGAxCzAJBgNVBAYTAlJVMQ8wDQYDVQQIEwZNb3Njb3cxDzANBgNV
+BAcTBk1vc2NvdzETMBEGA1UEChMKWUFOREVYIExMQzEaMBgGA1UEAwwRKi55YXN0
+YXRpYy1uZXQucnUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQKeP+QT+pHkWtW
+9R5LUhL1AaeUDdeWaKo6IVM3oYNwtPdxNaNk9ybuCpyFJ7HLYZ7PPoPGwybaMeP0
+Jc3r8we9o4IEojCCBJ4wDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAwgY4G
+CCsGAQUFBwEBBIGBMH8wRAYIKwYBBQUHMAKGOGh0dHA6Ly9zZWN1cmUuZ2xvYmFs
+c2lnbi5jb20vY2FjZXJ0L2dzZWNjb3Zzc2xjYTIwMTguY3J0MDcGCCsGAQUFBzAB
+hitodHRwOi8vb2NzcC5nbG9iYWxzaWduLmNvbS9nc2VjY292c3NsY2EyMDE4MFYG
+A1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3
+Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECAjA/BgNVHR8EODA2
+MDSgMqAwhi5odHRwOi8vY3JsLmdsb2JhbHNpZ24uY29tL2dzZWNjb3Zzc2xjYTIw
+MTguY3JsMIIBcQYDVR0RBIIBaDCCAWSCESoueWFzdGF0aWMtbmV0LnJ1ggp5YXN0
+YXQubmV0ggl5YW5kZXguc3SCDXd3dy55YW5kZXguc3SCEHN0YXRpYy55YW5kZXgu
+c3iCEHN0YXRpYy55YW5kZXguc3SCEXN0YXRpYy55YW5kZXgubmV0gg9zaXRlLnlh
+bmRleC5uZXSCFmxlZ28uc3RhdGljLnlhbmRleC5uZXSCFGpzLnN0YXRpYy55YW5k
+ZXgubmV0ghppbWctY3NzLmZyaWVuZHMueWFuZGV4Lm5ldIILaS55YW5kZXguc3SC
+DioueWFzdGF0aWMubmV0ggwqLnlhc3RhdC5uZXSCDHlhc3RhdGljLm5ldIINY3Nz
+LnlhbmRleC5ydYIOY3NzLnlhbmRleC5uZXSCDmltZy55YW5kZXgubmV0gg1pbWcu
+eWFuZGV4LnJ1gg9pbWdsLnlhbmRleC5uZXSCD3lhc3RhdGljLW5ldC5ydTAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAUWHuOdSr+YYCq
+kEABrtboB0ZuP0gwHQYDVR0OBBYEFIPiNJMrUbrjObHK7MQu6CKyyRBsMIIBfgYK
+KwYBBAHWeQIEAgSCAW4EggFqAWgAdQCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14b
+LMS5UKRH5wAAAZLCYY5UAAAEAwBGMEQCIFfUYkx5GtD47eX39ShnI3N8qBaWuZ9R
+I4W+cEv825NqAiAz2HDse2lX7gDam3EF9cp5Mn9pmH/CQwk5jhpzjXTftgB2AM8R
+Vu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABksJhjpYAAAQDAEcwRQIg
+KMk3PziuuZrEcxCEux7YUaqRmW8FQoSRx4Eg2JMpS9ACIQDXVdq5/+VHi8WSUztf
+HKfJH/Smp2mL3EOwCRsktSpvBgB3AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6
+ZLFimjnfAAABksJhjjUAAAQDAEgwRgIhANHllwnozWKnwZLvLqihEKpGPFg2J+0i
+6GcYa2LbZHr6AiEAhEE7eDE2iH4KF8V1rnKFC/oLtXexJs4WmaZ1tDKIHb8wCgYI
+KoZIzj0EAwMDaAAwZQIwCVwtj3HTOHKIfp4AKiYNFsJqbo9Tj8yQzsL9cHwXj8Yh
+x67Ni9Ip1H6DFkf1vtGfAjEAw8VZf6FeZbn8I7ehQUMFJvvHMNMyKkC3g5obe+z1
+StdnAJ0KRjCjmAKo6bcXPUHE
+-----END CERTIFICATE-----
+subject=C=RU, ST=Moscow, L=Moscow, O=YANDEX LLC, CN=*.yastatic-net.ru
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3748 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

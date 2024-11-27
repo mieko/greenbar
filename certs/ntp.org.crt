@@ -1,0 +1,74 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=ntp.org
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 19 05:02:13 2024 GMT; NotAfter: Feb 17 05:02:12 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE3jCCA8agAwIBAgISA9DTXsGTu8ke0Z+A3rwnszNfMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTE5MDUwMjEzWhcNMjUwMjE3MDUwMjEyWjASMRAwDgYDVQQD
+EwdudHAub3JnMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvYhRoZgl
+7UL5IbVi9f/1UrbHGolmLeg2oswX9dE+SwT3iak9CHplY68ouH83eKY/Cj44VR+Q
+hhsSI9izBEKl4/6pHldT0bnUP4bKSqqwDd6EpZKx6SqT2sRfgOVus2Ms8mjoO0TU
+BbrQlbUU+ZiFGOCYf9xdPxxiBAI8aPjD4K5TED+7y2rEqfP5Uxta5XwWsZNMRSeQ
+dG0hQQkkRJXj4C06vtRS0khFHKYFXXiqSBnz3ytAaclIlLhcDQvCfFUxX1UJrHFo
+olBtQnMCkjcfvKAQnJgARAia0ropFQkaAfBdLOCtz8u8ZKgxOsb2iP5t5o9BoGf0
+qEFigDLJJavg7QIDAQABo4ICCzCCAgcwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ1
+ux6IKYVNKjM3PCxCACjpOxMX8zAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIMEI2i
+NeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAuby5s
+ZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcvMBIG
+A1UdEQQLMAmCB250cC5vcmcwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEE
+AdZ5AgQCBIH1BIHyAPAAdgATSt8atZhCCXgMb+9MepGkFrcjSc5YV2rfrtqnwqvg
+IgAAAZNDAkrkAAAEAwBHMEUCIQDeEPXy/2/viaSORN7JF4wC6QI3lOXzzX7u8e4f
+GvHBpQIgLh1LdAsfXiYck4dT6ru5xGdjI/G5g7nkbYCMjxdnyKsAdgDPEVbu1S58
+r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZNDAlJmAAAEAwBHMEUCIAGbAIK+
+fXdL0ZvrA/Wm7aZVttswj30Bj5YqPMkeTIADAiEAuIt1KnPsXWG+xews0z0MLJID
+jEVnG8KbtN9zkUKuXukwDQYJKoZIhvcNAQELBQADggEBABYkPmowGCSKB+JHgSwM
+35tW7BzyQifzA68E6GFeiyfuVesnaxXR+nGTwXGI1fjRVHS7DyWgSIGE76TcajAy
+F82xtHIGNk5d1jyi1RMX1MMhrD713/1uGNZ59o9dgvH8Ygh7mtIt+435UJh6lN/a
+9QgH3GoCbZznnUGx/1D1AUV4iNGcp1fMq9qQFvtjuhISRNtXk0tt81zeTg8nUo/t
+7SiC/9qv34kza+3egNRE86dOr7e/dsT4nZwOEGMKxq30V0U5mLlfsmEQclHBrIGX
+PuJW8URm5rloErJcEtOgBGbFmYCUcrP9HgNNOPoyKif5XOSrFqc7w9YpfPenY61g
+Qko=
+-----END CERTIFICATE-----
+subject=CN=ntp.org
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 3057 bytes and written 444 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 894952DEBB287737460CC9EDB983849FEF4501FE124C409FD6C24DD5842569B8
+    Session-ID-ctx: 
+    Master-Key: 5352DFEEFCAABCCBD3A23A984F5E77A8B42F8B29DEE70336CBE01FCC8F75E01E7A6BCEA4ADB6D43A0691F0F55A8E87A4
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697596
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

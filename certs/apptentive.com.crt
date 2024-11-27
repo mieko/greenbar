@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=apptentive.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 22 07:31:49 2024 GMT; NotAfter: Feb 20 07:31:48 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDmzCCA0KgAwIBAgIRAIHNHOPk83nVDU+wNVaAgh0wCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEyMjA3MzE0OVoXDTI1MDIyMDA3MzE0OFowGTEXMBUG
+A1UEAxMOYXBwdGVudGl2ZS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARb
+N6OE+4ODSXL1ljvHGrdnvbDINudu5MS0zrrIuXZ4YfVx5LDbIr5C9BMzBvHHzOvx
+JAFVQcpGk2ACKAeMGs0go4ICRzCCAkMwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQM
+MAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFYwfaeGuOKB1Tbw
+Odz3gtK3x0wcMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsG
+AQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEv
+Z2MwMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MBkGA1Ud
+EQQSMBCCDmFwcHRlbnRpdmUuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1Ud
+HwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9UMFZrRThMQWJSOC5j
+cmwwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQDM+w9qhXEJZf6Vm1PO6bJ8IumF
+XA2XjbapflTA/kwNsAAAAZNS/7q1AAAEAwBGMEQCIEryYMMwD5lKCYKFbDy/w1XE
+7jJN83HpJ9gtjVHW39mOAiAiCyd4x2cn2I+dtFYEWNG3baekL7Ti68eMRr6XgEQ2
+7gB3AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABk1L/tpMAAAQD
+AEgwRgIhAPQr52jt7v58y7xkWhk5Q5JNRJ/1uHKs8w7ziJqm+yafAiEAqx5F38ll
+FqTL5A9KFUyMRupcXzMONDzNb7H3NS9B444wCgYIKoZIzj0EAwIDRwAwRAIgZHiN
+ldymgRAIqqWKTHl/FwYzjC4OnyybyulPTci6PyMCIDR9CX9BhH6vr87viZ3l4vFk
+gJkIKeFsRSQB5Dm452Ea
+-----END CERTIFICATE-----
+subject=CN=apptentive.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2815 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

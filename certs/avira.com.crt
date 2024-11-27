@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=avira.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  1 11:05:59 2024 GMT; NotAfter: Jan 30 11:05:58 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5DCCA8ygAwIBAgISBEkfF4SDa7jh5Gsa9KE0+1WYMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTAxMTEwNTU5WhcNMjUwMTMwMTEwNTU4WjAUMRIwEAYDVQQD
+EwlhdmlyYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC/aPn1
+htMDk3wmnRYhJLJGQt21JWCWHuvdiYzlEyqxjDo4or/bmTEO1qJW0F+HqqkL31J/
+vbfb0Klv7PmPCFUybg7rTaEvCRmyhCg/A8KVEFJ7AkFCx94L59IwfYbiX+XFGocn
+iS+346oiBk4jMp1Q37aJKtwHbMuLBDZcaAss0NS3GQeoKU/BgNClNMdleUJUp1Or
+PgYkoUELjETl1gRxYAs2CUvW6RuXnlPGUI+ZswZZ8Tg/qW/2KBqpiFConnjBx00J
+l3lDGw4AM7bnQNSXZD7xutGmAosI4IILGyqRVdGq7WNTpa+SCpoDZof4KGjWZcXX
+nTuhhOg8IWwJzXqLAgMBAAGjggIPMIICCzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FGWg0eVsTJkD3qDBC3QYWccUNgmmMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2w
+XpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5v
+LmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8w
+FAYDVR0RBA0wC4IJYXZpcmEuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBgYK
+KwYBBAHWeQIEAgSB9wSB9ADyAHcAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/Z
+DowuebgAAAGS55zb9QAABAMASDBGAiEA8bAwOIhzkZVxGRdp4uG0jYy0wPhnkNeZ
+EpNZb9MJho8CIQDChpCIsY+EHsC7Ntd9MAVMLoY3IrkGGhhLV0Rm+13j8AB3ABNK
+3xq1mEIJeAxv70x6kaQWtyNJzlhXat+u2qfCq+AiAAABkuec3J4AAAQDAEgwRgIh
+AMUeqMjfEqJlhQ+qwDSvcYYK8ZdgN8Tah1QnFxM6rsO6AiEAoBtMa/kGFtQ4eVWN
+uUsEKSVyIBPKMFlx+lvS7NzjBBMwDQYJKoZIhvcNAQELBQADggEBAF/t0V9EGRAx
+GvUdXMifdP9ZxWiLwWKNw0eDOLfIR6mkn/v2qtqJmjVxxigV2yXfgqH7QfTuLigj
+1fWIwSLhCi+2191/XsKSC6aWEB/AnMjJx7/7LS1S9ZbsSBdMvHmrFv8eFc0CblC3
+zln+XqoOtVyRnz8beUpO7a4DEf95N/+7/RM0gtIPmZLv07tJBmR1tqGkNq7gxeGs
+1LThzYKyAJt5yK4osONDRk4MoF3zoK+XkFP/hEUmYgF4JeGwljC+JBlI8w8aBuF+
+bo5JOOmpVM2rFDv5Pnm8fI9IClCnHFVuBv0vI25R/ES4f94gjxsEyavYp5+m7KFk
+GmHnwqGHZ2Y=
+-----END CERTIFICATE-----
+subject=CN=avira.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3111 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

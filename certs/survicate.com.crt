@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.survicate.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 19 00:00:00 2024 GMT; NotAfter: Sep 19 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGNTCCBR2gAwIBAgIRAODMhv4QBbHE3Nk58/n9a9UwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yNDA4MTkwMDAwMDBaFw0yNTA5MTkyMzU5NTlaMBoxGDAWBgNVBAMMDyou
+c3VydmljYXRlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKXC
+Txde139d2QNkrtAC8x2l5RmlUS2Snb/EZHxde7LLpfcI/xBLBgv6LO971NGEPGDh
+yxgi/c6DW43Wc46yV7EeIoR3bsjFOGkb1SvmNzGP46vP6o3GZ4vb9h435Yr290Rg
+3s6OEO8jTj4dZ/P8neDMZplP7uZdjQocC0T1s19IHOk5HWWmDHnODo35uRohuNUy
+Y+IlIxb3vJtamkKmGx6Mnps//8qagCspViP5vUp/6L0y5l4kaZV4G1dh4YhjM5vY
+8otiN4qFI/rpVFytMk3nWU/zeBJUfYZdC8aVPuiFVcfAQAYm2xDhGSivCio18N8a
+AhsUKkRxXVbQES6GjWsCAwEAAaOCAv4wggL6MB8GA1UdIwQYMBaAFI2MXsRUrYrh
+d+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBR/d5rd9mGl1KsRsJpMp08qc3U7uDAOBgNV
+HQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIB
+FhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEB
+BHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdv
+UlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcw
+AYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wKQYDVR0RBCIwIIIPKi5zdXJ2aWNh
+dGUuY29tgg1zdXJ2aWNhdGUuY29tMIIBfAYKKwYBBAHWeQIEAgSCAWwEggFoAWYA
+dgDd3Mo0ldfhFgXnlTL6x5/4PRxQ39sAOhQSdgosrLvIKgAAAZFqDklAAAAEAwBH
+MEUCIBOaYgm8sI7fZtpNAumyv61l2wMgcqTaoQLTVkHEEVcoAiEAovi/pNWSrxQj
+3+8CKI7jDnh7nntGHDHAQjI7osus/28AdQAN4fIwK9MNwUBiEgnqVS78R3R8sdfp
+MO8OQh60fk6qNAAAAZFqDkkcAAAEAwBGMEQCIEGfd5LUVrryonxp03q02uxs/KiP
+JZ29UKarCXkrL/qfAiAh3/0gzRWQyS2pfIRAnU2EFhTXzf0WqMs5hpFmSl8IGQB1
+ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABkWoOSR0AAAQDAEYw
+RAIgKrUZDHC3nAcVRB84+RpJ0xcxZYUD5dUOFNZg/sUeWsoCIHt2i2iYiPOt1im4
++HB772TiNmTnwcojD7vY9p52X/hMMA0GCSqGSIb3DQEBCwUAA4IBAQCLxDwK4Hbw
+knNNAO/FxLFvSN3fF1IQ6x5CqkL2BlgkPl37Kbkr1DAcfPqeYH3j48wD4G+TyhlV
+T26xS+qQp0RQPZxBA4SWGuGTDxPb3ABGfLj9bCntJJ2s2A61lAm6Qtdj1494hYeE
+L/gbqW+nqog6CIGh6MX9gmKHGoQv+lIKCKnyXSVtx818vGBW5OgW6CtNULAneKPd
+qVoRkpholpcSEh5Z6hnub88zoLCj0/I8Mwaw6GkAiPAHgv5SeCvf/Z85et2Rrf2n
+XcaQU3O6r5RqzKEeqU3xkAUT0QxWHUJiLw83fLSUCSOzbJXF07HzFpR2ka+CrR/4
+Yo1HN7F1bsMg
+-----END CERTIFICATE-----
+subject=CN=*.survicate.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6202 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

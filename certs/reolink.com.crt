@@ -1,0 +1,77 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=reolink.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 31 00:00:00 2024 GMT; NotAfter: Apr 30 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGKTCCBRGgAwIBAgIQCh2O3EP5BnGVvlEEBpsoiTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDMzMTAwMDAwMFoXDTI1MDQzMDIzNTk1OVowFjEU
+MBIGA1UEAxMLcmVvbGluay5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCoO/fXA4As3SxKGw4rmFwMY8cvfbiQPM2VgbHzXzEILT7wU77/CcTxgP1z
+uBBj4wPecGb/XK5v1PHYAu0DKOn2t4CnPbB02gkWfuHzr43DBODROW8L3FNMHQgl
+sab/UeY3OJrH5coycmBM+sQMf3JKmVof8jCQsK7KOQ10vwIOvGN0tr7ddGcwnxv6
+Xh4X/mHkIEvrMlthSxh7+y5eQ28m1tutnGGQFMwJN69JAtnKHsHxGLm/+RsDWx+v
+H5rsnQ7CAhzY16suMzry7lqoo0OXk213siqck8qB3LmoCwJtZjvVgfag14CMMreF
+Lh42/e7iVFmpXhaW3AHQZNCoMiStAgMBAAGjggNLMIIDRzAfBgNVHSMEGDAWgBTA
+MVLNWlDDgnx0cc7L6Zz5euuC4jAdBgNVHQ4EFgQUMMmGk5noh5VABDZQ+nHzCQ15
+W74wfAYDVR0RBHUwc4ILcmVvbGluay5jb22CDSoucmVvbGluay5jb22CDmtlZW5j
+YW1lcmEuY29tghAqLmtlZW5jYW1lcmEuY29tghMqLnN0b3JlLnJlb2xpbmsuY29t
+ggwqLnJlb2xpbmsudXOCECouY2RuLnJlb2xpbmsudXMwEwYDVR0gBAwwCjAIBgZn
+gQwBAgEwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnIybTAyLmFtYXpvbnRy
+dXN0LmNvbS9yMm0wMi5jcmwwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFo
+dHRwOi8vb2NzcC5yMm0wMi5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0
+dHA6Ly9jcnQucjJtMDIuYW1hem9udHJ1c3QuY29tL3IybTAyLmNlcjAMBgNVHRMB
+Af8EAjAAMIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkAdQBOdaMnXJoQwzhbbNTf
+P1LrHfDgjhuNacCx+mSxYpo53wAAAY6Shh7lAAAEAwBGMEQCIDpz9QASy//+m6IW
+PwuAV3AS+9L9wBZqO7/WPfci+NojAiBfeY185XpBmlm6CLLbjN0h9CKxdYqh0jCB
+xc6uDlFWBgB3AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABjpKG
+HuYAAAQDAEgwRgIhANMN4WUDnBfpMeqMu1JJrj0T+ZHst/Z1N5eAbTbcdPQMAiEA
+mK1QmWgP7fo8Cv+bHCOT4fo22MhdeoEbsepDlGtijbEAdwDm0jFjQHeMwRBBBtdx
+uc7B0kD2loSG+7qHMh39HjeOUAAAAY6Shh8MAAAEAwBIMEYCIQDHkZVqHZmnXAUh
+Hq9SgERZD4J5czRUtUxKr1zHfpEX7AIhAJjlZdf0bRIW/fBJToV4mqIQxCWx4qmW
+UKYRr2jbKJa3MA0GCSqGSIb3DQEBCwUAA4IBAQAUOPoo9onTS8DKi6LEbMx8Zh7w
+WMeXNQcj34K8Qz4WZyrC6xqD65eYpcRghvYvCx41iFzGn3eGJW3WTi77nWklfQCT
+HEbg3HFMGaofepWwysz5iLd65Js8abN52qHySWiLIJ8wDJ4wpWN68KG0GJcof4xg
+qla9o8uFjhOYCxDba7iAdHMQjtc0onUhyspE/x1GIhEzCBAzpWiXpqtPvK/chVXv
+cCVTPXL7Ojj0ghLmB/vFQbyUxMi+gjJdVklN1wvoZh24yNC0UhGyqn3ICzOezJqY
+AeQ7HMQoX0JbfOCuxHU9liCkMUGkOzuNdF88J/FLmseP7Dyk1dDomTwYcQY8
+-----END CERTIFICATE-----
+subject=CN=reolink.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5581 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

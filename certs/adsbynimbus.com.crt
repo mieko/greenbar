@@ -1,0 +1,91 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=adsbynimbus.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 11 20:03:57 2024 GMT; NotAfter: Jan  9 20:03:56 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE7zCCA9egAwIBAgISA0jf/rO5s6PlACVgLeyNmya8MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMDExMjAwMzU3WhcNMjUwMTA5MjAwMzU2WjAaMRgwFgYDVQQD
+Ew9hZHNieW5pbWJ1cy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDcs1J1gMZ/hSvVcVxd0LSKKTS3cs7Kpva+D+JCATg0fCic2Qbun4DKp+T+LLqj
+wDOyxI+bWvXaIK5Eecq4IClWhF3Cm35HOWd0LmPdC3mbByvMgsbcem7XQiKqmhuo
+R6Jo+5Jyf6lDvoJh3FR0RJ95dyCvcWhTcphU54gaded7AWeiarppZey/QhUYwa95
+7Y2s/krkaPxyKhUIZ3NI7aL3Jg053q9dPwmKofNBrxYpayoI5a/h7h5QfkSZrdpQ
+adRCCpJ39njlTBauFqellC6lth0egF+gPtO6eMU0YlQiKdcPlTKk3ApebEoAmXs4
+4WWuPEht2pxh+xFPbV4Pa7BdAgMBAAGjggIUMIICEDAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFCqord358yW008heKlyLzVBcjoPoMB8GA1UdIwQYMBaAFLu8w0el5Lyp
+xsOkcgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDov
+L3IxMC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxlbmNy
+Lm9yZy8wGgYDVR0RBBMwEYIPYWRzYnluaW1idXMuY29tMBMGA1UdIAQMMAowCAYG
+Z4EMAQIBMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAouMK5EXvva2bfjjtR2d3
+U9eCW4SU1yteGyzEuVCkR+cAAAGSfWPTzQAABAMASDBGAiEApzeYP8aDlIKurj48
+iffjxDCCDTYceCvKluRKc2Tp0CQCIQD8q0BZXy8lY5ERfBxlUYig7ts8Wjg1V4bq
+Al4/z1VKMAB2AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkn1j
+1BMAAAQDAEcwRQIgBVoQAfXUmhxobuxbB5gSNDc2F+ae+YeRyf2INNfSn1kCIQDc
+6uqaIpyeWSO+vU+ngjPvuCGYvrKSQvG0fEmzJtGRijANBgkqhkiG9w0BAQsFAAOC
+AQEAFIiOCfyjM559LRVlSMh0xNDpVBNaFaMqvVkZpW56ccxNLaqk+A4tPvdllqVv
+EFBQw4cE5CGX3ONqoSV5fUPFv3g3AJCrmBv5JKoo4LsU/TEvDVDlvbaVaZWgAYE7
+D7xXTtGDnW6UQSYiS7agRgbNVAfCFO3mIMh9T7ZXadY22S92djqj2mYRLLhDooWf
+0cppy3Ye2t8sLAWTdthHK1XcNQMsQLXLSEQbRpTdWAtq9UPRGHxB6cdJoMWo/9NK
+wR2ofGF+MIU4lLuUUSRgl4YV9UE9AW5coStuf882x0kVWSJiuRRBesxeBlScQo7N
+dctmxbzr/+WAeLgkPEfnM66vEQ==
+-----END CERTIFICATE-----
+subject=CN=adsbynimbus.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3101 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 7344BACF7EE74826805AF59D24AD24A766239C4C7AEF19857C012D74EB774F09
+    Session-ID-ctx: 
+    Resumption PSK: 599071DFFFE495E1BC4E75707623B10B423D97EF5C66CA7B4248A06B0F087478
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 62 b3 12 ce a4 73 a9 d1-8f 48 28 61 72 ab ee 31   b....s...H(ar..1
+    0010 - 99 6e 5f 4b d3 ea 3e bd-a7 e3 84 c8 b5 1a ea cf   .n_K..>.........
+    0020 - 93 73 7f 89 14 a4 74 50-84 a6 8a 22 ec bd 31 50   .s....tP..."..1P
+    0030 - ce 55 3e 7b 5e e5 b4 ef-ec b0 0e 30 45 1b ac b6   .U>{^......0E...
+    0040 - c7 65 26 95 d2 05 3c 29-ee cd 1c 3a 0b d7 38 ce   .e&...<)...:..8.
+    0050 - 16 91 73 3f 96 2e 60 b1-94 92 bf da 03 73 5e df   ..s?..`......s^.
+    0060 - 95 57 35 72 b4 c0 f4 8f-11                        .W5r.....
+
+    Start Time: 1732696889
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

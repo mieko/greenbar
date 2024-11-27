@@ -1,0 +1,72 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=nubank.com.br
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  6 00:00:00 2024 GMT; NotAfter: Oct  3 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF1zCCBL+gAwIBAgIQCjSRbRmGnzFxnjE891Sv+zANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDkwNjAwMDAwMFoXDTI1MTAwMzIzNTk1OVowGDEW
+MBQGA1UEAxMNbnViYW5rLmNvbS5icjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBALc4uNcU7ArjfLLRu40Lai6UWh8hfrqUopNPwOxd33GdEqy/vTakaSGc
+XJO8ng2b3PwDW67sucUkldZFn3SwJxk5xxtVXynuP/Iif7LcZj9kTnbuas+DdVMd
+ZTlNZ8hR0WhKqFQcuSCmijwpf6LjbYZmvBRcBl9G7SCzOg7n/s4rRbeUBe/HhBPA
+5wWZzNLl/QD8KY6/1ZtJOKzggN8rEQkcBKn47jXLU4dPcnQHSotTZHFEgxtlCQZ7
+Dsuyur2Tpq4j+OO/f26ZbOFGaHl1mDgWnM0+ALWmCNe3FW/r2imTdlIGXEaiFT1a
+0pWU0XWa0J8mHLiOwAr/WsNqROiYnYsCAwEAAaOCAvcwggLzMB8GA1UdIwQYMBaA
+FMAxUs1aUMOCfHRxzsvpnPl664LiMB0GA1UdDgQWBBQvx4G8t00BGv+kvq1smVPe
+k2Bc1jApBgNVHREEIjAggg1udWJhbmsuY29tLmJygg8qLm51YmFuay5jb20uYnIw
+EwYDVR0gBAwwCjAIBgZngQwBAgEwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3Js
+LnIybTAyLmFtYXpvbnRydXN0LmNvbS9yMm0wMi5jcmwwdQYIKwYBBQUHAQEEaTBn
+MC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5yMm0wMi5hbWF6b250cnVzdC5jb20w
+NgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQucjJtMDIuYW1hem9udHJ1c3QuY29tL3Iy
+bTAyLmNlcjAMBgNVHRMBAf8EAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgA
+dgAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZHGkqVaAAAEAwBH
+MEUCIQDCIj1Z/088bDbWVQ6ZwtFBoC6DXTHRLUnW+mt41hVaNgIgf6ogtfggu+3x
+qsEbJtfY0dOwIu09M37g1Nf5AQec40AAdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6V
+nrkDL9kOjC55uAAAAZHGkqUkAAAEAwBHMEUCIQCVY4mRgGyL1he8yLvZydr9ofEO
++4Ololt1QDpC5WedbQIgX4faIurk1xkCjFAaiYQ7rV19GzjBJqq46TLklNGBBogA
+dgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZHGkqU6AAAEAwBH
+MEUCIFKJDquSbojxvplAHdu8YfKk4lUEo4dBhMZbCA5HXe9dAiEAlR4jUMYLcGnN
+shiTTOM2mI0k2jKgcegL2nee0rWbf/0wDQYJKoZIhvcNAQELBQADggEBAH4Ao3Vh
+MN1DX/w7wFiK3fnsIQaYGZKhzCLQASav1Tfh59BXBtuJtDYUYDuDqOtRsonmyWST
+jicTAC9qGFyZanvJGf6Kg3Rq7VfDDXA78YGGySmwQ3KqF79LA4L2v/ppzfcrZUvL
+ZlvrO/mnXjATGpCvk0/IJ081qOi4gqp0Kdlr9SJPU9BEuQlIQ27i+URjRwp+ns1S
+AVIlLwuM3iJ7AGo6J/gEvkd5hNsygHTxx0r69VyVWksfzHfM6S5Ogkce0ltLXWBc
+oVSmGdAD+DMkzZ+WHXO9/e25X2AN5YtOmECWwK8Oe8kNM7gLCvksC2kBzBueRbPK
+5zrtx8vZLkYQE1c=
+-----END CERTIFICATE-----
+subject=CN=nubank.com.br
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4349 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

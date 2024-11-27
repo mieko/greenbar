@@ -1,0 +1,61 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=coinbase.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 22 23:16:52 2024 GMT; NotAfter: Feb 21 00:16:50 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID2jCCA4GgAwIBAgIQXdz6zQk6F/QNWgiRcGRYNjAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTIyMjMxNjUyWhcNMjUwMjIxMDAxNjUwWjAXMRUwEwYD
+VQQDEwxjb2luYmFzZS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASkq5jG
+GaI9HrDBgLhVug4hEW1330eZgSKWEpAOhSO8RXzk9WxJ9+HVazzZTM2aNWYcHkbH
+HFEb9PoqOtc+JQBCo4ICiTCCAoUwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoG
+CCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFF5IiyJnToPqPgD+AJWV
+Bmy+g43EMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsGAQUF
+BwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEvWGR3
+MCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MFsGA1UdEQRU
+MFKCDGNvaW5iYXNlLmNvbYIOKi5jb2luYmFzZS5jb22CFCouY2xvdWQuY29pbmJh
+c2UuY29tghwqLmNvbnNvbGUuY2xvdWQuY29pbmJhc2UuY29tMBMGA1UdIAQMMAow
+CAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dl
+MS90NjJFdDRXRTVRWS5jcmwwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwBOdaMn
+XJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAZNWYOzsAAAEAwBIMEYCIQCz
+nkN1lny98zFUfhjdaBrLSNp6qjJmyVPKLZt95JZpLgIhAKdwEgzp/XZGUzN90nKl
+og75mVpp6rf/ZHsZrIMLLgYDAHUAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5U
+wP5MDbAAAAGTVmDtKAAABAMARjBEAiAjshvP7rbF+17ACzp/1yAE6prhii21AV8D
+wCf0wZUjXwIgCD7WADwD/R22y6XucDGpv0Lbupet88nnsDnlG1Dfj8wwCgYIKoZI
+zj0EAwIDRwAwRAIgDV3+FDd1/a3Ia49ugQ+ttfKhuUOaQahpbvbG5iCO490CIHfY
+ZrgpQjztAubHnnz/M3ISmwqTh4V9GEPtWHdQWud+
+-----END CERTIFICATE-----
+subject=CN=coinbase.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2879 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

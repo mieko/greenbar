@@ -1,0 +1,84 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.nessus.org
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 23 00:00:00 2024 GMT; NotAfter: Feb 19 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHdTCCBl2gAwIBAgIQARCszvft5CFT9DltN71x0jANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDEyMzAwMDAwMFoXDTI1MDIxOTIzNTk1OVowFzEV
+MBMGA1UEAwwMKi5uZXNzdXMub3JnMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA6Nb6JrRaotEMQYpaMO3uCKAUQxKFaYqKCl6ZBa8tg+GSxF9oRT7UGVsn
+hRq0/dM+yDMDCdIvl03vS8AihtGdZeQnStpQKOpatfEa636UoKeiWg0iNKx4qML9
+AeJmPRl1GlT6KE6rKN4LwrAeuu7ilDzy1XPbZ2k+bmyJNLopoXPF3hl6ahzehBzR
+ZpQ8LBdt2RurSfvWRcRK8wbwbunLs9FN1mWrFDwRWlCutVXSiMdBY37FLSf5gNeA
+2AZtsLIMLKdE12x6h+yOfy6P2SOZwBTc9nv0w5D2up/eWX6+YAYb6jnv6sdOZJWB
+ehghW+t4+gye8SkVJ81suGeCow7FCwIDAQABo4IEljCCBJIwHwYDVR0jBBgwFoAU
+wDFSzVpQw4J8dHHOy+mc+XrrguIwHQYDVR0OBBYEFPChypntb6EIm5HiK+0df4HJ
+hlBlMIIBxwYDVR0RBIIBvjCCAbqCDCoubmVzc3VzLm9yZ4ILKi5uZXNzdXMubXiC
+CyoubmVzc3VzLml0ghEqLm9wZW4tbmVzc3VzLmNvbYIJbmVzc3VzLm14ggluZXNz
+dXMuaXSCCW5lc3N1cy5jbIIPKi5uZXNzdXMuY29tLnZlggluZXNzdXMuanCCC25l
+c3N1cy5pbmZvghAqLm9wZW5uZXNzdXMubmV0ggsqLm5lc3N1cy5qcIIPb3Blbi1u
+ZXNzdXMubmV0gg5vcGVubmVzc3VzLmNvbYIKbmVzc3VzLm9yZ4IJbmVzc3VzLnNo
+gg5vcGVubmVzc3VzLm5ldIIJbmVzc3VzLnNnggsqLm5lc3N1cy5zZ4IRKi5vcGVu
+LW5lc3N1cy5uZXSCCyoubmVzc3VzLnNoggluZXNzdXMuaW6CECoub3Blbm5lc3N1
+cy5jb22CCW5lc3N1cy5pb4IPb3Blbi1uZXNzdXMuY29tgg1uZXNzdXMuY29tLnZl
+ggluZXNzdXMuYWWCCyoubmVzc3VzLmNsggsqLm5lc3N1cy5hZYINKi5uZXNzdXMu
+aW5mb4ILKi5uZXNzdXMuaW+CCyoubmVzc3VzLmluMBMGA1UdIAQMMAowCAYGZ4EM
+AQIBMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5yMm0wMi5hbWF6b250cnVz
+dC5jb20vcjJtMDIuY3JsMHUGCCsGAQUFBwEBBGkwZzAtBggrBgEFBQcwAYYhaHR0
+cDovL29jc3AucjJtMDIuYW1hem9udHJ1c3QuY29tMDYGCCsGAQUFBzAChipodHRw
+Oi8vY3J0LnIybTAyLmFtYXpvbnRydXN0LmNvbS9yMm0wMi5jZXIwDAYDVR0TAQH/
+BAIwADCCAX0GCisGAQQB1nkCBAIEggFtBIIBaQFnAHYATnWjJ1yaEMM4W2zU3z9S
+6x3w4I4bjWnAsfpksWKaOd8AAAGNNdwRHgAABAMARzBFAiEAhPsXqkpu7XGB4ixg
+9zHujP7GBNYTZtKFaduveYD6vrMCIDESnkRBf4mKG7aoZuTc6cekzf5+MVPwF6yO
+o7H+pEutAHUAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebgAAAGNNdwQ
+kgAABAMARjBEAiAzu+Az+8n5hUxVNlc6f8QVliBSe+DV7qCJ/9Xhh0SVHgIgPTPA
+QBRdbi6bBnZLeWETbtGzoQl0Q0ADIAkfr34KMH4AdgDm0jFjQHeMwRBBBtdxuc7B
+0kD2loSG+7qHMh39HjeOUAAAAY013BCyAAAEAwBHMEUCIQDJGBkoN7huQKMij1oU
+fYUhLouIiSEH5Tbzjhx361jgOQIgH9Rg4T0H91jpD+0LxnHjwP6kLk+aUNJR4T2R
+7MgSm5swDQYJKoZIhvcNAQELBQADggEBABMiKfzg5HhmLizDohW5y3T4DcZeBemP
+mMHgJNpkEQT5ms4qFNHaWiGotT99wWYjd/RKGJ7yY5M7QAlxZE7EhRn26ClmqMw8
+kqzWRf4T+NmLoUgCTSPCzf8zF5Lsz0bBmFaDCwZaqm0Sxk63vY9reSP4OYkjKzWm
+ONUpYEkXnmwapxXEiElYH8a/T48RqVs648KBL5BLx84GjoZOpsWjF00IaQLxy6Ng
+9UPtMnqsyxv0DaZy8mEg8RjfdHOl9vwHBhnEM6eYnc6O+sVtH5zL2gY6vlHV/IlZ
+LKCr6qnyJnnI7QnM3d52f5j0rmgo4c4CokeMG6VrFxX4iFLwXIiBZk0=
+-----END CERTIFICATE-----
+subject=CN=*.nessus.org
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5913 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

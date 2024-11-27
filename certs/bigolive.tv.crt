@@ -1,0 +1,100 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.bigolive.tv
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun  3 03:47:33 2024 GMT; NotAfter: Jul  5 03:47:32 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+   i:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 19 03:43:25 2023 GMT; NotAfter: Jul 19 00:00:00 2026 GMT
+ 2 s:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jun 19 00:00:00 2019 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGWjCCBUKgAwIBAgIMetJ2o5T3R3JGXQnSMA0GCSqGSIb3DQEBCwUAMFUxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSswKQYDVQQDEyJH
+bG9iYWxTaWduIEdDQyBSNiBBbHBoYVNTTCBDQSAyMDIzMB4XDTI0MDYwMzAzNDcz
+M1oXDTI1MDcwNTAzNDczMlowGDEWMBQGA1UEAwwNKi5iaWdvbGl2ZS50djCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAITgJL3DrBKrkIqcQkxAnPCBbJxT
+XF31c8a/5rcqEAthsHpTsnSzFNisCU6aYE+5/+iU7X4qOSHvwGvvlZ0K31pMKixm
+2xR3sFafQd8WYIkaFkW8kMDpy2crbdgjeRCXGehJ8rVuZu2dWtalOFtBL5/Yj7Fw
+0AFznzEwCF47qTQSpEfn9ngOfI9Vcs9t9bhT6gkHpk6EVhBgLHGBuQMJ6iJW64U8
+j7QFnVKO5Iesvi71QW1YfV5VumufnyhPCedhbbh08K0TAfV6K/E5Gnqf4npuyVhL
+6lIkdlBlKC1tHDq00QVNYVIvY7KvEhDPuPHdcF2tyGZHtY+pbJt4BNiqsdECAwEA
+AaOCA2UwggNhMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMIGZBggrBgEF
+BQcBAQSBjDCBiTBJBggrBgEFBQcwAoY9aHR0cDovL3NlY3VyZS5nbG9iYWxzaWdu
+LmNvbS9jYWNlcnQvZ3NnY2NyNmFscGhhc3NsY2EyMDIzLmNydDA8BggrBgEFBQcw
+AYYwaHR0cDovL29jc3AuZ2xvYmFsc2lnbi5jb20vZ3NnY2NyNmFscGhhc3NsY2Ey
+MDIzMFcGA1UdIARQME4wCAYGZ4EMAQIBMEIGCisGAQQBoDIKAQMwNDAyBggrBgEF
+BQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wRAYD
+VR0fBD0wOzA5oDegNYYzaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9nc2djY3I2
+YWxwaGFzc2xjYTIwMjMuY3JsMCUGA1UdEQQeMByCDSouYmlnb2xpdmUudHaCC2Jp
+Z29saXZlLnR2MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSME
+GDAWgBS9BbfzipM8c8t5+g+FEqF3lhiRdDAdBgNVHQ4EFgQUh8B165piNujCyNDw
+gdnP0FT+NJcwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB3ABoE/0nQVB1Ar/ag
+w7/x2MRnL07s7iNAaJhrF0Au3Il9AAABj9w1sf0AAAQDAEgwRgIhAPBhHAMndxxO
+mH54IrWrMolk39jDeyuMeHzrhQvPPpRKAiEAoZMFUTbU6tqT60vD01QBmK7deohO
+ugnk+SmVOMD2UXUAdgAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAA
+AY/cNbIpAAAEAwBHMEUCIBqPiXElpY6roSfPe6i23b0oLKbvEdoPcB1sAHCC3eIM
+AiEApbvkdJNiC/hdMERJSHcxJALzO/fZ5YhMrwOUWgI0drwAdQAN4fIwK9MNwUBi
+EgnqVS78R3R8sdfpMO8OQh60fk6qNAAAAY/cNbGlAAAEAwBGMEQCIHYSsMgIqPAY
+xvRsb6xJg+AGQJQ5kWIBCGs5PadQQtJPAiAgpZqRWd+TeKBFjTNxO+EimuGp7QWO
+Q3mM7ZyMZObpMzANBgkqhkiG9w0BAQsFAAOCAQEAxWO5mD91+WwP4J4qMkgyWgjw
+GB1RCHd3d0bvoNvl+te8tVIOO54KNKlQ0fPzpovvKjlNj8LkK/oggEL8xuA5g+Na
+kzrybb72m/fEJ+W8LlVhw5aEacMSdDeEZbTcPsocD/3vdZrHxCAsIFbTahP5dxPs
+4fyb7mqIEM9wR0aOQwMclgnq2YS0RPWpDzZ/MMbCbHlqjTPpAFZSisdaNYM7h7Vm
+tulVXsWFfWTbJWuWepPwnlIfAxlYHY0zg2HxRP26zsjqny/GjVnlg5udGbwj3qKB
+SR0bkSOFXu6R7NaJdMY5ICOHVpiTtMkkn03mYCcHAag0gAnF0CTcDiNtQWoXPw==
+-----END CERTIFICATE-----
+subject=CN=*.bigolive.tv
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5078 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 9DF83CB7C0F9DCFEB4B676882D161A1BDA036B01E55F1F02902E5A32060F37AC
+    Session-ID-ctx: 
+    Master-Key: B5892E420D4B749DDA6334F596D4AC3AD932E359930F0DC6349D6A01723B83BA6ABE8ABCCC86F349941644974FF14C4E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a1 bb f6 59 40 fd 81 ec-4b a7 8c 4e 59 ef 3c 5c   ...Y@...K..NY.<\
+    0010 - bc f6 60 a4 b1 e3 44 6a-52 c0 1b b6 2b 4f b9 30   ..`...DjR...+O.0
+    0020 - 59 39 a3 4d 3b 7c 3d 27-f9 80 cc 22 82 e9 ea 3f   Y9.M;|='..."...?
+    0030 - 05 48 02 4f 91 27 65 57-94 59 26 3d cc 3a 02 a9   .H.O.'eW.Y&=.:..
+    0040 - 56 4c 77 91 29 5b be 14-36 ca 01 1b 81 c9 e3 b5   VLw.)[..6.......
+    0050 - 7d d1 cf ae 8e 78 90 fc-07 a1 76 f7 83 f6 b3 55   }....x....v....U
+    0060 - 43 fc a2 32 dc a0 21 af-4f 40 42 86 22 16 5f d1   C..2..!.O@B."._.
+    0070 - 16 ff 49 f1 e4 b6 3e 11-4c c4 bb 18 f0 28 6f cb   ..I...>.L....(o.
+    0080 - 9b cb 93 46 07 33 ac 0c-7b 0d 08 ea d0 44 4f 33   ...F.3..{....DO3
+    0090 - ca a6 b6 35 37 25 c0 ca-64 d7 fa eb c0 f9 90 a4   ...57%..d.......
+    00a0 - a0 b8 fd ae 1e 9d b6 4d-52 d3 32 e1 40 eb 6e 87   .......MR.2.@.n.
+    00b0 - 19 93 29 3b 82 ed 06 54-d5 75 3d 62 9c d1 fc c7   ..);...T.u=b....
+
+    Start Time: 1732697014
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

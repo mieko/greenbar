@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=rustdesk.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 25 00:32:04 2024 GMT; NotAfter: Jan 23 00:32:03 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6DCCA9CgAwIBAgISBAXlrtaSCRDEqgDC1Q3Ex8zhMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMDI1MDAzMjA0WhcNMjUwMTIzMDAzMjAzWjAXMRUwEwYDVQQD
+EwxydXN0ZGVzay5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCc
+UFP232+STWemiYWr/dMJ76lhzJd6zs2Fx0C/fujDnAaKw3jXP+a56h+QiITq5luY
+M+ENomRA7qPMpJX3/LeqdjreBn/c7g3Tc9/MZne4uhlu+6jttcgNi1f5Y57IdOSU
+0MMR59bniUVkquwfSs6N5h20YElAOEX0xiJYnHB1cFrmVfa0itk2BUOMBsvz1V9Z
+fXK3XpMqP8pXMWkhUtsFgD9QR0RdsxQTTF8rt12dTCpnhPOCZwGewsLxor/q7phu
+cfaJOnbGC308wbOL0OMLFORg9lCPILbj9blg9Q2eUaScfYbvKg7dBg8ZHcM7L2Aw
+DCb0uoqx5ucePanmsKJlAgMBAAGjggIQMIICDDAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFBnkZNGeULbuh+JNJRwZK3czu46OMB8GA1UdIwQYMBaAFLu8w0el5LypxsOk
+cgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3Ix
+MC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxlbmNyLm9y
+Zy8wFwYDVR0RBBAwDoIMcnVzdGRlc2suY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIB
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAzxFW7tUufK/zh1vZaS6b6RpxZ0qw
+F+ysAdJbd87MOwgAAAGSwUv4rgAABAMASDBGAiEAhIh9/pBX7MUbl/UZyxVWZBEz
+ncjpKAayy78LLdXXt70CIQD+6WNj2uZvChQEoayhcrnXcXDym5Au6zLrO8okuaDr
+gwB1AOCSs/wMHcjnaDYf3mG5lk0KUngZinLWcsSwTaVtb1QEAAABksFL+IkAAAQD
+AEYwRAIgQNsgjEyqTZdHeG6VOPSbEyzLoskLD5lSBseRJyoBrFQCIBD8qkFksEsV
+T08HCVHndAXKXUQxg2k96AF2lAXody4zMA0GCSqGSIb3DQEBCwUAA4IBAQB0gHCs
+7kpeJO0AbCj0E4h67yfWRuFZJH/Qbnh52PulQCHd9UC/ej+kJhAExcT4Yem9FGQL
+kRS82SwBiGTy0SCsoRlEsfF6+XNQVHZAyQ23WEEr42xXCIWIs0mnxuZT2fcsVWzN
+0duvwqiCYDTKxRPmGPZvTPjh3p+3qjoV2qHf0ZBjoOpg+q2PzrDxcYVnyXlU3y1l
+paleg1s+M0LJsSpNa4m8G4o4cIMxvVt72ezu3Y8ES1RqB5wdWb7r7t7DAJsNiy/z
+TE2X0SwOsnCkBZ/q83Rd5MML0RH3Q8psVu/KqK72lb4iCU0J4KPlQl4cWY3qvcyO
+e+jzhaa8/JdsSSK6
+-----END CERTIFICATE-----
+subject=CN=rustdesk.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3114 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

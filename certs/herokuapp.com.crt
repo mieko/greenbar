@@ -1,0 +1,95 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=herokuapp.com
+   i:C=US, O=Let's Encrypt, CN=R3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 21 03:47:40 2023 GMT; NotAfter: Dec 20 03:47:39 2023 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R3
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  4 00:00:00 2020 GMT; NotAfter: Sep 15 16:00:00 2025 GMT
+ 2 s:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   i:O=Digital Signature Trust Co., CN=DST Root CA X3
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 20 19:14:03 2021 GMT; NotAfter: Sep 30 18:14:03 2024 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5jCCA86gAwIBAgISA3xGL0DyfogtDVvnhwt2QCqvMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMzA5MjEwMzQ3NDBaFw0yMzEyMjAwMzQ3MzlaMBgxFjAUBgNVBAMT
+DWhlcm9rdWFwcC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCY
+TgKzGDNm40AC4DN5ooHfwe0nR82wsXKS7B+2M9mKKmKWcvtRu6lQdtYfSJ1GhRm0
+L2WcoHefpo3spHRq/aVOWWAmGM5lrXYzVcWMfjz+ccjvQA4eAl6IHuqOuslAZ4T0
+HDhd6fR4zepW+ljoeOOo/MYdN4hTbD0mO24dm6uf9Hn0zgIi/ECioV2NY/QBZ2Rq
+sG56/QdOewwEDtyh7pEafwRGZUuWPbuFF7E38B90r67MgEInqcLq+T90WhQQRzW0
+I95cCe5hsDo9yaGPe3SdRl1kv8+HeCY0ERkmQsTrZh0eTOpqZqGeM+x2ygh3/zSv
+5SgMMRPfkPmRSSlzl7j9AgMBAAGjggIOMIICCjAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFEvvEevloSaGCxVL9RiB4mXSqdybMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJ
+QOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3Iz
+Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcv
+MBgGA1UdEQQRMA+CDWhlcm9rdWFwcC5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEw
+ggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQB6MoxU2LcttiDqOOBSHumEFnAyE4VN
+O9IrwTpXo1LrUgAAAYq2EKo8AAAEAwBGMEQCICorjAwaw53M2Ksni+gZyc42B+yG
+AFdCt6BCOyBYyFpzAiBf4dJeik2Ix0g5tejL73XG+9v27DQN8bOCmAk4HcgP5QB2
+AOg+0No+9QY1MudXKLyJa8kD08vREWvs62nhd31tBr1uAAABirYQqqMAAAQDAEcw
+RQIhAM5UXWyuPJ1y2UwoRq3NYZed+akbiEIbt+id0wWT8NSeAiBhrktgOEFVTeIp
+lpprJrsRQwMY2UvPC42TW0gNAFBOsDANBgkqhkiG9w0BAQsFAAOCAQEALA+SLboY
+nHZ2T0t4xe0d07XdXmAaWdWnlLlZZKnEGigaVPJoRFAYU35y0pjGxoG99kVLU84Z
+gRphe+I43xB+KNLOvBti3aCJEylOZ0CC5P9olyzldH8u66erM1/GaowRsngYDHn3
+ydoS5M+tkKnFBu2mOwcLR6qpK2bN/64kc3jECKLWwWzJlRAlJY1IrRPfz7k0uuPe
+W/nxLz7dGjC3fIqkPwn46GMtg2+RrGHzlOPNaWZhfVDOe0S/Eq4OIPNG1vgNihy+
++JtNi6vQcOn6oZgpWvycxtysRG9uBu0cfibc0D7YcMtrN/EbhqdIENo/xxq1siu4
+UtN/tNpmOjLhHQ==
+-----END CERTIFICATE-----
+subject=CN=herokuapp.com
+issuer=C=US, O=Let's Encrypt, CN=R3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4494 bytes and written 388 bytes
+Verification error: certificate has expired
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 10 (certificate has expired)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 7F2A40A8452C3A7CEF6B8A413F209156E64516565C3BCDFBB6984585B3FFFC33
+    Session-ID-ctx: 
+    Resumption PSK: EDB37533AC75C55D21B8F8D9531A4C0BDB842F4A56A4082D72CAF75938F273A6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 5e 90 fd 3a d0 4b a7 cd-ad 50 2a e0 cd 9a 09 cc   ^..:.K...P*.....
+    0010 - 06 16 00 b9 94 48 62 70-db 72 1f e3 71 c1 5c 8a   .....Hbp.r..q.\.
+    0020 - 9a 1d c8 9e 4a 95 bc 72-1c 8b 61 84 c7 87 34 aa   ....J..r..a...4.
+    0030 - ed a6 67 50 4a bd a0 2c-b3 24 38 10 b6 96 f1 00   ..gPJ..,.$8.....
+    0040 - 55 64 64 da 94 6b 99 41-66 40 fb d5 62 a2 59 02   Udd..k.Af@..b.Y.
+    0050 - 8e 13 52 f5 4b f2 2e 39-02 05 86 b2 64 cb 9f 19   ..R.K..9....d...
+    0060 - 12 6a ac 8d 01 e1 4a fc-2c                        .j....J.,
+
+    Start Time: 1732697303
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

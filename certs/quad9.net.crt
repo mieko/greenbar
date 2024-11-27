@@ -1,0 +1,66 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=quad9.net
+   i:C=US, O=Let's Encrypt, CN=E6
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov  9 14:47:56 2024 GMT; NotAfter: Feb  7 14:47:55 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E6
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDdDCCAvqgAwIBAgISBErDdPDLsofFjLDHgAWJ9qDlMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NjAeFw0yNDExMDkxNDQ3NTZaFw0yNTAyMDcxNDQ3NTVaMBQxEjAQBgNVBAMTCXF1
+YWQ5Lm5ldDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABIvkRy+ULyOysLmfgkpb
+TApiWNU6DmwNDLCdrwZK3IiplhE2YD6DzomUImnNt3fB6Aly2W8Jza4p+MxyrPuB
+HZmjggIMMIICCDAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFIgLW0osnHIZMAFF4PB0
+11GszX4/MB8GA1UdIwQYMBaAFJMnRpgDqVFojpjWxEJI2yO/WJTSMFUGCCsGAQUF
+BwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL2U2Lm8ubGVuY3Iub3JnMCIGCCsG
+AQUFBzAChhZodHRwOi8vZTYuaS5sZW5jci5vcmcvMBQGA1UdEQQNMAuCCXF1YWQ5
+Lm5ldDATBgNVHSAEDDAKMAgGBmeBDAECATCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkxGa8KIAAAQD
+AEcwRQIgJdb0hbKmpCujUWZ74HGgwukx3ffIYkNIJW0u0mbR7CMCIQCkZEa0L8AH
+3LK9y8wIdbAIm2iDZ807URyhtsvHCEKRSQB3ABNK3xq1mEIJeAxv70x6kaQWtyNJ
+zlhXat+u2qfCq+AiAAABkxGa8eQAAAQDAEgwRgIhAOtmLUimY8ZLYoznv4uU9kNx
+DV1BDtupeXNUWgSb2upqAiEA55S63iLi+Kk4Xti59+d/MojHAZWEifAnoFPFzd3x
+XBEwCgYIKoZIzj0EAwMDaAAwZQIxAOTCo8/L8M8eiwNPk5IHYkvNNQWwYKPWupWe
+oFvYE/w9otwuNaHgBPRCHxZUaKbnawIwZaTFZI9OCU50+HyQOusOsnekHueuuPWq
+QuKlQHWDw/Xymgj8aSlmFXttBCKLM+Qd
+-----END CERTIFICATE-----
+subject=CN=quad9.net
+issuer=C=US, O=Let's Encrypt, CN=E6
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: ECDSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 2332 bytes and written 446 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES256-GCM-SHA384
+    Session-ID: F90C32F46874B5EEE11F8AC55D0C3E3CB193181850B566CF2A1A1C722B130BFB
+    Session-ID-ctx: 
+    Master-Key: B4CC8F33DC99736DA43F09263A3DCCF3D681404BD0C64F4DD6A0B50A4A2E28D90B2FAC918EB25427441BCEDCB40682E9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697694
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=instabug.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 21 03:13:56 2024 GMT; NotAfter: Dec 20 03:13:55 2024 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6DCCA9CgAwIBAgISA+SbCTW5WUn88vF6vIh0bbxlMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQwOTIxMDMxMzU2WhcNMjQxMjIwMDMxMzU1WjAXMRUwEwYDVQQD
+EwxpbnN0YWJ1Zy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCd
+E860MF/o74wx6oRWbEaDhsKnNHPj+r/HIDyCIknSE/QSgY0tYLb4V07sTOvNlAHs
+UkTn2litV4pqeY3Koq7Vd48fJHBzDmLW2VPGL1fyXZDp1Y2JaL8WRYUMiag8EaHA
+BC0ak7CEHJD2dSzz2yZW+wV4U/YC95yfVlb4YAK2lyFG6PFOCgD+Wfz2V1vEks0P
+EzRSd6MXtfbOP+w798AfCex5E+ESOLzsTq4QHbu4gLVybiPNSmVSeIXuQjWQ8+G9
+N5ug9SkOWnbtQlmSIRZlAxJhamROnU4rYlripcBz+ZGfsYMKUWmfSNbZgCjQMCOM
+N+BYJJZKLiPqxoRTGofDAgMBAAGjggIQMIICDDAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFDbd/xHu6ihogVPidAYN13evIYEsMB8GA1UdIwQYMBaAFLu8w0el5LypxsOk
+cgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3Ix
+MC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxlbmNyLm9y
+Zy8wFwYDVR0RBBAwDoIMaW5zdGFidWcuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIB
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYASLDja9qmRzQP5WoC+p0w6xxSActW
+3SyB2bu/qznYhHMAAAGSEsfzUwAABAMARzBFAiEAspdDNYt7co39joxIAJyEcqBI
+UatbP6QyDPcc1V8q0R4CIGrSZ+i83DP7tb+iHHfFxEnJn3rOaPbYtFEB+mUN7REk
+AHYA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGSEsfzUgAABAMA
+RzBFAiEA3MeABNUjf7gpEIMoqWEsUlT/ycIQt/HDv2kvLf1tveUCIBlCI5rW+BQH
+rhwcMsBwgIWLUHcWSFKAZUCNqwRBOHGxMA0GCSqGSIb3DQEBCwUAA4IBAQCpqUSY
+lBR9C7BTvP0KhE9HwlwbYbAgPgOmqk0FkoqgSG/b/O2jvmfAozrzfFcZYCsphjNs
+edyVBUJTdGg9/7GcGduDtRZkep6wdOAqCkc8ApSCizpw8GYdE1caKHKkuA7v2NAE
+Ec5M4R2V+Nv8Qxogatkbq4xTLE3GwpgDcgZh/33d9Q/pWrkBpCbk3uSnbwG/dhB7
+fBW/L32+30w434YMT25463hWQ8qi/WK8tRioYZFnWW072GlY4ovcCOfD0cVc5eRK
+iYLvsPkuHY4D0SmPdis3JtbBvjg2bDOgpOlqr7RX2ykxD6u+m+eKqI9V6yF8sH4p
+uDEDMfA9015mWGE6
+-----END CERTIFICATE-----
+subject=CN=instabug.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 3240 bytes and written 759 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

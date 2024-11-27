@@ -1,0 +1,84 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=Westlake Village, O=Conversant LLC, CN=*.dotomi.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 20 19:40:51 2024 GMT; NotAfter: Sep 21 19:40:50 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 18 10:00:00 2009 GMT; NotAfter: Mar 18 10:00:00 2029 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGlzCCBX+gAwIBAgIMMZyImBTxIN65SYi1MA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yNDA4MjAxOTQwNTFaFw0y
+NTA5MjExOTQwNTBaMG0xCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlh
+MRkwFwYDVQQHExBXZXN0bGFrZSBWaWxsYWdlMRcwFQYDVQQKEw5Db252ZXJzYW50
+IExMQzEVMBMGA1UEAwwMKi5kb3RvbWkuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA1LBHDrMyvVe4F6lYnVjvPlDIJTeyfILOiPwl9ka8ffbY5ADT
+ooyYKt4r86ypU3ww/aliYKrwzZfp4+zqfZFQi/ZYhqgZPiJ0+3RkQGTWOhTrVkjD
+b+WiV4Pq/VIJzioUfQXxqq51j7hR22dkCAV5J7YF0xWt1EFmCBR6N62KRnr0/o5U
+/sVJXL5ZhvrKAvKxbuYozTURRP8kXws7BzXHhNeqEOZw053EDq2zY3/qmyg7I85q
+BUzhmlh2Wmo4QDJwUAYKwyQ+kFvslwid6W5ViP8T7+InGIiO5Wf2epZKhmyAZf72
+Xl5rvYXNYjBZBe0pv0sLJpCYwDsbUqvUw5DgpQIDAQABo4IDUjCCA04wDgYDVR0P
+AQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwgY4GCCsGAQUFBwEBBIGBMH8wRAYIKwYB
+BQUHMAKGOGh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzcnNh
+b3Zzc2xjYTIwMTguY3J0MDcGCCsGAQUFBzABhitodHRwOi8vb2NzcC5nbG9iYWxz
+aWduLmNvbS9nc3JzYW92c3NsY2EyMDE4MFYGA1UdIARPME0wQQYJKwYBBAGgMgEU
+MDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9z
+aXRvcnkvMAgGBmeBDAECAjA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY3JsLmds
+b2JhbHNpZ24uY29tL2dzcnNhb3Zzc2xjYTIwMTguY3JsMCMGA1UdEQQcMBqCDCou
+ZG90b21pLmNvbYIKZG90b21pLmNvbTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwHwYDVR0jBBgwFoAU+O9/8s14Z6jeb48kjYjxhwMCs+swHQYDVR0OBBYE
+FK3Hm4hyAunjbeGLgARtosPR/4ZeMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgA
+dgCvGBoo1oyj4KmKTJxnqwn4u7wiuq68sTijoZ3T+bYDDQAAAZFxTneNAAAEAwBH
+MEUCIFdpT70ls8h1u+31IRcj+boce4r2RNkdBd2gO+AgXAyIAiEAt2cVrzUhrtTi
+fsdnCv9SIhDCsMcXKpKVQRP9MupxaUEAdQAS8U40vVNyTIQGGcOPP3oT+Oe1YoeI
+nG0wBYTr5YYmOgAAAZFxTnimAAAEAwBGMEQCIF0O3iYj9a/QnSq7JxbtRl4TWnXs
+FuaDLBg2UpGaSiGBAiAzGkgOatKwhO1AqoEMXAmo2UyTkWaHId8CVRfdNEmOHAB3
+AA3h8jAr0w3BQGISCepVLvxHdHyx1+kw7w5CHrR+Tqo0AAABkXFOd4cAAAQDAEgw
+RgIhAPiH/aeN8rJitW1SqOcJRzIvzNVDXoZh9v5kyCHxM71/AiEA05ABcoEryYK5
+2O9EWBiJrjC0Xuf2+UbFcmDm/HQ13LswDQYJKoZIhvcNAQELBQADggEBAEK8GoHH
+6rf6l8HuWl2jqfoNFqbnyieKV8ncTIdmbi04arNIQFeK7yjCRxH/foZ6UiqBI22G
+/MwNq9S4KBIrCYBkVEhHK9oBWyQ8n/cZfxO22uzrwEvBYdcJpS99vONY5hxlQuSQ
+EYYa/rSFpBqOSe+ZzHYnLmOiw10SlJ8jW40MYkruAZpZThGkiPpP+UT4/rPTde6A
+0R7wTf3ka0U/1QmUPRuqlPHbnwTDoBlniVRazarjIYSFHyiVCT6L/cCQ8ofBiLGQ
+xyFNew6ZITlOSyqaDUfkiFFSQ9dAC/OSTV9WOLi6cbfkJpxoi6A1ApGfemEUoldq
+PDf4EuRxISns/5Y=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=Westlake Village, O=Conversant LLC, CN=*.dotomi.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+---
+No client certificate CA names sent
+---
+SSL handshake has read 3845 bytes and written 663 bytes
+Verification: OK
+---
+New, SSLv3, Cipher is AES256-SHA
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-SHA
+    Session-ID: 574A52848F7E9E6FB52DC012DD2C436FD82E2BAAB873C712405477B8F2391007
+    Session-ID-ctx: 
+    Master-Key: B7D08A6AF4A4F42F6D267CC45F48A30BDB562C6EF7CC509AC08ADD575E5DEEB734CE57A14EA0FEFB633858EC0E3D6BFD
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697151
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

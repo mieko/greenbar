@@ -1,0 +1,64 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=featureassets.org
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 20 14:43:58 2024 GMT; NotAfter: Jan 18 14:43:57 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFEzCCA/ugAwIBAgISA427gBreB9k9naICNQsr+9CaMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDIwMTQ0MzU4WhcNMjUwMTE4MTQ0MzU3WjAcMRowGAYDVQQD
+ExFmZWF0dXJlYXNzZXRzLm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALrjhuSzn9tIuXHXYJbKj2gt5XQuYOM/L6ueC2Z8gRbYD7HimHIOvIEequy5
+3t2KgBwo4DEuIuGkUg9eONbaZxEgDXElZPclVN0Mt5InRSOFr8WYeV4kF8khQB/j
+onkyDAlQFDHlvkXrNaz+DBcGR30BvAnQRH6Zly9WH1knqSnCV2uTCtidmPZ8m3D6
+TYZbbxggN506tGH2dH17DUAWnqS33yMZKBOb5Jn2FYMS6xLlU8BV04QhqR2WScnG
+h6gy7v1rqp5gz6sUbnmOV5T5JkvyWw3y6tdxxGydaoinjQFn+4LCUU/akuIuPtsn
+oLVqtg0nTlUZPBiu+jbMUZ93dO8CAwEAAaOCAjYwggIyMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQULeiZxzx0UiuqEJFRTkEArdGHlZYwHwYDVR0jBBgwFoAUxc9GpOr0
+w8B6bJXELbBeki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRw
+Oi8vcjExLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVu
+Y3Iub3JnLzA8BgNVHREENTAzghFmZWF0dXJlYXNzZXRzLm9yZ4IeZ2tlLXVzLXdl
+c3QxLmZlYXR1cmVhc3NldHMub3JnMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBQYK
+KwYBBAHWeQIEAgSB9gSB8wDxAHYAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzE
+uVCkR+cAAAGSqpgcOQAABAMARzBFAiAXzZHOJYsDKSkvB2AjRFvNF6rEaEH9eLWU
+9q6gtqs1DQIhAO9J8fYX8YZwoWOnjqouRc4nEjoG5c0GE96fcEA3WMPSAHcAE0rf
+GrWYQgl4DG/vTHqRpBa3I0nOWFdq367ap8Kr4CIAAAGSqpgdDgAABAMASDBGAiEA
+nOE2OO/F3OahLRI6pWnbV3ncqpdzII0hbOEunx013CoCIQCfYWIEGbb50NFsYghk
+toJjUuPJwtfBTq5eoTsfgp7RBDANBgkqhkiG9w0BAQsFAAOCAQEAI4d0ePQvzHAt
+TsJ6LBm8H0KD0OnMSd5dxzGCPc/2NJQ+Gk1ufqq8vs40Smgskv0gA7+KYjPOoOpq
+mB2SUq1HFaGDDPjAkqDLoY4S+fiodnfLcc+EctUFpEOtJ4FrWVZA4RJrhgqQW8SE
+AYdOTVPlVGgVHZ5ZIdnA69EdP/47OjLdQprQVSFXT6t5P3HMFoRAqRZYGtW5/mR8
+ORJL7E4NY7vGhOQ7wbcNe6AxMVcxcPtkYeUHt4JDFnIytS8uPQka+MZMf5iyRyXx
+r6xcI/1lMGY6u+atnRy84nE2f+OQsghx9tTwLhdN498t+H3I7f4IAgei55chQ83N
+jRH0eBxnLQ==
+-----END CERTIFICATE-----
+subject=CN=featureassets.org
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3088 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

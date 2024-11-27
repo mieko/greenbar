@@ -1,0 +1,64 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.myshopify.com
+   i:C=US, O=CLOUDFLARE, INC., CN=Cloudflare TLS Issuing ECC CA 1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 15 00:18:35 2024 GMT; NotAfter: Nov 15 00:22:23 2025 GMT
+ 1 s:C=US, O=CLOUDFLARE, INC., CN=Cloudflare TLS Issuing ECC CA 1
+   i:C=US, O=SSL Corporation, CN=SSL.com TLS Transit ECC CA R2
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct 31 17:17:49 2023 GMT; NotAfter: Oct 28 17:17:48 2033 GMT
+ 2 s:C=US, O=SSL Corporation, CN=SSL.com TLS Transit ECC CA R2
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 21 00:00:00 2024 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEYDCCBAagAwIBAgIQcjLCM26ZHcrRTCvQoDp+aDAKBggqhkjOPQQDAjBSMQsw
+CQYDVQQGEwJVUzEZMBcGA1UECgwQQ0xPVURGTEFSRSwgSU5DLjEoMCYGA1UEAwwf
+Q2xvdWRmbGFyZSBUTFMgSXNzdWluZyBFQ0MgQ0EgMTAeFw0yNDExMTUwMDE4MzVa
+Fw0yNTExMTUwMDIyMjNaMBoxGDAWBgNVBAMMDyoubXlzaG9waWZ5LmNvbTBZMBMG
+ByqGSM49AgEGCCqGSM49AwEHA0IABN5x4iZCSMEtKxXbgOvsV0kdTC410XZ1j5KG
+J7Wv4IKCZ4B5+Q1TwLL/QrXSCjDRKQnJbil3GKyjmkrYsVVOO0mjggL0MIIC8DAM
+BgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFJzECXJHGBd7pxqJs5I11eEDjP6SMGwG
+CCsGAQUFBwEBBGAwXjA5BggrBgEFBQcwAoYtaHR0cDovL2kuY2YtYi5zc2wuY29t
+L0Nsb3VkZmxhcmUtVExTLUktRTEuY2VyMCEGCCsGAQUFBzABhhVodHRwOi8vby5j
+Zi1iLnNzbC5jb20wKQYDVR0RBCIwIIINbXlzaG9waWZ5LmNvbYIPKi5teXNob3Bp
+ZnkuY29tMCMGA1UdIAQcMBowCAYGZ4EMAQIBMA4GDCsGAQQBgqkwAQMBATAdBgNV
+HSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwPgYDVR0fBDcwNTAzoDGgL4YtaHR0
+cDovL2MuY2YtYi5zc2wuY29tL0Nsb3VkZmxhcmUtVExTLUktRTEuY3JsMA4GA1Ud
+DwEB/wQEAwIHgDAPBgkrBgEEAYLaSywEAgUAMIIBfwYKKwYBBAHWeQIEAgSCAW8E
+ggFrAWkAdwAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZMtOMmH
+AAAEAwBIMEYCIQDk37CvVlWLDAta6f2MMjJJ6NKO55JJOHT2fxxCCWByXQIhAPan
+EgIVWP5oLCqGp5jQ70o62Zk1rsRlWxVnipqCd0YUAHYADeHyMCvTDcFAYhIJ6lUu
+/Ed0fLHX6TDvDkIetH5OqjQAAAGTLTjJfwAABAMARzBFAiAMjYHH3s0Vw90bCPEl
+MGchzWdNX+2VQbXA2hQ2eHSHoAIhAPdfu+HvycCiCbLbY4xzIYbrhIjFRvJFF50p
+ZwFlNJwUAHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGTLTjJ
+ugAABAMARzBFAiEAuwBWsfDWSlFiX/EBGd6WZiSi9HwBErkczzeksfXVYaACIAvx
+8/VXdDfpNl95gmydFnLiDumvmOFKPDQ2c8V0mgjWMAoGCCqGSM49BAMCA0gAMEUC
+IBI6hsAH5VX/10UwtnPy6Bxm6kCpnLblreJpmnhtQDyVAiEA5perhUziq9CLREbQ
+5mdAg4PdjFvVt2WvQEhtzd8Msgc=
+-----END CERTIFICATE-----
+subject=CN=*.myshopify.com
+issuer=C=US, O=CLOUDFLARE, INC., CN=Cloudflare TLS Issuing ECC CA 1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3167 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

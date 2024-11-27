@@ -1,0 +1,101 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.carriersignal.info
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 29 11:28:47 2021 GMT; NotAfter: Jan 30 11:28:47 2023 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jun 29 17:06:20 2004 GMT; NotAfter: Jun 29 17:06:20 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGoTCCBYmgAwIBAgIJAKjdPMf/zlmrMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTIxMTIyOTExMjg0N1oX
+DTIzMDEzMDExMjg0N1owHzEdMBsGA1UEAwwUKi5jYXJyaWVyc2lnbmFsLmluZm8w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDbp4z2TDo5k1xgPCqiEVU0
+8RkkcWKqnA8s/keWiVc9FbNPSrrWyLhwn/B8a4N/MYoRykjd3i1PP5HJNJomndYx
+n/iLrUujyRRqnyCbMRWUkzggviYWZgyWwon4v6iK32AXgQNwXEwyqe02vdoG9DlJ
+tpRfcJkVpafjLOdVpLXf/2M9BaVc7h80J123zlb7Q9TJ5oAiJrQTfoNA4Z2NdibR
+ZWyRPGcUMEvhJ83H4SkdaIgfi2AufCtd91P/wMjfV1lEXXus+KyZFYt50oBvOZ62
+mvqp4fPVrQl05HBIwV/sZBRyx2QICqqWGZsmlp9O//5ZbiTa+fmETzRgs5CSQiW9
+AgMBAAGjggNIMIIDRDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAOBgNVHQ8BAf8EBAMCBaAwOAYDVR0fBDEwLzAtoCugKYYnaHR0
+cDovL2NybC5nb2RhZGR5LmNvbS9nZGlnMnMxLTM2ODkuY3JsMF0GA1UdIARWMFQw
+SAYLYIZIAYb9bQEHFwEwOTA3BggrBgEFBQcCARYraHR0cDovL2NlcnRpZmljYXRl
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzAIBgZngQwBAgEwdgYIKwYBBQUHAQEE
+ajBoMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5nb2RhZGR5LmNvbS8wQAYIKwYB
+BQUHMAKGNGh0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRkeS5jb20vcmVwb3NpdG9y
+eS9nZGlnMi5jcnQwHwYDVR0jBBgwFoAUQMK9J47MNIMwojPX+2yz8LQsgM4wMwYD
+VR0RBCwwKoIUKi5jYXJyaWVyc2lnbmFsLmluZm+CEmNhcnJpZXJzaWduYWwuaW5m
+bzAdBgNVHQ4EFgQUws2ixEa8u1tIAYM97BMJv1n+8CkwggF9BgorBgEEAdZ5AgQC
+BIIBbQSCAWkBZwB2AOg+0No+9QY1MudXKLyJa8kD08vREWvs62nhd31tBr1uAAAB
+fgXzMNYAAAQDAEcwRQIhAIIlerQ4iSNMUAiffIaaoxfKcM3pku7SCK01zzrxGsif
+AiB7anowV+sTOI0LIEQwy7jhhLrB2nexqGV/7ko/4RMwZgB2ADXPGRu/sWxXvw+t
+TG1Cy7u2JyAmUeo/4SrvqAPDO9ZMAAABfgXzMfgAAAQDAEcwRQIhAMp1ie7wqXxS
+R+lLgmqv7KPgubf9Ns6L7HSnoV9IwSSXAiA5xxFHvJaX9XJewYnWrhFRPe6AQj2K
+HHwD5wtuv1Ry9AB1AHoyjFTYty22IOo44FIe6YQWcDIThU070ivBOlejUutSAAAB
+fgXzMlYAAAQDAEYwRAIgWe+bLbzgIyQoLOcer7TAnUEIdgssYG6DqLIR1iAf4GAC
+IFgyckxWgbYI3oGL72prfaHgWMjm8zOUIsroZ27eRfBpMA0GCSqGSIb3DQEBCwUA
+A4IBAQAfQxGAGRnvrad6rA2g23sGyuGdRA8QDFrmSoidfgKSbRc8qArr436b38Oh
+WaxYADYruMpGXCcJ+wgGtUzJHKURIB1lfA37HMkEkaokH8hB5Fb6g4AmDDi0bW7A
+BxjWETXX6DgxBJJGjRZw/7e+F4NfQO5NrQwmyup4idbNMWzjYtPaZP4m0UNeAJ/n
+5vSumwun9biRCD1y4lP4Sb288nC5E82Jct+MbyS+Usth3HE62mimkTITnTmiQyqK
+viigUQ5TvSO5R0unaeuM7hGgqWlKYReR/Fss8WtF9KUUyM/QBxzzVLZbB7ipJKAV
+ARY252gUN/NSJy5XAyNczSX8wuUV
+-----END CERTIFICATE-----
+subject=CN=*.carriersignal.info
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5692 bytes and written 414 bytes
+Verification error: certificate has expired
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 63E61A2AEDE5DB0043DDDC83CFD1A74CB3370B1854AEDEF26B852B9BAE93A748
+    Session-ID-ctx: 
+    Master-Key: A8173596533BD2EC296C95ADDBD0C0531018B886B813E40B32A7F28A1BA528D4FE93F14D53D5C40B9DC0FD6AD1D516B3
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket:
+    0000 - c7 74 4f 9c 06 c9 5d b1-cf c7 ee 6a e1 da 88 9c   .tO...]....j....
+    0010 - be 81 6f 31 64 86 0d b5-ae 95 f5 dd b4 93 e9 df   ..o1d...........
+    0020 - b3 8f a4 55 0e 4d 77 28-24 e6 2b f6 53 4a 51 c6   ...U.Mw($.+.SJQ.
+    0030 - 26 71 15 47 a4 73 02 f2-38 e4 88 3a 91 bb 72 eb   &q.G.s..8..:..r.
+    0040 - ac 57 bf 98 35 7b 01 81-f1 72 65 f0 cf 45 3d 67   .W..5{...re..E=g
+    0050 - 41 8d 74 13 77 51 32 73-8a b4 cb d8 eb 2f 57 a8   A.t.wQ2s...../W.
+    0060 - 6b 84 c6 df df b7 59 ed-2b 8d 8f 31 8b 41 32 30   k.....Y.+..1.A20
+    0070 - 3f c6 96 1d ee 61 9c c5-                          ?....a..
+
+    Start Time: 1732697040
+    Timeout   : 7200 (sec)
+    Verify return code: 10 (certificate has expired)
+    Extended master secret: no
+---

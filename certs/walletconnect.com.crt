@@ -1,0 +1,61 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=walletconnect.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  2 12:40:46 2024 GMT; NotAfter: Jan 31 13:40:43 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID3jCCA4WgAwIBAgIQEgZO33F5JgIOkhQMzRYRQTAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTAyMTI0MDQ2WhcNMjUwMTMxMTM0MDQzWjAcMRowGAYD
+VQQDExF3YWxsZXRjb25uZWN0LmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IA
+BAfsSWXsH8rBgIlQyaHJ1Bw+KlgfSARbn1olJG0GzVQt5L4od2GkUwEwlkk9vgOS
+qZvCgrXjPblz7rN6tVDISfSjggKIMIIChDAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0l
+BAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUuabFZSslWjeP
+Jmbb7fa4JSn5/G0wHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYI
+KwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dl
+MS9FZ1kwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwWAYD
+VR0RBFEwT4IRd2FsbGV0Y29ubmVjdC5jb22CIHN0YWdpbmcudmVyaWZ5LndhbGxl
+dGNvbm5lY3QuY29tghh2ZXJpZnkud2FsbGV0Y29ubmVjdC5jb20wEwYDVR0gBAww
+CjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cv
+d2UxL19keFYxbVRtb0pjLmNybDCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AMz7
+D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABku0bX4cAAAQDAEgwRgIh
+APQLZ79rieMpsk8O6rMJCU9SKEHBUm7UaSq5Wo3Hy3YrAiEAsGt7qXwqRFBf6xZa
+0tS5/JX2ubP9XW6QxQkfC8IsyHcAdwBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx
++mSxYpo53wAAAZLtG19KAAAEAwBIMEYCIQDrlKa6UCN9FO9v2U61kftCTqUxoyf2
+D51cjJb4vnwErwIhALyXiUw7+/AQ56haJMdcpzzBSzyjJGZZGWqgxTqwTggrMAoG
+CCqGSM49BAMCA0cAMEQCICVyOTLZHjoXZbW28KkD3T0uuYCx72mYl8Ju7cPUtC7H
+AiBjSywg2J9OXXBskihds7yFQH1rhnn7404h1t0rxCrEUA==
+-----END CERTIFICATE-----
+subject=CN=walletconnect.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2883 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CN, ST=GuangDong, L=GuangZhou, O=bigo, OU=bigo.sg, CN=127.0.0.1
+   i:C=CN, ST=GuangDong, L=GuangZhou, O=bigo, OU=bigo.sg, CN=127.0.0.1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 16 12:49:37 2020 GMT; NotAfter: Nov 22 12:49:37 2120 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDqTCCApGgAwIBAgIJANcwB6DaP8zTMA0GCSqGSIb3DQEBCwUAMGoxCzAJBgNV
+BAYTAkNOMRIwEAYDVQQIDAlHdWFuZ0RvbmcxEjAQBgNVBAcMCUd1YW5nWmhvdTEN
+MAsGA1UECgwEYmlnbzEQMA4GA1UECwwHYmlnby5zZzESMBAGA1UEAwwJMTI3LjAu
+MC4xMCAXDTIwMTIxNjEyNDkzN1oYDzIxMjAxMTIyMTI0OTM3WjBqMQswCQYDVQQG
+EwJDTjESMBAGA1UECAwJR3VhbmdEb25nMRIwEAYDVQQHDAlHdWFuZ1pob3UxDTAL
+BgNVBAoMBGJpZ28xEDAOBgNVBAsMB2JpZ28uc2cxEjAQBgNVBAMMCTEyNy4wLjAu
+MTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMgsmNUcLQBMJwkTuVC8
++EuKr4yGBWgN0Ls3XrSFRl6bFDF9Mct4G6EJhrJhLpjt+ocDb5nd+Bab9aHjv5xx
+URE7AbfrBRPnjgSttsAS5qz1Y7+qpiVo4aJ1binpbT8m+LJPecCUPghobhfWK1af
+xTXHTlHzKer/FzoXlhzljCbljFjYlUQNqD8BDytV1GGTN7VEfm6WaXGw1KV9BasS
+C3LczLnoxfw9TYQcARuk6k9PM5TzMLJB/68AxaEGM2kR57R959DkTeuYmz+Vqdm3
+vJvOZU9Scdg5qzmGKSypzazX2lKmRinxN4//1iQLZG6L+CTqlsOcW7c6nLISVOOr
+NuUCAwEAAaNQME4wHQYDVR0OBBYEFPwWnv5wyZZ7nsHtnCt87/mua4chMB8GA1Ud
+IwQYMBaAFPwWnv5wyZZ7nsHtnCt87/mua4chMAwGA1UdEwQFMAMBAf8wDQYJKoZI
+hvcNAQELBQADggEBAE0vLiEy4HvLIEr7Ok/TU8eHPp8+4oIAjBCMXlMufwgjUnvJ
+iFRPDc1i66+VLfUaft0zkPxdEM/jKoGSnl8Knh96tkMrMjfNJVzTlPoK7ydMLUvn
+8It8N11FoLIA/fPz/91jNhuEoK0RflJrKkXsjOCl5I+dkWm1FLLw7xHjRBL29mZz
+zlis48r6GdzYiv9AVIyccd0PwfQmbjRjtbgff7phXyWJQ6CD52lLzEOMaEaCGK61
+InZlqLUYxR1CxBuxIz/ELFH2mIycCSdRKDTWZUrJLzTP5XW/1DFrK7b+31eTX1VZ
+4bnU1KsP/IG+V1odENhxtOKXwsJjFxH6nBt4bMQ=
+-----END CERTIFICATE-----
+subject=C=CN, ST=GuangDong, L=GuangZhou, O=bigo, OU=bigo.sg, CN=127.0.0.1
+issuer=C=CN, ST=GuangDong, L=GuangZhou, O=bigo, OU=bigo.sg, CN=127.0.0.1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 1602 bytes and written 417 bytes
+Verification error: self-signed certificate
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: D4909CB56E2109F3F60568418BFD0057325B70B0EB5D405BFC5F3B5BD527B4C1
+    Session-ID-ctx: 
+    Master-Key: AEF9A38BEA6E2211D0291DB332F411229DB734BFDE3D5FEDE8DF9C4AAFB33029A711D7F7DFF9EBBDE9C66FB1DEDC84CA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - db be 05 50 cb ad 64 a0-24 9a ed 11 74 d4 e0 bf   ...P..d.$...t...
+    0010 - 18 2f 72 41 b9 10 a7 a0-4f cc c1 33 b7 db c0 af   ./rA....O..3....
+    0020 - 33 cd 6c e8 57 9c ce a4-d5 04 fa a1 98 c5 e6 f9   3.l.W...........
+    0030 - 8d e6 7b e3 92 a0 d4 94-7d d0 67 98 95 13 8a b4   ..{.....}.g.....
+    0040 - 44 c9 c3 eb 12 2f 70 a6-96 40 ca 33 d1 77 6f 06   D..../p..@.3.wo.
+    0050 - ca 74 54 0c 46 11 d2 6c-94 54 69 b7 7b 68 b6 ae   .tT.F..l.Ti.{h..
+    0060 - 13 29 93 e0 f3 30 0e 48-f9 99 05 60 f2 b4 1a 02   .)...0.H...`....
+    0070 - ac 6e 48 d6 d4 75 aa cd-cf 43 5f 2b 0f 49 b9 cd   .nH..u...C_+.I..
+    0080 - da cd d5 eb 2f 40 6e 63-dd ca b4 47 fe 81 64 0b   ..../@nc...G..d.
+    0090 - 3a e7 36 b9 9c 39 ff eb-03 88 2a db 65 c8 6c 34   :.6..9....*.e.l4
+    00a0 - 8f f7 fe e5 e2 ef f9 fa-c6 6f c7 e4 63 69 b3 34   .........o..ci.4
+    00b0 - b5 36 99 2e 1f 02 71 91-a7 78 58 45 e3 d3 3d e9   .6....q..xXE..=.
+
+    Start Time: 1732697777
+    Timeout   : 7200 (sec)
+    Verify return code: 18 (self-signed certificate)
+    Extended master secret: yes
+---

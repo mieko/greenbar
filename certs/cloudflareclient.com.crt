@@ -1,0 +1,56 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=cloudflareclient.com
+   i:C=US, O=Let's Encrypt, CN=E6
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov  9 22:11:52 2024 GMT; NotAfter: Feb  7 22:11:51 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E6
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDoTCCAyegAwIBAgISA7j6hxn23CXVf7ri1YcG87ogMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NjAeFw0yNDExMDkyMjExNTJaFw0yNTAyMDcyMjExNTFaMB8xHTAbBgNVBAMTFGNs
+b3VkZmxhcmVjbGllbnQuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/9bx
+EEMiZ+Slu44S7giDzifETmSJZqSkQn2GHmBaMFqqgoHlf7uUL8GFeexX7k4aN0c7
+vx3Rd5KiZrp/BobdAaOCAi4wggIqMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUmfJS
+OdHYUrfOz2+/+oqOtxhUF2UwHwYDVR0jBBgwFoAUkydGmAOpUWiOmNbEQkjbI79Y
+lNIwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vZTYuby5sZW5j
+ci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9lNi5pLmxlbmNyLm9yZy8wNwYDVR0R
+BDAwLoIWKi5jbG91ZGZsYXJlY2xpZW50LmNvbYIUY2xvdWRmbGFyZWNsaWVudC5j
+b20wEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAA
+dgCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14bLMS5UKRH5wAAAZMTMVweAAAEAwBH
+MEUCIFFYF0wpwcddlQcIKISIkeEiRHmbmVVAXvLV+3f+99esAiEA8vwuVzNtjc4o
+CC7Kaz85gWYPIbSFRP6i0Foc7Oa31qkAdgDgkrP8DB3I52g2H95huZZNClJ4GYpy
+1nLEsE2lbW9UBAAAAZMTMVwzAAAEAwBHMEUCIGya62tmLgO4hgfYNyVxuO1AW/3Q
+D21ZM3BMfTUshxJpAiEAgg5j5Eg4CaCxst4gSFyw6nTwVD6nHQHOCxZYO4JgZ9ww
+CgYIKoZIzj0EAwMDaAAwZQIxAJZMtoP62fUzYA2Xm0SSRnWBw9eXMzKeUh+772z8
+IQ8avGfJGw/vK672uc9mvOVt2AIwDrlAUBAH5GEwAu1cC90u437ZEceRHhDJtD6w
+LQzjdOklnmaoPtdz6u9IMatcWNWR
+-----END CERTIFICATE-----
+subject=CN=cloudflareclient.com
+issuer=C=US, O=Let's Encrypt, CN=E6
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2362 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

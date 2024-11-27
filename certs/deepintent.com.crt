@@ -1,0 +1,76 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.deepintent.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec  1 19:42:26 2023 GMT; NotAfter: Jan  1 19:42:26 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGlTCCBX2gAwIBAgIINgemTGWfXyAwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMjMxMjAxMTk0MjI2WhcN
+MjUwMTAxMTk0MjI2WjAbMRkwFwYDVQQDDBAqLmRlZXBpbnRlbnQuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4asrXZhXsl/O+8ZDzOQIBuxn0JJY
+kegSkPBN4w1W4VlGhzRKCmmnGYWa4lgZkhIzjk9Aw5gbb4qymFhYfhqwT71bh5w9
+JaaFAcBK6O59Y4fPIWr32Q56bv/fHJAR9woGmaYqQtwPkhCvvwm2fmqpPW4lU5tB
+zXt5o65pVvRJq1vc2PfGN3ZM5wc4ceQDYvXZwcIlrSprQKNLYBJk9JjMt+qANDDw
+fSQ5GWPwQy+cdWiOaiI8lLe/OLXCeDZIPInbUZejhbCSVwsRLe8r2fl9oU9MCx8f
+k5sDC/7mbUtka/Hg2GgQHT+RMwTNNnj7LDc41v1JY6dtGQoTHrPZVmxp3wIDAQAB
+o4IDQTCCAz0wDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDgYDVR0PAQH/BAQDAgWgMDkGA1UdHwQyMDAwLqAsoCqGKGh0dHA6Ly9j
+cmwuZ29kYWRkeS5jb20vZ2RpZzJzMS0xMjc1NS5jcmwwXQYDVR0gBFYwVDBIBgtg
+hkgBhv1tAQcXATA5MDcGCCsGAQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVzLmdv
+ZGFkZHkuY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECATB2BggrBgEFBQcBAQRqMGgw
+JAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEFBQcw
+AoY0aHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dk
+aWcyLmNydDAfBgNVHSMEGDAWgBRAwr0njsw0gzCiM9f7bLPwtCyAzjArBgNVHREE
+JDAighAqLmRlZXBpbnRlbnQuY29tgg5kZWVwaW50ZW50LmNvbTAdBgNVHQ4EFgQU
+mndkJM1u0ocoVSV3+5xuRpZNCqwwggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2
+AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABjCbnZyYAAAQDAEcw
+RQIhAOHO5i2wEF7f/VH68KiHf9QIbdYEG2bWH3LI6bJX8nFRAiA4rb+3vSk/CBlU
+lEa2c5xzdHieRfmFiEQbzlIGF2qlXQB2AFWB1MIWkDYBSuoLm1c8U/DA5Dh4cCUI
+Fy+jqh0HE9MMAAABjCbnaKIAAAQDAEcwRQIgfA2CzsxM4vioB6Nz4iykdmNnNhDp
+/f1pB+UqkGF3twkCIQCm0db8z4lu8Wr5zkDAfQYjaJvhspRh2TAEoiQhOFc/7wB1
+AKLjCuRF772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAABjCbna1UAAAQDAEYw
+RAIgCxS1bMpptQ5232AmakCiOyccM9dHCDIZ5NviUzW1s1YCIDTliRbDIt/f5m9L
+tRaV0D0dieQ/36QbVryGWWYmMQZDMA0GCSqGSIb3DQEBCwUAA4IBAQCIyw8057bq
+rvDXNGvrF8xomCtZDbN7PbQVvqo/J6lPe+dOX+e4QMdsep2nwASWYM7nzizvgGP5
+CclD0tPchBwI+BHAj+wCpke0Nqo8sOIRg3wp+ToWQNL9aQ+K2xM3/iy/sc0230kv
+2oajyAUVv7psSwFKNmtp40T7CgWafWw2HCscucRK7IiOTelQ43Z5m+jGl9TLm3Zi
+BQ2EURGEOwvaRWn+5LNLhE15lne0yEIEzY2hp1kr5wnwl/DEORSR1xcrQZRElez3
+7HbHL2xrqgUiDS2eQ9FG21+yQea3wdhO4MZNVzn+OyLpdqfvjSluqSi74VfZcpFR
+79Uytc885UCN
+-----END CERTIFICATE-----
+subject=CN=*.deepintent.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4582 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

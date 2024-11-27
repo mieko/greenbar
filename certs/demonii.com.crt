@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=demonii.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 26 18:37:52 2024 GMT; NotAfter: Feb 24 18:37:51 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpTCCA0ugAwIBAgIQNJwiJJ0FLdATh2cMigb/EjAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTI2MTgzNzUyWhcNMjUwMjI0MTgzNzUxWjAWMRQwEgYD
+VQQDEwtkZW1vbmlpLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABFFvwLwB
+M2Wfg72vOR7u/AwCJp/tRProz0BkuHmogdQOrdE96vq1QCYd/2NnmKz5WOkkn9FY
+AZ00yZpgeTJP5x2jggJUMIICUDAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUUSD9y1V6i5kXzYr5ytjQ
++UN3cAAwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9OSncw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwJQYDVR0RBB4w
+HIILZGVtb25paS5jb22CDSouZGVtb25paS5jb20wEwYDVR0gBAwwCjAIBgZngQwB
+AgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxLzVScE1o
+cTVTaHJZLmNybDCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AE51oydcmhDDOFts
+1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABk2n670gAAAQDAEcwRQIgfW1fhX6243VZ
+yD8jo7i6NCVh/zhZi6OFWc+yYg1KuyMCIQCgpBrvyvjK+cQilg7R3P1ICoJB1qLh
+zx4e9zxKiOjZPQB3AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAAB
+k2n674QAAAQDAEgwRgIhAKh7Xpy+CHeM2oAHtJ74MMBVLxcHuQaCbOg38q5ow8+9
+AiEA3126Eay0bMhtHhhwcOLHh9MG//g9GC8A2xM107PDu+gwCgYIKoZIzj0EAwID
+SAAwRQIhAJwfkts5L5hoAUpHH1oFJJBWNbI4XMDta4xv0Kp6Z28FAiBhljoZFYVk
+F22+y2XUfO4kANlACaU1uSRsrYQjBuMCQQ==
+-----END CERTIFICATE-----
+subject=CN=demonii.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2826 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

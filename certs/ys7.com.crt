@@ -1,0 +1,74 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CN, ST=浙江, L=杭州, O=杭州萤石网络股份有限公司, CN=*.ys7.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 21 02:16:05 2024 GMT; NotAfter: Nov 22 02:16:04 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 19 00:00:00 2018 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGVzCCBT+gAwIBAgIMTa93JGE8saUh2wRUMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yNDEwMjEwMjE2MDVaFw0y
+NTExMjIwMjE2MDRaMHIxCzAJBgNVBAYTAkNOMQ8wDQYDVQQIDAbmtZnmsZ8xDzAN
+BgNVBAcMBuadreW3njEtMCsGA1UECgwk5p2t5bee6JCk55+z572R57uc6IKh5Lu9
+5pyJ6ZmQ5YWs5Y+4MRIwEAYDVQQDDAkqLnlzNy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDIpsEAkpbjT3KWp1RL4k6FiJAgldHUp9hdqf1fqdUu
++rvmMh3WKJQJcxThIfVdKdIBVe3JmKo2ASjszMTOmYIXjag40cCLzyJ9coSO2mPf
+LQ3KZr1IzK7PWMSVWv6NdoXzqOLOg9REGOsCB4Fgha7sC5SxuS6TSWwtYDI0xQsz
+5O5kRPM1wXFRs1Zoexs6A8LEq8Da4P247E+YtKS5iEIGtme+TyMcyHT1V7zSt4CT
+JiNo3sLu6xJU6Dhmmki2dA7zqn8CWYPQW+IDKFde+KV2KvUusntsZRymQWTdgPP3
+o5RpqoM106PCy3Lek32ilqNDuGHEVp68A8fN91FETACFAgMBAAGjggMNMIIDCTAO
+BgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADCBjgYIKwYBBQUHAQEEgYEwfzBE
+BggrBgEFBQcwAoY4aHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNvbS9jYWNlcnQv
+Z3Nyc2FvdnNzbGNhMjAxOC5jcnQwNwYIKwYBBQUHMAGGK2h0dHA6Ly9vY3NwLmds
+b2JhbHNpZ24uY29tL2dzcnNhb3Zzc2xjYTIwMTgwVgYDVR0gBE8wTTBBBgkrBgEE
+AaAyARQwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20v
+cmVwb3NpdG9yeS8wCAYGZ4EMAQICMB0GA1UdEQQWMBSCCSoueXM3LmNvbYIHeXM3
+LmNvbTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU
++O9/8s14Z6jeb48kjYjxhwMCs+swHQYDVR0OBBYEFK5ypON3sHiain/rWKfnYuJq
+L0F/MIIBgAYKKwYBBAHWeQIEAgSCAXAEggFsAWoAdgAS8U40vVNyTIQGGcOPP3oT
++Oe1YoeInG0wBYTr5YYmOgAAAZKs3D8nAAAEAwBHMEUCIQDHK8FMhzSre2uFNrZA
+MSGy1CwC0oWoU0DA/ezkz/vNIgIgaSua/2AmN3S++wWKrysc35rXAPTJPAPOXc8t
+rRR0nIkAdwAN4fIwK9MNwUBiEgnqVS78R3R8sdfpMO8OQh60fk6qNAAAAZKs3D4I
+AAAEAwBIMEYCIQD2wHG2mVBBnr/IBPrW+QL5gW7A7No3fLp79C4IAoACcgIhAMB+
+zAHOCY5vp8J9k+B8crQSDuXM6BreAxEx1VlQhFcuAHcA5tIxY0B3jMEQQQbXcbnO
+wdJA9paEhvu6hzId/R43jlAAAAGSrNw+BwAABAMASDBGAiEA8NSGBHLUMVkCYah1
+T/odOJysXkZR5muBOOwVAjp4zu8CIQCjf2nhdnmv7T6FOOGZDeNObI1/oRAKxK7U
+sLJUdNLTSTANBgkqhkiG9w0BAQsFAAOCAQEABjJcFkvlvQMsWSaE32rPGiDGPC5U
+HP/LefB9Im4Tbz/shIqbVffAX8dEzs8H5082/oKFF0QPQhyFvvWrSp9YnWk0dMQC
+Aq3ZAp4Vm8MOiSBcrzKeI2fxeDvib/GFYDbkjxhNkcttT1Ucf9ZjJq3wKis17Tfr
+TBtAqD+O+BebG4xOMQfOaVTthYlKEanNkKfo4/CsQAfxKOuFy+46ApTJ2u6HScwO
+h4mFuqw4sGhNW892NJXBz7Dd7281m6Dp2Ar/Eyki8LyHtkFaveR7dQP217Xzq7IK
+gLS5Wc9aIJ0QV95tS0EjdXk1dh60eRU0Tpiqah+B9cm8Yko+9qdj84Ofyg==
+-----END CERTIFICATE-----
+subject=C=CN, ST=浙江, L=杭州, O=杭州萤石网络股份有限公司, CN=*.ys7.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4409 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

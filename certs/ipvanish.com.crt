@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=ipvanish.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 11 02:55:52 2024 GMT; NotAfter: Feb  9 02:55:51 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDmjCCAz+gAwIBAgIRAORyxbc8JUheEyoCdApGvX8wCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTExMTAyNTU1MloXDTI1MDIwOTAyNTU1MVowFzEVMBMG
+A1UEAxMMaXB2YW5pc2guY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIO2R
+gVtOqUv1Ycj0eno45Eo6ycBWT32v2eJoGA5I7oqKZEUdyFevqZx5QFA6ARguTTVp
+5oZu46pwjNaCO9W2OqOCAkYwggJCMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBS4wYzYluYIVG7WxNtW
+XbIOc/kEBzAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEF
+BQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxLzVI
+STAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAXBgNVHREE
+EDAOggxpcHZhbmlzaC5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8w
+LTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxLzI4dlE1WF9mSzNjLmNybDCC
+AQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AM8RVu7VLnyv84db2Wkum+kacWdKsBfs
+rAHSW3fOzDsIAAABkxldHU8AAAQDAEcwRQIhAOMJ/2rTXyB+lX8oK5ceOh72v6J3
+EhHRGqoR26BENystAiBoECav7N7usCvsarbkoXCERuH7fzqdT+VE9/I//lYuywB3
+AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkxldHT8AAAQDAEgw
+RgIhAI9YKhGMQZlyOtQJPJp4peGqcldTs6xdhazJihw2rxtnAiEAoa0Qo7zHkYY1
+wZHLQAVjF2Vgy/e2NZdjMWPH7VYnXjIwCgYIKoZIzj0EAwIDSQAwRgIhAMNcgRbF
+XCNiUckehDAbLaleB+WO9P1mQbtW/ZnPWE1rAiEAsgo4eNDz23kZRlZWZnDArYm2
+tzx0/fM+bGmLSMsDHmQ=
+-----END CERTIFICATE-----
+subject=CN=ipvanish.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2814 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

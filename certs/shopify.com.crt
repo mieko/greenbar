@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=shopify.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  1 16:37:20 2024 GMT; NotAfter: Jan 30 16:37:19 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDqDCCA02gAwIBAgIRANPnDUstF2XUEVNHNj+hKOMwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEwMTE2MzcyMFoXDTI1MDEzMDE2MzcxOVowFjEUMBIG
+A1UEAxMLc2hvcGlmeS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAR0GYgw
+UwYtj7hEwtKamf/35a8H7BDuDaiUEaSALGYlcK2XeBq5SoBWBxpjLJwOUTyXxnDq
+xVRdlbGiJ6QoAbD1o4ICVTCCAlEwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoG
+CCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFED3J08JdtLJHxh55Jrd
+BtRTPT74MB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsGAQUF
+BwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEvMC1j
+MCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MCUGA1UdEQQe
+MByCC3Nob3BpZnkuY29tgg0qLnNob3BpZnkuY29tMBMGA1UdIAQMMAowCAYGZ4EM
+AQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS8wUUo0
+ZlpVUjJWWS5jcmwwggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwATSt8atZhCCXgM
+b+9MepGkFrcjSc5YV2rfrtqnwqvgIgAAAZLozZ4tAAAEAwBIMEYCIQC8ppRUm4HF
+5tZ+rSk8lXbstmHnnzj7p3ZNTjOSTgiw7wIhAJkIIIXauXP6kZ2MShGU1Bz6V+yu
++00Jc1zVLZqAUKSEAHcAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgA
+AAGS6M2ZYAAABAMASDBGAiEA2RI4YpyTnIvGRBwcP9s80I6tp9YLD7DYxDp1xEX0
+KtQCIQCD+9kfExAij+ZlnxNbmHECSzIG8QnslHFIRbo7GsSgjTAKBggqhkjOPQQD
+AgNJADBGAiEA2qFS2LLv/V9yFsY+tZ/lkA1NU6P+NxFrI2ihGtGiNYECIQDppVLd
+5nadtZ0RmwP/uzQk9VzBqyBhNa653FPn5xYXCw==
+-----END CERTIFICATE-----
+subject=CN=shopify.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2829 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

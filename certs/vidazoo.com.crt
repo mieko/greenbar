@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=vidazoo.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 29 11:37:03 2024 GMT; NotAfter: Jan 27 11:37:02 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpDCCA0qgAwIBAgIQFrXnErKzqZ0Tq8mBhAgxUjAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMDI5MTEzNzAzWhcNMjUwMTI3MTEzNzAyWjAWMRQwEgYD
+VQQDEwt2aWRhem9vLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBigMJZA
+poFs41ykRJeHPeXQNSCmKI9eQWE55WWaocqF20cdhAggDuO3v/qsQXo5PXpBulr0
+lL3s/jv1S2e7AaejggJTMIICTzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUyhvRjpwmFU5SpK7RgDaQ
+W9DyP/wwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9GclUw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwJQYDVR0RBB4w
+HIILdmlkYXpvby5jb22CDSoudmlkYXpvby5jb20wEwYDVR0gBAwwCjAIBgZngQwB
+AgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL0czdkFs
+UTNral80LmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AMz7D2qFcQll/pWb
+U87psnwi6YVcDZeNtql+VMD+TA2wAAABkthHmfkAAAQDAEcwRQIhAOWKNSwW5DUc
+JVJMdXXCgEFAayjmyD9iDJM4IPkMfCNLAiAA+8a2mvfOssgu30e0WA26FpoYCv+V
+tV1AZAjfKTaunAB2AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAAB
+kthHmdwAAAQDAEcwRQIgX118lFNqgiHva5is+Al00Stbp71FROGoaU7R6xt0H0UC
+IQDIwzKC7xMH8aU96xeQDu2GhBfuBGTpxZy5WBO+DW/oSTAKBggqhkjOPQQDAgNI
+ADBFAiBlYXLP3T93X1qzZd4HdVtvsZUnQjD2xvyHvjwKP6EELAIhAK5qT2T2/Q/2
+NLOdion6VFTC3WBTE7+IQ2qd79ti8bN1
+-----END CERTIFICATE-----
+subject=CN=vidazoo.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2823 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,89 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=linktr.ee
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  7 11:42:59 2024 GMT; NotAfter: Feb  5 11:42:58 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5DCCA8ygAwIBAgISBOegvP7bK8EJ1QW9JuXlqWU0MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTA3MTE0MjU5WhcNMjUwMjA1MTE0MjU4WjAUMRIwEAYDVQQD
+EwlsaW5rdHIuZWUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDU9u/T
+0x1givT/MxwF8fRwgGEIyYcANGGxTD1IoRaYCjStVlpIyPd3lzzMBKiJu2GM2ogo
+8tpvwEgTEduGNnb7sR9FXKJrn8xkc4XnfEE/X1OFWSwWDjYyc5uTsnT/68BNYIS1
+lq23VL4JThE/XWtShYI7BImBMw64ZJ3RzlbJM7QxHDS7lPA3bSytAg4GtL3thMlq
+H5v2QDNioxFJxDyW2OPlyM+Xe87dSYisQGD+39EXLxLGcdbp6Yvp4rWju+QVZ9Jd
+RnnXvesio0C11Z5iCXAC/DEe8JRXeFB2tQJ6YsS/p7J4bIIpjBKcABVcvbP78iZr
+QaBKEBspXfX7kGBpAgMBAAGjggIPMIICCzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FICSDZHNwhEcHIu/zwKE4x/+D5boMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2w
+XpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5v
+LmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8w
+FAYDVR0RBA0wC4IJbGlua3RyLmVlMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBgYK
+KwYBBAHWeQIEAgSB9wSB9ADyAHcAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzE
+uVCkR+cAAAGTBqTjQgAABAMASDBGAiEA057S9zKOSIkWcHiEOryZGEp0I1Tu+jo2
+v56yFwpDQOsCIQDTWo4UwmORpRHI+fgHyFMXjIsb2ZePv81dMEqCiOSaLwB3AM8R
+Vu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkwak44EAAAQDAEgwRgIh
+AMiE/Q9Rg555OkSBUMbR4K54a7SszAivnFm9SZMgMun4AiEA9TG4ju3qVknLOWPj
+gUXl/Rgvspw/cleWqt1OnGOw0QAwDQYJKoZIhvcNAQELBQADggEBAASixXf9WSgl
+oCNt50EVAjj2wUQv0TvOyvuPLxjDCbmLPRqNsWI1NG7i1CnNnWzLapgy1wyzVQ7P
+6jHblTISTofSAPAiRtlhZrfECSNcHQcyChW1D5gBNcfORK2EqCH/FhlF5RtEnMm2
+UhsTLeKPpfeH9DrQyLTDdYlyy5IL6ocRcBt7VT4mM9UhXelV4SDjOvH+7B1jiM02
+pSHEM8X6zGJDzKyL9pcAxQuartkWZR9f4pFXSnADxGAi+u/iZLetRrrBm5VpEOHe
+meHHdtrtWkQV/KlCrH5U3Vn6DYX5ot1wNATB/krCGypLe72ENds9XjkFTAR0htiF
+GIiezAn5vpg=
+-----END CERTIFICATE-----
+subject=CN=linktr.ee
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3200 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: AD0090341BCE5336C5FEEB3CB8A28A8D223E3B9D50C08D18442211D86E22C512
+    Session-ID-ctx: 
+    Master-Key: 83F294A53C562A834AE1D9B9870884B83F04B37760A7ACCE2D58A77A9C51A609CDE74E8441542E2351FA0962B94170E5
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - eb f7 2f 41 ee f2 e2 f4-af d7 e1 47 51 4f 81 3b   ../A.......GQO.;
+    0020 - 0b 5c 21 87 2a 55 37 d1-06 27 04 6e 15 58 ae b5   .\!.*U7..'.n.X..
+    0030 - 28 47 35 9c f9 31 75 78-7b ae d5 58 1e b0 70 e9   (G5..1ux{..X..p.
+    0040 - d8 19 77 4d ac 0b e0 a3-b7 55 db 4c 52 e1 1f 78   ..wM.....U.LR..x
+    0050 - 0f cb ef ac ff 88 35 d6-82 c8 cb 1f 22 1a ce 31   ......5....."..1
+    0060 - d7 bd e3 52 e4 24 c7 5a-4c 1c d0 43 a0 9a ee ad   ...R.$.ZL..C....
+    0070 - 4d f4 00 88 6a d0 b0 d4-2b 9d 70 e4 24 90 cd f5   M...j...+.p.$...
+    0080 - fb 86 ba 4a bc de 96 b2-f7 40 57 fd 04 82 dc ae   ...J.....@W.....
+    0090 - 1e 11 9b 70 d8 67 96 bd-74 43 65 98 31 86 b6 2b   ...p.g..tCe.1..+
+    00a0 - 1c 62 02 59 6f 69 a9 3b-e8 21 d1 55 8c 1b b9 e0   .b.Yoi.;.!.U....
+    00b0 - 14 b3 5c 13 81 b3 33 42-70 9c dc df 99 76 4d e5   ..\...3Bp....vM.
+
+    Start Time: 1732697488
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=canva.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 11 11:13:56 2024 GMT; NotAfter: Feb  9 12:13:49 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIENDCCA9mgAwIBAgIQMrhYeLcj+eITxiBifEAQXDAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTExMTExMzU2WhcNMjUwMjA5MTIxMzQ5WjAUMRIwEAYD
+VQQDEwljYW52YS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATbKf39mBHq
+uia55U5qb8HIFirZtegsXZZ4V1uBDAEUN99EeRXdR7QTFRekBYt38AcHvfVd494S
+HB49po75skkFo4IC5DCCAuAwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsG
+AQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHSqTHIte4DsXTgA/jo31UGh
+7i8HMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsGAQUFBwEB
+BFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEvTXJnMCUG
+CCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MIG1BgNVHREEga0w
+gaqCCWNhbnZhLmNvbYISKi5jcmVhdGUuY2FudmEuY29tghUqLmRldmVsb3Blci5j
+YW52YS5jb22CEyouc3VwcG9ydC5jYW52YS5jb22CESoubGVhcm4uY2FudmEuY29t
+ghYqLm5ld3NsZXR0ZXIuY2FudmEuY29tggsqLmNhbnZhLmNvbYISKi5lbmdhZ2Uu
+Y2FudmEuY29tghEqLmFib3V0LmNhbnZhLmNvbTATBgNVHSAEDDAKMAgGBmeBDAEC
+ATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93ZTEvWmtqelVY
+S0NVd1UuY3JsMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUAzxFW7tUufK/zh1vZ
+aS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGTGyUZNAAABAMARjBEAiAbiZNPgkefHpU5
+oX2Z66NIjFvvDhKG8WKAk6IplLOqSgIgcpgmPI8sqBTCuy43ql9kTN+AgbbeA+Sa
+/muZyZUcFhcAdwCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14bLMS5UKRH5wAAAZMb
+JRkUAAAEAwBIMEYCIQDcau2tSwDU71Iu51vNmN79ssJ4IoR7jDjYn/PluaHcBgIh
+AMEDkQNl8lFsSHnCSQh1BgRi592skx2kEy9GJJhmts2mMAoGCCqGSM49BAMCA0kA
+MEYCIQCHTLmR96i2prtqPePd97JvdOHrDgj0NgPoUn8WjRAJYAIhAOjRYD6ByAX7
+TXoPsuZrkBBlM1yFyVseuA2MTCYU0L4r
+-----END CERTIFICATE-----
+subject=CN=canva.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2968 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

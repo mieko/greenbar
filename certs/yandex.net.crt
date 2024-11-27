@@ -1,0 +1,81 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=RU, ST=Moscow, L=Moscow, O=YANDEX LLC, CN=*.xn--d1acpjx3f.xn--p1ai
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Jul 12 08:02:20 2024 GMT; NotAfter: Jan  9 20:59:59 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+   i:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jun 19 00:00:00 2019 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHjTCCBxSgAwIBAgIMeNFuC2lI1nJ6984nMAoGCCqGSM49BAMDMFAxCzAJBgNV
+BAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1HbG9i
+YWxTaWduIEVDQyBPViBTU0wgQ0EgMjAxODAeFw0yNDA3MTIwODAyMjBaFw0yNTAx
+MDkyMDU5NTlaMGcxCzAJBgNVBAYTAlJVMQ8wDQYDVQQIEwZNb3Njb3cxDzANBgNV
+BAcTBk1vc2NvdzETMBEGA1UEChMKWUFOREVYIExMQzEhMB8GA1UEAwwYKi54bi0t
+ZDFhY3BqeDNmLnhuLS1wMWFpMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVKpq
+wjL/P/G8Gf9jEkmyzObTdnccywWv1qUNs7vPviCNkcxK2Tir3udEuE4ig4T5QA89
+yHrwN8JepQvGw45ZjqOCBbswggW3MA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8E
+AjAAMIGOBggrBgEFBQcBAQSBgTB/MEQGCCsGAQUFBzAChjhodHRwOi8vc2VjdXJl
+Lmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc2VjY292c3NsY2EyMDE4LmNydDA3Bggr
+BgEFBQcwAYYraHR0cDovL29jc3AuZ2xvYmFsc2lnbi5jb20vZ3NlY2NvdnNzbGNh
+MjAxODBWBgNVHSAETzBNMEEGCSsGAQQBoDIBFDA0MDIGCCsGAQUFBwIBFiZodHRw
+czovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAIBgZngQwBAgIwPwYD
+VR0fBDgwNjA0oDKgMIYuaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9nc2VjY292
+c3NsY2EyMDE4LmNybDCCAosGA1UdEQSCAoIwggJ+ghgqLnhuLS1kMWFjcGp4M2Yu
+eG4tLXAxYWmCCyoueWFuZGV4LmF6ggl5YW5kZXguYXqCCyoueWFuZGV4LmJ5ggl5
+YW5kZXguYnmCDioueWFuZGV4LmNvLmlsggx5YW5kZXguY28uaWyCDCoueWFuZGV4
+LmNvbYIKeWFuZGV4LmNvbYIPKi55YW5kZXguY29tLmFtgg15YW5kZXguY29tLmFt
+gg8qLnlhbmRleC5jb20uZ2WCDXlhbmRleC5jb20uZ2WCDyoueWFuZGV4LmNvbS50
+coINeWFuZGV4LmNvbS50coILKi55YW5kZXguZWWCCXlhbmRleC5lZYILKi55YW5k
+ZXguZnKCCXlhbmRleC5mcoILKi55YW5kZXgua3qCCXlhbmRleC5reoILKi55YW5k
+ZXgubHSCCXlhbmRleC5sdIILKi55YW5kZXgubHaCCXlhbmRleC5sdoILKi55YW5k
+ZXgubWSCCXlhbmRleC5tZIILKi55YW5kZXgucnWCCXlhbmRleC5ydYILKi55YW5k
+ZXgudGqCCXlhbmRleC50aoILKi55YW5kZXgudG2CCXlhbmRleC50bYILKi55YW5k
+ZXgudXqCCXlhbmRleC51eoIHKi55YS5ydYIFeWEucnWCCyoueWFuZGV4LmRlggl5
+YW5kZXguZGWCDCoueWFuZGV4Lm9yZ4IKeWFuZGV4Lm9yZ4IMKi55YW5kZXgubmV0
+ggp5YW5kZXgubmV0gg0qLnlhbmRleC5qb2Jzggt5YW5kZXguam9ic4INKi55YW5k
+ZXguYWVyb4ILeWFuZGV4LmFlcm+CFnhuLS1kMWFjcGp4M2YueG4tLXAxYWkwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFFh7jnUq/mGA
+qpBAAa7W6AdGbj9IMB0GA1UdDgQWBBSuspi7Qq8KKy5ysmQ6B3NJf8y+tzCCAX0G
+CisGAQQB1nkCBAIEggFtBIIBaQFnAHYAouMK5EXvva2bfjjtR2d3U9eCW4SU1yte
+GyzEuVCkR+cAAAGQpfbv3wAABAMARzBFAiEAvWpDzWvGjKjuEz6dIOYHeLQLLlzk
+jx16n4YZUvjGYYACIFf+BoMo0sS2lftaSwi2BoHUGl354h7KKGqAED3XxVkpAHYA
+E0rfGrWYQgl4DG/vTHqRpBa3I0nOWFdq367ap8Kr4CIAAAGQpfbwDgAABAMARzBF
+AiEAmdrTnC1D48ahMza3RFEmNEsP4j6NYpc5HoMLfANL24UCIFGSpLVQiEvo1MwW
+P7fPFysrVx9qbUQsaP8Ky+65Le5qAHUATnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnA
+sfpksWKaOd8AAAGQpfbt+QAABAMARjBEAiB7CzWvIvW7bJnGW2T6OS7zSWPrz9FX
+4TC29W/sEERTpQIgH6qe2oFraPxhPgPmx3P9HzNld6cprzfmp2s1c6od7McwCgYI
+KoZIzj0EAwMDZwAwZAIwSP2ZPQTI8NEW6B2rEIfLa2X38H/XAfxRVQdVT//MUQW4
+gOc2ukhydw6TMMGmMvD9AjADIemqlxBTV7ig36dGs3l+jrzg/+goVwSyb3zmvSqd
+jufxE8UOM+ifUXnfT1XaVMc=
+-----END CERTIFICATE-----
+subject=C=RU, ST=Moscow, L=Moscow, O=YANDEX LLC, CN=*.xn--d1acpjx3f.xn--p1ai
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4035 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=sitescout.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 13 20:05:58 2024 GMT; NotAfter: Feb 11 20:05:57 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE/jCCA+agAwIBAgISA+dKBnDaeL4Ev55mo+CCNowXMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTEzMjAwNTU4WhcNMjUwMjExMjAwNTU3WjAYMRYwFAYDVQQD
+Ew1zaXRlc2NvdXQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+zv8spFywpuHO/m+/T3GRj6e2B9vmYcr9ftE6IIg3CsCy4IHGgknOAaFtlgTnEMrm
+W53+S2dL2DJZEMO9GLfluxh0NpHwPbljZHLB8bvmdSpgp2XKNtBjQx2bHhBP98qp
+kaJWkaipfyM78Pp6AD+XVGK5plZ/HT7n9z7rL2fr1fJ3bJf7IrloFK4mT22ehtR9
++6FZl357KxZCMpKcRJPK85SXFerfAVkR0BGP3zX+YCvG+elDimORv1BUjm9g+NjC
+EFtvASUWCbXkI3DkHzq0hpLBoirESjIA+gaGag7vmNIvLKZT//dvz4UgtZfmrcq8
+y3qarbnH7j5Gw53LFnmeowIDAQABo4ICJTCCAiEwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBRIvJfmKmXf8cmpxkdrR1X+Y28OWTAfBgNVHSMEGDAWgBS7vMNHpeS8qcbD
+pHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9y
+MTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5v
+cmcvMCsGA1UdEQQkMCKCDXNpdGVzY291dC5jb22CEXd3dy5zaXRlc2NvdXQuY29t
+MBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYA
+zxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGTJ1eIiwAABAMARzBF
+AiEAzbc0W5/2qyEXQygjTZzH5rQKEGFtPFMsT8CkyV9mUnkCIHsZY2VcxAm0Qf2K
+2VzaYD2xxyALLR+ff7ZF5GTQHBkhAHcA4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZy
+xLBNpW1vVAQAAAGTJ1eIqQAABAMASDBGAiEA7pILnhEHNOBnEzC4J+Hqb6mnZjzO
+G3/rsySehpjR4N4CIQCuhSmnqzdLNt1M1kyXjzhqP3yR0ipkQpdKRxNMa7W1MTAN
+BgkqhkiG9w0BAQsFAAOCAQEASVazMdx650KdH7Lnc4zGZl9VgMYBeFUPskEhrzmY
+EX2I3HxSsJDKwuU8tVrn+1oshU0wsJ+6JlHaCJcijypX7ZoIV4J1tJyFKWRQ68h2
+K5l/jOLPtEY91DlIWd70uVY5yb31AgIlwLOzvhG2gN/0FWUXQuKJULfYIkJpZGB3
+ZvFJ6GilIJ+h/HhLdCVyi1HEDFE8KvcxyAE/jqvoc83wNEigRb6D/PO03Nql5RHU
+OuTrQu6nFADMRqMsUSQXzx/GUHsaQ/yvD6pDaZECCUVrqrR1L1FM/Pkscxgm9v8i
+Ok+yJOYswGA8GSTmls0L959xbdauqQMIEfw7wAJ1vG0KOQ==
+-----END CERTIFICATE-----
+subject=CN=sitescout.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3136 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

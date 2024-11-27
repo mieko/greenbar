@@ -1,0 +1,72 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.tenable.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 27 00:00:00 2024 GMT; NotAfter: Dec 27 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF+zCCBOOgAwIBAgIQBgtFjhlPdBaWJmPRqrOweTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MTEyNzAwMDAwMFoXDTI1MTIyNzIzNTk1OVowGDEW
+MBQGA1UEAwwNKi50ZW5hYmxlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBALQnI3ejd1t+3SMXFsslqONkBqp5nsDCQ9pzeyKV2KkKKsw/CUsyp2fT
+T2oVzz3+Iz+nAD0QNZxiiZ4TkjPlgfm6N7NpfoAc5uYmRpegcXNOwm1J17HknMEE
+rT7PTKHKo3fyJSI6GhFcIcoju9DTrM2JPnCY+660d++fIvjzpU9VNwVA/oWkoqMj
+BEbUVdUeMfv5ffwt81J5PoPs7D2veRTNpKZr2CQvzhTbbqigGd5SVcb61W58rqw1
+AW1KpzLMh9hofQtUh1ILWnDWW4rtW7lJwkAnZ5SUVzyVhXH/iGeQJbP+vR7HWmWW
+s5CyNuoUSD14bh8zdWWMzABXgKi0TK0CAwEAAaOCAxswggMXMB8GA1UdIwQYMBaA
+FMAxUs1aUMOCfHRxzsvpnPl664LiMB0GA1UdDgQWBBQCn+to9tuRB42IaoNQ9j/r
+iodZFjBNBgNVHREERjBEgg0qLnRlbmFibGUuY29tggt0ZW5hYmxlLmNvbYITKi5j
+bG91ZC50ZW5hYmxlLmNvbYIRY2xvdWQudGVuYWJsZS5jb20wEwYDVR0gBAwwCjAI
+BgZngQwBAgEwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnIybTAyLmFtYXpv
+bnRydXN0LmNvbS9yMm0wMi5jcmwwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzAB
+hiFodHRwOi8vb2NzcC5yMm0wMi5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKG
+Kmh0dHA6Ly9jcnQucjJtMDIuYW1hem9udHJ1c3QuY29tL3IybTAyLmNlcjAMBgNV
+HRMBAf8EAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgDd3Mo0ldfhFgXn
+lTL6x5/4PRxQ39sAOhQSdgosrLvIKgAAAZNrSn+9AAAEAwBHMEUCIFG690/5+B6R
+k7voe9eBxRkmf3yS28CbRpLTYTCc9SZgAiEAutJvhxrq1z+dPAbr6KVJAaH3cFtW
+DVg+0xNYGflSYcYAdQDtPEvW6AbCpKIAV9vLJOI4Ad9RL+3EhsVwDyDdtz4/4AAA
+AZNrSn+aAAAEAwBGMEQCIDCMomL6+JrLcQLQ5b3NVp5nEEljbOT/+JkA3uIwI0Qs
+AiA2lkF/7/fHiaxafUkI4d+vgTmx8aH9O4HjhCTYJ44qSAB3AObSMWNAd4zBEEEG
+13G5zsHSQPaWhIb7uocyHf0eN45QAAABk2tKf68AAAQDAEgwRgIhAN6uDQ4mX3GN
+681FmZFv4+bC7XdKwZ8xOqXAKWj4SMB8AiEA0G49unnHD/dAZkpVp6YVr2A8dxN/
+S4mjrpQK2YZgOvwwDQYJKoZIhvcNAQELBQADggEBACw6jdXoSPX4vWu2aQKeX2mo
+30D5vmK14pFVEN6I5NPziFD64yriBQhbOP5OxVrguuPDIGS4G4pgud7h1mf5GJ3W
+mR1RyoKwZpJr7z+jxbbm9fAf7hRAMfQGbFNwtXv/IXGAuE/eavEXuFcNcXZ9KPHf
+Z0spk637OGrJj4Gv6xHjNmgXQoiVQYOoxVfmKSaUu3Iqrfys0DD7+J/L/d3hjj99
+WzYLIBsjXuKrm0frWpl7lRSkWEQcS4HDYzDAhjJgJGc742b9vAMfYodeN6m3XLg5
+uLrys/JWyevHU62DJDNvStTjUodSQKCCRXr2Md3LBYC0fELTfMQAx47e91l95SI=
+-----END CERTIFICATE-----
+subject=CN=*.tenable.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4385 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

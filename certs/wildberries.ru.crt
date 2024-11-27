@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.wildberries.ru
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 26 06:21:07 2024 GMT; NotAfter: Jul 28 06:21:06 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+   i:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 19 03:43:25 2023 GMT; NotAfter: Jul 19 00:00:00 2026 GMT
+ 2 s:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jun 19 00:00:00 2019 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+ 3 s:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   i:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Dec 10 00:00:00 2014 GMT; NotAfter: Dec 10 00:00:00 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGYTCCBUmgAwIBAgIMWOUvj7jMB5qK1pRaMA0GCSqGSIb3DQEBCwUAMFUxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSswKQYDVQQDEyJH
+bG9iYWxTaWduIEdDQyBSNiBBbHBoYVNTTCBDQSAyMDIzMB4XDTI0MDYyNjA2MjEw
+N1oXDTI1MDcyODA2MjEwNlowGzEZMBcGA1UEAwwQKi53aWxkYmVycmllcy5ydTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANRwM1oISDUvARzC5INI0d16
+nIVLULauZ1CPKcCDiRaiFPQuqB6A0Evu5ylLGLN+EqhmzvX05VFHm12J1P8yIJFj
+qEzMr8ITWShe9c94oseSkngcaTE7uUYCPTV1sM5TDjPQIGVXHniCc1oG8SVNbdDn
+6utRwklExNhODMMbTow+J9kUC1SF7Sgt7zDUl9IHqycwBbZ2P8K+dCkfYH9anuU1
+Y2vnrV9Zzcot/2AdVNC0anqgdUMLf03yAnuYha8mh/VyiHPWovEjVENJWmD1KH/c
+iywGICdeIGdCaPd12sBlhbtA/FjHOpa/FcpP+RZuvTbwOwN9t15R0dt8/uPgV9MC
+AwEAAaOCA2kwggNlMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMIGZBggr
+BgEFBQcBAQSBjDCBiTBJBggrBgEFBQcwAoY9aHR0cDovL3NlY3VyZS5nbG9iYWxz
+aWduLmNvbS9jYWNlcnQvZ3NnY2NyNmFscGhhc3NsY2EyMDIzLmNydDA8BggrBgEF
+BQcwAYYwaHR0cDovL29jc3AuZ2xvYmFsc2lnbi5jb20vZ3NnY2NyNmFscGhhc3Ns
+Y2EyMDIzMFcGA1UdIARQME4wCAYGZ4EMAQIBMEIGCisGAQQBoDIKAQMwNDAyBggr
+BgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8w
+RAYDVR0fBD0wOzA5oDegNYYzaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9nc2dj
+Y3I2YWxwaGFzc2xjYTIwMjMuY3JsMCsGA1UdEQQkMCKCECoud2lsZGJlcnJpZXMu
+cnWCDndpbGRiZXJyaWVzLnJ1MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAfBgNVHSMEGDAWgBS9BbfzipM8c8t5+g+FEqF3lhiRdDAdBgNVHQ4EFgQU8U7+
+RWH8nGqJYQTphkqG1dKac5AwggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB1ABLx
+TjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABkFM0hsoAAAQDAEYwRAIg
+akSUS4r6d8uH9gKmouIun38ECSBwP3Kt1Rx6yARLuacCIAd+rJ/64mBMQOVqINyU
+2+fcESA5gL3iLAPrPyoBPJc2AHYADeHyMCvTDcFAYhIJ6lUu/Ed0fLHX6TDvDkIe
+tH5OqjQAAAGQUzSD4QAABAMARzBFAiAHHL40lL3Ddb6o7CgMBTNwAA0seEday6wP
+bF7SkdNZ5gIhAPz171Baj9FObL9fJfm34swG/88ufr53Nbq18jAz2LmEAHUA5tIx
+Y0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGQUzSFuAAABAMARjBEAiBX
+mPKwkqSMYXolxZEcHB7vDXqZqq4qqZpjbxuM5JAV2QIgKMEjVc8bunv/sGZwJpk0
+zy5Xp8kr8eHFRS2SyVbjQgkwDQYJKoZIhvcNAQELBQADggEBAKmbqxMpeik9iGF7
+pb2Ap+5HstOcbMRqruNHJ2Ry7knFQiXT1jX36QS4LDwXWXeeS/ABvwxqwQJQohS0
+IAMRhgivKe/ooSSWamBHFP4xp1jWpytUIZCosAeOhCu0GqxdnfSNGMoWRh/BYTsj
+GZErNYk9IHM46Km9fF047ybuCD23jl9oX4jyF90qyMHqhsW+kvsWzHs9YaQjDkiu
+aCmxFsrT2XmLeGAFliMaSMeZLYNhKrlC9xZ6yh+8s727CCWfX1H3HYIN+nS99MMh
+pjmTS47pr6/tHIr89uFN0988CjdMMcNYDg+g8pLuebHkvoUgWQfDOqvXbaFjXcQa
+CrBKYhk=
+-----END CERTIFICATE-----
+subject=CN=*.wildberries.ru
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6416 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

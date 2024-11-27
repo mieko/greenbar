@@ -1,0 +1,56 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=tsyndicate.com
+   i:C=US, O=Let's Encrypt, CN=E6
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct 14 09:13:35 2024 GMT; NotAfter: Jan 12 09:13:34 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E6
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDjzCCAxWgAwIBAgISA/n6ogTuifLqy+OIpGibp8EyMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NjAeFw0yNDEwMTQwOTEzMzVaFw0yNTAxMTIwOTEzMzRaMBkxFzAVBgNVBAMTDnRz
+eW5kaWNhdGUuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyo7mav/5hBJm
+mXZx6NNYqFMu2k5cwnaHgMGtqYYy5PanqTQNCV8u6l4GLootPZYJ2VrM9xO9/EVn
+hUVNw90m/6OCAiIwggIeMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUt/lLjyjmhAbg
+/hskPuO19B9tdM0wHwYDVR0jBBgwFoAUkydGmAOpUWiOmNbEQkjbI79YlNIwVQYI
+KwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vZTYuby5sZW5jci5vcmcw
+IgYIKwYBBQUHMAKGFmh0dHA6Ly9lNi5pLmxlbmNyLm9yZy8wKwYDVR0RBCQwIoIQ
+Ki50c3luZGljYXRlLmNvbYIOdHN5bmRpY2F0ZS5jb20wEwYDVR0gBAwwCjAIBgZn
+gQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwA/F0tP1yJHWJQdZRyEvg0S
+7ZA3fx+FauvBvyiF7PhkbgAAAZKKg3xyAAAEAwBIMEYCIQDqnveSDTKjLInzjnEi
+0D8reADdwznPNClRRxNPmbT4agIhAKEB9ka3GyDP3BuOruG+ltUnoHemYo/5uzoU
+Pj//5zSGAHUAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGSioN8
+tQAABAMARjBEAiBUbJfyEcDb7d3sgWbaO6hhMKCRSdZw8Kyo0ihX1byLmwIgF08h
+wgp3UoxEIWATkAPo8l5u/7pYG+2BKNJznI5ZED8wCgYIKoZIzj0EAwMDaAAwZQIw
+LakuQPcPwE5TQGkyLwAtpn7AZP6LOJ7miNIU1QBsspoJwQV+6REvvn2+j2BZ+crG
+AjEA+n7WwpKdHMRtaMYECWEs5MVRvnMYujM8Hcv42inEi7imYgFa5TEKR/hP9upq
+jN3U
+-----END CERTIFICATE-----
+subject=CN=tsyndicate.com
+issuer=C=US, O=Let's Encrypt, CN=E6
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2409 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

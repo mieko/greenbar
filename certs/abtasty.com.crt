@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=abtasty.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct  2 09:42:10 2024 GMT; NotAfter: Dec 31 09:42:09 2024 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpDCCA0qgAwIBAgIRAIzZ8ZYmeWnJDWqm/uDcPXUwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTAwMjA5NDIxMFoXDTI0MTIzMTA5NDIwOVowFjEUMBIG
+A1UEAxMLYWJ0YXN0eS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQ2sPYk
+DjVBMt2KQUbtbyC7CjP38D1mt9eqo9++zNVpSK3PPXeQ1GB3TYMcT23OR0WwptuU
+LEmsNC0veUNqzDoPo4ICUjCCAk4wDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoG
+CCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFKtkrlhTcPoFh2X/CvO3
+c8AvEzXkMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsGAQUF
+BwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEvak5r
+MCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MCUGA1UdEQQe
+MByCC2FidGFzdHkuY29tgg0qLmFidGFzdHkuY29tMBMGA1UdIAQMMAowCAYGZ4EM
+AQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS8yRHFm
+UzI0a2NkSS5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQBIsONr2qZHNA/l
+agL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAZJM0robAAAEAwBGMEQCIFZss6h5LqNZ
+mCzDTWrN84V2//80IShlUDharZz+hMmhAiBk+nI8gGeHRi23mWr7XKTD/3iYu4Np
+OG8Z0IzdIErk7wB2AHb/iD8KtvuVUcJhzPWHujS0pM27KdxoQgqf5mdMWjp0AAAB
+kkzSujAAAAQDAEcwRQIhAPOH/P8Yz3Oa55lUrbAuIbYMvzvEd8VCwDmMR3BxxtN8
+AiAMKaWS3AtAPpG6ROA8/Znyg4sr09POqlmR4+2SqCb/sDAKBggqhkjOPQQDAgNI
+ADBFAiEAr9DK3XhUPeYAeETo7yO96jjLxbmReyBU4qTTu3+nM9sCIAEYvoJil7fb
+gOv7Ook3w69Nyey0L/yzVBUzkzC8Jdoc
+-----END CERTIFICATE-----
+subject=CN=abtasty.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2825 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

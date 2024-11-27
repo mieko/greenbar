@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=evernote.com
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  8 12:02:16 2024 GMT; NotAfter: Jan  6 12:52:48 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJTCCBA2gAwIBAgIRANZjkHDcM4ezCkABlJY5fHYwDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IzMB4XDTI0MTAwODEyMDIxNloXDTI1MDEwNjEyNTI0OFowFzEV
+MBMGA1UEAxMMZXZlcm5vdGUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAx3gIf5FXZQoUTvU2IwjrSguZNkpeMeQu4WgFJBNaAHNrZa/12vItxm7f
+PJoBoL7oMnlTXLCsT91En1SJbxsX2Ts4nHFtV6KB3Qw60mUwZTSKX0mM5lWTsAgQ
+IyDrSqE6c4Vzr2AhVrhshh73X+1wWAdV4baE2982dG4GAKwo9VbIRNYYOFYF55IK
+Czq9G9vr0twtHR4B9e6HRg6xbKMN+lQmBCC8zXqHx9XaSpA6nI6MOggKaDvIMh5m
+bckgiVcWbp6ILBav2AP2MY1DYY/tzHHgRTvYC+7E7pOtoFzPwo1rC/W26XVWFmFw
+KW0qExLowmJxwX28v0ryW1X/B7e9CwIDAQABo4ICRjCCAkIwDgYDVR0PAQH/BAQD
+AgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FETwdiYex/yG/NzGEiNvghM4jiQsMB8GA1UdIwQYMBaAFMeB9f2OiNkAPE1jolAx
+JKDOI/4jMF4GCCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtp
+Lmdvb2cvcy93cjMvMW1NMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93
+cjMuY3J0MBcGA1UdEQQQMA6CDGV2ZXJub3RlLmNvbTATBgNVHSAEDDAKMAgGBmeB
+DAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93cjMvajZN
+aktpeHhzbmsuY3JsMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAPxdLT9ciR1iU
+HWUchL4NEu2QN38fhWrrwb8ohez4ZG4AAAGSbDkiQAAABAMASDBGAiEAtoZd7L+3
+dGWwCMdsoHjL7/mT3BX2paJdWIos1D+imEcCIQCgp2F5bND9Kn85pmHDI+aYTS62
+xk3azyoMHLBJhxJmMAB2AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnf
+AAABkmw5IjEAAAQDAEcwRQIhAKeB3a5pKONlf9iBCZTHz2s79QkSDabgiR6kXOFn
+JIzCAiAJzJ9e2cSzkVJHfWRRw1YBeVq++933JaRmVT1PeccDLjANBgkqhkiG9w0B
+AQsFAAOCAQEAXoh1OsUK/cakcx8B1psFzihcZSYBigftJoK8J4BlABlncwK/7T7C
+KzCGev0fjazSz5TucYG32drfYvpEaeFnwuB3XUbZxaa462xq44hloAsDFJc6J6qR
+ZSywcA3IqZVcVm/hYaRM+xdE4g3Pf27+44HdpogwA/xoFjmLSeSxoF/VtT7N1eDU
++ClvIdjXlmGYY2HSaqNFpWTgXgLxjgFAFCQY7JUiyzunD8hhCD7Yddv7TOuSalrK
+jptF2aNy0drD4cR3EGw8VpUUsOhwPei73NivU/Rvba4noHh+5TNqsytP9QUVTYgu
+mn3w92lxuXbRHz5bFkd6SZz1jxfGkY7BjQ==
+-----END CERTIFICATE-----
+subject=CN=evernote.com
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4498 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

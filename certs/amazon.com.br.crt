@@ -1,0 +1,82 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.by.peg.a2z.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul  8 00:00:00 2024 GMT; NotAfter: Jun 19 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M01
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:21:28 2022 GMT; NotAfter: Aug 23 22:21:28 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHEzCCBfugAwIBAgIQAeRFhdvZjuHplEyhaOFEWjANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAxMB4XDTI0MDcwODAwMDAwMFoXDTI1MDYxOTIzNTk1OVowGzEZ
+MBcGA1UEAwwQKi5ieS5wZWcuYTJ6LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAJAPlqiRquuxeIXpBqNE7qnWMPADYLiSIP+k8ryGhYgZKDf0lJhW
+uoiP0W5vnXW3I/OGpc1LbXWUvr05dPVa5DI/RT1uei8s+wosEhGLd1XTRlOMkVX5
+X3KVmYEpcBXLcNz/MSgHF6h9MWHTqZJzCflEVs0EesMBlaCf0WIFy4m4NEo7h1oV
+vZvcTaaNOs5tFMll6tcBLhELhlLvQY/giLlz9TVNzmTNy7lo4ZCf+1XCHr8wOcI/
+B3Bi8PnA6VZYYgWrgGnb2qRCi9VmswATc+qIpze8EmLaw+SD5E06beh3byJWxSiX
+Prd3WDIc8wwhgAdgJmIeOXRfo2NoSDeb75ECAwEAAaOCBDAwggQsMB8GA1UdIwQY
+MBaAFIG4DmOKiRIY5fo7O1CVn+blkBOFMB0GA1UdDgQWBBTDlsrTiZA0w/aVRazv
+gLw+321ukTCCAWEGA1UdEQSCAVgwggFUghAqLmJ5LnBlZy5hMnouY29tggphbWF6
+b24uY29tgg1hbWF6b24uY29tLmJygg53d3cuYW1hem9uLmNvbYIRd3d3LmFtYXpv
+bi5jb20uYnKCGG9yaWdpbi13d3cuYW1hem9uLmNvbS5icoIrcC1udC13d3ctYW1h
+em9uLWNvbS1ici1rYWxpYXMuYW1hem9uLmNvbS5icoIrcC15by13d3ctYW1hem9u
+LWNvbS1ici1rYWxpYXMuYW1hem9uLmNvbS5icoIrcC15My13d3ctYW1hem9uLWNv
+bS1ici1rYWxpYXMuYW1hem9uLmNvbS5icoIuZWRnZWZsb3cuYWVyby4yYWZjMTc2
+ODItZnJvbnRpZXIuYW1hem9uLmNvbS5icoIxZWRnZWZsb3ctZHAuYWVyby4yYWZj
+MTc2ODItZnJvbnRpZXIuYW1hem9uLmNvbS5icjATBgNVHSAEDDAKMAgGBmeBDAEC
+ATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwucjJtMDEuYW1hem9udHJ1c3Qu
+Y29tL3IybTAxLmNybDB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6
+Ly9vY3NwLnIybTAxLmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDov
+L2NydC5yMm0wMS5hbWF6b250cnVzdC5jb20vcjJtMDEuY2VyMAwGA1UdEwEB/wQC
+MAAwggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2AE51oydcmhDDOFts1N8/Uusd
+8OCOG41pwLH6ZLFimjnfAAABkI+xihUAAAQDAEcwRQIgam0kobq+4qOI+t3BvBhB
+L0maprKhejvo02qHu1m8+SsCIQCuorY5+vhfKBe2PUzXPvyBS27UvkXEAeMnRQGz
+RkVyGQB1AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkI+xiYcA
+AAQDAEYwRAIgeDYaFI/gi46ka91PSCyIaNmjR6TMGR07ywrYm/kJH9gCIAs1XRif
+GnxV7d7VHYD7obou78My3eq79E4B6zptb0rCAHYA5tIxY0B3jMEQQQbXcbnOwdJA
+9paEhvu6hzId/R43jlAAAAGQj7GJoAAABAMARzBFAiEAmo+F6GolMkiAXSiVRqQi
+YjH2ye9g47JkwGZijRd6E40CIGLzsdw5BwEq3LORV8Y1N3m2gip3eZIH6mTV1Xqo
+me0CMA0GCSqGSIb3DQEBCwUAA4IBAQCEd8cGBUt9AqxXTkdzo/JJWgfyCXYOOmYA
+tiOiteYu2quEKASU3Ha724QL5iZSruWeGxleulX7fALQ4ZGb49WiEQmHRa3T4atR
+OCMFyITM71c8otN4CiWQKtjpjEZD2T0T8jpMgX7uMWe0PlWZG8srXN9jfojOVD7O
+rTCtdfXkYt5JizG6TKymK6pXTkLtKT3n7zM+UBHvYlAOLraofd+MAj7J2whxqORs
+nzYtdMh5cbrWZARK3A4/1822ikFA5XjvK53iuvQ3ZG/3BDzPoaPnucRMZzGakVV4
+s64f5K0ldyMXClHiEFlGY4aEjDW1/zzTnEYtTT5H5c0FR+RNkHut
+-----END CERTIFICATE-----
+subject=CN=*.by.peg.a2z.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M01
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5815 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

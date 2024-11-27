@@ -1,0 +1,86 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.palmplaystore.com
+   i:C=US, O=Amazon, CN=Amazon ECDSA 256 M03
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct  2 00:00:00 2024 GMT; NotAfter: Nov  1 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon ECDSA 256 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 3
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Aug 23 22:33:55 2022 GMT; NotAfter: Aug 23 22:33:55 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 3
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIERzCCA+2gAwIBAgIQDcumKlmeUlVYR6VOCM7EZDAKBggqhkjOPQQDAjA9MQsw
+CQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMR0wGwYDVQQDExRBbWF6b24gRUNE
+U0EgMjU2IE0wMzAeFw0yNDEwMDIwMDAwMDBaFw0yNTExMDEyMzU5NTlaMB4xHDAa
+BgNVBAMMEyoucGFsbXBsYXlzdG9yZS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMB
+BwNCAATKftS5oQizCxVouRDH6DJpz55DH5tVF1rD2oZmaZAUPtnB89utSVcgEFjB
+PhQAQfl73uMz40a0/ollBrWkcAldo4IC7DCCAugwHwYDVR0jBBgwFoAUyyPD8wJz
+b7rBpK34ccYQKBbf7L8wHQYDVR0OBBYEFBOwKmVFjmVahugGmdOM/NQL3nb3MB4G
+A1UdEQQXMBWCEyoucGFsbXBsYXlzdG9yZS5jb20wEwYDVR0gBAwwCjAIBgZngQwB
+AgEwDgYDVR0PAQH/BAQDAgOIMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLmUybTAzLmFtYXpvbnRydXN0
+LmNvbS9lMm0wMy5jcmwwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRw
+Oi8vb2NzcC5lMm0wMy5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6
+Ly9jcnQuZTJtMDMuYW1hem9udHJ1c3QuY29tL2UybTAzLmNlcjAMBgNVHRMBAf8E
+AjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgAS8U40vVNyTIQGGcOPP3oT
++Oe1YoeInG0wBYTr5YYmOgAAAZJKvyiKAAAEAwBHMEUCICowwTFllmS57cdzoYEY
+P5YyC2OrxDjCiK8V0dSfQJX9AiEA2F1UnlRDUdyUZnji/cxDNfFAK2PN0j0aCW7S
+aG06KAsAdwB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZJKvyf5
+AAAEAwBIMEYCIQCQ53b2tt6j94fN/1FE53AkpwEl9iU83PZ4QOj4ou0w4wIhAOnS
+5JSkC0rX7vufM9Ca5h1AMWf8r4oK1NXLeZeKSdo1AHUA5tIxY0B3jMEQQQbXcbnO
+wdJA9paEhvu6hzId/R43jlAAAAGSSr8oCQAABAMARjBEAiBFbfwF39HCPYfi2mKk
+Jk7P+Vqiy6VL0kMGiXLvBEPruQIgUeunHgHp8aW6YO8n7W6atDoAhBAke3BpQMSx
+QtJI0bswCgYIKoZIzj0EAwIDSAAwRQIhAK5kOx7FNsH5jA+sQqJLE2KcVKSQfI6J
+TYi8K4KBqg99AiAAvbepsKpqa7tSSOgFWNv86JdzSokzOnaXschYLQWILA==
+-----END CERTIFICATE-----
+subject=CN=*.palmplaystore.com
+issuer=C=US, O=Amazon, CN=Amazon ECDSA 256 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 3285 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: B4387F0EAAB18FC99FF40FF34A97237B2DEA0E40386352FB1A09F8FCBC71B7B4
+    Session-ID-ctx: 
+    Master-Key: 1338D16B04657FB88AA477F04DC0BF6F8376EAC3A48D4C7179360228325ED2B2969B96738B3A40BA6113D0AB28301205
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 01 58 a6 5f b6 bf a9 53-9f b6 87 bb 85 f7 bc d1   .X._...S........
+    0010 - 9f 5a 25 c4 37 f8 4d dd-b7 bc 1a 52 35 a4 6a c3   .Z%.7.M....R5.j.
+    0020 - 8f b5 d8 8b bb da cf 58-75 0f e0 83 74 47 3f b2   .......Xu...tG?.
+    0030 - fd e4 c9 79 5a f8 4d e2-4a 60 10 d6 2d a7 85 3e   ...yZ.M.J`..-..>
+    0040 - 51 70 67 9d b4 5b 23 9f-c5 e7 4f dc f2 10 15 47   Qpg..[#...O....G
+    0050 - 44 33 0f 06 3e 13 d2 ac-31 be 28 7f c6 f6 9a a7   D3..>...1.(.....
+    0060 - 60 07 1a fe 84 23 90 8f-b0 1f e9 d6 e4 e4 a8 dd   `....#..........
+    0070 - fd cf 64 c7 a7 72 f2 15-69 31 d1 ec 47 1c d2 05   ..d..r..i1..G...
+    0080 - 20 b9 7a 29 34 ea 00 bb-51 d8                      .z)4...Q.
+
+    Start Time: 1732697647
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

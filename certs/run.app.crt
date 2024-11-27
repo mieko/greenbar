@@ -1,0 +1,88 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.a.run.app
+   i:C=US, O=Google Trust Services, CN=WR2
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 21 08:36:39 2024 GMT; NotAfter: Jan 13 08:36:38 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR2
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIII0jCCB7qgAwIBAgIRAOImdBfKlAQUEIGT7a5r4W0wDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IyMB4XDTI0MTAyMTA4MzYzOVoXDTI1MDExMzA4MzYzOFowFjEU
+MBIGA1UEAwwLKi5hLnJ1bi5hcHAwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATL
+SVNh497/DSgvRmLxQtAcd0EOOPtIEFUK2HaOr1ognhtiaRnKU4wLOQ/LvG+EfaFe
+39eelxi/1hO9gHcKqNKvo4IGvzCCBrswDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQM
+MAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDQksZm6+lqTgEfX
+7ojyzNEJpyvgMB8GA1UdIwQYMBaAFN4bHu15FdQ+NyTDIbvsNDltQrIwMFgGCCsG
+AQUFBwEBBEwwSjAhBggrBgEFBQcwAYYVaHR0cDovL28ucGtpLmdvb2cvd3IyMCUG
+CCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93cjIuY3J0MIIEkwYDVR0RBIIE
+ijCCBIaCCyouYS5ydW4uYXBwggdydW4uYXBwghcqLmFmcmljYS1zb3V0aDEucnVu
+LmFwcIIUKi5hc2lhLWVhc3QxLnJ1bi5hcHCCFCouYXNpYS1lYXN0Mi5ydW4uYXBw
+ghkqLmFzaWEtbm9ydGhlYXN0MS5ydW4uYXBwghkqLmFzaWEtbm9ydGhlYXN0Mi5y
+dW4uYXBwghkqLmFzaWEtbm9ydGhlYXN0My5ydW4uYXBwghUqLmFzaWEtc291dGgx
+LnJ1bi5hcHCCFSouYXNpYS1zb3V0aDIucnVuLmFwcIIZKi5hc2lhLXNvdXRoZWFz
+dDEucnVuLmFwcIIZKi5hc2lhLXNvdXRoZWFzdDIucnVuLmFwcIIeKi5hdXN0cmFs
+aWEtc291dGhlYXN0MS5ydW4uYXBwgh4qLmF1c3RyYWxpYS1zb3V0aGVhc3QyLnJ1
+bi5hcHCCGSouZXVyb3BlLWNlbnRyYWwyLnJ1bi5hcHCCFyouZXVyb3BlLW5vcnRo
+MS5ydW4uYXBwghcqLmV1cm9wZS1ub3J0aDIucnVuLmFwcIIbKi5ldXJvcGUtc291
+dGh3ZXN0MS5ydW4uYXBwghYqLmV1cm9wZS13ZXN0MS5ydW4uYXBwghcqLmV1cm9w
+ZS13ZXN0MTAucnVuLmFwcIIXKi5ldXJvcGUtd2VzdDEyLnJ1bi5hcHCCFiouZXVy
+b3BlLXdlc3QyLnJ1bi5hcHCCFiouZXVyb3BlLXdlc3QzLnJ1bi5hcHCCFiouZXVy
+b3BlLXdlc3Q0LnJ1bi5hcHCCFiouZXVyb3BlLXdlc3Q1LnJ1bi5hcHCCFiouZXVy
+b3BlLXdlc3Q2LnJ1bi5hcHCCFiouZXVyb3BlLXdlc3Q4LnJ1bi5hcHCCFiouZXVy
+b3BlLXdlc3Q5LnJ1bi5hcHCCFSoubWUtY2VudHJhbDEucnVuLmFwcIIVKi5tZS1j
+ZW50cmFsMi5ydW4uYXBwghIqLm1lLXdlc3QxLnJ1bi5hcHCCISoubm9ydGhhbWVy
+aWNhLW5vcnRoZWFzdDEucnVuLmFwcIIhKi5ub3J0aGFtZXJpY2Etbm9ydGhlYXN0
+Mi5ydW4uYXBwgh0qLm5vcnRoYW1lcmljYS1zb3V0aDEucnVuLmFwcIIcKi5zb3V0
+aGFtZXJpY2EtZWFzdDEucnVuLmFwcIIcKi5zb3V0aGFtZXJpY2Etd2VzdDEucnVu
+LmFwcIIVKi51cy1jZW50cmFsMS5ydW4uYXBwghUqLnVzLWNlbnRyYWwyLnJ1bi5h
+cHCCEioudXMtZWFzdDEucnVuLmFwcIISKi51cy1lYXN0NC5ydW4uYXBwghIqLnVz
+LWVhc3Q1LnJ1bi5hcHCCEioudXMtZWFzdDcucnVuLmFwcIITKi51cy1zb3V0aDEu
+cnVuLmFwcIISKi51cy13ZXN0MS5ydW4uYXBwghIqLnVzLXdlc3QyLnJ1bi5hcHCC
+EioudXMtd2VzdDMucnVuLmFwcIISKi51cy13ZXN0NC5ydW4uYXBwghIqLnVzLXdl
+c3Q4LnJ1bi5hcHAwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmg
+J4YlaHR0cDovL2MucGtpLmdvb2cvd3IyL29CRllZYWh6Z1ZJLmNybDCCAQYGCisG
+AQQB1nkCBAIEgfcEgfQA8gB3AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fO
+zDsIAAABkq5vmF0AAAQDAEgwRgIhAP8LJkfxZlQLzPHVF896C2ihWj9cyBld4OfP
+PjIaCvkyAiEA+vtOC5Q1FKXdgBGzt4n4E6X7etfKrjK6UTqU9bz8WAcAdwB9WR4S
+4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZKub5hOAAAEAwBIMEYCIQCy
+qPEVqr4cQNjhYMzLMK234wjawir17m2j+GOk2VGimgIhAITI/ItKtmHgtlYOECvT
++MURPBVMrsD3xuCKGI5EhWQ9MA0GCSqGSIb3DQEBCwUAA4IBAQBeLKoEPcSo7Vd9
+Ra/iqoz/te5o474B/7WYEMp7UIuziWhvyvb20UG30aS/eUm7wa1EFZJKQxCF36Q0
+yCC4KI1Ct3SOFlq3g3YHwyb4p97DjeSajnIgOHA9nliRbb07wQnXYWsMyh6it1oC
+J/djIewbpmAMMqcwmXG+K5pzOJ2mJVkhYNDOOsG1CJOMzdSBFfHqSNYk3+884gh/
+Erv+iJYpRBXjVwTBWgSDQDoNfdxIunA6mVD71jrWjj339KQX5VVOcW/qLj/Eb7Wr
+za6zldVLE4i99wGvUCoMEnACHTZsiXp3WhkTraeicr99CL5WuyNBueRTWFoP4pY9
+VqZ/2G5p
+-----END CERTIFICATE-----
+subject=CN=*.a.run.app
+issuer=C=US, O=Google Trust Services, CN=WR2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5255 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,93 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.bttrack.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar  1 00:00:00 2024 GMT; NotAfter: Apr  1 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 4 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGLzCCBRegAwIBAgIRANwUvUzC7xKwHmXIG0fXGyQwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yNDAzMDEwMDAwMDBaFw0yNTA0MDEyMzU5NTlaMBgxFjAUBgNVBAMMDSou
+YnR0cmFjay5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDtUqgW
+YnpZAxdAa3aH736a7mSvhpeb7nJGv+aIJRU9+bsva/HS4iOMRVIHlMFR3dUDL7zm
+XntOBwa7ZXsSfv8qLOBHK1aod9fxIyQAphx8icydDvm3ZSyhDbWeiwHD3bQCOg3E
+sNCMmSwg2qPYzup6W0o948TFYvpneWbElfYmTh1LfuvHUlpALLIFCNLkrSE5RPqf
+VxW+C+afUVDw9sZu0tvFLGjKDNa4piKPZKB/jehaly3pP1bMQakteNQdzx2vDUGF
+soYrHBmoTqQ1N7EQnG9ebeMRQT+7TZgsIN2gTi678y6ZnRzTifeJ2xGP015E2bQU
+o30+UxOLLMi4Lpf1AgMBAAGjggL6MIIC9jAfBgNVHSMEGDAWgBSNjF7EVK2K4Xfp
+m/mbBeG4AY1h4TAdBgNVHQ4EFgQU4TmfJ0+BNd8TvoRTYZ3gHk+x/hswDgYDVR0P
+AQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEFBQcCARYX
+aHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEFBQcBAQR4
+MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JT
+QURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGG
+F2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMCUGA1UdEQQeMByCDSouYnR0cmFjay5j
+b22CC2J0dHJhY2suY29tMIIBfAYKKwYBBAHWeQIEAgSCAWwEggFoAWYAdgDPEVbu
+1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAY36JV8hAAAEAwBHMEUCIHgu
+NjA/f+29NWgbfZ5DffNbU87ozprevPhNGY78md/VAiEAmTftTr0uc0OXOGCaOHue
+jJcXwaVjYcTUUgEZSQcX2qUAdACi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14bLMS5
+UKRH5wAAAY36JV87AAAEAwBFMEMCIB5Mk9r05W89E6VAFhpTh5SgszzI3iKn+aY9
+utzAwFsUAh9ZVDn8l2gxoVdlpn9HzuNo5k9PfvK0wnPg/uqdpE3WAHYATnWjJ1ya
+EMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGN+iVfTwAABAMARzBFAiEAxuTG
+3/t8oR/Wj/LmnGREcYjv5xyZ2J/8yTr5FV77/CUCIDE/req2d5LnfD2OFoaNtuPC
+Gea5XrgGAZjO/+3KhYOpMA0GCSqGSIb3DQEBCwUAA4IBAQBgPtK7Ucy9cYLLq9n9
+M8brC/2CK6ZzNvaoXdwEa6Pc1Fk6KY9KlUfTBzQQdK716SuYjS9h9A2Yy9J2vklg
+sPBYkjjP0k6W8oMwbB3whqIvBgrceCZrj44BMQNB/fswJY6QJmm1m91m9p0Q8b6o
+tq67vF/JZIHcN41yNCpR5E8W7hwJf69Hczt4LER+hnuYT5iu5pRrdPZ1bCXmHixv
++35jh/M7VWKRwNQHaBYdxMQq1mNqluv78Nbp06Amn5FsKB7vZOH2CfLykmM45slo
+M/lXogLrVHM8EVvjblgE+lYDOp+FjTIDGrF2Y2TRN7s9Ke6p2ibzIGi5UY5I29kD
+lniE
+-----END CERTIFICATE-----
+subject=CN=*.bttrack.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 8026 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 
+    Session-ID-ctx: 
+    Master-Key: B38606B434BE269E0C4B0820F5E8C23D8B38E337A67673A562EE05654C9B6E45D3055A9B2C5B4062A72EF2F271FA0B1E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697029
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

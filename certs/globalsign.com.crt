@@ -1,0 +1,98 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:businessCategory=Private Organization, serialNumber=578611, jurisdictionC=US, jurisdictionST=New Hampshire, C=US, ST=New Hampshire, L=Portsmouth, street=2 International Drive, Suite 150, O=GMO GlobalSign, Inc., CN=www.globalsign.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Extended Validation CA - SHA256 - G3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  7 04:12:02 2024 GMT; NotAfter: Nov  6 14:31:01 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Extended Validation CA - SHA256 - G3
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 21 00:00:00 2016 GMT; NotAfter: Sep 21 00:00:00 2026 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 19 00:00:00 2018 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIKrzCCCZegAwIBAgIMI4XXJCDnjjUY4UhpMA0GCSqGSIb3DQEBCwUAMGIxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTgwNgYDVQQDEy9H
+bG9iYWxTaWduIEV4dGVuZGVkIFZhbGlkYXRpb24gQ0EgLSBTSEEyNTYgLSBHMzAe
+Fw0yNDEwMDcwNDEyMDJaFw0yNTExMDYxNDMxMDFaMIIBBjEdMBsGA1UEDwwUUHJp
+dmF0ZSBPcmdhbml6YXRpb24xDzANBgNVBAUTBjU3ODYxMTETMBEGCysGAQQBgjc8
+AgEDEwJVUzEeMBwGCysGAQQBgjc8AgECEw1OZXcgSGFtcHNoaXJlMQswCQYDVQQG
+EwJVUzEWMBQGA1UECBMNTmV3IEhhbXBzaGlyZTETMBEGA1UEBxMKUG9ydHNtb3V0
+aDEpMCcGA1UECRMgMiBJbnRlcm5hdGlvbmFsIERyaXZlLCBTdWl0ZSAxNTAxHTAb
+BgNVBAoTFEdNTyBHbG9iYWxTaWduLCBJbmMuMRswGQYDVQQDExJ3d3cuZ2xvYmFs
+c2lnbi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDuVR1VbeGT
+ZYnEOBmyAdc1rC4R9jsay9Ek4wV/VZPW1Du3b39K5FvLyVUSJUdhLm7jCDV7WR1C
+nHMK3Ir2IlXu3eLot5fx6Gtc7scNkF/w1kWHaLXq6DQjM2MW2rpo2GxnJQuAdk5s
+kiCAgk2SqHavYvlvUhOzwbJcAPVwxuzkzqHg5mJuRMRJW+fZ2YHSZUs/5bVlBj/R
+r2MTjkDgJWfexuwSr8qdN7N9qxnjn0z83Ba3WP5WrQ/6lc0jWtD00Olo6lYXHNKJ
+j+DON3FYClx31SCF2XePX3GU1EefqblFQpDn95rsLG+dC6O0U0fami8yt9PpT7UE
+A13HKAAXFrdhAgMBAAGjgga9MIIGuTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/
+BAIwADCBlgYIKwYBBQUHAQEEgYkwgYYwRwYIKwYBBQUHMAKGO2h0dHA6Ly9zZWN1
+cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzZXh0ZW5kdmFsc2hhMmczcjMuY3J0
+MDsGCCsGAQUFBzABhi9odHRwOi8vb2NzcDIuZ2xvYmFsc2lnbi5jb20vZ3NleHRl
+bmR2YWxzaGEyZzNyMzBVBgNVHSAETjBMMEEGCSsGAQQBoDIBATA0MDIGCCsGAQUF
+BwIBFiZodHRwczovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAHBgVn
+gQwBATBFBgNVHR8EPjA8MDqgOKA2hjRodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29t
+L2dzL2dzZXh0ZW5kdmFsc2hhMmczcjMuY3JsMIIDfgYDVR0RBIIDdTCCA3GCEnd3
+dy5nbG9iYWxzaWduLmNvbYISY3JsLmdsb2JhbHNpZ24ubmV0gg5nbG9iYWxzaWdu
+Lm5ldIIVc2VjdXJlLmdsb2JhbHNpZ24ubmV0giJjZXJ0aWZpZWQtdGltZXN0YW1w
+Lmdsb2JhbHNpZ24uY29tghVjbGllbnQuZ2xvYmFsc2lnbi5jb22CG2N0bDEuZXBr
+aXByby5nbG9iYWxzaWduLmNvbYIXY3RsMS5oY3MuZ2xvYmFsc2lnbi5jb22CGmN0
+bDEuc3lzdGVtLmdsb2JhbHNpZ24uY29tghdjdGwyLmhjcy5nbG9iYWxzaWduLmNv
+bYIaY3RsMi5zeXN0ZW0uZ2xvYmFsc2lnbi5jb22CFWUtc2lnbi5nbG9iYWxzaWdu
+LmNvbYISZWRpLmdsb2JhbHNpZ24uY29tghZlcGtpcHJvLmdsb2JhbHNpZ24uY29t
+ghJoY3MuZ2xvYmFsc2lnbi5jb22CEWpwLmdsb2JhbHNpZ24uY29tghRvY25ncy5n
+bG9iYWxzaWduLmNvbYIYb3BlcmF0aW9uLmdsb2JhbHNpZ24uY29tghZwcm9maWxl
+Lmdsb2JhbHNpZ24uY29tghVyZWdpc3QuZ2xvYmFsc2lnbi5jb22CIHJmYzMxNjEt
+dGltZXN0YW1wLmdsb2JhbHNpZ24uY29tgh9yZmMzMTYxdGltZXN0YW1wLmdsb2Jh
+bHNpZ24uY29tghNzZWFsLmdsb2JhbHNpZ24uY29tghVzZWN1cmUuZ2xvYmFsc2ln
+bi5jb22CE3Nob3AuZ2xvYmFsc2lnbi5jb22CFHNzaWYxLmdsb2JhbHNpZ24uY29t
+ghdzc2xjaGVjay5nbG9iYWxzaWduLmNvbYIVc3RhdHVzLmdsb2JhbHNpZ24uY29t
+ghZzdXBwb3J0Lmdsb2JhbHNpZ24uY29tghVzeXN0ZW0uZ2xvYmFsc2lnbi5jb22C
+EmNybC5nbG9iYWxzaWduLmNvbYIWY29sbGVnZS5nbG9iYWxzaWduLmNvbYImc3Rn
+LWNlcnRpZmllZC10aW1lc3RhbXAuZ2xvYmFsc2lnbi5jb22CGXNlYWwuYXRsYXMu
+Z2xvYmFsc2lnbi5jb22CHXNlYWwtc3RnLmF0bGFzLmdsb2JhbHNpZ24uY29tgg5n
+bG9iYWxzaWduLmNvbTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYD
+VR0jBBgwFoAU3bPnbagu6MVObs905nU8lBXO6B0wHQYDVR0OBBYEFH3D3oGAkayd
+VV1Ia7nIiXvMWbv2MIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkAdgCvGBoo1oyj
+4KmKTJxnqwn4u7wiuq68sTijoZ3T+bYDDQAAAZJlLVyjAAAEAwBHMEUCIHaOfXqY
+/YCW1lOfiygkMICVoZg1kfrznAqR/Rzl9oaAAiEA771souDwYxAtBwbe3r9q+M+h
+pgKUAtJOEBXQktDNHFcAdwAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYm
+OgAAAZJlLV2VAAAEAwBIMEYCIQCT912K0kw8wAacc29e6X7a9IaLG3/sjkamn0f4
+Ppxq2gIhAJG1UgPzdLgSkDrR2nF/+7AH87ICoXTgaKLmKJzXfj36AHYADeHyMCvT
+DcFAYhIJ6lUu/Ed0fLHX6TDvDkIetH5OqjQAAAGSZS1cgwAABAMARzBFAiAv2+l5
+AoasEJmGXEhHu8Kf6Q2yTuX00qshrQqtRzJzRwIhAOa47y4odRc/VldWctRCsoH1
+9gZ1H5ktXnncFdIO2UnBMA0GCSqGSIb3DQEBCwUAA4IBAQAXPm1CR0S8pT5z2liq
+6NrJdAVx7AJSS54HP+APGbKu3CvGAPJ0XB9S5Dk1Tjgyqg1F42OAuIEUqeY+IQyf
+SMIoq3NWE2mHv/h6sigRdon5WrhdclcG1a0h96NyPWkHsUKKjegmwWhypbAqLFpi
+JJPRtWGNGq2wsoo9l2/tFxfwsTtXXJbmmfXuaUqRdd8cNo/crq17BJDYx1j+bO2w
+9jfgKOF0SULkkiP8sZ173cY+j8YMRS4VqNZpa2Yh2nRZwJ4tGZJUAwZo5evy8NnZ
+GmW4pc3GyKOykVZ/X8QRu1h082QaYeHGAMy0cLtklub7KlcKtlZowYQ+6651FwmU
+8wnF
+-----END CERTIFICATE-----
+subject=businessCategory=Private Organization, serialNumber=578611, jurisdictionC=US, jurisdictionST=New Hampshire, C=US, ST=New Hampshire, L=Portsmouth, street=2 International Drive, Suite 150, O=GMO GlobalSign, Inc., CN=www.globalsign.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Extended Validation CA - SHA256 - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5474 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

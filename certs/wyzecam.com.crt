@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=wyzecam.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 16 13:13:59 2024 GMT; NotAfter: Feb 14 13:13:58 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpjCCA0ygAwIBAgIRAJmAx1sYAtryDvh24EAAzaEwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTExNjEzMTM1OVoXDTI1MDIxNDEzMTM1OFowFjEUMBIG
+A1UEAxMLd3l6ZWNhbS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAS9NRKz
+Ua2FKll7m2D/qsMU3sgT2mXlb4zPK8OPcMjKWwPQc/Y+X5pMKcMaSY6iuBjCgXo8
+LDMS6J7prvp76fhRo4ICVDCCAlAwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoG
+CCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFBGG4UEY8JjNOZUw0G2z
+vGfdaLX0MB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsGAQUF
+BwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEvbVlB
+MCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MCUGA1UdEQQe
+MByCC3d5emVjYW0uY29tgg0qLnd5emVjYW0uY29tMBMGA1UdIAQMMAowCAYGZ4EM
+AQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9rYjZ4
+V3otVGN0WS5jcmwwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwBOdaMnXJoQwzhb
+bNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAZM1Us3bAAAEAwBIMEYCIQCwqY/q44aC
+bT7OS0bD/yCXM/ZCOpN9ti7lne9bRndfBAIhAKMsUgMiCZK0b9FIKVoy987qLEU+
+l/zzpi9Xks4dEfwOAHYAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebgA
+AAGTNVLR7QAABAMARzBFAiAbPzmKEIYj75dCwGlV/WRWMnyJ3vX/i559PNRzOuGW
+hgIhAKyrpXUALdgR2nWCP1jcpiJ57O439hSG0obifh4Efuq1MAoGCCqGSM49BAMC
+A0gAMEUCIQCYZwWmhHrMSV/hGBso3JK3oQqFZ0A2zvfwjbDDhJAW9AIgG7BFTR/T
+PH+y0WkboHG9JKwb/Xpvp2G0PNABTokVggY=
+-----END CERTIFICATE-----
+subject=CN=wyzecam.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2826 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

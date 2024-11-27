@@ -1,0 +1,66 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=esxdos.org
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 23 08:29:59 2024 GMT; NotAfter: Jan 21 08:29:58 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFczCCBFugAwIBAgISAyZPJbwILorc13yAkH0/RoqSMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDIzMDgyOTU5WhcNMjUwMTIxMDgyOTU4WjAVMRMwEQYDVQQD
+Ewplc3hkb3Mub3JnMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvv6q
+ZqWioGRnMVA51JH/Eoyucdi1e4y7Pr6ZwaHrCBRjjdkqCQ1C3YfFcgjRamQRUUAN
+e+0s4Z3QsvP0Gcf7CEQiqrP8ZvxUugsCyc8RUul+i/7ViepZtJ04DpvikMqF4fti
+gGfnts1hkPTPYeFwxQkc6irtFjcYzIFm0D93R3S2v2ESYkQ59whD+TX1LT07m3Cb
+niQYCOG8hr2oZZfWTq6tRfE4ra44nBtIs1uVPhEzx7VQVGfT7d6Il2iHiNmDUJK/
+O2JA2FRReLO0PbPwqt/1iavW4n3JMaNKjIfBWaVR3jl3loFeaxOxpsOVMZvFmgoF
+V1yg1m5+VSco7fso5wIDAQABo4ICnTCCApkwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBS00gXxmkG/JyCCphwXCrV+a7WhmzAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQt
+sF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEu
+by5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcv
+MIGiBgNVHREEgZowgZeCEWNwYW5lbC5lc3hkb3Mub3JnghZjcGNhbGVuZGFycy5l
+c3hkb3Mub3JnghVjcGNvbnRhY3RzLmVzeGRvcy5vcmeCCmVzeGRvcy5vcmeCD21h
+aWwuZXN4ZG9zLm9yZ4ISd2ViZGlzay5lc3hkb3Mub3JnghJ3ZWJtYWlsLmVzeGRv
+cy5vcmeCDnd3dy5lc3hkb3Mub3JnMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBQYK
+KwYBBAHWeQIEAgSB9gSB8wDxAHYAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/Z
+DowuebgAAAGSuLTLwwAABAMARzBFAiEA9fZlJ0F6ErxyN/AsZfJufByqPl/1R1Zo
+rELkPKE75E4CIFv8evR818fHcRf+NEWTSMse6MJpXaQmglrGKSiH2StKAHcAE0rf
+GrWYQgl4DG/vTHqRpBa3I0nOWFdq367ap8Kr4CIAAAGSuLTMCgAABAMASDBGAiEA
+/Gw0+i+Ml/EZHVTf5XtJrjdP3CryhRypqAf+ZalgxWICIQDniZ1ONUKH11bhUN0m
+hsAaDdDp0mY28CPKUIXPH4xPQTANBgkqhkiG9w0BAQsFAAOCAQEAkX9EdrgTykrB
+bJnvibfIujXCe5Xy/05JOsiv5GrDXKBxY7Hbhed5yBXbRujB7JopX63uRxCpJq7O
+OsyV5SlYoVxgGnsV2OWHt4vJJXDq69+/NcUGW/lFnWQwX9O7pJaKStyRWbOXF/QI
+O1MlYiQXujIa8mTm3cI49dDNpFyYqiCag22R3TfIROd0v3wCd6lojX86gV2BdBbf
+yJpGR7dquFvy4roYXqMeUlRE+qv4lrrgkUsU6kF4M19sSlz1AD5PWQjzt1EHxYZO
+i1vAG36cmQurR+vKmyGqLgEYrkiDX11has9Xdp6aErqFbNvZKcfyinIxSMNElMYH
+2ODMoRgNnw==
+-----END CERTIFICATE-----
+subject=CN=esxdos.org
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3184 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

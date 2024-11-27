@@ -1,0 +1,90 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=consentmanager.net
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 17 10:45:39 2024 GMT; NotAfter: Feb 15 10:45:38 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE8zCCA9ugAwIBAgISBFr6IXpx/W7psJF+39/bE3NLMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTE3MTA0NTM5WhcNMjUwMjE1MTA0NTM4WjAdMRswGQYDVQQD
+ExJjb25zZW50bWFuYWdlci5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDI1r2bN+Lrj6p/HQK02I4NxnhlCJn+0cZP3JOU/MhHDoUHlx6CnwzjHz00
+ZDGfdBPY19RoCc3AdIoVw6Z6zp1Z9f+s5DSxP1LIKqoTfoCVax5LlxkuyJYCM7i7
+Kc+QhuYctfj8haWtJiS4KVH6eoaC5VJ2pXPpeACs8mQwP1U+VPKdxG0/RYD6CnXl
+He5H9Otz9yzG5ZHxfz6ywYkfcwCUDSrHSEZrylp10N/inY5A+m4hFhuXqp9WpGRK
+QKs3K1gp0ro9g5Ym2E4IPxVXs7YvloKOI0hC+jVnrLaS99Aq6/7jaNcPNtedvIqJ
+bG7e0O/QnE8ftCZVuXgYyjbIenUFAgMBAAGjggIVMIICETAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFGBU9vpsAtKwVVXO4t57AM7avXVrMB8GA1UdIwQYMBaAFMXPRqTq
+9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0
+cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxl
+bmNyLm9yZy8wHQYDVR0RBBYwFIISY29uc2VudG1hbmFnZXIubmV0MBMGA1UdIAQM
+MAowCAYGZ4EMAQIBMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAzxFW7tUufK/z
+h1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGTOe//LwAABAMARjBEAiAIGD9cfQZb
+BtOHEj8OBL0tmGuOQWSpTHAg5878EJ90hwIgDp4s0UuCs2Q4nxiBjeRfbeM9ZrxX
+IYG3pgNhAntfW5UAdgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAA
+AZM57/9xAAAEAwBHMEUCIQCbTg2xWvDeaAVa60/EHR9hLPRJuJiTZVWsyh/mNMl9
+ngIgSkSgM/5CX6jIpuv9CCnfVYzhhKk5zFIPbpJCZQty5nQwDQYJKoZIhvcNAQEL
+BQADggEBADUJGBPNMuqDX/N3FH0lGr6/DUgt5UpfAT3lSsrCRqIFktGV135yYagm
+FPi4VJsuW3X6h02wFjKz4I4uy5A0dopTFPPkTupQVAt2KdMcTdKsa8tKiS9/Pgay
+CbqfCdRd69JIUOx16ua/WQEkGChTPp2QdP4BRaNktzo3CnKfe3D5UUgANPh8Uty3
+e7+Fho/0mhUDQLzsSg3VZNUc44syUMAzp0oRkK5WNfrysm7GulbjAf1c9F+D83/V
+m74htrQgCRPtHDKZW50GKGMF9yrHOhMq/JM+qxoQdyy8d1YSbRWA7jJMTjei0yIC
+pOFktnF9IG6v9db79cWO1w0IXvlupvQ=
+-----END CERTIFICATE-----
+subject=CN=consentmanager.net
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3241 bytes and written 422 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 65B83466E20CC7EF7669E772BDFAE2881FBB452656FDB582F7E4A0CFCD280196
+    Session-ID-ctx: 
+    Master-Key: 42CAAB82F80103DD7AE38F006FE11BD0EF320C32CF961C7EA70AAC9C35A4C16C8B211B2F5ED08CCC6F586B66DCD12421
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 09 1e 3d 57 8d 9c c4 83-92 fd 8d 1e 3b c5 c5 6c   ..=W........;..l
+    0010 - e7 1f a7 ee bb e7 ec 19-64 f1 78 a8 ee 4a b9 98   ........d.x..J..
+    0020 - ac 13 39 c2 c4 ba 39 39-a2 53 e1 d4 c2 00 62 49   ..9...99.S....bI
+    0030 - 44 27 0d 7c 3a 9c 1b d6-cf 27 01 55 35 56 67 aa   D'.|:....'.U5Vg.
+    0040 - cc 0f 23 61 e5 bc c6 db-e4 80 24 75 ba 6b b5 8c   ..#a......$u.k..
+    0050 - 23 56 54 88 9b ba 69 ab-10 bf 3f 3f 36 58 60 80   #VT...i...??6X`.
+    0060 - 4b 56 63 4b 7d 09 84 f6-d3 32 e9 ee b9 12 96 0d   KVcK}....2......
+    0070 - 54 ec 7e ab c6 46 e0 5b-49 fb 7f 70 02 f1 53 bb   T.~..F.[I..p..S.
+    0080 - 74 84 7d fc c4 2a 1e f3-77 03 91 ae c8 44 29 26   t.}..*..w....D)&
+    0090 - 5d 08 e2 dd a1 24 8b 71-5e 00 e3 b2 8e 95 89 95   ]....$.q^.......
+    00a0 - 62 43 32 b8 57 71 14 4b-42 0c 7a fd d9 40 16 ac   bC2.Wq.KB.z..@..
+    00b0 - dd ec b7 89 e8 c9 89 04-78 82 76 1a aa 40 d7 5a   ........x.v..@.Z
+    00c0 - d5 4f 99 94 03 a8 28 ea-55 c8 b4 02 ba 89 18 e9   .O....(.U.......
+
+    Start Time: 1732697102
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

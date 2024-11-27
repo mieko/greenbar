@@ -1,0 +1,103 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CN, ST=Zhejiang Sheng, O=NetEase (Hangzhou) Network Co., Ltd, CN=*.ws.netease.com
+   i:C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia RSA OV TLS CA G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Dec 19 00:00:00 2023 GMT; NotAfter: Jan 15 23:59:59 2025 GMT
+ 1 s:C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia RSA OV TLS CA G2
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 3072 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 10 00:00:00 2022 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 2 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHFzCCBX+gAwIBAgIRAMyxIBDUx5uOwyBdloRyzScwDQYJKoZIhvcNAQEMBQAw
+WTELMAkGA1UEBhMCQ04xJTAjBgNVBAoTHFRydXN0QXNpYSBUZWNobm9sb2dpZXMs
+IEluYy4xIzAhBgNVBAMTGlRydXN0QXNpYSBSU0EgT1YgVExTIENBIEcyMB4XDTIz
+MTIxOTAwMDAwMFoXDTI1MDExNTIzNTk1OVowbzELMAkGA1UEBhMCQ04xFzAVBgNV
+BAgTDlpoZWppYW5nIFNoZW5nMSwwKgYDVQQKEyNOZXRFYXNlIChIYW5nemhvdSkg
+TmV0d29yayBDby4sIEx0ZDEZMBcGA1UEAwwQKi53cy5uZXRlYXNlLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL3iuPQ1c1GQqAbnVjaqYOPA1bP0
+NKizLjCRMncogiNleY5z1xSjo1denmaSutZzZoZl+GL5DISHUoFDIUq7/Yb54Hyu
+VF+uIp+lA6Ek7CyN7q/rSdBzsLqoi9fsxJm5T2FHhYup4ZBepsBziBjUqQzN/OXT
+sbsQpnfIwMUS3bEC2Gxv0oRVeEOJmEnoAhhykmDton7ucmjVlVvUyTfmoDVq0h9p
+8LwaCnu1mkKVd00ooArYhF12UreHKWB8pfuI3KwnWrmy759rm+FHaE7QXihelz5Q
+57h18qsc5uswC5djqrCPFrQjUEpRI5Ysqta4Q5IZrkcHHuks8R9CvGdM0OkCAwEA
+AaOCA0IwggM+MB8GA1UdIwQYMBaAFMoxITcM3jm30istVZpcqalcUPomMB0GA1Ud
+DgQWBBSjFZm4cIB/3+3KQXPiF9gAgjDT7zAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0T
+AQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIw
+QDA0BgsrBgEEAbIxAQICMTAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28u
+Y29tL0NQUzAIBgZngQwBAgIwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cDovL2NybC50
+cnVzdC1wcm92aWRlci5jbi9UcnVzdEFzaWFSU0FPVlRMU0NBRzIuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBCBggrBgEFBQcwAoY2aHR0cDovL2NydC50cnVzdC1wcm92aWRl
+ci5jbi9UcnVzdEFzaWFSU0FPVlRMU0NBRzIuY3J0MCkGCCsGAQUFBzABhh1odHRw
+Oi8vb2NzcC50cnVzdC1wcm92aWRlci5jbjArBgNVHREEJDAighAqLndzLm5ldGVh
+c2UuY29tgg53cy5uZXRlYXNlLmNvbTCCAX0GCisGAQQB1nkCBAIEggFtBIIBaQFn
+AHYAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGMgA9FTgAABAMA
+RzBFAiEAwfUz/i8ygMwLDV4Oe7l0EVQwvygI0OgaMdW9z/NAodICIG4Bm3NWalg0
+ZymT2zHlecxO8yf9Zh1Y9GwZB07bNnloAHYAouMK5EXvva2bfjjtR2d3U9eCW4SU
+1yteGyzEuVCkR+cAAAGMgA9FIgAABAMARzBFAiBaO9L7UMCJIcggLHhCsAJBywOG
+LDfDsb5QxQ8n82dyMgIhANhSkUQxJSmi/t/FJWw8BiDN2BWBTy/zZYp4TDpX0dtU
+AHUATnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGMgA9FKwAABAMA
+RjBEAiB75l1gRnep+lY48UYTU2XR4I3868SQDmcUs3/dPa6n4AIgfiJPXacHGyfF
+Pa2yG5cqCzYMn9wPwji/zHKJTzszP7kwDQYJKoZIhvcNAQEMBQADggGBAJ0+Phos
+K4kBFXcKbVZPXff2qn3z0XppXUAu8oOcRjttE3EyyBEkXWk9tza+kLNo1Hv4nTLb
+xPF0w3dgOHmR3KwzHiVpbzdDsfxrBvNMfBEGEb+JT0rFYPTu7OhB7J8H9rNGiq7/
+OmgC70q+kPb1Fb6hi0gIB8zPa9DcAAszFYoLCVG0g/Q2gTcE33V97NM3TPCoEQw+
+yR6itqer+0D2oAHZUbsv4Me/40TTWepeYLcOwuhwEBjh/0v4Pad0CmHJMwIGgZV/
+N3DaPbTChsV3Y7L46tXi3DEJeHNpe0Lw7U4H9IZbT7c0U8AENCLVJeN40mgtDp0N
+121KIE9X/8+YgE71xFp6eDiB6++Kft4kpWr0gHsYRWnCBvYuvXUJfS1DLjNfGJzE
+xbOAqCzw+xFYgmvdn2eXrEd26m717Gy4aWcxYGqWlljy2Thp0OTZx8s3NaQoLa3G
+pqw6q4jCEZhOWbLJXMiQ0W7gVkNyqlVLlY9Rncxdd3zzWhwGg/SgdNMKyw==
+-----END CERTIFICATE-----
+subject=C=CN, ST=Zhejiang Sheng, O=NetEase (Hangzhou) Network Co., Ltd, CN=*.ws.netease.com
+issuer=C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia RSA OV TLS CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4835 bytes and written 415 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: EF13874F3A6A4D5C4BB9AA4F304ED184CF92EE6115D64835048BBDFF909C1C01
+    Session-ID-ctx: 
+    Master-Key: F29579F1F451AC3BEF6D4E19135B8F931B762AEB5ACA192689C143E30D4181A6A149F5B2A5118123769BADB16231127E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - bc 6c eb 03 d8 7a 90 f8-0d bd e3 52 96 1a 68 a6   .l...z.....R..h.
+    0010 - 8d 23 e6 e7 fe aa 31 3a-cf a2 25 76 86 12 17 a0   .#....1:..%v....
+    0020 - c5 d9 ad 91 07 1a 7c ab-d5 9a ca fd 85 3f 8e b6   ......|......?..
+    0030 - 06 f8 9c ac 68 b2 3a 2a-0b 3d 0d c1 3b 4d 5a 14   ....h.:*.=..;MZ.
+    0040 - ca 31 72 5e f7 80 bb f2-5a ec c5 c6 01 bb 2f 30   .1r^....Z...../0
+    0050 - b3 0f 63 52 f4 20 41 1d-4e 2b 26 c2 cf 5f 26 7a   ..cR. A.N+&.._&z
+    0060 - 87 dd 19 f3 26 4c 81 b9-60 8b c4 87 56 c2 f3 ba   ....&L..`...V...
+    0070 - f6 27 1a 99 13 18 95 61-2e 21 75 f9 3d c8 5d 60   .'.....a.!u.=.]`
+    0080 - 75 e5 03 fb 22 da 71 67-69 49 31 c2 69 6a cb 85   u...".qgiI1.ij..
+    0090 - e5 cc b9 9d fe 4b f3 99-38 0c 2a ce b3 33 a8 42   .....K..8.*..3.B
+    00a0 - db 84 f6 0d 40 fe 24 ee-bb 18 f8 61 c0 85 60 f6   ....@.$....a..`.
+
+    Start Time: 1732697572
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

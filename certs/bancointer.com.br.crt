@@ -1,0 +1,73 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=bancointer.com.br
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 30 00:00:00 2024 GMT; NotAfter: Nov 28 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGADCCBOigAwIBAgIQBcFeG84cLWNTsceM9RWGPTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MTAzMDAwMDAwMFoXDTI1MTEyODIzNTk1OVowHDEa
+MBgGA1UEAxMRYmFuY29pbnRlci5jb20uYnIwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDOJCU0sHFr7qNAqJhhOHNCJkwOJIbYY4ZX1Bmf+4ZEuMcFv3fP
+lX3ECcGMH6G/0ZUcQZIehiX+2q9xEzuToj7cqkw8q7d5ObDpCfQDRNiyRwxz4sPa
+rGIqJsC7L4nZVmgCPoFTKIxfNn+JOfCsfu0gT/dbFLflxjCC0OBaYd1zz2YTOWvP
+gtBllcds0kLN+RAXB2MQ4CKNSsEntsTjq+KBb2QArijioEwauqkFu2frmFdK7ODd
+WLXv9fm6umzvxrgCNovEbwq2whwrUz/ZA2OVKvRRy3SvHo4O+6TFYDmC58GzC/3u
+7/hGeyD6w6z6ALbouaPR/yo3cUteuYy5t6thAgMBAAGjggMcMIIDGDAfBgNVHSME
+GDAWgBRV2Rhf0hzMAeFYtL6r2VVCAdcuAjAdBgNVHQ4EFgQUvio3XvqXqkkmzdxN
+kB/uGJoTQc4wTQYDVR0RBEYwRIIRYmFuY29pbnRlci5jb20uYnKCFXd3dy5iYW5j
+b2ludGVyLmNvbS5icoIYYXNzZXRzLmJhbmNvaW50ZXIuY29tLmJyMBMGA1UdIAQM
+MAowCAYGZ4EMAQIBMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5yMm0wMy5h
+bWF6b250cnVzdC5jb20vcjJtMDMuY3JsMHUGCCsGAQUFBwEBBGkwZzAtBggrBgEF
+BQcwAYYhaHR0cDovL29jc3AucjJtMDMuYW1hem9udHJ1c3QuY29tMDYGCCsGAQUF
+BzAChipodHRwOi8vY3J0LnIybTAzLmFtYXpvbnRydXN0LmNvbS9yMm0wMy5jZXIw
+DAYDVR0TAQH/BAIwADCCAX8GCisGAQQB1nkCBAIEggFvBIIBawFpAHYAEvFONL1T
+ckyEBhnDjz96E/jntWKHiJxtMAWE6+WGJjoAAAGS3p6jvAAABAMARzBFAiEA807T
+CjZW7OfoA+dxvFDIW8QZed3jRIP8LHIBaXnhRgYCIECHfreDZrVqu/SuXjP/6CUZ
+4xFqU/xBzVPMpAXv9UMQAHcA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43
+jlAAAAGS3p6kBwAABAMASDBGAiEA7+q/vF7yMNMbkq8qGY0R/aX4EdHbS0aoNxC9
+edm+pbkCIQDsyTL8m6x3cYZD1nec+wDkrIVBXtzXTDq7eLF7wX4/qAB2AMz7D2qF
+cQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABkt6eo94AAAQDAEcwRQIhALAC
+WofEyVWwcnudedUYxMrZUmbykaNRtgkPbyDrYY74AiB7EDHPMi6sfUKDx58i/SeQ
+RopZvQhd0Ug97++Mg9IFWTANBgkqhkiG9w0BAQsFAAOCAQEADXpL9HS3wrAfGygE
+gLHR84dor66MXK2E/rLRe5n7UtOy7knvPPSnvmo4BgG9nK5RJIb+MBfxKnWmxBFq
+t8BECk6MIWiTE38eX9513bOUT44yLSpBtlfWCpJ2rfLHN4QKNSKWRnaeyDVISl6T
+zB/VRKD9C8qxTb93yCg4m8x2X8IJ9DpDsq8/LlZHdfj10gSN14tUoAQhfAw3WxjB
+zeoFdB7L0mtt4NsGnb3UmSQ6rqSMKqe58E6AjrSgLOfhLODiQtpDqtP9PWHqzOxT
+CmDwDtgvvlYNTiM2tgEGhZMZgAtZC4dakeBTjuIFqvYpECmsoXBhwh4pklZdikEL
+x3ppfA==
+-----END CERTIFICATE-----
+subject=CN=bancointer.com.br
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4390 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

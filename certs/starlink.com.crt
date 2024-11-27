@@ -1,0 +1,97 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=starlink.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  1 16:03:14 2024 GMT; NotAfter: Dec 30 16:03:13 2024 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdTCCBF2gAwIBAgISA/Jk1i9tKq8gK6LxEJlyU02vMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMDAxMTYwMzE0WhcNMjQxMjMwMTYwMzEzWjAXMRUwEwYDVQQD
+EwxzdGFybGluay5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDY
+dl0t/+Ch3P8ZTelLFbudSsypNqjUsaLCdMH8PhOfm+U9Qt3POOVcxfH/68Z5BCJy
+K/fNOOyv3E8Z+2wJP02+tczuRyr1IDU08F4nZ1SKcEH6nK18d53CNmoQyQV7EM4e
+1Oa20o7eEayDOem+knYkv8+P6SejYkt/1z78/g/WXa9fCVMcDzfa0P64QFkbrqxr
+E4Ayl88xCTAw9dfgWIvFGzxS65NEsAL074L+gMrpEUEDd2fyWd0QXFRKH5iS8W/k
+LHPasjoDxg/zega1/ToVNrjMFd0J9VJbUHsHPnm5QY6myAPwHehZcq0n7CuqQI3h
+IvSX+1kZwHgBvqwPGaVDAgMBAAGjggKdMIICmTAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFKyGT34akPymCgxmmvs9sVcTnUpYMB8GA1UdIwQYMBaAFLu8w0el5LypxsOk
+cgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3Ix
+MC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxlbmNyLm9y
+Zy8wgaUGA1UdEQSBnTCBmoIWYW5hbHl0aWNzLnN0YXJsaW5rLmNvbYIQYXBpLnN0
+YXJsaW5rLmNvbYIRYXV0aC5zdGFybGluay5jb22CEnNldHVwLnN0YXJsaW5rLmNv
+bYIRc2hvcC5zdGFybGluay5jb22CDHN0YXJsaW5rLmNvbYIUc3VwcG9ydC5zdGFy
+bGluay5jb22CEHd3dy5zdGFybGluay5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEw
+ggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQBIsONr2qZHNA/lagL6nTDrHFIBy1bd
+LIHZu7+rOdiEcwAAAZJJB9sbAAAEAwBGMEQCIFBEsrKTRC4hp5tlham9pMERx8gP
+zlcfXFZ3otYGc9nuAiBj/YzlUVqwU/Ny+ASUJTrpxzWXElrcU24i7RJZppKEgQB1
+ABmYEHEJ8NZSLjCA0p4/ZLuDbijM+Q9Sju7fzko/FrTKAAABkkkH2y4AAAQDAEYw
+RAIgJ5ZUP7nVV/Ukqym2uQ0qgiczkbpFKn4QvdhaXaXxXJ8CIGQHM1JSkPF4nOC8
+E+aafyJ3cWk26c617YhcBFIH5FhgMA0GCSqGSIb3DQEBCwUAA4IBAQCqzNIz9sFS
+dqjd6Tw2pxjgy/Tmfzw+J0oAnvYns4iKpsfq7fXp0gx2AKK2ePPYL7wyvZSN1Uay
+ef4iRxoKkeB+bmSbt6Pyz4S9OcSFhDyvmFBjaDsDx5OyJm/9oMJuhDPDGS8NKB9Q
+2HjhrRL4G/E9tRi513DaqTpdHPV/5wBrJIX1aK87qpAWqzcT+iLfqIIskDX6eYVD
+QF64ZiLGwEtjv0t4V3m+lZ9ZBYsiY2k8WLqxaLQSlbbKVOtLvHraA8a8Nkyz2ux3
+9Ucbs2i/BG1LjPT89Ifyz8tkqC9E9xf1LIGMWA1Le1DbXWCnVimI9NY5Do0HWrrJ
+82SD5QJAFKgO
+-----END CERTIFICATE-----
+subject=CN=starlink.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3239 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: DB7D2AA80C1B636000E95866FE755F929C0D9FC45A6FD7ED99CE401F620BEC07
+    Session-ID-ctx: 
+    Resumption PSK: ACDB31BEED49C6CADE358DC6AE5493A3E16427F0F7214D8CEFF5F0FFC771DEEA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - 33 59 17 5d 31 22 57 7b-49 1a 6f 07 cc b5 3a 5a   3Y.]1"W{I.o...:Z
+    0020 - 55 8f eb 86 d6 17 41 cc-84 13 52 05 5a bf 57 dd   U.....A...R.Z.W.
+    0030 - d3 5a c3 51 a5 26 15 cd-35 37 87 b5 36 c4 e1 ee   .Z.Q.&..57..6...
+    0040 - 27 82 c0 98 17 b4 74 bd-45 9e 31 4d 20 6c ba a9   '.....t.E.1M l..
+    0050 - f7 83 83 a0 e1 81 62 7f-26 a9 9d aa 86 20 40 19   ......b.&.... @.
+    0060 - 1a cf 8f bc 35 9b de 16-c2 19 1c b6 5f 4f 9c 4e   ....5......._O.N
+    0070 - 6a 40 c1 15 4f 00 52 1a-7a 44 a3 70 e2 d2 9b ad   j@..O.R.zD.p....
+    0080 - 78 f5 e7 9f 90 84 d7 8a-09 40 ec 37 d9 8c 5b c6   x........@.7..[.
+    0090 - d8 65 be 20 a0 b4 55 97-18 b9 c0 5b dd 4d 11 51   .e. ..U....[.M.Q
+
+    Start Time: 1732697826
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

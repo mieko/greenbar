@@ -1,0 +1,91 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.parastorage.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 11:05:27 2024 GMT; NotAfter: Feb 13 11:05:26 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFBTCCA+2gAwIBAgISBGEC0bvy5twIuYbiXo2aUU1FMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTE1MTEwNTI3WhcNMjUwMjEzMTEwNTI2WjAcMRowGAYDVQQD
+DBEqLnBhcmFzdG9yYWdlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAMln2eFccgc0I95ifQ/NyfFqDXllceq4ypPqudit9m0cULf3a9zCO9rxuGFZ
+qXrf2iTeOZV+OWyDcYHqwMaQz2Xlc/deEjiMkV553MU3Lz1KA09fYo8Iq32qSo65
+gLEwDZEuJf2uzOKyCo2vGZA0uKKpUb2O2hntzrtUt96t67yURglFTUS0bZXV7UnZ
+5nUZFosZvnkCA1P0E9zHLfAkmnlgEt6GKb/UwnEGCs+jTDDlwXjhyjpjZRIuHgO/
+vW6wMRwmH6l1egW9HeigQxLlZW3c8cukImRmqz6ruv0fzeYE1rfNjAj/oKFDo9BK
+XCA1zA1kB1KXi3YMTMTd8CHtmTUCAwEAAaOCAigwggIkMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUDc0NhwAPmWr1GR3mbdpi6E95wv4wHwYDVR0jBBgwFoAUu7zDR6Xk
+vKnGw6RyDBCNojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRw
+Oi8vcjEwLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVu
+Y3Iub3JnLzAtBgNVHREEJjAkghEqLnBhcmFzdG9yYWdlLmNvbYIPcGFyYXN0b3Jh
+Z2UuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBgYKKwYBBAHWeQIEAgSB9wSB
+9ADyAHcAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+cAAAGTL7VkqQAA
+BAMASDBGAiEA2EeiRilnjSHw8qeuZIS2VcmBxSehXcVcvDkC6xtrOcMCIQDKcZ6A
++Z5Ln3V8kHZt9bwGaA54lHOh3ian9tPzMME/yQB3ABNK3xq1mEIJeAxv70x6kaQW
+tyNJzlhXat+u2qfCq+AiAAABky+1bY8AAAQDAEgwRgIhANzilo31Qu1xrGiJXxj3
+1PsFNIZfxhG3UuksViIn15IcAiEAgfVk+LlnnF5MtTNkyTat5QvZQXqKunuK5NxM
+MYaQvWQwDQYJKoZIhvcNAQELBQADggEBADW1TFFEN8W29ptgiPJ3C19MUq0oF2xX
+nS9b+a2Oino/oQkKIY9cjHq/2hgLxjh7le8ZRbICXyLV+hJobMkwJLDO8Xl6MoE8
+dgVGRoDkmyZhUiKFjhbEfF8SfX1hhUvN21oGpR3jV7lMYYO19Y1CWC1E8op+vZlT
+zS7WN+QdSwBMzlL0gttAhzctmr/vdfeCXBiJSR0sOBAKRMXCDBUsXE+tmkzhiduv
+YLlIiD96Zp0iMt6J45XvhJaIenS9JuLGfaXkGar0FeuaUGbw9ajc/CfK8V9ISEik
+BvoneiPVN+0cxcedCQbeuHTGf8sdcBsVtMjP4gx0pFr6DnhLEVmVQzc=
+-----END CERTIFICATE-----
+subject=CN=*.parastorage.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3123 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: F400D0F6B11B8E9C5CD929374E825835EFF650F76C300E936FA7F5983875DA72
+    Session-ID-ctx: 
+    Resumption PSK: E19507AA9F5D510E8CDCDD346998FC0067AA96E1070BB7E2AA9DC7DFEC70BDCE
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - fb 09 4a 49 cd 06 9a d6-03 30 6e 48 fa bd d9 c5   ..JI.....0nH....
+    0010 - 4e 83 bd 62 54 01 56 a9-df e6 3e 18 bb b1 c0 18   N..bT.V...>.....
+    0020 - 20 e5 f4 13 3d ec b0 b9-ce 44 a6 ab 14 ec 73 69    ...=....D....si
+    0030 - 4c 5e 5b 0b ac aa 95 6e-46 97 09 15 48 fe 11 16   L^[....nF...H...
+    0040 - 80 41 26 c6 d9 db b6 ee-f2 15 a0 2f 2a 28 fc d8   .A&......../*(..
+    0050 - c7 35 42 a3 cd 91 1c 6b-d9 80 66 b8 73 8d f4 67   .5B....k..f.s..g
+    0060 - db ae 1b 2f 4d 48 57 62-54                        .../MHWbT
+
+    Start Time: 1732697650
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

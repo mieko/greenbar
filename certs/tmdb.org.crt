@@ -1,0 +1,71 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.tmdb.org
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 22 00:00:00 2024 GMT; NotAfter: Oct 20 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFyzCCBLOgAwIBAgIQBw5dmriJMMHNtvZOnfI0yzANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDkyMjAwMDAwMFoXDTI1MTAyMDIzNTk1OVowFTET
+MBEGA1UEAwwKKi50bWRiLm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAPF6SrGi7YnOAOrGtY4kB/xVXdwdDcLJ1FK4ImAqVuDmnN1kK84335oJuljk
+JUdYVx2kJMTykq1I+rxKEEvf7JYHsH0DGhtz3AZS4fcD9nerSmEopHGBbC4gjzHG
+MnVF0O6UQGfl+5QU5zHFgV9T8byxS5Qiq5BM8UDzJzZgZzhmhfjI2HTW6SJKlUeJ
+iJ8XlDbhtjIR1lSbjivqOB7Hwj6uRdmrT2q9p3Cz8SbX+dQaBUR9EgJNzNCxKzv+
+Npa86Vq3ixpB2atS/T2KbfvJ7TZ4Nb8/HM098p9fBXn6ibRvltusiuBT7zeOEbwI
+YDa/cQQd7WqeJ33iXxt7Npv8J/sCAwEAAaOCAu4wggLqMB8GA1UdIwQYMBaAFFXZ
+GF/SHMwB4Vi0vqvZVUIB1y4CMB0GA1UdDgQWBBSu/bltF/qQNQl0jFyaifJKAUYn
+xjAfBgNVHREEGDAWggoqLnRtZGIub3Jnggh0bWRiLm9yZzATBgNVHSAEDDAKMAgG
+BmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwucjJtMDMuYW1hem9u
+dHJ1c3QuY29tL3IybTAzLmNybDB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGG
+IWh0dHA6Ly9vY3NwLnIybTAzLmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYq
+aHR0cDovL2NydC5yMm0wMy5hbWF6b250cnVzdC5jb20vcjJtMDMuY2VyMAwGA1Ud
+EwEB/wQCMAAwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2ABLxTjS9U3JMhAYZ
+w48/ehP457Vih4icbTAFhOvlhiY6AAABkhjD7NkAAAQDAEcwRQIgYCBJKhGVKv3k
+oMffEshHrDRMqRnwQuby4dl6jEUmKvoCIQDgxvuqAWH8HIDHR5fzyBEEKBLaO4Hv
+FcvTDTSH9Q09xgB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAAB
+khjD7REAAAQDAEcwRQIgMac/XVngC2HBnSknseqXsyX7bsJ8DaVylhXf1Vmc6HsC
+IQCqgpv5USqIboZNCBEj5eF1M7y/R8Nn1VGri9k0KEhNQAB3AObSMWNAd4zBEEEG
+13G5zsHSQPaWhIb7uocyHf0eN45QAAABkhjD7R4AAAQDAEgwRgIhAJRyP+yYLE5B
+uLAKqhJy6O2UOWxwmtOgLuBl4ESZU9cEAiEAo1o13TePW/bAAIavL3tpd5AViCfS
+nwa1FtBdsOqER/gwDQYJKoZIhvcNAQELBQADggEBACO0g9yvwJ9LOJhyuoaGdU2S
+ZYWWC0/Kl1GSZIFKvp9SsCJSvcna195Rr8cjTzN8ynGnOhItEMhUpaL4IJ3g+3jM
+PUeQuZ2HncsQjr7cZnjBO5w8Gns8Lrw1qUVpJi+dAZP4VbGXeLwZUMmJ+3sXCfu/
+RZBOL1LUkQy5KMsf81BN475gYV0kOc7+9k2Y35zUdhlO9aD44DKwRvsFIG/4Ua37
+oOXWUiXCyhTYHhj8H1hwqMkY9htOuErBoKP1GR8ySmHtJbopr7FLTDkyUSB/afFw
+9HlEQTC+3awGW9rpxRrPsLtGdVygxt1ZlfJt0ke+Hz07RcDgwo0AyHE5BbNuuU8=
+-----END CERTIFICATE-----
+subject=CN=*.tmdb.org
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4337 bytes and written 383 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

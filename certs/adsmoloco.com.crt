@@ -1,0 +1,91 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=adsmoloco.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 22 17:22:34 2024 GMT; NotAfter: Feb 20 17:22:33 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6jCCA9KgAwIBAgISBH0YwX4FlpwsOfPT42eJNLHRMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTIyMTcyMjM0WhcNMjUwMjIwMTcyMjMzWjAYMRYwFAYDVQQD
+Ew1hZHNtb2xvY28uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+z3QS9dF8qp1VoGlb1C7m65zEw0JzgCCz0NS6/nCHYQ9zvDK9ENpl2O3HU/Sml5Kx
+UI1Ssu8W84IDKTMKWAZeX8PWFqksBjgIg//l1vAEuU7X+0b7xfV+0/hHH1SykENi
+0r/fPErZwT0yy6dMXKz1Tp9jGGFatczPzDXP8G2zs3f0mBYnWn7ZAMcZn1AfhBe0
+hHXdb+oXaLPn8wRSRlTa/7j/NyURJ0CZ5/Ume0w6U5RC5AwjHCFPpWlf7ekTgqdD
+MvKAFrjDDv6XeepzgfshXPUI7sx9EzZWZ4Adv5dpjsV9XN8qcybYP35BIzTGwPSM
+RimFKxGNJIvJ/CakePO9dQIDAQABo4ICETCCAg0wDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBQ5xWD5SC4KUBL64jcAJRclCHpEGDAfBgNVHSMEGDAWgBTFz0ak6vTDwHps
+lcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9y
+MTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5v
+cmcvMBgGA1UdEQQRMA+CDWFkc21vbG9jby5jb20wEwYDVR0gBAwwCjAIBgZngQwB
+AgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgATSt8atZhCCXgMb+9MepGkFrcj
+Sc5YV2rfrtqnwqvgIgAAAZNVGy4NAAAEAwBHMEUCIGZvhmwDx42qQBtwRS7EY4di
+Wbvv2loXt+wOC4TQAylAAiEA3TgMGdTOom1UhaQ+kVLF+1K0JpkYe3vgG3Hz9AfK
+gIcAdgCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14bLMS5UKRH5wAAAZNVGzUMAAAE
+AwBHMEUCIQDkhoc48sxXQotvJqulhirkv/ZzuzDJzXLZdpVP39cYswIgFptIbMu+
+15jA1mmrPGBVzahOwtDy7jg9kMK8TPXwnX0wDQYJKoZIhvcNAQELBQADggEBAEJd
+wuosONo/CeI+WtESby2W8bx0yh2Oq5ZhEW0PWS6aYJfuC6Z3KjobGaAKeBSVpO44
+OfiZ37jHmfU5mDB8JKDKNCAUI95/0Ou5t1hXdej52c9D3s+DgHNn0IXD5KrvFO0g
+yc3evBiQsO1tYCljkSQL2fGe6tuohoQcj83e3iGKUAiRpaThXommFTLLq7YTR9Cd
+1AH0OBIjgiGrnVRQTOMPsbsxcQJtqftSZEq+0ouMj6rE6PfAFElHWQwKVwsO/1t7
+HMoQVgQRYsOxunev/NomCZGO961zZ/6HN0OtqhzMYUHxgcOdnosvwufuiAg2RbjJ
+tZS9FpfJV7y2Hjbu9d8=
+-----END CERTIFICATE-----
+subject=CN=adsmoloco.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3097 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: B0B49409EF3241F2593EE88C232E6C33F54DFFDF9EE0087B3667AE751BC4D78E
+    Session-ID-ctx: 
+    Resumption PSK: B93DACF0CC498D3AD8A579CB785A9F8406D6CF497742DB3CDAE03BD203BCFED8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 98 7b 79 8b 93 bb 71 5f-57 9e 99 63 df a1 2c f3   .{y...q_W..c..,.
+    0010 - a3 a7 87 f5 f9 49 ab bb-11 c2 64 db 20 b1 04 46   .....I....d. ..F
+    0020 - 2d 07 aa b3 71 58 82 8b-8a 09 f9 4a 1f 99 cb e0   -...qX.....J....
+    0030 - 91 2d 89 7a dc bd 99 8a-e4 8b 03 d5 5a 63 22 76   .-.z........Zc"v
+    0040 - 35 ed 5a c7 4b 03 e9 da-37 15 cc 71 12 8d 45 93   5.Z.K...7..q..E.
+    0050 - 7d db b4 ab 25 ae 02 13-67 99 ae 47 01 71 89 91   }...%...g..G.q..
+    0060 - 6a ce 41 89 65 86 b7 14-2a                        j.A.e...*
+
+    Start Time: 1732696890
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

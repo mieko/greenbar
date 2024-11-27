@@ -1,0 +1,65 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=quantserve.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 22 13:40:31 2024 GMT; NotAfter: Jan 20 13:40:30 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTzCCBDegAwIBAgISA+pJFwfDbEVzvFboor/2udsDMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDIyMTM0MDMxWhcNMjUwMTIwMTM0MDMwWjAZMRcwFQYDVQQD
+Ew5xdWFudHNlcnZlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AOk9c8s1/blLd7r5a8Pz0LjNvyAWOfbHV6HvoLtTq3vdHeUVdGPNd23+LfDz6lL9
+wVXnX2C2egyoMwwcuCOaBY7xH8KwZeu8FibbBj4lT85pmTTuz4PU5w/MbxnKZt1t
+H0cmLUj13u+IQgAk2uH0iX5wRQhiLEZFl2MU+OaY9TXRWuK2dUw4jDT4ckrWSPjq
+e4w9RICgwHT7ghVFXpFsjnwkGvP1anGNImV2eIY8bo18b/rCgMMUXBz1nHeNZ2MX
+u9sDpm6NIUPh9zUWUQNKgQ4sy0HYzy+IGT+P7un9D1egpSG5PwuL60Dpu3cn7j1M
+OF/4oMBr/qg0thjS/jEQSvsCAwEAAaOCAnUwggJxMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUHihkTWt4eu/geDrUHzePwlCH/ScwHwYDVR0jBBgwFoAUxc9GpOr0w8B6
+bJXELbBeki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8v
+cjExLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVuY3Iu
+b3JnLzB7BgNVHREEdDBygg0qLmFwZXh0YWcuY29tghAqLnF1YW50Y291bnQuY29t
+ghAqLnF1YW50c2Vuc2UuY29tghAqLnF1YW50c2VydmUuY29tggthcGV4dGFnLmNv
+bYIOcXVhbnRjb3VudC5jb22CDnF1YW50c2VydmUuY29tMBMGA1UdIAQMMAowCAYG
+Z4EMAQIBMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAouMK5EXvva2bfjjtR2d3
+U9eCW4SU1yteGyzEuVCkR+cAAAGStKq85AAABAMARzBFAiBphf1sZqaHw14YqDUp
+x/+PHQKxU11zrTT+R7RnZTsIrwIhAOY6xMX0mHCI1uF6k5VAIIFZXQzflnavXrpr
+jM0p9tfKAHcAE0rfGrWYQgl4DG/vTHqRpBa3I0nOWFdq367ap8Kr4CIAAAGStKq+
+BgAABAMASDBGAiEA3p1enE4UyWHw/aMY6cOGbhImNRsJYve+fVpmnONDqf4CIQD9
+vqrpiwRnz/fDCZYIvgbIgZ55zN2EMHnUI1kiQdiTujANBgkqhkiG9w0BAQsFAAOC
+AQEAqgOq4lXQdcV/QnCYFdwVB/iBDxW8XXmZBZw7WfezD9RWXyxcwpvCughJ1WMX
+0Ezewa07rEbRQFASC9Tn3cwaPZmB7AtUJG73gbRUq/Cdp37Z5PFn67DepYqTwGkp
+gLFtVL6IpYsunuQrDe6mYo0nZXBTerGmIjf1Sz0uF2p/MnPfC6R8wLWsG81jqK+m
+8Dr4rKqoprZuoeyoAo6+bV3FJMhcv9xkd9V+/wdvxmBliVq205cq3+p1k6KLJ1hH
+VczvReOtcplXYrb1L+9Q2HAJX71j3328s7AqB9auWqKw8zTA4GEJehU3taErtG3c
+yskaDEdQLFLlIMTgXLCFkxu74g==
+-----END CERTIFICATE-----
+subject=CN=quantserve.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3202 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

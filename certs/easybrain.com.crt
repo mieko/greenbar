@@ -1,0 +1,76 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.easybrain.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 28 11:20:54 2024 GMT; NotAfter: Nov 29 11:20:54 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGkTCCBXmgAwIBAgIIb0XCU3E6W/4wDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMjQxMDI4MTEyMDU0WhcN
+MjUxMTI5MTEyMDU0WjAaMRgwFgYDVQQDDA8qLmVhc3licmFpbi5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDUzFyXOkc2OF6TAW0xp1mx8nq/8FUD
+FsXCGeDPWQeZAvQZQVCQTA3BCZER9W+cPaKzubqwKKSJiIV7DWDGhVDefRfqbwdC
+YL5JJtSyAg5UPvxOzOX2xGETHAl7d6LMPvZxcrmd0zv7mmWX4ZQ0U5aJMsOAGGHb
+CnROYyicbao6zTXrXjHLDUT7ahBbZreR7I36LT+y9+DInJ7l/VD81fCWjbxuPciV
+as/tnMs29mABjHJOMrSZsl1huXjNNd/43rJedxh/bHuGAdfS3UaC9b5vN27XLUwv
++L/cnrUmke66AqczaV2bVlDlXI4cJQhOMaPxR5lxXj8crUaTVJ7bCHwTAgMBAAGj
+ggM+MIIDOjAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAOBgNVHQ8BAf8EBAMCBaAwOQYDVR0fBDIwMDAuoCygKoYoaHR0cDovL2Ny
+bC5nb2RhZGR5LmNvbS9nZGlnMnMxLTMxODUzLmNybDBdBgNVHSAEVjBUMEgGC2CG
+SAGG/W0BBxcBMDkwNwYIKwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29k
+YWRkeS5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQIBMHYGCCsGAQUFBwEBBGowaDAk
+BggrBgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRkeS5jb20vMEAGCCsGAQUFBzAC
+hjRodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvZ2Rp
+ZzIuY3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz1/tss/C0LIDOMCkGA1UdEQQi
+MCCCDyouZWFzeWJyYWluLmNvbYINZWFzeWJyYWluLmNvbTAdBgNVHQ4EFgQUEP93
+AHxwmxB9elfL2wpJ81d4EDUwggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB2ABLx
+TjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABktLbhBMAAAQDAEcwRQIg
+McoSNk5AkUu6Ggdi9dLpKh+yLkR2zSa2IzAF8zpH/gACIQCt8pEk2w7/OGicayD6
+UTtsBBD1UGpN57guTYW4ptd0NQB1AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv
+2Q6MLnm4AAABktLbhRQAAAQDAEYwRAIgET9vvLtM5IB4rDb76ZMIq1IboUU5ubJf
++rmk5MyE0cICIDiwCVZ7+dm5Noc4dRlBh8tkOFpl/Q2Y1j4UpPI68iUuAHUAzPsP
+aoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGS0tuGXwAABAMARjBEAiBH
+Ca50I7au3M5187Y1EerMDv6ygkgssKJ4m4LJlVIwUwIgQJwulSGttGXQh0I+cNMJ
+IoIN8ORoopapn4DNePer1hkwDQYJKoZIhvcNAQELBQADggEBAAYwULBbqa4ydekd
+NM+SWYJASW9Q2bFkInImji3F5jugwDs3I7RWo7agcYcXgTF1rqMsMoIVWXVD08Si
++wYIZwod5zcX7K+WVJdpb5zv+mVPtaz+u4j8rnZC5iPLhUtZY2T6veirv2qeHcLQ
+UqJEiHEeouYe7UHva1Ht52jP6IteNWtYR0AS1aI17y0yRF1ml4pqBl2NDOXZDFlG
+wAN2MqihmcnV/RWD7RyIS9yIjUyvlQzE5QNrB0iInLYpVUsuT6aE03p0PI6zLU+s
+xZSu9tKRjpY1v7Mybn8F7sz/+9lH6Ex4Hplt5lchmKOluXjcyCwE5fOQHfxthSf8
+6vOHIz4=
+-----END CERTIFICATE-----
+subject=CN=*.easybrain.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4578 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,76 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.lijit.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 28 00:00:00 2024 GMT; NotAfter: Feb 25 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFzzCCBLegAwIBAgIQDm7/U0Rw0Sy3CC1PBUdHCjANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDEyODAwMDAwMFoXDTI1MDIyNTIzNTk1OVowFjEU
+MBIGA1UEAwwLKi5saWppdC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQC4eRzuOx+KevGo/eWTWuFIxZID5RJ0t49sgHyZMxeexE0iXrbfeSb6yEZA
+X3txrK+u53SzReCQWudPNsFTKJVQaxfT4BiPcSyMAzB5g5TEMnazfxk9ZVR5mFxr
+ZlOXMTzT0O/GoKTXrdsJAjy6p9/r5nP8LDL8nxkWUH3Kf2gX9/OYgA4RKNDuGGgR
+UI51APIeqCvpCp9PRDHaFEhLM0tHAEC36e238hUR5yNpcKrmmvLjdyxc1QBt2okT
+M1jobbvWdTu1gG4f5iMmLPbEBb+0KG4QjpjdRhvgZI5/Vm+GfleEpdSoPxmmt2f5
+lxLUNJxbyPzQER20yyhSSnMJ7bPTAgMBAAGjggLxMIIC7TAfBgNVHSMEGDAWgBRV
+2Rhf0hzMAeFYtL6r2VVCAdcuAjAdBgNVHQ4EFgQUMSUNYmwhWRiaS+gLTbfPhocv
+ZoYwIQYDVR0RBBowGIILKi5saWppdC5jb22CCWxpaml0LmNvbTATBgNVHSAEDDAK
+MAgGBmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwucjJtMDMuYW1h
+em9udHJ1c3QuY29tL3IybTAzLmNybDB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUH
+MAGGIWh0dHA6Ly9vY3NwLnIybTAzLmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcw
+AoYqaHR0cDovL2NydC5yMm0wMy5hbWF6b250cnVzdC5jb20vcjJtMDMuY2VyMAwG
+A1UdEwEB/wQCMAAwggGABgorBgEEAdZ5AgQCBIIBcASCAWwBagB3AE51oydcmhDD
+OFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABjU6BX3QAAAQDAEgwRgIhAIParSkE
+9VJhOMYR5F20rvL8ngYoaMpwQykTHSdU6g4qAiEA1M3KMwh4drRYN0hhEWIwYTJj
+Yd54m5kLMrTOIPQ9hioAdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55
+uAAAAY1OgV+iAAAEAwBHMEUCIFRz2ADhP/3plp7XQm1ZE+dGXjrg+b+mnYpnFh1a
+RF89AiEA+maBoKITK2V3nY4XEXCechX7S/u3+os71f/FBxq6GJQAdwDm0jFjQHeM
+wRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAY1OgV/KAAAEAwBIMEYCIQDvwqPi
+PCi/D+TYq9P6ZUDqO9VD2C1761xX9hDGZox9SgIhAPr68ITS53ieRHhm/mGMuejs
+VNOUmYLeugjDkcD8pfxPMA0GCSqGSIb3DQEBCwUAA4IBAQAPz83Ttad+C0nbx6pu
+exhea/zjKPeg88JIovsOgmkSkCym1wdGc89Edp6LPyxYAIGdeL1iJGo6z8MkEofl
+zPKDreVU3RT9tsSZlw3OGCkn9882a8QlsaidQliEd0gzWPHiTCpvbF6+HkVap8SX
+IpIB4kriYTRpgYxVG2oIZiPOJ+NhhIwHUWVVXMyY7HGB2JQ1NdXHCQH9uWpmRH58
+zLrPgwbICXvpEXq/Z0KDfYRWtoOkFUqGiHOu8WuEJmoGkL4NbrzbjVjrHGhBiD3L
+XDYpk6eLX/cRsRPH0WVV3PbcLZZC/8VtKugnhWCp61oQENDh+vgsbnoSSbVbSBpo
+c/Lu
+-----END CERTIFICATE-----
+subject=CN=*.lijit.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5491 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

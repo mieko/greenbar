@@ -1,0 +1,64 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=www.expressapisv2.net
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 23 10:25:27 2024 GMT; NotAfter: Feb 21 10:25:26 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJDCCBAygAwIBAgISBIzO/bXmCaLWkcaCN7GXkrdHMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTIzMTAyNTI3WhcNMjUwMjIxMTAyNTI2WjAgMR4wHAYDVQQD
+ExV3d3cuZXhwcmVzc2FwaXN2Mi5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCLygtHnID/swTx+k+As7oaaNDhTgEnJRrB9e68jdqrRxpq01xpqS+w
+mBtInP6e8JIXV54KiNtmzJccxA0CSxp9gVHUXmBVY8AWSdU161w1VqlcRD65Zzdu
+T3gr70P13PyBDglJBLUpe+R9MoBD4dRMnQ37F4zCWVEUNpaoGstrPNiT0f4kvHEY
+r/1G57qHaUpr0rmO2c4smpECP6Th8jCBXLGdyVKTFWVQAVNUaltDDg60af91TiAg
+xh0rXaObATGu21MdKV1dtfQS59rumdm8xigXnVq0kZ6JJH6jwKTbT+a8BkOEU8fc
+kiILs1Om86rXHcJSZGd3ovchxJDysvmFAgMBAAGjggJDMIICPzAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFNNqhY/W0GU9iD94ymd+sXFjT/T8MB8GA1UdIwQYMBaAFMXP
+RqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYW
+aHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5p
+LmxlbmNyLm9yZy8wSQYDVR0RBEIwQIIRZXhwcmVzc2FwaXN2Mi5uZXSCFHd3LmV4
+cHJlc3NhcGlzdjIubmV0ghV3d3cuZXhwcmVzc2FwaXN2Mi5uZXQwEwYDVR0gBAww
+CjAIBgZngQwBAgEwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgCi4wrkRe+9rZt+
+OO1HZ3dT14JbhJTXK14bLMS5UKRH5wAAAZNYw6lFAAAEAwBHMEUCIFP2loexDEit
+3UWyjYexF2eQMax+Bh6ZiwAgYtmwrQlVAiEArpIQiP/vGgWUUugg1KGVn5ixLP/7
+J7NAktrk5JTc4NMAdwATSt8atZhCCXgMb+9MepGkFrcjSc5YV2rfrtqnwqvgIgAA
+AZNYw7H8AAAEAwBIMEYCIQCP5VJVzyHzS7Wzq+T0oC0Sg/Q5rN2sjUIoI+OgWeqH
+IgIhAOniebImB4uWkK/oluIN7SycE7HS5hRKJUjgqG71Kj5bMA0GCSqGSIb3DQEB
+CwUAA4IBAQA2W8XxbEs+carJICj8flJFNFn+vZHtydcDK+tJ7DcoVuNiYYVn0W18
+MJ5ljALCNv0JhKns0PodYnc/cDiaoGVKE49mUi7HNyE4tDDoZdoqM3F35VH8bKqg
+KXwxzH00dKH0HPINxiMtixxhYpm94HzsYcBFGqADDYMvB/oBWcdsvUaOug9G5Zme
+DcH/qywYzyOg3QM96RNIFNObelTtmttRtpGb8dfpze7I8hkNoMkPG7StVZZopK/n
+1DJJlnS/ajeT7OOy27SFUeR7fYv32Z+vJWtidVKhWuyd9jhCYcyzu/BdU5bGLS3G
+iysx5+fHcdSe/qunXiYxugAZTKBvlLPc
+-----END CERTIFICATE-----
+subject=CN=www.expressapisv2.net
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3175 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=btloader.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct  8 07:25:21 2024 GMT; NotAfter: Jan  6 07:25:20 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpjCCA02gAwIBAgIQAvUnw7IThbYTzezT5RH2pTAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMDA4MDcyNTIxWhcNMjUwMTA2MDcyNTIwWjAXMRUwEwYD
+VQQDEwxidGxvYWRlci5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATGeFfa
+IGalpz19FEepQuylFRkq6oGsBpUmAmBFpow65d3znHnRLQLe01bGBqcVuAm0VkTc
+bT+G+dc31Klho6VRo4ICVTCCAlEwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoG
+CCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFBOB7xxQ0Px4LEEmS3wS
+zkOiZzCRMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsGAQUF
+BwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEvQXZV
+MCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MCcGA1UdEQQg
+MB6CDGJ0bG9hZGVyLmNvbYIOKi5idGxvYWRlci5jb20wEwYDVR0gBAwwCjAIBgZn
+gQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL0tM
+UkZ4U3F4YU13LmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1AMz7D2qFcQll
+/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABkms7nJ4AAAQDAEYwRAIgNYohmx9B
+cm2wXrLA6xJwP5M8/gnpubF6DzkeBw81VzQCIAYrmEt8LBhXL3yuMa7GIQSEvlGh
+yUOR+QDT4AW+Lg9SAHcAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgA
+AAGSazucmQAABAMASDBGAiEAhXoAjE/GHsFqW/2MnAA9j/pia43bZENTDucpayo9
+0yoCIQCJZVS6hZ+QcrKJHJ30YXmcY8RgxCRSDKlOjMqKefyyhzAKBggqhkjOPQQD
+AgNHADBEAiAEgX0bxHGvdt16rxZSRkubWjE6b+KRKQ3YORlNbnRIkAIgSBLI7HRn
+6VBTYVNzWMwN/FJkmiWGuArrPyYmSl+KuN8=
+-----END CERTIFICATE-----
+subject=CN=btloader.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2825 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

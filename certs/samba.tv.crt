@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=samba.tv
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  4 07:22:19 2024 GMT; NotAfter: Feb  2 07:22:18 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE4TCCA8mgAwIBAgISA5qPEj6p5PLsue1C8AaIuaxSMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTA0MDcyMjE5WhcNMjUwMjAyMDcyMjE4WjATMREwDwYDVQQD
+EwhzYW1iYS50djCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMtFbBez
+V4uukFnBdbbITvlKAPuynRhzfoHFsUyxCQHg421BqXQf8Hj/fof/sYSubCYIlXSx
++ScgS7yKBaN4og9OD1UtWYSxmMOfxzDoZQoujwkXGp39AuKzSDkgrzno3tzNxXUb
+Ib8dnSZHC8E9HIfpKlYBpjYW3yCQSlvQ66t0DvwBsOpQmqN9l6xDVHwzZ4B3wvi8
+2twwrVqGyaP4ElfT+EJj7VkHHyu8knYY2jFo3A1Sly+nRYTqkmO6Ic8aot1QqlGB
+H25/+gdoC4RRQlMT7m8OOh1MaQMF6Y1gCzrsI8Mpdj6DxsbFCTBSCDTXjaQXqlvq
+MZMpapZHs15ZYCUCAwEAAaOCAg0wggIJMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+V2yXWtrXr/juGMicsfLzE+WcEQUwHwYDVR0jBBgwFoAUu7zDR6XkvKnGw6RyDBCN
+ojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjEwLm8u
+bGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iub3JnLzAT
+BgNVHREEDDAKgghzYW1iYS50djATBgNVHSAEDDAKMAgGBmeBDAECATCCAQUGCisG
+AQQB1nkCBAIEgfYEgfMA8QB2AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fO
+zDsIAAABkvZDKC4AAAQDAEcwRQIgY0muxNVVWLbshRRnbuePvE/0h5y98kJKk3Q3
++iA0xXYCIQCnvHA0spaWiY8IZI50KpzyORaLpcwHMSYLTKr19Pw3GgB3AKLjCuRF
+772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAABkvZDL8gAAAQDAEgwRgIhAJPF
+KP/or3O6riBoYviAGLKp/8pLiteAc9gpvOcExrVsAiEApM5EmkMuQ43ZbrLn05a0
+TBT2AvRNuofhG5ysw5uPD0wwDQYJKoZIhvcNAQELBQADggEBAJFVm7CpS0ZDbUrl
+eQntrXnXASRx7ecwq6bFxEjQpQrGpNTjnJggelguwO8OtB18ptnve3ZlSmFbsIrL
+kByhqEhnMEBZMdegRIGIuN7WuC0N2G1WLajDIQ2jS+yak+Wt/kkea74l627qIa99
+DopQyNiFokUUNYgxMnQQdoxy6LomkP0Z9e3KiNZSZNTPWW/LGca4H7PCz3DiphLH
+iJ2FJp8p/KgdN9Oq9cnnoNBfC3DcGrFpoJxgdxITTzdgSLpVkyEp/t6vlqKVwPV9
+hJGDsBV5bCVXjzInG5lJs4YTPCcG5b35qmwxGv6TxPqYSlPee85WAU5LexybLGYs
+/2xgIQk=
+-----END CERTIFICATE-----
+subject=CN=samba.tv
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 3233 bytes and written 751 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

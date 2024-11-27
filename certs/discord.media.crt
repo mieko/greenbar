@@ -1,0 +1,86 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=discord.media
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 11 23:23:14 2024 GMT; NotAfter: Jan 10 00:23:12 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDqjCCA1CgAwIBAgIQQdC2gdQdSJ4NvYNcPA74mzAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMDExMjMyMzE0WhcNMjUwMTEwMDAyMzEyWjAYMRYwFAYD
+VQQDEw1kaXNjb3JkLm1lZGlhMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEis8h
+WXnfVxAkugY8J5OKgZ/WA4Lxqh7l7i7ecyATWCOBwPAq41MSuacdBojNh1UuHp+4
+IiOsRO/Ax+18zdTy7KOCAlcwggJTMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQB3/pgSiI8BjZnYySJ
+3Ja68ZeRkDAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEF
+BQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL1Fk
+QTAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDApBgNVHREE
+IjAggg1kaXNjb3JkLm1lZGlhgg8qLmRpc2NvcmQubWVkaWEwEwYDVR0gBAwwCjAI
+BgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2Ux
+L1lIOG52UG9adV9nLmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1AE51oydc
+mhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABkn4bqMoAAAQDAEYwRAIgIx64
+zIWQAGJCHzUHsQZG+tDHWxgkGf1H0h62XtHXVQ4CIGO3oGj3ptbLhj7Yaqfpd0RP
+pjX9qyllGNuino7gDHcPAHcA4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBNpW1v
+VAQAAAGSfhupIwAABAMASDBGAiEAj9RtcWHpQ0/nAdL2Nwx6v7wdlEgiEfLyQrHX
+9wqVz4QCIQCZGGAAeVGt4MWkLNRycODuz6qW2J0tS/vamSbxyTUtdTAKBggqhkjO
+PQQDAgNIADBFAiEA2Xga5kU2CHBBmFJMJcnmWMzn4M+m7sVnFK8Df+k80l4CIHsT
+rbniZOEgciWNOpvASDxjypx4M+J0WmFP+Pr0kdU9
+-----END CERTIFICATE-----
+subject=CN=discord.media
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2984 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: 97B5DC3A94C7BA301BE44ED687D675CE26F5C64305BFB38B1FB01D08AB57233A
+    Session-ID-ctx: 
+    Master-Key: C6334992002F08F206B7B4C6DE022BC1E3CBC7111D27EC2C9AFDAC8BC0760B5EA2B1DDD70CD97822EA15B0F4B3C5C8F8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - 93 4b 4f 31 a2 3b 61 99-69 8c a1 cc fb 33 86 05   .KO1.;a.i....3..
+    0010 - c4 bc 4a ed 67 ea 59 e5-c7 03 6a ab 72 df b2 6d   ..J.g.Y...j.r..m
+    0020 - 0b f6 00 79 91 3c 10 40-41 fc 41 6c c0 9a 60 f0   ...y.<.@A.Al..`.
+    0030 - b8 4e 87 8b 5e 8f 94 2a-7e c6 b5 7f 62 3d c0 6f   .N..^..*~...b=.o
+    0040 - 54 c9 58 1a 4a 54 33 d3-45 29 18 c8 d8 f6 aa f8   T.X.JT3.E)......
+    0050 - dc 0f db 56 de b3 a8 ff-75 ee 62 3e f3 f7 d3 84   ...V....u.b>....
+    0060 - de 20 b0 61 45 b7 ff 11-d4 4a d2 30 19 8c a4 d7   . .aE....J.0....
+    0070 - 68 bc 1a 72 42 86 7c c9-86 4c e0 c6 db 67 6e ba   h..rB.|..L...gn.
+    0080 - fd dc ac 7b cd 0b cc 47-bd 44 5f df 61 0d 46 9a   ...{...G.D_.a.F.
+    0090 - db 7e 01 70 9d 0f 48 a6-62 c7 fb 96 d2 bf 4b d6   .~.p..H.b.....K.
+    00a0 - b3 86 e0 0e ed 77 ce 4b-e5 25 9c ab e9 66 07 27   .....w.K.%...f.'
+    00b0 - e5 3f b1 0c 35 62 54 2c-f2 63 5e 9c 42 0a 6d 9f   .?..5bT,.c^.B.m.
+
+    Start Time: 1732697144
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

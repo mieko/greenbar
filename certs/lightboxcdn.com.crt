@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=lightboxcdn.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  5 22:57:10 2024 GMT; NotAfter: Feb  3 22:57:09 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDrzCCA1agAwIBAgIQWLBKwCEnQbQT8heO4WMUCjAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTA1MjI1NzEwWhcNMjUwMjAzMjI1NzA5WjAaMRgwFgYD
+VQQDEw9saWdodGJveGNkbi5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATQ
+JmLowIzKoSEYDv8SjeF3rwsXY2TVApQLevjGh6w21YlopulA2Tux4NVEhTpY7CIJ
+ItY4jJiYGmNWUNAIZArso4ICWzCCAlcwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQM
+MAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFMRhc1rFXZm2jEES
+WCziJ3LniWPvMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsG
+AQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEv
+V0xBMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MC0GA1Ud
+EQQmMCSCD2xpZ2h0Ym94Y2RuLmNvbYIRKi5saWdodGJveGNkbi5jb20wEwYDVR0g
+BAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdv
+b2cvd2UxL3lnV1BFTmtsdnBNLmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2
+AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkv7CxyMAAAQDAEcw
+RQIhAL7j6biWi5YiAvYO6mMUEKnaHgp8B2agKgCRZkGKQ6W3AiAsj6WUJkJU5jFD
+ex/0P6uNv0DOOIbBmBRZ+PEF2csy8AB2AMz7D2qFcQll/pWbU87psnwi6YVcDZeN
+tql+VMD+TA2wAAABkv7CxzoAAAQDAEcwRQIga3P7Umg3FeDpG7HB5OoRl9DFKNya
+6g2AdIBP3dOeM0oCIQD6X+6No7dH+vEDY7jUg7VDl3Vg2/y1YyRZtajzNcupeDAK
+BggqhkjOPQQDAgNHADBEAiAkcq3AM73UuuVEOFTn+15bXmrRHU7Ev9RxjuAH+5iT
+NQIgQYASUZRGJzZdiUdG4FlUQV/8bKQQotHslsXBnDSoNiU=
+-----END CERTIFICATE-----
+subject=CN=lightboxcdn.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2835 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

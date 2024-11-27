@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=ropro.io
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 14 03:32:26 2024 GMT; NotAfter: Jan 12 03:32:25 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDmjCCA0GgAwIBAgIRAIJBMcHoWTihEzqMIKHXj3EwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTAxNDAzMzIyNloXDTI1MDExMjAzMzIyNVowEzERMA8G
+A1UEAxMIcm9wcm8uaW8wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARY6A2fICz4
+/CYoMIzJjDIBvUPO6MR8TBeOXBwg14n/Jy4H7nB8M7Q1S9L2dhR1UgSI1j+u0ly0
+Ovq19eKLXxPmo4ICTDCCAkgwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsG
+AQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFOsvffwZjKkOGkbNKmQHtH+t
+L6wYMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsGAQUFBwEB
+BFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEvZ2tFMCUG
+CCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MB8GA1UdEQQYMBaC
+CHJvcHJvLmlvggoqLnJvcHJvLmlvMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1Ud
+HwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9SN0xnQW5LRDRMay5j
+cmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBOdaMnXJoQwzhbbNTfP1LrHfDg
+jhuNacCx+mSxYpo53wAAAZKJTIhqAAAEAwBHMEUCIAnMLz9++zNENidbj/mh0qBR
+pigRDFTkthV4/czQjiyDAiEArI00XS+nMoYJCbvKWh3ApmdIoVsMPKZzTAXpOWUX
+i7cAdQDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZKJTIifAAAE
+AwBGMEQCIB4/Bj3gbK0k04aiJ/SSvGH/9su49h+Yt0/7MFwPxgbgAiB9p0AmYFy0
+/b0lC9vu8THMZMuQZ0F4tWwwPCfkS1W7+zAKBggqhkjOPQQDAgNHADBEAiAs1LWh
+bXoexPQULV9nWNxe/YtaE3kLhAscymbMVuVsDgIgZxlaZQeW614kk0Bi/Id7ItyT
+4i4kUZ2Cz1423+divdc=
+-----END CERTIFICATE-----
+subject=CN=ropro.io
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2813 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

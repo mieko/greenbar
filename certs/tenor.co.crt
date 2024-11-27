@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=tenor.co
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 29 08:40:31 2024 GMT; NotAfter: Jan 27 09:36:27 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFHTCCBAWgAwIBAgIRAN0W1HhLL+FjEnlGooYHkvIwDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IzMB4XDTI0MTAyOTA4NDAzMVoXDTI1MDEyNzA5MzYyN1owEzER
+MA8GA1UEAxMIdGVub3IuY28wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQD1KOVDLuwm709WEeVvzyrRMj33rnKDc2zq9IRIVOJG5c2uWmUJjPb8BDyVF9zn
+a2gOnw74YgWecsEp14JbqgJ9AuzLi0SYAETY0dsCD6voj/sE9hXBVINXwX2ktMFm
+VafTyFsyFf96CZlZQsoq0wg2hpPovUCg8GYGTWnbhw8y7fgw6B+w3FUG0iHVaLNL
+yt/tpSpg2SyqU7KJyYb6UyGuG1SEusGJd0l1xPdstwMAaYH93kOg9cQLOxzRu9bA
+3mjEYMPHupWtcKP8i2nb0CCI9UlDrwNxPc4+EGPXwBECOpJ39LaMaveomwaAgtz/
+JJDMD4flJl/s0FqS/hGjEsU5AgMBAAGjggJCMIICPjAOBgNVHQ8BAf8EBAMCBaAw
+EwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUxjxL
+Ru1+O0ldrAT4uofamEMRb4AwHwYDVR0jBBgwFoAUx4H1/Y6I2QA8TWOiUDEkoM4j
+/iMwXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29v
+Zy9zL3dyMy8zUlkwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dyMy5j
+cnQwEwYDVR0RBAwwCoIIdGVub3IuY28wEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYD
+VR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd3IzLzNXSzRGR3ZhTGZN
+LmNybDCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AE51oydcmhDDOFts1N8/Uusd
+8OCOG41pwLH6ZLFimjnfAAABktel++UAAAQDAEgwRgIhANgmreYFiqjsljW6q9Sb
+SuewIP0ESZwhZS7jdUjBUM0iAiEA8fVOtCmmKMSRtgHVqz5dB3uflm8XxZM9BD9R
+LaFeSAAAdgCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14bLMS5UKRH5wAAAZLXpfv1
+AAAEAwBHMEUCIFkXK2gVwkFX67nnAB8l/AYcC7FUSgLKvXSGi5vqaCVvAiEAsLUp
+uJpkbsh5y0jGvd9savwPuk5NT9sJ+zb12HV1tHYwDQYJKoZIhvcNAQELBQADggEB
+AIp+frppCTG4MQr+UhCY9DqR8GJMnMHqwl1MY+W09MI/lP/CiUfhCJr5uqw5kSsP
+Cz98c388pQWyUV0OvO2G7v6n25cxsvaTOmnxnjhplKLjatqJejQEbxvSQqkaIjSH
+hIGGu8/B2enV3AtT3uVb0TYrw53Dv9s6fxQo4K1C6zK5Mwy7rLemJ8FLN5QNHte/
+Ns06Q+KtEu99N0bziqwhJQqBUCOc8ajxRbjFdHRAVtnUoud3Krt7sPQysaBEyohZ
+4zniiYR03JPtneAsPHIR8EsGZPoJxhuGcFTjjCEHmRlFM2QdWAyRQzPeo2s90BFY
+Qb0fN4g31ZzGboe0vNznw9g=
+-----END CERTIFICATE-----
+subject=CN=tenor.co
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4490 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

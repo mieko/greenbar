@@ -1,0 +1,72 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.clickup.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  7 00:00:00 2024 GMT; NotAfter: Dec  6 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF1TCCBL2gAwIBAgIQCyBhw0kJiklbi9FqwHMYgjANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MTEwNzAwMDAwMFoXDTI1MTIwNjIzNTk1OVowGDEW
+MBQGA1UEAwwNKi5jbGlja3VwLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAKFXohV9dUnhKp0Mzg0Y4YRlPH9buYDUpP29DLEDwYmjnI9gKtNi1zQD
+WlbsmVlMd7eNhNeHdAyr1BWOnIFSwwgmSDPJWMRBGGGAkSAbGvVyhRaJgOj+Bdgw
+jzzBoz2hAAbI3yJeXHJUu5lL/JEP2yBgDqcGrhMbRyZiHU2NTpEniqf2o1//xalB
+kl08j9VolskObUx2V3/Mli7t0nUKPUCr/6XzzBaNU09llq6Jn1GQlQ51ed2Mw4d1
+aHw5ruu0nDJZF7RmG9v4nqKfK6RE05LWG/HpgyfRcLPovR13YTvdwJeaUYcwbrJx
+yfaWEEGJ+TnVFHviNzxf/KGE1gBEPxkCAwEAAaOCAvUwggLxMB8GA1UdIwQYMBaA
+FMAxUs1aUMOCfHRxzsvpnPl664LiMB0GA1UdDgQWBBSqfRz0S2lhkfknCuRTnP4w
+jT4IHDAlBgNVHREEHjAcgg0qLmNsaWNrdXAuY29tggtjbGlja3VwLmNvbTATBgNV
+HSAEDDAKMAgGBmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwucjJt
+MDIuYW1hem9udHJ1c3QuY29tL3IybTAyLmNybDB1BggrBgEFBQcBAQRpMGcwLQYI
+KwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnIybTAyLmFtYXpvbnRydXN0LmNvbTA2Bggr
+BgEFBQcwAoYqaHR0cDovL2NydC5yMm0wMi5hbWF6b250cnVzdC5jb20vcjJtMDIu
+Y2VyMAwGA1UdEwEB/wQCMAAwggGABgorBgEEAdZ5AgQCBIIBcASCAWwBagB3ABLx
+TjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABkwU4wd8AAAQDAEgwRgIh
+ALRFlaNmgDhE43KhJ6EyDdLat1KVa24eFDeyyN4JiK8OAiEAhBFsNMKn37ukYyDt
+lR+7icSPXmhvqBtS6IapFBsP2v0AdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkD
+L9kOjC55uAAAAZMFOMGiAAAEAwBHMEUCIQDlxFt3252U/12Y5etFVzSOpEmbp2V3
+MCazBrs/f8EaswIgYImsMdUYQ80/dk+3CbVqLvo1/Kc5DJgC784cQhcpjOIAdwDm
+0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZMFOMH0AAAEAwBIMEYC
+IQC6Eg2ZMfYJL+PLt1OvccnTjuDdUvHRUcr+7d2xdQy94gIhANybVno9SYjX3jbO
+JeTIP0jln5N57KMMgW63zKuoI75OMA0GCSqGSIb3DQEBCwUAA4IBAQCWpgwmbSXb
+Nbddx+ZHei6NpKhQX/BdsM0WdTEw67R0scUmPONT/a3KnFbbM+ablKyKtR343c8U
+/97KU2gnpVImppp1O77YNXu0DAr6WCuNsHQuFtdKMIgfPU9mDIL1E+jW5+WKhVcO
+p3OV6Arz0u0szj+00RHQnNrU2vF+XCLLX+g8HT3+vt8zFefIZgq4vIfpWWEZAFlW
+OsMbW8fylpCKJfP0lOPvTs8EZRA90pJL4VnV9nxGOR7lxvqkrVTFx28xp2UXoqII
+1yY0O4ryispGGiejadTTPFgmj/Wwn4yihydqdpDt8C/BHC4HRYf9HPHssphGGXk9
+OVaOUddm8guJ
+-----END CERTIFICATE-----
+subject=CN=*.clickup.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4347 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

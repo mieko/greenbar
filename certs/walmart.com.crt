@@ -1,0 +1,70 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Arkansas, L=Bentonville, O=Walmart Inc., CN=www.walmart.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Feb 26 21:01:33 2024 GMT; NotAfter: Mar 29 21:01:32 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+   i:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   i:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 13 00:00:00 2012 GMT; NotAfter: Jan 19 03:14:07 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFkjCCBRegAwIBAgIMa/8MD7tii7Fzn9keMAoGCCqGSM49BAMDMFAxCzAJBgNV
+BAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1HbG9i
+YWxTaWduIEVDQyBPViBTU0wgQ0EgMjAxODAeFw0yNDAyMjYyMTAxMzNaFw0yNTAz
+MjkyMTAxMzJaMGcxCzAJBgNVBAYTAlVTMREwDwYDVQQIEwhBcmthbnNhczEUMBIG
+A1UEBxMLQmVudG9udmlsbGUxFTATBgNVBAoTDFdhbG1hcnQgSW5jLjEYMBYGA1UE
+AxMPd3d3LndhbG1hcnQuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVRF5
+mKDDq5r23L7S/ZSYrtCrqTrhcyk0OZ4mYJYSnMItKH7r7KHrROHGjWU8NdKrtoBZ
+Ux+MHIQO23V2XCaNzKOCA74wggO6MA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8E
+AjAAMIGOBggrBgEFBQcBAQSBgTB/MEQGCCsGAQUFBzAChjhodHRwOi8vc2VjdXJl
+Lmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc2VjY292c3NsY2EyMDE4LmNydDA3Bggr
+BgEFBQcwAYYraHR0cDovL29jc3AuZ2xvYmFsc2lnbi5jb20vZ3NlY2NvdnNzbGNh
+MjAxODBWBgNVHSAETzBNMEEGCSsGAQQBoDIBFDA0MDIGCCsGAQUFBwIBFiZodHRw
+czovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAIBgZngQwBAgIwPwYD
+VR0fBDgwNjA0oDKgMIYuaHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9nc2VjY292
+c3NsY2EyMDE4LmNybDCBjwYDVR0RBIGHMIGEgg93d3cud2FsbWFydC5jb22CEGJl
+dGEud2FsbWFydC5jb22CE2dyb2Nlcnkud2FsbWFydC5jb22CEHdhbG1hcnQucGhh
+cm1hY3mCGXdhbG1hcnRzcGVjaWFsdHkucGhhcm1hY3mCEHd3dy53YWwtbWFydC5j
+b22CC3dhbG1hcnQuY29tMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAf
+BgNVHSMEGDAWgBRYe451Kv5hgKqQQAGu1ugHRm4/SDAdBgNVHQ4EFgQUc1EbnrzI
+qTIwljnCu8+As4cew9swggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2AKLjCuRF
+772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAABjec5F7wAAAQDAEcwRQIgOuBr
+Hvs5+K8CAbUpSZuaKFCQYOm/tfuTnYhzIPU/8SUCIQDyKyh/2vtP/L0BFpjpSuS6
+n6jEsSCyHvlp5yEaSAMgQgB1AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0e
+N45QAAABjec5F74AAAQDAEYwRAIgIp2SHO2zKf3s24yWJ56NzFwetRIt60RoH/Fj
+32FPH60CICP5BFU6fvAn+S++tSbZB/OQgIvCHH+hhXLAR+InhwmjAHYATnWjJ1ya
+EMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGN5zkXjwAABAMARzBFAiBcRkTv
+s7JUuJWnXQQK3Tjl7TAcOfckfLQuwLM3BXaXKwIhAPoirJFcvEx7hQ8+jUE4n7k/
+9T6iC8I56MBkh4PZ8tSSMAoGCCqGSM49BAMDA2kAMGYCMQDSD2aI9gU7wCGM7vxy
+UtEtYAOvkjsvs9xnFEGhF00cs8+Bv+M7+Fjcxdgs0ZDc1N4CMQC2UjLRqC9nQ+qN
+1ExPtA1wD7Ki0H1RwFTSlFysBTawONIf7t8JZaWVLPt4JAci75A=
+-----END CERTIFICATE-----
+subject=C=US, ST=Arkansas, L=Bentonville, O=Walmart Inc., CN=www.walmart.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3144 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

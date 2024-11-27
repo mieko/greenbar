@@ -1,0 +1,91 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=mediavine.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 16 17:24:20 2024 GMT; NotAfter: Dec 15 17:24:19 2024 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6jCCA9KgAwIBAgISBLbqRxrPQmWDAg+MYhH6z/fkMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQwOTE2MTcyNDIwWhcNMjQxMjE1MTcyNDE5WjAYMRYwFAYDVQQD
+Ew1tZWRpYXZpbmUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+4rloGznxWhL8dJIofgSaYtaeT/RXDfNiUC5nvQSWDLlmyje/DaBxG2ck1AL+prZp
+cL4Ugnw/65O9Q4gscp364ptucLqFUpPEge/tIVHhWVqNDSBD1AzTVWNb7gW62dqf
+xXxN8tizDpDwgxe8PZq2OLdOHYMhbOpGu1RlZBNk7KGsjUTGbNOIMN0Cnc6xTbxD
+g0VUeEhLp1nFog9A8JvSfv/RgacDXv8dyMCDVn6J2/FStDCrDQy9ga0BBkhndyo3
+lHi5HL5AXlpS9BjBC07D8YC3mEoOOYNEKUiaRaKeWEnYEExamtHmvCsYglBOWWYf
+R9wuCa872/trnftUkHMj1wIDAQABo4ICETCCAg0wDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBRi6sVYU1ZVYrH0sz3Z6XfhEl+G7jAfBgNVHSMEGDAWgBS7vMNHpeS8qcbD
+pHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9y
+MTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5v
+cmcvMBgGA1UdEQQRMA+CDW1lZGlhdmluZS5jb20wEwYDVR0gBAwwCjAIBgZngQwB
+AgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgAZmBBxCfDWUi4wgNKeP2S7g24o
+zPkPUo7u385KPxa0ygAAAZH8ErYRAAAEAwBHMEUCIQDECv+LatQyk9FEwI/SM1i1
+mYwkO9UrZsou64mkldY4mwIgblj3M4ICr0FqpKXEB6VwbjYQWxnEjRkv6BTfhrix
+45QAdgA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAZH8ErYJAAAE
+AwBHMEUCIAwJRJbmharD61DT7zshkB8HQaGWmhOgqeETTkuLq3n1AiEAmv9hTpKk
+lZiRrkxQpp6gL04OTkFkr/TN/SIRGrUn1NcwDQYJKoZIhvcNAQELBQADggEBAACJ
+CUiAdy0I2qCdvxzABSh3CF7eMDD3GJeHvP8nDe5iVVL46B6/ldcpQmTSqPKaWHal
+wtts2ijgt/rPm2/KS9osEEAAL/cdYfu5498m7CzWxUTN0YfPz8ERb3MOxpb9PIBi
+IQh0LMryaUkdCC3HbSMiARs5PT0wri/IepI/eVOszySlGtvzj0LLryfRY3j3NAnO
+VxkCF1GUiLUHVS3/TTNWvTCE2nyRIEAFtIVgIEdYIxxr3FFVZFHYUulpGV6E8Gow
+qEtxHIsNDSNMWRRPFPYHdqLK4zY0VRi/ArsEi6CAKuNBlOr4POj5sMhRz8nuRWBx
+2omaq21uhQQp7skUT6U=
+-----END CERTIFICATE-----
+subject=CN=mediavine.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3096 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 898E56EDCC61B6DC558B43404D88EEEB1226DE657578D9E617B2ED34936012F2
+    Session-ID-ctx: 
+    Resumption PSK: A968B96A5086A9BC72983A801948071B29A6B9B422240F2BBB19571C11A679AA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - a2 e1 a6 f2 d6 78 57 1c-f4 9b 97 43 1e e0 60 56   .....xW....C..`V
+    0010 - 85 f9 10 e4 30 ef 09 71-df 22 8d 1b 72 0e 34 05   ....0..q."..r.4.
+    0020 - 68 c4 ef 09 7d d5 94 34-19 54 e0 0f f3 5a b9 26   h...}..4.T...Z.&
+    0030 - e7 74 00 ea e8 61 b0 50-35 bf f6 ad df ea 7c 27   .t...a.P5.....|'
+    0040 - 1b 94 87 46 6c ed aa 99-1b 10 37 94 a6 48 d4 af   ...Fl.....7..H..
+    0050 - 29 f9 8f 56 8f 1f 97 d8-50 e5 77 1a 62 ff fe 79   )..V....P.w.b..y
+    0060 - 2f c9 70 81 a5 c5 c7 c4-fb                        /.p......
+
+    Start Time: 1732697506
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

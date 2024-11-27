@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=insurads.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  6 11:11:43 2024 GMT; NotAfter: Jan  4 11:11:42 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6DCCA9CgAwIBAgISBBT4XXwhwAUw3NKvOabOVYoJMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDA2MTExMTQzWhcNMjUwMTA0MTExMTQyWjAXMRUwEwYDVQQD
+EwxpbnN1cmFkcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC+
+FHB+zTNbiZNTnHebCq2LUIRLk4i2JmoKg3UwlC9a6Iclpp1fze0TpSDPtVVf1yuH
+vjkdNoLp1hrFW4F/BNA8hP/eUkTC7dKjwZL0OonweXMrMHO23H+Bl1hCEhcfoJxI
+TBNllZb1CV+mKmyJPwwNcarNKDLCfEpiUrkLvOEuCePM7cSnM8Ezh+GxZ34g1T6U
+Ez7gAaWSyraVuNzPhlFJyJDpez1hYxNzXwJbhIYS0cBa7fxKRca4P+eQKZq6f+JT
+7Lvpb+Xi4k5lvRjCECnNFO3bWL64rs8JFYKDnIASlgosSKQV9BfM4iBRp+xyLLGI
+U+7f46TTbEmh8+l6hAZlAgMBAAGjggIQMIICDDAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFJmfH1mes3IIHIK90uX/6kL7GeXTMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyV
+xC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3Ix
+MS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9y
+Zy8wFwYDVR0RBBAwDoIMaW5zdXJhZHMuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIB
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAouMK5EXvva2bfjjtR2d3U9eCW4SU
+1yteGyzEuVCkR+cAAAGSYbzDmQAABAMARzBFAiBzxNhfUjB7Jqhn5721LMEdbWcC
+H1812MIQLvqoQCkPcAIhAI1Bl3R+RGITxAI1vAiJMBVeQudNLu35lRDIpB+RcG1c
+AHYAE0rfGrWYQgl4DG/vTHqRpBa3I0nOWFdq367ap8Kr4CIAAAGSYbzEYAAABAMA
+RzBFAiArCW1KF62t56K3KzlpkbP+xyQRpZy/Zk1hQvc6hzJToAIhAN/oqK26glnP
+hYcTlEXz85jqV9G5f0hovSxRD71kXqnxMA0GCSqGSIb3DQEBCwUAA4IBAQAekv+w
+YNFg2kLGCzzPeZCNFjM7vkqL1uU3eMMhyzJMKc/xl/b5+oh1+/DEIdNpsac7yH5C
+otUUjXTVSjvq33oDaA2zkzuIuGyNO5C072NyJbLQywnr6RGGlibmxOg/Wv40BTjK
+nShekMy3KAuj4ZJypdF/l0KQuvXS2oMilyOBOmmZ8bnSZrRHKFqK8oljmJNLhQ8k
+LnjzQzh6Y3rzCdhyXtZ4BD8OPt5M7T5JDiyHYMHKf/G8GGaeimmplskLIj1hJyd1
+y4bT2fPEWwRp9wiPlQ+2hf6jVC/muVPfM4Wp9pmbdpKUi6HGVopGjZX7OhHotmQM
+jiArw8hPjb93mLrG
+-----END CERTIFICATE-----
+subject=CN=insurads.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 3241 bytes and written 759 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=paramountplus.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  4 23:51:39 2024 GMT; NotAfter: Jan  2 23:51:38 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE8zCCA9ugAwIBAgISBL9Aa/MtpmhlBo6TCtPrFHmGMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDA0MjM1MTM5WhcNMjUwMTAyMjM1MTM4WjAcMRowGAYDVQQD
+ExFwYXJhbW91bnRwbHVzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBANJkZyMG7IL6LTs0F8zasI8+r2K8cqHiQ0hhSmh+GYu+q42sPr7GOllxhPDX
+dmt07ETV+X416ZSwNqxctRE0e1/uzuk5k9Q/5c2fGWs8bIm1hQAo6pEVMMQplFmN
+1roR8ddXOM5pWRTuA2gQ/waoEuHbSIHjGOaNmubnOe6RGOXCYbW74g4bIH4C/WKG
+pvDxCwUod+1+0HGNoupOIGZaWzKQSOwRBMGrFFC0bDbHaLNHF+FjZK8QCvbnsTGD
+adtg9gcPrLa3YmFaWKSl1CPXMqM587Gh5ATqUnu65pQIEZv1c18Ud8VM7AW1VfNL
+CwbAMqEXU8rejKePpfaoTkZRpCUCAwEAAaOCAhYwggISMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUvPxNbUd+zBvRTQqIWXP0KhWJeIgwHwYDVR0jBBgwFoAUxc9GpOr0
+w8B6bJXELbBeki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRw
+Oi8vcjExLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVu
+Y3Iub3JnLzAcBgNVHREEFTATghFwYXJhbW91bnRwbHVzLmNvbTATBgNVHSAEDDAK
+MAgGBmeBDAECATCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AObSMWNAd4zBEEEG
+13G5zsHSQPaWhIb7uocyHf0eN45QAAABklonyA0AAAQDAEcwRQIhAKRvktDtSab4
++/LEEKzh1/jDS2+35SHzAaHOdNOAGqRFAiBgBTxad61KKAfiQxVKUefPrjc4ROkh
+EAFBtAdE86kSugB3AOCSs/wMHcjnaDYf3mG5lk0KUngZinLWcsSwTaVtb1QEAAAB
+klonyAwAAAQDAEgwRgIhAMQeEkt4GjYN5yPPCBT9aqw5llaEdyWe7Hkr/i3aLQfA
+AiEA1lXjA+a3BLFzZ4oo8XQWzXPBO4/mvcH0ebuoJzIZlsYwDQYJKoZIhvcNAQEL
+BQADggEBACTVt3q0KlOs9oEdEh4vlxSY4tz/BiDEi+YftAlUHl1A29BlaamAemCg
+6drOKCC4lHiNDT86ZZgzD2+8sTFTFeWR2knKFUMI/i+PjoLA3qF4uX7BOJS0xJS8
+GHsMHczuwhB1Thn8es0Zs3hTu2+K+Qm/ajAhcHIVj/61IAf8GmKRzVCLl2sZTrvE
+S4Ac+o1PcIqu89qr5yi3DFeJCLnsLZt5ZVrHLd28ZHHXqyl3Qvje0pIXhpoxJW/E
+xr3iLZX1RRRkqrNtKdELMLfha6qHiwLgjXRRwMKM6R5dWArH42Z0FDhVBkhj/ygt
+34jfzh/mp0lXS9Kpsh/rj67r7Kz8W9c=
+-----END CERTIFICATE-----
+subject=CN=paramountplus.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3126 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

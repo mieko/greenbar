@@ -1,0 +1,90 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=pretty-fly4.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  9 03:43:04 2024 GMT; NotAfter: Jan  7 03:43:03 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFFzCCA/+gAwIBAgISA9CWVfupZ1Up2Zr9NF2W+V1OMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDA5MDM0MzA0WhcNMjUwMTA3MDM0MzAzWjAaMRgwFgYDVQQD
+Ew9wcmV0dHktZmx5NC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDTFNQCSfI41RBDrjAq4JWxBKY5FIYGCt4dWyUHAeGY6yUK6k+tvfw7SI1/kJnz
+KBuhIfYK/zg51AF1vwCzbkWdhHK3zr3BprS2eUvsae9EH31yyTUno4UlVH3ov7RZ
+JIl2ix0C+IcGW3hs0nnaQbdgd0e3TtsgcaIn+lUY6PuhcHbdmoo37gH1KGVl6TVN
+RgBzMpDi7yCFUki0tw37aRDIgZnoMRdQ7plUHA0szxRkUx9QdFilXSct5HoBzlK1
+rr6DU5TqUamg7e3cA1FhGbmOddB1vZRwv8rNymEgV/05vE43BsTOWQ8+kwGy/HEz
+j23uyf7WxjLrtZ43emn0PGUfAgMBAAGjggI8MIICODAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFL1Og8ez1XcOom5t+e0aIaB1BDWfMB8GA1UdIwQYMBaAFMXPRqTq9MPA
+emyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDov
+L3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNy
+Lm9yZy8wQwYDVR0RBDwwOoIPcHJldHR5LWZseTQuY29tghNzdWIucHJldHR5LWZs
+eTQuY29tghJ2Ni5wcmV0dHktZmx5NC5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEw
+ggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+F
+auvBvyiF7PhkbgAAAZJvlRgEAAAEAwBHMEUCIQCfRe1jFtpCUbtSLfD7KWf/L+LK
+PESpNMfmRSqksPSPHAIgVALQp9jnTW9qsKopj0mmeEq6rVofwGjYS1+eXnSxtOQA
+dgDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZJvlRhNAAAEAwBH
+MEUCIEzk41+tAzob8nJdcKsOKQbWwhumFpqdgKlsryiIGgxLAiEA/cWArMNl1d6i
+Is2EZQ4NbzA5Y5mO1yfeLcWNewO6K4YwDQYJKoZIhvcNAQELBQADggEBALRg2qPc
+hbp8zoHMM7bP7lRsB1Rg3gPqQVmz605vZQwdIM8mCNEdZmM/5Ogq9Z+jxoCyQtb0
+R1TXH+XMu/Mh6llCcs691plrXYBcDJSlCC4bDJyt1fttT1uWpy6ka9Zt18HTS6Wx
+lVGQIqr0YcUxSlUFsB3jei5klN1diy7pY8ywOV0iXqjF7AqR8U27EAHSURzjTdty
+g6Jrxt08EhT+e5U+j+awWekoNwZf28Nf07nzBUTyzxlBCYXF6sof7SiV0VrQKPC8
++0/XDQ/3t2dj1qAXoMA9CwMj6vTVdgykaztWxfZOG4K9tP4Rftnt4xSnA3qcU3rh
+DKGa3l3VrDBZS6w=
+-----END CERTIFICATE-----
+subject=CN=pretty-fly4.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3261 bytes and written 419 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 666290B050AC22A1ED690A82F5FC74F08DAA9D8069EB2B5DA7A5B6762E94F31C
+    Session-ID-ctx: 
+    Master-Key: 01D5890EF5CE36F9776ED3B8DF6BE292180EE27A9B132D9E7FA4063273DDB87AC6978955B1E137DAA762B3E23065B0AB
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - eb a8 f1 74 7b bd ee a4-ce 6b 84 eb 35 bc c1 56   ...t{....k..5..V
+    0010 - 8e c4 30 8a f0 26 f7 3c-ac 5c f4 bf ca da e0 17   ..0..&.<.\......
+    0020 - 50 af 98 43 14 bf cd 11-46 ff 23 01 c3 24 e3 23   P..C....F.#..$.#
+    0030 - 20 51 cc 6f 13 ba 79 7b-0b 8d c8 45 ea 6b 93 c7    Q.o..y{...E.k..
+    0040 - ec 33 d3 a8 99 31 dc 96-c8 98 1e 72 42 07 25 24   .3...1.....rB.%$
+    0050 - db cb 38 56 1b 64 ab 29-4c 9b 55 f2 13 2d 45 7b   ..8V.d.)L.U..-E{
+    0060 - 9a d4 8b bf bb ba c6 53-04 5a b9 85 98 ab 91 7a   .......S.Z.....z
+    0070 - da 00 4f ec c8 1d 63 93-20 34 43 7a 8c d0 a8 23   ..O...c. 4Cz...#
+    0080 - 18 42 b0 4a dd df f2 2c-ff ef b5 01 3d b6 de 9a   .B.J...,....=...
+    0090 - 55 b1 bd 1e b1 73 af 83-0e 70 9a 2a 2c bb ea eb   U....s...p.*,...
+    00a0 - cc 05 d1 ca 2c 86 11 5a-1e 0c cb dd 50 5e 46 36   ....,..Z....P^F6
+    00b0 - bc bd 01 7a 92 ff ec df-4a 4d 84 6f 6a 9d f7 c4   ...z....JM.oj...
+
+    Start Time: 1732697672
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

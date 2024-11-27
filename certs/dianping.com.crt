@@ -1,0 +1,100 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CN, ST=北京市, O=北京三快科技有限公司, CN=*.dianping.com
+   i:C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia RSA OV TLS CA G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jan 26 00:00:00 2024 GMT; NotAfter: Jan 25 23:59:59 2025 GMT
+ 1 s:C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia RSA OV TLS CA G2
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 3072 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 10 00:00:00 2022 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHCTCCBXGgAwIBAgIRAI2NJdpmXF5QtSlzHOw048owDQYJKoZIhvcNAQEMBQAw
+WTELMAkGA1UEBhMCQ04xJTAjBgNVBAoTHFRydXN0QXNpYSBUZWNobm9sb2dpZXMs
+IEluYy4xIzAhBgNVBAMTGlRydXN0QXNpYSBSU0EgT1YgVExTIENBIEcyMB4XDTI0
+MDEyNjAwMDAwMFoXDTI1MDEyNTIzNTk1OVowYzELMAkGA1UEBhMCQ04xEjAQBgNV
+BAgMCeWMl+S6rOW4gjEnMCUGA1UECgwe5YyX5Lqs5LiJ5b+r56eR5oqA5pyJ6ZmQ
+5YWs5Y+4MRcwFQYDVQQDDA4qLmRpYW5waW5nLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAKTyb4ryzUb14zxnEKdCN+lOXbPFtsmTfeiskluSZvDO
+Xh175a6zHa3l845j4AeEoK8EAZPqdSC75h9dAvj65dFjxg7Zhf9oiHs44yEX/1UY
+oyYTpgSSAHL29oC76arURCRihGZp6T7WLPqOYK1rrQ5TTYC7hFJyDr7qSoFc999N
+IhceT3mLQPKZOInZtF5xzSSABHgOZMjJc/8lCHNZ20NvnH7HbSG2GZ9hCjTYLjQn
+X4pUQ7OKGxy6P6owrHGaraMKmw5R8ln5ofsBhYFfTI1uiQNtJh2OlQV5WXAfk6wd
+fdI1jfRJ3Ay8AqVeyo+AtNffk+SDSrORUbSrGDyHjgECAwEAAaOCA0AwggM8MB8G
+A1UdIwQYMBaAFMoxITcM3jm30istVZpcqalcUPomMB0GA1UdDgQWBBQuAFTcGkhB
+WdVkEBv0SZJ1UoQk3jAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICMTAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgIwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cDovL2NybC50cnVzdC1wcm92aWRl
+ci5jbi9UcnVzdEFzaWFSU0FPVlRMU0NBRzIuY3JsMH0GCCsGAQUFBwEBBHEwbzBC
+BggrBgEFBQcwAoY2aHR0cDovL2NydC50cnVzdC1wcm92aWRlci5jbi9UcnVzdEFz
+aWFSU0FPVlRMU0NBRzIuY3J0MCkGCCsGAQUFBzABhh1odHRwOi8vb2NzcC50cnVz
+dC1wcm92aWRlci5jbjAnBgNVHREEIDAegg4qLmRpYW5waW5nLmNvbYIMZGlhbnBp
+bmcuY29tMIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkAdgDPEVbu1S58r/OHW9lp
+LpvpGnFnSrAX7KwB0lt3zsw7CAAAAY1DfjXcAAAEAwBHMEUCIFUel4xHF2Lx57o8
+LqeDKmXMkzzGwI3q//ZHshIq7yN0AiEAkVruKUneOOpMAD/jLawRYeF8E6ZJW/85
+AkFW7vyKYtoAdwCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14bLMS5UKRH5wAAAY1D
+fjZ4AAAEAwBIMEYCIQCOdGbdvW0x8sKZHgQyMeiIvvEAWjOqoT5hRh8GAC8ZIQIh
+AJmImqDTAS6eGJQXgsLLfSiRyHhVLqoqf+sLdavRNvUkAHYATnWjJ1yaEMM4W2zU
+3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGNQ341vQAABAMARzBFAiEA13MA9b9ThYcA
+EActamzEXBEmBVn/ztwaVx6FRTqTUxoCICiKYoyRn6luYn3ewKB3tFr5wbIbMN3N
+kgI+F4AfWjIEMA0GCSqGSIb3DQEBDAUAA4IBgQAzcSg/P8o+8poVTY/zgfp/6XYF
+bimSlun2gSWJlG6L0h6pqeiCT7ImSZVwqBqO9e8hY96r9RcAUtsiRqeInuDAj0pP
+muWx+XOeGF0KBwAtpyOe5il3IrR7joEuCaRmF6CoXpvKLcPI/c4GJfSFO4GJvv9x
+RnpeC8aJDRSkRo9GkoHpfaz3CuAXOn6JASCBZUG08HBD7J67IpdB7iEfVtZSbK/S
+gEEsJn3/zgncJIt571MJjZ/IRBOwot5mykbJYtWZZady87Ca6GofOrqo2J/pkni0
+c9vJNfYdJHoY13LkvskJI7KyvJit+nB4FhgIsJAUr8z67POIBzsTJovOjdMktpWI
+gfbze4Pu3ft5+4+cyuRtor0oaXQkPelL1k6tpvOdEYqeUc+Z6dNUfXlTJvKBAIcb
+v7xVVWRMkLTTH9qwFf1fEHZ85ZwgaHpgaf2FnzQghM1J6pa2845nE15i0xEDMGB6
+NYry2PpUqCU2TxTcFP6JlOvSLLISjPqQneKqBRA=
+-----END CERTIFICATE-----
+subject=C=CN, ST=北京市, O=北京三快科技有限公司, CN=*.dianping.com
+issuer=C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia RSA OV TLS CA G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3760 bytes and written 416 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 700D18DB270488B7357F0C33B7A554846D5643C869D46D724680F6A4B5A3C79B
+    Session-ID-ctx: 
+    Master-Key: DF77967B470EF1F85A96552902BD59875C268C14905A30163889B23AE196081941E9BAD7D8C48847833533325234E290
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 2100 (seconds)
+    TLS session ticket:
+    0000 - 9d 2a 87 76 7b b9 d1 fe-e7 cd ac 58 2b 5a 92 52   .*.v{......X+Z.R
+    0010 - 31 2f 9e 39 a7 5a 2d c2-60 1b 26 7e 9c 5c 71 c5   1/.9.Z-.`.&~.\q.
+    0020 - 67 b6 64 e0 ea d4 4f e6-17 2e 03 69 20 32 75 bb   g.d...O....i 2u.
+    0030 - 41 3c 11 89 7d 02 3f 5e-b9 7b 4a 3d f3 14 37 7f   A<..}.?^.{J=..7.
+    0040 - e1 ea be 2a 40 e2 e7 b0-cf 11 6f 1c 47 a8 f0 f6   ...*@.....o.G...
+    0050 - a8 67 50 aa 78 4f 8c e7-b1 99 e0 32 77 fb a1 27   .gP.xO.....2w..'
+    0060 - f7 9a d4 8c c7 80 76 19-8d 1c 5e 26 78 ab 64 aa   ......v...^&x.d.
+    0070 - 2c ed 93 26 e2 fd c2 6e-ca d5 1f 82 7c 7a cc 8f   ,..&...n....|z..
+    0080 - 8b 35 c8 45 f5 e5 44 f4-47 62 58 9a ac 54 fd 4b   .5.E..D.GbX..T.K
+    0090 - c7 09 d5 5e 6e e8 75 6e-8f 29 9d 2e 65 16 d8 83   ...^n.un.)..e...
+    00a0 - e6 0f ba 67 dd a7 81 28-99 44 3e 90 62 42 da 82   ...g...(.D>.bB..
+    00b0 - 7d 29 87 85 64 51 ce 86-5a 49 ef 3d 51 c3 ee 75   })..dQ..ZI.=Q..u
+
+    Start Time: 1732697142
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

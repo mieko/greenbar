@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=pendo.io
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 14 22:21:32 2024 GMT; NotAfter: Feb 12 23:17:27 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJjCCBA6gAwIBAgIQEAaYVI+02jUKNYBQ4E2nKDANBgkqhkiG9w0BAQsFADA7
+MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQww
+CgYDVQQDEwNXUjMwHhcNMjQxMTE0MjIyMTMyWhcNMjUwMjEyMjMxNzI3WjATMREw
+DwYDVQQDEwhwZW5kby5pbzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AOyxfxY035uMl1USFCpiRK3XI9IXOF4FWcyJVWOBKvrat/Fgg+8aNq6ZrTUTHutd
+HuDOfWKd3eOyMkwnoB+aYjlrIfLOcmCdyKSsjNvRJlJrJCix6TAFJSqfkkqH5RUx
+6fL0bgQmQCXBFdCU8uT2qF8b0sQtfcHdtbFZVBV8N5nZJt2iOKi+YhjF98DznPoM
+1UqEvRCJLbF1gq0BeYHaEScCmP2pw9Wew64Fx/DSaTDRdPQHids5csYGYGliA3jn
+F+Za+9XgBl05D0kWahWigxvKGk+EmH4zMyXGew1Hm9PFkD0giBvXvLvds+CwjuRt
+A2ud0PZ1tPpvT71Jukw8IiMCAwEAAaOCAkwwggJIMA4GA1UdDwEB/wQEAwIFoDAT
+BgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRCOPoi
+DCErcEjl0E3L6HZMc65u9DAfBgNVHSMEGDAWgBTHgfX9jojZADxNY6JQMSSgziP+
+IzBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29n
+L3Mvd3IzL0VBWTAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd3IzLmNy
+dDAfBgNVHREEGDAWgghwZW5kby5pb4IKKi5wZW5kby5pbzATBgNVHSAEDDAKMAgG
+BmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93cjMv
+ZFJjT2M0cGk0R1kuY3JsMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAzxFW7tUu
+fK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGTLPtk0wAABAMARjBEAiBiYcp0
+GFrMWdWu7Mi7tve9zZnsLNrIw32/ytjKQbwTeQIgNX4p+lxGCssdieZKjOMlNe//
+S77ylgvc+g6YwusYyVMAdgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeO
+UAAAAZMs+2S2AAAEAwBHMEUCIQCxJN6OHopiHimt9dyefMI92uYP0P/tix9aM2Y/
+6Vut1QIgOFpG59VgHeFrHeA/gTRVG2avFYgDj5kS7SoinI4+oiIwDQYJKoZIhvcN
+AQELBQADggEBAG7hYt1Z8zMU48ajOMg458KCXlvm4Ohkw82dQr72zlwkz+5Paoie
+dkjCRit9TUhRIEK5ZliT3PoQXH/jhwywZ+yMz3IlCSrVnqqlV3bmf94gQ9owKVt7
+YH4bEOcE0KqyNccnvcnI9bApK8/yqxHLKoNun2k46ixuDr4nq1NTH8iqQfwNVcNU
+GY6DyI8mXnVLiCovOtzmTMXF8PU9lM7v0391o9oGY09xnh4GLMy/hsrmDKR/Gwek
+TYb3zpiApbqoktwqHYCF27cgDwIabSCzIUZBb16tmjVGva8G1JndJ/Ffa85Ud1Bq
+ZfTyTvtGOt9QojB3y3YwjSXh6aQl8VUnlAw=
+-----END CERTIFICATE-----
+subject=CN=pendo.io
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4499 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

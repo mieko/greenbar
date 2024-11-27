@@ -1,0 +1,99 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=RU, ST=Moscow, L=Moscow, O=VK LLC, CN=*.dzen.ru
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  6 17:23:28 2024 GMT; NotAfter: Jun  7 17:23:27 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 19 00:00:00 2018 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGNzCCBR+gAwIBAgIMR8ucbxymJRqF1rLlMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yNDA1MDYxNzIzMjhaFw0y
+NTA2MDcxNzIzMjdaMFQxCzAJBgNVBAYTAlJVMQ8wDQYDVQQIEwZNb3Njb3cxDzAN
+BgNVBAcTBk1vc2NvdzEPMA0GA1UEChMGVksgTExDMRIwEAYDVQQDDAkqLmR6ZW4u
+cnUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDSSL11M7fNr/ndSZi7
+oU3IQCD6Ao8AR7VHmqG6RD2x5tRrZM/11NFiteSoPxF3IxqBex2tbzgCqGkOC3G+
+kw8353xkhZBRY6qeEG4pT7DmyUtT/iSW8wR2Bm0Ws2dybERRk2S6OO+M9j/EtWAA
+QWXinrgVpkZSJMxHMc9z7yKX3ihCYZ5+q0TROvnHWGA2bUfVuc2rE7Te/rWyuu3U
+gwZZA3Zr1q7fc6XtmsBkdhb2SfdU1pciy9qdYNYbeYaYp3A6Ja8j+5+DYsKtPWKB
+GSVXf35Rht4Lv0AkroeX2kEjr+m1h1H8t/mOwFVasCxR2m/DT6IPnFXuMATL/fcJ
+2AfxAgMBAAGjggMLMIIDBzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADCB
+jgYIKwYBBQUHAQEEgYEwfzBEBggrBgEFBQcwAoY4aHR0cDovL3NlY3VyZS5nbG9i
+YWxzaWduLmNvbS9jYWNlcnQvZ3Nyc2FvdnNzbGNhMjAxOC5jcnQwNwYIKwYBBQUH
+MAGGK2h0dHA6Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2dzcnNhb3Zzc2xjYTIwMTgw
+VgYDVR0gBE8wTTBBBgkrBgEEAaAyARQwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93
+d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQICMB0GA1UdEQQW
+MBSCCSouZHplbi5ydYIHZHplbi5ydTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwHwYDVR0jBBgwFoAU+O9/8s14Z6jeb48kjYjxhwMCs+swHQYDVR0OBBYE
+FKhG6wB4D6SW5YCsIz3E4DQW+6QHMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgA
+dgCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14bLMS5UKRH5wAAAY9O7phZAAAEAwBH
+MEUCIDJhtVOSU0gYoBEjjtEOlN/Ryi9jtbtGnitesq5YkKYJAiEAhmEPB2gQ2l7l
+4h4DESiSxqD2TUUKi25lvVzg8wWEIoAAdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6V
+nrkDL9kOjC55uAAAAY9O7pgNAAAEAwBHMEUCIQDo1a8fuNRJiy9G7PFeIH/J6XRT
+SjvKypJQYVd5VThAtQIgXJcSr60ZyfZR6aJMei0e7zEX4Fbf4ngwLQVrp8oJBvcA
+dgDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAY9O7paoAAAEAwBH
+MEUCIQD6BGU5oI0PgJmDmpPAwL2cNY2bsBXG6mJpmSfBj4i4cAIgOPyOTEIHn0Dk
+pGwvO56L3wiAVragBOGVnZ23RSeb9j0wDQYJKoZIhvcNAQELBQADggEBAEhWwkyn
+YKYuXiTNG4oza70vWLHAKbpy6KVgym8w5IG9sjke8BfCL4g0kc/fPhBJ2DCGZB+F
+EXTqQsloD3makS/Ecdnm4BFR/hJw7WTqHYOLsM13Ypv7e+dSttgrW1vQx9xN6DDV
+rdOoVKTqLfruRup7TztCdftO08iBg6sw/fbpvF3eiVDh4kWuOhqkmQz2tibEIe90
+epv8qK6LhU/R+vz3mUKYc0fA0/jncFuD+9b5+lpD+FstJ9KE89tZEhydiLgX/STB
++g8vMIAJXcDetutb5K/74mx5BWdd6EULwZz4gf7A4QYHBMXxux90F28W6pznXaGS
+CVk02zSnXlcDVBw=
+-----END CERTIFICATE-----
+subject=C=RU, ST=Moscow, L=Moscow, O=VK LLC, CN=*.dzen.ru
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4458 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 73CDD86B956BD0DF26F3BCAF8559C481640A0BA8283C1A720CB34D71ED7BD589
+    Session-ID-ctx: 
+    Master-Key: 74306DC3D6BA6E35DCCC5E5C22DBC60905962FD5EDA79DB86EAF703E568CAD364B70161D7D90899FC7648D5D73AF8C82
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 100800 (seconds)
+    TLS session ticket:
+    0000 - c6 78 36 28 4d be f7 e6-43 5b a0 5d a4 d3 b7 72   .x6(M...C[.]...r
+    0010 - ae 66 d4 5d cf 68 94 6e-93 64 47 0e a3 64 98 00   .f.].h.n.dG..d..
+    0020 - 8f a1 6a 6e 5c f3 99 01-cf f9 0b 5d ae dc 86 06   ..jn\......]....
+    0030 - f1 b9 82 52 54 3c cb cb-8a 56 84 98 d9 01 08 3a   ...RT<...V.....:
+    0040 - a0 16 3b f1 f2 c7 f3 2e-85 1a a1 3e 69 04 b3 95   ..;........>i...
+    0050 - 4a 1b 39 ee fe af fc 4f-39 94 c2 95 38 07 38 74   J.9....O9...8.8t
+    0060 - 87 c2 4c da 0e c7 80 f1-81 e0 50 a4 c2 4b f2 2a   ..L.......P..K.*
+    0070 - 87 b1 84 65 26 d8 76 99-67 04 5a 3c ce 41 df df   ...e&.v.g.Z<.A..
+    0080 - 94 34 a4 9f ec 27 c4 68-78 dc b7 0b 73 a5 f4 5e   .4...'.hx...s..^
+    0090 - f6 b6 79 21 b9 21 13 58-3a c3 84 fb af 34 8a d1   ..y!.!.X:....4..
+    00a0 - d9 64 b2 e8 bc 07 90 6d-6e 7c 7d b2 f5 75 14 49   .d.....mn|}..u.I
+
+    Start Time: 1732697161
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

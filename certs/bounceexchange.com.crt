@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=bounceexchange.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 23 22:00:02 2024 GMT; NotAfter: Feb 21 22:00:01 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFCDCCA/CgAwIBAgISBGN1Iao1NT38QqsdTJXewvZjMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTIzMjIwMDAyWhcNMjUwMjIxMjIwMDAxWjAdMRswGQYDVQQD
+ExJib3VuY2VleGNoYW5nZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCuhsgg1HhAH41/E7YXlsaasZCZKoWXN0s8ZavXtxu9h4rVJGvuy506aYQX
+yCme9aAFIV3SwWm/AJUEm8mIXT+esGFLWVhden7Wbtc5RFE6KuOukMQG0WAjM81R
+MoV4w2uyzcFmZjHz6tZwDBB+4Z5gx4LA4c5E86vXS+VydwYX0mZHAgRT8V4bDC/r
++ef+8t3ikeBG3429cNOy5r7ThBo1Ihj1Te+6n6WrWs9AxNBdiAdOBxWfjTVkn6eX
+Mn7yKaosgHU8s/QGjtipFwsNiCHcGq5NbgQYBTEd1APlsQvXj7Le+/AAUMHlMKLn
+72/9A7MqZpT/y0tUWWsTjdOItEw7AgMBAAGjggIqMIICJjAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFLJPjixU+7MuoFmvyINs+VgqsC5iMB8GA1UdIwQYMBaAFMXPRqTq
+9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0
+cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxl
+bmNyLm9yZy8wMwYDVR0RBCwwKoIUKi5ib3VuY2VleGNoYW5nZS5jb22CEmJvdW5j
+ZWV4Y2hhbmdlLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATCCAQIGCisGAQQB1nkC
+BAIEgfMEgfAA7gB1AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAAB
+k1s/jxgAAAQDAEYwRAIgPnNNTgcnqdNBlmOUc47UUqiLsC3xPo7y/0w368SEBsMC
+IAivOGCyFWx73dg3xYCFMFec5VOXJO6yjjqBfmtaZDeIAHUAE0rfGrWYQgl4DG/v
+THqRpBa3I0nOWFdq367ap8Kr4CIAAAGTWz+P4gAABAMARjBEAiAKwu4tDPnbhf+x
+nGR1omqvjx2MecjfZmIBoWmzGOn5DAIgK+JlEBRjhSLnUYUT0tCJKWvcUAJRv/S7
+jGB1pCw16L8wDQYJKoZIhvcNAQELBQADggEBAJaRSc1ssaKOwxnb+GMcD+FgdLPY
+qDGk0dtZn5eZPPjtGytml5Sm7qPZSI/s1RM1MG5veT8EkSrjStZnFOqGBvP/fFHw
+VUQCdI7FHAIWq90O12LsfPfbqH2j4Q8khTSgL8mpXg3pxK7naQHDGYmyAV9lQ3C/
+21HMqiEeQy1d4KEubP1psmaF1cI4JaIcESRDW9g4b3RpM156qArRkXrjQPfvvsYk
+CA7cBTNZ6XQ1UMRjvD37Xnoq8+WuyHj2u2blCMl609OtCqonCRkoV8hi98c7PV7Y
+u7vcTuLwE3FURHAoNhjUR2N7jwSknD6Uj6kBeLCBrF+0w3DkT5KEyUTYylg=
+-----END CERTIFICATE-----
+subject=CN=bounceexchange.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3077 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

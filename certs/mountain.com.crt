@@ -1,0 +1,76 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.mountain.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 23 07:09:26 2024 GMT; NotAfter: Jun 24 07:09:26 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGkzCCBXugAwIBAgIJAJ3wHbb9QvrIMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTI0MDUyMzA3MDkyNloX
+DTI1MDYyNDA3MDkyNlowGTEXMBUGA1UEAwwOKi5tb3VudGFpbi5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDTk6kLA+mZ1K5wcq5DlnUMi5wvt2mv
+dk81tpLcVspEn0oV4d7d3z1k9jYQVGPjacnvbaeag8hW6ytclDsoiVIpgThxsez5
+/vR6bW3JX6ZQsIGOIUiMwKN7xst+0M9DPI6g7p314UGpBNhMAvKv5PbHOxZ2z9pE
+wmwznlBN7Hp8fb4sxGfnb/fobuPTNgGg6XHgxfeHpIIXj5J4CoA+0oT1OkYDjirx
+H5wResbPHWB1NENhTcyjkFYTo1hhnTAoG63fJruSAHNtliLGUyGAbToXd3bPL5Yc
+RN+PDOT0SduA0H2fLPA7SzegsryXHrIex789aK3yislafqfxei7KimqXAgMBAAGj
+ggNAMIIDPDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAOBgNVHQ8BAf8EBAMCBaAwOQYDVR0fBDIwMDAuoCygKoYoaHR0cDovL2Ny
+bC5nb2RhZGR5LmNvbS9nZGlnMnMxLTIxODY1LmNybDBdBgNVHSAEVjBUMEgGC2CG
+SAGG/W0BBxcBMDkwNwYIKwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29k
+YWRkeS5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQIBMHYGCCsGAQUFBwEBBGowaDAk
+BggrBgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRkeS5jb20vMEAGCCsGAQUFBzAC
+hjRodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvZ2Rp
+ZzIuY3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz1/tss/C0LIDOMCcGA1UdEQQg
+MB6CDioubW91bnRhaW4uY29tggxtb3VudGFpbi5jb20wHQYDVR0OBBYEFJcnTqXE
+oRtU6zz68vZPooeYIuLdMIIBgAYKKwYBBAHWeQIEAgSCAXAEggFsAWoAdwBOdaMn
+XJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAY+kSIVhAAAEAwBIMEYCIQD2
+yNMtlyAlpj4OPTSx5JCMcRPFh76IgcYA0KyON5vqOQIhAIDKV0N4QHZpDG85Zqly
+nUIA+7AkH9aoAY2bMcF4p1oNAHYAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/Z
+DowuebgAAAGPpEiGdgAABAMARzBFAiA8TUVB6Zkf0LxXWf06Jg65/lTLTkP/dTNY
+C77p9bGYBAIhAPtA0Wh815GaldWlvm9QRpTLycLEpzXm+armyVYew9S/AHcAzPsP
+aoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGPpEiG5gAABAMASDBGAiEA
+qZthVT/6TT/vU+Lp7b7+7Dbnl076lSkRGRX3DPBx8WcCIQCx2TJHc/x8YWeAEhKY
+rQGcTEcZcRz1RpN3s8IBbeM4HDANBgkqhkiG9w0BAQsFAAOCAQEAUED40ELX2j/0
+agUEOgU33U40VS50McoTzne0ll6XhK/VKBPz715we81MrJ1yVstEdpYvadUoEQCD
+CM5b2jIGEOQdaI04mSMhuSAQsM+Rrr/CRrAks9Iaz5DdyVLfE9kSFQ1zDSvqwPe+
+/fbxDrIq2lSqlruVivawBACNfKvmTlHR/mW4BfGdubhUuVvPyNPdwMirU9mkym0T
++dSgEQ3M8BQFs+QreuWKtgarVZbpKhzHrV64tUJ83hEPWBSUP+voaaYK0wO0wgJU
+0vc8CFrAhEKmZ30mX3JmnPnFS+Vke/d4x5GM95hJRgeHc7G2DHTOL7d7cle3zuwd
+ObFbHHnCDA==
+-----END CERTIFICATE-----
+subject=CN=*.mountain.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4580 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

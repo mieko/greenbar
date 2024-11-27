@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=disneyplus.com
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 10 11:36:36 2024 GMT; NotAfter: Feb  8 12:31:50 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJjCCBA6gAwIBAgIRAKUmDoaxGZ8mCvyjv7Vy1YQwDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IzMB4XDTI0MTExMDExMzYzNloXDTI1MDIwODEyMzE1MFowGTEX
+MBUGA1UEAxMOZGlzbmV5cGx1cy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDutYYkF8LNJQFNJTat9VW1VHfJlgrpZZ6kC6vRIP31Dr/nBXfaEmBn
+omjQ1YEtJFeS+u6hgImROg33477GJf0a1YF1uTe9LQ6ZGnQweg9AxQ68M7AmzFLz
+h46QQZpyxHVbzziEU5LRNHzSV5Xtm7LU8jkn5XKtZHDuU5lJrwxqyRpexIQOfW3X
+BlwsCLRxAIb7y7FZlrN+OJCM+a9fie4w5+NwEP7k0tpIoRiuAmcy50SPnB2uJWRe
+qPFAS+Nhv1yJnO4yt/at5KW8U2NUCZAkzQ1PBcdAUv955t9W6FX8gjl0ZYbq9zNP
+OPwS6jqBFkqhdRGxkVMFQOHBMAvqCsCfAgMBAAGjggJFMIICQTAOBgNVHQ8BAf8E
+BAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUfifI50vNensPoNu5H2RoRQ+GHaIwHwYDVR0jBBgwFoAUx4H1/Y6I2QA8TWOi
+UDEkoM4j/iMwXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5w
+a2kuZ29vZy9zL3dyMy9wU1kwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29n
+L3dyMy5jcnQwGQYDVR0RBBIwEIIOZGlzbmV5cGx1cy5jb20wEwYDVR0gBAwwCjAI
+BgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd3Iz
+L2hIdm9VYVZHMDZRLmNybDCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AM8RVu7V
+Lnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkxYTgRkAAAQDAEYwRAIgPPNF
+7YRCiifM9/ladGQFlt+z5vO+PlY27qGLQWc0XWUCIBwLuMrrciYkLXr7O1UvsCqy
+XWouZMQ8iz3B0XQ9R2uHAHUAE0rfGrWYQgl4DG/vTHqRpBa3I0nOWFdq367ap8Kr
+4CIAAAGTFhOFpQAABAMARjBEAiAKKCDxuvBIiLt9XvGpdFnL4DIDmQyYdlgWjX06
+CH1x/gIgFgC8bi4iT9TXzCkQ1kZ5Vnl/aK1k2BbdH1Ev5H5E26EwDQYJKoZIhvcN
+AQELBQADggEBAEpCoe5D2dMXP+x5Hh7vps31mzWVjfMM/FziGdIlvoRJ1A24Qk6+
+Ia8eYPNkCnn/gy+V5oSbdVOEkYm8kos5iKwMp4U48xPIzzxLDDeYZGSvPFjm3ne8
+vwZdHY2R+WW9rrofPE0nIYOswQzHh2HKJvhyRh1anNh2MOoEC5CJvQwLrzAs0f+G
+uQk7W1qDFXozH5wUHySoAFNXtqkqRJRPiyvfRtXzqnNjW7AvKTOp+3bfUHRjIbT4
+xEVjIJk/3XLsfZkYu/l1quXt+MoGrTHYQzhuEk7TnLhDo/L6UGq5u1ZHahEXzH0I
+LLtnPhqOuOegFtxetEZ9eAGdutWDT2RQAxU=
+-----END CERTIFICATE-----
+subject=CN=disneyplus.com
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4499 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

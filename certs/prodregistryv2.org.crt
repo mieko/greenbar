@@ -1,0 +1,64 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=prodregistryv2.org
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 20 14:46:13 2024 GMT; NotAfter: Jan 18 14:46:12 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFFTCCA/2gAwIBAgISBHZf63FcXtFCDd5JEl1oSqtYMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMDIwMTQ0NjEzWhcNMjUwMTE4MTQ0NjEyWjAdMRswGQYDVQQD
+ExJwcm9kcmVnaXN0cnl2Mi5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQC9dYeTvgMGVUAgoFgIlzBMXUFnuiPEywI+LsV+rnxVNanXpgn5qSgMEbci
+87NDMs7bl//tubm7ZcAtgdLaIoFum/k8Y7WJ4wKU8mfTl7iVmTyG5GOb5hfJmEqG
+7M+65cP8EtQnlyWdvSc76gYOx8aE3jZ8TS2IoMtevjvOR01Ev1iV69VKkktXpBBd
+SXF8SDEo5WPU6V6VAMSgGnErMoah0RvPCeDc2dA7Oxtve6UBwxWTAHnDOG4VsCEb
+6Oi0eQ1DKuncib/7FiXAq+bIA9vQkXTYo57Fc1st6zPLbseO6LtsRAorg91JMIxL
+4fooGSUesj+0Vt3YSq/Mf29s8wsXAgMBAAGjggI3MIICMzAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFMTdhkCkyTQvFP5u5fk7ryoegBtbMB8GA1UdIwQYMBaAFLu8w0el
+5LypxsOkcgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0
+cDovL3IxMC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxl
+bmNyLm9yZy8wPgYDVR0RBDcwNYIfZ2tlLXVzLXdlc3QxLnByb2RyZWdpc3RyeXYy
+Lm9yZ4IScHJvZHJlZ2lzdHJ5djIub3JnMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIB
+BAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrr
+wb8ohez4ZG4AAAGSqpos5gAABAMASDBGAiEAvTmdf11lFurAbBsHvfMG6/gYPJYD
+cFpMNXD/Kj97q74CIQCqZhXdOSALyGpAstF1RcRLYhWtDZIyIM0e0SOJlcGQwgB1
+AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkqqaLSUAAAQDAEYw
+RAIgRm3dLkp3AhqJhKng9RHKHid3v05i+cbJe/7vGiLsn68CIAiudQMBZ05dEMEz
+djXj5LsmrzQyO7KPm9RujVuZpxDVMA0GCSqGSIb3DQEBCwUAA4IBAQAzgRGYKpFv
+0hQtPH7dQ+U3LVI1j46WZpm8q3bVUmSJ5hCF8cEo1JCr3BHaoJQv8+NR5CdpqOWx
+WxGNtEWEu+/MXNDF7zjSws/C1xU98DInl2wqyEfQLZ7a8fSZJL8HlO5LyP7HAcjF
+Mm4An8N+QIA7pSel5xuj6UGiotg5BbI+iTt7ICcuAi3HRxjTqH9lQGWlCIt5GWIL
+bHPSEdXzbHU3putoZ+x5A86LPVjpGM31KDWy+IHgGbo+Ox1WCk2GT+wVXwmA9k2D
+qw1IlBqHg4QjxYA607qF2DwKT8dWCasP2XhqKnMGJqD0U49PERm9J5mT2woNoOv6
++UPm6KlecBNY
+-----END CERTIFICATE-----
+subject=CN=prodregistryv2.org
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3089 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

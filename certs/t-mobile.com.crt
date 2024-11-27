@@ -1,0 +1,77 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=Washington, L=Bellevue, O=T-Mobile USA, Inc., CN=www.t-mobile.com
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 15 16:18:18 2024 GMT; NotAfter: Oct 15 16:18:17 2025 GMT
+ 1 s:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  5 19:13:56 2015 GMT; NotAfter: Dec  5 19:43:56 2030 GMT
+ 2 s:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul  7 17:25:54 2009 GMT; NotAfter: Dec  7 17:55:54 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGvzCCBaegAwIBAgIQfFjVAJ2LqTwjN6s9elCnOjANBgkqhkiG9w0BAQsFADCB
+ujELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUVudHJ1c3QsIEluYy4xKDAmBgNVBAsT
+H1NlZSB3d3cuZW50cnVzdC5uZXQvbGVnYWwtdGVybXMxOTA3BgNVBAsTMChjKSAy
+MDEyIEVudHJ1c3QsIEluYy4gLSBmb3IgYXV0aG9yaXplZCB1c2Ugb25seTEuMCwG
+A1UEAxMlRW50cnVzdCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAtIEwxSzAeFw0y
+NDEwMTUxNjE4MThaFw0yNTEwMTUxNjE4MTdaMG0xCzAJBgNVBAYTAlVTMRMwEQYD
+VQQIEwpXYXNoaW5ndG9uMREwDwYDVQQHEwhCZWxsZXZ1ZTEbMBkGA1UEChMSVC1N
+b2JpbGUgVVNBLCBJbmMuMRkwFwYDVQQDExB3d3cudC1tb2JpbGUuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoeeVNOgJubAhc1HHRpS8hgWLbYpz
+qUaouMjqSel5xeSEgc9pi6M0OqYDQHDJus/bB41wfxkyb8qCS6DJn7RB2GPRh7Sa
+HNLdGhU3+LdlLkggU8yfzrN+3suGg1pd77Ss1+8GCYe1PWF8UXiKrfhHhbjITEVf
+ymAnCplkwLr9INoBGLAkCO/j4Q/CeUdWSCNE8xHwv5XpovkmX75LxUysltF+dGHy
+JVJESoM4ay25DxvWhDgnW8xC5NfSy/Jd4AJY31Uz+gD0+RbMzOfKZPg8j6B2602k
+7N6HOFpm+wgeNue/8NFxZCVSJXTE11w2EUsWFcBxHgHiO1WsJtyLb55SfwIDAQAB
+o4IDCzCCAwcwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUl49/HpHyBl5EuegO+XyF
+TxFAsFUwHwYDVR0jBBgwFoAUgqJwdN28Uz/Pe9T3zX+nYMYKTL8wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBSBgNVHREESzBJ
+ghB3d3cudC1tb2JpbGUuY29tghBiMmIudC1tb2JpbGUuY29tggx0LW1vYmlsZS5j
+b22CFWJ1c2luZXNzLnQtbW9iaWxlLmNvbTBoBggrBgEFBQcBAQRcMFowIwYIKwYB
+BQUHMAGGF2h0dHA6Ly9vY3NwLmVudHJ1c3QubmV0MDMGCCsGAQUFBzAChidodHRw
+Oi8vYWlhLmVudHJ1c3QubmV0L2wxay1jaGFpbjI1Ni5jZXIwMwYDVR0fBCwwKjAo
+oCagJIYiaHR0cDovL2NybC5lbnRydXN0Lm5ldC9sZXZlbDFrLmNybDATBgNVHSAE
+DDAKMAgGBmeBDAECAjCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHYADeHyMCvT
+DcFAYhIJ6lUu/Ed0fLHX6TDvDkIetH5OqjQAAAGSkPkhJAAABAMARzBFAiBAvwwE
+oz1HgTpMsjiNiRGx21K03fhnKRU9IQiEcpL/4wIhANF5usbqdwbDQs39HrP3COLJ
+1h5/c6JIVkazw3zOE3spAHYAEvFONL1TckyEBhnDjz96E/jntWKHiJxtMAWE6+WG
+JjoAAAGSkPkhRAAABAMARzBFAiADZLQwVra51o4f+hvYdgsftC1gTTDrudiOllA3
+i6uOSQIhAOZlOTeoTeRwecUblL80wTYRkqTQqXF9d8Qg6r4BmANiAHYAzPsPaoVx
+CWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGSkPkhJAAABAMARzBFAiAiYEcV
+GMAaskhzUksc1tE5xH4PMXQFvm5OgUCSfh30xgIhAModaRLzXkNM2b3CJLMSqR6a
+9HWjr2TzC6prdOpXmZetMA0GCSqGSIb3DQEBCwUAA4IBAQCo28UDcxaSO8x5MPko
+woKywGaRU2xSuigoAgegxGlwf4by5Ph8VXZS7SPCvhM4dt8Zn+JOQ2rd4GphKjdz
+wca31F52VcDAAbuTD02m1RyumXpA2hGnqNrNW7YKwfdwM8SGx4AOPxKnz+t1nrNT
+FahyneGNy/tGQjMBV7lhjVmy71EW2Qa3FUD9oOzfRj/nM5xRyAKt+NIRU44Lg7WR
+6RvsRbdaHs/YO4D96CfT8BQMG3WC5Xa85hufbe64NDAFLU3dyqENHE3Q1l8S/Gsu
+qjML/dUyENXWSVRo94vSKr3PXEqRqRl5djv6ih0A6ozyiVt6PaxuvwQN8Azk3yUw
+gflO
+-----END CERTIFICATE-----
+subject=C=US, ST=Washington, L=Bellevue, O=T-Mobile USA, Inc., CN=www.t-mobile.com
+issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4673 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

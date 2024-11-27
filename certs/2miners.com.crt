@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=2miners.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  2 05:50:26 2024 GMT; NotAfter: Jan 31 05:50:25 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpTCCA0qgAwIBAgIRAI6RaqBF1iaWEfzt+W8/7zQwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEwMjA1NTAyNloXDTI1MDEzMTA1NTAyNVowFjEUMBIG
+A1UEAxMLMm1pbmVycy5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASp1g76
+As38KZC2D4bk+NJaZWGZwRNA40P3jEl2anL88ZYEBtMXdjp0CI+XcFASR9cGOm3m
+uz0IJylG1nWdLKlpo4ICUjCCAk4wDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoG
+CCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPVaD7wBNauhYbgYX5um
+AKoTmyl8MB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsGAQUF
+BwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEvanBF
+MCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MCUGA1UdEQQe
+MByCCzJtaW5lcnMuY29tgg0qLjJtaW5lcnMuY29tMBMGA1UdIAQMMAowCAYGZ4EM
+AQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS94bUxJ
+aWFGVVdJWS5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDPEVbu1S58r/OH
+W9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZLro7UTAAAEAwBGMEQCIC3Uq8R2tVsB
+Ho4jaLGVnVUcMr2wwPAh9LQ7DxGK1r27AiAG9h3ekCqMGlUn+5i9Rgc0X7KGPsKT
+sbYdKeliqll8zQB2AOCSs/wMHcjnaDYf3mG5lk0KUngZinLWcsSwTaVtb1QEAAAB
+kuujtRkAAAQDAEcwRQIhAOuVsQIR9b0YxgyZ5f14GAwQzgKTiMzZ8E7xxKaDNIao
+AiBMoeDEYHc/OlFw+89UbAXjXi4qT9AT7563ByF574RQQjAKBggqhkjOPQQDAgNJ
+ADBGAiEA+sZRC63YYRkMQ36jKscPY6HcQ3nmcq3B36Pb3AQGDB4CIQCHIop9uUqt
+Yb3LsCFY5H13lYFOOu/zZT9xXO1T4V4/fQ==
+-----END CERTIFICATE-----
+subject=CN=2miners.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2825 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

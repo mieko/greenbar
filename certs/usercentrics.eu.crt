@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=usercentrics.eu
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 24 07:06:56 2024 GMT; NotAfter: Feb 22 08:01:30 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJzCCBA+gAwIBAgIQOTRP62oLQXMKyiEwJJvpNTANBgkqhkiG9w0BAQsFADA7
+MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQww
+CgYDVQQDEwNXUjMwHhcNMjQxMTI0MDcwNjU2WhcNMjUwMjIyMDgwMTMwWjAaMRgw
+FgYDVQQDEw91c2VyY2VudHJpY3MuZXUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDPlB12w4VbtCCFRLLGKxdmef4oHY2REd3os+A4NUk5M7Acy60wCQ2U
+ll5E+W0HWdDVqPXX5BxwNiwOHY6Fwet2VNi2zc5gwa5a9g/i9CqtTgd1fArxrb/E
+j9/QRAjGCFl5t6Z4yQO0PaNKh/fE0BPNKNjbY34i9FjLV+DVCaRP6Dx7o4xl19ow
+Y25ZxDwSeBC+vz3WuF0MkkJOmAQWdXxBktL9lSaDbZ4aUI6atY/pl5NlA/tHr0lG
+75QVcxmwAsqQh8CXbyU0i1ZBG07cP7QYDkiERlDOHGx4Usnp4s7iaTflUJTtwqZ8
+uzYPOTaEjOnTJ/qTdCmWxbFqSHpyWojNAgMBAAGjggJGMIICQjAOBgNVHQ8BAf8E
+BAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQU9f1/J9xfZMnKsbDIBQVojbypz4wwHwYDVR0jBBgwFoAUx4H1/Y6I2QA8TWOi
+UDEkoM4j/iMwXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5w
+a2kuZ29vZy9zL3dyMy9PVFEwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29n
+L3dyMy5jcnQwGgYDVR0RBBMwEYIPdXNlcmNlbnRyaWNzLmV1MBMGA1UdIAQMMAow
+CAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dy
+My9xQm53Ulp6YlFEOC5jcmwwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQDgkrP8
+DB3I52g2H95huZZNClJ4GYpy1nLEsE2lbW9UBAAAAZNdNaMeAAAEAwBGMEQCIGdf
+HUakal2Y0Sde2rxkN7jbZKHNYdEDbjCGcPEaiC5hAiAfzCG2RMybP46DGHtkdg+U
+G3DUkC1xb1UC0wNOWS0J7wB1AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFi
+mjnfAAABk101ovsAAAQDAEYwRAIgHGHWpUYjni3kT49HuqwR06/yX8nRnORQm6gs
+cJm2KTsCICtlT65ZpOX/1SlmmV+DS7r835DSbtThTAETrlPcaS2gMA0GCSqGSIb3
+DQEBCwUAA4IBAQAVJweiOedqeK1ee7xKtYDvvnBanf2iRUlhaUU6JIA8PfDPexjy
+eAVeGpdjZZeBDLNWH7NEiFw9/zRTXcsvM4eVZW3omdmFhRkig8A4AOR3cCfITkIs
+zsLY9E1q7OazgnYVXLp9uwWiQtIlFlIMpPDUY1LLl4JgxlzaRgQfWZQj52RbFXks
+IJ9NWIXMei6mo8raErOpTEhKoebHXL+PO27mblbi82u9nfHqzTCrJLc6kPNSMi6e
+6BuOnBWNZFV5KVXxuql/IMhotWvF7nHL9ERY26SaIngd5H2WyKyft+YeZdm9ZNyG
+geVW/UtEo5cNXSE1X7eINzGPCo4tA5V+lWMJ
+-----END CERTIFICATE-----
+subject=CN=usercentrics.eu
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4500 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

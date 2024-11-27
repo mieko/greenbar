@@ -1,0 +1,83 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:jurisdictionC=US, jurisdictionST=New York, businessCategory=Private Organization, serialNumber=188055, C=US, ST=New York, L=New York, O=American Express Company, CN=www.americanexpress.com
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 29 00:00:00 2024 GMT; NotAfter: Oct 28 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert High Assurance EV Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 22 12:00:00 2013 GMT; NotAfter: Oct 22 12:00:00 2028 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert High Assurance EV Root CA
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert High Assurance EV Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Nov 10 00:00:00 2006 GMT; NotAfter: Nov 10 00:00:00 2031 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIH3zCCBsegAwIBAgIQDMb7biEosMErhTsj34X63jANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTI0MTAyOTAwMDAwMFoXDTI1MTAyODIz
+NTk1OVowgdgxEzARBgsrBgEEAYI3PAIBAxMCVVMxGTAXBgsrBgEEAYI3PAIBAhMI
+TmV3IFlvcmsxHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMQ8wDQYDVQQF
+EwYxODgwNTUxCzAJBgNVBAYTAlVTMREwDwYDVQQIEwhOZXcgWW9yazERMA8GA1UE
+BxMITmV3IFlvcmsxITAfBgNVBAoTGEFtZXJpY2FuIEV4cHJlc3MgQ29tcGFueTEg
+MB4GA1UEAxMXd3d3LmFtZXJpY2FuZXhwcmVzcy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDA/ZL5mksDcCxMdV3EDbC+QXh9cCheVrLDMhv3Is0h
+JNByou6ZiTrKBwAIdyXbi+CNAFJMa0Q2ag0DPSk8EE8obgODfJ1+0hcwntJFbcIQ
+zIw9mITYMpgQ+V6nnoD2trYpw6LI6oqPIsmu19/NnJWA3g/TMVIy0cAoJZ0KzjFR
+rdWtuBNROB3GOxiyg6zRVSQp7DSJ/ZpFeD4MK4Z/ORSis1PFhKmM3oVNVxCUtPY3
+jks2H6B0ndm2Zs9kQ6Lf0kDANwDNXs5P3Lq52q4uGqCyi9WgDS5rE0o6NSrUM4CM
+Y4oTLm+cwEeEr/9d6Gvf/r8OkF0wzu3ixa7La82tOwIPAgMBAAGjggQFMIIEATAf
+BgNVHSMEGDAWgBQ901Cl1qCt7vNKYApl0yHU+PjWDzAdBgNVHQ4EFgQUMm/SgBIT
+0b0MC4stRIOVQQNlRDIwgbEGA1UdEQSBqTCBpoIXd3d3LmFtZXJpY2FuZXhwcmVz
+cy5jb22CD2FtZXhzYXZpbmdzLmNvbYInd3d3LnBlcnNvbmFsc2F2aW5ncy5hbWVy
+aWNhbmV4cHJlc3MuY29tghd3d3cucGVyc29uYWxzYXZpbmdzLmNvbYITcGVyc29u
+YWxzYXZpbmdzLmNvbYIOYW1leG1vYmlsZS5jb22CE2FtZXJpY2FuZXhwcmVzcy5j
+b20wSgYDVR0gBEMwQTALBglghkgBhv1sAgEwMgYFZ4EMAQEwKTAnBggrBgEFBQcC
+ARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwdQYDVR0fBG4wbDA0oDKgMIYu
+aHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NoYTItZXYtc2VydmVyLWczLmNybDA0
+oDKgMIYuaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NoYTItZXYtc2VydmVyLWcz
+LmNybDCBiAYIKwYBBQUHAQEEfDB6MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5k
+aWdpY2VydC5jb20wUgYIKwYBBQUHMAKGRmh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0
+LmNvbS9EaWdpQ2VydFNIQTJFeHRlbmRlZFZhbGlkYXRpb25TZXJ2ZXJDQS5jcnQw
+DAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHYAEvFONL1T
+ckyEBhnDjz96E/jntWKHiJxtMAWE6+WGJjoAAAGS2dXDsgAABAMARzBFAiAxz/Tx
+fWm+3V6VPPUxFurmZbjGFCGomiNHanVqfPwFAAIhAIBbvPP+Qnb0bYg8aWtjhMaH
+g0rBB++lvssrCLEvLZBxAHcA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43
+jlAAAAGS2dXDNAAABAMASDBGAiEAvBWDNSKVlhzDlY3djWmN3dYcOf39qKjTaYPe
+f2UO8ngCIQCEKTmFXkZg7se61DztvdyHCyaSh4jpLMZK7NiVrN6iMQB1AMz7D2qF
+cQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABktnVwzAAAAQDAEYwRAIgN1cA
+xlZp1sGmoDOopiEVXROktUhNdf84diH92aZsrtECIGYaI4/2n5vv3H/JLGd68YiR
+V6z69kmiPmG1m/H4/hRjMA0GCSqGSIb3DQEBCwUAA4IBAQAiUw8/zMgfav5F7rq+
+Ydkvc7M8JzrWYIr/giK3zxgQ4ARWPnuyMqKy3Xxs13+w7cF+xnJuwoqoyJS/9wVx
+AVXsbVkMR6OjtzdZ6QQhKWwcDzY1tO3duPdL9kXPJg3KGTVZwAoZVTMZJmYrh11h
+Huhm7v01wOX7PCsbOb0b7L8df9SRS+20wSls593PdcXfwGwgepI4bLoFWtAMosMT
+0MCdmrUvRBk4T+oKfG+QK/JfRf+ILIhnQ34S+PuJhyzvgyVRPiYOkb9b4DaUgfhp
+vN0igObasrKzZRSQ6z5qpcjkY1t07YAHnMEQnPhGGfIx1A1DGoncFOwAsTlwO8vC
+H78a
+-----END CERTIFICATE-----
+subject=jurisdictionC=US, jurisdictionST=New York, businessCategory=Private Organization, serialNumber=188055, C=US, ST=New York, L=New York, O=American Express Company, CN=www.americanexpress.com
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4778 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

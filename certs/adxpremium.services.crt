@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.adxpremium.services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 30 00:00:00 2024 GMT; NotAfter: Aug  5 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGSDCCBTCgAwIBAgIQIbu7YkkVLv88HnNwCRbjCjANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTI0MDczMDAwMDAwMFoXDTI1MDgwNTIzNTk1OVowIDEeMBwGA1UEAwwVKi5h
+ZHhwcmVtaXVtLnNlcnZpY2VzMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEA2gobPmug6w8MRQp0s/vs495gDKsD9ESwv4UseTtxlMhghSFS6D3UAyQd5cTq
+bRywn/BRE2LYKgSj5XsbZ0vidXAZ+qzQDW/EtkJlXTel9yjLobEOdKdoglXFgy5t
+oQeAni4cPKsLuWyxdp1fNzffbYLxJR1leiC5TkjQpH66cjdeYNvmXl8aD0/TrTdD
+Ow6Ky6xAPF8C+c9hxHOozC9Z4WsSxXKZtpkNUGkplljSPM7m0gIaYfC9xQ7o/9i0
+KAwl0L6XQKUzyG2iVnM+pc1YO1e/r3esK4LabjJzjdf2CkyTBLkmzS27FjO3aeXA
+Ds7I2nuahu6yBSyxAuwyjWBZzwIDAQABo4IDDDCCAwgwHwYDVR0jBBgwFoAUjYxe
+xFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFBg6KFKhCUkLkR7XdvYc/N/7CsUf
+MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYB
+BQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYB
+BQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1Nl
+Y3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsG
+AQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTA1BgNVHREELjAsghUqLmFk
+eHByZW1pdW0uc2VydmljZXOCE2FkeHByZW1pdW0uc2VydmljZXMwggF+BgorBgEE
+AdZ5AgQCBIIBbgSCAWoBaAB3AN3cyjSV1+EWBeeVMvrHn/g9HFDf2wA6FBJ2Ciys
+u8gqAAABkQLMB2wAAAQDAEgwRgIhAMJUt/bi/1mzQVMZ/ILMopaY/EKXv/ks7JX2
+C1OtxHj/AiEAlbdTL4XVyEpAw5WBq7v+h6460ngkvAUPOp5FQV0atKcAdQAN4fIw
+K9MNwUBiEgnqVS78R3R8sdfpMO8OQh60fk6qNAAAAZECzAcJAAAEAwBGMEQCIGyq
+vCsNHippEuBvKby5kM19hafvUEby98k19PBFn83SAiBv/f8AsmgrCsa3va9va0ne
+xHNASR7ip6p/rHTbLHcCpAB2ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvl
+hiY6AAABkQLMBwcAAAQDAEcwRQIgcPnyLipVK+9lT0f4sRQvQwUhjiq5QCe7rEPc
+8Agbbw8CIQCTU+rloI7I6XrgneaBJJrmVPQ89A+T08i4Rj+yqY24+TANBgkqhkiG
+9w0BAQsFAAOCAQEAmIfw0YNlvuXMg+umeB1hFNyLxtGCIpwAH9s55mftw+xYUEk7
+esiXfif4lhIvw7Oxawpw0hTcwvIDWpW8/0Qjm31RTstZgfqNx393e4UPzC2/eP7U
+d/SH+NMvtsoIFzZ/0VxreZu1lI5GsR0Kqe0NAsKTj4t0PX4hu8kMFvjNcHQxtfSX
+A+Er/Rf05rNr+z/xGCKLxyS9HKQIQW6dFqKyEBDpKIrejtRXFzbrWAPtihD5f+JY
+b2KJFwqvnXmDUHaU+Qr6dP386Dqamsuop0Cgi/sVjw+BLA9gr1PTJKSroGsMC/YL
+2Tc8opfo3J6fTKwwLayrFb1rPquN7Tv/SuCzPg==
+-----END CERTIFICATE-----
+subject=CN=*.adxpremium.services
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6221 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

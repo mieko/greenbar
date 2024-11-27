@@ -1,0 +1,104 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=NL, ST=Noord-Brabant, L=Eindhoven, O=HERE Global B.V., CN=here.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 22 18:16:11 2024 GMT; NotAfter: Aug 23 18:16:10 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 18 10:00:00 2009 GMT; NotAfter: Mar 18 10:00:00 2029 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHpTCCBo2gAwIBAgIMVzDhqt6tsmhMqoXBMA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yNDA3MjIxODE2MTFaFw0y
+NTA4MjMxODE2MTBaMGcxCzAJBgNVBAYTAk5MMRYwFAYDVQQIEw1Ob29yZC1CcmFi
+YW50MRIwEAYDVQQHEwlFaW5kaG92ZW4xGTAXBgNVBAoTEEhFUkUgR2xvYmFsIEIu
+Vi4xETAPBgNVBAMTCGhlcmUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAqMP4+hUsbl/oezyYYk5/YoXVHAXCzYMTkXRrm6XjATBHhiqxmU6kXytR
+MpYt89U3YZjRsPD8P6DiV6V9VwrK3m1Cei9NFEmWU/AMKw+RtYREymGD8pIL2Hef
+eeCf6T8z86WmyS1gltibCGG0jAMWTbLiputlRItKJP8dUTBNE+3W7DguLsPXeIrb
+AuvLGCVw89LVohjtJ634WYMt2fjy/zNM235w1qbJhK78BgeOMBpPnYt/svSy7nQq
+JtNWJV3HEHKAkfcSf8pc7gSfMUEZRNpdi9mTD3WLWfYM1XNxscecYuegm2+anSHF
+kDzvP3rZ6vklk3g8AI1Wcc0/4sFoWwIDAQABo4IEZjCCBGIwDgYDVR0PAQH/BAQD
+AgWgMAwGA1UdEwEB/wQCMAAwgY4GCCsGAQUFBwEBBIGBMH8wRAYIKwYBBQUHMAKG
+OGh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzcnNhb3Zzc2xj
+YTIwMTguY3J0MDcGCCsGAQUFBzABhitodHRwOi8vb2NzcC5nbG9iYWxzaWduLmNv
+bS9nc3JzYW92c3NsY2EyMDE4MFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYI
+KwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkv
+MAgGBmeBDAECAjCCAXUGA1UdEQSCAWwwggFogghoZXJlLmNvbYIMd3d3LmhlcmUu
+Y29tghVvcGVubG9jYXRpb24uaGVyZS5jb22CGXN0Zy5vcGVubG9jYXRpb24uaGVy
+ZS5jb22CFGV4cGxvcmUueHl6LmhlcmUuY29tghZjbXMuZGV2ZWxvcGVyLmhlcmUu
+Y29tghpkZXYuY21zLmRldmVsb3Blci5oZXJlLmNvbYIac3RnLmNtcy5kZXZlbG9w
+ZXIuaGVyZS5jb22CFWpwLmRldmVsb3Blci5oZXJlLmNvbYIRc3RnMi53d3cuaGVy
+ZS5jb22CFXN0ZzIuY29tcGFueS5oZXJlLmNvbYIRc3RnMy53d3cuaGVyZS5jb22C
+G3N0ZzMuY21zLmRldmVsb3Blci5oZXJlLmNvbYIQY29tcGFueS5oZXJlLmNvbYIM
+MzYwLmhlcmUuY29tghBTdGcuMzYwLmhlcmUuY29tghNEaXJlY3Rpb25zLmhlcmUu
+Y29tMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBT4
+73/yzXhnqN5vjySNiPGHAwKz6zAdBgNVHQ4EFgQUdERT+dAZnqhUFwU9iqrPon+7
+KoIwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2AK8YGijWjKPgqYpMnGerCfi7
+vCK6rryxOKOhndP5tgMNAAABkNuoinYAAAQDAEcwRQIgbnpiW/xmuGW2+NB86nYC
+UEhXkeJfpRThKwS+sW9eT6cCIQD0l6sfrDOw2TLqc87QZac1RgNUfl6uW5XwKmcF
+ry4oIAB2ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABkNuoimAA
+AAQDAEcwRQIgVmu9//q3bdwkAEB9QM9Dywx+7XhKgWX1nD/geZ6aLmQCIQC8j+g/
+hIxZgxML0oPECs4FzdiusFk+aOak4KTjuSc12wB3AA3h8jAr0w3BQGISCepVLvxH
+dHyx1+kw7w5CHrR+Tqo0AAABkNuoin8AAAQDAEgwRgIhAJ/DgvLXnh96j+afsVm0
+6Ij5M6+uFCThvqtxY7JqYIDmAiEA65eLjT4nLqTg5vrEqHnn8G5DstCvDqdfUr3G
+bTzLTL4wDQYJKoZIhvcNAQELBQADggEBAEAFficyuNEsbHsiDMMONOxxbd9GMC1J
+wLl0CEfisUW5WBc8dvK5cXtU+sRt6uOGv7WPxWSLErVm1b6W12mzxDuH+SRrJsHF
+UEBPrrqjOIxb/02MaQb/J7q+OkyswmvWyB9zNAKnZWJ43qBEKm6lbM4wcd4SDvdi
+ASB+PaAQkgYeMAQqLyGnO4Xq6xNWYDRuot8vl7e0VoyWe0SbscejDuP+sTeTSfMk
+9lnr105VWzX/6AMQ87hC5etIJJJI6keEZCN9+YltVaVrJ2zszs4H2XsP3TmRyc5P
+9YQrqlGvzArdfgQTIgl7jCm1RIJ7dn5ELhFqbibu+5XJPIYfH98XlWw=
+-----END CERTIFICATE-----
+subject=C=NL, ST=Noord-Brabant, L=Eindhoven, O=HERE Global B.V., CN=here.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4610 bytes and written 445 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 850156C8E30205AE5AA51B7BDB264B7F78A7A520D7DD6F54829A9AD199739B99
+    Session-ID-ctx: 
+    Master-Key: B9AE076E56B4A6FA500CA62BBFD0221F61DEB7E4BE673011B4DF564F5D08B3CA6B43994BDC3CE951859386AD09D6F23A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 01 ea 25 d6 02 a6 28 b0-a6 57 b0 1e ae e4 78 a7   ..%...(..W....x.
+    0010 - 1a 28 89 55 75 cd 30 67-ce bc ed a3 bb 39 f5 da   .(.Uu.0g.....9..
+    0020 - 60 d2 ed 31 0f 7f 46 c3-86 06 84 ab 34 5f d2 0f   `..1..F.....4_..
+    0030 - 60 a4 17 8f ba 67 3c c9-1c 3d f4 12 4c 1a 3e ff   `....g<..=..L.>.
+    0040 - a0 e9 f6 95 d9 31 1a bb-03 75 5c a3 8d f4 b7 d1   .....1...u\.....
+    0050 - ee 0f 34 ee a7 5e 87 78-c8 19 2c 54 ed cd ce 67   ..4..^.x..,T...g
+    0060 - ae d2 bd 31 6b 4a 12 5b-2b ee 36 7d 34 86 e9 e3   ...1kJ.[+.6}4...
+    0070 - 58 66 9d 1f ff 90 42 fc-df be d2 14 16 53 9a 22   Xf....B......S."
+    0080 - ec 3d 3a 7d 1f f2 71 2e-28 ab                     .=:}..q.(.
+
+    Start Time: 1732697303
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

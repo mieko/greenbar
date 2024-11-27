@@ -1,0 +1,78 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=Massachusetts, L=Boston, O=Wasabi Technologies LLC, CN=*.wasabisys.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 27 00:00:00 2024 GMT; NotAfter: Sep 27 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG8TCCBdmgAwIBAgIQDwmXLYv5H+A+egJ9sSgvCDANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjQw
+ODI3MDAwMDAwWhcNMjUwOTI3MjM1OTU5WjByMQswCQYDVQQGEwJVUzEWMBQGA1UE
+CBMNTWFzc2FjaHVzZXR0czEPMA0GA1UEBxMGQm9zdG9uMSAwHgYDVQQKExdXYXNh
+YmkgVGVjaG5vbG9naWVzIExMQzEYMBYGA1UEAwwPKi53YXNhYmlzeXMuY29tMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApSDhfmtK1dWS+N1DQoBkcICf
+vnvborzE5eIMRlL2Q689fJSBTkwTbpxkDJtu2Gqo164B0CZokfuYTYdzd4mcXTiG
+su3theDg7JlyId0Ao3DZWdiQhTmEAhGvVJYGJRswcmqnw4tf+vfQLG1geSK0N6Zs
+CkwnDpW3VFs+E7C7841R/vl0b4JEdlGU5kjqr+VkL2AQ7mWtWylt5pXOtynk9A1a
+deqzjZTrRzzJ3AyCXg0KnI6PRF+nF+sFzrcj/7WeZiUBaGw0hM1sWx4lLuA5Bw9T
+1QJltZ6mCdH5GC0ioFpOJDaHH+XoI9YcFA3RaKfXa0XtO06wejQJuFKEmLFriwID
+AQABo4IDmjCCA5YwHwYDVR0jBBgwFoAUdIWAwGbH3zfez70pN6oDHb7tzRcwHQYD
+VR0OBBYEFHddFto45c0/JPDqQ/kG9Vwup9unMCkGA1UdEQQiMCCCDyoud2FzYWJp
+c3lzLmNvbYINd2FzYWJpc3lzLmNvbTA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcG
+CCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjCBnwYDVR0fBIGX
+MIGUMEigRqBEhkJodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9i
+YWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcmwwSKBGoESGQmh0dHA6Ly9jcmw0
+LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENB
+MS0xLmNybDCBhwYIKwYBBQUHAQEEezB5MCQGCCsGAQUFBzABhhhodHRwOi8vb2Nz
+cC5kaWdpY2VydC5jb20wUQYIKwYBBQUHMAKGRWh0dHA6Ly9jYWNlcnRzLmRpZ2lj
+ZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNy
+dDAMBgNVHRMBAf8EAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdwAS8U40
+vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZGVe2FCAAAEAwBIMEYCIQD6
+KvR3FyUWdeqfkZ7jqBDAmR86dIpRNutswH2OnK4s3gIhAJQ0CElrPaFxuDLqiLAG
+oLSdPqF6HO3LpC9LdAhk7gukAHUA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId
+/R43jlAAAAGRlXthjAAABAMARjBEAiBM0UCCJ5X8cFAzys3b6drS8jtEzqq28v1k
+5Fa5Uc58vQIgSadYmPIC65MNY474tUWF56uLGu8m9UtBE6JEVejAgVEAdgDM+w9q
+hXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZGVe2F+AAAEAwBHMEUCIQDk
+QMEorhdqeU6YNSBG6DDZf1uZHFPy68O99vMZ4dpcqQIgOBzDIp083dLc50duJ/0d
+6Gb97I9oG0w4yzQQdNY1CLUwDQYJKoZIhvcNAQELBQADggEBACd9wcEbmRn0tZVI
+SUV81iFUVJvS4iEgSrtBmtDJeb+2qY8gBTNxvq9fkV+wroSmU+TPlaoUmC5j6je+
+0nCLpe1zSd/ZR5bCy6X8QZ8ku5DLQsHKq3Vhyqp0ykvkLgXBL5sBM39NFZW+2qAC
+/h7SxKIoy0J3Hkc2LpvXGuu93bn+AphffUqKmgQmHX0g0Ae1gzS/hvoR0CZKtHwG
+urM/k2DjCj8zClA2PlnDlFgkNAo4FIrtBgNCY6euNjv1FMpw5Qy/FOmU4mTs798N
+TmaZmuouQELWzOKvB3mhhjTUvbKF62m0B2sPNvVSbXJGGPbODN9DovJyeDTvDEV2
+65HZmNM=
+-----END CERTIFICATE-----
+subject=C=US, ST=Massachusetts, L=Boston, O=Wasabi Technologies LLC, CN=*.wasabisys.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4473 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

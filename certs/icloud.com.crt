@@ -1,0 +1,65 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=Apple Inc., CN=icloud.com
+   i:CN=Apple Public Server ECC CA 11 - G1, O=Apple Inc., ST=California, C=US
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 15 18:12:54 2024 GMT; NotAfter: Jan  8 19:56:03 2025 GMT
+ 1 s:CN=Apple Public Server ECC CA 11 - G1, O=Apple Inc., ST=California, C=US
+   i:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO ECC Certification Authority
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Jun 19 00:00:00 2019 GMT; NotAfter: Dec  4 23:59:59 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXzCCBQSgAwIBAgIQE2GGdiZh4abOKOaVqT9u9zAKBggqhkjOPQQDAjBkMSsw
+KQYDVQQDEyJBcHBsZSBQdWJsaWMgU2VydmVyIEVDQyBDQSAxMSAtIEcxMRMwEQYD
+VQQKEwpBcHBsZSBJbmMuMRMwEQYDVQQIEwpDYWxpZm9ybmlhMQswCQYDVQQGEwJV
+UzAeFw0yNDEwMTUxODEyNTRaFw0yNTAxMDgxOTU2MDNaMEwxCzAJBgNVBAYTAlVT
+MRMwEQYDVQQIDApDYWxpZm9ybmlhMRMwEQYDVQQKDApBcHBsZSBJbmMuMRMwEQYD
+VQQDDAppY2xvdWQuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEMMMOtf5U
+GdgUGktvgyz2YUMDHuRJdHgNRUJXSGsFnrzOrA59A1mLwTNsPkCG++qfvrHpRQln
+z+Omqvc4Bo7T7aOCA64wggOqMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUhbWU
+2HGCzs5WgLOvNZirdkttrCkwegYIKwYBBQUHAQEEbjBsMDMGCCsGAQUFBzAChido
+dHRwOi8vY2VydHMuYXBwbGUuY29tL2Fwc2VjY2NhMTFnMS5kZXIwNQYIKwYBBQUH
+MAGGKWh0dHA6Ly9vY3NwLmFwcGxlLmNvbS9vY3NwMDMtYXBzZWNjY2ExMWcxMBUG
+A1UdEQQOMAyCCmljbG91ZC5jb20wYgYDVR0gBFswWTBJBgZngQwBAgIwPzA9Bggr
+BgEFBQcCARYxaHR0cHM6Ly93d3cuYXBwbGUuY29tL2NlcnRpZmljYXRlYXV0aG9y
+aXR5L3B1YmxpYzAMBgoqhkiG92NkBQsEMBMGA1UdJQQMMAoGCCsGAQUFBwMBMDUG
+A1UdHwQuMCwwKqAooCaGJGh0dHA6Ly9jcmwuYXBwbGUuY29tL2Fwc2VjY2ExMWcx
+LmNybDAdBgNVHQ4EFgQUGAdaGwgARiLipBzFfT7c0prBlb4wDgYDVR0PAQH/BAQD
+AgeAMA8GCSqGSIb3Y2QGVgQCBQAwggH0BgorBgEEAdZ5AgQCBIIB5ASCAeAB3gB2
+AD8XS0/XIkdYlB1lHIS+DRLtkDd/H4Vq68G/KIXs+GRuAAABkpFrM/IAAAQDAEcw
+RQIgC+SQBPSIvqY82nSaXZ2GqvD2NK/6PwR87xRAYygUuWMCIQDiEjHDxCM+VRMj
+tJON9MobKkO8VU6DUCEUMpHjTULqbgB2AMz7D2qFcQll/pWbU87psnwi6YVcDZeN
+tql+VMD+TA2wAAABkpFrNCgAAAQDAEcwRQIhAIE2yoGmYDLTBwLnLWK/SQUxk1mO
+9GmO+OJeNp/JBbabAiBgYyM/3vle5ohXW/OwgsQy9tzpH/+txrRoqfJzOyFLnAB1
+AKLjCuRF772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAABkpFrM/IAAAQDAEYw
+RAIgHa4aoyj43HgGuAWXpaQcwPKllo8x6JR/CjQVM16CHNYCIDeAg0JnZ2gl4QPG
+OqGP17wiPxKMi2/SptiqhVwoMRjKAHUATnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnA
+sfpksWKaOd8AAAGSkWs0FwAABAMARjBEAiBDXX0kFI6GZKFuFCYB2ftsK2vZXsD6
+pq2Scb0dCKj4XgIgd7lgwafRP1hyeX/KGycIPX98Ho59XMwoGXlaSpi5sDowCgYI
+KoZIzj0EAwIDSQAwRgIhALImFEJXEEIqrrLUzyCiArX5K5EH8oMWbC3nuE3LMLd8
+AiEA017MCxznTh7dr7S0Tb4HKXkQF5WS77n/KO+btVSaVIg=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=Apple Inc., CN=icloud.com
+issuer=CN=Apple Public Server ECC CA 11 - G1, O=Apple Inc., ST=California, C=US
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2518 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,98 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=KR, ST=Gyeonggi-do, L=Seongnam-si, O=NEXON Korea Corporation, CN=*.nexon.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 30 00:00:00 2024 GMT; NotAfter: Feb 19 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG5zCCBc+gAwIBAgIQDCxnnWgV5k0ol9WGWnBUojANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjQw
+NzMwMDAwMDAwWhcNMjUwMjE5MjM1OTU5WjBxMQswCQYDVQQGEwJLUjEUMBIGA1UE
+CBMLR3llb25nZ2ktZG8xFDASBgNVBAcTC1Nlb25nbmFtLXNpMSAwHgYDVQQKExdO
+RVhPTiBLb3JlYSBDb3Jwb3JhdGlvbjEUMBIGA1UEAwwLKi5uZXhvbi5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC2ldHjoOcT4twebF8Q2wMMfSbj
+sxt9XFD3Fdd/ZoNIB/72VD42sxtGj3RyDAnUyQ/2ZaRKy53pb1Nzun6niRDudKUk
+9jSGZPw++yoAUTAnG9iL6S7XoSDGZ9bBKlYP7JPShVYse3uuHgSb3SARokG/G55u
+B4Ez/blcDsY/rKXKu3ZB5/VtTqzvydtojjlCr0KP8d/Fhpcsi9QGdgjp4VdqkyJ6
+lXdDou5pQKo2GZ3s/xaB7VnufgyP6yTAL9eAOwpvBYd3X6QDMvrGWGASwiAiZO+n
+670bw/nUOM8fOxOK7kGmJFnPdpdV+liNGxCj20BoM2SEgBwGn8oWrnGpwMZVAgMB
+AAGjggORMIIDjTAfBgNVHSMEGDAWgBR0hYDAZsffN97PvSk3qgMdvu3NFzAdBgNV
+HQ4EFgQUECbekxz1wnQhC0wDx4kRJlwG2howIQYDVR0RBBowGIILKi5uZXhvbi5j
+b22CCW5leG9uLmNvbTA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIB
+FhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjCBnwYDVR0fBIGXMIGUMEigRqBE
+hkJodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JT
+QVNIQTI1NjIwMjBDQTEtMS5jcmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0
+LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDCB
+hwYIKwYBBQUHAQEEezB5MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2Vy
+dC5jb20wUQYIKwYBBQUHMAKGRWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9E
+aWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMB
+Af8EAjAAMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdgDPEVbu1S58r/OHW9lp
+LpvpGnFnSrAX7KwB0lt3zsw7CAAAAZEB5X74AAAEAwBHMEUCIDGbQv03zaVkA2sm
+n98EtWnWIWb9pHsPeWsgJwCb/aXcAiEAzgIZbhuPoBB+M6mOsIPfp0PRUcLtp3TO
+Zf179quFc4UAdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZEB
+5X7mAAAEAwBHMEUCIGnV29Ylh5M+aLACxXQPPp0w4p4SfBn+rPWLvYzkphWwAiEA
+hy2xYwsj0H5nAen90ZdXbubQj45AOTrIr2mV9ADfqV0AdQDm0jFjQHeMwRBBBtdx
+uc7B0kD2loSG+7qHMh39HjeOUAAAAZEB5X7UAAAEAwBGMEQCICo/95nwqtl8e2UG
+klhBOB+j3oDmVe7/Mr6bVgClbDwEAiBEye3psg9y7T506JobkPlv8DWV20ZQ2vwX
+85VN+LL9CDANBgkqhkiG9w0BAQsFAAOCAQEACjzvdN21kkpX2nrELJjNCNZILgt1
+qnW5QIYL4ib2Ho5QZgcgde3bGRxxd9Z6kQGAkxIfQ0fvwMF/zlw4geut1m60Jouw
+fS2JCUOL5Mt5o9B0K9poCTo2mlrEQYMnjJrCbGsIcg5k9uMEhGs2WuoOPCY1NVyo
+vfzm46XW5Ro7ow5nMB3w3l49j5rAFfriQWoq9zdRzakXPZKuaG6RlvtY5QfuWhtU
+PeJXTZsUXK+6Eal/56g5cS93X1v4K+HORd/MxJaD+3mGtWt5Lb00pHbLGp5n47I7
+5qBWnEV3YhYEKAlIZJljblD/p56jwQrFSCA1Bbw7etZ1+TEbgZCnZE5CDA==
+-----END CERTIFICATE-----
+subject=C=KR, ST=Gyeonggi-do, L=Seongnam-si, O=NEXON Korea Corporation, CN=*.nexon.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4556 bytes and written 446 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B9842DCE2170BB0F45B70D0FC0366281B6405D8CF44BD22AEBF899DCF3A48E78
+    Session-ID-ctx: 
+    Master-Key: AC59074F2B321C5CEBF1A9DD47CD18A61145316DFAA1BDCA07BABFA3AFB07751B70875D60BA8C7645F95C1A5A1354EB8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 172800 (seconds)
+    TLS session ticket:
+    0000 - 53 53 4b 2d 45 30 30 34-38 31 32 39 35 00 00 00   SSK-E00481295...
+    0010 - 10 f0 2d fc 28 3b e7 7e-27 9d 6d fa e3 b3 bb 28   ..-.(;.~'.m....(
+    0020 - 7e 2e 9d d2 4f 50 0d 0e-22 04 0d a5 7b 6c 00 5f   ~...OP.."...{l._
+    0030 - ee c9 b0 db 52 c4 51 60-99 6d 11 b4 f7 cc b1 3a   ....R.Q`.m.....:
+    0040 - 0b ab 7c e5 9d 44 44 ca-a1 2e d1 34 0b 80 67 65   ..|..DD....4..ge
+    0050 - d9 ac 7e 6f 1a 7e 1a db-14 1f 76 9f 18 1b 9e 4b   ..~o.~....v....K
+    0060 - 7f aa 45 80 cc ee d4 45-71                        ..E....Eq
+
+    Start Time: 1732697575
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

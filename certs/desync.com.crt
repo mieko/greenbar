@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=desync.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 30 10:44:49 2024 GMT; NotAfter: Jan 28 10:44:48 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5TCCA82gAwIBAgISAxWd8/BUhGveurhro8xIq0YvMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDMwMTA0NDQ5WhcNMjUwMTI4MTA0NDQ4WjAVMRMwEQYDVQQD
+EwpkZXN5bmMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtcCQ
+Tqqdfxmaurg+4Wiw0yhg3KbUs4eno9Iv0uFUwgVl8EcRX4lA8pPfzz2y8KJ/oYJf
+s1g3946Uli6Tn2cZGKjXl1cR5TwsHqjElX8CypLwRiBMzJoZjmCipYGm8EtpFwJI
+hm3f5YrIumkHIpFRmufXpDpUdvp/CAtl5JCJjxc/r1BFmVPmb/Vv7UnE06o9nf0J
+pOH4YmwR59KldAuAoEdC95JqhwqiEeN7Z9Q1Aznc+Bwq73B1Uwcmu+lw1tWUhug4
+/K92wJH5dDiHrS8ozEErSu0afuvqwB0mjWhGsTXKyRzwG6H7cRufyBnFHZfnBJ25
+hKj9L8NoadP3RzUaJQIDAQABo4ICDzCCAgswDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBSPqaP1N2qakBM/vC+UnnTd5PU7pjAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQt
+sF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEu
+by5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcv
+MBUGA1UdEQQOMAyCCmRlc3luYy5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwggEF
+BgorBgEEAdZ5AgQCBIH2BIHzAPEAdwDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB
+0lt3zsw7CAAAAZLdPMHoAAAEAwBIMEYCIQCa48kXoQ9g8r/rI6ubymJGeFIe3h9G
++VYSpuJLJSEh4wIhALCoDWutxT3lkv21DjiNNNGB+UoDek5nV7csUi4cbuLXAHYA
+4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBNpW1vVAQAAAGS3TzChAAABAMARzBF
+AiEAx+NLWU4jpbew13YIj69sFk/xZ/R+gMZJUqCHb8m0kCgCIFuMBIqdPDLwIA83
++xE0IkXBxNbMYBHm4r1cenOjpYIsMA0GCSqGSIb3DQEBCwUAA4IBAQCCPq7nuvUL
+BcdDKeDoo3yASNiqIDAJenlyO670Gda+X0CJk7dpBLsT3LUOFUpYIFb3LsQFwXsL
+qYiyuVWPxJjQYGL2rFXSZfpNMVqpHmWQHc28zWecr1+2uJew9SX4CFr4Zy8UrWxJ
+HXkfIz6TUTBfvDIGr4pJxmV1B1+eleKIREThqCB1xFDrhmxknwWa0yHDxk4eUm4k
+Y3lzIFl3qe0ZY7RW2pHnXrzDwoBTRgyr+sLCT33Zc0xEWU/8j3G0ccwdA+zFLEt8
+naGbnVr7LJPKGGmNuI2pVmSt0gVbQuh+sRhjki1ybW5zSewpOaY0ZcGhcqo+XbDw
+i6KzJRjMBF4c
+-----END CERTIFICATE-----
+subject=CN=desync.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3112 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

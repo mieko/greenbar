@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=max.apps.samsung.com
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 15 00:22:21 2024 GMT; NotAfter: Oct 13 01:16:15 2024 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMTCCBBmgAwIBAgIQfHYeIzZbJUEKs3eOV++L9DANBgkqhkiG9w0BAQsFADA7
+MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQww
+CgYDVQQDEwNXUjMwHhcNMjQwNzE1MDAyMjIxWhcNMjQxMDEzMDExNjE1WjAfMR0w
+GwYDVQQDExRtYXguYXBwcy5zYW1zdW5nLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAK4H2rij6l/Qcq/Jt5Yq+jnaG+0jgPz65kL/KpuURX6ryNzP
+ce3dpS54SwoEw4F+2bATHmWW+0Ghcwux/AAxCBfGPp6saFwW0xxPEkkz8KOp/O2u
+L+V5NpVl3yCkjNCG/TLFdK2msmsZzZkAHFsY0DTaAG0Za7ZXHH1F1wtcfqKtoYqH
+3YcsNf15MUQfiahGfWNCEhMFVOlfBXAy8FpYgGrbVLApnyr6g7lLgigG3hHkVxIU
+HeahJ9Vs30eRXGGjyx2kQqpvhsk+7QUO0jG49hWeMOfDPO0oZ2l/pymnbnd5htPx
+ZdHGoNoCqyZZ4EeZMsTeK0Kg63UK/SS4dv6s4S0CAwEAAaOCAkswggJHMA4GA1Ud
+DwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBTcM+OmW9lESRT4iZmahLKvtUdCJjAfBgNVHSMEGDAWgBTHgfX9jojZ
+ADxNY6JQMSSgziP+IzBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6
+Ly9vLnBraS5nb29nL3Mvd3IzL2ZIWTAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtp
+Lmdvb2cvd3IzLmNydDAfBgNVHREEGDAWghRtYXguYXBwcy5zYW1zdW5nLmNvbTAT
+BgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5w
+a2kuZ29vZy93cjMvajBGUHBQVDV1cEEuY3JsMIIBAgYKKwYBBAHWeQIEAgSB8wSB
+8ADuAHQA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGQs/vNGAAA
+BAMARTBDAiAfhK9V1ee5NOiqC7TnMa+I0Bas44c7jSA44WMMtJgcxwIfKNX2anv9
+Rs1hSTlIBui9kdUnv/xeW6HW98Idfaw05QB2ANq2v2s/tbYin5vCu1xr6HCRcWy7
+UYSFNL2kPTBI1/urAAABkLP7zUcAAAQDAEcwRQIhAIhmXsrDDI7bBNBgkT14Aeyc
+wLZGGaV99Y+L/+l6mFePAiBqYAJAOFbEKB3s1U00bhcSueaKY/rFX8TPFI9FV8mO
+vjANBgkqhkiG9w0BAQsFAAOCAQEALroVJY8gyeFWB4k4EuT2MFcvudcUFH/KnsW3
+Q8itW5xytnplTbj/3f+zGajkLYzdizJxRhweb5kpnchPosaEhFf1gNnmUh7MGe2z
+qTyC/58fMoyuEova6Xs9PN2lpa3yohdbxIcfwbihCPKgR/ziLKui4LPo1WVDht+F
+pnQW4pTt343a6XjwQ10Qe4N6sBRAu4HdlFnICNrtTCZm4g0yg0xwDBZFTynBqiYr
+OnTVm2a5PX9uYuOsedpgTlcSndIRbHi2TsgI9fOu6BNEGp9e4u6a4fWWEEwHR4lm
+TuVDVQJ51QqhOW3iVZLH/1GPI9ZUFYmK6Wr9uUoisVM4XtVxOA==
+-----END CERTIFICATE-----
+subject=CN=max.apps.samsung.com
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4510 bytes and written 405 bytes
+Verification error: certificate has expired
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 10 (certificate has expired)
+---

@@ -1,0 +1,83 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=Internet Corporation For Assigned Names and Numbers, CN=*.iana.org
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec  5 00:00:00 2023 GMT; NotAfter: Jan  3 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIH7jCCBtagAwIBAgIQH0tFBZMaJDLADuiIs9HWdTANBgkqhkiG9w0BAQsFADCB
+lTELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMT0wOwYDVQQD
+EzRTZWN0aWdvIFJTQSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTZWN1cmUgU2Vy
+dmVyIENBMB4XDTIzMTIwNTAwMDAwMFoXDTI1MDEwMzIzNTk1OVowdTELMAkGA1UE
+BhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExPDA6BgNVBAoTM0ludGVybmV0IENv
+cnBvcmF0aW9uIEZvciBBc3NpZ25lZCBOYW1lcyBhbmQgTnVtYmVyczETMBEGA1UE
+AwwKKi5pYW5hLm9yZzCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAJ29
+/d61yuU6VZdH4v2mNyjkq6YPGLeaafAzEL8BZOXufbaxW/Vt8j/duuahuzhEm4yI
+PxgQK72LtlWsDi2sLuPtXPQxWGjSxZgGgoSFSySJTc1L03gR8K06KCzUtOWZ/9B9
+jS0/JHhVT4ECCzIO4S9ElI4uoe28mQuDDKXMprSoOfsntRhQyYR+rHTyZgnrJDZb
+l1H7HDII9WkTusvK5JIBNHx4t+VKnZmXlATDfwD7ZduEn9deOmh3DDDyq+ZbMyVv
+tZtFAFCwDYE51NgNNve8RtrzA+SPDweRsv3XLsYLLLOtUzw/KIycGU5JM3ppxJZz
+HwhtTx+YJZAHE+KlUdBctgV1Z4UNkeYAHEzicXbwlXhzqVuICsvsGee9m88ShtBF
+K3N4nEGQXdRwlxzXOupSx3sIDNd5r1gjTzNyJcJvh6jBPipl6d1OA6W0HX4GszU/
+OBKbIyelMeyWJ6IdxCNzOqAp1JiUSLozIokcGlaQ3fLSXI7IqqiUsUqpITDGttlp
+oh/2cbYMTJI6lKk+od0Ekskzk8pu3WHzPKd+kgjQHWvRUQdmLsCIcz30yHan4WCL
+gpc6D3WS6E7RVXnRgeeQJK6KfkufAHjrIAWyP50Jod8bvH3ipaYIWjZG2frbDp2i
+c6X0A83UKDHObwykaIlYVgK7i8Nrs76GH/bRpi41AgMBAAGjggNXMIIDUzAfBgNV
+HSMEGDAWgBQX2dYlJ2f5McJJQ9kwNkSMbKlP6zAdBgNVHQ4EFgQUx9Cs74mLIOS5
+FGaJMwMjlPa/OmEwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEoGA1UdIARDMEEwNQYMKwYBBAGyMQEC
+AQMEMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLnNlY3RpZ28uY29tL1Nl
+Y3RpZ29SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3Js
+MIGKBggrBgEFBQcBAQR+MHwwVQYIKwYBBQUHMAKGSWh0dHA6Ly9jcnQuc2VjdGln
+by5jb20vU2VjdGlnb1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2
+ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMB8G
+A1UdEQQYMBaCCiouaWFuYS5vcmeCCGlhbmEub3JnMIIBfAYKKwYBBAHWeQIEAgSC
+AWwEggFoAWYAdQDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAYw8
+EgYGAAAEAwBGMEQCIFCD5oHe8pK1lFgiBnKBuQ2rON6/+GJI0mzU7xlZWBEeAiBn
+5shGNFT7VCe5twSsjbru0V5M/MOhKBSb6tO3bEJGPQB1AKLjCuRF772tm3447Udn
+d1PXgluElNcrXhssxLlQpEfnAAABjDwSBU0AAAQDAEYwRAIgYu2XckufTJwi/7mo
+oFfQT2SIjD7NOaF5yl5DWP1i/pkCIHGsyYX2dHsHShGBVGCOZvIJ1qvyKAWJvV1W
+1wtXOhfMAHYATnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGMPBIF
+2AAABAMARzBFAiEAm+fFlFeEsJsWvgPPVrz0OO34pHJ9SdbDjyhEhk6RMkUCICC6
+E7xbiSPOj8WgwYvOZEqntOMeUYwaYYWnPXYT1NkOMA0GCSqGSIb3DQEBCwUAA4IB
+AQBN0EGADDpI/gDFQNoj3pYjJxdEQvKLtYkH3kEuqb/Vm3pMD1j3uXQ8anl06AzI
+AnMix5r/KkEIJ1+kiie7yldKorbUbA5XjKhhkKV2FOPontjaSfkNafTZjYldpwZG
+c68t5CbjWLUMXjLsE/5B1/KN4ASzZ1z6OwmTKQQ4tsk4eNqSWt9k1r/8h/JlH6cb
+KjEo4uLHhcig840WsbIBnwE8cgX+NJFiJf0XNk6UbxF1WEO/SfHUL1hnI+pIwxnt
+WkuS/OnYpWAh8rGAjPHfB7SPbc9udBExSZPSQCmg0ogt59I39+YGSpNhghVF0hcE
+DI8hKPwf863oGImaawKShMu1
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=Internet Corporation For Assigned Names and Numbers, CN=*.iana.org
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5834 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 4096 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

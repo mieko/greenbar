@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=tesla.services
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 11 14:34:09 2024 GMT; NotAfter: Jan  9 14:34:08 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDrjCCA1WgAwIBAgIRANr7Ecpr2ZniDjedo2FJoo4wCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTAxMTE0MzQwOVoXDTI1MDEwOTE0MzQwOFowGTEXMBUG
+A1UEAxMOdGVzbGEuc2VydmljZXMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATu
+GzJjws52nOC4MU0VyHthmZOipJGg5jVjp9o3WdBMYpN60/FUzWRRrkse4CRlux2J
+n53ktUV4R+JPB6z3rtTso4ICWjCCAlYwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQM
+MAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFOmTlVhXU8QWiMxX
+5R7gycX6Dl57MB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsG
+AQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEv
+MnZzMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MCsGA1Ud
+EQQkMCKCDnRlc2xhLnNlcnZpY2VzghAqLnRlc2xhLnNlcnZpY2VzMBMGA1UdIAQM
+MAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29n
+L3dlMS84NWYxXy1OU3Ewdy5jcmwwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwBO
+daMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAZJ8N0PYAAAEAwBIMEYC
+IQCV7lrwraI21X+5tuDnQhzUgSKX2KaivmZi255vm1rSSwIhAJpK7dmIu3RjNUW+
+/ToSeJMEGoUdwTGB1/fC4nmy1FagAHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422
+qX5UwP5MDbAAAAGSfDdL4gAABAMARzBFAiAHfdlyXxxmBDtSq2HPrd81EsXCvGzc
+5tmxemDgl2dlJgIhAI6kQNm5Fk462QzJ/gmd3clSyAoyp5cYjM7xcltT1s3zMAoG
+CCqGSM49BAMCA0cAMEQCIAUtatVb4YYo8kkk4WfgP6BbPArR7CQdLoHt6w/++1h2
+AiBLVHVu/uI0kHeGyj82jylbAkkxqLCR1esGktIXSFZDtQ==
+-----END CERTIFICATE-----
+subject=CN=tesla.services
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2834 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

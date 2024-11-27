@@ -1,0 +1,76 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.ifood.com.br
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 31 00:00:00 2024 GMT; NotAfter: Feb 28 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF1jCCBL6gAwIBAgIQBC60CQCC9K6/Wr+nHVp9QzANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDEzMTAwMDAwMFoXDTI1MDIyODIzNTk1OVowGTEX
+MBUGA1UEAwwOKi5pZm9vZC5jb20uYnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDtvaSobV+5I8NDj0Oswmcy2UoA8LSbVST+CI03fohVB7q+F/532bd+
+yxKvM4SeV41f5sK3JzxJQZbnzc8a+l48dOckWjQA8AxAe7ac3+Kgh9BTwXfp22Ob
+A1HV7t8IxrSvyCXmBWEvxcwPHQXqGzezvpCL8F07tboaKBhTKQhsNMl02LO7DtlL
+XTzcDxigv3czgEuulgHoKgadmxQder9helGZwUopFVeRgYWL+iC97+fIYQVuSlNL
+QYSesJoFbCORZyH927yoSJZR/yGtwjiARjzvTwIKc3hzpsG8ExK3CAgJqgrFllM7
+A5Vb0+s3OX5c/3LnPSflqiWeM13swXpZAgMBAAGjggL1MIIC8TAfBgNVHSMEGDAW
+gBRV2Rhf0hzMAeFYtL6r2VVCAdcuAjAdBgNVHQ4EFgQUbQp1JgjRP+uLh2kcBZ5f
+dXEYQhUwJwYDVR0RBCAwHoIOKi5pZm9vZC5jb20uYnKCDGlmb29kLmNvbS5icjAT
+BgNVHSAEDDAKMAgGBmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwu
+cjJtMDMuYW1hem9udHJ1c3QuY29tL3IybTAzLmNybDB1BggrBgEFBQcBAQRpMGcw
+LQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnIybTAzLmFtYXpvbnRydXN0LmNvbTA2
+BggrBgEFBQcwAoYqaHR0cDovL2NydC5yMm0wMy5hbWF6b250cnVzdC5jb20vcjJt
+MDMuY2VyMAwGA1UdEwEB/wQCMAAwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2
+AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABjV3Fx0oAAAQDAEcw
+RQIgZH2lt5TWO4FDEXzz/wMSOViKLBw23zgazVMZa7AWVf8CIQC18YtgFNyIWjCj
+de8bg2ENtvkT1reXtam0X4JeCIr18wB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWe
+uQMv2Q6MLnm4AAABjV3Fx00AAAQDAEcwRQIhAOWwVGUWecnGqiFBhAv6ocowQVIi
+WCC+tTzvL5xsL8cGAiA7EuXf5leGoZg8fDm3e1/9WPwCWD/rkcLCQds6TcyP7QB2
+AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABjV3Fx34AAAQDAEcw
+RQIgFwQmdbyeMitfaFzNX515jX/u6uQ1UVp11l9mXP4SDs8CIQDVC1r8wEuKdAd3
+XnCl5n3rRkkaP878icA475kJ5CgDWzANBgkqhkiG9w0BAQsFAAOCAQEAXug5e/pN
+FmgpPf7nOfAEIU16lPzymqOX7qPn0tIfzsSaEvVcNgR49B7J9+iIDOnbrWz95wBM
+4mswzgA3rLWb004R0WH4yT2jqBEgxlQmYO+QJRwEfUIxNhsoUiVRS2EKYEMKiKEt
+IximGPuSf99Y/8gbYiurtTQeynoXecRkoFww581RpNjYDC5Da4QelJUCphYB2Pp/
+moI2ee8xU3Izrf/Uoaz71ap030P/9yRpxvQ76wlLk5lQeL84LR3xoDY01mDUnrAf
+HHqCtNVH7gSBJrQJVem0g6k6DStwz1czoBs3GJX5uc4Y9ExdaM56oy49bShSeYEH
+7KBJTwN/NLw1wg==
+-----END CERTIFICATE-----
+subject=CN=*.ifood.com.br
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5498 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

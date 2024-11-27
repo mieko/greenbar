@@ -1,0 +1,59 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=naver.co.kr
+   i:C=US, O=Let's Encrypt, CN=E5
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct 17 00:52:48 2024 GMT; NotAfter: Jan 15 00:52:47 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E5
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEJDCCA6ugAwIBAgISA5WeWFo1nM/j8Frsa+NjNDTpMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NTAeFw0yNDEwMTcwMDUyNDhaFw0yNTAxMTUwMDUyNDdaMBYxFDASBgNVBAMTC25h
+dmVyLmNvLmtyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtAWsXBPV0hXCry/Y
+3fj7N2ry0TyYkpvPCpv5BEhtorTKxd1ILvmIHY4NyP0IRzHiJPz7/rL9gOztuURr
+ZEaz0KOCArswggK3MA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQULHav6JtKk7/X9sYY
+YDui8EGlt/IwHwYDVR0jBBgwFoAUnytfzzwhT50Et+0rLMTGcIvS1w0wVQYIKwYB
+BQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vZTUuby5sZW5jci5vcmcwIgYI
+KwYBBQUHMAKGFmh0dHA6Ly9lNS5pLmxlbmNyLm9yZy8wgcEGA1UdEQSBuTCBtoIK
+bmF2ZXIuYXNpYYIIbmF2ZXIuY2+CC25hdmVyLmNvLmtyggluYXZlci5jb22CCG5h
+dmVyLmtyggluYXZlci5uZXSCEW5ldy53d3cubmF2ZXIuY29tghJuZXh0Lnd3dy5u
+YXZlci5jb22CDnd3dy5uYXZlci5hc2lhggx3d3cubmF2ZXIuY2+CD3d3dy5uYXZl
+ci5jby5rcoIMd3d3Lm5hdmVyLmtygg13d3cubmF2ZXIubmV0MBMGA1UdIAQMMAow
+CAYGZ4EMAQIBMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcAPxdLT9ciR1iUHWUc
+hL4NEu2QN38fhWrrwb8ohez4ZG4AAAGSmCwSRgAABAMASDBGAiEA5VEbB14QbQ6O
+O56IPy/B5CxOVJM91A1jmHdd2uDkto0CIQDvi2TZxNgNCosYOMzBCFDjmvYMor1w
+dN2VGgToMBQCtQB3AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAAB
+kpgsGlYAAAQDAEgwRgIhALmpaSRYJLAbFRnArU6DHHB9jkmA53OzfatMHEaF9lwg
+AiEAiCXQ0zhGEQKetzf7/FyA6LGU1qK0pGb7u3RxvgX3RGowCgYIKoZIzj0EAwMD
+ZwAwZAIwamfOPg7uL+YXIt9229BcIX48KA2aqvDQQ665Q2jqS0BXouxsA95czZJ+
+V89s2zFdAjA6T9zyGGugmT8aNgB+9WmnvQuyAV6NrDXjJebIUkSxKi8T8oSx/FjU
+o5fqVNJmzbg=
+-----END CERTIFICATE-----
+subject=CN=naver.co.kr
+issuer=C=US, O=Let's Encrypt, CN=E5
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2543 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

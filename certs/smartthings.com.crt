@@ -1,0 +1,76 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=smartthings.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 20 00:00:00 2024 GMT; NotAfter: Jun 17 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF3jCCBMagAwIBAgIQA+0Oh+itrtXCkF8IBhgLzDANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDUyMDAwMDAwMFoXDTI1MDYxNzIzNTk1OVowGjEY
+MBYGA1UEAxMPc21hcnR0aGluZ3MuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAjnhqlZWVHRPNvdSWyWA/galau/ETMECNpzHc5xJQ1Wzodouax7xX
+motNgAJJLvgk2QfpVvSHndkL+Urb25caPQsnUNrvqc4Kqn+dDFiPtpgSbD7x5Gkw
+F/DMGyUVry7ERRmxYGyzVg6LodG9RDP83o56s6UoOPOEseaFTeI9axlg4r13BoGb
+Dxl8+Fw/b5jZmDHFdABhAMtLeHsYFg3+KIgXPD04LEx0MNiNdH7nZEaHQlmCGrbF
+K6FCKCRJ6Bv+9pRvb2bblFiuy1yeUmM47yv/bDsQdckQu8YAQKXTERNPjUiNeCpz
+sIER2hxKhzzh+4iWQfsUF9oLMYZ2W1e5rwIDAQABo4IC/DCCAvgwHwYDVR0jBBgw
+FoAUVdkYX9IczAHhWLS+q9lVQgHXLgIwHQYDVR0OBBYEFBKE32QggqfFS0qzvX4U
+K4tHsTaMMC0GA1UdEQQmMCSCD3NtYXJ0dGhpbmdzLmNvbYIRKi5zbWFydHRoaW5n
+cy5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRw
+Oi8vY3JsLnIybTAzLmFtYXpvbnRydXN0LmNvbS9yMm0wMy5jcmwwdQYIKwYBBQUH
+AQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5yMm0wMy5hbWF6b250cnVz
+dC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQucjJtMDMuYW1hem9udHJ1c3Qu
+Y29tL3IybTAzLmNlcjAMBgNVHRMBAf8EAjAAMIIBfwYKKwYBBAHWeQIEAgSCAW8E
+ggFrAWkAdwBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAY+VtMG3
+AAAEAwBIMEYCIQCUoLGbjSu6jsnfYoTmogmE+vHY5DXAbRw1qGaR7CD6TAIhANPy
+KGQ0VsUWBopJwoaWzDZ28sE+nBM/qkqsmYE/cfkgAHYAfVkeEuF4KnscYWd8Xv34
+0IdcFKBOlZ65Ay/ZDowuebgAAAGPlbTB9AAABAMARzBFAiA73iLZjRFEJhdgso7s
+A+x+R8LlPCpH6jSn3V+r8fgMGgIhAMaMHXdghiMRRnHjqMGFYByXbDNa/qSIQXbW
+SzNEbOVYAHYA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGPlbTC
+BwAABAMARzBFAiEA/N+/LyiVBIlpX7vW+JQsPkFRfr1qIwIpFR+BMlksfncCICcA
+p78gX6Y/5OQDnpleoYLeU7V6Vd+8DG1VgHjLYV5fMA0GCSqGSIb3DQEBCwUAA4IB
+AQAJEVnlU3nxSL/duCinvUqNMKl7V9TpD3kMZYjlGddRPtw+VIihqqKqASLiXTJc
+WNqMbuKdx9c7gKu8JoooCo1+n8XzZPL/n+cJD7DOyyefgNTL3vBnXILpnjC+VgFC
+yuc/gIOzbScHejN5lDXN/+lNJIQDv40NokBYu/fYEbU3CaC3qcjcCkMLEDww9r20
+Q6EgoFpl6ceHvWRu6fg7dpQKdczOjd0jfa+Q/1cL6CCF8WGBWgW5Cd0r/05ILZtz
+u1UALeLqRNiQjnvwR2hyUz4+QIoNLwD/tt1L63tC+gVbWHL9ggDXtHg6N2QwsKnh
+R/WQaaCTRcLW+EPVKah1I0zW
+-----END CERTIFICATE-----
+subject=CN=smartthings.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5506 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

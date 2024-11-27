@@ -1,0 +1,104 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CN, ST=上海市, O=上海七牛信息技术有限公司, CN=*.qiniu.io
+   i:C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia RSA OV TLS CA G3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Aug 27 00:00:00 2024 GMT; NotAfter: Sep 24 23:59:59 2025 GMT
+ 1 s:C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia RSA OV TLS CA G3
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 3072 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Apr 20 00:00:00 2022 GMT; NotAfter: Apr 19 23:59:59 2032 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG/zCCBWegAwIBAgIQIqeeAV/5twUFczRqBIJR6DANBgkqhkiG9w0BAQwFADBZ
+MQswCQYDVQQGEwJDTjElMCMGA1UEChMcVHJ1c3RBc2lhIFRlY2hub2xvZ2llcywg
+SW5jLjEjMCEGA1UEAxMaVHJ1c3RBc2lhIFJTQSBPViBUTFMgQ0EgRzMwHhcNMjQw
+ODI3MDAwMDAwWhcNMjUwOTI0MjM1OTU5WjBlMQswCQYDVQQGEwJDTjESMBAGA1UE
+CAwJ5LiK5rW35biCMS0wKwYDVQQKDCTkuIrmtbfkuIPniZvkv6Hmga/mioDmnK/m
+nInpmZDlhazlj7gxEzARBgNVBAMMCioucWluaXUuaW8wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC10uuYZqnKWYMf0kkf4IRRN+mQ3nz2aXF3Jc95oySk
+39b3TfipSaMg8BxjVH9fXkSkKJPv3iS/+W9tWck/gEVDxWdxwwIuW+RjdQuam76o
+ep5Cr184rYIQ3xECGwUJugkInHN22hAYJa0QuKff0RuXq1kqY2cfT55kmZb920lg
+cOmj7/B/05oXq9Cui2wa7fVkn4wHrWIV0vxHPO7hQXPWC5F93q6ptJ9h3Nd3zgvb
+JvynSAKc6XbI7Lx7hCbCfomnjgeOCXcey/purZ2f2tQ4r90OCOyl0Rf3Pguje82f
+iFq2K+P0xRwjQ/O4u3J5dRzO2eLugHW7xXgw4BnGy2eJAgMBAAGjggM1MIIDMTAf
+BgNVHSMEGDAWgBRAMCKLjSoyKfgQIQ0AY15F0yzgJTAdBgNVHQ4EFgQULFnMTZz9
+Fh/NIztBJ/XACSlDSfUwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjEwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQICMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHA6Ly9jcmwudHJ1c3QtcHJvdmlk
+ZXIuY24vVHJ1c3RBc2lhUlNBT1ZUTFNDQUczLmNybDB9BggrBgEFBQcBAQRxMG8w
+QgYIKwYBBQUHMAKGNmh0dHA6Ly9jcnQudHJ1c3QtcHJvdmlkZXIuY24vVHJ1c3RB
+c2lhUlNBT1ZUTFNDQUczLmNydDApBggrBgEFBQcwAYYdaHR0cDovL29jc3AudHJ1
+c3QtcHJvdmlkZXIuY24wHwYDVR0RBBgwFoIKKi5xaW5pdS5pb4IIcWluaXUuaW8w
+ggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB1AN3cyjSV1+EWBeeVMvrHn/g9HFDf
+2wA6FBJ2Ciysu8gqAAABkZU3CrgAAAQDAEYwRAIgFI/TBjAoVyHu/OZk0l7btcmZ
++OBoVSKXFuVD3MKOPdUCIDbkrth2Yb+riuY2m5d2wG9Ug3jOaA2RVmO7RZ7JXW6l
+AHYADeHyMCvTDcFAYhIJ6lUu/Ed0fLHX6TDvDkIetH5OqjQAAAGRlTcKmAAABAMA
+RzBFAiEA7KsuK/Q9F2Vs+cmhbscs+6m0zeizGU35jB309HVieCMCIBXpARpv0ov8
+TlUvUWUtcaXr7wJuiklWzgTmt04EfM8RAHUAEvFONL1TckyEBhnDjz96E/jntWKH
+iJxtMAWE6+WGJjoAAAGRlTcKlwAABAMARjBEAiAZ6gxiyzCn3nJr866kZT5k4Y3b
+j/Fqx5I1InulK84OZgIgLTLME6LHr8GGApl7ENDELC9+yt6g7QGbsJ6wa5BpCn0w
+DQYJKoZIhvcNAQEMBQADggGBADJpcqL/uKuNpV5WG/xlrXRyGowUwVWI7XR+ijZX
+aL5+yN+tNl9TygxaD1lV3LnwQCwRNSENZLgk885soP6Q0UYtuBUYC0RLAQzxahIO
+b594V9NPn+84XJ0x/dr1m4f3TbtEs/c6L6orgi8jXjWyLUWnWEFy8lQBQ4vHTVRC
+EPe5b/5tKtApHduQXMapLZLp5QcqnNCyl1ViAiu6ZELodxldpYMgezCyEopKorV+
+GMRu1RI9cUPu3euEcypOrlPBK62Xh65c/QGm8Z7+K3ijUyV+Xrbzth+mr4Er2mAU
+/dMVdE1yb7WsIwQq/8vAP+G/RRz+eGI4nRErfH9muCxLJgC1UpAujH5ic6RXFQHK
+QTJqyHXE7gl2WNdIaVmo7YIsoVA/tu2yoqIj/LvRTTjsBCJDSLSSpjgLixCXNIJa
+jlkXU2aJ+sRaHS9u/0skO9tJwWUoDpM0GA9/jxMeOtDyUYFzwWlshPvb7vGb1o7i
+6+sSdOaTy+2DTVnzZMVJu+YIIA==
+-----END CERTIFICATE-----
+subject=C=CN, ST=上海市, O=上海七牛信息技术有限公司, CN=*.qiniu.io
+issuer=C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia RSA OV TLS CA G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5539 bytes and written 449 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 306B758B73CBCB735E508CFC27EA71AF04B424E6D748266BC3858C1EF8AB7C36
+    Session-ID-ctx: 
+    Master-Key: 0A79F2799A7A0B1006E4A005C48426B4E86B37FBBA8E5B906C003069D925F81AF32D9E39815CF3010B225CB92884DF8B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 2f 13 fc 27 cd 9f 05 59-fd f4 b3 7e ec 4a 3c 88   /..'...Y...~.J<.
+    0010 - 75 bd 07 08 cf 19 46 0c-a1 5c bd cc 71 f7 5e c2   u.....F..\..q.^.
+    0020 - d4 2f 22 c0 9e bb 7b 81-ca 31 f3 a3 33 21 6c 48   ./"...{..1..3!lH
+    0030 - a3 bc 01 d6 b9 e1 c2 c0-e2 66 a8 02 cb fc 76 0f   .........f....v.
+    0040 - 03 59 38 b3 a6 3a f0 5c-c9 35 e6 22 bf 04 c4 08   .Y8..:.\.5."....
+    0050 - c2 24 0a a9 38 05 76 95-15 b9 57 c6 63 80 4f eb   .$..8.v...W.c.O.
+    0060 - 35 c6 38 28 fb 35 5a 81-3a 78 df 44 fd 55 f9 f4   5.8(.5Z.:x.D.U..
+    0070 - ea d9 15 12 3c 52 e0 cc-d9 a3 0d 09 46 7b 35 6f   ....<R......F{5o
+    0080 - 2a 0f b6 07 45 d7 2f 9b-27 de 5d e4 10 f0 c0 9b   *...E./.'.].....
+    0090 - 0f 4e 49 bd 02 17 2b 29-84 cc f3 c3 35 9a e2 a7   .NI...+)....5...
+    00a0 - 77 72 3d da 29 21 9d e8-ee a5 7d 3d 85 85 8e c0   wr=.)!....}=....
+    00b0 - 2a 5e 46 7c f4 71 22 f7-b8 2d fd b4 cf f9 09 cc   *^F|.q"..-......
+
+    Start Time: 1732697686
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

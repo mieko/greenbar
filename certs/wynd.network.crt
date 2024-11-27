@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=wynd.network
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 24 09:53:19 2024 GMT; NotAfter: Jan 22 09:53:18 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpjCCA02gAwIBAgIRAL7zAk8q6vOgE3/mrRA6f8owCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTAyNDA5NTMxOVoXDTI1MDEyMjA5NTMxOFowFzEVMBMG
+A1UEAxMMd3luZC5uZXR3b3JrMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5Ybg
+DjYw/XtbVEG1m35yWl0Cy5YO5fmRkh6ae6u+yPOLrFd/x9SulqZGGPR0Rpr+lScK
+WdE1LbRxg4FoCfNIAqOCAlQwggJQMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTM4kpvdltdMzSpYXER
+eWPCotxorzAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEF
+BQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL3Z2
+TTAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAnBgNVHREE
+IDAeggx3eW5kLm5ldHdvcmuCDioud3luZC5uZXR3b3JrMBMGA1UdIAQMMAowCAYG
+Z4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9m
+V2EwdzBzTXFjQS5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDPEVbu1S58
+r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZK+KNYmAAAEAwBGMEQCIEr4Tkxw
+YXHKfz7yv1wQsHR9AQ1CGLxevvi8MRTTt2r3AiAY4et+osj18BiTyPF94vq/Y1kW
+qeJnqiR1Cs67gwPsgwB2AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45Q
+AAABkr4o1goAAAQDAEcwRQIgLaFHow5xHS27J+aWiwkINjkaDeJlvi+6Y6XziovV
+pRwCIQDdPKtrS0eaH83/juT9XPW622KdxEWOypINg1pVABL+7zAKBggqhkjOPQQD
+AgNHADBEAiBz6SnF8wzGOHyEZuZ7jj5E1QwH7kfhZYBfSp8Mtk6rJgIgWDpyJJ/G
+am2zeVewNXFbrC3WUtKqUDuFIAYtDxaSG1s=
+-----END CERTIFICATE-----
+subject=CN=wynd.network
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2825 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

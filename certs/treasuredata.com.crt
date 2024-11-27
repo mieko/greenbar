@@ -1,0 +1,96 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=treasuredata.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  8 16:54:06 2024 GMT; NotAfter: Feb  6 16:54:05 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPzCCBCegAwIBAgISBKDa51q2UEdLhF3qP7Pe1rNXMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTA4MTY1NDA2WhcNMjUwMjA2MTY1NDA1WjAbMRkwFwYDVQQD
+ExB0cmVhc3VyZWRhdGEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAm2e8OmG2irOeBMW7YRajg3z8kQVhIYystgGiGK24+cxQ8kCobxViKtm3ScgN
+qpspLDZzvBXPmkTikzcCWTbWrJvm0JVjo8iPxsFdngNKmoIx/u3CzURH5G18y+18
+9vshumeYLWYNlBPk9Z7w4ZyC/em0RBiXj+IITjUx/czmRg1MMTEMpc98FBIKWte9
+kkEfyc1vTEN1NSsqNXIvZEVzlB2bnEA1lS4FrBcllZ6oGHSt0n03MKLqGM32H3y9
+YvbIpPgtpaheAdQSdzRVpNDUmU0qliBtTmbuUW2vqRl6J/uRhp75PdVIRwb+39wL
+BoVvaEPznuT/YSEWc3/zQ2ZScQIDAQABo4ICYzCCAl8wDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBTTY5loshfx5fyx/rqomWNWVBhspjAfBgNVHSMEGDAWgBTFz0ak6vTD
+wHpslcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6
+Ly9yMTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5j
+ci5vcmcvMGkGA1UdEQRiMGCCEHRyZWFzdXJlZGF0YS5jb22CGHRyZWFzdXJlZGF0
+YWluc2lnaHRzLmNvbYIUd3d3LnRyZWFzdXJlZGF0YS5jb22CHHd3dy50cmVhc3Vy
+ZWRhdGFpbnNpZ2h0cy5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwggEFBgorBgEE
+AdZ5AgQCBIH2BIHzAPEAdwDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeO
+UAAAAZMM6BSiAAAEAwBIMEYCIQDo4iQ2d1gYjrjRBNw1JDeOE/NSdJrsdchud8fx
+PjjTxAIhAJ2osxSgOlqAGTlDzH1qrjMesWMRWnA4GOm/zmvUqlhsAHYAE0rfGrWY
+Qgl4DG/vTHqRpBa3I0nOWFdq367ap8Kr4CIAAAGTDOgVYAAABAMARzBFAiA3Bjti
+7uZ7llS35dBk6jzws6cywss9H3Lq/FMLD1cKyQIhALUYkWdM0S1vd03+KO6jsc06
+RJ5aoVvvU3yjtn+jXDuiMA0GCSqGSIb3DQEBCwUAA4IBAQASQw1zSN/qYS9XXgIX
+/pKoja8s9rwFUyx5p5xBsfCkEFeckYTcY7uGJl+97QdAlg8rr2UlSLP2P5THzxM7
+nhZ1O7Bd6Wi5248ATYoMSXEflqBkMxDcpIjm8ECP5TnNs+L9jzaCn35UYsbbga7n
+v4bbyc5EvJ/7/AYkbxQVV8cdkC8mM/F217EzoGQxSCzwMcPfjJc606t1LOJPt9WP
+P6e07ZZwKlXAryzebm0cOnSB89bAm/lUHXPWWU64r4nK6scXKpNm5dyzwtjkUR3q
++jiCoNLXoUi8Sh2bBgRGF5VP+0/QoAd3VsJaf2db5Lu+1byA3mUoMW4qwwBxx579
+iTdy
+-----END CERTIFICATE-----
+subject=CN=treasuredata.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3186 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: B8B0A6D4F1059DB8B8C1143FC0410375E05E3EFF393D826965EF0477F3A8B2B0
+    Session-ID-ctx: 
+    Resumption PSK: CE626EA937B7A955E2BAAF4E0C6DF1641D4994C206E89C3A49B2FAC44FB5A441
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - ee 5a a9 4d a3 be 05 67-95 2a d9 4f 37 72 c5 e5   .Z.M...g.*.O7r..
+    0020 - eb c9 1d ca c2 eb e4 5f-ed 00 d3 b4 b8 47 74 4b   ......._.....GtK
+    0030 - d9 cd d7 67 23 12 6e 01-b9 5e a3 e7 33 9d 96 bf   ...g#.n..^..3...
+    0040 - 02 ab 90 43 2f 7f d9 b4-41 ed 43 3d 58 7b 7b 60   ...C/...A.C=X{{`
+    0050 - e5 30 8e 3d b1 48 9a 82-e0 59 34 e7 f8 ba 28 f1   .0.=.H...Y4...(.
+    0060 - 5b 72 69 7b aa b7 54 56-bf b5 49 db 1b b1 09 52   [ri{..TV..I....R
+    0070 - 7a 76 8b b8 35 62 02 e8-02 1b 3a 91 88 7f c7 47   zv..5b....:....G
+    0080 - c8 12 0c c9 c6 6d 78 13-89 5c aa cd 2d e7 ce 18   .....mx..\..-...
+    0090 - 28 e4 12 a7 c9 d2 15 81-77 67 36 94 c0 8d fb 69   (.......wg6....i
+
+    Start Time: 1732697891
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 8192
+---
+read R BLOCK

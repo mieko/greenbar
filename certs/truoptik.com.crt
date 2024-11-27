@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=truoptik.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 18 22:03:13 2024 GMT; NotAfter: Feb 16 22:03:12 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDqDCCA02gAwIBAgIRANXO8OhveUAeDXspzp0K6NkwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTExODIyMDMxM1oXDTI1MDIxNjIyMDMxMlowFzEVMBMG
+A1UEAxMMdHJ1b3B0aWsuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEL11G
+VIuPmFTa4P5FVIhqFu3kFg7Yi0bnIE5Tc5GSUR4vUpzXegJ5w77o4DJT00WpwfRj
+NL68ZXD9NzjzhsmK7qOCAlQwggJQMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAK
+BggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRwVWz7JHoLez5cRVVD
+nM0P9QxdljAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEF
+BQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxLzFj
+NDAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAnBgNVHREE
+IDAeggx0cnVvcHRpay5jb22CDioudHJ1b3B0aWsuY29tMBMGA1UdIAQMMAowCAYG
+Z4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9I
+c0MzU0JId1JFby5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDPEVbu1S58
+r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZNBhA/VAAAEAwBGMEQCIDtGAkOt
+Sm3nrD1QPcguQON/FtuJQVppc/mAndTqE21FAiBPWsHufYrkPXVnfaa4+goEjNYc
+9ou9PcY0Mf/e1c3+QwB2AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2w
+AAABk0GEENMAAAQDAEcwRQIhAJlNk9Ti8ZTJnGl4dZYJj0tV042iCwUQd+JdAoN8
+LIh6AiA9xOC8PTYj75km4Fsv6hlAwuEs3M9uvwZ0yokuq1paPTAKBggqhkjOPQQD
+AgNJADBGAiEAoGVYHmSrq9qceIjU0mfXdPSmABp7YjLey7kWp8deuaECIQDgLyyJ
+JlQ9iZwD9B8XjuG7XOiRGszA9n3JZdH4HyfTGg==
+-----END CERTIFICATE-----
+subject=CN=truoptik.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2828 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

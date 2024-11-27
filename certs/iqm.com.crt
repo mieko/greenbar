@@ -1,0 +1,106 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.iqm.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 25 16:00:48 2024 GMT; NotAfter: Dec 27 16:00:47 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+   i:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 19 03:43:25 2023 GMT; NotAfter: Jul 19 00:00:00 2026 GMT
+ 2 s:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jun 19 00:00:00 2019 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+ 3 s:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Sep  1 12:00:00 1998 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGTjCCBTagAwIBAgIMATFKxg7ja8qHo5xfMA0GCSqGSIb3DQEBCwUAMFUxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSswKQYDVQQDEyJH
+bG9iYWxTaWduIEdDQyBSNiBBbHBoYVNTTCBDQSAyMDIzMB4XDTI0MTEyNTE2MDA0
+OFoXDTI1MTIyNzE2MDA0N1owFDESMBAGA1UEAwwJKi5pcW0uY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv2zTy4aBM81ebHGEl69XLRzCub4mrrxu
+Tqn6HZZrC8gEfLVtTvmPIvudT2R+aQTmhJBxHN+lLIvIRivojVuJN4U4EscsFmLu
+dMgnGkiUv+SRGk0Db7x6D2ryS8oH2rH+m5mPE07UfOPANynligBdJj4NjyRyX5Zh
+ujoHxN/6ly6EgAzeXbuBe8DDF++r5FPN6V+4de6UyzpZzWPybDPr8GSIWVy9rOsa
+mlyOCROQCdimNc82Tlb6m9POMr0uw2AyTXap1SBJBQ3BidOFPYp0P4zwU7BOPe4V
+SdRtPYolaWN4nIu5fk/n07BX5MTHClfrFYBudnLwkAhRW59XmFz46QIDAQABo4ID
+XTCCA1kwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwgZkGCCsGAQUFBwEB
+BIGMMIGJMEkGCCsGAQUFBzAChj1odHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29t
+L2NhY2VydC9nc2djY3I2YWxwaGFzc2xjYTIwMjMuY3J0MDwGCCsGAQUFBzABhjBo
+dHRwOi8vb2NzcC5nbG9iYWxzaWduLmNvbS9nc2djY3I2YWxwaGFzc2xjYTIwMjMw
+VwYDVR0gBFAwTjAIBgZngQwBAgEwQgYKKwYBBAGgMgoBAzA0MDIGCCsGAQUFBwIB
+FiZodHRwczovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzBEBgNVHR8E
+PTA7MDmgN6A1hjNodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29tL2dzZ2NjcjZhbHBo
+YXNzbGNhMjAyMy5jcmwwHQYDVR0RBBYwFIIJKi5pcW0uY29tggdpcW0uY29tMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBS9BbfzipM8
+c8t5+g+FEqF3lhiRdDAdBgNVHQ4EFgQU0Zka2gYIA/vksIKPtljKp1k9umowggF+
+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2ABoE/0nQVB1Ar/agw7/x2MRnL07s7iNA
+aJhrF0Au3Il9AAABk2QN3koAAAQDAEcwRQIgDzmZmhF05+XZixDnF+DOGu6yyW8e
+oFfNUuLGxVdcxLMCIQDBgqTFjpG11fmCs/l2m/qafzb01QkjyRRun7lU87X04QB2
+ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABk2QN3osAAAQDAEcw
+RQIgIwG5A/4m/TcOWongJQJTcIsCSmDXLkyk+BbcoMlu41ACIQCMcaKUk70gWTla
+CicctI3VvzG06kBZn8eAR76oSXiB+wB2AA3h8jAr0w3BQGISCepVLvxHdHyx1+kw
+7w5CHrR+Tqo0AAABk2QN26QAAAQDAEcwRQIgMV7m1v7BT7ri2ur4kpH8Iq2mkKQx
+t93fb7ljH9Zik2wCIQCZ+sa5kIEcSfAHApPxGb7XhwAvrvlgjwXPadWG2ie3/TAN
+BgkqhkiG9w0BAQsFAAOCAQEAIUSnMKoRTZu8R3PeVfd/AvqzsRoJYsEeCaoVQskv
+HLOtrKwe4sIO2eonWKokTyQYav8DARyZEPiPuAJWg1UzEMxYdIuZdgNd93Z3oBNY
+oEuaN1PNWLRHxL1yBlktTuWUYUbCq+xjTi8WCVsJkfxSeiTXhfRVlX415c9f/OUE
+wQY4/MPOSR4RTnsYBXkhJxWPJ5Kwp8TU5zF3d597PJsXrtOpG/ba+z/nQ98408wf
+NkbIJudOw53pRemVNVBeJZ7T4bWKMg4Tbp0m55SjN8y478av+e5K9u57uzGDYoKq
+wcV3CgFTz83t6dMCVnPx61WeA3emYnHGl6o7xfS7Qh2HHg==
+-----END CERTIFICATE-----
+subject=CN=*.iqm.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5851 bytes and written 382 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 39D3CCE6FD0B5CD85E4A8CAD0597AE0A28ED8374895E4496DCA9151CA9904263
+    Session-ID-ctx: 
+    Resumption PSK: EE3653F9D4118216271C6F49706782B3D22060826FC670CFB07D9DA2953072D0
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 38 26 4a 70 ed d3 fe 5c-62 28 b6 ec 4d c2 41 4c   8&Jp...\b(..M.AL
+    0010 - 17 98 6a cf 6b 4b 75 a6-35 d6 b2 7b 64 90 fb 11   ..j.kKu.5..{d...
+    0020 - ed 2f 76 8f ca 3b b6 c4-92 65 c3 1f e9 df b7 6b   ./v..;...e.....k
+    0030 - a0 4d c2 71 2c bf b4 ec-e2 73 2d f3 d4 04 9b 27   .M.q,....s-....'
+    0040 - 56 65 ea fb 75 fd cd e2-88 3a de 4f d4 c4 ad d7   Ve..u....:.O....
+    0050 - d8 dd 81 7c 3e 50 35 ae-d3 9c a0 14 9f 61 51 a7   ...|>P5......aQ.
+    0060 - e6 6a f1 ba 8e 43 cb 5d-82                        .j...C.].
+
+    Start Time: 1732697375
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

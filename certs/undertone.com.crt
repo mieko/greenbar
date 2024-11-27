@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=undertone.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 14 05:15:06 2024 GMT; NotAfter: Jan 12 05:15:05 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDqTCCA1CgAwIBAgIRAMU6IWz5A6VGDWTil++VdYUwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTAxNDA1MTUwNloXDTI1MDExMjA1MTUwNVowGDEWMBQG
+A1UEAxMNdW5kZXJ0b25lLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABAzv
+g10gTwY8tLD0Vfz5JxmVKgS3Pd6lHvREKmdhuwNQcLHhDVkbiFOOqVMNDKijE4wX
+PxPLtCXUP01lubkhpQajggJWMIICUjAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAww
+CgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQURVu0ys+lPwSWCqBJ
+Rdon2uAtlzgwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYB
+BQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS94
+VG8wJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwKQYDVR0R
+BCIwIIINdW5kZXJ0b25lLmNvbYIPKi51bmRlcnRvbmUuY29tMBMGA1UdIAQMMAow
+CAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dl
+MS9oeDM0Vmk0T1JiTS5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDPEVbu
+1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZKJqoa1AAAEAwBGMEQCIFyq
+2eUKuYFXmzt6TThwbejDZmEetOZqkmviUeJ5pUOJAiB2KVVRFa0qbaqufwsSKiaD
+6+ltk+jUNziLplzmtZQIpQB2AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+
+TA2wAAABkomqhrYAAAQDAEcwRQIhANb5uLjrGB8j4YRFw4Shs6K4JV5e+7BAo4Vn
+XZ4SyKscAiAgkqMoYsUznCLLusoYfXKjyOZ0o8LfBM8S9CV1vWPM9zAKBggqhkjO
+PQQDAgNHADBEAiAKpYF/RlRzyw1fpW2b1250KT4gZxT4ndnPbXNhDOFoXgIgcqog
+ChoJOi/UQGPt82+9S/sI6c9Cb9Uo5LhlWENYBUM=
+-----END CERTIFICATE-----
+subject=CN=undertone.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2829 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

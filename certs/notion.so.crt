@@ -1,0 +1,61 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=notion.so
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  2 19:53:40 2024 GMT; NotAfter: Jan 31 20:53:31 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID0TCCA3egAwIBAgIQELjjuF8a+e8NftvFgPlsADAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTAyMTk1MzQwWhcNMjUwMTMxMjA1MzMxWjAUMRIwEAYD
+VQQDEwlub3Rpb24uc28wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQ6BdAO4KMd
+GrlRvw7YESdGKWLEOYdScpU9tvP7kYQg50IrFavl5BKh/C11cV2L/KRK1FN3aCpA
+Icn+yt6m59Fno4ICgjCCAn4wDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsG
+AQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFNiuSwsd9j4e4Moavf8px36v
+0rS/MB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsGAQUFBwEB
+BFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEvRUxnMCUG
+CCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MFQGA1UdEQRNMEuC
+CW5vdGlvbi5zb4ILKi5ub3Rpb24uc2+CDyouZGV2Lm5vdGlvbi5zb4IPKi5zdGcu
+bm90aW9uLnNvgg8qLnd3dy5ub3Rpb24uc28wEwYDVR0gBAwwCjAIBgZngQwBAgEw
+NgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxLzA4UVVVbzRS
+TzhNLmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AE51oydcmhDDOFts1N8/
+Uusd8OCOG41pwLH6ZLFimjnfAAABku6ntr4AAAQDAEcwRQIgaVEGriASZCODnphH
+vxuw3jZRHVwnbsgPSRxAuy6sa0ICIQDsZvpLuJxK4rmhydP/xlEx2V52GZ8dcEKE
+dlxvMhwJagB2AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABku6n
+ut8AAAQDAEcwRQIhAMtmhG74bpGVuX81PQ8kzrOZCfIHYGZRsC2KILaf6Y6MAiBE
+1DR+Y75o59B6/Ecc+3+llyYvbhUyXQc7Wr6GQ7AMNTAKBggqhkjOPQQDAgNIADBF
+AiEA1IT6Ijbwz6Q+CnQ4LwuDMQ13dPGhewUVDOdFdyYzjrQCICmWrZQomF8UVsXm
+dSEy/Tg1drXgZRs+QAB3Bz4Nvoio
+-----END CERTIFICATE-----
+subject=CN=notion.so
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2870 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=blum.codes
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 23 20:03:50 2024 GMT; NotAfter: Jan 21 20:03:49 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDojCCA0igAwIBAgIQCyxktT9VlHYREo1ycEFRwjAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMDIzMjAwMzUwWhcNMjUwMTIxMjAwMzQ5WjAVMRMwEQYD
+VQQDEwpibHVtLmNvZGVzMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4sPqhu4n
+HUgIDJoKQY2W80YT9TDvSCP24g6SoLZ5YyKERxAwsD5u1/b+4fU1fHiVkevn3b5S
+TDgVgP2EGwILJaOCAlIwggJOMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggr
+BgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQM19ybCW0cdcgVCeks8d4d
+13TT0DAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEFBQcB
+AQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL0N5dzAl
+BggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAjBgNVHREEHDAa
+ggpibHVtLmNvZGVzggwqLmJsdW0uY29kZXMwEwYDVR0gBAwwCjAIBgZngQwBAgEw
+NgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL1gyTV9GRWQ2
+WjdjLmNybDCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AM8RVu7VLnyv84db2Wku
+m+kacWdKsBfsrAHSW3fOzDsIAAABkrsxa6gAAAQDAEcwRQIhAK2B+igqsr1YFlrw
+8WylAaNjJW/iH6KgJXeA1NoN97mxAiA/1uFUBiJLwcZcpPhAUNV4PxwdzdKdYILO
+g3LVRK+ghQB3AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkrsx
+b30AAAQDAEgwRgIhAPVO28ZnKTt2l1vWIX9pyukvTnHhceLmWjULzEry6xqMAiEA
+kmjX/U+IPG3EgMLpdiPZst1U4AuC93jGuPjIKBgMWpAwCgYIKoZIzj0EAwIDSAAw
+RQIgUXOo3AfD02EUdCqVypnXco9g922gSutTmDCsKk09QH0CIQD2zCU7SFzzAaSD
+FaVuQBJUCNivIuBfM8zkRaSYwE2suQ==
+-----END CERTIFICATE-----
+subject=CN=blum.codes
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2821 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

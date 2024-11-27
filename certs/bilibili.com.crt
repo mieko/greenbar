@@ -1,0 +1,101 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=CN, ST=上海, L=上海, O=上海幻电信息科技有限公司, CN=*.bilibili.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 31 09:46:02 2024 GMT; NotAfter: Dec  2 09:46:01 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 19 00:00:00 2018 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGZjCCBU6gAwIBAgIMOTxU6cyy3nUpafQ9MA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yNDEwMzEwOTQ2MDJaFw0y
+NTEyMDIwOTQ2MDFaMHcxCzAJBgNVBAYTAkNOMQ8wDQYDVQQIDAbkuIrmtbcxDzAN
+BgNVBAcMBuS4iua1tzEtMCsGA1UECgwk5LiK5rW35bm755S15L+h5oGv56eR5oqA
+5pyJ6ZmQ5YWs5Y+4MRcwFQYDVQQDDA4qLmJpbGliaWxpLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBANrOd6vZ4pklKMFMjhWsIlqKMYAPIDsdqabS
+dnEloIsIQTF6f7nTEvTA1tUDv3vnVvLwW8Rpym+q1euGpwYvZyuT0nAzRUD3GEho
+1E9lXJF8qmTU4jd7fmaD/rO+aSCbIF3dGgINU+gqkXqExRJmu1FswEBKnbUZOTU6
+HYBVf7CFYY6lhyR8Mlk1DSwugG3xpJYdEqrJpoiQFRizxpOOSTZTINcjbFxATiOH
+i59rQdJSrBhl2G/ZoEPm6UWigeJ+9YsNkdLAk5uMZRiTwd4f8oIMQ1QX6Xl9PdNr
+vyvSAoqTfBOPH09igVhUgU9wg1ewR2IbgQB2PEZt5wcdqjVayPkCAwEAAaOCAxcw
+ggMTMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMIGOBggrBgEFBQcBAQSB
+gTB/MEQGCCsGAQUFBzAChjhodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2Nh
+Y2VydC9nc3JzYW92c3NsY2EyMDE4LmNydDA3BggrBgEFBQcwAYYraHR0cDovL29j
+c3AuZ2xvYmFsc2lnbi5jb20vZ3Nyc2FvdnNzbGNhMjAxODBWBgNVHSAETzBNMEEG
+CSsGAQQBoDIBFDA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5nbG9iYWxzaWdu
+LmNvbS9yZXBvc2l0b3J5LzAIBgZngQwBAgIwJwYDVR0RBCAwHoIOKi5iaWxpYmls
+aS5jb22CDGJpbGliaWxpLmNvbTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwHwYDVR0jBBgwFoAU+O9/8s14Z6jeb48kjYjxhwMCs+swHQYDVR0OBBYEFA3b
+h7X3xVcYKx9xVhlkGt7DyRIGMIIBgAYKKwYBBAHWeQIEAgSCAXAEggFsAWoAdgCv
+GBoo1oyj4KmKTJxnqwn4u7wiuq68sTijoZ3T+bYDDQAAAZLh98NrAAAEAwBHMEUC
+IQDi/xf8q7AaY+N7BT1/lxBG3FL3hgGPPHmt9ztUuAvaUAIgBSx3o2oXY/O0hx8Q
+6EL0DygRucQenLLgn0IOllSQ9HoAdwAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0w
+BYTr5YYmOgAAAZLh98NPAAAEAwBIMEYCIQC7duGCd47Non3JBcLGfSqAlK/rH5CK
+B5M85UndZC+7ZQIhAOKT6iHwF4U1War4e34e48DnSYO4QCjo0BYkXZ42IjCLAHcA
+5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGS4ffDdwAABAMASDBG
+AiEAtMrGOJUhMGW3lc18aMiPUuK5L1MTLfBhek1Mh5InQS8CIQC717fw5NS7T9MZ
+DtwahI6JLqfhZuFs0rodeIG3FqtwoTANBgkqhkiG9w0BAQsFAAOCAQEAfuCK5rtu
+yKqeEd1ns50ex+j0MnhpprngXXSgTAkK5MjT3ZD0jBF5GOwiJZ8NDK2XCGRegIEP
+SlT8KfMPLU7lqa4WawNiEFuuZTQUAax2G77Jpm67ieOPijkWVnkDPp07aW174PFr
+/gWG0nQIecSsEp+iwRMldprCGPp4FvoT6GAVgJlorycN60FfGh9WPXejfFhlLnXV
+8Oxi9srvcZmQVbJIw7pRcWxzTSpCGuFokG/PbAX/baTLScrzVWyibg450eJ5xsGq
+BpYQDEjEssBQ7oD+ppnDphfsVVu7g4iHM9C9f66mwUYTxwjQjiyUp7OtkZtvD67s
+HvmKqWKQ3CW78g==
+-----END CERTIFICATE-----
+subject=C=CN, ST=上海, L=上海, O=上海幻电信息科技有限公司, CN=*.bilibili.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4550 bytes and written 449 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 76852EB7F62B1AEFA9F6767F5FA2AA1D90C04D8BEC3D5FB74EFB7ACE6BAF55E5
+    Session-ID-ctx: 
+    Master-Key: 888663C64719611C47CA2AED84A31A991BA9781DE7B443BFD908F4C3CC57885BA55909695425D6B7E053BBDE0B7BCB45
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 1800 (seconds)
+    TLS session ticket:
+    0000 - 7c 78 0c 7b 97 ec 97 da-4d c4 77 e3 3c f5 5d 20   |x.{....M.w.<.] 
+    0010 - 7c d0 b1 e6 93 0f 19 92-e2 f4 fe 88 71 61 0e 79   |...........qa.y
+    0020 - f6 57 2c 55 9f 6e a7 4f-da 28 4d 81 90 48 48 c6   .W,U.n.O.(M..HH.
+    0030 - 91 fb 51 61 04 76 9b 8b-9a 18 7d b0 0b ea 35 f4   ..Qa.v....}...5.
+    0040 - b8 e6 2a 73 48 bb d4 09-d0 4c 83 78 9e c9 9e dd   ..*sH....L.x....
+    0050 - 34 37 98 67 e6 08 5a d7-ef 3b 21 d8 fa a5 f4 ef   47.g..Z..;!.....
+    0060 - c6 9b ab 20 2a 96 5e 3a-14 34 01 80 8b 32 53 e3   ... *.^:.4...2S.
+    0070 - 9b ce f9 a7 18 07 15 4a-50 28 95 5c e9 4b 2c f9   .......JP(.\.K,.
+    0080 - 60 66 6e 09 ce 68 c9 f5-47 ab c2 42 64 6a 16 e6   `fn..h..G..Bdj..
+    0090 - 1d c2 2d e1 1c 5b da 84-c2 ca 1e e0 02 b1 51 05   ..-..[........Q.
+    00a0 - a9 62 a5 b6 7e 80 ba f3-7a a1 cd ec a0 b9 1c ea   .b..~...z.......
+    00b0 - 39 da 6b c0 3d ac 1e d8-30 d9 0d ef be 34 17 53   9.k.=...0....4.S
+
+    Start Time: 1732697015
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

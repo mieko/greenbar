@@ -1,0 +1,117 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=fastly-insights.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2024 Q4
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 22 01:36:06 2024 GMT; NotAfter: Nov 23 01:36:05 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2024 Q4
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 17 03:09:40 2024 GMT; NotAfter: Jul 17 00:00:00 2026 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJVzCCCD+gAwIBAgIQASGm4xYsiiGgNFHagzwwUDANBgkqhkiG9w0BAQsFADBY
+MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEuMCwGA1UE
+AxMlR2xvYmFsU2lnbiBBdGxhcyBSMyBEViBUTFMgQ0EgMjAyNCBRNDAeFw0yNDEw
+MjIwMTM2MDZaFw0yNTExMjMwMTM2MDVaMB4xHDAaBgNVBAMME2Zhc3RseS1pbnNp
+Z2h0cy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDD1E0UNVo0
+DuTSSQMpNAUdT/5fU3QJFdx+ZoRVuMB7rPibGaQjrUhE2vR7rrduP0IBWxs7Ebc2
+O9IoafZDWDmSmwd8xvBmmkaHmheaXIe2AOFHolrDdcFojQg4zv2kqeX6QhboQTmH
+QT9iagd2my3WJP7gtJdM5OcZLgzuCyKNBY6rx+9Cj10f0WCAckFtUKGvlzLeIOIA
+VuYxmUtHzgp395arC5hCzxpR4EM+PpwAJBn46yL1tWgQkztkjWBNFZmuuHCDo1PV
+4iz0XgkTg0todxMzF2ruT15O4iFgOWWSzDuZYAtbbRrcBUk/1y/kslRu5Swu1Wkn
+rO4evsKkCt0zAgMBAAGjggZVMIIGUTCCAwsGA1UdEQSCAwIwggL+ghNmYXN0bHkt
+aW5zaWdodHMuY29tghwqLmFwYWMudS5mYXN0bHktaW5zaWdodHMuY29tgiQqLmFw
+YWMudS5zdGFnaW5nLmZhc3RseS1pbnNpZ2h0cy5jb22CISouYXBhYy51LnRlc3Qu
+ZmFzdGx5LWluc2lnaHRzLmNvbYIaKi5ldS51LmZhc3RseS1pbnNpZ2h0cy5jb22C
+IiouZXUudS5zdGFnaW5nLmZhc3RseS1pbnNpZ2h0cy5jb22CHyouZXUudS50ZXN0
+LmZhc3RseS1pbnNpZ2h0cy5jb22CFSouZmFzdGx5LWluc2lnaHRzLmNvbYIYKi5o
+MS5mYXN0bHktaW5zaWdodHMuY29tghgqLmgyLmZhc3RseS1pbnNpZ2h0cy5jb22C
+GioucG9wcy5mYXN0bHktaW5zaWdodHMuY29tgiIqLnBvcHMuc3RhZ2luZy5mYXN0
+bHktaW5zaWdodHMuY29tgh8qLnBvcHMudGVzdC5mYXN0bHktaW5zaWdodHMuY29t
+gh0qLnN0YWdpbmcuZmFzdGx5LWluc2lnaHRzLmNvbYIaKi50ZXN0LmZhc3RseS1p
+bnNpZ2h0cy5jb22CFyoudS5mYXN0bHktaW5zaWdodHMuY29tgh8qLnUuc3RhZ2lu
+Zy5mYXN0bHktaW5zaWdodHMuY29tghwqLnUudGVzdC5mYXN0bHktaW5zaWdodHMu
+Y29tgh4qLnVuaXF1ZS5rLmZhc3RseS1pbnNpZ2h0cy5jb22CJioudW5pcXVlLnN0
+YWdpbmcuay5mYXN0bHktaW5zaWdodHMuY29tgiMqLnVuaXF1ZS50ZXN0LmsuZmFz
+dGx5LWluc2lnaHRzLmNvbYIaKi51cy51LmZhc3RseS1pbnNpZ2h0cy5jb22CIiou
+dXMudS5zdGFnaW5nLmZhc3RseS1pbnNpZ2h0cy5jb22CHyoudXMudS50ZXN0LmZh
+c3RseS1pbnNpZ2h0cy5jb22CEm5lbC5mYXN0bHlsYWJzLmNvbTAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB0GA1UdDgQWBBR5
+aNgFE3SU8B1In3RTYIACCxNVADBXBgNVHSAEUDBOMAgGBmeBDAECATBCBgorBgEE
+AaAyCgEDMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29t
+L3JlcG9zaXRvcnkvMAwGA1UdEwEB/wQCMAAwgZ4GCCsGAQUFBwEBBIGRMIGOMEAG
+CCsGAQUFBzABhjRodHRwOi8vb2NzcC5nbG9iYWxzaWduLmNvbS9jYS9nc2F0bGFz
+cjNkdnRsc2NhMjAyNHE0MEoGCCsGAQUFBzAChj5odHRwOi8vc2VjdXJlLmdsb2Jh
+bHNpZ24uY29tL2NhY2VydC9nc2F0bGFzcjNkdnRsc2NhMjAyNHE0LmNydDAfBgNV
+HSMEGDAWgBRgkewcAvIO/mNPZctisAIqA1jpszBIBgNVHR8EQTA/MD2gO6A5hjdo
+dHRwOi8vY3JsLmdsb2JhbHNpZ24uY29tL2NhL2dzYXRsYXNyM2R2dGxzY2EyMDI0
+cTQuY3JsMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdgAS8U40vVNyTIQGGcOP
+P3oT+Oe1YoeInG0wBYTr5YYmOgAAAZKx3fwtAAAEAwBHMEUCIAbV9Pg9gC7Kh9IM
+XIY/QON1vCBfjgemkb/0uoAy0ggXAiEA10Rvw+0l3lOToWKPrXJ2zTx1UG9WWdBq
+aSat0fIrXZsAdQDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZKx
+3f61AAAEAwBGMEQCIES9oqjx46G6BvLl/0Pn/vbnwSQW/2w7eJCdvWZFABqPAiA3
+QbDlM95iEOSnEYUp2Ly57eVcnB4NS8AIXbfE8JANnQB2AA3h8jAr0w3BQGISCepV
+LvxHdHyx1+kw7w5CHrR+Tqo0AAABkrHeAfgAAAQDAEcwRQIgFLn1EgdLSQMLQHvD
+M4LjK4uBcRXpYGI+6KKPHmOXV00CIQDuO9anRyjNrxrJrtpF9/Tkr344Yazhrid2
+Zqk4DR4IajANBgkqhkiG9w0BAQsFAAOCAQEArSOxfjElr6wvdtEVbboRJDSqX9rL
+GsyQtBQjrHVUws77sfQ/LhTqDaZApl28QgFKmGa6A9GSyp+no8WvZbgeT59KT20e
+1ywfAALw8/Cx8oYugZ8Y11EuROeFUZVOuI0WIbCaTPI0JJG97OL1RGtSutYHFfLQ
+oa66KujGLAOBAxU4xTX+8pZygnf4/QayuZYf4yrILc4tvunAN1yYSEy5RD0z4zRF
+yVrFw8r2ztB/jda+A0miu6Rk01MqYCcBMW2tLhtYtPTDlIEJL93gml6LeWcvwGJ0
+PjaRhGCYOQsRSjQP+ulhrmRNoPZX4kYFF0EmiUTb4hwI4nr6DqUDds4dTw==
+-----END CERTIFICATE-----
+subject=CN=fastly-insights.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2024 Q4
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4116 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: BE86422CC481E8C9D03E69B3E4CCF0C9EACABD06ECB23D468684E8A899B72E15
+    Session-ID-ctx: 
+    Resumption PSK: 3B7C5B19BA3D9CAE7823A33F4724F92132080544D415C52060D2DCE5DD81E753
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - 90 08 08 c1 54 d4 92 8d-ea 72 27 b0 55 f3 3e ad   ....T....r'.U.>.
+    0020 - 31 6f 7a f6 a6 3e 49 06-c2 22 85 0f 93 cd ff cb   1oz..>I.."......
+    0030 - 73 07 7b 18 2b cc 31 cb-db 13 b0 a4 09 cf 17 0c   s.{.+.1.........
+    0040 - bf 40 be fe d1 f6 37 ed-34 0b ed 7c 7b 22 5b 6a   .@....7.4..|{"[j
+    0050 - 93 f8 1a 34 11 76 8e 70-12 00 eb 6b fc e5 7e 21   ...4.v.p...k..~!
+    0060 - 51 67 f2 77 ab 37 9f 0d-91 70 21 45 2e c7 b6 2b   Qg.w.7...p!E...+
+    0070 - a0 46 2a bf 7a 4e 3c 74-cf 82 68 71 13 d0 75 07   .F*.zN<t..hq..u.
+    0080 - 7b e2 4b 8c 3f f0 f7 d6-5e f0 25 86 11 7c 90 92   {.K.?...^.%..|..
+    0090 - de 48 52 b3 b6 b2 e4 a9-5a 26 71 1d 68 f6 6b 04   .HR.....Z&q.h.k.
+
+    Start Time: 1732697194
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

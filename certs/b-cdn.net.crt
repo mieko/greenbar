@@ -1,0 +1,77 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.b-cdn.net
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  5 00:00:00 2024 GMT; NotAfter: Nov 11 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGKjCCBRKgAwIBAgIQMgk2nyLxawEJ/koWsFoYUzANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTI0MTEwNTAwMDAwMFoXDTI1MTExMTIzNTk1OVowFjEUMBIGA1UEAwwLKi5i
+LWNkbi5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3T9eH/GlY
+8YjEJkq6DeZ+swcdpYCZCKKeco/Pa/jhC93vJ3Y6kV8TpO43dvUPhi8sCVnoY1hE
+lbp0K71/AiVTrTs2kjJVRI/nosf9sad2BpOkGUVtMxbvIW1DP4RVDggi/AbNkPCg
+i269vVZchy81JHOPMDJJN+QmeLOnxeHXcFhVS2FzYgTed4WfAXgJQzynkIauxl7y
+hkuL4SYjD95EYwVYXhDB+5k9ljKtigcpLUhTlSguzw8Li34zAsbdai3lWobBHpyz
+DorCi2tleuJU45CUyqPwGlaQfxteEYoT/zvIvZ0xjjOAiGwc7BHIhCJSpxpS8GFt
+vKGO3OMmFb0VAgMBAAGjggL4MIIC9DAfBgNVHSMEGDAWgBSNjF7EVK2K4Xfpm/mb
+BeG4AY1h4TAdBgNVHQ4EFgQUg+PdZ/QfQySpw8EzYGVE3EXlQL8wDgYDVR0PAQH/
+BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEFBQcCARYXaHR0
+cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEFBQcBAQR4MHYw
+TwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JTQURv
+bWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0
+dHA6Ly9vY3NwLnNlY3RpZ28uY29tMCEGA1UdEQQaMBiCCyouYi1jZG4ubmV0ggli
+LWNkbi5uZXQwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2AN3cyjSV1+EWBeeV
+MvrHn/g9HFDf2wA6FBJ2Ciysu8gqAAABkvywjScAAAQDAEcwRQIgUj+xYi2tYsaa
+S/n/6ZdQkS1p16Q/eX2n222MFbSCDdgCIQCpQTukSoUvCKLnwI65ya7SG3cIM4ZB
+Jll+JM4i19nPHQB1AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAAB
+kvywjOMAAAQDAEYwRAIgMLmgDFudzvPecJFr860Lqw0MaPeTRkWeWEHGvYjFERkC
+IBv5AIgIeS5s/zYXcQY1p7IyT9aUAADiBASJGHrC9mRvAHcAEvFONL1TckyEBhnD
+jz96E/jntWKHiJxtMAWE6+WGJjoAAAGS/LCMwAAABAMASDBGAiEAqJn8//rXjyEg
+D4H+oFOCd4TjSpmCnl4OD3JjkwTid9UCIQCmNU4HQIEFnC3q9y68w903j7uA71H5
+TZQmqKS2KZNwSzANBgkqhkiG9w0BAQsFAAOCAQEAjxEoZtHQZ3hT7BMuBzXbaLSk
+UeDZZoB6o0aOp+3in5CpJ6n86lw1Ps4D5rONf5SmfW8oj7MKOZ78pqKLsR8lCuRr
+9dTux49RCG/yznCST1wF5GHAEb/xZdcFlEfgH9DA83EQD5OWxdQPcXfpgigT3moV
+rDPKuGdPlWSO4TcnbmaS1b9ys2xK8MOg0I7PPQk4WwB7lsJkzYyKGhdJ3r1vFXLe
+up3aiT9dTUWOxDFXFqDjscdNA7cK+eAXvC/7HJaNzJbzzah6ge3T4Ltni3H6MOqR
+ZzvVS8BCvr5UUyrqwIcRPfeD3YkRQLfIJ7nBTVfHPiSACJcT7TqU6flnuMJRww==
+-----END CERTIFICATE-----
+subject=CN=*.b-cdn.net
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6207 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

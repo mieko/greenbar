@@ -1,0 +1,92 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=New York, L=New York, O=Yahoo Holdings Inc., CN=src1.yahoo.com
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 30 00:00:00 2024 GMT; NotAfter: Jan 22 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert High Assurance EV Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 22 12:00:00 2013 GMT; NotAfter: Oct 22 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIKezCCCWOgAwIBAgIQB/797rJj/U8TBEtvJT+4ZDANBgkqhkiG9w0BAQsFADBw
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0yNDA3MzAwMDAwMDBaFw0yNTAxMjIyMzU5NTla
+MGoxCzAJBgNVBAYTAlVTMREwDwYDVQQIEwhOZXcgWW9yazERMA8GA1UEBxMITmV3
+IFlvcmsxHDAaBgNVBAoTE1lhaG9vIEhvbGRpbmdzIEluYy4xFzAVBgNVBAMTDnNy
+YzEueWFob28uY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4Gz2W0I1/x5e
+MndsyZmJWdmfTLIemAD6arWmL7fEWRJb7KhSArNUsvCkXtOutKNWiJhZTiCbC308
+TytaWfMNJaOCB+AwggfcMB8GA1UdIwQYMBaAFFFo/5CvAgd1PMzZZWRiohK4WXI7
+MB0GA1UdDgQWBBTrSraOrDOW8lTcpXnDkbTfl/KqKTCCBJ0GA1UdEQSCBJQwggSQ
+gg5zcmMxLnlhaG9vLmNvbYIKKi5vYXRoLmNvbYINKi5vdXJvYXRoLmNvbYIOKi5v
+dXJ5YWhvby5jb22CCyoueWFob28uY29tggkqLmFvbC5jb22CCCouYW9sLmRlghIq
+LnZlcml6b25tZWRpYS5jb22CDioueWFob29pbmMuY29tggoqLnlhaG9vLmJnggoq
+LnlhaG9vLmNhggoqLnlhaG9vLmNugg0qLnlhaG9vLmNvLmlugg0qLnlhaG9vLmNv
+Lm56gg0qLnlhaG9vLmNvLnRogg0qLnlhaG9vLmNvLnVrgg4qLnlhaG9vLmNvbS5h
+coIOKi55YWhvby5jb20uYXWCDioueWFob28uY29tLmJygg4qLnlhaG9vLmNvbS5j
+boIOKi55YWhvby5jb20uaGuCDioueWFob28uY29tLm14gg4qLnlhaG9vLmNvbS5w
+aIIOKi55YWhvby5jb20uc2eCDioueWFob28uY29tLnR3gg4qLnlhaG9vLmNvbS52
+boIOKi55YWhvby5jb20ubXmCDSoueWFob28uY28uaWSCCioueWFob28uZGWCCiou
+eWFob28uZWWCCioueWFob28uZXOCCioueWFob28uZnKCCioueWFob28uaGuCCiou
+eWFob28uaHWCCioueWFob28uaWWCCioueWFob28uaW6CCioueWFob28uaXSCCiou
+eWFob28ucGiCCioueWFob28ucHSCCioueWFob28uc2eCECouYnJpZ2h0cm9sbC5j
+b22CDSoub3BzLmFvbC5jb22CDSoud2ViLmFvbC5jb22CCyouYW9sLmNvLnVrgggq
+LmFvbC5qcIIOKi5lbmdhZGdldC5jb22CDSoudGVhbWFvbC5jb22CCCouYW9sLmZy
+gggqLmFvbC5jYYINKi5qb3lzdGlxLmNvbYINKi5tYWt0b29iLmNvbYIPKi55YWhv
+b2FwaXMuY29tghAqLnlhaG9vbXVzaWMuY29tghAqLnZ6YnVpbGRlcnMuY29tghMq
+Lm9uZW1vYmlsZS5hb2wuY29tggwqLm1ha2Vycy5jb22CEiouaXNwLm5ldHNjYXBl
+LmNvbYIVKi55YWhvb3Nwb3J0c2Jvb2suY29tgg8qLmlzcC55YWhvby5jb22CEyou
+Z2xwLnNlYXJjaGphbS5jb22CGCoubm90ZG9uZWRvY3VtZW50YXJ5LmNvbYIRKi5u
+b3Rkb25lZmlsbS5jb22CESoueWFob29zcG9ydHMuY29tghIqLnlhaG9vZmluYW5j
+ZS5jb22CFyouYnJvbWFuLnZ6YnVpbGRlcnMuY29tghUqLmtub3dsZWRnZS55YWhv
+by5jb22CFyouYWR2ZXJ0aXNpbmcueWFob28uY29tghIqLmJ1aWx0YnlnaXJscy5j
+b22CCyoueWFob28ubmV0ghgqLnlhaG9vc21hbGxidXNpbmVzcy5jb22CCyouZ2Ft
+ZXMuY29tghIqLnRlY2hjcnVuY2hpdC5jb22CECouY3J1bmNoZ2Vhci5jb22CEiou
+bW9iaWxlY3J1bmNoLmNvbTA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUF
+BwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgOI
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAw
+hi5odHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc2hhMi1oYS1zZXJ2ZXItZzYuY3Js
+MDSgMqAwhi5odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc2hhMi1oYS1zZXJ2ZXIt
+ZzYuY3JsMIGDBggrBgEFBQcBAQR3MHUwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw
+LmRpZ2ljZXJ0LmNvbTBNBggrBgEFBQcwAoZBaHR0cDovL2NhY2VydHMuZGlnaWNl
+cnQuY29tL0RpZ2lDZXJ0U0hBMkhpZ2hBc3N1cmFuY2VTZXJ2ZXJDQS5jcnQwDAYD
+VR0TAQH/BAIwADCCAX0GCisGAQQB1nkCBAIEggFtBIIBaQFnAHYATnWjJ1yaEMM4
+W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGRAieQbgAABAMARzBFAiEA2EB6cpnV
+xDKbP4D8IuxurNenv1gE3TIH7LivboVrk44CIBCnywjYVGWGCxlp3BLAYkVO1i4C
+p+rYYNiZ0+KNWwm+AHYAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebgA
+AAGRAieQVgAABAMARzBFAiBg4Hi8YxcoqrryJ+K2XNDvD48G6oD4aM0QoipSsKPH
+vAIhAIWpaTHPrbdtu8VehYv9Rk81eZrbuSq+8+utmfDazmeDAHUA5tIxY0B3jMEQ
+QQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGRAieQQwAABAMARjBEAiAfo7DKza0d
+oljvM+jstpfMqtDnMqw3gjWhQoS29rJxKAIgXvDqQV1fa45bzGXVdi9ym92fJ6Y1
+ICaIqaCc5QMTID4wDQYJKoZIhvcNAQELBQADggEBAJ2f+HiwFB6oRPcixeuLGFXF
+qmNzBYb17yJ+R3eoHBsovsluSGn2OENfqQAEgjmNbaVi+GOjNZlIqlHLPRtTpZPU
+20qtJPTRTnC/otg828hxmnWr0/+NsiwBzzkSm3KiLUnmG1vpsq9VGsPCPt+6KPOn
+1435PEzrBHpYXAlFqVe+f77aUXrCUDwfIEEajq6KIGcvnlEJJ9BCp40pOSzWYswx
+EAe1ie/RMxk1oDQAi/Ix4zBFwjlPab8M416HBaMEwqF8J/uK4hkV/BhGuPOinJQF
+rVWXUt4BSuNQkQdAKgjlfj4uNGobq/CXOpJjBEVIYI88MY1COD27KcLzTyfpPTs=
+-----END CERTIFICATE-----
+subject=C=US, ST=New York, L=New York, O=Yahoo Holdings Inc., CN=src1.yahoo.com
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4255 bytes and written 383 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

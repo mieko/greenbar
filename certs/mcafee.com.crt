@@ -1,0 +1,112 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=McAfee, LLC, CN=platformoriginsplat4.mcafee.com
+   i:C=US, O=McAfee, Inc., CN=McAfee RSA Organization Validation Secure Server CA 3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Feb 29 00:00:00 2024 GMT; NotAfter: Feb 28 23:59:59 2025 GMT
+ 1 s:C=US, O=McAfee, Inc., CN=McAfee RSA Organization Validation Secure Server CA 3
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 3072 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Aug 15 00:00:00 2023 GMT; NotAfter: Aug 14 23:59:59 2033 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIVTCCBr2gAwIBAgIRAJ5KEOA4HNvvajWC/t3DQkIwDQYJKoZIhvcNAQEMBQAw
+ZDELMAkGA1UEBhMCVVMxFTATBgNVBAoTDE1jQWZlZSwgSW5jLjE+MDwGA1UEAxM1
+TWNBZmVlIFJTQSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVy
+IENBIDMwHhcNMjQwMjI5MDAwMDAwWhcNMjUwMjI4MjM1OTU5WjBiMQswCQYDVQQG
+EwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEUMBIGA1UEChMLTWNBZmVlLCBMTEMx
+KDAmBgNVBAMTH3BsYXRmb3Jtb3JpZ2luc3BsYXQ0Lm1jYWZlZS5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDYNw2ujmDBA/zv5VxLGVKt0N3wm2Nm
+fLumyXAz/07f7uvmtGxQU2aSgvK64ZK2L6F9gh4Dp+x758vzR7wH9Kva8aMTlzWN
+iYXZUhrygpW8/S0OBaN+4cKMreqDAqOZqRlVtIFl5oiK4P7QQ+53UN38HI6Iizy9
+/9jKJVjls9UUgXxj75rsvgvknWJiQDoHX9zaJfF5N73P2csO/7xhc+WXjan2phkL
+c1CWgg4ScG8NtzSRXiqRQCVqJQ0p3NPliEe8t85Vg4BuZTsrznW7Gy8zzGtjzzJ3
+UtzVq3xnQibnvGPmVdweZ0LSAmOwkdYsaUEzHHY66IjwK1pcwYnwDFuhAgMBAAGj
+ggSCMIIEfjAfBgNVHSMEGDAWgBSuuucHw3i0YewCuoiUlXdf02O0qjAdBgNVHQ4E
+FgQU52OKpnsWuaXrALcNTWayLiwWSWowDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB
+/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAw
+NAYLKwYBBAGyMQECAiswJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNv
+bS9DUFMwCAYGZ4EMAQICMFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuc2Vj
+dGlnby5jb20vTWNBZmVlUlNBT3JnYW5pemF0aW9uVmFsaWRhdGlvblNlY3VyZVNl
+cnZlckNBMy5jcmwwgYoGCCsGAQUFBwEBBH4wfDBVBggrBgEFBQcwAoZJaHR0cDov
+L2NydC5zZWN0aWdvLmNvbS9NY0FmZWVSU0FPcmdhbml6YXRpb25WYWxpZGF0aW9u
+U2VjdXJlU2VydmVyQ0EzLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2Vj
+dGlnby5jb20wggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB1AM8RVu7VLnyv84db
+2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABjfXe/1wAAAQDAEYwRAIgFzB/CguAkUuE
+16RLXSSLEkYa/9ty9I4vKvTEaiC4i5wCIAteti89YnhrSJSSM0hFHJlhVT4b8pxs
+8UAhw89IQ63cAHYAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+cAAAGN
+9d7/hAAABAMARzBFAiEAjrSvtFAMOdmgc8N5RAoddUNzp2M1dxJ6aP+j2FTCSk8C
+IDgMkdnkV/4CS8LsQAsJv35IqPSO+5DULrWJ45iCTRvLAHYATnWjJ1yaEMM4W2zU
+3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGN9d7/iwAABAMARzBFAiEAoC4LzkXEGlDo
+jIeGF0XV1FUjBOJhjBTtaUzVLASWCEwCIGh3oYsjb/6kIkAp1X3zS0jFgzqodDPy
+R1PBLxdB8GVxMIIBSAYDVR0RBIIBPzCCATuCH3BsYXRmb3Jtb3JpZ2luc3BsYXQ0
+Lm1jYWZlZS5jb22CFGNvbnNyb3V0ZS5tY2FmZWUuY29tgg9ob21lLm1jYWZlZS5j
+b22CEWltYWdlcy5tY2FmZWUuY29tghBsb2dvbi5tY2FmZWUuY29tggptY2FmZWUu
+Y29tghRteWFjY291bnQubWNhZmVlLmNvbYIbb3JpZ2luLWNvbnNyb3V0ZS5tY2Fm
+ZWUuY29tghZvcmlnaW4taG9tZS5tY2FmZWUuY29tghhvcmlnaW4taW1hZ2VzLm1j
+YWZlZS5jb22CF29yaWdpbi1sb2dvbi5tY2FmZWUuY29tghtvcmlnaW4tbXlhY2Nv
+dW50Lm1jYWZlZS5jb22CFW9yaWdpbi13d3cubWNhZmVlLmNvbYIOd3d3Lm1jYWZl
+ZS5jb20wDQYJKoZIhvcNAQEMBQADggGBAHqWN4V5V7jsVUDtuE10Aclc3az9Mg/r
+hYUx9b7IHnbAe/Y7fRqkGbokiHHCB0+FQ6NGjdjCr4l/chuGBS/7TcUgUgKoH8yB
+BZ99q//AytcNgYfm4wTxDXlpEpIaL69lxpKOjPQd2K5J/5lbTY539/K5U7Z7tBuc
+aMnc8Ro8/F9PQEZd/TbRNnXeb/AbTjrOKd5XibkiELUSOCg36swE44kx2ErDQLFk
+8f4cxHcwTRc5RZUxrytmoR+FYxYdLoL6WfS0y336Cbq+CqTv9EE9Gz9gRagZHAx5
+nMj1yvUkmkeh4sJZ1vvn2q9bNkGNiVSrAsUJmTgrcrP7bvfCxjiBdoo2VPC5CM3x
+09fZHDp4WNW1uzmy+D4N6JbT1EnHmY/eUGqqvZF/Y3PQlkvIo8tfc0lLsg6Ko/jL
+EcXy/F+r4R+OyCDouWJEP8WDGm8wGprf0Zy7Q309etBGGcqhDbsRocE3h5jVDIiZ
+Vsn62ncHgvgycF+A72daG1XQgle9WRGR9w==
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=McAfee, LLC, CN=platformoriginsplat4.mcafee.com
+issuer=C=US, O=McAfee, Inc., CN=McAfee RSA Organization Validation Secure Server CA 3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 6952 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 26287A34ED68B99CBF15619547CBEFAE17A0029392C9DF2F4E57FF2F95ECB905
+    Session-ID-ctx: 
+    Master-Key: A95448F834695D3709A0DD1D73B9396105E62804E44950C6103E4B19D7405A5719652DAE5D580FEEDFB6D1971531B2D8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 01 78 08 6b 5a d5 dc a8-93 bb ab 7e 42 cd 47 91   .x.kZ......~B.G.
+    0010 - 63 87 e9 b1 9b c3 6f 56-aa d4 27 ce a4 00 bb f2   c.....oV..'.....
+    0020 - b1 c2 74 bd ab 6d d9 17-72 44 c0 fc 23 d3 cb cc   ..t..m..rD..#...
+    0030 - 61 1b 2e f1 04 93 88 2b-e1 2e ea 78 b1 76 67 69   a......+...x.vgi
+    0040 - 83 53 dd 53 e4 71 44 ba-09 d1 31 e3 1c e3 de ba   .S.S.qD...1.....
+    0050 - 7d 2b a1 80 7c 68 b8 f8-06 5b 21 49 5d 33 dd 41   }+..|h...[!I]3.A
+    0060 - c9 35 4f f5 23 c2 9f e7-39 73 7a 06 ac b9 e7 17   .5O.#...9sz.....
+    0070 - 9d d1 70 91 e4 b5 15 45-8a 59 09 6d ec 5d 82 3a   ..p....E.Y.m.].:
+    0080 - 31 d5 6f bc 20 2f 33 c3-07 91                     1.o. /3...
+
+    Start Time: 1732697502
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

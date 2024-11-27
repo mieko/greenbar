@@ -1,0 +1,100 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=US, ST=Maryland, L=Ellicott City, O=Huntress Labs Inc., CN=*.huntress.io
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul  8 00:00:00 2024 GMT; NotAfter: Jul  8 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG6DCCBdCgAwIBAgIQBd5qXf0XM0Wm1nW56C11ozANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjQw
+NzA4MDAwMDAwWhcNMjUwNzA4MjM1OTU5WjBtMQswCQYDVQQGEwJVUzERMA8GA1UE
+CBMITWFyeWxhbmQxFjAUBgNVBAcTDUVsbGljb3R0IENpdHkxGzAZBgNVBAoTEkh1
+bnRyZXNzIExhYnMgSW5jLjEWMBQGA1UEAwwNKi5odW50cmVzcy5pbzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBANdv7bbSkviH/+sf28Ob9igezPMmjoDO
+FPqKmNHmIV/xSrKNvmorBloZtZeEysEB9UxrdEGYXXh+p5TeX2jrzwUozUx1AE2u
+ueQ5v+ruX9EPYS0rs+02w4cNGsoLQQGMpCdW7at+d3q8zmDF4BMAH3reiP2DraoF
+XWavknEAsKamUVRuFg8ArKM81A1u9CIfapIdeHTDmwzT29PKPvt1fmCnoI54HsIw
+X9L9KRHOCHtMbdp7UqcaPTopG/i6ALDOy04DBCx8zjq3m4VxdXFpcQ7lLw3nZGXR
+MOwSmzbtQsfNqA8olxvm2DPRJyEDI9uIsCXpxUTLB3gfkJRZYDNmZYMCAwEAAaOC
+A5YwggOSMB8GA1UdIwQYMBaAFHSFgMBmx9833s+9KTeqAx2+7c0XMB0GA1UdDgQW
+BBR4Wzviwrf5MuxAiRQTrLK/nNyuRTAlBgNVHREEHjAcgg0qLmh1bnRyZXNzLmlv
+ggtodW50cmVzcy5pbzA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIB
+FhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjCBnwYDVR0fBIGXMIGUMEigRqBE
+hkJodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JT
+QVNIQTI1NjIwMjBDQTEtMS5jcmwwSKBGoESGQmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0
+LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDCB
+hwYIKwYBBQUHAQEEezB5MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2Vy
+dC5jb20wUQYIKwYBBQUHMAKGRWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9E
+aWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNydDAMBgNVHRMB
+Af8EAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgAS8U40vVNyTIQGGcOP
+P3oT+Oe1YoeInG0wBYTr5YYmOgAAAZCTQkQxAAAEAwBHMEUCIHbvrvYM2wTS+SMj
+3/XZsHby46Z/M41bXoAoO+RwvZNqAiEAuWLuVEHHUdwRawRK77DBojaQYWNu63kp
+vMa4HjH9VNIAdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZCT
+QkOaAAAEAwBHMEUCIEw7eEpACcy4wB2+LqRM+V6aZ7+7oikIDg5wIsPO5C5QAiEA
+hTPP0umDzB6QDnNr8GHaZpCzseKForG1SHXcuxgFudAAdgDm0jFjQHeMwRBBBtdx
+uc7B0kD2loSG+7qHMh39HjeOUAAAAZCTQkO2AAAEAwBHMEUCIQDAoCGYP19h6G90
+42o18g32WVN/HjuBNGXwiODzQNnUqQIgEo/17L/YC2b37wkUPKsP5e5tNvY/sACs
++hrc0AHIIy4wDQYJKoZIhvcNAQELBQADggEBACUKHRjR3OXVtmcul21PqKK1wgI9
+Ly6qBMMYQNAYSFaeGhsP+9EP4185uJQh2ndF0PBHVJeeLsC9fLB9rBp3ZdPeyXjC
+3WwVo/sAJ0v8+3G/cKEva8pc6vvFwSkN3HRA0BsnRvEPU+WuHX9g7rP9KgjXWEwK
+QUGwJ9jLGzc2lIlsJJP58fPLdbez3yv0NaXMyolx2aWbOHrSEBfQa7OMfvqZiQaz
+bLrPsgD6bzlowLu93FTupxmskJHvH99RCJsUgq7ZFzdIS20eqkrRUkQLjOjv0sYS
+jeptotJ4XvsHknKfm1YMqkrSN/pMxPSPVtKxluMeOEnOg2eOXvvIZe2rVGk=
+-----END CERTIFICATE-----
+subject=C=US, ST=Maryland, L=Ellicott City, O=Huntress Labs Inc., CN=*.huntress.io
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4590 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 8AB37BFF71F3B2F194B25B07C6CA36060447408815B46B17AC2FEDBB2EC01954
+    Session-ID-ctx: 
+    Master-Key: 31BD3445A697E76BDFE538C29D02E374B49336A80A034889C253037F58297DF2F8973CC6F482E082622E06553CAA8D0E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 01 0b f0 2c f3 b4 0e d4-52 ed c3 87 74 a4 41 d6   ...,....R...t.A.
+    0010 - a2 6f 2d 6f 75 f4 d6 18-b4 fd 65 e5 e4 21 ed eb   .o-ou.....e..!..
+    0020 - d1 31 49 1a 50 df f8 ca-da 9b 52 97 84 8c 5b f0   .1I.P.....R...[.
+    0030 - 02 65 37 91 43 cd bb be-7a e3 4b 0d 9f d9 a1 29   .e7.C...z.K....)
+    0040 - 4d 30 05 bb 7c 6c f9 f9-44 60 55 50 10 47 8a e6   M0..|l..D`UP.G..
+    0050 - 0e 95 79 33 42 f4 4e 6a-e1 cf 34 30 e0 30 3c 24   ..y3B.Nj..40.0<$
+    0060 - f4 f6 8b 79 40 cf bc 19-94 62 02 76 d2 cc 22 9a   ...y@....b.v..".
+    0070 - 1e 1a 9b e0 70 04 bd 4c-af 42 d8 54 cf 10 2e b7   ....p..L.B.T....
+    0080 - 1c 30 da 51 71 37 bd 25-35 6c                     .0.Qq7.%5l
+
+    Start Time: 1732697327
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

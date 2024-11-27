@@ -1,0 +1,65 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Cloudflare, Inc., CN=sybo.net
+   i:C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Mar  6 00:00:00 2024 GMT; NotAfter: Dec 31 23:59:59 2024 GMT
+ 1 s:C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+   i:C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 27 12:48:08 2020 GMT; NotAfter: Dec 31 23:59:59 2024 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTzCCBPagAwIBAgIQClsYgCmr803PKRWnpfLLajAKBggqhkjOPQQDAjBKMQsw
+CQYDVQQGEwJVUzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEgMB4GA1UEAxMX
+Q2xvdWRmbGFyZSBJbmMgRUNDIENBLTMwHhcNMjQwMzA2MDAwMDAwWhcNMjQxMjMx
+MjM1OTU5WjBoMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQG
+A1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjER
+MA8GA1UEAxMIc3liby5uZXQwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATrJZPL
+yDqaaO0EBNZNWk9xE4VG/rB8TcsRlWKEAQelkztN9Je3yB1Wa1chfPrt939Cu3LJ
+7eTh6PNF604xpkZro4IDnjCCA5owHwYDVR0jBBgwFoAUpc436uuwdQ6UZ4i0RfrZ
+JBCHlh8wHQYDVR0OBBYEFB4WEUadtR72h4SCqaDqesFNNjdaMGQGA1UdEQRdMFuC
+DiouZGV2LnN5Ym8ubmV0ghAqLnRvd2VyLnN5Ym8ubmV0gg8qLnByb2Quc3liby5u
+ZXSCECouc3RhZ2Uuc3liby5uZXSCCiouc3liby5uZXSCCHN5Ym8ubmV0MD4GA1Ud
+IAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNl
+cnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCA4gwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMHsGA1UdHwR0MHIwN6A1oDOGMWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0
+LmNvbS9DbG91ZGZsYXJlSW5jRUNDQ0EtMy5jcmwwN6A1oDOGMWh0dHA6Ly9jcmw0
+LmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJlSW5jRUNDQ0EtMy5jcmwwdgYIKwYBBQUH
+AQEEajBoMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wQAYI
+KwYBBQUHMAKGNGh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJl
+SW5jRUNDQ0EtMy5jcnQwDAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkCBAIEggFu
+BIIBagFoAHUA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGOEaYQ
+5QAABAMARjBEAiAzsvKwL7O1sdSPjDrJKAXbXONWN6/P9ma4bxUtC2t/LgIgM8EY
+R3PHzQ672xIP/eF34zxxasrXDvZQFE6GMo+5qZsAdwDatr9rP7W2Ip+bwrtca+hw
+kXFsu1GEhTS9pD0wSNf7qwAAAY4RphB/AAAEAwBIMEYCIQCamJ4448MS68vRwqBf
+Q1F3l1GEF+A/DF3RNL7aC8HI2wIhAIFU9haPsd/0CFWwzxa0Bj2GYI5pSoClOJpS
+b12acaiFAHYAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4AAAGOEaYQ
+3AAABAMARzBFAiAej3te1vn6Z2jEhnG+1GOqYts9sRC7pQHXsfcU4oPLTAIhAIvk
+tpYqg/CtjbRWtIn0lmmibaeGr0z5qNuxAsLZw3tnMAoGCCqGSM49BAMCA0cAMEQC
+IH0oIBCoElQcl7GT1uoNbGyhutrrDfrwcfC/ghUz3YvDAiBQw44O8v3Dtrx3D8RP
+qAxvHcgBTCe8B0r1kKFeYZgEXw==
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Cloudflare, Inc., CN=sybo.net
+issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2655 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

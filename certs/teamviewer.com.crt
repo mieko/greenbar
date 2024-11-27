@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.teamviewer.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr  8 00:00:00 2024 GMT; NotAfter: May  9 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGODCCBSCgAwIBAgIQaoo93sWNT8jSpOMl0xcBDDANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTI0MDQwODAwMDAwMFoXDTI1MDUwOTIzNTk1OVowGzEZMBcGA1UEAwwQKi50
+ZWFtdmlld2VyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOIB
+Brfph1/yCg2SNpHQAOsceClvMhMRPEu9/ZNrJR0XME7LMdyg4HDzCyVdODHw/hsX
+uUol5LXqORmF86xXt38e6b9+KMmne/YL0sAQ/7A9h7q1V91BMDssVT/F0TN6XQpq
+9j2sABj2+8MsVLd85LJ0ytX5IKuQilBez2DqZfQp4BSCH3k0nyfIl9JO0ii5PYEJ
+r5LcWOHeav7j/KHg8/WzP9BC01ciNMRMGQg4V4OZZp3x1IoSOeyu8M4z/5AQYpiA
+IpCYPmNhIFrNwMPL2U4VuoMy3bUuPVA+Mnz1NYMQNArPnVgRopAZBn6Z2s6xVLi/
+r25ZdWM2pAe2hYeOjtECAwEAAaOCAwEwggL9MB8GA1UdIwQYMBaAFI2MXsRUrYrh
+d+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBT2HnLXENir2nyfZ80lh6Nvq+niAzAOBgNV
+HQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIB
+FhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEB
+BHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdv
+UlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcw
+AYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wKwYDVR0RBCQwIoIQKi50ZWFtdmll
+d2VyLmNvbYIOdGVhbXZpZXdlci5jb20wggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkB
+ZwB3AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABjr2RRmgAAAQD
+AEgwRgIhAIl6wdCyqE4jgk52ij4l5hMcwqLvyzTS4heU871CShPjAiEAmtphnArp
+HIW2DcK08wydJeV1iBrD3k3DiQzgjW5MBEEAdQCi4wrkRe+9rZt+OO1HZ3dT14Jb
+hJTXK14bLMS5UKRH5wAAAY69kUYDAAAEAwBGMEQCIGJTGwZWrKIG+u7kNCh1swF3
+J7/A+9whjuzNuFYvleHFAiB6DymZeIsM8CmvS5VYIReaY3zJfFgR2d8kc0UITtzM
+SgB1AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABjr2RRgoAAAQD
+AEYwRAIgBy5YRqIVvveSoqCwdTpt2KJZacMznKLOFC9Ww1Sc2rYCIDzNWtKx9hze
+Drcs93ENDtKCZlwtCtkntSTsvtuUK6r+MA0GCSqGSIb3DQEBCwUAA4IBAQBshxgG
+CMa/hJwIDUJ/B6hxsFBOdVPQNqOvFYkEohxRrrE94WFi0zdGy4WsUsWv8KDvWvCN
+DD3yFqqONtS9x/ddgFvlsjMWOvEtPocaZ319OB9QtebQwudB8INF2KHSzYZROROW
+jXFrbcS4MSopkC0pw9ZAhWsSRF9NNtqGFsOmXeX1sX7iBU8g3soBXkos+bCTZB5W
+r4CMgEgLLlcjuEwedoWbhTe1KPy49x0bnv0v3LbUD4wKDIB3iRpbZIPRX/XHi2AL
+HSqHqlzs8jaqaRsNvSDKB3+IQbk4YV+5Kbdtip9qg6MxRcDWrHyTnL+8cT/qkY4L
+I0/KTVk62ISVbGaK
+-----END CERTIFICATE-----
+subject=CN=*.teamviewer.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6205 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

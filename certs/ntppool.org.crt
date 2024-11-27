@@ -1,0 +1,96 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=www.ntppool.org
+   i:C=US, O=Certainly, CN=Certainly Intermediate R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  8 14:11:55 2024 GMT; NotAfter: Dec  8 14:11:54 2024 GMT
+ 1 s:C=US, O=Certainly, CN=Certainly Intermediate R1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 22 00:00:00 2022 GMT; NotAfter: Jun 21 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRTCCBC2gAwIBAgISd158fnqWO6w5CiPUjztqpxS9MA0GCSqGSIb3DQEBCwUA
+MEUxCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlDZXJ0YWlubHkxIjAgBgNVBAMTGUNl
+cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjQxMTA4MTQxMTU1WhcNMjQxMjA4
+MTQxMTU0WjAaMRgwFgYDVQQDEw93d3cubnRwcG9vbC5vcmcwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC2dmNdXlmZsf9wMmUemyarqHIqCa5PuY9c77pb
+eBQAPMaNqa+5Ocob0FbyVHeOXmelhtWisBUnRi1YeViNDDckoBXX7mTL4uhSyL7l
+u/VGobPI7I1ZRkfo1GY/cYNXjAa3CuZDUQrmv671cw3FH5OOP0s1NwaqMT5Dn9jZ
+Cm0yFyN1PKGpASvvvj1kKUmeSWXAzQaK9zrzm+dEnUIzWeF3AuCtHFzwPQPpd9GG
+9ze0a4RjAjmghkfgKv61upnos/a8I2fmzi0mgN9R9SEX42CyE/K0AZ8eRllMPKLe
+YZKJ5kZWdl9CrRfprW16InZiV69vUGPxlrGxrcfk7WDpMxPtAgMBAAGjggJYMIIC
+VDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFRKtUnoEkWVaihAIenk0IZwFio2MB8G
+A1UdIwQYMBaAFL2Xnd+h2BslmeMMBAaJZBLXZSTHMGUGCCsGAQUFBwEBBFkwVzAs
+BggrBgEFBQcwAYYgaHR0cDovL29jc3AuaW50LXIxLmNlcnRhaW5seS5jb20wJwYI
+KwYBBQUHMAKGG2h0dHA6Ly9pbnQtcjEuY2VydGFpbmx5LmNvbTBPBgNVHREESDBG
+ggdudHAuZGV2ggtudHBwb29sLmRldoILbnRwcG9vbC5vcmeCD3d3dy5udHBwb29s
+Lm9yZ4IQd3d3LnBvb2wubnRwLm9yZzATBgNVHSAEDDAKMAgGBmeBDAECATCCAQYG
+CisGAQQB1nkCBAIEgfcEgfQA8gB3AD8XS0/XIkdYlB1lHIS+DRLtkDd/H4Vq68G/
+KIXs+GRuAAABkwxTmKkAAAQDAEgwRgIhAKfZYHLcP5pf2+tiMDj1b66a38SWnN7X
+H+iGe07JUV8+AiEAvnoTzJCv4AJyXgY5b6HvricseU3zTDEv15Ec1JLtuhgAdwDu
+zdBk1dsazsVct520zROiModGfLzs3sNRSFlGcR+1mwAAAZMMU5ivAAAEAwBIMEYC
+IQC7sT4A3ejLaLDhi3ymUAVi8sBsmyIJKIXAdc1nM3EIXgIhALNsYRbfV9XyKk0F
+xhQbwavzDPNN8QtZ3MVlQNBdCYfCMA0GCSqGSIb3DQEBCwUAA4IBAQAV7ZXDomyP
+2wisLOpbapDEjIROS4Ls6nYehcNQRSHwbJKDxMAKkDgR0SWw5V3hWmzB6GZiGbm/
+Kb5epBwyt6iZ6MJTNl8agCVwjlHckQ1h3OOvkVWtVF7ebqEYvbvkthsMn7m3Ecta
+UsblsO7ZrENWKOGweLBFTy9JDnA2vyTW1SspBlyTEZTePOBrYH/nnxSZYYIYxaCu
+JslAiVumazbP6LtkTC4I1qv0M6kzmZoZIj9Tm/PF6xZFuRvhK1b/soURMDypPchE
+v59n7/hNfxa+ytWwxIoCNMr0nsU5farnopmBmJxLmBRSJIUnT0kgZjIEOT6QVg0q
+o+7ylI86TWSr
+-----END CERTIFICATE-----
+subject=CN=www.ntppool.org
+issuer=C=US, O=Certainly, CN=Certainly Intermediate R1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3090 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 8974F3EC6C9A41911C29417C6837AD26079B1581DE45CD607C4BE3905DF698DD
+    Session-ID-ctx: 
+    Resumption PSK: F5388F5479A67B7CA88094D2801AB02A3AD0C3A7768E1978E8958BEE5DC39D0B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - 16 af 0e 6b f2 dc 83 2d-02 4a fd b1 89 36 cf 8c   ...k...-.J...6..
+    0020 - b1 ae 6f 1a ed 3d a3 24-6c 76 50 44 02 fc df 45   ..o..=.$lvPD...E
+    0030 - b8 2b f6 df a0 f5 9e 99-b7 4c 51 1c f0 e5 1c 9e   .+.......LQ.....
+    0040 - 44 5f cd 08 8b 5b 6d 7d-89 4a 18 e1 e1 61 27 8b   D_...[m}.J...a'.
+    0050 - ff cb e1 27 d6 20 5f 34-23 a1 45 dc 8b 6c 01 6e   ...'. _4#.E..l.n
+    0060 - c1 44 cb 28 d0 04 90 66-21 67 bd 76 80 c5 09 ad   .D.(...f!g.v....
+    0070 - 47 8a b9 f5 94 b7 7a 55-e4 ef 8b 76 b4 0b af 06   G.....zU...v....
+    0080 - 00 85 94 1e 7c 63 3b dd-2b df 70 94 57 38 a8 7f   ....|c;.+.p.W8..
+    0090 - 7f b0 ff ce da 96 d3 3c-58 e0 f9 d9 4b df 55 50   .......<X...K.UP
+
+    Start Time: 1732697596
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

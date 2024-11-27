@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=bluecore.com
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 26 17:53:27 2024 GMT; NotAfter: Jan 24 18:46:40 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNTCCBB2gAwIBAgIRAO50Jg8F5LGpEvmyvTY2Z+8wDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IzMB4XDTI0MTAyNjE3NTMyN1oXDTI1MDEyNDE4NDY0MFowFzEV
+MBMGA1UEAxMMYmx1ZWNvcmUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEArEPguS0rekVVa19DOigIpYkMKqUph4PE5VSvrthctl8pjKJqWItw9UvM
+iRc+HM8Mf6N5y2MS7SipkuTmcMOLMevFwoMjPf32A9Ux2d/edkpLlFbuwYAHU1rU
++Gnc7FrgvmR5Ov6pz4QgeT6cyFctp9XW5TboIvvALCF7hJf/4UI/6dwjnGZrSMFY
+6uw+x12xyyhgmKenTI0o8UbCdBndf2mLMLbbRNQ6Gb3/JlFiqmkjk/toz7prnvCT
+RB39QLzziYvZQgidqTP7BgfjjhnldI+ztax2SptepDppYx71LQeecrca92BPEAmr
+2G17cx/DblJ9mayRoAwLJOkmKmvYcwIDAQABo4ICVjCCAlIwDgYDVR0PAQH/BAQD
+AgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FI2hJPcsoHLD1P+lbDteDMpWlWzYMB8GA1UdIwQYMBaAFMeB9f2OiNkAPE1jolAx
+JKDOI/4jMF4GCCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtp
+Lmdvb2cvcy93cjMvN25RMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93
+cjMuY3J0MCkGA1UdEQQiMCCCDGJsdWVjb3JlLmNvbYIQd3d3LmJsdWVjb3JlLmNv
+bTATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8v
+Yy5wa2kuZ29vZy93cjMvOXhVdkpDZU5TczAuY3JsMIIBAwYKKwYBBAHWeQIEAgSB
+9ASB8QDvAHYATnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGSyi0e
+fgAABAMARzBFAiAPb9RvLf86L1X5Rm6coJTniVov116AltWT0sC421zDTQIhAIE1
+kFLNGYHOf8VY7dy5So8ROyasgc0rKeJSOfy5EhwtAHUA5tIxY0B3jMEQQQbXcbnO
+wdJA9paEhvu6hzId/R43jlAAAAGSyi0elgAABAMARjBEAiBm5vH4LhYlsi7pelXW
+prKMgCr6wIwLUfiPsi4dle8ZdwIgRsUzaMo8GxmjdzWHae7yhAdKbGZyznBCLoJw
+8ETJIy4wDQYJKoZIhvcNAQELBQADggEBACpwGGN95gTVTHIbtYsO4J5yU4AYI9e8
+zc66+qnmFN3PCRXRsBkBV8RlDdFd3E+c0NCl7TdfI6JhcpU6sJPm50+HmhDgHGEn
+KzE+BE74qvjdbli61OpqxAh+SlZ9LGV0rDajdaw/E83aTqv0In8vPw+ZFMGGCKVA
+OdlhqZyJtlyVOg5qmwnKrNDVsJyE3rN1STvTKD7LbubN715uWqgbdPbdYctSvKos
+B44nhlInGix0nEo9GfhOxMWI3w9W9km7Vb5eB/ib4M4+PMy2s02yj307cfg3Ok24
+0x0UZKnZlzu+0YqPuHxb4ITkuqMxyjExXBgqkCzI5dcspOHEJPHwa3c=
+-----END CERTIFICATE-----
+subject=CN=bluecore.com
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4514 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

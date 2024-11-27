@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=ipify.org
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 13 05:59:28 2024 GMT; NotAfter: Feb 11 05:59:27 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDoDCCA0WgAwIBAgIRANNl7iKAK//pDnr1qXrMkrEwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTExMzA1NTkyOFoXDTI1MDIxMTA1NTkyN1owFDESMBAG
+A1UEAxMJaXBpZnkub3JnMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXZck/NEF
+rF6Cij9WreiK07jiXvK3s4cn6RP8BXhWfEiRA2KjdQY3pmQbbv7SvrRJQxQxPD32
+6Cgvy7w4Q3WotqOCAk8wggJLMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggr
+BgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBS2TqLZxwY1wXqTP+mXGCaJ
+O2hH0DAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEFBQcB
+AQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxLzAyVTAl
+BggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAhBgNVHREEGjAY
+gglpcGlmeS5vcmeCCyouaXBpZnkub3JnMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYG
+A1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9Vbjc5TG00LUtf
+cy5jcmwwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDPEVbu1S58r/OHW9lpLpvp
+GnFnSrAX7KwB0lt3zsw7CAAAAZMkUetvAAAEAwBHMEUCIAUnZJHR70hjX8hu2qPI
+rEcPOznBOS5B/2ufXjrRthliAiEA2WQDbZjFq8dfN4jwAB7W7Z8QmmeAPUn1e1gA
+LYRSIFYAdgDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZMkUe9g
+AAAEAwBHMEUCIGOgGhM+hZqDzHwUK+GjkfO0EAu5+SpIldWZoo3C0TKYAiEA50G3
+vRRIyQIMmWgpiZOb++Dnvw5XOxmdLRiRpPf1fuowCgYIKoZIzj0EAwIDSQAwRgIh
+AOMzOQOtE+eDKxmStbRU+vIHKYCobfB62bFiyvrMD1A0AiEAtwkYrrm5FrFczdqd
+FT3CQQywPkwIAg/ElbanVrvXfiM=
+-----END CERTIFICATE-----
+subject=CN=ipify.org
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2820 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

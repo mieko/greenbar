@@ -1,0 +1,80 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.colossusssp.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  8 14:24:37 2024 GMT; NotAfter: Oct 10 14:24:37 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jun 29 17:06:20 2004 GMT; NotAfter: Jun 29 17:06:20 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGnDCCBYSgAwIBAgIJAOj/YVCBSsvfMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTI0MDkwODE0MjQzN1oX
+DTI1MTAxMDE0MjQzN1owHDEaMBgGA1UEAwwRKi5jb2xvc3N1c3NzcC5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCPnw7JpGF+Y0sJxgioEXsxIaB7
+kC3Cs4p58mxkmct8OSPq7rH+TsgCrAvGgenHSfndb3cT97aiuC9u8YpH+sjRushb
+cHu8lcX63ZYtFF8oTMIefFJKcH4/Wu9SxI2dnQezWTTO3k2+nzJ+uMRWf/3xlFQp
+d9wO3YpkUsw+ccmr7oGFxa+AqRC8IgkHcsa7c603jMJkURKfT37kERRGAD+Z+5lL
+6kDQgMqbZC2UWFw/axAsLwVVw7a9cX7tdaRR1WliaagRNf/Yv6Fle2a8FA7q676l
+cmoAy4xXesHV8oxayLp+C/X0Yx5TAImHz9NjXlhazjhwspPPXn/pyg/AXzbHAgMB
+AAGjggNGMIIDQjAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAOBgNVHQ8BAf8EBAMCBaAwOQYDVR0fBDIwMDAuoCygKoYoaHR0cDov
+L2NybC5nb2RhZGR5LmNvbS9nZGlnMnMxLTI5OTc0LmNybDBdBgNVHSAEVjBUMEgG
+C2CGSAGG/W0BBxcBMDkwNwYIKwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0ZXMu
+Z29kYWRkeS5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQIBMHYGCCsGAQUFBwEBBGow
+aDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRkeS5jb20vMEAGCCsGAQUF
+BzAChjRodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkv
+Z2RpZzIuY3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz1/tss/C0LIDOMC0GA1Ud
+EQQmMCSCESouY29sb3NzdXNzc3AuY29tgg9jb2xvc3N1c3NzcC5jb20wHQYDVR0O
+BBYEFMgXI96LygDUimAkoxjDJKh2OBZKMIIBgAYKKwYBBAHWeQIEAgSCAXAEggFs
+AWoAdwAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZHSBdJIAAAE
+AwBIMEYCIQDwW8ZxJCMsQoTZ57bsD6j9+SbqALvznhtwluEdDEGCygIhAKRek3/9
+vLLnqOLMD3THDu1sCKcEGS8hGc3E9yX6EWvNAHYAfVkeEuF4KnscYWd8Xv340Idc
+FKBOlZ65Ay/ZDowuebgAAAGR0gXTOgAABAMARzBFAiAa1ZrxH9la6i5mhPfW6ghh
+9dOt9/PcbU/FkcmfOj3vWwIhAKCu00JZ6fgZFYvjWJpoNAyy5DNvIGYbeSbgdU8L
+Meq2AHcAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGR0gXUoQAA
+BAMASDBGAiEA31Q+p7ipycmaQW3r7JNrC99VO3AU447sOoYkw0++lzMCIQCs0y1C
+ZMPNafho6FRy13IIDi9yFQXC3lgP3iD0kyk74TANBgkqhkiG9w0BAQsFAAOCAQEA
+hFlD6+QUHSUozo3fe7X9ESsvZYfkP7/uexQrUt3fKbe1erK4OIkhvMHP1yGPNPox
+WYmM//TZ2JMnsTMk9CrDMc5xvztFvTsWjirNJ/USjEYSwJmo3M6RxHhunAaNQfXr
+VJR7jsDuQrhOEF/JsEXna7MEkVAVqImeOGSKThgfRwcSkS3TnvpN9fDnlo3DJ6LH
+y8QwU+1z9krYPhENHd2ONbJFXSex8w5HfK3S81XduQT3dDGy7M26USE9Znbkeojj
+rwRQ1POLqeZBKxU6AekW7JPA6N3edsHMmnYJl3iOPwgRmGfuylQnvEW3gId6xg0x
+Uq3ibNAYvYOt/PCKUbrNhw==
+-----END CERTIFICATE-----
+subject=CN=*.colossusssp.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5688 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

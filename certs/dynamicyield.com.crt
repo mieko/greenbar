@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=www.dynamicyield.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 30 00:00:00 2023 GMT; NotAfter: Dec 30 23:59:59 2024 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHRTCCBi2gAwIBAgIRAJLYz7SsU6CCo228sTVCSh0wDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMzExMzAwMDAwMDBaFw0yNDEyMzAyMzU5NTlaMB8xHTAbBgNVBAMTFHd3
+dy5keW5hbWljeWllbGQuY29tMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKC
+AgEAnFCHvXRAyIf7gFzLuZI/rdLqTcCYYuJoXYb+rtRTHRb0oYeJv9jEBhc9xWKU
+hfbDdR9lq+HX+3bAHxji/IFO6Eu/fY1K4/2pmNATr0xeZFrhGK0T7obwOTuwc51l
+pfY5X1Iqy6rR3R205mLEyFmmHK7ekAIlN0h21VwgJKZ5yOnK2K4pPm0xZXe6u58A
+SWxDs9eP79aBviUu3tRvD6eRU210KbfYbJodGgRJ/1p8csIUF8NAumxNOlbpecgm
+eQkMXJlMqjpJY5+QfU0v24daDmOVatugSXiUtEH0AEKFW66Il4wNEne4lMSfV2eU
+/dPyRKV2BU5nl7grqK3JJGWJjrZBOrrwKjp1VJNaFSRv7+pmBasfCc8ZGXdQlsiC
+NdPmrKHTvSpt4tPlJG5eJBkAzr0o7L2px+w+DN7ucTE94ZjuUK3GSgbhdWejbNio
+DhzxLWXavX6wZnESNyupQRpaP6FcZEa8KOnxxnWXK+LDR1yKrimE/um6XVCL2SJj
+Wm929aIG6cNX/PygmqVE12/gwxxhdKp2Q781X11gye3xF4LTBwx9vAibDyZhgxEC
+wqSvuOjVDk3AvPrY1MljUzjUVNaf5Yl7qUSEvJfjHIdfCK1CrMqz60O7HDcv+rLo
+GIWdsb78HD+rmABQb3WTt8WUE8u4QXQsC9m3H0uhJMf2XbMCAwEAAaOCAwkwggMF
+MB8GA1UdIwQYMBaAFI2MXsRUrYrhd+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBRf2RnC
+j5zpigeRDc1HvopuBiZ4dDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEE
+AbIxAQICBzAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAI
+BgZngQwBAgEwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2Ny
+dC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNl
+cnZlckNBLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20w
+MQYDVR0RBCowKIIUd3d3LmR5bmFtaWN5aWVsZC5jb22CEGR5bmFtaWN5aWVsZC5j
+b20wggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB3AHb/iD8KtvuVUcJhzPWHujS0
+pM27KdxoQgqf5mdMWjp0AAABjB+zvlMAAAQDAEgwRgIhAKA5TTtHByVsojlMRSOb
+XyCKMI65Zsux553Ihn/+Uew/AiEAwwmAbrpPQmFm4F1WmBrafP9LE2jXAJkNwmdX
+KdOBGJUAdgA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAYwfs77u
+AAAEAwBHMEUCIGuM1onftVQxXP/16955lOZcqDLdapvnAoI3iHMtINfQAiEA4ZK0
+RvwHP+2tqeHMOO2kISV7vTFm11/dT0nmbwTnq9sAdgDuzdBk1dsazsVct520zROi
+ModGfLzs3sNRSFlGcR+1mwAAAYwfs76BAAAEAwBHMEUCIEcs3acc5n1StjjoJMRI
+wbf46AGHWrOsdjPNO9VtDGSxAiEAoKAD2HOu2C15kt1l7oCEHkpTP3TlalHlpIiz
+hAjMjC4wDQYJKoZIhvcNAQELBQADggEBABizIwUSWapiujn0G0xn4NRwdzueZ65u
+r/uPbb/2rJzIcWNm+QmrW2yqRu9U18O6coGbm7qxbv5h2hz1SNoAjEFCvubCZV6k
+hqRdhgNX7PDOaRuzKpKll8GWGASaSRCl1Arx41fxPvs19Fd/KdVjZD65XtS4iXZl
+ciy4dEKMKlLa7OpscMvoHwqI90OUNrwKhk+FafLybDb15JajuC83woZhjkbm0BUu
+3oipJH/F/+tPSUr0W+vRwXzKeoBaIL0lSyC0qSnmHIiXQR79aowfqRn8cOAHq0r5
+Niz6ZxPGoadt3aPkBdfdfFjDhwJdqmFZXXXre7scEmopk4n72NXHRnw=
+-----END CERTIFICATE-----
+subject=CN=www.dynamicyield.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, secp384r1, 384 bits
+---
+SSL handshake has read 5821 bytes and written 799 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 4096 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

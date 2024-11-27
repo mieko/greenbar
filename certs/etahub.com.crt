@@ -1,0 +1,59 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=etahub.com
+   i:C=US, O=Let's Encrypt, CN=E5
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct 20 23:38:26 2024 GMT; NotAfter: Jan 18 23:38:25 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E5
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+ 2 s:C=US, O=Let's Encrypt, CN=E5
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDgjCCAwigAwIBAgISA2nwp+wI05i1cEXpkMG+6DLfMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NTAeFw0yNDEwMjAyMzM4MjZaFw0yNTAxMTgyMzM4MjVaMBUxEzARBgNVBAMTCmV0
+YWh1Yi5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQMKW792pTZV6RvNp86
+0rLIdLs87WJbwjHqUExEl0UXDCEgnbX2w2Lhxh9Z7qMizsQg4vA8deVJ8S+Hw7PX
+sbIho4ICGTCCAhUwDgYDVR0PAQH/BAQDAgeAMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTdMfMocjt9UGpYDraV
+XnhZUBVznjAfBgNVHSMEGDAWgBSfK1/PPCFPnQS37SssxMZwi9LXDTBVBggrBgEF
+BQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9lNS5vLmxlbmNyLm9yZzAiBggr
+BgEFBQcwAoYWaHR0cDovL2U1LmkubGVuY3Iub3JnLzAjBgNVHREEHDAaggwqLmV0
+YWh1Yi5jb22CCmV0YWh1Yi5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwggEDBgor
+BgEEAdZ5AgQCBIH0BIHxAO8AdQDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39
+HjeOUAAAAZKsgWzXAAAEAwBGMEQCIDN3YPlkxRC9vL2T5OrIAGefxW6GQq/dhH97
+PZ3sKCpIAiBWweSyRulbVvlpNyrkEvN6N5c8CTCrg1XtEtNgi4d78gB2AM8RVu7V
+Lnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkqyBbQoAAAQDAEcwRQIgPb3c
+6DbhzyjqejpFQrTD39YRbiqLjSk1tZuVhdbrjiICIQCPNhCyD9oSFDI+eDFIHaMR
+A68RZpNPQMsfSRA+ZkCwgzAKBggqhkjOPQQDAwNoADBlAjEAyqHAt0HuuYcr8BNy
+G/+Bw/4EFcLpSppuVK5viNyFWqUWXnk7kU4vinO0Q4pul5KAAjAyQ0Ap+7kVW8hH
+m82glbsgjfQZRWcHLXy60MqP3pYjnVfblkLaHv366S31qfqgaRc=
+-----END CERTIFICATE-----
+subject=CN=etahub.com
+issuer=C=US, O=Let's Encrypt, CN=E5
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3501 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

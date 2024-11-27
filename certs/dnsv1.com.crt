@@ -1,0 +1,112 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.cdn.myqcloud.com
+   i:C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia RSA DV TLS CA G3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jul 23 00:00:00 2024 GMT; NotAfter: Jul 23 23:59:59 2025 GMT
+ 1 s:C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia RSA DV TLS CA G3
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 3072 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Apr 20 00:00:00 2022 GMT; NotAfter: Apr 19 23:59:59 2032 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIczCCBtugAwIBAgIQWMnlnRUaT+7rYqjDL1QwBDANBgkqhkiG9w0BAQwFADBZ
+MQswCQYDVQQGEwJDTjElMCMGA1UEChMcVHJ1c3RBc2lhIFRlY2hub2xvZ2llcywg
+SW5jLjEjMCEGA1UEAxMaVHJ1c3RBc2lhIFJTQSBEViBUTFMgQ0EgRzMwHhcNMjQw
+NzIzMDAwMDAwWhcNMjUwNzIzMjM1OTU5WjAdMRswGQYDVQQDDBIqLmNkbi5teXFj
+bG91ZC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCQcTBgiPX4
+i9U7RmX4DIjsy8ieGUaZcYJyTXYHAVR/amnh5VtnFiKFBb3UtPfB/lQgbGWa4tc4
+TD1SOj0AWodmU8lxaSmk3mWaz1HdKSIUB5+GVCzQAVDtDQpYwww9r7Foo7spB9YX
+lEBchOg1+DTnIeCmGP1dg9wJ+5nMkvxI6uyl3HQ3Jxem6dM6g+J3LRHCHpnSwyi3
+FB4hjzKEp+NV+0ZvXQ8uSmbEp8weiHh0mTQKAIKorrAkJ9wJMueIR6MvVm44i1gB
+PbxJ1cIJsLrfkW6oUmscJAv3A1uLnyeV60bxFMhbqTe7JFSmHPiNRZwDXLnS/Bu3
+VOYLrlofoLJtAgMBAAGjggTxMIIE7TAfBgNVHSMEGDAWgBTI88UJGzOiX6YSq5DW
+ALZc/I0cBjAdBgNVHQ4EFgQUn8K+5wSEWUYeMOVlKxGo+2t5bh4wDgYDVR0PAQH/
+BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAjEwJTAjBggrBgEFBQcCARYXaHR0
+cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMH0GCCsGAQUFBwEBBHEwbzBC
+BggrBgEFBQcwAoY2aHR0cDovL2NydC50cnVzdC1wcm92aWRlci5jbi9UcnVzdEFz
+aWFSU0FEVlRMU0NBRzMuY3J0MCkGCCsGAQUFBzABhh1odHRwOi8vb2NzcC50cnVz
+dC1wcm92aWRlci5jbjCCAX0GCisGAQQB1nkCBAIEggFtBIIBaQFnAHYA3dzKNJXX
+4RYF55Uy+sef+D0cUN/bADoUEnYKLKy7yCoAAAGQ3kZtDgAABAMARzBFAiEA3A6N
+sr2Tye9g5MEx0govklRCn4Q6vvMrp4xMsd+zrX0CIGWPec+Y1EMuS7GH9aDhhNoF
+HLnMxgZUn3Lb50PKxZnUAHYADeHyMCvTDcFAYhIJ6lUu/Ed0fLHX6TDvDkIetH5O
+qjQAAAGQ3kZsvgAABAMARzBFAiAXUWCt4n+scPQKDKo6xCgwUfsq2G5JtT1wR1Wx
+R2U1uQIhAJBXYXznbXe6+KP7G2dOU1P763AYpUOib9CMYhyTINcMAHUAEvFONL1T
+ckyEBhnDjz96E/jntWKHiJxtMAWE6+WGJjoAAAGQ3kZsqAAABAMARjBEAiB/Ckwv
+3JbYG2UuB9tbdnOIDQYVfn6ekZ4PP4uqOq2XvQIgUnOw0YfQcsWk8TXjXJgIENnJ
+pX+yR0jBWVKbGOJS6ZUwggIhBgNVHREEggIYMIICFIISKi5jZG4ubXlxY2xvdWQu
+Y29tggkqLjIxNDQuY26CCiouMjE0NC5jb22CCiouNDM5OS5jb22CDSouNTA1NDM5
+OS5jb22CDiouNThjZG4uY29tLmNuggsqLmRhbm11LmNvbYIOKi5kaWFucGluZy5j
+b22CDCouZHBmaWxlLmNvbYILKi5mZm5ld3MuY26CEyouZmlsZS5teXFjbG91ZC5j
+b22CECouZmxhc2guMjE0NC5jb22CCiouZmxhc2guY26CFCouaW1hZ2UubXlxY2xv
+dWQuY29tgg0qLmltZzQzOTkuY29tgg0qLm1laXR1YW4ubmV0gg0qLm15a2VldGEu
+bmV0gg4qLnNvZ291Y2RuLmNvbYILKi51bmlxbG8uY26CFCoudmlkZW8ubXlxY2xv
+dWQuY29tghAqLnZpcC5jZG5nb3QuY29tghAqLnZvZC1xY2xvdWQuY29tghIqLnZv
+ZC5teXFjbG91ZC5jb22CEyoudm9kMi5teXFjbG91ZC5jb22CDioud2FueWFib3gu
+Y29tghMqLnpob25nY2hlbmc4MTguY29tgg0qLnpzZXJ2ZXkubmV0ghBjZG4ubXlx
+Y2xvdWQuY29tghRuaXRyb21lLmNvbS40Mzk5LmNvbYIbd3d3Lm1pbmljbGlwLmNv
+bS40Mzk5cGsuY29tghV4cGRsOTk5LmFpd2FuNDM5OS5jb20wDQYJKoZIhvcNAQEM
+BQADggGBAFKXrXqbR3VqOD2fucYcOXpnBQRhWYx6p5WOCVJpEb6iCG+WTVWg+v4v
+vJ4rYU6sVdhUxRp38iBh8DR2B4MhUEaezaTx2AKsNxCaJmfbwjTd7yawdL9o70hP
+XqWaa8ArJWZ8ETL9+osFDXLtwmwQsqZ8tOo86Ol46XlE8sYmi2BFpTHX6GKJYRQv
+3KBPvS8w0bCWAhuy77eJX4V7mpeu15PjvdmrBn3OFOSJo5XV/h7c+rdzS5/JRUJm
+8+qcbBmN8YWmxPDkY6aYFFooHEO1WSesQ7/1NS+Vr8hjTeXcmN0B/orpf1/TeRPF
+d12rfakV3g0VhvzKnWZqpDbhF/mIeozPdx19MWQFed1N828Cy1q3rXWtwS398wJG
+NJML2+EbAKNZcCN3wUK1H9IzxKF03xll0PTbHWHy01JyqeiMf3h4Fb93sjsLNzXK
+eaar1+dCuvok4yBnaYbA0R0Hw4eq+XHVf5LJcv8PbkM6RN+1OzaTDLJew1FyoQ0K
+uW8LW1nLdA==
+-----END CERTIFICATE-----
+subject=CN=*.cdn.myqcloud.com
+issuer=C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia RSA DV TLS CA G3
+---
+No client certificate CA names sent
+---
+SSL handshake has read 6630 bytes and written 638 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-GCM-SHA384
+    Session-ID: D18C409D6AFDCB4BADB513369150C83960DE37FE75EE09FE010E975A4B4462C7
+    Session-ID-ctx: 
+    Master-Key: A608B51BCF9BE6722EB196051CBEBDCC8A5AFBB3A14B1905B18C56C90C42BE95E05C1E6C4D6B3A9EFD4E7C50231B5373
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 6000 (seconds)
+    TLS session ticket:
+    0000 - e2 0b 51 46 74 9a 69 17-ee 62 b2 93 3a 80 8a f4   ..QFt.i..b..:...
+    0010 - ff fa 3e 2d a2 08 db 75-2d 0e c3 44 d7 14 96 3e   ..>-...u-..D...>
+    0020 - 39 d1 2f 14 c1 61 a4 6b-0a 97 31 89 07 01 a3 80   9./..a.k..1.....
+    0030 - f4 52 cd 72 9e 29 56 26-9d 84 1f 52 d7 3c 52 47   .R.r.)V&...R.<RG
+    0040 - c3 9c 1e 8a 93 13 4c 77-31 dc c8 c8 2e 9e 41 5c   ......Lw1.....A\
+    0050 - 05 5d d2 c8 ad 09 c5 c4-fe 9f 68 62 36 c7 43 ed   .]........hb6.C.
+    0060 - c4 73 ea 26 5b c7 f3 e3-ff 48 db db b4 9f 50 bc   .s.&[....H....P.
+    0070 - 7f 5e 71 7b 7c ee 87 35-0c f6 cb 90 f2 fa bf 9e   .^q{|..5........
+    0080 - 53 3c d2 46 1f 5c 55 05-da 0f 55 24 7d ef b6 18   S<.F.\U...U$}...
+    0090 - 9c 06 d0 2f 77 44 5f f4-be 97 2f 5f 8d 42 a1 ca   .../wD_.../_.B..
+    00a0 - 40 6a fb e0 c5 b8 ee df-21 3c 97 0e 92 44 e5 c7   @j......!<...D..
+
+    Start Time: 1732697149
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

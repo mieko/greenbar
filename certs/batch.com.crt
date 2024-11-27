@@ -1,0 +1,91 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=batch.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 25 00:26:10 2024 GMT; NotAfter: Feb 23 00:26:09 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5DCCA8ygAwIBAgISAzLB68R4rwG5fK84k2l+/4AhMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTI1MDAyNjEwWhcNMjUwMjIzMDAyNjA5WjAUMRIwEAYDVQQD
+EwliYXRjaC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCqriWV
+5mIrKJm3JHbwc0fOkR8gGmOzMyAuvfdTsgMe3cbSjxe7a/xuSs5Onh5RamT7HXMI
+UHNiBNDOpLhMVh3vx05y5g1xpuhOiA/5Xi0P/zzj6a/fo3n2F5lONlMX7eFg+MAJ
+woOi/PPY9c+nAo9YXxdSNBklcJ3v5Egcih4jqxFZmBj6a8gPJRcm5Va1XLwusizg
+trE7fMaxFyHNl1NYXmw6XzfKBUCwihM+O+EQhW2h5ZlqadEQHKC2vKFwXIIdH/8Z
+qRbijFSAvlJqZ8iMAg4r7hfQDTnK2LYoGmNPMdv3Y+V0NdD5bOTRcgcD9UH4ALvl
+mJtW/Njhq0aOpPAZAgMBAAGjggIPMIICCzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FMiEcqoPaCse/SmyBfCtW0PTyVcWMB8GA1UdIwQYMBaAFLu8w0el5LypxsOkcgwQ
+jaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMC5v
+LmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxlbmNyLm9yZy8w
+FAYDVR0RBA0wC4IJYmF0Y2guY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBgYK
+KwYBBAHWeQIEAgSB9wSB9ADyAHcAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJb
+d87MOwgAAAGTYOu1RwAABAMASDBGAiEAhgdXTBAafbm/enDRnK2QdM9HKCurs3NS
+k6nR8Bdx2yYCIQDXkLxAVl8bg+Gwco0W26WXK2DLqEnTPDUn6M9EgEftHwB3ABNK
+3xq1mEIJeAxv70x6kaQWtyNJzlhXat+u2qfCq+AiAAABk2DrtswAAAQDAEgwRgIh
+AKFrofUkpp6D4HBMSbzS8KTmY8h/MnGyCqdhNVHP8tU/AiEAsI4cGz1jfOqx+i+Z
+KzeDCXTBb2hhw9emZERGDj1/WHAwDQYJKoZIhvcNAQELBQADggEBAKNfOFQ/lskl
+b4CL+sFfNUnZxbO/sI13hA779cvUBQOq8A7kd2KTCRnW75FMhuSGFc1m39eSxJCC
+WQkFt6EZFE1f+tUNjoBp7REB+l4wF7mXe9QpRlj+4BDc4WBFPjnF8zPgPDZOJhjx
+JHb9jGbhzZAFxI/qDgJt+QByuvNtM8dAsU228QnFpn5HhlxXRJIq6phWgSwj8ojw
+lsqRnc4S4AFousZTEJZSPpYH8dP2LMXy16izpwa7tsLe6KhDGLh4iaF+VgxbyHOe
+R2YZO58V5JiIuJt4nJOCl76jiK/Z9HfsMcooChT+pflnApNST8KIoFBm4qrqwRHz
+dAu3HAICzTg=
+-----END CERTIFICATE-----
+subject=CN=batch.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3090 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: E6F2449B01E3B3CC765B63A47AD74F5529AF4310FF55AD1711BEBAFA50C0CC9C
+    Session-ID-ctx: 
+    Resumption PSK: 9781F5A3736210705FE07CE7FCEB9D8D2854EBB435486A389F507ED98B1B4751
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 1b be 0e 5a a0 fd 5a 6f-51 22 7c df d5 a1 21 e1   ...Z..ZoQ"|...!.
+    0010 - f3 af 34 88 66 a6 ce 67-09 2a 08 64 c4 61 e2 32   ..4.f..g.*.d.a.2
+    0020 - de b3 6d 3a d9 43 e7 8b-0c 31 b1 f3 d2 46 4a 24   ..m:.C...1...FJ$
+    0030 - 0c 29 ee de c4 21 39 1a-bd 8c 0c 35 30 71 67 e4   .)...!9....50qg.
+    0040 - f3 c6 ea 0c 56 66 08 2b-4d ba 3b 71 37 b8 b3 6a   ....Vf.+M.;q7..j
+    0050 - e7 68 42 c3 38 ec b9 57-3b e4 4d 65 8d c3 d9 b4   .hB.8..W;.Me....
+    0060 - 65 93 74 7f b3 29 ee ee-d5                        e.t..)...
+
+    Start Time: 1732696996
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

@@ -1,0 +1,91 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=brightcove.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 25 18:39:54 2024 GMT; NotAfter: Feb 23 18:39:53 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6zCCA9OgAwIBAgISA+DyjDdoixKM05UdBEldkwvqMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTI1MTgzOTU0WhcNMjUwMjIzMTgzOTUzWjAZMRcwFQYDVQQD
+Ew5icmlnaHRjb3ZlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AMyUs6mp4sCdQS7lN2ha5FMvG+gnCeiX5Z2EWXIMO4HDDRgXfsu4MIOHNvk+13k2
+lgF+6B7zgzc9tLMsWpEypI8OjTa6+WONfW7e3ppCYEgNvCDsciyEQooOVXV53Bg/
+3KGCKOCytNB7A0T1pdRedJ+ahh84Wqyp2UDcgS3ykFaFVZhKEVG8rFe75zZLXt0t
+UDMrUgj72uF+fjsbwo/pTf9BIwOuZR8FnszWivdbyyYTMAJLh1tbRyPvHBn0cvOC
+jl3Eu2pgK7KfMYIAHpwuPzYLF+j0sYoDshgNi3v9HD6gQ9BuyBr+ithj9/bVwAFx
+QgWqNJ+ZNaXnNxwF1dvc3z8CAwEAAaOCAhEwggINMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUMU3zO6EPRMR0WAokHPcmB+c1EUgwHwYDVR0jBBgwFoAUu7zDR6XkvKnG
+w6RyDBCNojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8v
+cjEwLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iu
+b3JnLzAZBgNVHREEEjAQgg5icmlnaHRjb3ZlLmNvbTATBgNVHSAEDDAKMAgGBmeB
+DAECATCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AObSMWNAd4zBEEEG13G5zsHS
+QPaWhIb7uocyHf0eN45QAAABk2TVDvIAAAQDAEcwRQIgLMHSKWwKJk4ONj/9M+U/
+nJZ4GZbdwhKFcxfUnp8txZ0CIQCBtiWJxfHEq75ghf1xR8MNmcxIM+ZNCOjyo5Oa
+D2fL1AB1ABNK3xq1mEIJeAxv70x6kaQWtyNJzlhXat+u2qfCq+AiAAABk2TVD94A
+AAQDAEYwRAIgSXVxn/6K07YIYg6fnZKSQUE/qEMuuKCQ0lO6m5b/RE8CIGRIa4gG
+PUjgl/kQ64HTY0HT5BlpR/ZMz2dx7SFCw+RFMA0GCSqGSIb3DQEBCwUAA4IBAQCQ
+1wOgbsdTNr1ga3abqSV14gM6y+ZOUdkgy4qau3uBnNumZ/9nPPdxnc9VIk1WW7qe
+cwLwr5tjPrYOOj2h2jBVCXvotHalhE3OmJ4p8altsY9/ok4nQemAmsmpVh0beGs5
+CjDkvOpUIDQancqRhoo/qks+p57D//VuV2qgLWJsqFwqUZM9fG6xUocnYeGSy++p
+2VcB4/fnDs0YGhKFGoVpVtYsu8XZpyKvx1z3hkgDW23/w1fmf732URDuGk8hBYz/
+Il9/nhJaG3+9IofGT7uMMGu/3jGKXYMIZ/kZ6zBfCwtvFsdes7sgzMEo1dfVJ9Vl
+n6U22MmWDSxvVII0Nq+B
+-----END CERTIFICATE-----
+subject=CN=brightcove.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3097 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 85F594D24243234EC5C217D76848BBF5766171BDAC7F042F257FBE2A5F5DAFEF
+    Session-ID-ctx: 
+    Resumption PSK: 1B9A3CCD88440DBCA145E9F20511B524454D8F7F93C14E32D9EA0903674AE0AC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - e6 58 08 71 16 99 af 44-96 43 5d a2 c7 80 ba bd   .X.q...D.C].....
+    0010 - 17 3c 59 5f ca d7 c1 2e-80 13 42 f6 c7 37 16 25   .<Y_......B..7.%
+    0020 - 3a 4c eb df b9 fc 15 6d-5b 20 99 90 cc 00 86 31   :L.....m[ .....1
+    0030 - f1 00 50 cf c0 71 b6 09-25 e4 a7 27 ec dd 93 6c   ..P..q..%..'...l
+    0040 - 76 61 1c 74 57 bc d6 69-b3 9b d7 94 80 0a 74 36   va.tW..i......t6
+    0050 - 9e ec 5e 0a 69 2d 74 e3-a8 41 b9 bf eb d1 31 97   ..^.i-t..A....1.
+    0060 - 34 1a 8b d6 c0 49 7f 1a-9c                        4....I...
+
+    Start Time: 1732697027
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

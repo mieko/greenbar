@@ -1,0 +1,85 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=lencr.org
+   i:C=US, O=Let's Encrypt, CN=E5
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct  8 15:33:56 2024 GMT; NotAfter: Jan  6 15:33:55 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E5
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDzzCCA1SgAwIBAgISA8s5uU5LLudMX/qXx2Fi3LKAMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NTAeFw0yNDEwMDgxNTMzNTZaFw0yNTAxMDYxNTMzNTVaMBQxEjAQBgNVBAMTCWxl
+bmNyLm9yZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABDmzC2F0U7Y51+frBZNk
+mJYdXksUAU+OHCVuCtEZu8MoKFGEfZax/hkJDmjV9Z87+JVypHH1VCWNWlhzLWRL
+14+jggJmMIICYjAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFAPKq53PnsJfJaWFupMY
+fPr3WIhRMB8GA1UdIwQYMBaAFJ8rX888IU+dBLftKyzExnCL0tcNMFUGCCsGAQUF
+BwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL2U1Lm8ubGVuY3Iub3JnMCIGCCsG
+AQUFBzAChhZodHRwOi8vZTUuaS5sZW5jci5vcmcvMG8GA1UdEQRoMGaCCWxlbmNy
+Lm9yZ4IPbGV0c2VuY3J5cHQuY29tgg9sZXRzZW5jcnlwdC5vcmeCDXd3dy5sZW5j
+ci5vcmeCE3d3dy5sZXRzZW5jcnlwdC5jb22CE3d3dy5sZXRzZW5jcnlwdC5vcmcw
+EwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwA/
+F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAZJs+Yz4AAAEAwBIMEYC
+IQCoFGuTXFv3aL9BRYtTh9xtHETIupGWvN8mH9NBfkvQxAIhAMVnMCUPwA1Q017h
+nNagnerXm7aBo2g0C6omMaNH6CVEAHUAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ys
+AdJbd87MOwgAAAGSbPmNNgAABAMARjBEAiAiqgDKWthEqTVoeBu/yaJf+Sz3XNuU
+ruDpcsMV78Gg8AIgM4F+TxV56CeC+CKj10mNYHuN9GidCbcVAbiCLo3sKakwCgYI
+KoZIzj0EAwMDaQAwZgIxAIEhOBvgyEGsJjWAV+BXMDKSjPKTbzF8AcuKeKpXHa8p
+Mj2qsDBQ7dIGaOumtXhSgAIxALi/YI5V1ZZrxOHFvsDEet+Bp+yeq4qYDOh742j5
+BP24cQ0CFircUS9Mx/3KfW730A==
+-----END CERTIFICATE-----
+subject=CN=lencr.org
+issuer=C=US, O=Let's Encrypt, CN=E5
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2454 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 5423D8916C6F48B0866DE08ED2E6D283EA772D84177A40AB51209A91998F55B9
+    Session-ID-ctx: 
+    Resumption PSK: D16274CAA0872CDD9204E90755F6A9F7D269F37E199758811BA80FDEA7068C11
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 77 c2 67 74 42 6b 93 d5-88 8b 1c c3 ea e9 a7 d2   w.gtBk..........
+    0010 - fd cd b0 d8 4d 83 5b dd-9f 75 f4 7a 58 14 18 40   ....M.[..u.zX..@
+    0020 - 80 8c d5 c7 45 9d 16 e9-1b 74 2b fb fe 5d 1f a2   ....E....t+..]..
+    0030 - 20 87 ff b5 03 1a bd bb-0d 60 63 c4 5e 98 45 57    ........`c.^.EW
+    0040 - b4 23 2c 40 9d d0 0c 0a-2d d9 50 96 23 66 6e 97   .#,@....-.P.#fn.
+    0050 - fb 44 8c 66 e1 df 83 2a-1b 3e c4 e8 02 d9 c6 50   .D.f...*.>.....P
+    0060 - d8 32 9e 8b 71 5d 9b 90-72                        .2..q]..r
+
+    Start Time: 1732697458
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

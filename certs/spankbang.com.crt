@@ -1,0 +1,56 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=spankbang.com
+   i:C=US, O=Let's Encrypt, CN=E6
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov  6 21:56:39 2024 GMT; NotAfter: Feb  4 21:56:38 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E6
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDqDCCAy2gAwIBAgISA3g3EJgyTms6l7XomuYC/NevMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NjAeFw0yNDExMDYyMTU2MzlaFw0yNTAyMDQyMTU2MzhaMBgxFjAUBgNVBAMTDXNw
+YW5rYmFuZy5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAROWlomS+IkLWcO
+QgTd43WfIPeyzoAhAQBt6f+qwqs03iAwxXHi3hjfdBoNk6TY7T+CGq2OY2Ivy5ZN
+2L6XT9axo4ICOzCCAjcwDgYDVR0PAQH/BAQDAgeAMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSiI3c7zHoYn/QD
+h/cKz6NEv04aJDAfBgNVHSMEGDAWgBSTJ0aYA6lRaI6Y1sRCSNsjv1iU0jBVBggr
+BgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9lNi5vLmxlbmNyLm9yZzAi
+BggrBgEFBQcwAoYWaHR0cDovL2U2LmkubGVuY3Iub3JnLzBDBgNVHREEPDA6ghgq
+LmNvcmUtc3lzLnNwYW5rYmFuZy5jb22CDyouc3BhbmtiYW5nLmNvbYINc3Bhbmti
+YW5nLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATCCAQUGCisGAQQB1nkCBAIEgfYE
+gfMA8QB3AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkwOwW8IA
+AAQDAEgwRgIhAIHD1bRClfyWHBBzKeIwf3qfqAtC8Aa35OWx7NSX4qBMAiEA1JEa
+yUvuIjTAAOCA+OenQ0bkv+ui/3WOiC6pmSfkij0AdgDgkrP8DB3I52g2H95huZZN
+ClJ4GYpy1nLEsE2lbW9UBAAAAZMDsFvJAAAEAwBHMEUCIA9aJL/AAEgNk1O+j0+y
+CdKPxpeVCIIm1LR1FhvcVIQAAiEAhoi4KvJg4lyqLA+LkBjqDwu+VXiM/jwehaEN
+kc8gWUQwCgYIKoZIzj0EAwMDaQAwZgIxAKlbvug1WARp1Q0Z0xE4yvlWsp/IU8YA
+o/zEE+PRZBQ2q5O/AV8GvagnzQ9tpbqZxQIxALvz3ZoYSa9O7McP+6HIGYOjbJuh
+QfGHGR2Qym5w/4YeeiMZxASHIHhW3dzsho/DLw==
+-----END CERTIFICATE-----
+subject=CN=spankbang.com
+issuer=C=US, O=Let's Encrypt, CN=E6
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2370 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

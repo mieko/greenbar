@@ -1,0 +1,61 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.capcut.com
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL ECC CA 2018
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: May  7 00:00:00 2024 GMT; NotAfter: Jun  7 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL ECC CA 2018
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  6 12:24:03 2017 GMT; NotAfter: Nov  6 12:24:03 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIElTCCBDugAwIBAgIQDiVdS87+su22kNZZGNEd9jAKBggqhkjOPQQDAjBeMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cu
+ZGlnaWNlcnQuY29tMR0wGwYDVQQDExRSYXBpZFNTTCBFQ0MgQ0EgMjAxODAeFw0y
+NDA1MDcwMDAwMDBaFw0yNTA2MDcyMzU5NTlaMBcxFTATBgNVBAMMDCouY2FwY3V0
+LmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABClFTQsE5JTMK+w9ecxB3bKy
+dFbKvxHg4S3Ptv6mz8nJO9syr/y6GG932GABvNvyOfDlKze/LDd9dHqbDXHxHA+j
+ggMgMIIDHDAfBgNVHSMEGDAWgBRCYLWzSU6610OoPWjn1ZokJflm0zAdBgNVHQ4E
+FgQUsj0/XVC8/SzZrRU0V3t2r8D2wxUwIwYDVR0RBBwwGoIMKi5jYXBjdXQuY29t
+ggpjYXBjdXQuY29tMD4GA1UdIAQ3MDUwMwYGZ4EMAQIBMCkwJwYIKwYBBQUHAgEW
+G2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCA4gwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMD4GA1UdHwQ3MDUwM6AxoC+GLWh0
+dHA6Ly9jZHAucmFwaWRzc2wuY29tL1JhcGlkU1NMRUNDQ0EyMDE4LmNybDB1Bggr
+BgEFBQcBAQRpMGcwJgYIKwYBBQUHMAGGGmh0dHA6Ly9zdGF0dXMucmFwaWRzc2wu
+Y29tMD0GCCsGAQUFBzAChjFodHRwOi8vY2FjZXJ0cy5yYXBpZHNzbC5jb20vUmFw
+aWRTU0xFQ0NDQTIwMTguY3J0MAwGA1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5AgQC
+BIIBbwSCAWsBaQB2AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAAB
+j1HRk64AAAQDAEcwRQIgKhVSn2UXVo2iHSvIPIkyB7/8EFbbM74NfBPVHep0RVwC
+IQCQJlhvwyaUE3aB6Hnd36We8dM0zkNcS6+8qwqAwGWxOAB2AH1ZHhLheCp7HGFn
+fF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABj1HRk+oAAAQDAEcwRQIgL5OFsQ8hF2xh
+2+eKky3a092YkucrjMlXqCyIGTGi5h0CIQDmRMEqf9fTVgpcBZnRcq0xpC3oOwSl
+OBj9jAdvbLliLgB3AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAAB
+j1HRk/sAAAQDAEgwRgIhAN/RDhgo2sYbDgwdnASbiTR0mJokev2fJMW0AtPWO9iV
+AiEA6/KvKbwBnDnfmDDWuHczq8a3Lb6kQ8xfTE5jC2AjpF0wCgYIKoZIzj0EAwID
+SAAwRQIgBLOQvzoeb68NScIPELVRE6+h4e3fvb7JehkgXQ5KcxQCIQDxDG5D5xzu
+CynyLu6mrceI0ttIimswIU5dzRMl3HX+pw==
+-----END CERTIFICATE-----
+subject=CN=*.capcut.com
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL ECC CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2568 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

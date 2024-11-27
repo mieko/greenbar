@@ -1,0 +1,93 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CN, ST=浙江省, L=杭州市, O=中移（杭州）信息技术有限公司, CN=*.komect.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 12 08:54:28 2024 GMT; NotAfter: Jul 14 08:54:28 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jun 29 17:06:20 2004 GMT; NotAfter: Jun 29 17:06:20 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG/TCCBeWgAwIBAgIIGvaRwuAfPgIwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMjQwNjEyMDg1NDI4WhcN
+MjUwNzE0MDg1NDI4WjCBgTELMAkGA1UEBhMCQ04xEjAQBgNVBAgMCea1meaxn+ec
+gTESMBAGA1UEBwwJ5p2t5bee5biCMTMwMQYDVQQKDCrkuK3np7vvvIjmna3lt57v
+vInkv6Hmga/mioDmnK/mnInpmZDlhazlj7gxFTATBgNVBAMMDCoua29tZWN0LmNv
+bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALgQ3fh8pvHAn7NCkZxJ
+q1VygM8DWR7qCZS55bMqaqceFdrly+bB+80WKfddXncD1pUKQ77SNsEZyC1DT+Ei
+mOro8GITVl/iuZc6QtDM/ZeXnKDSrvxGL7j5EvOUYYAG1WEvZLzNptImWFoAZFF7
+h9+HmyZGWiEsCaDrunGNCJpwtborMkH8om6usa3SNaAdM9eKVzrX6yEc+AN3FcoY
+/HQxz9rV7b3E4xjVoAkJRyuzihb0ITyYabFYuLI6u4UIlOEhf0SCr7W4KCKepuwS
+Lg2MzVRiiuIRgZUqIzI8Oi5ta51mDYoaPxCz1bHiNCKvXqKdAMj6EePFtEkYgw2k
+5lMCAwEAAaOCA0IwggM+MAwGA1UdEwEB/wQCMAAwKQYDVR0lBCIwIAYIKwYBBQUH
+AwEGCCsGAQUFBwMCBgpghkgBhvhNAQIDMA4GA1UdDwEB/wQEAwIFoDA2BgNVHR8E
+LzAtMCugKaAnhiVodHRwOi8vY3JsLmdvZGFkZHkuY29tL2dkaWcyczItMzkuY3Js
+MF0GA1UdIARWMFQwSAYLYIZIAYb9bQEHFwIwOTA3BggrBgEFBQcCARYraHR0cDov
+L2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzAIBgZngQwBAgIw
+dgYIKwYBBQUHAQEEajBoMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5nb2RhZGR5
+LmNvbS8wQAYIKwYBBQUHMAKGNGh0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRkeS5j
+b20vcmVwb3NpdG9yeS9nZGlnMi5jcnQwHwYDVR0jBBgwFoAUQMK9J47MNIMwojPX
++2yz8LQsgM4wIwYDVR0RBBwwGoIMKi5rb21lY3QuY29tggprb21lY3QuY29tMB0G
+A1UdDgQWBBQFlcp3bINcQRB28YU7+JkTZNny0jCCAX0GCisGAQQB1nkCBAIEggFt
+BIIBaQFnAHUAEvFONL1TckyEBhnDjz96E/jntWKHiJxtMAWE6+WGJjoAAAGQC6fk
+TwAABAMARjBEAiAXfIDGFwiivOGvADqfZx0yjVuQEz5TFF5h5EeW7pdI6AIgEf8p
+ibzOQYTBYjw209o5W1lHrI5VIf4FdVMGo8HdOlgAdgB9WR4S4XgqexxhZ3xe/fjQ
+h1wUoE6VnrkDL9kOjC55uAAAAZALp+ViAAAEAwBHMEUCIQCPIZjCTmwr+K1mYdMR
+9Xw3sgCkUdM5fk4arPEANzOxEgIgbpaMG260ouplXXH1XVCYZtMO4kWOJr407WxN
+BFATteIAdgDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZALp+XS
+AAAEAwBHMEUCIQCtbd8ORxQGsL5FIISWJhRv1Y6AU4cdVXkct23DBcOMvQIgSEE1
+Fo6nYwCclXKE9oPQ7oB/RtUW4MGSaVYSfrW8j7MwDQYJKoZIhvcNAQELBQADggEB
+ADJ0Rx0JI9JVKEDM+XgTB2ybp5fPOstcYt+2K/bY771G0AV6b+U9ih+iReW6+RTu
+I7QUmpS/WW22pKmWI9GW0RK3Dyy99F2ZkcZ5P7L3SMPdCoHeVdVQ4rM4MV7EyP/P
+KabysGu7KUa1apZfaxLxiGMczuFJtD6+QQXIPyOmsVDyh6i5of0M+2L4jsI82r8G
+cynBFdHv4wbXb8XF/yI6jlgmEUH6Q4HnR6dwRu7DqrGd0YqAAituqMXZuxwHxn7o
+H+sr9noHcqYpOf8JS0Bh01qvVuaSyLuvFPGi6H8Gq3zwdbN1KZNgsj8d6aAGpTHf
+gzMDpu4cROtvCAKkswmBiEc=
+-----END CERTIFICATE-----
+subject=C=CN, ST=浙江省, L=杭州市, O=中移（杭州）信息技术有限公司, CN=*.komect.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5732 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 2EB491AF43B8C45397FD9D002881EC5B927FE44B58C37E1F3166CE20FA113C6B
+    Session-ID-ctx: 
+    Master-Key: 5BEA620A51D7B27BECC1BE9153549603411E28DB0E15698BEFE59F6016F6EB95EDC68AFB30C2C29F36AC099C3164C604
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697410
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

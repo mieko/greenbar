@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=seedtag.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  4 10:30:05 2024 GMT; NotAfter: Feb  2 10:30:04 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5TCCA82gAwIBAgISBEtbzuCpw4RaF986FIN1AfqnMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTA0MTAzMDA1WhcNMjUwMjAyMTAzMDA0WjAWMRQwEgYDVQQD
+EwtzZWVkdGFnLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOix
+0bsn/eKePtWZrgPzcrSkvcEFJ4t7QzW3SK+w6ON9MC2p8C1TWcdHq/DH/VjIhpnm
+ZysOn6IznUMwQh5pR+J0KjznlQBscWP/YBXaGqtUiBYpGQzmlrLnsCBuwKg4GI1k
+m6BcTCT64bogbzPebQYE5cFt+GecDhQJQDrWulOh5K/6tzMD9LA/y2kfMl348pBR
+JNYgiiWxUckdiAiYtQbyWE2dYsN8hf3mt7zWTyVDo9A4WnBXMczNM4PZNqYYxQwH
+EpxDqOwRb15JKjsRfE5x4ZwQJ2kMeGp4gRiPwC+Qros5aVGXjWgrr6ig3RS5LqDN
+dUqcDyw88TJzoHNraEsCAwEAAaOCAg4wggIKMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQU5EerfELwm7Bk0GfOV/VOkIdkzKswHwYDVR0jBBgwFoAUu7zDR6XkvKnGw6Ry
+DBCNojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjEw
+Lm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iub3Jn
+LzAWBgNVHREEDzANggtzZWVkdGFnLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATCC
+AQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7
+uocyHf0eN45QAAABkvbvEJcAAAQDAEcwRQIhAKwD9zFgNUFDF/HR0nxsIExi9CmE
+vjpEqSpvqNyisj0gAiB5yfRC+Wky828iAQEm+1vWi0k705uzi5JldRvp76pHpwB1
+AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkvbvEM0AAAQDAEYw
+RAIgC5YNYhP/iW/jd9Gf+vQqa+B/HiWdNVN0XTQ6CLJhr28CIHtopU8lIVNo6dqs
+UhNO0y74Q1BBdLRKiS9qDYs6MvL9MA0GCSqGSIb3DQEBCwUAA4IBAQBDN7TSDNuJ
+LG+6uNjJlyFlSxmwq2mJp9H0LxKafrl1ug+Nm8T9huBcE5VgNUWU4lpzec4r5EDr
+WYIGNX161FBD513PYHd1e6DsnlXzAICxeuvXy7xWRrRvcTTcdltfA2T/OhAe6MCt
+d25bSSz1uaCzd0bmWzxpLG1IhBHFpm2avIqo9CphOPQfC+ly+3Ge43oGIDaojzJM
+ybP791ARWgV3A7c/9Atz42o7z5JyOo/ZDqZebAFZ0M4TLgIGHOkSw+ha8QV9qImW
+GckLvxkPvvivnEehuzp86CqfUYEG++wC9qGn500l6vGQtVChimxyMMby6V+8tGuu
+g2Xk9cF9sN7q
+-----END CERTIFICATE-----
+subject=CN=seedtag.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3111 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

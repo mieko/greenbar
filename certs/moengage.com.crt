@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=moengage.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  2 10:55:59 2024 GMT; NotAfter: Jan 31 10:55:58 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDljCCAz2gAwIBAgIQD+3bufUAwwYOpm+1PWxlpTAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTAyMTA1NTU5WhcNMjUwMTMxMTA1NTU4WjAXMRUwEwYD
+VQQDEwxtb2VuZ2FnZS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQcYVAp
+0HBNigIabEEqqJ/1zlBCUneCbJd+v+DFdp3yHN/JXB48NKCaSTFifk+MyoN5arLB
+g2UhaTFE1x7yVo9ko4ICRTCCAkEwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoG
+CCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFGnk0HkVoM+bOt9Wu2cg
+J/rXQEi5MB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsGAQUF
+BwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEvRC0w
+MCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MBcGA1UdEQQQ
+MA6CDG1vZW5nYWdlLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAt
+MCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93ZTEvSHNDM1NCSHdSRW8uY3JsMIIB
+BAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYATnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnA
+sfpksWKaOd8AAAGS7LtxhgAABAMARzBFAiEAq9BChMarsfFtofeSV/NZjr1eyHMN
+Rg8dIgX7ztAi4SgCIBCl4tv0wrt7iEB6idEX3c5i+iNpyZzjLFX8VJgqVWDRAHYA
+4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBNpW1vVAQAAAGS7LtxzQAABAMARzBF
+AiEA19FVOoSxS+fJG6et62PnrVWC1C07U7lHesfdeV2foMsCIFkW1D3iVyHJAMBG
+kwgVjIwNRkPDvdyvPQ/j76OrDs9+MAoGCCqGSM49BAMCA0cAMEQCIDdsvufJqF30
+WJBJ7qyBNVDZF7yjy7s+XO0zReFzAHJ+AiA9sjABBjtiSXpcrHzUBJeRSm9Jl+T8
+nHE1hTmSuiX51w==
+-----END CERTIFICATE-----
+subject=CN=moengage.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2809 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

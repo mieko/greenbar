@@ -1,0 +1,103 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=DE, ST=Bayern, L=Herzogenaurach, jurisdictionC=DE, O=adidas AG, businessCategory=Private Organization, serialNumber=Fuerth HRB 3868, CN=adidas.de
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2014 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1M
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 14 08:18:14 2024 GMT; NotAfter: Nov 14 08:18:13 2025 GMT
+ 1 s:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2014 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1M
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 15 15:25:03 2014 GMT; NotAfter: Oct 15 15:55:03 2030 GMT
+ 2 s:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul  7 17:25:54 2009 GMT; NotAfter: Dec  7 17:55:54 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJpDCCCIygAwIBAgIQU3fx7n9XYdxg8bC46pXVXDANBgkqhkiG9w0BAQsFADCB
+ujELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUVudHJ1c3QsIEluYy4xKDAmBgNVBAsT
+H1NlZSB3d3cuZW50cnVzdC5uZXQvbGVnYWwtdGVybXMxOTA3BgNVBAsTMChjKSAy
+MDE0IEVudHJ1c3QsIEluYy4gLSBmb3IgYXV0aG9yaXplZCB1c2Ugb25seTEuMCwG
+A1UEAxMlRW50cnVzdCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAtIEwxTTAeFw0y
+NDEwMTQwODE4MTRaFw0yNTExMTQwODE4MTNaMIGtMQswCQYDVQQGEwJERTEPMA0G
+A1UECBMGQmF5ZXJuMRcwFQYDVQQHEw5IZXJ6b2dlbmF1cmFjaDETMBEGCysGAQQB
+gjc8AgEDEwJERTESMBAGA1UEChMJYWRpZGFzIEFHMR0wGwYDVQQPExRQcml2YXRl
+IE9yZ2FuaXphdGlvbjEYMBYGA1UEBRMPRnVlcnRoIEhSQiAzODY4MRIwEAYDVQQD
+EwlhZGlkYXMuZGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCox62I
+DSD3T7uG4ekqcSQCaD1N3X7vD5V8AaU4OZ0HAYeTjzcdk2v8uYCz9TbYM42AUibm
+jLh43qYLZEyJsqKs+0WS/Eh72aRlUqqN5RR2DCXP0s4GWvhKHYLx69W9tI9QTUs9
+1lP9EsjP+xN/PKOlyjuIh1IKrrqZS++Y5FGys0Ho4aNYRHHWqMEF72CO6cLNdCqm
+hkqeufaw6bD8aqM2iDQ23tsadqkztMAO3hBj9hR2arz0TXb1tTVKGGVkB7bweF6H
+qI6wl2tZnl1BQq/hczNUyjb9ykUNC/7fSxF0cbVfQYwFm3jmb2hNolcnW6/3ssPc
+TeizcnY4ytpE8erFAgMBAAGjggWvMIIFqzAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBSMNEUXEpMDrXxtqSas7GHgaTz0EzAfBgNVHSMEGDAWgBTD99C1KjCtrw2RIXA5
+VN28iXDHOjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMIICvAYDVR0RBIICszCCAq+CCWFkaWRhcy5kZYIMYWRpZGFzLmNvLnVr
+gg1hZGlkYXMuY29tLmhrgg1hZGlkYXMuY29tLm15gg1hZGlkYXMuY29tLnBogglh
+ZGlkYXMuZnKCCWFkaWRhcy5jaIIJYWRpZGFzLmNvggxhZGlkYXMuY28uaWSCCWFk
+aWRhcy5pZYINYWRpZGFzLmNvbS5hcoINYWRpZGFzLmNvbS5jb4INYWRpZGFzLmNv
+bS5rd4IJYWRpZGFzLmN6gglhZGlkYXMubXiCCWFkaWRhcy5ubIIJYWRpZGFzLnNl
+ggxhZGlkYXMuY28ua3KCDWFkaWRhcy5jb20ubXiCDWFkaWRhcy5jb20ucWGCDWFk
+aWRhcy5jb20udHKCDWFkaWRhcy5jb20udHeCCWFkaWRhcy5lc4IJYWRpZGFzLmZp
+gglhZGlkYXMuaHWCDGFkaWRhcy5jby5pbIIMYWRpZGFzLmNvLmluggxhZGlkYXMu
+Y28ubnqCDGFkaWRhcy5jby50aIINYWRpZGFzLmNvbS5icoINYWRpZGFzLmNvbS5z
+YYINYWRpZGFzLmNvbS52boIKYWRpZGFzLmNvbYINYWRpZGFzLmNvbS5hdYIJYWRp
+ZGFzLnB0gglhZGlkYXMucnWCDWFkaWRhcy5jb20uc2eCCWFkaWRhcy5za4IJYWRp
+ZGFzLmF0gglhZGlkYXMuY2GCCWFkaWRhcy5pdIIJYWRpZGFzLnBlgglhZGlkYXMu
+cGyCCWFkaWRhcy5hZYIJYWRpZGFzLmJogg1hZGlkYXMuY29tLnBlgglhZGlkYXMu
+bm+CCWFkaWRhcy5iZYIJYWRpZGFzLmNsggxhZGlkYXMuY28uemGCDWFkaWRhcy5j
+b20uZWeCCWFkaWRhcy5ka4IJYWRpZGFzLmdygglhZGlkYXMuanAwaAYIKwYBBQUH
+AQEEXDBaMCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5lbnRydXN0Lm5ldDAzBggr
+BgEFBQcwAoYnaHR0cDovL2FpYS5lbnRydXN0Lm5ldC9sMW0tY2hhaW4yNTYuY2Vy
+MDMGA1UdHwQsMCowKKAmoCSGImh0dHA6Ly9jcmwuZW50cnVzdC5uZXQvbGV2ZWwx
+bS5jcmwwSwYDVR0gBEQwQjAHBgVngQwBATA3BgpghkgBhvpsCgECMCkwJwYIKwYB
+BQUHAgEWG2h0dHBzOi8vd3d3LmVudHJ1c3QubmV0L3JwYTCCAX4GCisGAQQB1nkC
+BAIEggFuBIIBagFoAHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAA
+AAGSihtATwAABAMARzBFAiEA/CShxr5K5M1wAsf/MPj5lJh8Kt88hQGHc35M4b7r
++v4CID+Tz8OCH+MHaY2SBf8kF/+VMoF3vSQlNOZGZVNu3gFfAHYADeHyMCvTDcFA
+YhIJ6lUu/Ed0fLHX6TDvDkIetH5OqjQAAAGSihtAdAAABAMARzBFAiAyZEybF0Bz
+TgsJJ26t4/L5sy3Y/8sS/JXQVRP6aV7FFQIhAIw6ja8efpgy2qL3CqiCOao37cTE
+/cziKojfJ0OYm1o7AHYAEvFONL1TckyEBhnDjz96E/jntWKHiJxtMAWE6+WGJjoA
+AAGSihtAbgAABAMARzBFAiEA5p4fWaBbZ66FMA748cIL0ml7EgfmXe8uIqkCpkN9
+2uUCIGSQAcodsdILz/28nys8JveOXfu5LwGjAb/tPAsuqvzdMA0GCSqGSIb3DQEB
+CwUAA4IBAQA/atKzDIqpRj8hloimmK+s3SsQSrJFIU06ZolsiR8fB9DdlmRhTDC1
+hO/e00G4oWJMWqb3ZMZ17CctP7+ua9SZ2TpRvoQz95xvpLaTiFY7WySlwwNenqxm
+6jW49yfBIkmC1e3ilJG28FHXAxsv13pOxMxQun3vxBEOAWWcwGG9olB23hPM3Bkj
+ZIMCZIw6pRWUnt0bKKXI7JRkC4T8mufH4raLrt+5WJdnBmYCwLhhz7obPPg/B39O
+e1b5lnWxc5pdPp/l10Q7X/TfeHCI27i6T3rw3o4t/1LzUyIhTJMUg/6hDLMu/fT2
+XZlPLPxc9WoipJFGGqKu3Ys7bxWmj159
+-----END CERTIFICATE-----
+subject=C=DE, ST=Bayern, L=Herzogenaurach, jurisdictionC=DE, O=adidas AG, businessCategory=Private Organization, serialNumber=Fuerth HRB 3868, CN=adidas.de
+issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2014 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1M
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5410 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: D208D422264D4807BBD0AC428D95F08C902A2D93E031448BC7B10A5C5E25409F
+    Session-ID-ctx: 
+    Master-Key: E194A4D2291F3BCEA092F147D90D8529C9F6E0C02AF2CB7D198535B6264AC7A60EFDDCAEAE3D9555221F26CD80EBB01A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732690488
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

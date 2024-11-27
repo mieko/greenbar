@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=brandmetrics.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 23 16:29:49 2024 GMT; NotAfter: Jan 21 16:29:48 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDszCCA1qgAwIBAgIQIc7Mw/ZaS3MROovFnAZ/9TAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMDIzMTYyOTQ5WhcNMjUwMTIxMTYyOTQ4WjAbMRkwFwYD
+VQQDExBicmFuZG1ldHJpY3MuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE
+8x56ULon/cwR4XTp5DUx85QN8c4KWvr3HIBiXlpFvx1RkpoeaakO4PA7YkgkBrEQ
+kM6HurF1QkGzOB0v6GPWdqOCAl4wggJaMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUE
+DDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQd0x/Lz10StxUv
+gPMI0+LF7mLK0jAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggr
+BgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2Ux
+L0ljNDAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDAvBgNV
+HREEKDAmghBicmFuZG1ldHJpY3MuY29tghIqLmJyYW5kbWV0cmljcy5jb20wEwYD
+VR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtp
+Lmdvb2cvd2UxL1RRUlJpdE5RWmE4LmNybDCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB2AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABkrptepEAAAQD
+AEcwRQIhAP7SNU0lWWeE+koPel/3xLZataTdiLgsTg+uQ423c3gjAiBEibkPBjWX
+awdFu3hcc73/1+UVqsKWFZGnnhBeYpuAiwB3AE51oydcmhDDOFts1N8/Uusd8OCO
+G41pwLH6ZLFimjnfAAABkrptekgAAAQDAEgwRgIhAJzcoMekCz/Xya7yiUvPb9t7
+cp/DzqyRHJgpN+nkIt3yAiEAxu9s7GlbNzcAWN/awB7w46WMlMDgObNQBAOhqLym
+PQ8wCgYIKoZIzj0EAwIDRwAwRAIgMp4pwRoYNrDEZjaZaiBbVQhSnutQ5A2vavbS
+PObMvx8CIHh+Z2QBFVFFGB8D8alRUMonPlW3SWjXpPfB7TZ7xDcF
+-----END CERTIFICATE-----
+subject=CN=brandmetrics.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2839 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

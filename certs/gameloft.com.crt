@@ -1,0 +1,77 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CA, ST=Quebec, O=DIVERTISSEMENTS GAMELOFT INC, CN=*.gameloft.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  6 00:00:00 2024 GMT; NotAfter: Nov  6 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG4jCCBcqgAwIBAgIRAIXrJzb6qtBjqrHkCBy//3YwDQYJKoZIhvcNAQELBQAw
+gZUxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE9MDsGA1UE
+AxM0U2VjdGlnbyBSU0EgT3JnYW5pemF0aW9uIFZhbGlkYXRpb24gU2VjdXJlIFNl
+cnZlciBDQTAeFw0yNDExMDYwMDAwMDBaFw0yNTExMDYyMzU5NTlaMF4xCzAJBgNV
+BAYTAkNBMQ8wDQYDVQQIEwZRdWViZWMxJTAjBgNVBAoTHERJVkVSVElTU0VNRU5U
+UyBHQU1FTE9GVCBJTkMxFzAVBgNVBAMMDiouZ2FtZWxvZnQuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAttkqODvCaopRnluH+BhChmOa+pv2AHwh
+Y1zeqvk6ZwDtkDtjz+ydJQUwsMfjczJLBJnAQV6jk5WPT94EPc0VbcrjsdS4pCT9
+fxgkHp47M83OqEitJxDmc60O6eytapKN/BDTE0ZJxGLN5tcKHActANSLhrhr6hVx
+/c7YjpFd0SL5Rdz8p80gokXbRHKlyK835nNHm0xnVEHmBu6lrD1AID5eVnYt+vW6
+etnQDiKCT30eVmEeOz15b4/4K47kLtEut6HX2Fd484dHMjZtAGvmE2lfXwL1waT5
+usZ5ozDxYANAYKS8WOtxec456Xk4EZ/DbokUYUHUgcB4/J4rKBbEJwIDAQABo4ID
+YTCCA10wHwYDVR0jBBgwFoAUF9nWJSdn+THCSUPZMDZEjGypT+swHQYDVR0OBBYE
+FLSxEeO146gMFTJxcRHD/RUCXYLhMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8E
+AjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBKBgNVHSAEQzBBMDUG
+DCsGAQQBsjEBAgEDBDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29t
+L0NQUzAIBgZngQwBAgIwWgYDVR0fBFMwUTBPoE2gS4ZJaHR0cDovL2NybC5zZWN0
+aWdvLmNvbS9TZWN0aWdvUlNBT3JnYW5pemF0aW9uVmFsaWRhdGlvblNlY3VyZVNl
+cnZlckNBLmNybDCBigYIKwYBBQUHAQEEfjB8MFUGCCsGAQUFBzAChklodHRwOi8v
+Y3J0LnNlY3RpZ28uY29tL1NlY3RpZ29SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9u
+U2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0
+aWdvLmNvbTAnBgNVHREEIDAegg4qLmdhbWVsb2Z0LmNvbYIMZ2FtZWxvZnQuY29t
+MIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgDd3Mo0ldfhFgXnlTL6x5/4PRxQ
+39sAOhQSdgosrLvIKgAAAZMCFnPbAAAEAwBHMEUCIDDieUCg/ddaILPoUc9Xr4hV
+8/G/Zy+9dYdZ4YjGPJJLAiEA6Y79S51hmu6cQ3GMkTp3Yc967XgNoF5pQAafKP43
+pgUAdgDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZMCFnOfAAAE
+AwBHMEUCIGg8Xay5bqkjmvgebrO6Kx1QmyzmtUGivuj3+ocxC+m6AiEA68iRvTp2
+JzOcDGD5wKppfUJlNAxnofjxojZ0JncpZBoAdgAS8U40vVNyTIQGGcOPP3oT+Oe1
+YoeInG0wBYTr5YYmOgAAAZMCFnNxAAAEAwBHMEUCIQD1qf48eOpoNQWAQ7jcgoly
+LWHNC2EBzsaQbsYiHBuWkAIgXEqQ4y/klVJogaLudhgN2l6FpmVF37XPCDpyeJ+5
+J/YwDQYJKoZIhvcNAQELBQADggEBACP6YllRJQq9YSPowAjprbs4D3GSISa6Tx/J
+AgZ3jeNoTEJQ9vXEZJ4aiTUu/Jy8xHJ5+EN5pjPosm2iCivFlzt+ag0gROGWkYlY
+hC+GO9sY24WmgQYUbf39Bj/0p4hjgapXQFNGLRHop7OhsTFg+YpJL1GTfM58V/hd
+d8OMiJHlC5nLaTI0dNmvqiCa/yOzDJb6OGbwi4Gde6QgR4l6/V4lGksujOrQh6Bl
+6yxb0xDohA+AVUQftRPajIqcQde9JM4PdE+Apc4O0JHSvF0uYn6hHgPAikD4vXbg
++uXdK+HpUgCXLJKpF+RlGuQ52+ybQPPPF31dBzi6TjrTTgp3KLM=
+-----END CERTIFICATE-----
+subject=C=CA, ST=Quebec, O=DIVERTISSEMENTS GAMELOFT INC, CN=*.gameloft.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5314 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

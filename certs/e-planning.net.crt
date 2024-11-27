@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=e-planning.net
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 20 11:58:33 2024 GMT; NotAfter: Feb 18 11:58:32 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6zCCA9OgAwIBAgISAzI7ts/0Lkpz2gfYYZh4RYTFMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTIwMTE1ODMzWhcNMjUwMjE4MTE1ODMyWjAZMRcwFQYDVQQD
+Ew5lLXBsYW5uaW5nLm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AOiAdlEQOBjXVwMEi2n/ond0WtJbbBGmhGjZMoFlCuUuEsHf/80vzLg2yylSd2F3
+huOInsatj/ksYdXjLfuzQzTyfSXx1azuBNBB2t2ZRUgvgS2S+OPOQVxx2KEIMZvA
+CMmVyuxWBl61TO1AhrbEmn5NGaUGOIAq1PhAJIcung8+KANQq8OXJ/S9Q3ZFbvkC
+qU+ZaqqsP0D5lomYuqOVeSD66fPAyLZut1oRU2vumlVWw2M3ZwI7a88pnxpMVLbk
+ue3aR0pt4bwanBsdzHGm5tTDKOX1vOYo3bxbgRxPpu0MRhN8s0ZzliPM1FJRgkx4
+LdFro6hoeuQHU1CdfB9cArUCAwEAAaOCAhEwggINMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUMh+qJDa9rg6wudsgHSAUoRF1BHUwHwYDVR0jBBgwFoAUu7zDR6XkvKnG
+w6RyDBCNojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8v
+cjEwLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iu
+b3JnLzAZBgNVHREEEjAQgg5lLXBsYW5uaW5nLm5ldDATBgNVHSAEDDAKMAgGBmeB
+DAECATCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AOCSs/wMHcjnaDYf3mG5lk0K
+UngZinLWcsSwTaVtb1QEAAABk0mlzjcAAAQDAEYwRAIgGVw3NoKFieKfNEMvfhuU
+91aRwjdsdFbWqc3G1G59uWsCIGZS/O9OTjrQS40Bsc5+BhCF8ANspwM4r+asmoEf
+bCpdAHYAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGTSaXWJQAA
+BAMARzBFAiEArGIchHVZs01KoYPi/VYAqirkUfO4LgrG0xcxcQn9GVgCICyi1sH/
+wh4It+CwVAv3p0R80Bj3HrQj51ekeW32m13BMA0GCSqGSIb3DQEBCwUAA4IBAQCv
+K0hekd1a/niojVMAkbXolC42vAYtuspdQ38Mdsu6EL3BhVoQLwFkm55DQ7Wp9a8M
+3uARYuWP+FA28XeMaxTVYZbj35IeMGhKYLnl0m2T6Us5layDoqMxrH4geSFM6rhL
+3FHWTfJHchOT53cAPbmOH9EFl2G5+Nx5EJx7dvlmqEfQUmJDilcnx5CfKq0nIBCP
+obViaosh6Hv++0HGMCrTaBTl/ZqNJgeMb6S9h4YidSUF85y9VglwQD8W8CgW+HUu
+eJkT1IE39qPDFPASVPKa1oXIJd3dXlxk6Ol691329Uz5PKi4MD6p0nPLj3YYNlak
+k/bM0IPD9PGBPa0nRfru
+-----END CERTIFICATE-----
+subject=CN=e-planning.net
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3117 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

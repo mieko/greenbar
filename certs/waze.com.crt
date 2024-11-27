@@ -1,0 +1,69 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.waze.com
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 23 22:08:45 2024 GMT; NotAfter: Jan 21 23:04:19 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZzCCBE+gAwIBAgIRAKVUyqDPVgyXCd2xd4p5ok4wDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IzMB4XDTI0MTAyMzIyMDg0NVoXDTI1MDEyMTIzMDQxOVowFTET
+MBEGA1UEAwwKKi53YXplLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALxtxcvuzDnrKsXGNeQoCf/sBLJtnBzS+kb3N58Ig0FAHl09c6dQqZ5yyizt
+Kmh7VhM2syH6JoVCaoOVtZdXf6gYU3Bja6U5Sm3otXEwIcBGp1VXmX8SjakQTY4Z
+EPxXBR5i4q5wS+m897nllLov6kwTXqljTdxIeS9n+pVt4Ic/lL63BV78JIf3WSGn
+CxTmEuEi1BdsyUL4Wxk/X03ug5voYo3tQGYN6/kneFVLvv450j91nx8/rc4tfc4y
+BFfTayqLUpkVxuOAUS+9Ukbga61Vx6/HTLSAeDdVLRNex7gWk4Tavr+IhcFHF7o4
+J1J1WASS6Ut/hKwaUJ8rp9usJDsCAwEAAaOCAoowggKGMA4GA1UdDwEB/wQEAwIF
+oDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ2
+U2S2sBC3PEf+68EYG+cmU7pbZzAfBgNVHSMEGDAWgBTHgfX9jojZADxNY6JQMSSg
+ziP+IzBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5n
+b29nL3Mvd3IzL3BWUTAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd3Iz
+LmNydDBbBgNVHREEVDBSggoqLndhemUuY29tggh3YXplLmNvbYIOd29ybGQud2F6
+ZS5jb22CECoud29ybGQud2F6ZS5jb22CCndhemUuY28uaWyCDCoud2F6ZS5jby5p
+bDATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8v
+Yy5wa2kuZ29vZy93cjMvajRTMU1HckVnLW8uY3JsMIIBBQYKKwYBBAHWeQIEAgSB
+9gSB8wDxAHcATnWjJ1yaEMM4W2zU3z9S6x3w4I4bjWnAsfpksWKaOd8AAAGSu6PN
+JAAABAMASDBGAiEApEozrjNzD8aH623OqFWEmFS1UbWgVENOl1prVL990usCIQCQ
+Oik+v/QjbqNoj2iDNNhlx247zJgNcqeH6d5EuY7j3QB2AMz7D2qFcQll/pWbU87p
+snwi6YVcDZeNtql+VMD+TA2wAAABkrujzUsAAAQDAEcwRQIgI1XfaaggeDyJCGaY
+uurffCBLU5roVho6NoQVm/cUC6sCIQD2U8VWUxqSt6Svix83MZ/cb8YsyfFxnZPN
+qpZjItuoOjANBgkqhkiG9w0BAQsFAAOCAQEAHVVBdC9Zeae50cn74G00sP4kenVw
+GwDNhYH4AGnXJmo+L+UtOAcQDSfwjsLRIhllwuzWfi35dCv6qbtWENSwFhhmTI+G
+ob+eBxNshwI73Dixr2vnwxF5aouMfkVpm9mb8r6Wpf0JBNi57bhQHgFaSw93I98g
+19WodlOix0siA2cvx8lVx12mWDyc/N9WZptXJn6v5RGcY/yyllB5UCc/aDLm1LaH
+PnLIR+nxJoSn9MBfCWg8bXiszd3nlufC0eFgXlKNMcGahdE0LHZ4efIKcit9gM1t
+8NWfLf7xR54bz3kuTfWOeiA8TOmbaEz0y0Le4Tc+/SL7fjt6eAB1eSvrPQ==
+-----END CERTIFICATE-----
+subject=CN=*.waze.com
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4564 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

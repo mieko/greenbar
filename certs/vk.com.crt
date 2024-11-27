@@ -1,0 +1,72 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=RU, ST=Saint Petersburg, L=Saint Petersburg, O=V Kontakte LLC, CN=*.vk.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct  4 13:12:01 2024 GMT; NotAfter: Mar  2 11:51:08 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+   i:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   i:OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 13 00:00:00 2012 GMT; NotAfter: Jan 19 03:14:07 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF2TCCBWCgAwIBAgIMB10IZzXTChbzvMq1MAoGCCqGSM49BAMDMFAxCzAJBgNV
+BAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1HbG9i
+YWxTaWduIEVDQyBPViBTU0wgQ0EgMjAxODAeFw0yNDEwMDQxMzEyMDFaFw0yNTAz
+MDIxMTUxMDhaMG8xCzAJBgNVBAYTAlJVMRkwFwYDVQQIExBTYWludCBQZXRlcnNi
+dXJnMRkwFwYDVQQHExBTYWludCBQZXRlcnNidXJnMRcwFQYDVQQKEw5WIEtvbnRh
+a3RlIExMQzERMA8GA1UEAwwIKi52ay5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMB
+BwNCAARsJ4DSS+FRl/Q8G1ySVU4Ek5z4lKPWMkira1/+czFoknuX/5ScALKAbRDu
+LpJNuapNTFn6dNTFbhJOSjFcaxueo4ID/zCCA/swDgYDVR0PAQH/BAQDAgeAMAwG
+A1UdEwEB/wQCMAAwgY4GCCsGAQUFBwEBBIGBMH8wRAYIKwYBBQUHMAKGOGh0dHA6
+Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzZWNjb3Zzc2xjYTIwMTgu
+Y3J0MDcGCCsGAQUFBzABhitodHRwOi8vb2NzcC5nbG9iYWxzaWduLmNvbS9nc2Vj
+Y292c3NsY2EyMDE4MFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYIKwYBBQUH
+AgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeB
+DAECAjCCAQ8GA1UdEQSCAQYwggECgggqLnZrLmNvbYIFdmsucnWCBXZrLmNjggV2
+ay5tZYINdmtvbnRha3RlLmNvbYIMdmtvbnRha3RlLnJ1ggd2ay5saW5rggl2ay5k
+ZXNpZ26CE3N0YXRzLnZrLXBvcnRhbC5uZXSCCnZrdmlkZW8ucnWCByoudmsucnWC
+ByoudmsuY2OCByoudmsubWWCDyoudmtvbnRha3RlLmNvbYIOKi52a29udGFrdGUu
+cnWCCSoudmsubGlua4ILKi52ay5kZXNpZ26CDioudmstcG9ydGFsLnJ1ggoqLm0u
+dmsuY29tggkqLm0udmsucnWCDCoudmt2aWRlby5ydYIGdmsuY29tMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBRYe451Kv5hgKqQQAGu
+1ugHRm4/SDAdBgNVHQ4EFgQU8Vf7RYqvlHqwGRoGj01uw/e07ggwggF+BgorBgEE
+AdZ5AgQCBIIBbgSCAWoBaAB2AKLjCuRF772tm3447Udnd1PXgluElNcrXhssxLlQ
+pEfnAAABkleoqIYAAAQDAEcwRQIgcspORLKbi+Cot0F+QKjY/pqgMgpWGPJtXvW9
+7cueCjQCIQCsL3molivosf0hgErC23ix1ykIjqxF5s9jL0AyV1N5DgB2AE51oydc
+mhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABkleoqX8AAAQDAEcwRQIhAKyl
+XtIIR3xvpCWqPnX1+W3XcVzet4CooPWXM30V0Kp5AiBvAb/VJpuMLAyNS6MW+xq9
+bbkKIA18ZSBJVwx8LQrV5gB2AOCSs/wMHcjnaDYf3mG5lk0KUngZinLWcsSwTaVt
+b1QEAAABkleoqRsAAAQDAEcwRQIgFAberQpYwNOxZ6c/G+YUfPPrO5yjj1JO82IM
+1h/pCZYCIQDUgNSBvJUMn9H+fxUtQov9QgIZa3Wfi0p3XfLa0aSJIDAKBggqhkjO
+PQQDAwNnADBkAjB5JSuwOGvdgEwr0XRXT3DhwyyeVetsUjLfmqbwEa/WI8Fsvtj+
+H4DsxFovtXaCj+MCMAdWwqcW/ml4E7HQC1WBZh3lMNcuzH9I/iwVvkmei41HvfEd
+fAzeST0piQ6/af9dsg==
+-----END CERTIFICATE-----
+subject=C=RU, ST=Saint Petersburg, L=Saint Petersburg, O=V Kontakte LLC, CN=*.vk.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign ECC OV SSL CA 2018
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3206 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

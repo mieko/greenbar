@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=spamhaus.org
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 25 05:15:55 2024 GMT; NotAfter: Feb 23 05:15:54 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE6DCCA9CgAwIBAgISBAziZq+YnvM2F0udsuFAJNOcMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMTI1MDUxNTU1WhcNMjUwMjIzMDUxNTU0WjAXMRUwEwYDVQQD
+EwxzcGFtaGF1cy5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDT
+XURbAvHB82zHtDnVIv8WmX7VemPCGAVEO3O1caIKC3ZhxnmVi/Tb3vogZyj8kj/k
+tHb5rPaC8tT/jxDkbEersFTzQidHtn3hCirLekQbTEZrhN9YoRJjhM1yuh3rM3sN
+anFs2yHQYwzaKJbF44taGgE3V3AGkYi2pHBkZeC1Nw2YMlQDENyZgCQ9YpJKzhpP
+ITgekqg1cIAYV5fqQBpY7RAv6zayXZ419UjgcH2V7Myrvfb1pVs+U5+cEF9TJD2E
+Ew3B4b6A6PQ0ofyQUKf8zUXHDX9nUR6gubNvbYvJzC7MwFsOX56tqJbpE2rxXZAX
+4qYLQZPlQQaSgImFtLt3AgMBAAGjggIQMIICDDAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFLQxA4HYEHflJXh5DtbpoZ+8HEvXMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyV
+xC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3Ix
+MS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9y
+Zy8wFwYDVR0RBBAwDoIMc3BhbWhhdXMub3JnMBMGA1UdIAQMMAowCAYGZ4EMAQIB
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAouMK5EXvva2bfjjtR2d3U9eCW4SU
+1yteGyzEuVCkR+cAAAGTYfT75gAABAMARzBFAiEAy2guH+PcBVCeOaFM+qOCRirq
+GmqWpTDHAFEygTtGmNQCIGO+x1RqiXJMdMEZ+59gGGi09up86MoyIeLGb9aqlKza
+AHYAE0rfGrWYQgl4DG/vTHqRpBa3I0nOWFdq367ap8Kr4CIAAAGTYfT85wAABAMA
+RzBFAiEAyQj+x5qAOWjedc7jISbv9PHdQ5fFykIyaQZjMb0Ba2oCIBOjNeoajb0P
+xAeEy8Rsbf9dIJ+sTHOGqu3RzyQLwf4CMA0GCSqGSIb3DQEBCwUAA4IBAQAuw8We
+e4MXYudi3H0eb8dr9IqFmTND4sbSogVbvBbfDBfLWAy0d2M+yYdsEAfToFCD6Kzr
+Dirfyf+aewa1elkfJTkLNrrUCb3/yRnjE4Mj0Rj7SQDQk84CAfAqb+LX4xEfCZpH
+kjEHV1GTkyR7tneZ4CwOF/W6XSrT9WJFNC0ihVfnAgkI3COl8U3anIQgUCV5yoEU
+Ra1zuJQ+BxS5kkxDvU5Ddr/pYj93A35X1UNcgyQHAY4GdwyzypEfZTe8LScq9kUl
+kC+X7qZ/54QR8qCO2VmTxNgew+aO+jyF9AUxqp93YEmerJaLqGNHQTVc6oBcTl4S
+lVzKC+0nJcw+6pvp
+-----END CERTIFICATE-----
+subject=CN=spamhaus.org
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3115 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

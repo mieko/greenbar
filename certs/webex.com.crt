@@ -1,0 +1,86 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Jose, O=Cisco Systems Inc., CN=www.webex.com
+   i:C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  1 15:23:54 2024 GMT; NotAfter: Oct  1 15:22:54 2025 GMT
+ 1 s:C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1
+   i:C=US, O=IdenTrust, CN=IdenTrust Commercial Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 12 16:56:15 2019 GMT; NotAfter: Dec 12 16:56:15 2029 GMT
+ 2 s:C=US, O=IdenTrust, CN=IdenTrust Commercial Root CA 1
+   i:C=US, O=IdenTrust, CN=IdenTrust Commercial Root CA 1
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 16 18:12:23 2014 GMT; NotAfter: Jan 16 18:12:23 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIbjCCB1agAwIBAgIQQAGSSK5K6IANNbedQQXJEzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzESMBAGA1UEChMJSWRlblRydXN0MS4wLAYDVQQLEyVIeWRy
+YW50SUQgVHJ1c3RlZCBDZXJ0aWZpY2F0ZSBTZXJ2aWNlMR8wHQYDVQQDExZIeWRy
+YW50SUQgU2VydmVyIENBIE8xMB4XDTI0MTAwMTE1MjM1NFoXDTI1MTAwMTE1MjI1
+NFowajELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExETAPBgNVBAcT
+CFNhbiBKb3NlMRswGQYDVQQKExJDaXNjbyBTeXN0ZW1zIEluYy4xFjAUBgNVBAMT
+DXd3dy53ZWJleC5jb20wggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDC
+48MzGlLeTruEFkeGWKq5up+4mxHnIeyyCwP3SnqGhnrt/yBihIWfXePR1n7BMPAv
+jci4d9+ebtGM4Dn0a8d1rlBGlleacUqFvMXTXzLgJ4hwxDE99k12XnmOD3A+NTFg
+KnoZIThQVx9DCBPvAxuRhushkRttcKKcjTUwE93NSXeMOM4yy+8KnN1bb7Fhbw68
+SQRdt2Qaz+mXIqhw8szyLKgzKN88m9uU9fQ6L8AoEnlPi0x4G83+meDNDZgU4kfM
+cFMBfqm6mE9oWWoixm0LR6mm49rf2seiWaJD2enls97nIgXBvidfqtopn4FA+F9J
+ahRC44+5NkJ3c91og57c9/m9dGcF/29HRZrIiuKhRssLScDnbEBvbjk57tHPES95
+xuKNd87/cPj3t0JnK7X1/v/MCxR12w4npYNjYxfQ6EdeNvdyXn3upe38wwYESjoz
+pFnwbmxQ7HLK3LjU7JKgzbkAZmnFWZKmJYYatkducz28DpqbCE0BgZED+98UIC8V
+r8R2m6R88iu7WQ3KpOLihVDxGnS6o6It6Dq59YbYTtYKtkhkFX1fdbejEvLNdenL
+wNcL85Tw/Shj1/U6DrR4zFe88nMc6X9O6Hy5M7IxfydwiiAJUdux0WqnXmIuIafO
+D1050+OU7CGoEKxwZWupIW1naOYOrdqyA4c2Q/QrDwIDAQABo4IEBjCCBAIwDgYD
+VR0PAQH/BAQDAgWgMIGFBggrBgEFBQcBAQR5MHcwMAYIKwYBBQUHMAGGJGh0dHA6
+Ly9jb21tZXJjaWFsLm9jc3AuaWRlbnRydXN0LmNvbTBDBggrBgEFBQcwAoY3aHR0
+cDovL3ZhbGlkYXRpb24uaWRlbnRydXN0LmNvbS9jZXJ0cy9oeWRyYW50aWRjYU8x
+LnA3YzAfBgNVHSMEGDAWgBSJuJu2nu37sMa9DexnTjyjkp0t+TAhBgNVHSAEGjAY
+MAgGBmeBDAECAjAMBgpghkgBhvkvAAYDMEYGA1UdHwQ/MD0wO6A5oDeGNWh0dHA6
+Ly92YWxpZGF0aW9uLmlkZW50cnVzdC5jb20vY3JsL2h5ZHJhbnRpZGNhbzEuY3Js
+MIIBGQYDVR0RBIIBEDCCAQyCCHdlYmV4LmFpggh3ZWJleC5jYYIId2ViZXguZGWC
+CHdlYmV4LmVzggl3ZWJleC5jb22CC3dlYmV4LmNvLmluggt3ZWJleC5jby5pdIIL
+d2ViZXguY28uanCCC3dlYmV4LmNvLmtyggt3ZWJleC5jby51a4IMd2ViZXguY29t
+LmF1ggx3ZWJleC5jb20uYnKCDHdlYmV4LmNvbS5oa4IMd2ViZXguY29tLm14ggx3
+ZWJleG9uZS5jb22CDXd3dy53ZWJleC5jb22CEHd3dy53ZWJleG9uZS5jb22CEnot
+YS5jdGltLmNpc2NvLmNvbYIbY29udHJhY3Rkb2N1bWVudHMud2ViZXguY29tMB0G
+A1UdDgQWBBThLeUjojb3KOAOGssiM/VkG7gCezAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB3ABLxTjS9U3JM
+hAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABkkiuS8MAAAQDAEgwRgIhALtldClB
+shYVPU7Z4hv5SBvLTgesh9C4BkhK7XkGmZ9zAiEAxVHZVpVGvZfvO212NPxCSSh0
+KvnlBsIwOkyQbFaFT74AdgDd3Mo0ldfhFgXnlTL6x5/4PRxQ39sAOhQSdgosrLvI
+KgAAAZJIrk3PAAAEAwBHMEUCIHlzRdcRq5QKtdEurhCHo7QZhmmoJPD+QNwE8xQN
+OhuGAiEA9nAd9XnhfPvWthoFxWLk9qAjcC1nGDLE41k5V2w7rnEAdgB9WR4S4Xgq
+exxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZJIrkttAAAEAwBHMEUCIQDITJCx
+P9w7+2e2r5HZZYgRb9ddR6C2PIHFQ6oTj3lBxgIgCxhrLWu+kwbC8YNXFSjXfsJX
+DMyVjvKE/4+FNlbppcAwDQYJKoZIhvcNAQELBQADggEBAKXi4hefv7FosJrAvCI5
+w8UftEi5RATGLoiMn8b87TxuTpdRR1qI/g066XF0MWHdubcC/nNCHzBtaE/lodiN
+XXspSplDK1okMXIn3v/UU+tMBO3Yu6DCASh+NUHXqc3Ls5qZ3+LTKyV7gEkAuEyb
+x0pDXoE3nV9pOvnLIWp8Uu1vtAMbEm+lSvOyL4Wn9Yj1+iMRbY57VhzWAgVZBurO
+mI3w+H5XjjaI7bdeQRotv/JL/X1+pBG6VJEWHdopZeDSkLth8O5pMYTUDw4/MAGu
+uvSv4g+zhLLJpy2f+Wlb7cnmrddNwIj7BvlktR39N9dtjzttf+zkv8JDbJFBdnmT
+sWM=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Jose, O=Cisco Systems Inc., CN=www.webex.com
+issuer=C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 6212 bytes and written 753 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 4096 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

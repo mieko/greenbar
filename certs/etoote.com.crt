@@ -1,0 +1,98 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=CN, ST=Beijing, L=Beijing, O=Beijing Huayi Huilong Network Technology Co., Ltd., CN=*.etoote.com
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 07:01:06 2024 GMT; NotAfter: Jul 21 07:01:05 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 00:00:00 2018 GMT; NotAfter: Nov 21 00:00:00 2028 GMT
+ 2 s:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 19 00:00:00 2018 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGiDCCBXCgAwIBAgIMNp9tGPrWboLVyev7MA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yNDA2MTkwNzAxMDZaFw0y
+NTA3MjEwNzAxMDVaMIGFMQswCQYDVQQGEwJDTjEQMA4GA1UECBMHQmVpamluZzEQ
+MA4GA1UEBxMHQmVpamluZzE7MDkGA1UEChMyQmVpamluZyBIdWF5aSBIdWlsb25n
+IE5ldHdvcmsgVGVjaG5vbG9neSBDby4sIEx0ZC4xFTATBgNVBAMMDCouZXRvb3Rl
+LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANSwZtMruPJJkG92
+gNZJVhInu52PpRtXGKLFtFL6zEbz8swvP/DT63beQrWw9kNjbzwukdj1exAeGfiJ
+Vlwf/hYdKuoA7HIQfzhmXNbV4XT+Jk1QjgXMfRE73W2SycGTUCI6Z30Y/zUZAUfr
+/zjlH9gEuKHSaMOl73eBsuiWUttxnG54C90WFPCfp4VRIk4ZXCjl2PnqUbBCpNmQ
+YMeHIiIbDM4bNnC+FjkaCXkm0z6hixR8g6NSEtILYI3wsqMDOpPFsE5ondfhJwOp
+syK6Y5r0lrRrMgWUi+VJDMcpo3W6Ho7Wn0EIQcUbfrm0ichAYAwnxZkRjvhXjP7R
+Rqz//XkCAwEAAaOCAyowggMmMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA
+MIGOBggrBgEFBQcBAQSBgTB/MEQGCCsGAQUFBzAChjhodHRwOi8vc2VjdXJlLmds
+b2JhbHNpZ24uY29tL2NhY2VydC9nc3JzYW92c3NsY2EyMDE4LmNydDA3BggrBgEF
+BQcwAYYraHR0cDovL29jc3AuZ2xvYmFsc2lnbi5jb20vZ3Nyc2FvdnNzbGNhMjAx
+ODBWBgNVHSAETzBNMEEGCSsGAQQBoDIBFDA0MDIGCCsGAQUFBwIBFiZodHRwczov
+L3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAIBgZngQwBAgIwOwYDVR0R
+BDQwMoIMKi5ldG9vdGUuY29tgglldG9vdGUuY26CCyouZXRvb3RlLmNuggpldG9v
+dGUuY29tMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAW
+gBT473/yzXhnqN5vjySNiPGHAwKz6zAdBgNVHQ4EFgQUgDHKs17fMMixT1We39jj
+AD/4jcQwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2ABLxTjS9U3JMhAYZw48/
+ehP457Vih4icbTAFhOvlhiY6AAABkC9MmekAAAQDAEcwRQIhAJiuU6GjiYeZwQx6
+oJ3tPp+SU0ujEg1g4Vy+E6rsz5x7AiBl7wYjFv1YzeXaNwrtrL/FOcnui4Oi3O9b
+xatjHJCcPAB2AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABkC9M
+m9MAAAQDAEcwRQIgEzgMFwW36jdQEFJnJv+JdSSB5BEorUE2Glz0UsYJcZcCIQCv
+UdjHQCmfebToYjM78D1WB4q8tyeFq0W6cDCV3BaiSAB3AN3cyjSV1+EWBeeVMvrH
+n/g9HFDf2wA6FBJ2Ciysu8gqAAABkC9Mmi0AAAQDAEgwRgIhANhCjcoSC/1FUQnV
+joybIOa888skXXiHuAzkpjJUWjsgAiEAoTxxukNv1K8d0RMztHf4ec3lgK9Kqm8b
+0iGwQKuSv3MwDQYJKoZIhvcNAQELBQADggEBAHgbfoouErMN60tXjiGozu58yyjH
+Wq2gSh1E57j2oLw8+UY09LejlLspO5PB48Z6WnMYvDnYYYpelko68dM9bEagtICR
+VqDx+OxwINFhroE1oSh1SD5nBcj4kKBoWjOsZCfFWTK4CHpmU/M6+bx6hQtdk5+k
+pWVpMbnPvSpOQ3RDi0ddzLjHNZh9dXbCYDyHIepqe+DZfpqAzEIbTiXYkAieQzkq
+Z8cQd1Rwdk4loiYzVisYOmNtxNwNd1AkP2z8HQZjAcK0WMUCnmlsBi/eARJZrx5M
+DFohKgJ/7xTdYOJFcav55iOlirvb5gPbHI9S/oH574DmPF6vesGAOeqQlKg=
+-----END CERTIFICATE-----
+subject=C=CN, ST=Beijing, L=Beijing, O=Beijing Huayi Huilong Network Technology Co., Ltd., CN=*.etoote.com
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+---
+No client certificate CA names sent
+---
+SSL handshake has read 4238 bytes and written 639 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES128-GCM-SHA256
+    Session-ID: 82AD7D19A0E069A7D2C40C986AF83315980E98ED22EA9C74B74C91DDD4CE7D35
+    Session-ID-ctx: 
+    Master-Key: 9C4912A2E58B5B6FE2C0C1F6A37975F02158EB3B8F3D7C43937ECB75C75C4B4D6910183BDB946DD625C3FD47E8F22ACF
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 1200 (seconds)
+    TLS session ticket:
+    0000 - e3 02 ea 65 24 d4 66 99-b4 6d db 94 47 f3 ea 6c   ...e$.f..m..G..l
+    0010 - a3 2f b2 08 87 fd 4f 22-ef dd 7b 79 fd 49 66 b5   ./....O"..{y.If.
+    0020 - 72 5b 4f 17 04 80 c9 78-bd 14 98 19 37 95 21 2f   r[O....x....7.!/
+    0030 - 66 50 f0 4e f4 f0 b5 1b-5a 8d be 05 70 6c a1 e6   fP.N....Z...pl..
+    0040 - 83 96 88 1d d3 23 da 3a-42 03 ff f9 5c e1 5a f5   .....#.:B...\.Z.
+    0050 - 6a 90 89 1d f5 33 45 85-d7 db 11 98 15 b0 f4 c5   j....3E.........
+    0060 - d4 9b 0a c8 47 9a 75 cf-d8 df 04 a0 d4 7a 31 f9   ....G.u......z1.
+    0070 - 97 25 9e f9 bf c8 16 f6-21 17 ac a8 31 5a 18 d7   .%......!...1Z..
+    0080 - 03 69 d6 c0 70 b3 1a a3-88 07 d3 13 ba a3 52 58   .i..p.........RX
+    0090 - d8 15 7f b3 f8 e9 56 bd-fc 5a 38 ca bb 38 f0 9a   ......V..Z8..8..
+    00a0 - 35 04 e2 6e f3 f4 a5 3d-5d fe 71 d4 c3 ac 16 ea   5..n...=].q.....
+    00b0 - 56 4c 5c dc 17 3d 2a 17-3e 2e 04 f6 82 49 68 ac   VL\..=*.>....Ih.
+
+    Start Time: 1732697179
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

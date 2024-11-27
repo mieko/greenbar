@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=rtbhouse.com
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 30 15:16:17 2024 GMT; NotAfter: Dec 29 16:08:30 2024 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJDCCBAygAwIBAgIRALmCTaRNZATiCsYZItCv/bQwDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IzMB4XDTI0MDkzMDE1MTYxN1oXDTI0MTIyOTE2MDgzMFowFzEV
+MBMGA1UEAxMMcnRiaG91c2UuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA3sdzujBsujH6ngCJT/Xzlaoqq0/V0/9JEf9OHb0v6wv8v1+pANdhqfq2
+N1dq0noJR2Yl6oKJdlUiwjPG5zRnqpe0mIB157nun3uzOeCiyFNjYUiWqFH5Bze3
+6ZolkRRu1vksEDALywHPZVTTDLX/EB7BcNgS9/M46pKrGwbIoQ3EBOoFKaYT0O3P
+ahCvQTio/aAwbY4NeSrRiQejaqhTg35KSea+BQCgMsb/rq8qmkjIe7hozkObStdw
+XaF3wlKTfhTJmDHdeTqQnwPQfiDRIj7cvfyoTiRZyIc2Xm+g/mMGvqSimwARPVsJ
+FuygzXoilNmoCqXIrdhP23aY5MEmxQIDAQABo4ICRTCCAkEwDgYDVR0PAQH/BAQD
+AgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FMbBrpMirNEUB1u6atyR45SmeAsxMB8GA1UdIwQYMBaAFMeB9f2OiNkAPE1jolAx
+JKDOI/4jMF4GCCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtp
+Lmdvb2cvcy93cjMvdVlJMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93
+cjMuY3J0MBcGA1UdEQQQMA6CDHJ0YmhvdXNlLmNvbTATBgNVHSAEDDAKMAgGBmeB
+DAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93cjMvY2Vt
+dWl2Zzc1WGsuY3JsMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAdv+IPwq2+5VR
+wmHM9Ye6NLSkzbsp3GhCCp/mZ0xaOnQAAAGSQ7fljAAABAMASDBGAiEAhQd5iMbh
+6lC5qDwuJ//ae6heU9Hqtbng5zUu3iYh1W4CIQDLsFeSpJm3R4V0OzT5TGMZrn4S
+sB2zdGTo+bvRPt5ERwB1ANq2v2s/tbYin5vCu1xr6HCRcWy7UYSFNL2kPTBI1/ur
+AAABkkO35ZQAAAQDAEYwRAIgPYWiCQO34OoKMcCQMzB8DiKPtVkh7M1MjK/VwX52
+LGcCIGySTEntqwoZM15h6fLd7yteWE7uF/UZVdXV6TDLH3R8MA0GCSqGSIb3DQEB
+CwUAA4IBAQCODffgVhSt1+MffaTBRObDRW0W0qMMVoRkh1cNN1wM+x3/w8ckSATd
+aR7OhZ93J/xVXtjbQsPBgV1pzaeV8E2vB4ii/WJSyZEuc+oR3X/UZilpiQbPJR0B
+5Dh0SRSZc+mfDcwFyyo/WFcihCPUnHlsXQ1QI/BO4ZM9FwcSezBWcoCKQh64P88R
+nor10BEkPRqkYE4U9uFHTcAjJWocgLdtUFcOIK2ptN2MoXBHEyzdZo8WrrDuVImA
+QuOLcIzAMEwcN9rsopNsT1mzopYMAtw8Xkw9zz7zjrBmpfHZcNVxbKNjysLJEBWb
+b/r4q5l4L/qsSSDLKLo5xmhGV/TQVRWU
+-----END CERTIFICATE-----
+subject=CN=rtbhouse.com
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4497 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

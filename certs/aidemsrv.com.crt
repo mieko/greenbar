@@ -1,0 +1,65 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.aidemsrv.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct  8 00:00:00 2024 GMT; NotAfter: Nov  7 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEqTCCBE6gAwIBAgIRAKkyKEUrC8HZh9oWASBTQ6QwCgYIKoZIzj0EAwIwgY8x
+CzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAOBgNV
+BAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UEAxMu
+U2VjdGlnbyBFQ0MgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQTAe
+Fw0yNDEwMDgwMDAwMDBaFw0yNTExMDcyMzU5NTlaMBkxFzAVBgNVBAMMDiouYWlk
+ZW1zcnYuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5TzMUzGi8RMJDdGv
+bbi8pKhHcZ7Ml/pB1TUMwZs37kVuuthDCknQbzZzKI+rR8bEnrKve74Lb9MM0yvl
+4i+6VaOCAv4wggL6MB8GA1UdIwQYMBaAFPaFCjsRhuEEfQ6qCyzS7sxke3uuMB0G
+A1UdDgQWBBQeyi13V6QlJE/jfpCoZTES/cvCqzAOBgNVHQ8BAf8EBAMCB4AwDAYD
+VR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0g
+BEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3Rp
+Z28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcw
+AoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvRUNDRG9tYWluVmFsaWRh
+dGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Au
+c2VjdGlnby5jb20wJwYDVR0RBCAwHoIOKi5haWRlbXNydi5jb22CDGFpZGVtc3J2
+LmNvbTCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHYA3dzKNJXX4RYF55Uy+sef
++D0cUN/bADoUEnYKLKy7yCoAAAGSbHy2tQAABAMARzBFAiAen4VYIXkR89r76vIy
+HNR4FpjaRFt9XOvSeYElGy6shAIhAJHEpiq5M8Pb8nMx5t0iMGW1yo6IqmiGvd36
+MgToJqFQAHUAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGSbHy2
+ZgAABAMARjBEAiAs3H401IacFDzVbTEahWH/2kmx/dMEkXKyXXtydnYL5wIgP9TO
+D/aZwL6Vh8qolNEhK7a7HPzWTihR3r84xI14rU4AdwAS8U40vVNyTIQGGcOPP3oT
++Oe1YoeInG0wBYTr5YYmOgAAAZJsfLZBAAAEAwBIMEYCIQCfVeKgYxSzlZeHoU7y
+yoJ+RR0fvyPkc3xCQz4uUb6rrwIhAPl6rBRoAZYd9fAAs3833E0Vo5jis8qRMYCa
+jcV4xqEdMAoGCCqGSM49BAMCA0kAMEYCIQCM0TbO00pOAzykcAvj8KLlynSO/s9W
+yqMi6l7qYSTbDAIhAOjiCKWefsxsd1uLtsTkw+SWQ9C1p+u/vlqRWKBdcH2s
+-----END CERTIFICATE-----
+subject=CN=*.aidemsrv.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3439 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

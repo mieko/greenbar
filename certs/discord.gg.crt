@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=discord.gg
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  8 23:24:21 2024 GMT; NotAfter: Feb  7 00:24:16 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDoDCCA0egAwIBAgIRAKMLvsqnYUYvEXC8NUuE8M8wCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEwODIzMjQyMVoXDTI1MDIwNzAwMjQxNlowFTETMBEG
+A1UEAxMKZGlzY29yZC5nZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABEivHlsE
++KykT0NXvOQ6qngQ+CYIiRvGkfTSw4wSCusVk2f9hI4PfYius3qmphGOjHrMunpP
+ZK97odQpVSqyZySjggJQMIICTDAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUBOArph0jcs7O0QPs6AJr
+vl28E4QwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9vd3Mw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwIwYDVR0RBBww
+GoIKZGlzY29yZC5nZ4IMKi5kaXNjb3JkLmdnMBMGA1UdIAQMMAowCAYGZ4EMAQIB
+MDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dlMS9MY1Qzck1U
+OUtwTS5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDm0jFjQHeMwRBBBtdx
+uc7B0kD2loSG+7qHMh39HjeOUAAAAZMOTsE8AAAEAwBGMEQCIB26/CSPEmkQTl+E
+jAGinH9oCzN4mnkhQoIxjzADWgZDAiBUdS8NssiXeO7NJqCo8KTWjoIOzPzSIRLE
+WWG1XkG2jAB2AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABkw5O
+wVgAAAQDAEcwRQIhAMoe7UhewpbN3iSXtHTtvDp6CJ172QNWadJ1MZ/qGY/ZAiBr
+XasP9cvy2eOtR0/l/ortzecPHzL87TJsjHh6f7BZgTAKBggqhkjOPQQDAgNHADBE
+AiAkrY1Gyl2uC3NEuex1zCRoSzIsDJc06X0ie+fvN/xWDwIgGdIk0tUxtVNs4LyY
+a1gA+sPT3Yj014ub62O3W4Lx/B4=
+-----END CERTIFICATE-----
+subject=CN=discord.gg
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2819 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

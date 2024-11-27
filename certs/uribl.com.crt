@@ -1,0 +1,101 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=uribl.com
+   i:C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  4 00:00:00 2024 GMT; NotAfter: Feb  2 23:59:59 2025 GMT
+ 1 s:C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jan 30 00:00:00 2020 GMT; NotAfter: Jan 29 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGcTCCBFmgAwIBAgIRAKlJKWgkxl9hcszTDIwJ1b4wDQYJKoZIhvcNAQEMBQAw
+SzELMAkGA1UEBhMCQVQxEDAOBgNVBAoTB1plcm9TU0wxKjAoBgNVBAMTIVplcm9T
+U0wgUlNBIERvbWFpbiBTZWN1cmUgU2l0ZSBDQTAeFw0yNDExMDQwMDAwMDBaFw0y
+NTAyMDIyMzU5NTlaMBQxEjAQBgNVBAMTCXVyaWJsLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMPO2aU3nXRvQHfJabgWe/9MEZCw0HAxXm/j8h7Z
+EAVKcip+TqMLKvS0NShi9ZYDtjGhnFzhZ/S+xv2/1SG6uhZX1NJvsIfSzBYSqu0l
+00TaK6z5B1qobrAEpgqhBBuCisJn7Z8V185iVNur1TYcLg1Yz6cbtzEzRVHhJ/99
+NtJNNIFa2H8GkNux1FKvP+IhW+G1ODfUWKTnQ4fJsTuipZgw6HAm6fmpjoOOQctN
+IMC+8ATh/x3owB0H9tLjc9fNPeBWMWVyTRS4Umyb/2hq0CANQG/nirkp86wWsIj0
+5CJ3hieJHfVY0GeAiOQM+dV7r4wk75nAILiBS6rxYSmyZG0CAwEAAaOCAoUwggKB
+MB8GA1UdIwQYMBaAFMjZeGii2Rlo1T1y3l8KPty1hoamMB0GA1UdDgQWBBQ83swx
+Ee1Rx0OcRWI2sqYLUeTZODAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEE
+AbIxAQICTjAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAI
+BgZngQwBAgEwgYgGCCsGAQUFBwEBBHwwejBLBggrBgEFBQcwAoY/aHR0cDovL3pl
+cm9zc2wuY3J0LnNlY3RpZ28uY29tL1plcm9TU0xSU0FEb21haW5TZWN1cmVTaXRl
+Q0EuY3J0MCsGCCsGAQUFBzABhh9odHRwOi8vemVyb3NzbC5vY3NwLnNlY3RpZ28u
+Y29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAzxFW7tUufK/zh1vZaS6b6Rpx
+Z0qwF+ysAdJbd87MOwgAAAGS94BepAAABAMARzBFAiB7tpb5YvHrX86Be5Yenc2O
+lCjksKH4u4s52m7pavyvjwIhAIk0LPIo92vD4pRUD8cg8A0hEeCyMe7I5ji1QaY2
+JvTqAHcAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGS94BeZgAA
+BAMASDBGAiEAhz/AfNiITUCjNVpNPjoZNgefkUElVWIxHplqm4kDtsYCIQDavyVR
+UustWfkqrzHQG3ntJNFkIU/XLFck1Zo3CXHM5TAjBgNVHREEHDAaggl1cmlibC5j
+b22CDXd3dy51cmlibC5jb20wDQYJKoZIhvcNAQEMBQADggIBAA5fyr9Ifn6D7/wG
+htpBYpiHffUt1mQRtY1oSCcbOwL9cFaD+0Yn08h7yVbpOKuCo6+6+krCWSyFKOuE
+UabKE41McClsYL778SNPQy1U/RpUe7+HyUkJDW53J1LP7gtm3UIiYyjFyTB8NznU
+FQfDFPv9w+H6Q3sqlMs3J+KAJrdk6LIMuovFJ2l4P6Lbk2V2MOhWB9gXWg0wODJ7
+OWa37gJS32IvlvoFOiq1akMXJ65Xn+c6wEOs3oTWLvUb96eLw3wz6mstTY+CinTr
+8ukPA7aVwVj8GiNoxksswfZjWJE1+d0s+PejSPgKP3wkbTmz46+v6lj9gpexhyNK
+M5QSDPvAMizUwuLlkiTDFHmuQE37qdmF76VXWCqNLRjYjxpIqqSoLGd0LEsZdcNY
+gHKMaTOgIEw99kXifTYiKpqsWamdfyo55Ih9yR6Fen3f+7JYaMVqzNsc36OePm1X
+89EwK1wmaerrtmluvPPpgM28VIRx2KnAoXh6/0UqFgpHZI7/sv/BfTqv6H/FIGxE
+uV+gSU0RRBui/CHT2h18VsLj/QwbU0V7kVCXfQ099YMdlInqiJ7OAFW9+vThbzix
+6l14SD6Un4b7BX7cJbR/oVTZdIVODlotIFlpHWC7GapFYRo7R1W7CkHDUPqL8KAJ
+4tZDDEzj6ZE5UF3izviNLLBsG1QJ
+-----END CERTIFICATE-----
+subject=CN=uribl.com
+issuer=C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5515 bytes and written 446 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: E7F6A49303CE640791B133DC9FF0A64577F2FD7265F5BB65AA5C067EFD9BB741
+    Session-ID-ctx: 
+    Master-Key: 93A312513EEC20EF996625688320F2272A584AE3631DF0E18C996F7B23F0BEA402129AD0809F0AE7A42F9D5B9690BDC0
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 83 f8 74 21 14 d8 b5 6d-e6 6e 2c be 4b c6 ea 54   ..t!...m.n,.K..T
+    0010 - fa 76 81 0f f6 37 4d 17-05 28 5e 56 58 4e eb 28   .v...7M..(^VXN.(
+    0020 - 85 9b ed 75 b8 b0 60 15-a4 8b 31 fe 52 e5 e9 6e   ...u..`...1.R..n
+    0030 - 6f 1e 6c 6d f0 35 0c 93-45 50 3c 6f ca eb 4c f1   o.lm.5..EP<o..L.
+    0040 - 53 3f 22 51 3f 01 6d 57-2d ef 2f 00 6a 8e 09 64   S?"Q?.mW-./.j..d
+    0050 - 8b 4a 62 1d b6 f3 20 cd-21 6d f7 1f 7b 63 ed d1   .Jb... .!m..{c..
+    0060 - 4f 30 51 3b 6b b8 ef c5-05 c4 4b 88 73 75 ea 76   O0Q;k.....K.su.v
+    0070 - 90 1c 9f a1 75 09 cb 90-43 a7 0c 6e 98 c0 a5 a4   ....u...C..n....
+    0080 - d3 4e 28 e0 8f d6 86 6a-a5 eb 37 de 3a 0b 2a a4   .N(....j..7.:.*.
+    0090 - 78 61 c9 ab fa 1d 68 dd-89 66 50 53 4d 68 bb 64   xa....h..fPSMh.d
+    00a0 - 66 b0 6e f9 53 df ca 9c-62 ba 2c d2 5f ed c6 98   f.n.S...b.,._...
+    00b0 - 84 06 6d d8 e7 44 99 6f-bc a6 78 14 f0 2c f5 59   ..m..D.o..x..,.Y
+
+    Start Time: 1732697938
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

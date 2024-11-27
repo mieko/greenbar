@@ -1,0 +1,102 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Jose, O=Cisco Systems Inc., CN=www.cisco.com
+   i:C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  8 14:05:00 2024 GMT; NotAfter: Sep  8 14:04:00 2025 GMT
+ 1 s:C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1
+   i:C=US, O=IdenTrust, CN=IdenTrust Commercial Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 12 16:56:15 2019 GMT; NotAfter: Dec 12 16:56:15 2029 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHkDCCBnigAwIBAgIQQAGR0fPH7E6nOzAb4+BqkDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzESMBAGA1UEChMJSWRlblRydXN0MS4wLAYDVQQLEyVIeWRy
+YW50SUQgVHJ1c3RlZCBDZXJ0aWZpY2F0ZSBTZXJ2aWNlMR8wHQYDVQQDExZIeWRy
+YW50SUQgU2VydmVyIENBIE8xMB4XDTI0MDkwODE0MDUwMFoXDTI1MDkwODE0MDQw
+MFowajELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExETAPBgNVBAcT
+CFNhbiBKb3NlMRswGQYDVQQKExJDaXNjbyBTeXN0ZW1zIEluYy4xFjAUBgNVBAMT
+DXd3dy5jaXNjby5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC/
+wU5OuamFtpNuSRH1xFjisnS+beEVUs/zhJ+cJRFu/iu485ijVJH+yNc0CdoZRRsA
+CzhMiwKME0cfkPa3OCBQzY55b4HPn+pIsDzKCBdIe8RyB/ecvhuLhfBKpfjnmy2z
+EJ9CqvOGl8m9nN791lvIE/qgPx6VXQnE7aSikH1hRtlSsL3uMxXyju2VvooKt1CK
+A7JsBCgFdchLprUJPqYXByuh9koK7K0beoAhjGyFjgPmm9XN1REgJVArVfMZGNUu
+37txLGcLOsFAmMoSR44A8VBrMDy+Xz3djxyvH5lUUHzoENTSTztuWeB7THr5nECb
+FnufAIvQ2LmLvrGkWS3tAgMBAAGjggQoMIIEJDAOBgNVHQ8BAf8EBAMCBaAwgYUG
+CCsGAQUFBwEBBHkwdzAwBggrBgEFBQcwAYYkaHR0cDovL2NvbW1lcmNpYWwub2Nz
+cC5pZGVudHJ1c3QuY29tMEMGCCsGAQUFBzAChjdodHRwOi8vdmFsaWRhdGlvbi5p
+ZGVudHJ1c3QuY29tL2NlcnRzL2h5ZHJhbnRpZGNhTzEucDdjMB8GA1UdIwQYMBaA
+FIm4m7ae7fuwxr0N7GdOPKOSnS35MCEGA1UdIAQaMBgwCAYGZ4EMAQICMAwGCmCG
+SAGG+S8ABgMwRgYDVR0fBD8wPTA7oDmgN4Y1aHR0cDovL3ZhbGlkYXRpb24uaWRl
+bnRydXN0LmNvbS9jcmwvaHlkcmFudGlkY2FvMS5jcmwwggE9BgNVHREEggE0MIIB
+MIIJY2lzY28uY29tgg13d3cuY2lzY28uY29tgg53d3cxLmNpc2NvLmNvbYIOd3d3
+Mi5jaXNjby5jb22CDnd3dzMuY2lzY28uY29tghB3d3ctMDEuY2lzY28uY29tghB3
+d3ctMDIuY2lzY28uY29tghF3d3ctcnRwLmNpc2NvLmNvbYISd3d3MS1zczIuY2lz
+Y28uY29tghJ3d3cyLXNzMS5jaXNjby5jb22CEnd3dzMtc3MxLmNpc2NvLmNvbYIS
+d3d3My1zczIuY2lzY28uY29tghR3d3cuc3RhdGljLWNpc2NvLmNvbYIVcmVkaXJl
+Y3QtbnMuY2lzY28uY29tghZjaXNjby1pbWFnZXMuY2lzY28uY29tghh3d3cubWVk
+aWFmaWxlcy1jaXNjby5jb20wHQYDVR0OBBYEFKlh31h68gVsI9snPn031eEdFzFb
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjCCAX0GCisGAQQB1nkCBAIE
+ggFtBIIBaQFnAHYAEvFONL1TckyEBhnDjz96E/jntWKHiJxtMAWE6+WGJjoAAAGR
+0fPIJAAABAMARzBFAiATbeH63wAWMjjA0GFw6ML5uo+1XX1O5czt4PQg0E9dcAIh
+AOqPafelrT4hzexmJv9+8CP1EymIJar7c2WeLO91vnW8AHUA3dzKNJXX4RYF55Uy
++sef+D0cUN/bADoUEnYKLKy7yCoAAAGR0fPIXQAABAMARjBEAiAg1sJSfyTltvb+
+R4myLPHcLgOWjTW9KIxgKGtDcT9l6wIgbFZhn45uD4BTuRxY2KZQ9Ijhu6ltq1pC
+9v2+6w8UeOoAdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZHR
+88iPAAAEAwBHMEUCICa7LN0eYyY86c7lWDYDmNFKDVIt6/HH3O0tpqSiRRSoAiEA
+r73AzR3kfRE2ox2gpIximvKhUCQS6aLLfu5VKzgJPeAwDQYJKoZIhvcNAQELBQAD
+ggEBAA10xhgtkjBr+gI3d8Lt5Et4wgpXkAh/2usSo3Eon19GN95KSE9STjncbapk
+txKOOLjIVAGPpQH5PxTjGqkI8x0sECpNHdiepdfWytBPMlNhrcpCnWq14SJWy8QB
+V1k7Ko2sDcbXp2A5n0U5x8EL1Yp0xeMkmBBN0I0FRAPMnQTan6XvlXUzvQGu1RK5
+J8NEq9i4egPdgvSfrsvPpMIZ1PrpoTEAeicX0afY2MJPfO6ZAtgKb/oYHwCHXFKQ
+IO9SVeVTtn810FjmN2T8XnWBu9DhsXbEQHK8F99fjuxpBiqoI5/1fQwSQuDbWKQ4
+IbitM3vJ2VPm9NK1Fg7uxrOhjgM=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Jose, O=Cisco Systems Inc., CN=www.cisco.com
+issuer=C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4342 bytes and written 413 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 0B0EE0B1B4BE8910A76EFB7B85DD218EFE755C403AE3B67870FC494DBAB69F02
+    Session-ID-ctx: 
+    Master-Key: 021216B4AA60140ABE542202B55FCB1A7BC215D60929D59C448034B214CF1E65DB80BB2A65FA049BE6232662B517657E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 12 3b c9 b8 94 9f 5a ae-d1 4e aa 29 6a e1 76 47   .;....Z..N.)j.vG
+    0010 - 25 d3 f8 71 5b 0e 57 a8-c0 ac d3 09 5e 21 f6 0f   %..q[.W.....^!..
+    0020 - bb 13 d2 26 f1 17 b1 43-a1 97 b0 3c 99 0c 15 bd   ...&...C...<....
+    0030 - 85 e3 d3 a7 51 19 4d 7e-6e 5d b1 3c 11 35 fa a0   ....Q.M~n].<.5..
+    0040 - b4 70 78 e8 8f 52 27 38-d9 33 50 2a 6b 14 7d 06   .px..R'8.3P*k.}.
+    0050 - d3 7a 3c 45 23 1e 7c 86-55 19 98 e7 d4 aa 52 7e   .z<E#.|.U.....R~
+    0060 - dd 04 c8 4f 8f ec 32 2d-f6 2b 67 94 47 45 58 8e   ...O..2-.+g.GEX.
+    0070 - 18 7c 1e af 2c fc d1 f2-72 a6 3e 45 e1 4f 4e cf   .|..,...r.>E.ON.
+    0080 - 6f 16 2e d9 c5 5a a0 9a-0c 36 da 39 26 10 3b ff   o....Z...6.9&.;.
+    0090 - 09 74 12 ec fc 61 c8 c8-4b cc 45 9e 41 0a 5b d0   .t...a..K.E.A.[.
+    00a0 - c2 9f c3 5f a8 ce 67 4d-72 2f 52 30 b6 51 8a 1b   ..._..gMr/R0.Q..
+
+    Start Time: 1732697069
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

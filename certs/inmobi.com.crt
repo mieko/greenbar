@@ -1,0 +1,109 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=IN, ST=Karnataka, O=INMOBI TECHNOLOGIES PRIVATE LIMITED, CN=inmobi.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 30 00:00:00 2024 GMT; NotAfter: Sep 30 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHSjCCBjKgAwIBAgIQWC8AtjwWNIQl+yH//aiADTANBgkqhkiG9w0BAQsFADCB
+lTELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMT0wOwYDVQQD
+EzRTZWN0aWdvIFJTQSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTZWN1cmUgU2Vy
+dmVyIENBMB4XDTI0MDkzMDAwMDAwMFoXDTI1MDkzMDIzNTk1OVowZDELMAkGA1UE
+BhMCSU4xEjAQBgNVBAgTCUthcm5hdGFrYTEsMCoGA1UEChMjSU5NT0JJIFRFQ0hO
+T0xPR0lFUyBQUklWQVRFIExJTUlURUQxEzARBgNVBAMTCmlubW9iaS5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDnEvD8hCfHLTSLlOg3jt5YnaHM
+MDGfDF+h6Af51foUS8gLL3Xn7Fgql22gtLLfb9u39+Lt0hiZlf6+dnpehw7BMaMF
+oIlpM5tkA8tgWUILbO/H51o8NS7ZhGxX9NeLUXh3TVg7CEAPMPyMyouzj1jv0wsj
+rBCGFdVZArWST/PCd2tq31EkH7waC6Z8hXAWWzDq+zlGj+rCluPhUAK4yy7RV0Ie
+/tMXP6fHHnz8LhHZy4UYETyLEN0ko+YwDEvpTCPejVYo84VGDL6kNWuFLVhInyL3
+Bo9aVUS/WFxMStiNeoYDG0rPl15JUaP5WYIhhIWaYS9zwweXiyCzJCj3VvdpAgMB
+AAGjggPEMIIDwDAfBgNVHSMEGDAWgBQX2dYlJ2f5McJJQ9kwNkSMbKlP6zAdBgNV
+HQ4EFgQUVdhGpHzAifd/xIMV2aM6MjU6bdkwDgYDVR0PAQH/BAQDAgWgMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEoGA1UdIARD
+MEEwNQYMKwYBBAGyMQECAQMEMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGln
+by5jb20vQ1BTMAgGBmeBDAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3Js
+LnNlY3RpZ28uY29tL1NlY3RpZ29SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2Vj
+dXJlU2VydmVyQ0EuY3JsMIGKBggrBgEFBQcBAQR+MHwwVQYIKwYBBQUHMAKGSWh0
+dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JTQU9yZ2FuaXphdGlvblZhbGlk
+YXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3Nw
+LnNlY3RpZ28uY29tMIIBfAYKKwYBBAHWeQIEAgSCAWwEggFoAWYAdQDd3Mo0ldfh
+FgXnlTL6x5/4PRxQ39sAOhQSdgosrLvIKgAAAZJDVhCTAAAEAwBGMEQCIHI2JtMV
+aW6SAwBjSIxc80KOXgurYTiEuY76IsHqUT0MAiBzt8rU6x69uSQdBzmnyJvsvs7u
+isr18tgdT2hIOkPWdAB1AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2w
+AAABkkNWEW0AAAQDAEYwRAIgJ+DBO27zL8aGT6CC8Er33aoYwqoFxrKR91IukKWI
+hLoCIG1mJI+gH/jD70GeFteQFSlJxHDHSjcOgeh/6qynEOSGAHYAEvFONL1TckyE
+BhnDjz96E/jntWKHiJxtMAWE6+WGJjoAAAGSQ1YQdgAABAMARzBFAiAFqgWVXEgD
+RHuQzuVXTq6FRD/aAdamYvgNl1GP20KeSQIhAK2v1Aebg5NerLJltcz+6PA/QUDj
+rWbDuIhIqMTufB05MIGLBgNVHREEgYMwgYCCCmlubW9iaS5jb22CFmFkdmVydGlz
+aW5nLmlubW9iaS5jb22CEGNoaW5hLmlubW9iaS5jb22CFGluZG9uZXNpYS5pbm1v
+YmkuY29tghBqYXBhbi5pbm1vYmkuY29tghBrb3JlYS5pbm1vYmkuY29tgg53d3cu
+aW5tb2JpLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAW+Nip7/K1upnK5SfPaE8V1xK
+grRNaOeIVa1+yvTELdt9KHVreQ9X9ISCHMunhofnIMqybwi8JmzFhu5jCaJ+H+ad
+QijhRABK7wCrIbgM1bSeSf1ZwvQwjmPRoW8oSXuo0tzg4qJ0njW17Zyec+robYiN
+4spN4bxoZXiYaH8RbG1eMFnELPK1ynD0Jywd51KN8WZTLmFYnBf9Smfn9jVsXtpn
+p05gDfdq/QgVyueT/uSFaGBoj8cYR0gUlR9IBmMpJi/aEy/Na0yNl6AzODkuGyhA
+hTOTZqE2YZ6C6RfESGTYShsCluAc0nAJSwazycJ6gBHndv9L7XrelyRmMvBHkA==
+-----END CERTIFICATE-----
+subject=C=IN, ST=Karnataka, O=INMOBI TECHNOLOGIES PRIVATE LIMITED, CN=inmobi.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 6625 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 6B940EED981128080DC4AAAF426E831C6CF3D653F59E9F2EBD2B4C7055B3B82B
+    Session-ID-ctx: 
+    Master-Key: 6ED97C4702622CCB2816E50B1869E7988F35AF36F158164408F4FC6C4CCE52D8A14C4A1EAE9CA66374EC461F0B7D785E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 23 d7 df 67 f3 2e 00 ed-9d ad ea 3c c8 69 a4 a1   #..g.......<.i..
+    0010 - 0f 81 f7 ba d9 84 53 e3-2c 7f 2a 60 ff 5d 50 0d   ......S.,.*`.]P.
+    0020 - 6c 26 fc 67 83 f5 46 f5-33 69 d4 ec 8f 5e 03 c7   l&.g..F.3i...^..
+    0030 - 45 4b c3 d8 4f 10 cb f6-da 5d ce cc 90 47 e1 cc   EK..O....]...G..
+    0040 - 43 67 49 19 9e 93 a4 c4-f1 8b 81 3a 0b 70 12 bf   CgI........:.p..
+    0050 - 2f ca f2 ad 5a 5e 9e 1b-28 46 f3 15 7e 73 63 f2   /...Z^..(F..~sc.
+    0060 - e8 ca be cc f5 b8 35 02-6a 00 fc c4 78 37 0e 6a   ......5.j...x7.j
+    0070 - 04 83 d1 52 b3 ed 54 7b-38 d6 00 b6 45 3b 4e 28   ...R..T{8...E;N(
+    0080 - 85 c2 51 50 78 c9 59 e8-50 6d ca 82 72 95 5b e7   ..QPx.Y.Pm..r.[.
+    0090 - 92 eb 51 59 27 ec e9 15-0b e3 4b 24 6b 83 3f 60   ..QY'.....K$k.?`
+    00a0 - cf ad d5 33 88 cf 07 82-0c e9 63 80 91 d5 5b 5e   ...3......c...[^
+    00b0 - d4 d2 29 34 52 40 c2 b8-29 8b 0f 15 0e 23 ad 82   ..)4R@..)....#..
+
+    Start Time: 1732697347
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

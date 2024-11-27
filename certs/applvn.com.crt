@@ -1,0 +1,61 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=applvn.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 30 07:29:16 2024 GMT; NotAfter: Jan 28 08:28:39 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID6zCCA5GgAwIBAgIRAJBwctUdLGqhDRoGA11Mq+UwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTAzMDA3MjkxNloXDTI1MDEyODA4MjgzOVowFTETMBEG
+A1UEAxMKYXBwbHZuLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABMhUIEZl
+1Mld1Sh14Vm+Ndm8Zi/eXO7FqzEfoifuf178liYx69QlXwGtrdSlItSc23r/5Z+I
+Tu1OU92AEZAoRpyjggKaMIICljAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYI
+KwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUHx/1b7jMzCCb1wQ+IJEd
+MBYCDnYwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUH
+AQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9rSEEw
+JQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwawYDVR0RBGQw
+YoIKYXBwbHZuLmNvbYIMZC5hcHBsdm4uY29tgg1tcy5hcHBsdm4uY29tggx3LmFw
+cGx2bi5jb22CDCouYXBwbHZuLmNvbYIMYS5hcHBsdm4uY29tgg1ydC5hcHBsdm4u
+Y29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6
+Ly9jLnBraS5nb29nL3dlMS8tWWo3T1lMNURuZy5jcmwwggEFBgorBgEEAdZ5AgQC
+BIH2BIHzAPEAdgBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAZLc
+ixxTAAAEAwBHMEUCIAjEa+SQURXPRSVZvWjaqEv6F0eMyhzXgaKsj9arqnMmAiEA
+tbOEQ+gtYsJQQhbb/la9njw0bX0CxbsqEE9RL2Ktm5sAdwDM+w9qhXEJZf6Vm1PO
+6bJ8IumFXA2XjbapflTA/kwNsAAAAZLcixyRAAAEAwBIMEYCIQCMh4V8fKcflZcc
+rCAQR/mvXRCuGdL62AO6ZQt3D7dtRwIhAIh2xqKcFTz5qBOrwcKgmXvpPeSW5REk
+hFpp/43DDTNzMAoGCCqGSM49BAMCA0gAMEUCIAVDVSriBJ7+/zgpgCpcUEH6tc2M
+C9x1xOpW6S8Di2qyAiEAqEW5B+7qdasyAd+MBNC6Zl8HsIG8cy72ctfk2avo+WQ=
+-----END CERTIFICATE-----
+subject=CN=applvn.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2896 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

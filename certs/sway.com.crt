@@ -1,0 +1,97 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=WA, L=Redmond, O=Microsoft Corporation, CN=sway.office.com
+   i:C=US, O=Microsoft Corporation, CN=Microsoft Azure RSA TLS Issuing CA 03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Oct 12 16:12:03 2024 GMT; NotAfter: Oct  7 16:12:03 2025 GMT
+ 1 s:C=US, O=Microsoft Corporation, CN=Microsoft Azure RSA TLS Issuing CA 03
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jun  8 00:00:00 2023 GMT; NotAfter: Aug 25 23:59:59 2026 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJMjCCBxqgAwIBAgITMwDjj3Sf/JuxoSGY5wAAAOOPdDANBgkqhkiG9w0BAQwF
+ADBdMQswCQYDVQQGEwJVUzEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9u
+MS4wLAYDVQQDEyVNaWNyb3NvZnQgQXp1cmUgUlNBIFRMUyBJc3N1aW5nIENBIDAz
+MB4XDTI0MTAxMjE2MTIwM1oXDTI1MTAwNzE2MTIwM1owZjELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgTAldBMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNyb3Nv
+ZnQgQ29ycG9yYXRpb24xGDAWBgNVBAMTD3N3YXkub2ZmaWNlLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAJrXl9Mg8eUe+m7XRzfGx24PHnjaHOdw
+XPOoG4ES31bg9oKY/qz4ZmWz+FmPksDIQbNxl7tmrkWWeDgVOrF4yfTaAkmInH7x
+XlTMzaiPQKuUl4ExwNcXXN5qPhHnqoh9nLIixeJEqlrrqyGKrIppCt/GtlgHbzwA
+mKluNyN1gPpkxssCEmP2Ml+8iaPqox9IjXjJtLrmJxrY+IZjpwgaBRLc1ZywBVHq
+UumKeNe7CORJ1bvDpbftNwBRgx5gf3GXLrcSD+N8HOiDycX8rblk1rA33ZaZhCm/
+dppbajJ/dVDsT8BzueCox/jt8su+qvjb60stWflVmXOB8T0q79lrJEkCAwEAAaOC
+BOAwggTcMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgAS8U40vVNyTIQGGcOP
+P3oT+Oe1YoeInG0wBYTr5YYmOgAAAZKBiYblAAAEAwBHMEUCIQDplc+iOCbuk5mk
+GmmbYHKCVWbYfJFB4ezzndvVhku0FgIgZU7QXJf39XcRG/h2olRcqJzWsxC2zNlj
+Mtd9YX2c6W8AdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZKB
+iYo1AAAEAwBHMEUCIH+Odp2JHhWS2910Cxt1fPfEzEQJztG2FtZcwkQKoqOxAiEA
+rirTHI55dB9rSk4wxKZ9EUCJed4DZL21ivJ/mkeRccwAdgAaBP9J0FQdQK/2oMO/
+8djEZy9O7O4jQGiYaxdALtyJfQAAAZKBiYifAAAEAwBHMEUCIQDE7G/qvbrVH5Bz
+qoGapyA0cCJpkpDhffnPOWBUGA9J0AIgK3NkZai/qhs/OsbjssJp5tePr2HnvlSw
+xOJHh55M4eUwJwYJKwYBBAGCNxUKBBowGDAKBggrBgEFBQcDAjAKBggrBgEFBQcD
+ATA8BgkrBgEEAYI3FQcELzAtBiUrBgEEAYI3FQiHvdcbgefrRoKBnS6O0AyH8Nod
+XYKE5WmC86c+AgFkAgEmMIG0BggrBgEFBQcBAQSBpzCBpDBzBggrBgEFBQcwAoZn
+aHR0cDovL3d3dy5taWNyb3NvZnQuY29tL3BraW9wcy9jZXJ0cy9NaWNyb3NvZnQl
+MjBBenVyZSUyMFJTQSUyMFRMUyUyMElzc3VpbmclMjBDQSUyMDAzJTIwLSUyMHhz
+aWduLmNydDAtBggrBgEFBQcwAYYhaHR0cDovL29uZW9jc3AubWljcm9zb2Z0LmNv
+bS9vY3NwMB0GA1UdDgQWBBSltxqP4cP4ve8hQOVhnDzSQcJoyTAOBgNVHQ8BAf8E
+BAMCBaAwgegGA1UdEQSB4DCB3YIPc3dheS5vZmZpY2UuY29tgghzd2F5LmNvbYIO
+Ki53d3cuc3dheS5jb22CEmRpcmVjdG9yeS5zd2F5LmNvbYIUKi5kaXJlY3Rvcnku
+c3dheS5jb22CESouc3dheS5vZmZpY2UuY29tghUqLnd3dy5zd2F5Lm9mZmljZS5j
+b22CEGV1cy13d3cuc3dheS5jb22CEHd1cy13d3cuc3dheS5jb22CEG5ldS13d3cu
+c3dheS5jb22CEHdldS13d3cuc3dheS5jb22CFHN3YXkuY2xvdWQubWljcm9zb2Z0
+MAwGA1UdEwEB/wQCMAAwagYDVR0fBGMwYTBfoF2gW4ZZaHR0cDovL3d3dy5taWNy
+b3NvZnQuY29tL3BraW9wcy9jcmwvTWljcm9zb2Z0JTIwQXp1cmUlMjBSU0ElMjBU
+TFMlMjBJc3N1aW5nJTIwQ0ElMjAwMy5jcmwwZgYDVR0gBF8wXTBRBgwrBgEEAYI3
+TIN9AQEwQTA/BggrBgEFBQcCARYzaHR0cDovL3d3dy5taWNyb3NvZnQuY29tL3Br
+aW9wcy9Eb2NzL1JlcG9zaXRvcnkuaHRtMAgGBmeBDAECAjAfBgNVHSMEGDAWgBT+
+CXFAVQUQRNikgXW4nhrpSgaIyDAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUH
+AwEwDQYJKoZIhvcNAQEMBQADggIBAD+BOsgCl7Q1Oc83gqYMtZsgUmaFAZrd19k2
+5J+Ev3sTqvkED/YSrKh5BWuVvTEb+XSUK47N/zgFcozz0yYuNjDjWuTPQK3l4eWj
+ad8+f/4cabSBipDgiJTqYGWWtoesDBQwNtAdu3EtxsrM36A3lF8c2D717T7ul+Q9
+91pQ8Pfq1Nd8u8W+bPfj10DyM+OixLW1Lw4M7pnzMxB/HMEQoy/OcnA7mFB8/gh4
+FF2X+gaFHsjc1n9mLkN8u5taDmB1o3lzxwo5PYnORuX6jq7b3Q0npwEgnXQ1n9rP
+5mB4xWjaZgHpgCKkWRjWvZCyu7w7EkubLXdBYQ686TvhwlB9f9fAZvUw+b83Hwub
+Z4T8TnG/g92gwXdYrS9h0qN6Oej2JIyEg+qQREbJAbBzfjkEeqvADChtZ2DJ/IPF
+JQPlqkzCK1JkIvfZ0fKOWG6nxN4bIKus9rtmg3OLHlZY8JhsbxQv6eePv9WiT7kJ
+KegCR1SZ8vzkMy5hiaRHg/Nruhlqwbm4ktk/KsqOPZW/Mc7u3ObD0INUMlBiEETp
+V/Guj2ll2MC1J95a4aMYjhgQnKstQTToxIABZYN2jg7//bCpvx3k47XKOVpXtBuz
+WmbGo0jYx9GqpnMXlSTHjzbJNGkXS9A5NKXADEfQ0X1xFKJD+dGxaxDKM+dtc7Pr
+S9njbe2U
+-----END CERTIFICATE-----
+subject=C=US, ST=WA, L=Redmond, O=Microsoft Corporation, CN=sway.office.com
+issuer=C=US, O=Microsoft Corporation, CN=Microsoft Azure RSA TLS Issuing CA 03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, secp384r1, 384 bits
+---
+SSL handshake has read 4337 bytes and written 477 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 493F0000A9414FB67A1BCBEAD4D7AD9AB7EB2FC183962989508D5F02712927F4
+    Session-ID-ctx: 
+    Master-Key: 675FE283A8134C524E72BEA68118AD990CCBD7E3F98B0F10CA311B86F01D1E1595724D16F9F932A9818F04CB11798967
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697844
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,92 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Washington, L=Seattle, O=WatchGuard Technologies, Inc., CN=*.pandasecurity.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 3072 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 19 00:00:00 2024 GMT; NotAfter: Sep 19 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHhDCCBmygAwIBAgIQCcqYAqTarRSyQ5bv92kpzTANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjQw
+ODE5MDAwMDAwWhcNMjUwOTE5MjM1OTU5WjB6MQswCQYDVQQGEwJVUzETMBEGA1UE
+CBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHU2VhdHRsZTEmMCQGA1UEChMdV2F0Y2hH
+dWFyZCBUZWNobm9sb2dpZXMsIEluYy4xHDAaBgNVBAMMEyoucGFuZGFzZWN1cml0
+eS5jb20wggGiMA0GCSqGSIb3DQEBAQUAA4IBjwAwggGKAoIBgQC/iK6c99JchVlM
+gvlbtkYZJ8f4fUhFnGYGJqrUiNU7jXqhXyEI55xpWmHMLfPBGmg8HUl3pKrB53bq
+miFNq6D/a2AUnSXPWyGla+igyXqsRaX7819H2L29EEvRZs15H37796rZuBHt3dXR
+k26Rs74wkcCtzDv1yOIlM5UgndtAfcx7/wUMQqugfIp6ugFXReGTlxLA6Mv2Kx49
+Yu3xQYDB1dsomRWekBN7c3CFjZLYGL1Fy9S9BHjqOfOG0nfHolLrbrDx0m0l34Js
+sgTYhSwOVA8iaYGJDrVyu/Ivf1Ws+ukcZNLHsi9yhLc9SahkJDbEvl7d2ACPpQiF
+YsLtSrg4lgdjlSJjG0mQY27a3lVFF2AxJUBvHpcu7OVHrlnjvsYsOfkfFmWHz5Cx
+IIvoJFMMTt5f/Gi7wMj6RsXzy39rc30Ea153KhXFnqqOIdzxJwsbOamMM9Wiu581
+AC2OcEgS5zFfyk5pWqzidLVPREK4W1qs8fdLXR5HLhXhCNSl7XkCAwEAAaOCA6Uw
+ggOhMB8GA1UdIwQYMBaAFHSFgMBmx9833s+9KTeqAx2+7c0XMB0GA1UdDgQWBBSO
+fHMspRp+lH0uniFACPNE49dl4jAxBgNVHREEKjAoghMqLnBhbmRhc2VjdXJpdHku
+Y29tghFwYW5kYXNlY3VyaXR5LmNvbTA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcG
+CCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjCBnwYDVR0fBIGX
+MIGUMEigRqBEhkJodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9i
+YWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcmwwSKBGoESGQmh0dHA6Ly9jcmw0
+LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENB
+MS0xLmNybDCBhwYIKwYBBQUHAQEEezB5MCQGCCsGAQUFBzABhhhodHRwOi8vb2Nz
+cC5kaWdpY2VydC5jb20wUQYIKwYBBQUHMAKGRWh0dHA6Ly9jYWNlcnRzLmRpZ2lj
+ZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNy
+dDAMBgNVHRMBAf8EAjAAMIIBgQYKKwYBBAHWeQIEAgSCAXEEggFtAWsAdwDd3Mo0
+ldfhFgXnlTL6x5/4PRxQ39sAOhQSdgosrLvIKgAAAZFp1GyjAAAEAwBIMEYCIQCS
+NylTXhdSrk7XV6uRjCyVkcwngTjxbdbUgwNAn7xPewIhALP41TEP8FbHkyz9G3EU
+Q1qNtqCUh/WeG67+23KgPGCSAHcAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/Z
+DowuebgAAAGRadRsbAAABAMASDBGAiEAzjfdL+6FLRJY0mGQH8IA0lqID635t7DK
+cGJx6mk6hzcCIQClVmojR5AZ3f3lWMpknOFqGmHZPDuF0OYiKcvcrU8YsQB3AObS
+MWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABkWnUbHAAAAQDAEgwRgIh
+AITx2MSM9+tKXwIMQkAGxvbSfBHEFUh5Ns9lzotQ4Kw2AiEA5r9UreAm26U+jFyN
+bJdcSpWbTqQ/0AnCiXYRhDeRLcgwDQYJKoZIhvcNAQELBQADggEBAGxHi17bz0bS
+sF0MUPKP+sHht2xoKUq823R64XItMTx1KVk4JbeT45IVxt8FtFLLvDw8skQFttp5
+CFsUw8dmw6NH5sSqUR0Bun27RLQjTOtL8CKIbhZaU3ZTElxY7sgq2W8XYraqXvWE
+r1uYQS+Up2bhSlz3OVoTreRP4FaBDrgzMKKWuGbRaIp20O0PgY+hmPUP+7pe01oY
+KNfrL47opuzTwWENndb3cdEUJ91zBGeek0QQD6Bva21DNAQj6lwqPJRH2IofmEkN
+ISoBm4R2J4CMW3VPhGwtib0PtXaY/9CERHgSD22k515GUdzmvXH3jhINtPUfe5Vz
+eVHKu1zvHhk=
+-----END CERTIFICATE-----
+subject=C=US, ST=Washington, L=Seattle, O=WatchGuard Technologies, Inc., CN=*.pandasecurity.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4713 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 3072 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BF12491462668D8847FA18786BCED53092A82D76AE3720C81226E7EB7B9E6580
+    Session-ID-ctx: 
+    Master-Key: 0CE759DCAD691D1812D5B7C014B1A233708AFF4218EFF218D705AEC13D9ACA8C0EDEC7567FCBBAF71F7BD851BCAF8FB9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697648
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

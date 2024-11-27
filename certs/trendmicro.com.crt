@@ -1,0 +1,93 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Texas, L=Irving, O=Trend Micro Inc., CN=trendmicro.com
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  6 06:09:30 2024 GMT; NotAfter: Jun  5 06:09:29 2025 GMT
+ 1 s:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  5 19:13:56 2015 GMT; NotAfter: Dec  5 19:43:56 2030 GMT
+ 2 s:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   i:C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul  7 17:25:54 2009 GMT; NotAfter: Dec  7 17:55:54 2030 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJ0DCCCLigAwIBAgIQZJBKBYm5jyCN8PzRVVvRfzANBgkqhkiG9w0BAQsFADCB
+ujELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUVudHJ1c3QsIEluYy4xKDAmBgNVBAsT
+H1NlZSB3d3cuZW50cnVzdC5uZXQvbGVnYWwtdGVybXMxOTA3BgNVBAsTMChjKSAy
+MDEyIEVudHJ1c3QsIEluYy4gLSBmb3IgYXV0aG9yaXplZCB1c2Ugb25seTEuMCwG
+A1UEAxMlRW50cnVzdCBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAtIEwxSzAeFw0y
+NDA1MDYwNjA5MzBaFw0yNTA2MDUwNjA5MjlaMGIxCzAJBgNVBAYTAlVTMQ4wDAYD
+VQQIEwVUZXhhczEPMA0GA1UEBxMGSXJ2aW5nMRkwFwYDVQQKExBUcmVuZCBNaWNy
+byBJbmMuMRcwFQYDVQQDEw50cmVuZG1pY3JvLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAKyLMnzcS46uJUG/whnX0WOoDntyAc4dvLNNJItsD3UO
+ZlsjwGS5kVWoOwPyLVemEeeCsI1LtMIXWf2FvDNbVsj+hJaPnDvjsOr2wxVY67mo
+jbZ85BxH7tNmCFibvSEZl0RRPbh775UvhIIhF4my/zsV4LiJcGn9N/1qsFMkS86q
+3iXJsE7/iA/uRmtt99gdGLd5NhvktusKvkVw+bmEK4vNglY1PvnjQZszEj9s2CMx
+WU1guXy9aiZZM/0Fj95ibE8Uci+oC191WzInhgwwcGgZlMU4saff56YRAYoEcs1j
+GR2/74ozZZFEjIRBsvY0xDrQJl6Ph/KkPh3sS1Uk3GcCAwEAAaOCBicwggYjMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFMg6orwgpgUelee5O/G6+L/pM9w2MB8GA1Ud
+IwQYMBaAFIKicHTdvFM/z3vU981/p2DGCky/MGgGCCsGAQUFBwEBBFwwWjAjBggr
+BgEFBQcwAYYXaHR0cDovL29jc3AuZW50cnVzdC5uZXQwMwYIKwYBBQUHMAKGJ2h0
+dHA6Ly9haWEuZW50cnVzdC5uZXQvbDFrLWNoYWluMjU2LmNlcjAzBgNVHR8ELDAq
+MCigJqAkhiJodHRwOi8vY3JsLmVudHJ1c3QubmV0L2xldmVsMWsuY3JsMIIDbgYD
+VR0RBIIDZTCCA2GCDnRyZW5kbWljcm8uY29tghlkaXNwYXRjaDAxLnRyZW5kbWlj
+cm8uY29tghlkaXNwYXRjaDAyLnRyZW5kbWljcm8uY29tghlkaXNwYXRjaDAzLnRy
+ZW5kbWljcm8uY29tghlkaXNwYXRjaDA0LnRyZW5kbWljcm8uY29tghlkaXNwYXRj
+aDA1LnRyZW5kbWljcm8uY29tghlkaXNwYXRjaDA2LnRyZW5kbWljcm8uY29tghpv
+cmlnaW4tYzNlMS50cmVuZG1pY3JvLmNvbYIaYmxvZy1vcmlnaW4udHJlbmRtaWNy
+by5jb22CDXRyZW5kbWljcm8uYWWCDXRyZW5kbWljcm8uYXSCDXRyZW5kbWljcm8u
+YmWCDXRyZW5kbWljcm8uc2WCDXRyZW5kbWljcm8uY2GCDXRyZW5kbWljcm8uY2iC
+EHRyZW5kbWljcm8uY28uaWSCEHRyZW5kbWljcm8uY28uaW6CEHRyZW5kbWljcm8u
+Y28ua3KCEXRyZW5kbWljcm8uY29tLmF1ghF0cmVuZG1pY3JvLmNvbS5icoIRdHJl
+bmRtaWNyby5jb20uaGuCEXRyZW5kbWljcm8uY29tLm15ghF0cmVuZG1pY3JvLmNv
+bS5waIIRdHJlbmRtaWNyby5jb20ucnWCEXRyZW5kbWljcm8uY29tLnNnghF0cmVu
+ZG1pY3JvLmNvbS50coIQdHJlbmRtaWNyby5jby5ueoIQdHJlbmRtaWNyby5jby50
+aIIQdHJlbmRtaWNyby5jby51a4INdHJlbmRtaWNyby5jeoINdHJlbmRtaWNyby5k
+ZYINdHJlbmRtaWNyby5ka4INdHJlbmRtaWNyby5lc4INdHJlbmRtaWNyby5wdIIN
+dHJlbmRtaWNyby5wbIINdHJlbmRtaWNyby5maYINdHJlbmRtaWNyby5mcoINdHJl
+bmRtaWNyby50d4INdHJlbmRtaWNyby5pZYINdHJlbmRtaWNyby5pdIINdHJlbmRt
+aWNyby5saYINdHJlbmRtaWNyby5sdYINdHJlbmRtaWNyby5ubIINdHJlbmRtaWNy
+by5ub4IQdHJlbmRmb3J3YXJkLmNvbYINdHJlbmRtaWNyby5ldYIVdHJlbmRtaWNy
+by1ldXJvcGUuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwEwYDVR0gBAwwCjAIBgZngQwBAgIwggF8BgorBgEEAdZ5AgQC
+BIIBbASCAWgBZgB2AKLjCuRF772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAAB
+j0yFhtAAAAQDAEcwRQIgP9IWbSVjWEeGqlvTA3RWxI80vXUPnDf1qZ2/83ewH8gC
+IQCBZmo1tTse50LSiCaTgo917+EY0/moSz65BJ9i422KrgB1AE51oydcmhDDOFts
+1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABj0yFhtoAAAQDAEYwRAIgFQ8I5rMlAAYZ
+8ujNo5iQxiwdBuMR8EcTfYC084daxhUCIBiCmb/HHYJBegA5vSB03Bps8i2cZY9+
+BMumTqDTy/7IAHUA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGP
+TIWG+gAABAMARjBEAiAeAMzR/WyjDvxfnarrXfevrj2urtb8TAoyaDuKul9YqgIg
+CNgNh8ceT5F3A1ZiHcRwM+vqQgQ72054JY58Sr6xhRowDQYJKoZIhvcNAQELBQAD
+ggEBACPX2g0Qs1HqovMKMzDf+f/6GuBwwUhbdIk2+lqMgFax733Y4d4wLneod5c0
+CMDHuLhusPkN7GadG4qwmfqJqdXpEkiHMhWiSAp1SsfU/884SRr6dANjhpMAQKqB
+5NWOudU6q8+TOSC9YPCRWnGInQtZjV3h0Nrr9oeHcY5zLHs2q+6KjhLXMsqJO7H8
+WOs62ZAL2kM+lF/Cfo0HCT9n76YqRMNzFdjiDMUduP58XkPGEaC1iyuZXTxQIVTt
+1UfJfOz6H3OTt8Cnlsax1hXr2MDUqePyw+4aYlnBtBoaFyyjTf74f3oayUL8dzON
+WUFSD+oInXuoVfK8VLrKDLdnCIA=
+-----END CERTIFICATE-----
+subject=C=US, ST=Texas, L=Irving, O=Trend Micro Inc., CN=trendmicro.com
+issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, secp384r1, 384 bits
+---
+SSL handshake has read 5632 bytes and written 795 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

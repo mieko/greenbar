@@ -1,0 +1,55 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=vungle.com
+   i:C=US, O=Let's Encrypt, CN=E6
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 15 09:45:28 2024 GMT; NotAfter: Feb 13 09:45:27 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E6
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDdzCCAv2gAwIBAgISA6GXM2taB90KKr5kDxCBWGDvMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NjAeFw0yNDExMTUwOTQ1MjhaFw0yNTAyMTMwOTQ1MjdaMBUxEzARBgNVBAMTCnZ1
+bmdsZS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATMc5fY5Potoj9mi0BH
+7u4BhDZMgKul4+iuufCS/GSYBPcf2bn2At24hQhBvU8DSlxCYt2vfrHA84E7RI46
+QC12o4ICDjCCAgowDgYDVR0PAQH/BAQDAgeAMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSNGL255vIXIx+2QEfQ
+bKQzHJX8vDAfBgNVHSMEGDAWgBSTJ0aYA6lRaI6Y1sRCSNsjv1iU0jBVBggrBgEF
+BQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9lNi5vLmxlbmNyLm9yZzAiBggr
+BgEFBQcwAoYWaHR0cDovL2U2LmkubGVuY3Iub3JnLzAVBgNVHREEDjAMggp2dW5n
+bGUuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBgYKKwYBBAHWeQIEAgSB9wSB
+9ADyAHcAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+cAAAGTL2wrwQAA
+BAMASDBGAiEAkqoTtTbJOQSD52aUTOrTtBgkxfuZ7BXSrGGdsLjM/LYCIQDcqjAT
+YyPWAp0AVeKlpRjrFGoArTfGhqhIf1aRyopr1QB3AM8RVu7VLnyv84db2Wkum+ka
+cWdKsBfsrAHSW3fOzDsIAAABky9sM/AAAAQDAEgwRgIhAPoHeCGmTx7glY07MKrm
+utrKqrIKaxx8qDWRyfrrTzGwAiEAw6Fc1mkRFpN9I+WHDfY0aJfLvvkRjqYovsU0
+2WOWZ34wCgYIKoZIzj0EAwMDaAAwZQIwfGU9HeBkf9OC4qV2d26J2XwnWkIj13pN
+nxCR1vmkanYu1X4kq1y/9R3+KGrrjob4AjEAqmM12zf5ohVyH2VLtSqxsSJPFaW9
+7vx0p9PODSOEJjsiPNBs6pSr6MZV6Yhyatev
+-----END CERTIFICATE-----
+subject=CN=vungle.com
+issuer=C=US, O=Let's Encrypt, CN=E6
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2320 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

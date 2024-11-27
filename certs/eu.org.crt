@@ -1,0 +1,64 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=eu.org
+   i:O=Root CA, OU=http://www.cacert.org, CN=CA Cert Signing Authority, emailAddress=support@cacert.org
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 16 20:43:20 2016 GMT; NotAfter: Feb 12 20:43:20 2017 GMT
+ 1 s:O=Root CA, OU=http://www.cacert.org, CN=CA Cert Signing Authority, emailAddress=support@cacert.org
+   i:O=Root CA, OU=http://www.cacert.org, CN=CA Cert Signing Authority, emailAddress=support@cacert.org
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-MD5
+   v:NotBefore: Mar 30 12:29:49 2003 GMT; NotAfter: Mar 29 12:29:49 2033 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFGDCCAwCgAwIBAgIDEke2MA0GCSqGSIb3DQEBCwUAMHkxEDAOBgNVBAoTB1Jv
+b3QgQ0ExHjAcBgNVBAsTFWh0dHA6Ly93d3cuY2FjZXJ0Lm9yZzEiMCAGA1UEAxMZ
+Q0EgQ2VydCBTaWduaW5nIEF1dGhvcml0eTEhMB8GCSqGSIb3DQEJARYSc3VwcG9y
+dEBjYWNlcnQub3JnMB4XDTE2MDgxNjIwNDMyMFoXDTE3MDIxMjIwNDMyMFowETEP
+MA0GA1UEAxMGZXUub3JnMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+0R/Ho/ob4lA7PAruq/i4+nPVJIS1wzgXTgmdq2S8TPyb4jWUts0q1iZU1Nno6i17
+/hZaTuaGX0QIW77d1Pn8oZkEdxaU6hXO2WFdUVMRdoPVzj1KD1UDRc1pmYw5fVaN
+ZW6vGi3o8/Sc2CEejMnDpcLCw+TepXIr201u9JEd6fbN7C+FEoKgRZ+SUWn82fk2
+rytAXEHVg4cnxV+FAxYmQNFaPa8uYxVGYcqNHyvkrBHNhS1Xw+2CPOwx+/kWdpLJ
+HhfcIZb3sdkiyWkukfiFwcGt1/8eZOzD9183VNgFePVFOHa97U6dOBO098F2ty9F
+dCXuH8O2wOlSbcaOMtONXQIDAQABo4IBDzCCAQswDAYDVR0TAQH/BAIwADAOBgNV
+HQ8BAf8EBAMCA6gwNAYDVR0lBC0wKwYIKwYBBQUHAwIGCCsGAQUFBwMBBglghkgB
+hvhCBAEGCisGAQQBgjcKAwMwMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzABhhdo
+dHRwOi8vb2NzcC5jYWNlcnQub3JnLzAxBgNVHR8EKjAoMCagJKAihiBodHRwOi8v
+Y3JsLmNhY2VydC5vcmcvcmV2b2tlLmNybDBNBgNVHREERjBEggZldS5vcmegFAYI
+KwYBBQUHCAWgCAwGZXUub3Jnggp3d3cuZXUub3JnoBgGCCsGAQUFBwgFoAwMCnd3
+dy5ldS5vcmcwDQYJKoZIhvcNAQELBQADggIBAISjLe0wImkAkxVNkbOXQyDE4GXr
+zEwTmlOUcW/6N5Dk22Wu6yYxN1hgSbhIiDDxfOacpI1OkBRK5vVtLJhQ5e05deBy
+0d/FEA3zvOVZ0vO2XWqwt+PyC557NyHVUSu858r0NHzePUD7SRNbr1PiqhcwGZ/Z
+AsVgbnIOGWVTNuMcmm42hvHk3kXKg27YIoqyMODPSgGc+pH/JghWEtpb65CSGJ21
+VwWUXXoOu/yZv4DhD0OtSNdvrl5pynZ5p0VASaVFy36/1fVqZebDo3HDuir0OOGH
+i7p4k39smfIRRiKnaKo8PEx7OdjIeJYvredK8kzTFaT5waaxuAZZje1C3ciW1XuT
+keMzQZzlOhhpzf6u/UcDviZcPLIgw7NAn+0jzw3uBbFOUsMeclMO7Gfprl0N9Ux1
+tD+UFLRph89DsuL0DbSUkSq0orQJNTQgYrGCvvtFSo57ItO2mtUTI5wvFv3xbDmv
+0xE1WQaVqybV9sbFztzmOivGvO3+7CiFDwebTKLsJ3sc/SJzfAC4FcfOfWHHffzy
+lP/IxjsdzmUiF8r1f6Hi5wqnCFGeXmlN7HBYozVQHMLQXvPZXqtkFGr3KPENLEoT
+PgRigPXRM5v0YWwjxwIovLEtMI8NBcc+AEAhQK09K47kco3Fc5t0+BoZlhda32m/
+fj02XGa9DcSZlP0u
+-----END CERTIFICATE-----
+subject=CN=eu.org
+issuer=O=Root CA, OU=http://www.cacert.org, CN=CA Cert Signing Authority, emailAddress=support@cacert.org
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3730 bytes and written 397 bytes
+Verification error: certificate has expired
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 10 (certificate has expired)
+---

@@ -1,0 +1,77 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:C=DK, L=København, O=Adform A/S, CN=*.adform.net
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 27 00:00:00 2024 GMT; NotAfter: Jun 18 23:59:59 2025 GMT
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 30 00:00:00 2021 GMT; NotAfter: Mar 29 23:59:59 2031 GMT
+ 2 s:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug  1 12:00:00 2013 GMT; NotAfter: Jan 15 12:00:00 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGyDCCBbCgAwIBAgIQAbhbX4jJcYucBGTGPgH6KzANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjQw
+NTI3MDAwMDAwWhcNMjUwNjE4MjM1OTU5WjBOMQswCQYDVQQGEwJESzETMBEGA1UE
+BwwKS8O4YmVuaGF2bjETMBEGA1UEChMKQWRmb3JtIEEvUzEVMBMGA1UEAwwMKi5h
+ZGZvcm0ubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv10dGnno
+tcvNOXgKH2vbvZCAJkYU/WNowaMKGVneNbRIGWuhHHiCKeA6rSsgc5Ct85KYGoWp
+yye4+Z/mCtGIAIxne3J+ve78YghAEqpmfUCFfxL1Qq2ZHEw0derOuXQktSNiiseL
+JkPIsauOsf1jQQKrbUF68TjhudIYfF3Vr+0fmhHJA/EQvINtaMRtvZn57Z8dGipf
+VmLX4CRQ9mTLKwLYG9HxkMESR/FMFzXhzVtF9KRZsq5j98GAw/hrd6tQshN9c/Tz
+0otiTWorsT4RUYrbhRUslzdPukSt1JEorCAQph5bFFkvVq5yVdSQDi4BOZqSSdVa
+Ilukt7FuXFoczQIDAQABo4IDlTCCA5EwHwYDVR0jBBgwFoAUdIWAwGbH3zfez70p
+N6oDHb7tzRcwHQYDVR0OBBYEFCeJ2L2/xSTr7a5sRvUX+Fbgv4thMCMGA1UdEQQc
+MBqCDCouYWRmb3JtLm5ldIIKYWRmb3JtLm5ldDA+BgNVHSAENzA1MDMGBmeBDAEC
+AjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjCBnwYD
+VR0fBIGXMIGUMEigRqBEhkJodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNl
+cnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMS5jcmwwSKBGoESGQmh0dHA6
+Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2
+MjAyMENBMS0xLmNybDCBhwYIKwYBBQUHAQEEezB5MCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5kaWdpY2VydC5jb20wUQYIKwYBBQUHMAKGRWh0dHA6Ly9jYWNlcnRz
+LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENB
+MS0xLmNydDAMBgNVHRMBAf8EAjAAMIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkA
+dgBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAY+50OPtAAAEAwBH
+MEUCIQDHxvZOpgcFCshjqWj/504XwpzuqMt3f2yoP0+lAGMa7QIgXbzBa9cbErZf
+JmyRIPCaY02sKEXtqWsRzaZ2+aJ2NpIAdwB9WR4S4XgqexxhZ3xe/fjQh1wUoE6V
+nrkDL9kOjC55uAAAAY+50ONtAAAEAwBIMEYCIQCcO8nquPN2w2Tdkt7RewcWPjHl
+LEwzG2gpdDN7sngv9AIhAKT0LIWF4DjkVSKkKlUjGZ4ZJSlcwm9v1OtWJ7wARB9Z
+AHYA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGPudDjhQAABAMA
+RzBFAiEA8WKrFJ3JL4HEE1EyMaqQbMhf7KPP2ouAQ9BOVqMqBPwCIG8mMc9TgC6Q
+hlWrqOcDIcPi3qZaceW0uyJVX/02DzP1MA0GCSqGSIb3DQEBCwUAA4IBAQBJRXSV
+g9rrK0VcT0pMa1BtdGUn2ZXODEmJGaVxxJTnWsY9j1CofhleVdP4eZvsd/2wQyWu
+Bb4CZ7vAaa3cJVThhewWGPOAxky+WAi55zEmoS4qaCXKz7XegaRW48XglctwnIc9
+hrnYtfncBU4dnRw5EmcUW4z40p/WChbIX1LolQa/055CSmIgWXNTgu5DodG9y44g
+YNBda7mqoAIBaElUNo5d1itv1pAM5uxqV1TsLvXYIYcz0TPfz9K0eAaUGUwN2O6e
+B5Ylb3NIyMxAhSQ2yr82aVHP4xteSPMuFu9ZNyZNNAVmPxS5n1YKyvE6HkNjujpu
+U/ic0IaLYHmAqY85
+-----END CERTIFICATE-----
+subject=C=DK, L=København, O=Adform A/S, CN=*.adform.net
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4452 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

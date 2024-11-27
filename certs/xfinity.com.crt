@@ -1,0 +1,92 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=Pennsylvania, O=Comcast Corporation, CN=xfinity.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr 22 00:00:00 2024 GMT; NotAfter: Apr 22 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Organization Validation Secure Server CA
+   i:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Feb 12 00:00:00 2014 GMT; NotAfter: Feb 11 23:59:59 2029 GMT
+ 2 s:C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGzTCCBbWgAwIBAgIRAKVnYMspmG+vJt93Es7GWrcwDQYJKoZIhvcNAQELBQAw
+gZYxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTwwOgYD
+VQQDEzNDT01PRE8gUlNBIE9yZ2FuaXphdGlvbiBWYWxpZGF0aW9uIFNlY3VyZSBT
+ZXJ2ZXIgQ0EwHhcNMjQwNDIyMDAwMDAwWhcNMjUwNDIyMjM1OTU5WjBYMQswCQYD
+VQQGEwJVUzEVMBMGA1UECBMMUGVubnN5bHZhbmlhMRwwGgYDVQQKExNDb21jYXN0
+IENvcnBvcmF0aW9uMRQwEgYDVQQDEwt4ZmluaXR5LmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAKgYrMVIMyDorzh5dIJgA7btRRs3PDI50tlS3dCK
+hCThEOo3kEHrwOvmUkgWgEDiU8yJqtbpnghWtvDln+hAXLRQuHKyoHwgDMr+DyES
+mtVL1ermZiop3o7L0pznnOuyMAitr2VaRZeAqkVjshxn5n4/jdws12vlH4LUnCvz
+63n5DsWwoYw8Lw9zlLr6qp37yeWwBiNJKp2/sERuLoQCqozsdD/iogL18sBMk6sa
+ck6lKOtZKX7HJjsguQRYFBS5YZFRUCTI9vajt9n3vg1BRdKaVae1RH2l6pbVGdVb
+1pGjVlfhxNUEy0qu4TvIEWoKjN6osPBy5UPJGqhorqFust0CAwEAAaOCA1EwggNN
+MB8GA1UdIwQYMBaAFJrzK9rPrU+2L7sqSEgqErcbQsEkMB0GA1UdDgQWBBS5SaqI
+yAJEo1BW+X6D/Ki5VLtRGzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSgYDVR0gBEMwQTA1BgwrBgEE
+AbIxAQIBAwQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQICMFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuY29tb2RvY2Eu
+Y29tL0NPTU9ET1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJD
+QS5jcmwwgYsGCCsGAQUFBwEBBH8wfTBVBggrBgEFBQcwAoZJaHR0cDovL2NydC5j
+b21vZG9jYS5jb20vQ09NT0RPUlNBT3JnYW5pemF0aW9uVmFsaWRhdGlvblNlY3Vy
+ZVNlcnZlckNBLmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2Eu
+Y29tMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgDPEVbu1S58r/OHW9lpLpvp
+GnFnSrAX7KwB0lt3zsw7CAAAAY8HD3JVAAAEAwBHMEUCIAlhcup4eFKVobKcjSMS
+y0NZSa2oJaMldKHtwKFNcBkMAiEAhskNXv9bBh8qTSqhQSWKqrGz6QguBEr9/YIe
+oDkcnUsAdgCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14bLMS5UKRH5wAAAY8HD3IQ
+AAAEAwBHMEUCIQDOLLJrU4VjHmhMfWZE799uMET9aqFjhewrs0IpdqVsnQIgJGRv
+zia0ZU15UNXPyMV8MN3k7jO32dyXvCyPWCqIR9wAdgBOdaMnXJoQwzhbbNTfP1Lr
+HfDgjhuNacCx+mSxYpo53wAAAY8HD3HqAAAEAwBHMEUCIQDhqZWdWkTUnwg5J1Xp
+l/VS7z4tpiPuR73jz/1e7DZuAgIgQZFtVehTtU7kATOsjDNGNWFXOFTwnSIx+yKA
+0R8K6KwwFgYDVR0RBA8wDYILeGZpbml0eS5jb20wDQYJKoZIhvcNAQELBQADggEB
+ACz29sTjqnAkUL9SA/MT2xDD6RvPY3BY5IXOKDEld27n4M6ODoEsSKOd2W2I55ri
+mS88/l/xyRvHjmk2fUDpaWjT4njMDw3kwO5rOS8MKcPn9mzi5UAW/B0BURGwvc1u
+PX7xYHQGtZ0nyvORx/wXwKrrdVxMzxzN6HnS0Chk9mZuxemywUC6DCZ3iW3jJPxx
+9TRtEKySqQgtPQAIE9tUqmRPUJ+SA8SdqbzbSawreuikcZV3jHizl1fu7Hbhi9e+
+zdWbL000C4UAvxvpJp2rCS0JSeOuo5Fri09+Y6AYdamnEo6+RUAeatqVu0kZD96z
+V7Fsl8rmJaT2Jo64Xv9Oya8=
+-----END CERTIFICATE-----
+subject=C=US, ST=Pennsylvania, O=Comcast Corporation, CN=xfinity.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 6309 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 3A507CAB0E14710F22182DBA765D18928241FC473DCB01E96E44B2A446ED68A7
+    Session-ID-ctx: 
+    Master-Key: 42F59CDFC54B7CDD8DD748DA8FAF5FA719C533E3489B84890376D8139E254FEC5EC0A3E5BB8F7480A167B65EFDEE056E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697991
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

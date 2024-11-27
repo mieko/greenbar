@@ -1,0 +1,86 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=truecaller.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 20 00:00:00 2024 GMT; NotAfter: Sep 19 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFyDCCBLCgAwIBAgIQBMHjcDzmrHaJr6sa2gmwCzANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDgyMDAwMDAwMFoXDTI1MDkxOTIzNTk1OVowGTEX
+MBUGA1UEAxMOdHJ1ZWNhbGxlci5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC0nKQz/O7sSIPAjGWkmqQ32/lO6HJZXmPrab1ZawrhBJX013wwgchV
+GBKqdv6PhySz9rZv9ta0uxdYoUKkZLKT39fheCrRLMjgvK5I/JhfliKrQEeb8aG9
+EFfaoZyht6QzFy7UTsEfBbwwDi56O6EIyzgxxZoX+pASY/KkhcPZSI1VVLGwf7T5
+LNNqgc9oMXxfHSi59ri5qn3qkNpZcO8oVezKz/jVd4zPUBgy6ZNyf9GfKbEn5nHQ
+nYFU9JGdIDD9HM2jCXfc2w5Frj58yZHI1OatqXVZW/Mp8rNYqvUgFjv7tdiiff8q
+k9FQRBJ6WqybO/T4YJRoAa7cR1SZ5XMdAgMBAAGjggLnMIIC4zAfBgNVHSMEGDAW
+gBRV2Rhf0hzMAeFYtL6r2VVCAdcuAjAdBgNVHQ4EFgQUmWxUIHS0TcaLEQcZTstH
+eT8nZ5AwGQYDVR0RBBIwEIIOdHJ1ZWNhbGxlci5jb20wEwYDVR0gBAwwCjAIBgZn
+gQwBAgEwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnIybTAzLmFtYXpvbnRy
+dXN0LmNvbS9yMm0wMy5jcmwwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFo
+dHRwOi8vb2NzcC5yMm0wMy5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0
+dHA6Ly9jcnQucjJtMDMuYW1hem9udHJ1c3QuY29tL3IybTAzLmNlcjAMBgNVHRMB
+Af8EAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgAS8U40vVNyTIQGGcOP
+P3oT+Oe1YoeInG0wBYTr5YYmOgAAAZFtKEuvAAAEAwBHMEUCIQC0HfP909yeD6Sg
+Y0pEP7sYOdp3uASFB74Vm8nFjhrsYAIgd9K1uLzaDti0qE12doTrglHCD7XbyC6N
+xp0/KsRCQ8AAdQB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZFt
+KEuLAAAEAwBGMEQCIHBKrILCODKzbQebYD3dczU6geahtXMOJdb+U/WGLRO3AiBS
+Jr7+S620JANSAnQfzqbWYkP/LSHGjbu6UjlRh72cGgB3AObSMWNAd4zBEEEG13G5
+zsHSQPaWhIb7uocyHf0eN45QAAABkW0oS5IAAAQDAEgwRgIhAM4+7M3J5MgUQ7PN
+tGzZw21PzfyWWqeSwRRcH4ylhhpCAiEAvOdOgLwM61SxiazQHTnreb0V9xJaL47B
+aVWlF+z1cJ8wDQYJKoZIhvcNAQELBQADggEBAIkv6/vpv37NSq9i8ruZfU04y+wb
+YWKgGgGqTswMuIOcx1coXxsxtpvKCHARwO4xPB0emmMmeFI1yOPgSOZpRH3t6iCT
+Mwgfus06wjpLoBRqnY0R2QG3AK0Dr0HUNGFml4iOP2hLXh/KL3C5neDCk18YeaiR
+1h8DBxXhVFXA/NV1QEO1i2f1vfdei0XfUxyyjmMk8KilgYjy8wIDvRdP/2VHZLhN
+/rUBge0kq2ew39o516Jk63a8yj1L9EzrfE3/CY25BlP1srelK5dz4E2rwwB/S7lQ
+i+B2DW8swzy8PzFRcvPmDK/z9Jx4mrRoJNMp0hrbR2SA1D4xY5IJ95vybHA=
+-----END CERTIFICATE-----
+subject=CN=truecaller.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5441 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BECF0CED08DE5CD3C5CA10ABD52BCAEF1DC9AE10A336C3660D48B6739703F793
+    Session-ID-ctx: 
+    Master-Key: 30E431DA76B44962EF4E3EB26F7A98DD71302D3BA0F60C41275D76E6E67A2234D55EEC67B6B3244E6077C2D842F24544
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697893
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

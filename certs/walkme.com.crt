@@ -1,0 +1,74 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=www.walkme.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 28 00:00:00 2024 GMT; NotAfter: Jun 28 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMzCCBRugAwIBAgIRAO148vMpyXNcyWqTZAzKNHgwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yNDA1MjgwMDAwMDBaFw0yNTA2MjgyMzU5NTlaMBkxFzAVBgNVBAMTDnd3
+dy53YWxrbWUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8bEB
++LPWszB1lIN9AH/O4u1e732GTZG86ynjk4ABmXkrEteGVTuC0iFdnCle7aNerK4R
+SAvzNKVYmTuYtacbCowxi5OQKcLj9S/pXRflAX31xeM2RusRo9ZfeC1jtsGZJ/DB
+A9zIFx45i595ZAqaxUxMYESeNkGjC2oYUw5djwGIm2aEMIEUamPoltYOm2t/+tKJ
+PWx+8gQRlng/iL4FhZIV0uOh/kdgRhHJ665jqpHV5hRC5iG242Of0JwgFpS5EUAr
+Vi0vQRxuEnthy/RM66VbJyFAOEuLuZGmJGYPUwf1XsmfDZ6uSmBF+BPdDb+Eq0vB
+M1Qw7JY9XWjCV2ETbwIDAQABo4IC/TCCAvkwHwYDVR0jBBgwFoAUjYxexFStiuF3
+6Zv5mwXhuAGNYeEwHQYDVR0OBBYEFLGjUe7jfh0nxcSUKWStpkWo9V0XMA4GA1Ud
+DwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYBBQUHAgEW
+F2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYBBQUHAQEE
+eDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29S
+U0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsGAQUFBzAB
+hhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAlBgNVHREEHjAcgg53d3cud2Fsa21l
+LmNvbYIKd2Fsa21lLmNvbTCCAX8GCisGAQQB1nkCBAIEggFvBIIBawFpAHcAzxFW
+7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGPvmQMfAAABAMASDBGAiEA
+8xnTiOSf9OHnmqGyB/eEClklyv1S3lHMrbQTCCAQV+4CIQCZbJ5tOYLF9exREox5
+Jf8O6g7zXBpuXiHeIAo+3rEJeAB2AKLjCuRF772tm3447Udnd1PXgluElNcrXhss
+xLlQpEfnAAABj75kDF4AAAQDAEcwRQIhAPHUKbpcGwRe5x6Z95fPC6SlLQsEZ1uI
+PrICLni4iOG+AiBixwbUarGGwVFT6D9BnSlyExA0sqk9QdjlzOmDU0aVoAB2AE51
+oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABj75kDGwAAAQDAEcwRQIh
+AOeO9sJbU0TJ9eSiAEpp2G528y4QpWHXMXLA8o69c2EcAiBV5myB1K87zp5GzLbw
+2nd0FCcf2jltnsRTK3wHeXBHhzANBgkqhkiG9w0BAQsFAAOCAQEATbgfG31UJa3h
+V9VorWv8fzePuyzRPxV0yNSC4Rrjou7dz+XZTqj1eYl1bfmkKilCZmvHS4nxtwxg
+lD+QIAgctwdqUQc6hKwdxNQjBSIOEaQiPicjN9yQl4roUX4O8aALBbjdRKpNFJPT
+kGJ4DffDh2OV/CI+BQRu89fO96bM1MzfjowYqSMsmLBpxXWTR2MZWzdoGBpoBJCN
+k1tGkCtZHZ/7FTmcPNZjwmYtoosGNecyV49eN3ntHMK+PS/FU9YXCvVde1E9rU+J
+YTIjPwcR7MZ1Da5Ji34aqjehwVMlqo0MNjHdlRXiI2rDdfbtVsS8P24aR6PnSeJm
+yQDy3imBaw==
+-----END CERTIFICATE-----
+subject=CN=www.walkme.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5160 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

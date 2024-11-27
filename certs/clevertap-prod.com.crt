@@ -1,0 +1,76 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=clevertap-prod.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr  1 00:00:00 2024 GMT; NotAfter: Apr 30 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFzzCCBLegAwIBAgIQBzhWMhUILMEbFAROE+P8sTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDQwMTAwMDAwMFoXDTI1MDQzMDIzNTk1OVowHTEb
+MBkGA1UEAxMSY2xldmVydGFwLXByb2QuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEApPya+SxNaOuaU6pJUp+Cjba+cGP0Z2KF51UWwlpHaVvG9rQ+
+CujKOZ0XC3Xj5J4ApwOnviiiYJ8944OGwRXiTh2M2fQXB6OAWE97EopyIppH4IrF
+lfrK+UGIYZJHpTC8qDoInMOfqO0fNgSvt+3OTJ5QHsXzPjMEfGIhL1t+y5+lkzRv
+7voPRUGkIVoBlYvOYvhAKfWREEo+bfzIgJtfjOkWWAa30Ketk/pb1TIuJvJnocFs
+K0Tn5UXwb4fF3VUpz5xYlN06MjPutZIm4+tQNnN42NzVe55azt65OoW2NK3IOOUH
+9rGHgUnebvRl/3BQqfcNG70XAKr11xCLePpCNwIDAQABo4IC6jCCAuYwHwYDVR0j
+BBgwFoAUVdkYX9IczAHhWLS+q9lVQgHXLgIwHQYDVR0OBBYEFP78U9cStyY7iCE8
+275GHPXONe6GMB0GA1UdEQQWMBSCEmNsZXZlcnRhcC1wcm9kLmNvbTATBgNVHSAE
+DDAKMAgGBmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwucjJtMDMu
+YW1hem9udHJ1c3QuY29tL3IybTAzLmNybDB1BggrBgEFBQcBAQRpMGcwLQYIKwYB
+BQUHMAGGIWh0dHA6Ly9vY3NwLnIybTAzLmFtYXpvbnRydXN0LmNvbTA2BggrBgEF
+BQcwAoYqaHR0cDovL2NydC5yMm0wMy5hbWF6b250cnVzdC5jb20vcjJtMDMuY2Vy
+MAwGA1UdEwEB/wQCMAAwggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2AM8RVu7V
+Lnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABjpjRS4oAAAQDAEcwRQIhALo9
+QlGVb2w/BOJBWgWATj/bfbMZCI5j1Pv1sTgPp0cAAiAispc341UZyph3qkVLwyuf
+MPkHH02qKsyFbxAQ0U4dQgB1AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6M
+Lnm4AAABjpjRS1UAAAQDAEYwRAIgXvSQtz6fcuwQ+bGEjn2zBoszskN+M8YqBjk8
+OIOQHZ4CICOsmr6zRdV3OSRTzfcaYJ+/rrrBZoocQkXuv6Iaaf3ZAHYA5tIxY0B3
+jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGOmNFLWgAABAMARzBFAiApHb/h
+lah3uVXyAkL8ajU0SkB6xEc87iRCVchjWtVcfQIhAP2yz0pFRqGCIhAvReNWHWAi
+tyxH+Fce69efnGb7HEu9MA0GCSqGSIb3DQEBCwUAA4IBAQBH0vYShuM1PWXZlKPY
+yX3kQw05qw5wT2RXfZ8NqTdkmyH09nQa17bJXddIoTxVg8I3Hohb1y5JiZIKWdKR
+I0HcZ5W2arsgNrWLwO6F5HWqwhG0f0QhmTdZGFWr1CKWKab7R9XoiDylWjL2z78G
+juAuBOc+zP7tt0sntMVHdEFW/Rf29FmQdwRK07kYcnqQo4sk+kGEPOlMqZlHLOZl
+5gLR7RxsGlimcvxF/CK1OF9HCu/0ywwhvS14NFSPKAkTf1/tBPG0UjWt0cAFRDt3
+JzrdCtStbltv2NLgGCwK1FWaOPsSsN7NDaq8Mgx4NirsOqgi/D3JbWhevLOnKrST
+bNXG
+-----END CERTIFICATE-----
+subject=CN=clevertap-prod.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5491 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

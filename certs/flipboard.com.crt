@@ -1,0 +1,76 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.flipboard.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr 14 00:00:00 2024 GMT; NotAfter: May 12 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF7DCCBNSgAwIBAgIQB4XqI8rqmbmYupC0KlPnEzANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDQxNDAwMDAwMFoXDTI1MDUxMjIzNTk1OVowGjEY
+MBYGA1UEAwwPKi5mbGlwYm9hcmQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAoCPHDRAAt7Mm4vK5+/1/iRAmvoScJ/E8LyAXBlR7UorUX2Deepql
+Y2nGgQs0VmiGMC/cJmjLsqosDF3K3df++okMYqwKYyywcyAJkwRPGbrWG8+v+Ebq
+5cFEiFngLo3T/0GKuTdaRDOkugOn0mm25T7y2s4nJlEVybzMesn8JjL6j8MwGM6d
+Ql+p9Ze5GZgjLhtqtEY3rjFWyJ8ej/Pk73MNMj2QZhCEYXsk7YLqthSKXp4avyFf
+Tl7/kARJvfORGXyt3hb+woLw3eYKcxZ4gTUf/VtHuDPU4aGRz3yciJDL1n2MgSvt
+CJPxa8BFuNmZCb5qK93ytDnTRImUmbhorwIDAQABo4IDCjCCAwYwHwYDVR0jBBgw
+FoAUwDFSzVpQw4J8dHHOy+mc+XrrguIwHQYDVR0OBBYEFE/nUPTZ/EsPwttkJVao
+HXOsAxBdMDwGA1UdEQQ1MDOCDyouZmxpcGJvYXJkLmNvbYIRd3d3LmZsaXBib2Fy
+ZC5jb22CDWZsaXBib2FyZC5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8E
+NDAyMDCgLqAshipodHRwOi8vY3JsLnIybTAyLmFtYXpvbnRydXN0LmNvbS9yMm0w
+Mi5jcmwwdQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5y
+Mm0wMi5hbWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQucjJt
+MDIuYW1hem9udHJ1c3QuY29tL3IybTAyLmNlcjAMBgNVHRMBAf8EAjAAMIIBfgYK
+KwYBBAHWeQIEAgSCAW4EggFqAWgAdwDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB
+0lt3zsw7CAAAAY7bmV4WAAAEAwBIMEYCIQCbrcJF1KoiVvItKGu6uE2Vf/N8X58q
+FQ/EDnJZBKj6HwIhAJq1i1685AFXP1wqjOdaThrZfXDFO6B/NjzVaOYfwNntAHUA
+fVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebgAAAGO25leFwAABAMARjBE
+AiBsm9SIKI7QDfgH6vOc59PeXtSqvIy3gK9zKyYFx/FT1QIgPvs7QnLnjDkMkCxR
+oSLcogpweGYf7YsUmWHKvDF3sO8AdgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qH
+Mh39HjeOUAAAAY7bmV4rAAAEAwBHMEUCIHrnVqMgSczBbRXR+5sm+f6sNQiCntoa
+l7wEWglHaMIRAiEAomz/rHGpwnZhzHFxq3Xz7Q4pLut8b+7t+uMkcmkZMg0wDQYJ
+KoZIhvcNAQELBQADggEBAAmSD9BCMOjjlmhiAkwJZ10NZ+iE9xbNY/uwxEbl7eRu
+/gLLgukMBbKgCpFdMIDmqbd+6ouNy6Rux8ODDBnE0NU1eKW6WwHPf28DCCq7BZs6
+QYzFfQxbxxYfRWjXNigU8MAGlvkVA3DER9O5/RQ0hQ2OpQTklO5aY+siV5lyeN7G
+a8P36uuKvV306KA584W1stOoYzgF3U8U5XdGXaG7Vnzc+RTCo3yVJ3i3/8DeJ6pr
+8qeXv94nQa1siauFOvxHYUP8By9wvl12w679uuwFwlpWKqolozRR1h/rEu9/0cyx
+roRWfQ9DMYOjh551a9N899JIbI4IUGo/ihuPDknwzB8=
+-----END CERTIFICATE-----
+subject=CN=*.flipboard.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5520 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

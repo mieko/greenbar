@@ -1,0 +1,80 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=live.zhy.prod.content-server.marketing.aws.a2z.org.cn
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 11 00:00:00 2024 GMT; NotAfter: Aug 10 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGkDCCBXigAwIBAgIQDhCoO1LYiPeV3DpgS+R1lTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDcxMTAwMDAwMFoXDTI1MDgxMDIzNTk1OVowQDE+
+MDwGA1UEAxM1bGl2ZS56aHkucHJvZC5jb250ZW50LXNlcnZlci5tYXJrZXRpbmcu
+YXdzLmEyei5vcmcuY24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCz
+R8vpTPGAu58XOg871Tdmbdk/ymAtEkYeY7UeP1TNFMBq4k4KbsxycsY4d6Zogbm8
+Xx/zZk3y7V/Y5M1yZvMcn6ET1+hZLkPwLcStrXRxcRLxUh4V6ZDFtHDeRtoQoH3C
+evySDsZLXXtlF+9Z6yNcW6hGS1pYsN3GYdmut+TfJSmUjVzmCA5MhA4N7aZ4Rg1J
+GmfqC2Q3QbfXXto6XvArrOCHQyV+SjdPpVQ/ZLhcjrw32IyCn2SYwv1/7NUURAxX
+are/MJIBwGGXOiOkM2tRTyVysYDLIN9lPb2vzWWsb2DEKHzSywHsJ3sttKHuW1KF
+tFgQ6WpyV3Y1pJhD3BdVAgMBAAGjggOIMIIDhDAfBgNVHSMEGDAWgBTAMVLNWlDD
+gnx0cc7L6Zz5euuC4jAdBgNVHQ4EFgQUwPcRteBTLxg7TDPFhqriFhRWSwswgboG
+A1UdEQSBsjCBr4I1bGl2ZS56aHkucHJvZC5jb250ZW50LXNlcnZlci5tYXJrZXRp
+bmcuYXdzLmEyei5vcmcuY26CEGFtYXpvbmF3cy5jb20uY26CGHd3dy5hbWF6b253
+ZWJzZXJ2aWNlcy5jboIUd3d3LmFtYXpvbmF3cy5jb20uY26CDGFtYXpvbmF3cy5j
+boIUYW1hem9ud2Vic2VydmljZXMuY26CEHd3dy5hbWF6b25hd3MuY24wEwYDVR0g
+BAwwCjAIBgZngQwBAgEwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjA7BgNVHR8ENDAyMDCgLqAshipodHRwOi8vY3JsLnIybTAy
+LmFtYXpvbnRydXN0LmNvbS9yMm0wMi5jcmwwdQYIKwYBBQUHAQEEaTBnMC0GCCsG
+AQUFBzABhiFodHRwOi8vb2NzcC5yMm0wMi5hbWF6b250cnVzdC5jb20wNgYIKwYB
+BQUHMAKGKmh0dHA6Ly9jcnQucjJtMDIuYW1hem9udHJ1c3QuY29tL3IybTAyLmNl
+cjAMBgNVHRMBAf8EAjAAMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdgAS8U40
+vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAAAZCfHdc5AAAEAwBHMEUCIHlS
+0ASAoF1mMU1S+9GL3B/6UlTjoONSdWmrUwV3A+ITAiEA9j0TbZsBPWpwrTvkh7gY
+z8S8RE9nagWKwWxm4oEVdcwAdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kO
+jC55uAAAAZCfHddwAAAEAwBHMEUCIQC028qK5m38ZGlR1j8nSmUWCnH82crWK40y
+dBAYy6ppIQIgHX4jzjYBRk+FQpBdXhMVEZmN88dLinRBPCtpqk5mbosAdQDM+w9q
+hXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZCfHddyAAAEAwBGMEQCIAqm
+Lkhr39aOCpld2fEM25q1FYJDzClP/VlFy3ipz8u0AiALNqesiKN/PbIFQb8JFBRu
+qkC3JMvBn0SmSK54MtOdkTANBgkqhkiG9w0BAQsFAAOCAQEALk1Mlt4GQIs19G5o
+LxPA3XCUCywOvS2g7poBjQFpKp50tbc57TFzklw1JkOZEb+H0bJ9tJQiEQW7nWqG
+3kDkPzsD3sOkty3YLYZpyzhEu2whFfiTH75sCw92wRgY0orXcQ+cXIawGaEkxO2R
+7a17un1Nm3YPAWYXqJ2ZVVRQEaXGGtGpORc/bzk1dQgro3P4pHyezkZ/4/U6TNYQ
+Am1lFXejhStmWwU0tD7ToB8uvupXuwuMVxYwKPbCNd5PmIJYQjjuuMe34xm4JYU3
+vsUmZIcJq7r6SddImt4jcL07+8XirmRBx7VFFZl9n9Iv72ZiLy2szoRK9Tz0l3g0
+aJmp1A==
+-----END CERTIFICATE-----
+subject=CN=live.zhy.prod.content-server.marketing.aws.a2z.org.cn
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5684 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

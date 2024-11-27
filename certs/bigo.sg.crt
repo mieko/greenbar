@@ -1,0 +1,100 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.bigo.sg
+   i:C=BE, O=GlobalSign nv-sa, CN=AlphaSSL CA - SHA256 - G4
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec  1 04:17:39 2023 GMT; NotAfter: Jan  1 04:17:38 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=AlphaSSL CA - SHA256 - G4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 12 03:49:43 2022 GMT; NotAfter: Oct 12 00:00:00 2027 GMT
+ 2 s:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Sep  1 12:00:00 1998 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGOzCCBSOgAwIBAgIMZJRLTJU0F2nw2Sk2MA0GCSqGSIb3DQEBCwUAMEwxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSIwIAYDVQQDExlB
+bHBoYVNTTCBDQSAtIFNIQTI1NiAtIEc0MB4XDTIzMTIwMTA0MTczOVoXDTI1MDEw
+MTA0MTczOFowFDESMBAGA1UEAwwJKi5iaWdvLnNnMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAs0j+eLLuyyihVSabOw8neFDH6B44u/dcWUn/Q6Zl6gU4
+TQvJbzgZsA/clhJmSpMTeDR+g83ipS4yXTNf1zGBpiwGhIoehlSA6MCN/qjeXJ39
+qfcYgRSLAYgeq2ys2CUVQ2BMCUhkMw0Y7Rqb2h7mYM8ySU8ELRuoMESasLA/fQ2G
+2VjT3GHWRFSUGT4vVyV+n7TZYsVFFQo0OlwqbjLk0Ty8pMbXoYULhO+wsvV+pQHW
+ZHa/Y6MhbY+MNAzGkpCwU1DDezF+E51ULMWDzWmwH2XY3IVj/vV4b6HkBqw2v5zx
+xw9tM3BFRoMW3pZ8A8OmeTTS+95+5+5eJrlDfxstUQIDAQABo4IDUzCCA08wDgYD
+VR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwgZMGCCsGAQUFBwEBBIGGMIGDMEYG
+CCsGAQUFBzAChjpodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9h
+bHBoYXNzbGNhc2hhMjU2ZzQuY3J0MDkGCCsGAQUFBzABhi1odHRwOi8vb2NzcC5n
+bG9iYWxzaWduLmNvbS9hbHBoYXNzbGNhc2hhMjU2ZzQwVwYDVR0gBFAwTjAIBgZn
+gQwBAgEwQgYKKwYBBAGgMgoBAzA0MDIGCCsGAQUFBwIBFiZodHRwczovL3d3dy5n
+bG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzBBBgNVHR8EOjA4MDagNKAyhjBodHRw
+Oi8vY3JsLmdsb2JhbHNpZ24uY29tL2FscGhhc3NsY2FzaGEyNTZnNC5jcmwwHQYD
+VR0RBBYwFIIJKi5iaWdvLnNnggdiaWdvLnNnMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAfBgNVHSMEGDAWgBRPy6yowu+r3YNva7/OmD1cWCV2FTAdBgNV
+HQ4EFgQU9JQa/sGe/jhfGSc6j44zlv9IQqcwggF9BgorBgEEAdZ5AgQCBIIBbQSC
+AWkBZwB2AKLjCuRF772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAABjCOYwFcA
+AAQDAEcwRQIgIeozEW5ziO9+xkUlH7Y+ZuCwBa+LZyzQlh5B9MOuXroCIQCraFzJ
+7wsmTXcGm2g/Ej6ut4HFpCUaVhXEkVb6TiQrjAB2AObSMWNAd4zBEEEG13G5zsHS
+QPaWhIb7uocyHf0eN45QAAABjCOYwFAAAAQDAEcwRQIgfmca8goHdTvcAGjvIZpQ
+QlaZoFazyzR8jbIwj32MuNgCIQDL40IG5czLRbRHLIwMQDC0+RvM8j/fwWfDUj8U
+rfihTwB1AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABjCOYwVkA
+AAQDAEYwRAIgSIiaItSf6yMXWyYN3ABVfLKxG02hSdXIhL51CdufT8wCIGhWVbN7
+vOZdoPgtcGiA/yhzS3cdt5K4jFs0v/57i8jzMA0GCSqGSIb3DQEBCwUAA4IBAQBG
+7GUcIyCYO8uGQz4jNaIF46frhhwUWOPLobr/frTcikwrOHzqSrS+A2Tf9xasZ7yq
+ZuqK91uasRXE/3P9rpwid4ydctZvsr3FtgT1VDMTrzp5yld+UF+kYRRrzmLMe7k+
+ZETIGlNyBpqT5F6gCu/glEIy2INlPzkBPpRn8NI5abGF35ScRMMVMS6Xlr8EyEcH
+eGc0nsHGrCMIrtKonAY5tvusMwkUpgc/GlCNDlqbXrH2Mp2z4NlOa+Kos1oax+3Z
+llbz8yoIWqdHoBBFH3kUvopJpkI1Gnb8XUySBr3DMvrEuc83xXM2ZPaBzSAjdAL2
+wm+kbzsEQCMKOg/MG1MG
+-----END CERTIFICATE-----
+subject=CN=*.bigo.sg
+issuer=C=BE, O=GlobalSign nv-sa, CN=AlphaSSL CA - SHA256 - G4
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4313 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 6C7643A49BB5C7F934A4F497D329971546759B996F469AF36764EF7E9A2B1EEF
+    Session-ID-ctx: 
+    Master-Key: 21EF158A151068DDE6E26B93B42537B2AA27F934E3812CA408A69E2CD6A5B51C7CFE9057BAF763B9AA03A19DCA1F5FAA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 87 64 15 61 e8 89 f1 e0-f8 21 67 93 04 3a 75 06   .d.a.....!g..:u.
+    0010 - ae a4 e7 31 4e b6 cb 5d-9b 3c 97 4e 8e e3 ab a0   ...1N..].<.N....
+    0020 - 4c a0 0d 8a 52 cb 70 89-81 8e 92 d7 3d 0c be 43   L...R.p.....=..C
+    0030 - 61 26 41 f6 87 88 a5 92-ef 89 4b cd df 0d 58 e8   a&A.......K...X.
+    0040 - 31 53 fe 12 af b5 a5 78-f3 e1 34 6c 23 ea 7d f4   1S.....x..4l#.}.
+    0050 - 87 84 ba 94 7c 34 76 11-bf 18 e8 90 da c8 2f 7c   ....|4v......./|
+    0060 - ea 68 72 2f 01 40 b0 a5-0d d3 36 17 7d be 48 16   .hr/.@....6.}.H.
+    0070 - cd 87 4d 15 b3 81 91 2e-2f d6 5d 33 c2 14 07 16   ..M...../.]3....
+    0080 - ce 31 a3 04 30 2f 99 5e-98 72 2e c3 9c 93 d4 22   .1..0/.^.r....."
+    0090 - 53 9a ca f3 a7 94 10 38-af 58 72 6a 17 dd 72 93   S......8.Xrj..r.
+    00a0 - c4 05 b9 aa 9c 66 42 2e-ae f8 93 12 91 0a 23 af   .....fB.......#.
+    00b0 - 63 2a ba 85 83 eb 47 51-66 10 9d 96 28 e0 a7 ff   c*....GQf...(...
+
+    Start Time: 1732697013
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

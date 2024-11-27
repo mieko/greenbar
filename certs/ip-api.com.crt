@@ -1,0 +1,82 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.ip-api.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 21 00:00:00 2023 GMT; NotAfter: Jan 20 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGLjCCBRagAwIBAgIRAK1IJ7ntFkGo00kiXF3YfiIwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMzEyMjEwMDAwMDBaFw0yNTAxMjAyMzU5NTlaMBcxFTATBgNVBAMMDCou
+aXAtYXBpLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMGn0iXu
+pIQxOB77U3Vi6WJQcefxXD5DBtwbPj1WHhpNhQRwK4HSXyD1uUQ5SaDSTGGkthDS
+3DeBpCzXZYybirH24uqt5iuO7zRkqq5y6M4HMcMU/tswXQj/FjfGrvhnHv/st1e+
+gsz0MCnd+2jF88biC1fCYZrBnzEDQUOe3hFf5QpH5w8mped5YVg1/qbNegm2yVrX
+WZUli7KOtT0/94GJYczdVbCWVeU3dtzcBKE8LrJkdTEB3iFz9OJGUzUYnSEO0OrH
+S6iF9rMwI6TDgfrfefr61wrQ8648unFxgANzXWaQ7QkxCppHOq7xoMA7N5M80O8t
+5uev1aOMwhhBxNECAwEAAaOCAvowggL2MB8GA1UdIwQYMBaAFI2MXsRUrYrhd+mb
++ZsF4bgBjWHhMB0GA1UdDgQWBBSTA2AwEOU63Vab2QPjUkvz/+Jv4TAOBgNVHQ8B
+Af8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIBFhdo
+dHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEBBHgw
+djBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNB
+RG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcwAYYX
+aHR0cDovL29jc3Auc2VjdGlnby5jb20wIwYDVR0RBBwwGoIMKi5pcC1hcGkuY29t
+ggppcC1hcGkuY29tMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgDPEVbu1S58
+r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAYyLR8FAAAAEAwBHMEUCIAj7KLcd
+/NO64+Id7EuarGM1fOJsbWPEuaX6Drp5S2BuAiEA2jEa+v2rfQj/FBVjrjJ130s5
+YMKTpY7ElHpoUxfbaj0AdgCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14bLMS5UKRH
+5wAAAYyLR8FCAAAEAwBHMEUCIGMhhaCeRkh42aXrtu7f/gzva2ZkQH2r0XXrSSVU
+yat/AiEAhvCDXp9F03xsC0aRzWlXLdpD3aCwzf/kx96YcjcO128AdgBOdaMnXJoQ
+wzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAYyLR8EbAAAEAwBHMEUCIQDBll2s
+66624t1k3Im9UKhZsmHoMvDb/lfR9HoeOHMBDwIgJW4/qSP/P2eEgHRhQ7AtaZA6
+gP9bBBRNkuuozcgO+RcwDQYJKoZIhvcNAQELBQADggEBAE8/0vXsxwUGW2+5o9za
+gLKD7r2rlYa9AibkLCgckQt5uGiCwV8qSLPPV+VEkFCp5daRKR3U1rc9BGbMR2tk
+O8n5MDouUQmkcjTxDextQBomGY+hcZfCoPviK7O4Fu91dEJPSGotaDPHxQXIlmGe
+KALFDsPt9RdCUiclO8s2erWMD06psASiWchMvsHtXoB33QGSGIVM8gWTpAifF7a4
+4eFkJbGPmj5IPjLoqah5jFH5O7prc2TG6/jnppfjCVkUfY3n2ncNfQ7SvOLhEXhI
+Zj9JD3dVavjFWMrE/KNdeMqk7jt9MGRpYwwkdQr8Mls/+QybMtxX25Vk9M0Sv2mC
+P/8=
+-----END CERTIFICATE-----
+subject=CN=*.ip-api.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+---
+SSL handshake has read 4739 bytes and written 663 bytes
+Verification: OK
+---
+New, SSLv3, Cipher is AES256-SHA
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-SHA
+    Session-ID: 3971979D9B65E135FC0B9ADB608CD49931B94C2091F4AA277F9BD24F3AD6FF02
+    Session-ID-ctx: 
+    Master-Key: 273A1662FBE050D69D73ABC31F15F2AC53180E82F842F2773CCF4969A2BB0BB65268E3C819A0B0A37F556FD8EB0BD75E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1732697368
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

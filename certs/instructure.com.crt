@@ -1,0 +1,95 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=instructure.com
+   i:C=US, O=Certainly, CN=Certainly Intermediate R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 23 05:02:47 2024 GMT; NotAfter: Dec 23 05:02:46 2024 GMT
+ 1 s:C=US, O=Certainly, CN=Certainly Intermediate R1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 22 00:00:00 2022 GMT; NotAfter: Jun 21 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFDTCCA/WgAwIBAgISd912r4ad6NvlOYPHBQgJl6NQMA0GCSqGSIb3DQEBCwUA
+MEUxCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlDZXJ0YWlubHkxIjAgBgNVBAMTGUNl
+cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjQxMTIzMDUwMjQ3WhcNMjQxMjIz
+MDUwMjQ2WjAaMRgwFgYDVQQDEw9pbnN0cnVjdHVyZS5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDOGB5mpWGR3qYTqxs7HB20U4F7G+glcmdN6Mt6
+Oy+AosGH60QcdesArrwkKxVAeWapWJwnN5ZsC9yhTa03j5+OO3QK6W5nIFSI79fE
+7JfKOhzwt2/347XSlCPpWhS/pnLquOpA7Ye0dFYWfeDJePlt8sI5/Dfs6f25tG45
+qulK2Pq6bcmStWsxqNVHx9tuqEWx8ifGnPez7dQbQ+aWejJgrUuMcxonF7gnrPJl
+P85iF0WYzMq/VGH6Vwa6bC+6M4Qpx2M56Hgm6gYHc7Nih3//+V0bOqsHNnkx8hHi
+fxYvOXIyip2UCtFcRshMj55WV2IdmpwdgQ9MiPSN4wP5vrvjAgMBAAGjggIgMIIC
+HDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFKtf/MVQ/RPbhoGx0+C/yY3MLP4dMB8G
+A1UdIwQYMBaAFL2Xnd+h2BslmeMMBAaJZBLXZSTHMGUGCCsGAQUFBwEBBFkwVzAs
+BggrBgEFBQcwAYYgaHR0cDovL29jc3AuaW50LXIxLmNlcnRhaW5seS5jb20wJwYI
+KwYBBQUHMAKGG2h0dHA6Ly9pbnQtcjEuY2VydGFpbmx5LmNvbTAaBgNVHREEEzAR
+gg9pbnN0cnVjdHVyZS5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwggEDBgorBgEE
+AdZ5AgQCBIH0BIHxAO8AdgCi4wrkRe+9rZt+OO1HZ3dT14JbhJTXK14bLMS5UKRH
+5wAAAZNXnDyxAAAEAwBHMEUCIQC1MoYqWjdNAhWGoDqkNhfrAakoNNkJhPn39QW2
+rzoQPwIgMm4dUWf6ZBgGNTW4bjAxbm6upsD2lD7B1m/ZZMZso9YAdQAMKu8sSluY
+g9Tdo4L+UPtRiLPpczOh7FOgncmnnQ0IIAAAAZNXnD6RAAAEAwBGMEQCIEWDemTR
+7jdewFVamkYtxTY4VNJvOvUueKrYMYvI6CxqAiBWroPSfGpn6qd8fFINgpiLGNzn
+7Zi3/eI4Zx+pmVEGQDANBgkqhkiG9w0BAQsFAAOCAQEAdaGqhk4lYUVpY8kv9iig
+bLsoNawWYpgUm7VNg+7WgvIcD5Q/gMUiWL6H51vClsHoB3/aRZwH4x8kXhpu7cI/
+neZazx3oTltO5HwTftJMLg5cg2QNmMzGWvwNzqbKuU0/B2/G/rRbypMkbThXIRAy
+xfPG3TQXhBONHvgjBpb46rQKAd8jGJEc/xihOKGR2yM+uXirQ2kN++aiez9rMghm
+fAxUTfTDJFNTKF40q3Ei0BYplSiZkh7DA4bqC1oIf//OjY0kEFan2FauNBFgLz+x
+HijDkIGPJy/sDxjSq9MXmYBfStqR4q00WlVQv6DiGP1FN6SErMJagEbebeMW5pjR
+tg==
+-----END CERTIFICATE-----
+subject=CN=instructure.com
+issuer=C=US, O=Certainly, CN=Certainly Intermediate R1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3034 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: C077DFEBE71534758D4433600FA15EB9BAAFF4470D5F9499F0FEF8CE640F7014
+    Session-ID-ctx: 
+    Resumption PSK: CD39180FECDE047098D36A5CD0EF14CB71440EC7A2C8018802F3E03CB556B372
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - e2 8d 0f 74 73 57 7d 3b-95 0a fb 3f 35 e3 79 5b   ...tsW};...?5.y[
+    0020 - 2c b0 b4 8c 0a 7a 3a 18-60 67 7e dd c1 8f 69 75   ,....z:.`g~...iu
+    0030 - bc b3 47 c4 9e 92 f3 07-00 b9 fc 81 1c d4 f1 a7   ..G.............
+    0040 - 97 30 37 95 6f e3 5a 07-b3 ee 2f 08 0f 7b 02 d7   .07.o.Z.../..{..
+    0050 - 83 af b7 99 00 38 b2 f4-a3 cf 4c 2c 7b 9b 55 07   .....8....L,{.U.
+    0060 - ca 64 cf 42 98 b9 71 2b-2c 5b 54 e2 d4 dd b7 08   .d.B..q+,[T.....
+    0070 - c1 89 7d b2 92 04 21 aa-c7 d2 e6 9a ec fe 51 88   ..}...!.......Q.
+    0080 - 15 a3 2b f3 cc 1a 2f 62-7c e1 26 8a 32 0e 06 c0   ..+.../b|.&.2...
+    0090 - 57 83 ab 7d 6b 9e 88 40-04 72 13 42 5c c4 7f ff   W..}k..@.r.B\...
+
+    Start Time: 1732697359
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

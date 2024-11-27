@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=tesla.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 17 18:06:55 2024 GMT; NotAfter: Dec 16 18:06:54 2024 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE4jCCA8qgAwIBAgISBPDoqulYmMuSOGpn7vtdRITWMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQwOTE3MTgwNjU1WhcNMjQxMjE2MTgwNjU0WjAUMRIwEAYDVQQD
+Ewl0ZXNsYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDJ+GoY
+3yjz1glwdgRqbPC0dgRoqeCs3viN8Y00a5K67qAtk6rQjSxxULv3HJxZTj5APK7N
+q1zkDibFVjDcw9dJbMB7kNs0sU7woc1jo6cmK2p+uZFVuTBVQFUuxqIk0p8g/85e
+BD7z4GYNoC8eZ+0IW9GyhikoxuLAJgq+Y5A+f0fVrjlK5hckdTLsoHgUiZyC2CP7
+jU8TbKr0xCEc/tm22AlMS9v4By6nWLeFtwdxt12oBSnbp5DikMoXeLOBSmaeOnaO
+zKBIOXRFP4wqaKQZK0yjAKRECt9TrLueOykbcGvGt839LOma6gf9RNGJSbKYAnNK
+C1y7S5j+IrA14TFlAgMBAAGjggINMIICCTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FHmk+CRaNURkohWyNz2opP2wbh8iMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2w
+XpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5v
+LmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8w
+FAYDVR0RBA0wC4IJdGVzbGEuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYK
+KwYBBAHWeQIEAgSB9QSB8gDwAHUASLDja9qmRzQP5WoC+p0w6xxSActW3SyB2bu/
+qznYhHMAAAGSAWARFAAABAMARjBEAiB504ikj3gXkqRr1zYEnpTyzAwjH+nolb4b
+h1/K91/gEgIgelBPH1BqwU2BC7LNO24y0TJ3qQTMHfnUYjMYn1mmfhYAdwDf4Vbr
+qgWvtZwPhnGNqMAyTq5W2W6n9aVqAdHBO75SXAAAAZIBYBHOAAAEAwBIMEYCIQCw
+hgOZyW0SgJKaukWrYTGJ+f18Zem8iII8EQJNsvbT+AIhAJGr8zUYyx8IZXdCrvJO
+I6HTZ8SWnQmVGnlMrGUibxipMA0GCSqGSIb3DQEBCwUAA4IBAQCijpXUg3F5zau3
+xAGC1UUnSkRRRvto2gxJ2zbz1iThkhq0FyATA/SNHnMpvXC0/0QwIM2BAiEAMYN0
+pfYxvt50Ef8KMWisbqzFFBdSawo4naj6dfvGDlUAqdlPjE6DgapnVLedP6YA1Exb
+s65NiYEBZQpiN0l2jP/b36gNUIVTnAoesGUCNKpNxQa2PwO5dYnq2+DO+YcFv0Bw
+0YOVdNtWGDJ7mo4yEZf02zdpgfsh2hVFy4eXPrNAAJyzbWHZxntLWvq0c3zaSXZj
+BjEHIJfAmdDXm8XczLgcb2jkiU77L7tVZYqx6l1hnqX1puQpTmSk2djkumXuK+85
+L3+aWjua
+-----END CERTIFICATE-----
+subject=CN=tesla.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3119 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

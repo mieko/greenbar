@@ -1,0 +1,68 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=www.meethue.com
+   i:C=US, O=Google Trust Services, CN=WR3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 04:22:47 2024 GMT; NotAfter: Feb 19 05:16:00 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR3
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNjCCBB6gAwIBAgIQct3DytgY+j0SMZ5B40lD1jANBgkqhkiG9w0BAQsFADA7
+MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQww
+CgYDVQQDEwNXUjMwHhcNMjQxMTIxMDQyMjQ3WhcNMjUwMjE5MDUxNjAwWjAaMRgw
+FgYDVQQDEw93d3cubWVldGh1ZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC7MRPrihdFi+4rzEQjXVf8ebKT6Ao5UII63MBRh6WsdF7YSYkuW4u5
+CtU1XlrWnaHcvAuAKzJd9dMGKZLbVKKUIVpR3AbSFawGUwO/9PnRkh4/6gVXNQxx
+EtfrE2VRoFDD+c/zGFYC5JMlm3B9RRhs//P5Gh9QTnZQW8CTrB86AhmwdEdXkA6I
+n0B8pILyhJ0EAm3ZLdKWTp/FO2FYEIGdj8etJF3j8M5T5VTWCjUC2Vmn1mb0yJSE
+010NWPlRI1mccqmNEmu3519kvpdqmE8Q7ub0Cd+hbNaGwXF472Ixq9u+BZ4HqWdO
+prv0y3zrLB2nUBk+7AzoDCxXBr04s8irAgMBAAGjggJVMIICUTAOBgNVHQ8BAf8E
+BAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUa5wUgLa2SodmR1Tw32W96Sx/I44wHwYDVR0jBBgwFoAUx4H1/Y6I2QA8TWOi
+UDEkoM4j/iMwXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5w
+a2kuZ29vZy9zL3dyMy9jdDAwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29n
+L3dyMy5jcnQwJwYDVR0RBCAwHoIPd3d3Lm1lZXRodWUuY29tggttZWV0aHVlLmNv
+bTATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8v
+Yy5wa2kuZ29vZy93cjMvdXJlUm1IdkJjeFEuY3JsMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGTTSxQ
+pQAABAMARzBFAiEAltIu5JbUHpRRSeUFV3qcmC3RJmLkxNZNfjsHnL49av4CIBFt
+P//bH0jVq7W4v61Wthv4pp5YlmjTxCZlU6851x+eAHYATnWjJ1yaEMM4W2zU3z9S
+6x3w4I4bjWnAsfpksWKaOd8AAAGTTSxIqAAABAMARzBFAiBHXozh3GBpT1w5YjPB
+IpkaIC5TflU0z7SHB/OrgFEk7gIhAKytsBH8SlHwVKH330Cd70Krwr9DZU854vKP
+xeX69cIFMA0GCSqGSIb3DQEBCwUAA4IBAQBZNWP5MFubN3Ix1vCRXWxV9WQFds8/
+7WR4hHDlttvsjYzQ98PdJYaqee/I11/Z5I1nAbOCwThgEIq53DkbxpWH5NDB6zbb
+v9ihkHAJ/fDSQ6LvU+he9wd/TmTIrSJJ3QpJbg2opzQG/nyYE5HUqcd+1ZCd11Yb
+6Dl4F00lq6vgSdlsM42cD6W6UTTeicfuEKIDQA8PcVqb+KPBeC8lO0Tu9wpP2BWs
+WwSCxReQbcTx/CaFMmMziLwgG9qaQRi+5PnVyt8CRu1eCQjwtqpTXS8gEAdpVjkP
+z79kl92U9ohkTrEG/Tw+m+K5M1ZSO4csp9HRqWLTCPBSd7l7mKHhnbAv
+-----END CERTIFICATE-----
+subject=CN=www.meethue.com
+issuer=C=US, O=Google Trust Services, CN=WR3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4515 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

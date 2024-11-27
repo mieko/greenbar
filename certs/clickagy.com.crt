@@ -1,0 +1,65 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.clickagy.com
+   i:C=US, O=Amazon, CN=Amazon ECDSA 384 M03
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Aug 22 00:00:00 2024 GMT; NotAfter: Sep 20 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon ECDSA 384 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 4
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Aug 23 22:37:27 2022 GMT; NotAfter: Aug 23 22:37:27 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 4
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEiTCCBA+gAwIBAgIQA7ua+5FxNqfrN6mskAoRAzAKBggqhkjOPQQDAzA9MQsw
+CQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMR0wGwYDVQQDExRBbWF6b24gRUNE
+U0EgMzg0IE0wMzAeFw0yNDA4MjIwMDAwMDBaFw0yNTA5MjAyMzU5NTlaMBkxFzAV
+BgNVBAMMDiouY2xpY2thZ3kuY29tMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAExdF2
+7nrhilfiXAyiHBrtB+B/WKnIylanjAUHFnZcssH4gY+xehhEPiLB5+vxrWJZXaIt
+nPJVVKd5WJq9qLXdEqxS5btxB7ls4BiFXXQrlPBnBjMjUnndP3rWQdQfjS2ko4IC
+9jCCAvIwHwYDVR0jBBgwFoAUqOXjpfpJKL7Gff4i3IL6DC2GRxgwHQYDVR0OBBYE
+FNrARGJ0Jy7tfak97CGFYos8a7E9MCcGA1UdEQQgMB6CDiouY2xpY2thZ3kuY29t
+ggxjbGlja2FneS5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwDgYDVR0PAQH/BAQD
+AgOIMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA7BgNVHR8ENDAyMDCg
+LqAshipodHRwOi8vY3JsLmUzbTAzLmFtYXpvbnRydXN0LmNvbS9lM20wMy5jcmww
+dQYIKwYBBQUHAQEEaTBnMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5lM20wMy5h
+bWF6b250cnVzdC5jb20wNgYIKwYBBQUHMAKGKmh0dHA6Ly9jcnQuZTNtMDMuYW1h
+em9udHJ1c3QuY29tL2UzbTAzLmNlcjAMBgNVHRMBAf8EAjAAMIIBfwYKKwYBBAHW
+eQIEAgSCAW8EggFrAWkAdgDd3Mo0ldfhFgXnlTL6x5/4PRxQ39sAOhQSdgosrLvI
+KgAAAZF4r+g7AAAEAwBHMEUCIDN3cDqx3foP1TjV6q+M9yOCuACYdmOyAQ5ZfhaM
+S+TaAiEA0bRd7U6jMvoYW23huZnUC/C5Yf5h4BUEDLPsv6VmUMcAdgB9WR4S4Xgq
+exxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZF4r+g8AAAEAwBHMEUCIQCcd/5k
+RfLVYWsUbJ9I1u/w8bDoAyNaVV+1Njil+84gsQIgMhhbsWoItK7Y8EzjDJfG7GaF
+42gmOR9dtGlnI+prMkEAdwDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeO
+UAAAAZF4r+hJAAAEAwBIMEYCIQD6hF4v7ejeVVDmlr3lx+RLk8Sqj51sb6fWu5Ff
+pQho+wIhAL03BPsUnhWstaSitcyyHNf/uAgtg/oDYJsAwMxto/baMAoGCCqGSM49
+BAMDA2gAMGUCMQDVV7Q/TGd632OEr23x/fyHMWTn0UOHfBwmy9N9rATFc78ZWhBV
+xqC+Sj0wxDHNGFACMAF3lzM7RbyDHZP9g+XzRw5m4KKPxkJGRsoqio2VMBey9BmX
+LRcX0JpD/g5JOekytw==
+-----END CERTIFICATE-----
+subject=CN=*.clickagy.com
+issuer=C=US, O=Amazon, CN=Amazon ECDSA 384 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA384
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3356 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 384 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

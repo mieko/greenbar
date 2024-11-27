@@ -1,0 +1,76 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.insightexpressai.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  8 05:53:19 2024 GMT; NotAfter: Feb  8 05:53:19 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  1 00:00:00 2009 GMT; NotAfter: Dec 31 23:59:59 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqTCCBZGgAwIBAgIIC1kB1rKkPYMwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMjQwMTA4MDU1MzE5WhcN
+MjUwMjA4MDU1MzE5WjAhMR8wHQYDVQQDDBYqLmluc2lnaHRleHByZXNzYWkuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuPY3lFK3HtM/MZd1otqq
+y0w67uS64jQXll5hn/bsob4n9y6Wr9y6no6k3SdLTzGfnmZCg3aciMlDbSl5e/jm
+Mfz/sI0dXhVOpSl4Yl6tlP8xcVmZcsutL30nmE0dgfQZ33/yI3299ccD4Qo60uki
+MINGIKGQb7uA8bmBbQcQ5uu3HhhuMNlIP3uMmyqbFUqeyX+UENNtWYsozmE40z90
+yIPG3eDgUohfCc9R/FCw5FvhVp1X1ROaoH7VNQ0lDUf4T7IbiNj0lzw121v3ioyi
+ffw3+HeqEGlfjYu7a00U4M5vrDAgnq7pz3FSVUEie+eMv05Ywe7U/P4jD9hACoT/
+vQIDAQABo4IDTzCCA0swDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDgYDVR0PAQH/BAQDAgWgMDkGA1UdHwQyMDAwLqAsoCqGKGh0
+dHA6Ly9jcmwuZ29kYWRkeS5jb20vZ2RpZzJzMS0xNTAxNy5jcmwwXQYDVR0gBFYw
+VDBIBgtghkgBhv1tAQcXATA5MDcGCCsGAQUFBwIBFitodHRwOi8vY2VydGlmaWNh
+dGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECATB2BggrBgEFBQcB
+AQRqMGgwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmdvZGFkZHkuY29tLzBABggr
+BgEFBQcwAoY0aHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0
+b3J5L2dkaWcyLmNydDAfBgNVHSMEGDAWgBRAwr0njsw0gzCiM9f7bLPwtCyAzjA3
+BgNVHREEMDAughYqLmluc2lnaHRleHByZXNzYWkuY29tghRpbnNpZ2h0ZXhwcmVz
+c2FpLmNvbTAdBgNVHQ4EFgQURKQcQbidup5OpZ6ahG1msZpWHU8wggF/BgorBgEE
+AdZ5AgQCBIIBbwSCAWsBaQB3AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFi
+mjnfAAABjOeh89gAAAQDAEgwRgIhANgNhV355pq5/rSwxDu2F9iKWF7hGENTfwLs
+J9ZVMu9MAiEAliws5S2T8ss2it8A122bo9SdlcwJHeEnliTyfgrpDuIAdgB9WR4S
+4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAYznofR+AAAEAwBHMEUCICLN
+lwjk5w88j4lvi5ZvfCEWTi/wvSB0XvzSGyV7ce4hAiEAnJxT73rcMQb7ZJ7GwReg
+38lA5OIs8vXaxuQplMkmuagAdgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39
+HjeOUAAAAYznofVVAAAEAwBHMEUCICJDq5yNAMpgVA8DubpptckMs7oGZO2anlJ6
+IP2YtVP1AiEAzxQClF52mu49hE5+BO6u0I63AK8PaGEN0BYoReRghU0wDQYJKoZI
+hvcNAQELBQADggEBALLWXJSObkR1hUCI0CnkHFlTMon4ZB1Dqb0gRzDPY/Iu3kum
+vEAAbAal6PZGEWerV7VdOet1EqUHBpquczA+orvGwRoS06F+INbwJuow8uewSLdz
+oPbuu+0TL9jBugcluKEP3Z42FrVUh7Q2xNXLn+3k1PhvVwF+nOVVHr8f7Rg3IZ4P
+m2RVAmmrbz7RU3K/ggljcZ6iDAD8S68+LtXB3i8LFyaqDrVgRBMTTIEwpjQql/TE
+lC+evyC4+oT+qTtR9BucrS9cde1+XkNN8JnwMv1fz1glCMSl/W3jgdQ9G8XqztTw
+Rp2yn0LBSpnUjQDK+/Lcgx8z4tLLtXjzY8wgUkc=
+-----END CERTIFICATE-----
+subject=CN=*.insightexpressai.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4610 bytes and written 775 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

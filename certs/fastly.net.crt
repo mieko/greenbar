@@ -1,0 +1,90 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=fastly.net
+   i:C=US, O=Certainly, CN=Certainly Intermediate R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 26 11:36:52 2024 GMT; NotAfter: Dec 26 11:36:51 2024 GMT
+ 1 s:C=US, O=Certainly, CN=Certainly Intermediate R1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 22 00:00:00 2022 GMT; NotAfter: Jun 21 23:59:59 2032 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFFDCCA/ygAwIBAgISdoyxNk52WIoBNykhHcx1skajMA0GCSqGSIb3DQEBCwUA
+MEUxCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlDZXJ0YWlubHkxIjAgBgNVBAMTGUNl
+cnRhaW5seSBJbnRlcm1lZGlhdGUgUjEwHhcNMjQxMTI2MTEzNjUyWhcNMjQxMjI2
+MTEzNjUxWjAVMRMwEQYDVQQDEwpmYXN0bHkubmV0MIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAyvChM3cBDuGTkLxZk06UQbeOgi68Wp0KV9ViMkSqy6zf
+2RqD4RpDDKPTcm79pUq64igSAYPp+4CrLkLr4k55hVeSTy0AKN8UngsWvJ0fnBm+
+xTI+77RV1IhpSZiLdHUk4IGlTKRW4li87flv7A5eq+WVx+U9U9W/q75aEDIwM31/
+q3TU7i5MU51RtsoJrweGY6g0f5qoqcXEEKNHpCelg+kTdJc7HNfGn1p+X8ky8boy
+J/gh8ArxUBb2gngYfbKG5JWRExtQJiW/QPzQroepD/oqJAJmOqWcKMsSvLRlVQJ1
+KTKdxNawdaBKT/S+iU7T+ou4ZiTVdsBAC1qm/qHmFwIDAQABo4ICLDCCAigwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBTHepWUsOr0yxZo71jzzGg/HQUN/TAfBgNVHSME
+GDAWgBS9l53fodgbJZnjDAQGiWQS12UkxzBlBggrBgEFBQcBAQRZMFcwLAYIKwYB
+BQUHMAGGIGh0dHA6Ly9vY3NwLmludC1yMS5jZXJ0YWlubHkuY29tMCcGCCsGAQUF
+BzAChhtodHRwOi8vaW50LXIxLmNlcnRhaW5seS5jb20wJQYDVR0RBB4wHIIKZmFz
+dGx5Lm5ldIIOd3d3LmZhc3RseS5uZXQwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEE
+BgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDf4VbrqgWvtZwPhnGNqMAyTq5W2W6n9aVq
+AdHBO75SXAAAAZNoeB6pAAAEAwBHMEUCIAPSXT6mmabQAKni7dpUI2jjVbJIaZxX
+NlpDpGFiqSb4AiEAyMtZsg84mr+L+MXQgaBKOBoJkdF0hwHMR0u3HebOccMAdgBI
+sONr2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAZNoeB/XAAAEAwBHMEUC
+IQCfFGG8B55sW/CZXYmjLMdZruzicnidOfEi7NWrB4SW5QIgReNWfrTrxM7UQ9ev
+bZ9gabMiegliEbxB5cvf2YIojsowDQYJKoZIhvcNAQELBQADggEBAI4fGbNgqlys
+tfrs/49xpmyZ3w1A8Ov9WrZYOS5JTyyV6r4du4tuyJSpLwBQ5sjW+0ik68GeBkpV
+UM0dJtKpP5jg5HgFwIzLSnCMDmVhAJKTtYDfn2nQExbO5UPFhX8+eQlcnHKq1HYt
+fB8FrARZtw46nIQM+5m/UBZBunGD/davXfU+8pY3oNygDkINrIspvZnfDasfjvHX
+xJRY4NJTLV+XiiJMJLif4PQx7wDvox8b54Lu6GtZv0rYO49fTgF3GMICV9ZjShdP
+6EH40Gs6EHG5NSiA69qdWIHabu4HeIseHT7IJRhCMKUIvVESxxIGWDKJpqQ46JqH
+nQdGFQRXM+4=
+-----END CERTIFICATE-----
+subject=CN=fastly.net
+issuer=C=US, O=Certainly, CN=Certainly Intermediate R1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3146 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: D667E7BC03EF02BB6E971DE9A8736778AF52B0531FB9541EA7B0A1CB6319DAB4
+    Session-ID-ctx: 
+    Master-Key: B85847AA85216FFF080E48A6693440D0FD00BBCEE739DC0FC25D6152EE05EFC1545016BBDD976C0EECCBAF3E990EA882
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - bf 99 1d 0a c9 f4 e0 5f-b9 58 7b 1e c0 1d 90 35   ......._.X{....5
+    0010 - e6 66 05 44 34 8c 1a 7a-a5 5f e2 9e d6 a0 0f c7   .f.D4..z._......
+    0020 - 1f 9e d4 a7 ca b5 ef f8-87 30 c9 3d f1 07 2f fc   .........0.=../.
+    0030 - 7a 02 9f 2e d7 66 82 8d-41 7b 44 8d 2a 8c f9 84   z....f..A{D.*...
+    0040 - 81 aa 5a a1 78 f8 3c 5c-9e d7 1e 40 15 23 22 9c   ..Z.x.<\...@.#".
+    0050 - eb c8 a9 02 3e c8 5b 81-e0 04 0d 84 20 ec db d1   ....>.[..... ...
+    0060 - 1b c8 a5 5b e3 23 54 b8-75 1d 30 be 8e 54 dd dc   ...[.#T.u.0..T..
+    0070 - 5a a7 bb ae 1d e0 89 54-d5 37 21 d9 aa c6 03 0d   Z......T.7!.....
+    0080 - d9 bf 43 1e 05 d0 50 52-7c 53 87 1a 7b 00 3f 2a   ..C...PR|S..{.?*
+    0090 - 18 10 c3 2c 32 23 14 28-2b ea 20 ca c4 ef e2 84   ...,2#.(+. .....
+    00a0 - 5d 29 ec e4 e5 54 b0 97-84 06 21 57 4c f4 87 f8   ])...T....!WL...
+    00b0 - 7c e3 c9 ea 54 e6 06 93-6d f6 f8 47 7c 89 64 16   |...T...m..G|.d.
+
+    Start Time: 1732697194
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

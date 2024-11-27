@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=keplr.app
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 12 06:14:52 2024 GMT; NotAfter: Dec 11 06:14:51 2024 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5DCCA8ygAwIBAgISA773Ky83qEsAd+AqRdpJ70c0MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQwOTEyMDYxNDUyWhcNMjQxMjExMDYxNDUxWjAUMRIwEAYDVQQD
+EwlrZXBsci5hcHAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDB7eDn
+EZupNu5iQl0Jigu3I0cRM8XOFPVk0hx1NQfkh2Uo1DEoQ+uTkqgzW2rAmqDBCt37
+PVeqgb35uH5xwPmWSNshFdO/a3cLXBihy6nX5urDc3AQfOU4qcTh3GXMxkwb6aHl
+B9uC5IDPQrqU5b5W2IeLgsVz9Y9WTwGrvphVBPZhhHRt5x5/75r4cIhIpryhzv9o
+ROuFeApztwEWV9ufjf8llGrJWGp34glQI58PfblBEHJtfjzpEZyMte5dtVg0/Qse
+qggHFkEuU4DWiSqTPBDY0yPxkdPQJbzC76GvKrH7snZvM6a8BehQgw2woHX0iKhH
+zhz2sonE1aqcHRAlAgMBAAGjggIPMIICCzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FKpfvKcuVKXD6JbTSrYC1abqcUPoMB8GA1UdIwQYMBaAFLu8w0el5LypxsOkcgwQ
+jaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMC5v
+LmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxlbmNyLm9yZy8w
+FAYDVR0RBA0wC4IJa2VwbHIuYXBwMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBgYK
+KwYBBAHWeQIEAgSB9wSB9ADyAHcAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8o
+hez4ZG4AAAGR5RRcrwAABAMASDBGAiEA5yOvo7+k7umWgBqpqF20J9ndyK6rleTy
+p6sEsa65VEcCIQCUYCQbtIbv9V025v4x0CMvrZqjqO1utXmEcVvdEKgIfAB3ABmY
+EHEJ8NZSLjCA0p4/ZLuDbijM+Q9Sju7fzko/FrTKAAABkeUUXLcAAAQDAEgwRgIh
+APVEwHM5VzM5976GxC471QQkrrFZM9RE61U4oArvLVyoAiEAmSQAHyggT/3sNQTQ
++qfXxsy0RUXjCJtbf3yLUaLLSwgwDQYJKoZIhvcNAQELBQADggEBACf7ZyGH87xk
+fzRGbKBHN4S25/73D8fg391HIqoSk1ITBrxV6be9hhpz9x5EyeH4y6cZAGRfuMQM
+VEHzqpZtAdGg7w6NOcUU6g72vmnYmOerCKjPlxlX5YEH5viWjX/RBTBEESSq+9TX
+qMXhwCVF+MAsZNFk9q35HH6547UyADRDMVANKSxgK+zyZxFlqsIcQcgImUhaGP7y
+SZD6JfwZSYeJMi1DLw6jFcL/BHMIub2oSICa64Wso8Zc/9RZ6VTCBQpZuLazBRvF
+pHidyjZSjdQ9HPDTiHMpMAwcSDyPQRvZgr1tI/LGuekj/U3KbjwHQi3+6d/p9CoH
+PUCGZNUTgYw=
+-----END CERTIFICATE-----
+subject=CN=keplr.app
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 3236 bytes and written 753 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

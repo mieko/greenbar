@@ -1,0 +1,94 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=lge.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 12 00:00:00 2024 GMT; NotAfter: Oct 11 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFyDCCBLCgAwIBAgIQD4UKjbviSvf0Z5U7Q8ZUMDANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDkxMjAwMDAwMFoXDTI1MTAxMTIzNTk1OVowEjEQ
+MA4GA1UEAxMHbGdlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AL0XN8x5iaXnhj3+KKs7i0TKJCwASVyG+xem6L1OmJxGH8SxBa5PGvUZ+pPRWG5a
+P8syBOs9vkXIq4UjU/EF8r90lch9qAjSv6zkDLTVcSuAwqhufuERNH8UnwvpZLAp
+W9JcDoSzPEfgMK0//sbmENXb6EmnxJd8L5aoGE7QqJhkezztAuZAvtLcLjQUPkZr
+Pr45gjt6ziOCqZM4W/RMvbVWjZ//jtJCrM6wgQYeQim98n+OGYHhDThd4xRae0ct
+CjtHkNmAk8LfH1BxY7FTha5mQrtlShZRgRd+v8wmwoIunCN8a5r5FWAE6DUicfrG
+cd06OblVa4N8dRA/jJdpMkMCAwEAAaOCAu4wggLqMB8GA1UdIwQYMBaAFFXZGF/S
+HMwB4Vi0vqvZVUIB1y4CMB0GA1UdDgQWBBR9399WjB7UFwzoKSLnjV/6dLhahjAf
+BgNVHREEGDAWggdsZ2UuY29tggt3d3cubGdlLmNvbTATBgNVHSAEDDAKMAgGBmeB
+DAECATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwucjJtMDMuYW1hem9udHJ1
+c3QuY29tL3IybTAzLmNybDB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0
+dHA6Ly9vY3NwLnIybTAzLmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0
+cDovL2NydC5yMm0wMy5hbWF6b250cnVzdC5jb20vcjJtMDMuY2VyMAwGA1UdEwEB
+/wQCMAAwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2ABLxTjS9U3JMhAYZw48/
+ehP457Vih4icbTAFhOvlhiY6AAABkeOZpHEAAAQDAEcwRQIhAM6nCjDJgmIJBHJq
+kBhSyRnlC+KrKHGCRwFoSolRcLMYAiAWEPy5nreQGBuIfYfBwPorbEZKrmApSsoP
+H63gQuvlygB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkeOZ
+pGoAAAQDAEcwRQIhAPtwtsiIfddqssP52YdZGVQ7eFYNHmg7SY47lLYN1BKqAiB2
+2FFREjpArZuXw2ul4wWw6cDKenOI//5xPhgbxXRMYgB3AObSMWNAd4zBEEEG13G5
+zsHSQPaWhIb7uocyHf0eN45QAAABkeOZpIIAAAQDAEgwRgIhAJvRXfzXYmcxx6HJ
+Ueh0mRe4cVPHTbQ3Q4MLxAWinQOBAiEAr/DYq7JH8bxlAVvJMOwyETeZ2YZscWPx
+0/sk93n2gyUwDQYJKoZIhvcNAQELBQADggEBAJgRtT11kAdK+TQVgD/bLGwheUu/
+6AOoeXAtJ4EBHN2modyR6tKQdCfTnKfXpmkELo9UrfBN4YljnqUWEjgse0oK85FR
+LV4lrCEMme/2HA9iY+y/j4w/am5PX61DL1dbgzzH35uXNLR0Elv6eAfdYRaihL4q
+6bz8Mx0/ofRHspVxRwBKWToFYNMW68bxipzMqFpbsCr1GpL1SgBYGz0peHxQfFpH
+8npozNQjskP0JHtv3mqvr1Xo7NgqUPCdq4sSS3q8sdvf1ZZgrcLv+SuoJgk3pfYS
+bVSLOAVhNuFUXo/ofSa4rQbFIqBNzMbsCvv8dzGHh0c44Rs4si6XJQeB6Kk=
+-----END CERTIFICATE-----
+subject=CN=lge.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 4456 bytes and written 444 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 607A3ECB2CE23C33A28DBC56AB605C730F17BBA939054960D6467694928D0BF2
+    Session-ID-ctx: 
+    Master-Key: 1BBCCD05183D8828515DDD22F38B414205325853C097D2CD11A2ABEAB5F83484DC133840108A05259F51D502B2EA7D05
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 01 2f 2a a5 93 54 64 e0-b7 1d 31 68 ee 14 ef be   ./*..Td...1h....
+    0010 - dd 8b 7e 78 cf 39 06 de-eb d7 8e 9b 02 c7 66 7b   ..~x.9........f{
+    0020 - 2e da 6b 26 a8 e4 23 d5-fc c5 8c e3 15 f2 f7 11   ..k&..#.........
+    0030 - b9 fa 66 29 2b c6 7a 10-93 89 74 eb 93 5f 97 d8   ..f)+.z...t.._..
+    0040 - b3 d5 f4 cf 30 37 57 fc-65 b2 e6 3d 7f e7 1f 10   ....07W.e..=....
+    0050 - 42 4c 6b e0 f3 30 a7 2e-92 c2 c7 23 99 66 91 2c   BLk..0.....#.f.,
+    0060 - dd 7a 5e 31 40 a1 1c a6-29 fb 7f c8 f6 30 d6 a3   .z^1@...)....0..
+    0070 - bc 36 03 b5 c3 77 bf d1-0b e7 6b 79 c6 24 7c 9e   .6...w....ky.$|.
+    0080 - b8 30 fe 8f 6e 38 15 79-70 f1                     .0..n8.yp.
+
+    Start Time: 1732697466
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

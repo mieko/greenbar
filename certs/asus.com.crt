@@ -1,0 +1,77 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=TW, ST=Taipei, O=ASUSTeK COMPUTER INC., CN=www.asus.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 19 00:00:00 2023 GMT; NotAfter: Jan 18 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG0jCCBbqgAwIBAgIQJECoDGWJXBTd8icbGX6EejANBgkqhkiG9w0BAQsFADCB
+lTELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMT0wOwYDVQQD
+EzRTZWN0aWdvIFJTQSBPcmdhbml6YXRpb24gVmFsaWRhdGlvbiBTZWN1cmUgU2Vy
+dmVyIENBMB4XDTIzMTIxOTAwMDAwMFoXDTI1MDExODIzNTk1OVowVTELMAkGA1UE
+BhMCVFcxDzANBgNVBAgTBlRhaXBlaTEeMBwGA1UEChMVQVNVU1RlSyBDT01QVVRF
+UiBJTkMuMRUwEwYDVQQDEwx3d3cuYXN1cy5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQCzxNObyD5r/JLXtz9cdvd9+qXM6P50HPGPqa0VTd0WYBUp
+cnmVkn0Hk0hTcxiqYYzSNzmBJ+KquRlT+OKvbrCQVIdbcgBqVU8FdURr+xbPCuwD
+l+UUnubCuouk2726lpXfg1hOapi8YDrWfiDBrY6cFiDLCouQILjqrYeotxfdzH/z
+qXRGVqaqiV1zfG2CuSDLedErt/9Ng1xeZZN+avdh0u0eCTB2GFqre0VObDojcxEB
+OA+j24od1kuthazhZ6+VDFu3gotmOOlG6Q75pbxbqnEQ4zqxl0m5iBhUIzSxUOhM
+J0LV2YQShWkXcwCAz3eUw/36b98x7qZAR/ivxkgtAgMBAAGjggNbMIIDVzAfBgNV
+HSMEGDAWgBQX2dYlJ2f5McJJQ9kwNkSMbKlP6zAdBgNVHQ4EFgQUJEsQVx6xqP6z
+h2dGlGc5RYnLHQEwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEoGA1UdIARDMEEwNQYMKwYBBAGyMQEC
+AQMEMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECAjBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLnNlY3RpZ28uY29tL1Nl
+Y3RpZ29SU0FPcmdhbml6YXRpb25WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3Js
+MIGKBggrBgEFBQcBAQR+MHwwVQYIKwYBBQUHMAKGSWh0dHA6Ly9jcnQuc2VjdGln
+by5jb20vU2VjdGlnb1JTQU9yZ2FuaXphdGlvblZhbGlkYXRpb25TZWN1cmVTZXJ2
+ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMCEG
+A1UdEQQaMBiCDHd3dy5hc3VzLmNvbYIIYXN1cy5jb20wggF+BgorBgEEAdZ5AgQC
+BIIBbgSCAWoBaAB2AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAAB
+jIABSVUAAAQDAEcwRQIgdEOCn68rOAkl0pwSM1NXKjZ0xTJtWWQYufZBHIPlSgcC
+IQDqJI+JiwVWOuiMLXjWcIIY/WnADCOhxuFLSzefNn/IbAB3AKLjCuRF772tm344
+7Udnd1PXgluElNcrXhssxLlQpEfnAAABjIABSUoAAAQDAEgwRgIhAM1LrN7oOiFr
+b2S2TGQFs9uqjfpN9fIoyfBqJEtPwL7wAiEAjZ0Sf9l/YPGYjvw3nioU64XjwbcP
+SiUKJswIItJGda8AdQBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAA
+AYyAAUkwAAAEAwBGMEQCIGVjd1aC0qs3tWBNfDRGY/yx8crCKnbtDw8vsnGyTTFR
+AiBFwSfK7xVbSO4RErrquqfjCwqo70NXTg6d62HS07gQ9jANBgkqhkiG9w0BAQsF
+AAOCAQEAhK0ARZw7+YiqI5bu2OLwTvVT27NDV7fP0LEWn3QorHgR/d2ggxRFF0dt
+lRtC2EzsNkxMrUYBMxan1i89fl7nUNHWooQ9vWu5lmOvKegbs7i/MRGQYLRGuegy
+G3jrHgev3TV7G75ybgJC8Bj6oDGjzbvjqaKfO9VJs7s2z7PMbGBFNA/JbzZdyl7S
+/4DSVmbbtUalV9DmBq00K8L8bB5r8no2aUsU42hkohZEFtvsIbr9gOmaHHRijizw
+x3VaUfKg2tP922qqAejAILw4nnNEmCQOdb3iHlg/NwK8QP7V2VPUzZq9Wtu2jGG2
+oTVDe0JKr/uRXhz91owPcYQ5rTcdyQ==
+-----END CERTIFICATE-----
+subject=C=TW, ST=Taipei, O=ASUSTeK COMPUTER INC., CN=www.asus.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5232 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

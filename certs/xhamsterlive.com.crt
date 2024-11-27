@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=xhamsterlive.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 24 08:19:12 2024 GMT; NotAfter: Feb 22 08:19:11 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDsjCCA1igAwIBAgIRAJIl7a5ju6blDgKsPFpAO0cwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEyNDA4MTkxMloXDTI1MDIyMjA4MTkxMVowGzEZMBcG
+A1UEAxMQeGhhbXN0ZXJsaXZlLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IA
+BAbnZF95V84Gs1IOraObp40NaWqy8Zu6C4/91KDI6E8FeFNMkB9ImdrEWMQnlMke
+JEGqavA2sNBTw6Th9FDOV/WjggJbMIICVzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0l
+BAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUIfSglPMTZbZi
+m2NPTMxfiH4lW3owHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYI
+KwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dl
+MS9raVUwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwLwYD
+VR0RBCgwJoIQeGhhbXN0ZXJsaXZlLmNvbYISKi54aGFtc3RlcmxpdmUuY29tMBMG
+A1UdIAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBr
+aS5nb29nL3dlMS9VU09EZnFjT3hWTS5jcmwwggECBgorBgEEAdZ5AgQCBIHzBIHw
+AO4AdQDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZNdd8xoAAAE
+AwBGMEQCIFkILr4DwJdmd8MWTUx1iG8uIr6fI9cVDn9D1sUZ6b+eAiAe7TQzg5ma
+O/4GCKaBEPZNO1+mv3NJFHaZ2B4w8DVRFAB1AH1ZHhLheCp7HGFnfF79+NCHXBSg
+TpWeuQMv2Q6MLnm4AAABk1130EQAAAQDAEYwRAIgBfnPnnuYdwPsJqwXN/N918y7
++WP4qRlXTAxamycHbnwCIBUI4kwTZWvPA4dLkH3YCgG3+sdAkbyMe/rzLgaerPiW
+MAoGCCqGSM49BAMCA0gAMEUCIFmYj2KSt7kP6HVq4mD8Ek9gKyuzYTm9n9sVZiZ5
++XNDAiEAom50rvo1rPN4GtDgGVWmXHbgioZZzvxXHGjJuF4fTlw=
+-----END CERTIFICATE-----
+subject=CN=xhamsterlive.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2839 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

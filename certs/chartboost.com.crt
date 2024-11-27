@@ -1,0 +1,72 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.chartboost.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 28 00:00:00 2024 GMT; NotAfter: Nov 25 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF3TCCBMWgAwIBAgIQC7+prRrVJydzoRvWG3Db0DANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MTAyODAwMDAwMFoXDTI1MTEyNTIzNTk1OVowGzEZ
+MBcGA1UEAwwQKi5jaGFydGJvb3N0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAME4pi1HeXvu5/U6BepzhuKeXmOKaSogiUx+3wpRfLBYoymCCIBb
+oNfyEkXM8GXMc+o+gGwuLquFC27wSEyMFC5ZHBldYjvPn40IC2J8s6OYycz0t+9V
+R2BPjBx6EQnQ6nYFvfsVKyZUhGtlQFEvvPJdV66NZjls2hnZtJrVL7O2fBiHGzHD
+yxipFUl8sif3gpFaqnVpbpU9PCG0VJXsNGfgOTevo0VjWtUp6WOFIWBm81lIfERE
+Y0IvkCa8Nchn4QCpcytEdVD+4bylh2kHOPqOK8/p1RdPJiACy/x4sD55ezEK6zuB
+QCt8/lhplIXWtW2+AAxhWCBA/PEWRj7WNiMCAwEAAaOCAvowggL2MB8GA1UdIwQY
+MBaAFMAxUs1aUMOCfHRxzsvpnPl664LiMB0GA1UdDgQWBBSl5jzA46Z0mzveEj9p
+NLp9DA/+xDArBgNVHREEJDAighAqLmNoYXJ0Ym9vc3QuY29tgg5jaGFydGJvb3N0
+LmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6
+Ly9jcmwucjJtMDIuYW1hem9udHJ1c3QuY29tL3IybTAyLmNybDB1BggrBgEFBQcB
+AQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnIybTAyLmFtYXpvbnRydXN0
+LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5yMm0wMi5hbWF6b250cnVzdC5j
+b20vcjJtMDIuY2VyMAwGA1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5AgQCBIIBbwSC
+AWsBaQB2ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABktJKVd4A
+AAQDAEcwRQIgLhUee2HA2NiTN5w9lljHDWX1Ij8ZJfsTLW6yVIfLrBECIQDo0aJD
+XsSXmnVin+HpuoTyrEcormL4Djfl0i2o5iekmgB3AH1ZHhLheCp7HGFnfF79+NCH
+XBSgTpWeuQMv2Q6MLnm4AAABktJKVV4AAAQDAEgwRgIhAMdDDdiCP5nQLRoEsRuN
++BslkmqDpJjLf5XPphD9bOnPAiEAyUSQN0TDRYDHEaffAMciRjRGGqiU+6zXeAow
+IooOjacAdgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZLSSlVx
+AAAEAwBHMEUCIGjJyS+jHlKa3YEhcyuYCLFDTi2TE7K5LV4brnxOcrD9AiEAwcDA
+as6agLsTwytFfvZI7qYxKW0hUZVgG8a37vDu9RIwDQYJKoZIhvcNAQELBQADggEB
+ABuf8szjb0nw0vcPVn1TCg61bSNepjOhjFRJOtEp5O4UoPlCdi+T2I2yZGRnrT1Q
+ZnIcJeVCg7YIRoj3sYOEO+sHgMcSKEBGCChopOHBIB9O9tw5If4h5D1sxsW1Ydkv
+svfCg8W7m3osgmpA6uwf5R+8VU80mAzYMb4ZkcMraBC1Laihqoio9rTc7pCRzNZf
+3bLeVpDdwhe1weh2+bi2Ur9Xu0wMTAh/BGk6MoH6xOfAsD9pQOPKALlttqZWcmMQ
+gX3c5M5tA7/ATEqZAh12pqU9HHIm9BqF3u9lnLE810w4FPHX1NE7delxEqzzb4ti
+jRZBuzfUuvas9kFDonHrsao=
+-----END CERTIFICATE-----
+subject=CN=*.chartboost.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4355 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=globo.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 26 23:08:09 2024 GMT; NotAfter: Jan 24 23:08:08 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE4DCCA8igAwIBAgISBGAQGQc3lDd3Ek0IlScUVmeuMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQxMDI2MjMwODA5WhcNMjUwMTI0MjMwODA4WjAUMRIwEAYDVQQD
+EwlnbG9iby5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCy64nK
+wXaCQRgj/ImiDUqIW58SeA4YrLY2l9OqAFm9X/WERBqYBYAQ7+EdHmvckccy8I1z
+UBMN1/jbunKGHUXnIfUw594A8C5xhbs9QN/+nriXkd+kD1NvAASqYE4CyEfm983h
+LeDTyTt6XXEhJr5sJLWoF2gw5wIOaJsN8rbgjyA9iXaJDQPV3EAy0klN0IeLWtan
+s6EywrhWtsvMuRqVK8uRmqsjXClpTQRAYsog8MY5A0Xy2xJNY9Mz276I9MHc7NrZ
+2DSRWumxsR2a9F/pIQnfdJoicNg2zZxIdbROM+G+/0+7gIlqTOBtXdUJ2coi/WAh
+ixvxsUGo58SpPyIhAgMBAAGjggILMIICBzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FNEoxRh2N5y3Odbxvu0av7rTMGS3MB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2w
+XpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5v
+LmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8w
+FAYDVR0RBA0wC4IJZ2xvYm8uY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBAgYK
+KwYBBAHWeQIEAgSB8wSB8ADuAHUAE0rfGrWYQgl4DG/vTHqRpBa3I0nOWFdq367a
+p8Kr4CIAAAGSy0vfowAABAMARjBEAiAEYe1cb35PpY/3wqshA5FcT0xoHbh+fNxV
+5zYKp+SxNgIgKam1oFETvEYoJY02xmgFVgzxsIAKMAbiGVLOWubGyEgAdQB9WR4S
+4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZLLS+REAAAEAwBGMEQCIGrn
+mo/3uzMB8iXzbGyKee+w8CUvitRU8FVhPLDSAYB+AiABgtWlC7m7uWwGJpYOQg2o
+i9bHniXJXJfnXsnqosrpKDANBgkqhkiG9w0BAQsFAAOCAQEAWOpTtNf6bTeyNnzc
+ikefbH/f44WlOOaI5PcP4WFDvV6Te8SMGqTrqZvIPdCz0jYSH6JI5x/A+BNuVuym
+F+a0m7XprAZAIA3xWDEiO8g+txp0PGGxkhhLGt1jCRyAOK7Zvxdxvo3oYY+BJEN3
+HjWLZ0xAE6Dh2/brfRS+eY1gkDxnCTImvoA5I6wqpVpV0sm1MAeQ8jXosiHPcL+Y
+gO7cJHLIEZCd5xWO1mY7SZSTBjymbuQ6LnzysqMrONY0Qm1m6y9OwHpTs2YolQbU
+aY6EuS41qsYu+2Ghd++hQwOUwVMsa/mYACCayNTEcXKYMw+iWDcE1dyxZRqvmjVl
+pIsOlw==
+-----END CERTIFICATE-----
+subject=CN=globo.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3107 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

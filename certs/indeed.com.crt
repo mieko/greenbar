@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=indeed.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Oct 10 16:14:19 2024 GMT; NotAfter: Jan  8 17:14:17 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDujCCA2CgAwIBAgIQdjfLveAXkLsOCAipvGfANTAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMDEwMTYxNDE5WhcNMjUwMTA4MTcxNDE3WjAVMRMwEQYD
+VQQDEwppbmRlZWQuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEXw/MjPd
+xNhxd8ndhiIuTg06zwJj2Hc0EtLH1h62ryUU4VaRDt1W1o4ikR6IYX+MjTbfsZyV
+kDxxba6+f8Cht6OCAmowggJmMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggr
+BgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQDKbGs5X6/LegrmlH8qTRM
+s51GujAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEFBQcB
+AQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL2RqYzAl
+BggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDA7BgNVHREENDAy
+ggppbmRlZWQuY29tgiRjYXB0Y2hhLXZhbGlkYXRpb24td29ya2VyLmluZGVlZC5j
+b20wEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDov
+L2MucGtpLmdvb2cvd2UxLzh3NFhMUFllNnRVLmNybDCCAQUGCisGAQQB1nkCBAIE
+gfYEgfMA8QB2AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABknds
+ofAAAAQDAEcwRQIhAIM6UO2aAtgZXOvrB2oMBMWLzDiQoYiw1MDGDY9RO6FLAiBV
+mz9N0VC4ZSljYp7BMG+3fu67NUxGUrCDkBDrWgvajwB3AM8RVu7VLnyv84db2Wku
+m+kacWdKsBfsrAHSW3fOzDsIAAABkndsnf8AAAQDAEgwRgIhALaoHiBBDA5RfYCU
+jOCNspzrFGJZTyN3YOvWWPwkk1SUAiEAywGngy332cZ35Gp7v6ue3x6tfqlZhyE3
+A7Y0GTKSs9YwCgYIKoZIzj0EAwIDSAAwRQIgAc8m3Lf06Tm2ESZbmBDmDb3KAIAw
+9rnNE/Q74gAdbhACIQDIfLDt+wtruguBJmYdzWzwfoA7wJ3YAOpRm0oRwhzB0Q==
+-----END CERTIFICATE-----
+subject=CN=indeed.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2845 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,63 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=eskimi.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 28 01:17:17 2024 GMT; NotAfter: Jan 26 01:17:16 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE5jCCA86gAwIBAgISBPti7zi/f5FMN5ISdSIlBjxnMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMDI4MDExNzE3WhcNMjUwMTI2MDExNzE2WjAVMRMwEQYDVQQD
+Ewplc2tpbWkuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlr91
+nixSBmxDW7SG4vcc/8qJcpMEDC5Cd6QpIsyl1VU78v4N/x94l5jiWNrL0oD8blI0
+tvrbREM+8+ECR3UPWqo7HN4Y/iAlGxgM2C0PUpXZXEKZYSSkLhb/josuXdxuqs+G
+lj1Z218s9dAMR57mnQTeu0DnlmTmk7yp0CwWU6G8IAtdwVNnoIMhrYNbSSD1yda4
+PSJ1Rd2iT4sJ1yxxo1xw2evo7K7V4OoEYXRKLJku+3h6W4P7rUYh7P4t0jPHMLWa
+xQJHogvn93yxyy/DJounp7wS8ytPmdmwvQEw+pOY8Ub+hLp0U9mQ5eZjxR6z5JWC
+utFaDXN+rBIZAGf2YQIDAQABo4ICEDCCAgwwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBRym7NBLt3bUgYYxeSSvEx0yWiSdzAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIM
+EI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAu
+by5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcv
+MBUGA1UdEQQOMAyCCmVza2ltaS5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwggEG
+BgorBgEEAdZ5AgQCBIH3BIH0APIAdwDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB
+0lt3zsw7CAAAAZLQ6HPmAAAEAwBIMEYCIQCPRtaJIvWbWgRgvuz3CNjjVnDoYTEq
+STpfHjPQQl4UjwIhAPIKluxtCfObdeBKBd/1MS9k/zGHc6Uc3xygbayBljMEAHcA
+4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBNpW1vVAQAAAGS0Ohz4wAABAMASDBG
+AiEAtuJ4aBuXgIpEB4vJsyv/CfjhQjN4sszCWMbhUxz5jPoCIQCBj2GulO4ypicu
+WUf74njvcbJEoM9j7iQAuFg0gLdrhzANBgkqhkiG9w0BAQsFAAOCAQEALRwMVLUs
+NuXxw71vnfSd1chKsPBNe05xHcXrkqE4ldjrXIk0qx1zozouuILBzAEi8SoRPjY8
+8MNbobLKRjrj/pLqG11T4q9yYo5FaAzqVWQpsC6c1g5J7R2KXwyrW1/P6t2Xy0on
+IUHH0ATgFfrAu7vgYFrgIKSYZtlri007uAyhjNnL1vjgrWhuXfgSmeV2CtDIEyXi
++xbNEZVq0KihV2eKKpIR2JhDjFL2XPvjq6p/Ellw14QvqoeCsB0FyS46hrw1HFht
+hgHeXp8zfhJ3MlGxuluMe/44dtC54SsIDXXAbHwcEycfYtHrBQnEQnlgCleVkVMV
+XmGXeI5IZYRWgA==
+-----END CERTIFICATE-----
+subject=CN=eskimi.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 3238 bytes and written 755 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

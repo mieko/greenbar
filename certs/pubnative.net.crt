@@ -1,0 +1,60 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=pubnative.net
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov  2 15:32:42 2024 GMT; NotAfter: Jan 31 15:32:41 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDmzCCA0CgAwIBAgIRAKEdfktkD5C+DYvtQv6gDaAwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEwMjE1MzI0MloXDTI1MDEzMTE1MzI0MVowGDEWMBQG
+A1UEAxMNcHVibmF0aXZlLm5ldDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCQk
+ssM9us0Cd2oVAzf1ldpn5qqYbD9wMFCOAwnrNMbUqwkiWacHyg005dRe5qHUQCTc
+Hnx2DQFslBMQkXftBP2jggJGMIICQjAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAww
+CgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUbakRDCEOM1BMHwsb
+ZWIV1NHEfmQwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYB
+BQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9v
+UjAwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwGAYDVR0R
+BBEwD4INcHVibmF0aXZlLm5ldDATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8E
+LzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93ZTEvV3lJTktaU2JtcWsuY3Js
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAzxFW7tUufK/zh1vZaS6b6RpxZ0qw
+F+ysAdJbd87MOwgAAAGS7bjGvgAABAMARzBFAiBCY6JMrPuHsKlyvtkUJqsRVkzV
+vTQHXkEB9ORUelBfIgIhAJoE3FJPFQY2Zj2QyJC8uesWUuUbGKHDwWraSbITwxc1
+AHYA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAAAAGS7bjMSAAABAMA
+RzBFAiEA6Xfg3noqqTUOzcFyho652XvtYxpPtoye5Iz7BXjuXkACIDEDfwHYWZO4
+efvs3SaGZDBezaq91cdDTRR7cURj5I0fMAoGCCqGSM49BAMCA0kAMEYCIQDuCFCG
+OT5lp2pS4LLJsdTsqhvWb4klUExJUWnnwY4p7QIhAOK+Dsb81WauZCz3RaDq3tJU
+C2uKTuZtSnY7ImCUDTAE
+-----END CERTIFICATE-----
+subject=CN=pubnative.net
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2814 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

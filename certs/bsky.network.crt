@@ -1,0 +1,65 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.pop1.bsky.network
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 19 23:50:22 2024 GMT; NotAfter: Feb 17 23:50:21 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQTCCBCmgAwIBAgISBJM14sjxwNsNZ1xChIIo8Rj7MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTE5MjM1MDIyWhcNMjUwMjE3MjM1MDIxWjAeMRwwGgYDVQQD
+DBMqLnBvcDEuYnNreS5uZXR3b3JrMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAp26RlGmChWFA38sFmIWT4LTGtz6xYJ/KNHFncacEWgwA5ZvMy7IObWPG
+kUjhFIHZaHF3VpjcvbouanvXP3hjzi6QpGnsIayZwoC53KoEzLb/KI1wDHBTNF4L
+8DXYVCv2/9pZlTEdbsIpvtt7MKRjqgdCIdkm2E4x7diUQ6qt8BzoiCSPXHiAMg2G
+3mZZHw7Cy6/t+st/hnVEUrF0pTuey2u2DXai4rUf8YNhJufIbjBpsvrjghaz0mDh
+lk1ofKpEgXYf3+hMYO6UZ+JEC/9QddMmNlvIOGjgITj7U9L6zUyLxydz2fjtS2m7
++g9NQ9AYREOHU7mImt95GQOdf7+STQIDAQABo4ICYjCCAl4wDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBSwbHjpmQU2DRADyYT5kriSxYUJ3TAfBgNVHSMEGDAWgBS7vMNH
+peS8qcbDpHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0
+dHA6Ly9yMTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5s
+ZW5jci5vcmcvMGkGA1UdEQRiMGCCDiouYnNreS5uZXR3b3JrghMqLnBvcDEuYnNr
+eS5uZXR3b3JrghMqLnBvcDIuYnNreS5uZXR3b3JrghYqLnVzLXdlc3QuYnNreS5u
+ZXR3b3Jrggxic2t5Lm5ldHdvcmswEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgor
+BgEEAdZ5AgQCBIH1BIHyAPAAdgDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3
+zsw7CAAAAZNHCyObAAAEAwBHMEUCIG2jYaDQfC3X8g9Ue3lugTWrtGhEyi5tON8g
+Mik3UdCSAiEAhTptSmUCYf/1ZLVsn49NJ3VWOy0K5N4ZThoDCd4RX90AdgDgkrP8
+DB3I52g2H95huZZNClJ4GYpy1nLEsE2lbW9UBAAAAZNHCyOjAAAEAwBHMEUCIA48
+vZ7Ncb2Vw+ImVtMSTaE1fOBm1oiAmz+kYfLBn8I1AiEA5ZwTsWatg/O1uL9gYzTg
+0Yxz5S3Xe7WNXJr9u29oPzAwDQYJKoZIhvcNAQELBQADggEBALUv7dRjU27JKwN5
+gw54k0Giz2q6tRZLTn+Akvk5N2RoaXE5l3FfwETlZsdoD0D1QOhM4nTZCPQVKo4n
+59AKgZXLQxtvDLDgu+B1O7Ya2vKk0Jd5Ewp3ZpieYosq2aW8nB5dp9jB+oXCepZF
+p0jDnU/DI2yJSFjbn+r5PsetHLnhjhHh9fTiTEDmXo/KZLdQBRpXQXIaBZc0ZXqB
+v9e5oNdsAXv+zj5G4xiFYs565Ci6mjRwIn49OCXMPPWxiCc4fOX+SCnFApU/qgpI
+pwGYQpmo3j4iMzkAmFRGhlBwbW+Pi9oZLPsHOdJul44Mu++y4V3ePSyhETWuD7tR
++IIJRLY=
+-----END CERTIFICATE-----
+subject=CN=*.pop1.bsky.network
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3203 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

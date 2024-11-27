@@ -1,0 +1,76 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.overwolf.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  9 00:00:00 2024 GMT; NotAfter: Jun  6 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M03
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:26:04 2022 GMT; NotAfter: Aug 23 22:26:04 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+ 3 s:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   i:C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep  2 00:00:00 2009 GMT; NotAfter: Jun 28 17:39:16 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF1jCCBL6gAwIBAgIQB6QMxLAT+W+reqO6LxuUoTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAzMB4XDTI0MDUwOTAwMDAwMFoXDTI1MDYwNjIzNTk1OVowGTEX
+MBUGA1UEAwwOKi5vdmVyd29sZi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCs9cxcLg/vb/l5aWTsW8blmfvBt0GFf5dvMP6vdfbVOUBsMUjm0qh+
+PxtNcP8oFJbyjmOcG16zYBvAdgI9hjmSDfLibOwPUFrs7dlGRNiiNy77Kg9CC+LS
+3yqi/GBwI3HJnSwebyN00jRlojzaNt1QzuasE+GnbVd/uFnJMD1ZHgmkslsMJwmf
+d/TPm2QM+c2/nghV75BjHEz5uQffhswkKBFlXxGB1vpCAv5S5mMN08Vtkh8IvxqT
+GmCpiw63zGXRn05wOpc69++ae8YhiNUkYRCXCPkWOeYL9Ht5eehCNsA+zqSTZKqE
+ZILQ458ad45SvKTVtLPUMhcHZeeJvf6JAgMBAAGjggL1MIIC8TAfBgNVHSMEGDAW
+gBRV2Rhf0hzMAeFYtL6r2VVCAdcuAjAdBgNVHQ4EFgQUy56T23i52VMYGDP5GK9m
+NJPpECQwJwYDVR0RBCAwHoIOKi5vdmVyd29sZi5jb22CDG92ZXJ3b2xmLmNvbTAT
+BgNVHSAEDDAKMAgGBmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwu
+cjJtMDMuYW1hem9udHJ1c3QuY29tL3IybTAzLmNybDB1BggrBgEFBQcBAQRpMGcw
+LQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnIybTAzLmFtYXpvbnRydXN0LmNvbTA2
+BggrBgEFBQcwAoYqaHR0cDovL2NydC5yMm0wMy5hbWF6b250cnVzdC5jb20vcjJt
+MDMuY2VyMAwGA1UdEwEB/wQCMAAwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2
+AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABj1v9lcYAAAQDAEcw
+RQIhAKrZObWIeO0LU5NFnMRWD8l5XIYCHrCVJpXy/ZYlR8KRAiAoWKaWcolPIQzZ
+eBaL3nISEgtOcBYvE0impbP+jIC7PQB2AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWe
+uQMv2Q6MLnm4AAABj1v9lgUAAAQDAEcwRQIgdJcr6AWUugtVr6JWxUHoRNhW4dWW
+ayQ+fUy36ZgaVUcCIQCaTRxhH03txeKNKFSEp/Ter1s/4bR0dH6YjfJvo6W8OAB2
+AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABj1v9lh8AAAQDAEcw
+RQIgSNP8EhREuMMpjZDX+RE1owyHkR2zUAKMF95Q55mJZy8CIQDny3+UN96BndZc
+KYOSsHfQn9tUgBa926P4bSDsq0gsHzANBgkqhkiG9w0BAQsFAAOCAQEAEoOkE4bU
+SvqbCW3JvWE0+hI9ekHnjTTI1Ix6apUVoBS1b2jSNqBFhP2s0qMYiiQTpSMENUlP
+Y5/tyw+8mmVsoDQrcj6xbUdir2gBHq2aLO9IxB7s2oRgjHxWKK/sfx14W5rCZcWa
+vgP+ciTNZzWyJEsGh09oXnd34fImjhGkbeTOFEZZBNtVD65/qUILYUi9CV0/Wfjt
+kq2Z5Htwu6227IVSEndyAMsLcU4T0azOV4JL4KaGe7xD67shOHuHhAdH0MrN6v9T
+52PIPCskiKdDRriQkt+6kavbhkEGq6Hoad2O4qQabuf930Rinh9a+12al8mEUi7z
+gDrNjTQtoPY9Ng==
+-----END CERTIFICATE-----
+subject=CN=*.overwolf.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M03
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5498 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=www.createjs.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 12 05:20:42 2024 GMT; NotAfter: Feb 10 05:20:41 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE/zCCA+egAwIBAgISBKizSNGi6oEv7zN/LWYvKoF/MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMTEyMDUyMDQyWhcNMjUwMjEwMDUyMDQxWjAbMRkwFwYDVQQD
+ExB3d3cuY3JlYXRlanMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAx1gVc4x6LnY/TxEY9MrY/OuE31mB+kvFX6gdDj88Pet/PX/zANv52Gj9r9yI
+gvs9F+X8JTyU8be2Kyk1fdfXK+RpnoOX7MF+snoLcrRZzBNszzVi30kUffnA8cL5
+tAs4V/9dmCGfkoKxngmQoM6u2LAxF1KDSe7lNg2FFqQ7V8CuvqvQYHVs/irpW1eK
+EL2BA7tI8B7a3eGtxGvoUm3Llb+MzyEzUfgKVMuc9/+Lqu5uGgSdt9/d+fBzPDZg
+TnISgZPMOCHmMIVxKlmpmDb2fe5HWjnfiopOXDgY0z04ZtEKNqFnkhYNLrJ/bTLH
+K9MZ0WgeVM42NR4ehM8XSdYofwIDAQABo4ICIzCCAh8wDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBT9HED87RA+h+e/OvHXZHxqZ2C9WTAfBgNVHSMEGDAWgBS7vMNHpeS8
+qcbDpHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6
+Ly9yMTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5j
+ci5vcmcvMCkGA1UdEQQiMCCCDGNyZWF0ZWpzLmNvbYIQd3d3LmNyZWF0ZWpzLmNv
+bTATBgNVHSAEDDAKMAgGBmeBDAECATCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2
+AKLjCuRF772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAABkx8Gsj4AAAQDAEcw
+RQIgYjCeaiz4DMbIz16Tykg02qJ8qN5kthIl2TmepfhNLPQCIQDWJoDNljV8UQzK
+/Yz3Oo8EtfmWyCqSA3z/O55RQDaayAB3AM8RVu7VLnyv84db2Wkum+kacWdKsBfs
+rAHSW3fOzDsIAAABkx8GsoUAAAQDAEgwRgIhANHrZo29H/5nD52PqmlF9C0zeYrK
+/HJ19SM9OvUuZc87AiEA0AO0HWnUd5Muvky+jtP1nFjE+zXsTSpUIB4xnLoojKgw
+DQYJKoZIhvcNAQELBQADggEBAMI4TpN1Q3w1EXtzS/nM2yZi4uiIz7DZsQM5DUa4
+LOu+lc/88F8NAw/gghi0jWKd/65QD99s2gSwsjhzxeMMEnJYj8Bg+8fUkEIKvC1u
+a/2/VNDrQ0z6wCvRET8muZ5BsOISaBWaCuPpjUJoVDAOWpGm3mKRMNbLOqvo70G+
+fBIwHY7HkbVlBzIpiiw6uAqtkniiT/bzzj3dnt5UVGrNhp9GNMS7BgOBjuTwZ9Mn
+cyig9evu+OUpyujmzbcDfCEB8C/7dPx4rCSGLuJxfeTXOZ3xtuC8VyN0m/neZGoO
+gRfh9QpKhh4FGWOu3fuvFD7K3iVA+UQRP1eANu7on6Po4/o=
+-----END CERTIFICATE-----
+subject=CN=www.createjs.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3137 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

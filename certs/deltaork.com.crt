@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=deltaork.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 22 04:15:22 2024 GMT; NotAfter: Feb 20 04:15:21 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDpjCCA02gAwIBAgIQJHo5BqAU2l0OGw/dDPriTTAKBggqhkjOPQQDAjA7MQsw
+CQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYD
+VQQDEwNXRTEwHhcNMjQxMTIyMDQxNTIyWhcNMjUwMjIwMDQxNTIxWjAXMRUwEwYD
+VQQDEwxkZWx0YW9yay5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASHc33P
+PWzSRW5FNFJrzeENUDZDjbIoCuRcGB8bIfL4EmA7+X+7tu7ERVdOrZoToWo/vI/n
+1XoL4e5GjqiNscEHo4ICVTCCAlEwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoG
+CCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFOG+If6i3ruOnxicV31z
+tpRmuu8jMB8GA1UdIwQYMBaAFJB3kjVnxP+ozKnme9mAeXvMk/k4MF4GCCsGAQUF
+BwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93ZTEvSkhv
+MCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93ZTEuY3J0MCcGA1UdEQQg
+MB6CDGRlbHRhb3JrLmNvbYIOKi5kZWx0YW9yay5jb20wEwYDVR0gBAwwCjAIBgZn
+gQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxLy1Z
+ajdPWUw1RG5nLmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1AE51oydcmhDD
+OFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABk1JL2j0AAAQDAEYwRAIgaz8IMoDO
+AI6JR1XNsgxx43R0Y57jtlM3bpNKpAmlVZoCIEkXFnTOTpjxrm7zghkv6OgjlOIB
+Wal4fEZMQ/humkXQAHcAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAA
+AAGTUkveWgAABAMASDBGAiEAhdlrzuO5D/PG2VcW1tMl7hz/SntFQZ7xB3cT5no0
+jWwCIQDkkljb6GNJMCkvf6Ny045TKoNU0gghTxLyLfFj045A5DAKBggqhkjOPQQD
+AgNHADBEAiB1OHS/QmzJRWAcqiFJsxxO5TKhTHdBTJTLw3fypW9mrwIgW3sP9f78
+/Y8X064UutaONj/V6BBYCunbR0lnOcUArlQ=
+-----END CERTIFICATE-----
+subject=CN=deltaork.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2827 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,92 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=repocket.com
+   i:C=US, O=Google Trust Services, CN=WR1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 20 15:00:15 2024 GMT; NotAfter: Jan 18 15:00:14 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEWjCCA0KgAwIBAgIRAKtoRBksSEawDXVYxlcys3AwDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IxMB4XDTI0MTAyMDE1MDAxNVoXDTI1MDExODE1MDAxNFowFzEV
+MBMGA1UEAxMMcmVwb2NrZXQuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE
+gmy+qZxFsNNJ3n5v2rWhU85RwTlpwkyV3SzM2Qjih/WyT9C4YksZz/MxOOCViNGk
+ztW1ykGmhW4XpJQk/rbP2KOCAkYwggJCMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUE
+DDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSYEzt+woyAiYRn
+bij3zl4grIDTVjAfBgNVHSMEGDAWgBRmaUnU3iqckQPPiQ4kuA4wA26ILjBeBggr
+BgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd3Ix
+L3EyZzAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd3IxLmNydDAXBgNV
+HREEEDAOggxyZXBvY2tldC5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0f
+BC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd3IxLzZjREQ3aDNQSEhZLmNy
+bDCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AMz7D2qFcQll/pWbU87psnwi6YVc
+DZeNtql+VMD+TA2wAAABkqqoZpUAAAQDAEgwRgIhAJMhho73wHZGtzTi7g6i9IP9
+CR9JfOranbe0deSVnRpEAiEA29NFgiN0DYZ2FSV5CHcd63JlT2eo1O2IYZZV2ef0
+ScAAdgBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAZKqqGZaAAAE
+AwBHMEUCIQD3AJk4QU+KWreWKvkJuwfxp7KPqAlnYSBRd10EMfrblgIgTJ4WFtk6
+GGE5YyPVfVnzJme6noLSWRjXGohKBrwsqH0wDQYJKoZIhvcNAQELBQADggEBAF3p
+jcPP2mRDwT1fbuSOeP9egYQY5bKueUjSwLqSAlsQCScc7T7YBc+sXS6Hye+iX54X
+zfp+fTOR8xxGqNPHrkex/bmAxbrjJN8PiykpxMYQck4H36XGQnhcZgSdapoGR0KS
+aDfmL0t3oxHXzuFH9M06hrvOc0RU10Wdez59ZaFpcbEcjvNPNO9x5IR+p6jZW4i0
+8uHjKzZuTz5dZB9umiBqH7Irs9HcdXK2zUxPV9IM0AGu0Z5AMOSVv8H1E4S5vT5Q
+eowCAaS2dQ9yAxr8uo4fbERelodzqYMVMM7f37Y/UTjzIkFca4tv3anp1XzW2gWG
+PCQI05oWpEqPCru7qZM=
+-----END CERTIFICATE-----
+subject=CN=repocket.com
+issuer=C=US, O=Google Trust Services, CN=WR1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4159 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: A7251B0004F8F2BBB520A29A1F818808E4F558F86C57568506AFCC0CD590BFA1
+    Session-ID-ctx: 
+    Resumption PSK: DC82EE9F7CFD44B2878DC8F80015EBBE488908AE185FB811BDEAB16B0FFCF7C4
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 26 df 09 69 d6 8e 76 63-4a c5 dd 38 25 03 04 26   &..i..vcJ..8%..&
+    0010 - a8 e3 01 41 12 6a ec c2-10 ef e3 8c d4 da 11 1c   ...A.j..........
+    0020 - 00 fd 68 59 3b 67 4f 84-f4 d1 fd f9 74 4f 5e ca   ..hY;gO.....tO^.
+    0030 - c3 fc 78 d1 10 7e 06 b8-f7 ed 57 4c c5 a2 ef 97   ..x..~....WL....
+    0040 - bf 53 67 bd 65 5c 65 0b-5b cf 3d cb 31 d1 26 d8   .Sg.e\e.[.=.1.&.
+    0050 - 0d 85 83 31 d3 74 ca ff-b9 97 51 af a9 b0 74 c5   ...1.t....Q...t.
+    0060 - ae 03 af 38 c4 43 9f fa-51                        ...8.C..Q
+
+    Start Time: 1732697715
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

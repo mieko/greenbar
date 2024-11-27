@@ -1,0 +1,60 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=fitanalytics.com
+   i:C=US, O=Google Trust Services, CN=WE1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Nov 25 07:16:09 2024 GMT; NotAfter: Feb 23 07:16:08 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WE1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 15 03:43:21 2023 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDtzCCA1ygAwIBAgIRAOwRUuLZSTUrDnNAELh7djwwCgYIKoZIzj0EAwIwOzEL
+MAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoG
+A1UEAxMDV0UxMB4XDTI0MTEyNTA3MTYwOVoXDTI1MDIyMzA3MTYwOFowGzEZMBcG
+A1UEAxMQZml0YW5hbHl0aWNzLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IA
+BCHT9JCtmR7vd2eXXYRC/arZ4Ndt+HYL+iyeMaFRnhcwdnb4+x6fgh93SGhoGDmK
+kQnY6CAvakddkIqf7SZlxbSjggJfMIICWzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0l
+BAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUsyBTKAe/a8E6
+m5u+HBdynottu7EwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYI
+KwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dl
+MS83QkUwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwLwYD
+VR0RBCgwJoIQZml0YW5hbHl0aWNzLmNvbYISKi5maXRhbmFseXRpY3MuY29tMBMG
+A1UdIAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBr
+aS5nb29nL3dlMS9LdnU3Y2Y5X2RfNC5jcmwwggEGBgorBgEEAdZ5AgQCBIH3BIH0
+APIAdwBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAZNiZG+yAAAE
+AwBIMEYCIQCeap5L6OmDDnX7UyxoL8cQrxp9xvvzrPOWarE3PRSMdwIhALrsjpXr
+7maa4lt2oPFbNzTV0BLLvUVLzioVE9ygO4u6AHcAfVkeEuF4KnscYWd8Xv340Idc
+FKBOlZ65Ay/ZDowuebgAAAGTYmRv0gAABAMASDBGAiEAwNMgRDBAbtzeqQYb4MiV
+n2V0Q7wv/3K8TjJwABB4bGYCIQCsdC3NNW5HQVGZzwMmiikORPrgC1Ib/UDQpmBZ
+8dQj+zAKBggqhkjOPQQDAgNJADBGAiEAx0FLdMcYtoJZV86SHO1rCS8IUJAncSBJ
+wSwxot0LIBgCIQCtLK5DJxJVC/w4KLNRAWRUekyS+B4P22UVkvbQrT+aDw==
+-----END CERTIFICATE-----
+subject=CN=fitanalytics.com
+issuer=C=US, O=Google Trust Services, CN=WE1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2843 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

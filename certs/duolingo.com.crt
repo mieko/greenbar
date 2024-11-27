@@ -1,0 +1,106 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.duolingo.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 21 11:30:23 2023 GMT; NotAfter: Dec 22 11:30:23 2024 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jun 29 17:06:20 2004 GMT; NotAfter: Jun 29 17:06:20 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGjzCCBXegAwIBAgIIJOkHTUkmvJkwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMjMxMTIxMTEzMDIzWhcN
+MjQxMjIyMTEzMDIzWjAZMRcwFQYDVQQDDA4qLmR1b2xpbmdvLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBANErdniF0CXbpomTGEBaH3kxA2di94ox
+l1AL23M6K0TSkejop3JPxz1EF7ylc3YXJv6h6+JhEgc9k4z8TYk01ftR+EJo2CxS
+NsKPOD47BErMqk2GpMPlIIttAmIYFG17yQNkxprN2lCL93+YdsOfYqpQj5bGG7Qn
+K3zJLtZVUbGYf/ivqwBbOAN4YOgwR7FvZaF4DlyIa00L/PbeK2EWWyky6z1uCfhR
+yxBEwh8lkYSESqBiD6rPDaJwODsgUM6rTlK6aVWQOx7BSoTBji7nU6YsDbgE0awS
+0LJ5phm4CE5qbM5FqM9GPL0cwBnl7pjGdgGrXu04nudgZlzOvzHIjCkCAwEAAaOC
+Az0wggM5MAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMA4GA1UdDwEB/wQEAwIFoDA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vY3Js
+LmdvZGFkZHkuY29tL2dkaWcyczEtMTIxMTMuY3JsMF0GA1UdIARWMFQwSAYLYIZI
+AYb9bQEHFwEwOTA3BggrBgEFBQcCARYraHR0cDovL2NlcnRpZmljYXRlcy5nb2Rh
+ZGR5LmNvbS9yZXBvc2l0b3J5LzAIBgZngQwBAgEwdgYIKwYBBQUHAQEEajBoMCQG
+CCsGAQUFBzABhhhodHRwOi8vb2NzcC5nb2RhZGR5LmNvbS8wQAYIKwYBBQUHMAKG
+NGh0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRkeS5jb20vcmVwb3NpdG9yeS9nZGln
+Mi5jcnQwHwYDVR0jBBgwFoAUQMK9J47MNIMwojPX+2yz8LQsgM4wJwYDVR0RBCAw
+HoIOKi5kdW9saW5nby5jb22CDGR1b2xpbmdvLmNvbTAdBgNVHQ4EFgQUJejopKFj
+C0733E+DTjZxGih3wAAwggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2AO7N0GTV
+2xrOxVy3nbTNE6Iyh0Z8vOzew1FIWUZxH7WbAAABi/GlTosAAAQDAEcwRQIhAMq2
+LikMO86vT6X5IN2oe1kC59GjRUX8GE658aZm85hrAiAdQxFf9l1qMyOBVge81oUK
+fJ3ada/ng3iq0OqoRqzDzgB2AEiw42vapkc0D+VqAvqdMOscUgHLVt0sgdm7v6s5
+2IRzAAABi/GlTzIAAAQDAEcwRQIhAPLxEP+dA1HtV6z9C5ub/xc5bTQslU3NisJE
+puqCSYdhAiBCQ17gI36AG4Cj8d0AFhaW3vwY+pvYo7WKp0HMh7xDUAB1ANq2v2s/
+tbYin5vCu1xr6HCRcWy7UYSFNL2kPTBI1/urAAABi/GlT5gAAAQDAEYwRAIgRsLk
+g/rpNr55ouLVX77WRoC2JvGPKGa7h3XtRoLpQ5wCIAtMI0HuILA1RM7iSHLqYM6C
+/Pp2PJAacRWQQv/b/K4OMA0GCSqGSIb3DQEBCwUAA4IBAQB8Baj3/qE5h2uCzJnw
+ceYLfYSANKcYSw7HK42nmd0RncXl66yR1tTX/Dl68l2NEnlK/FiJ8R5zn/ANe76+
+AWp1sJzFhtlB3sz+ktdU4f//XCg0JqiCH38GjBxPx8rcc0L2hfIMB8n5U8amgt1G
+qN5//FwPD7ROBmYksx3psJturwXc4BZYHy6g06YnfBAXr3db2jf0BCyTuZlOfglE
+gaGxyU88eZR0XnF7FbyOq6x1r5Pfvw56nBlBDVQmZcjeUbHv4XG4tcci3RM5FInx
+CSoatArOmCGVV1yUU9Tq7UjnxqRSo0cP06hutxsXYRd/usWht0qg8muJnL4Yxalg
+Uv4n
+-----END CERTIFICATE-----
+subject=CN=*.duolingo.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, prime256v1, 256 bits
+---
+SSL handshake has read 5799 bytes and written 449 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 51BC6EE76EE40FD0CF6FD3BC1B24B7039CEDBDA663692F2BD32B72253E383880
+    Session-ID-ctx: 
+    Master-Key: 57ECD8AF3B27F4DDAE1B20836F8EF60E0ACA54E58204370465F487A34FC82126653CC2BD17FBE1CA7BDFA2153E56E7B5
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 85 84 7a 46 05 10 d0 22-a0 7c ba 6b f1 b1 a2 c7   ..zF...".|.k....
+    0010 - c8 76 65 e3 13 47 6c 02-63 02 6f 6d 17 c2 23 c6   .ve..Gl.c.om..#.
+    0020 - b7 16 f5 50 77 f4 85 1b-00 b2 cb 74 d1 d8 8e 2a   ...Pw......t...*
+    0030 - fe ed c6 e2 2b 72 62 18-a2 1f b0 9b e8 ea 75 cb   ....+rb.......u.
+    0040 - df e2 43 71 dc 60 c4 25-c9 c3 10 91 24 a7 c3 ac   ..Cq.`.%....$...
+    0050 - c7 ef 6a 84 30 1b 45 be-c4 85 f7 c9 b1 b0 38 be   ..j.0.E.......8.
+    0060 - 96 e6 f0 d7 eb 90 6d 24-85 b0 f9 54 84 d5 e1 d4   ......m$...T....
+    0070 - de da 5b 28 f0 ec f9 ed-b2 86 e2 37 12 58 65 d7   ..[(.......7.Xe.
+    0080 - 65 55 02 81 59 ed 63 ef-24 5f 9c 66 42 5d 36 70   eU..Y.c.$_.fB]6p
+    0090 - 1b 03 43 9a f2 97 bd d0-e5 63 fa 52 79 6f bd a3   ..C......c.Ryo..
+    00a0 - 06 a7 ee 91 7e bd 7a 7d-5b dc 59 35 cd 67 f7 01   ....~.z}[.Y5.g..
+    00b0 - d7 f0 2e 90 c7 61 6a c1-ed 5c f5 bd ef 2b 8d 32   .....aj..\...+.2
+
+    Start Time: 1732697157
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

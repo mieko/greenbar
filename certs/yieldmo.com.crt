@@ -1,0 +1,63 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=www.yieldmo.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  9 07:16:53 2024 GMT; NotAfter: Jan  7 07:16:52 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+jCCA+KgAwIBAgISBDx8i3olR5040+nS+Gu/G8qgMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjQxMDA5MDcxNjUzWhcNMjUwMTA3MDcxNjUyWjAaMRgwFgYDVQQD
+Ew93d3cueWllbGRtby5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCnveddPMbAcPyaSRLlLusjcPz0qxBUFHm4aavtpRK2BLcYBqJAeyHq0oRWvvDP
+ICdm9UkmK2JgRiINEVPN34QD9Dt4nnDcHjTaECz8KbtYY8YK0e2MEgIyiInkrFEg
+BrpVbwQSCwKwX0DXP4+0GU86vi5ent583l9YODxANqBQ1cBURVklQk2WaPlQV8Di
+D6/tLkm3GMendqIPsZW55pCpY90kesxPylRGsfVWEAg5Sw4deRhjuDNCfbXyKm3Q
+wX8sXBDZ6jddVGg8xRwMHvrH4WDcqwL+SgQc026Cudw3A7RcZni9cZgklMVBlG/c
+cjAM10LFT8sQ7sq+e6uPnZRbAgMBAAGjggIfMIICGzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFELXueFTS5tw/+W1FaGEvOaaBKPfMB8GA1UdIwQYMBaAFLu8w0el5Lyp
+xsOkcgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDov
+L3IxMC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMC5pLmxlbmNy
+Lm9yZy8wJwYDVR0RBCAwHoIPd3d3LnlpZWxkbW8uY29tggt5aWVsZG1vLmNvbTAT
+BgNVHSAEDDAKMAgGBmeBDAECATCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AKLj
+CuRF772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAABknBY2PgAAAQDAEYwRAIg
+XCBm+LvdCWS1D8NxPVw0bz2bv8DtOzTAYoEJbyb9dgACIEcfqE/q1KVTiB82p2lE
+11Xfqc6FBbX4b6ueFSghEvD1AHYA4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBN
+pW1vVAQAAAGScFjabQAABAMARzBFAiEA3IZqeIhPAIoMVsX+n5MlHMnsI9+pE7Kz
+9KwifvX76eMCIDqKith8ycXf9xLH6u0Gd3LsDW0xWNDOdhRKj1lx2v+aMA0GCSqG
+SIb3DQEBCwUAA4IBAQBK+kHVuIsakYQaKZ6d6vgk2jn208+YcTIdIxTorTGsoM9r
+z3PTgdIIqTEynpcHrkW/TQ7s+5OVFbPdtIRmb4Onodptauv4OYH0xqv4gIkIHwkS
+Ak1a0EL5/guHzPcQs3K4AOlxnw5tNcdCLKhEF5zL9scchtUDB6EE380SaNB6xabj
+Qjm+9Tx1yCLqnxbPqYq0JNx/vJ13jtQ+uzhbfXcp/BRMQAZWGemeIThrW97oCnPD
+Shw01oxWmmvmwC7izQTTeZtyiUn8PeaEz4214LV2zhty/mWlEp9ULn7ykhDW3aJz
+vMwjCEVhLsKVK+xWdZW01NWD7JYMVFNzCB7d8Q3c
+-----END CERTIFICATE-----
+subject=CN=www.yieldmo.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, secp384r1, 384 bits
+---
+SSL handshake has read 3290 bytes and written 789 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

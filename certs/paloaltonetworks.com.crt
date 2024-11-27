@@ -1,0 +1,85 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=www.paloaltonetworks.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 17 09:29:27 2024 GMT; NotAfter: Feb 17 09:29:27 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jun 29 17:06:20 2004 GMT; NotAfter: Jun 29 17:06:20 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHgzCCBmugAwIBAgIIAswpRHNnRfAwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMjQwMTE3MDkyOTI3WhcN
+MjUwMjE3MDkyOTI3WjAjMSEwHwYDVQQDExh3d3cucGFsb2FsdG9uZXR3b3Jrcy5j
+b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDxkFp395TfsqASbezD
+/x1g4fDtW/fGd/Oxlz/tN2Hq6exxowS66SUjdpdBRtyzF1EnO5Ru6p+sUhGz0Hbr
+iZQNVciFlrG7gGCxeTfOuQvTKIAWqgiABrB61FN9vrgt7rX/tstNwsHecM5I4lHl
+BFB1UhW8pr4S20IpqRSlvo+ThWBlT0jlObMNEg2iBsMJOK+2eXFTDNqRiyKOoa7D
++PGAWCfdcQi5nOqqkWpOdVVUdGo0tWWkcVKGHdS6+Ng8gDKh8AmXbqzOzfM5uzqC
+E1FkcAOQvOJ3FhTzQgd/Jee3um8DuxTvxGSlme2w3mYvSUiTlMwP+8dRfSa5TYjs
+9q17AgMBAAGjggQnMIIEIzAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAOBgNVHQ8BAf8EBAMCBaAwOQYDVR0fBDIwMDAuoCygKoYo
+aHR0cDovL2NybC5nb2RhZGR5LmNvbS9nZGlnMnMxLTE1NTYyLmNybDBdBgNVHSAE
+VjBUMEgGC2CGSAGG/W0BBxcBMDkwNwYIKwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZp
+Y2F0ZXMuZ29kYWRkeS5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQIBMHYGCCsGAQUF
+BwEBBGowaDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRkeS5jb20vMEAG
+CCsGAQUFBzAChjRodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9z
+aXRvcnkvZ2RpZzIuY3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz1/tss/C0LIDO
+MIIBDwYDVR0RBIIBBjCCAQKCHWdldC5pbmZvLnBhbG9hbHRvbmV0d29ya3MuY29t
+ghtldmVudHMucGFsb2FsdG9uZXR3b3Jrcy5jb22CHGNvbXBldGUucGFsb2FsdG9u
+ZXR3b3Jrcy5jb22CGHd3dy5wYWxvYWx0b25ldHdvcmtzLmNvbYIUcGFsb2FsdG9u
+ZXR3b3Jrcy5jb22CHm1hcmtldGluZy5wYWxvYWx0b25ldHdvcmtzLmNvbYIgZ29v
+Z2xlY2xvdWQucGFsb2FsdG9uZXR3b3Jrcy5jb22CGmF6dXJlLnBhbG9hbHRvbmV0
+d29ya3MuY29tghhhd3MucGFsb2FsdG9uZXR3b3Jrcy5jb20wHQYDVR0OBBYEFHCi
+T2Ms05PBn0jE/W9I/KWchSUfMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdgBO
+daMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAY0WwRFaAAAEAwBHMEUC
+IHPdNxS69LWDfdJIs9jv7BdLT6jTARFDCWjNvkJ562bGAiEA3RUxVg+NQ58kfwyz
+2h1j0KgGgfUauOVPAck4hlkcJrAAdQB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkD
+L9kOjC55uAAAAY0WwRIIAAAEAwBGMEQCIGuL91u7g1AJF35AL7Uv91koY2pykrAR
+g8fP/DUOb6WwAiAeOad374Jw+rCv3iPsvEqxFFxLcIfVEjpSENLZXYFgWwB2AObS
+MWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABjRbBEs8AAAQDAEcwRQIh
+AKdwAA6aESfgFUGu8cAj9PJYvVX0VVonsREf7Ledq3cRAiAvSZfHn4hDFTPT2pXg
+92W6xuy/yzV22ZJ1LVaV5woQGDANBgkqhkiG9w0BAQsFAAOCAQEAYWu3+2Xc82/7
+1F5DzrbTFbg3gQBtK0b3YRz/PtALqxuN2w02rQz1hPo9fDwCtAhTiCiiimpuoN2R
+Be/zEJUuBCRauBTuVnDOD6kjfv6KokWmhmDHxSqCjG30cVl66M6+eCBWLHykIzvt
+k2rwl6iB6+DehCG6KcLlEnwFsxIQYnvCMW36OhdqgB30mmkxppLhBi19/OGITgF2
+KYWumONFeWyzaOLa98bVquPb528KohIZTxFrmzt0loVwOrU+FH7mS2aUU5DOca2O
+SucoifPIPIrORoZXnwcvtlr8iRMxXuIK7XWNW+SGPQ3zGW26NvJLRqgkyk5mnMI0
+hdzl36pwCg==
+-----END CERTIFICATE-----
+subject=CN=www.paloaltonetworks.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5849 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

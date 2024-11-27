@@ -1,0 +1,133 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C=US, ST=California, O=Apple Inc., CN=ibookpartner.com
+   i:CN=Apple Public Server RSA CA 11 - G1, O=Apple Inc., ST=California, C=US
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct 19 21:51:03 2024 GMT; NotAfter: Jan 15 20:13:59 2025 GMT
+ 1 s:CN=Apple Public Server RSA CA 11 - G1, O=Apple Inc., ST=California, C=US
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jun 19 00:00:00 2019 GMT; NotAfter: Dec  4 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Feb  1 00:00:00 2010 GMT; NotAfter: Jan 18 23:59:59 2038 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIMBjCCCu6gAwIBAgIQSK5lB2tJWtAetEHgefgS/TANBgkqhkiG9w0BAQsFADBk
+MSswKQYDVQQDEyJBcHBsZSBQdWJsaWMgU2VydmVyIFJTQSBDQSAxMSAtIEcxMRMw
+EQYDVQQKEwpBcHBsZSBJbmMuMRMwEQYDVQQIEwpDYWxpZm9ybmlhMQswCQYDVQQG
+EwJVUzAeFw0yNDEwMTkyMTUxMDNaFw0yNTAxMTUyMDEzNTlaMFIxCzAJBgNVBAYT
+AlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRMwEQYDVQQKDApBcHBsZSBJbmMuMRkw
+FwYDVQQDDBBpYm9va3BhcnRuZXIuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEA1tr+kXYR/i1XCyDuA9IwnhDF7O6dgiX3UxkthGgtg84s6YrG+Nds
+75CkonfR1prDSgW97itUOAyIbsrev3AgIsCSCDupOShJeLMQFclmHuxlnrEOAPp0
+FqEpCTFmrouwr0bvfiyN+XN100dwvd8Z6FQqzCPHxNgkqDvBFIK7sKOmkSHtvzck
+BJfF9omb8HiIrjkMdXo+l6/R0RAP4numIE9NdjU3dS8mWXX+75sq3UMTdIhb+qEW
+M83bdV7AzvMObwmLuzayT1wSxBehOthS1tarERdWPYwB0t9Tc8UjlNxnfB+YeEng
+Uhe+NdecBal38wLY+dUWTeIqXZcy0PSBnwIDAQABo4IIxDCCCMAwDAYDVR0TAQH/
+BAIwADAfBgNVHSMEGDAWgBRQArgTLBWD0UHDEYqLQjsBI0OpVjB6BggrBgEFBQcB
+AQRuMGwwMwYIKwYBBQUHMAKGJ2h0dHA6Ly9jZXJ0cy5hcHBsZS5jb20vYXBzcnNh
+Y2ExMWcxLmRlcjA1BggrBgEFBQcwAYYpaHR0cDovL29jc3AuYXBwbGUuY29tL29j
+c3AwMy1hcHNyc2FjYTExZzEwggUlBgNVHREEggUcMIIFGIIKaXBob25lLmNvbYIS
+d3d3Lmltb3ZpZWZlc3QuY29tghJ3d3cuaW50cmluc2l0eS5jb22CFmltYWMtYXBw
+bGVjb21wdXRlci5jb22CDnd3dy5pcGhvbmUuY29tghV3d3cuaW1vdmllZ2FsbGVy
+eS5jb22CE3d3dy5pbWFjc291cmNlcy5jb22CD3d3dy5pY2xvdWRvLmNvbYIVaW1h
+Y2FwcGxlY29tcHV0ZXIuY29tgg9pcG9kY2xlYW5lci5jb22CDHd3dy5pbWFjLmNv
+bYINd3d3LmljaGF0LmNvbYIUd3d3Lmlib29rcGFydG5lci5jb22CGnd3dy5pbWFj
+LWFwcGxlY29tcHV0ZXIuY29tggxpcGhvbmU0cy5jb22CEmljbG91ZC1jb250ZW50
+LmNvbYIVd3d3LmlwaG9uZWdlcm1hbnkuY29tgg53d3cuaWNtb3VkLmNvbYIQd3d3
+LmlwaG9uZWZjLmNvbYIOaW1hYy1hcHBsZS5jb22CEGltYWdlcy1jYXRjaC5jb22C
+CWlwYWQzLmNvbYIKaXBhZG9zLmNvbYIIaW1hYy5jb22CDGlwaG9uZWZjLmNvbYIQ
+d3d3Lmlwb2RuYW5vLmNvbYIMd3d3Lmlwb2QuY29tghN3d3cuaW1vdmllc3RhZ2Uu
+Y29tgglpcG9kcy5jb22CC2lzY2hvb2wuY29tghZ3d3cuaWNsb3VkLWNvbnRlbnQu
+Y29tggtpY2xvdWRlLmNvbYIRaXBob25lZ2VybWFueS5jb22CD3d3dy5pc2Nob29s
+LmNvbYIKaWNsb3VlLmNvbYIQd3d3LmlwaG9uZTRzLmNvbYINd3d3LmlwYWQzLmNv
+bYIZd3d3LmltYWNhcHBsZWNvbXB1dGVyLmNvbYITaW5zaWRlbWFjaW50b3NoLmNv
+bYIYd3d3LmlwaG9uZS1jaGFsbGVuZ2UuY29tgglpa2lkcy5jb22CDXd3dy5pcG9k
+cy5jb22CDmltb3ZpZWZlc3QuY29tghd3d3cuaW5zaWRlbWFjaW50b3NoLmNvbYIV
+d3d3LmlwYWRhdXN0cmFsaWEuY29tghFpbW92aWVnYWxsZXJ5LmNvbYILaWNsb3Vk
+by5jb22CDnd3dy5pY2xvdWUuY29tggppY21vdWQuY29tgg1pbWFjc3RvcmUuY29t
+ghRpcGhvbmUtY2hhbGxlbmdlLmNvbYIIaXBvZC5jb22CC2lwaG9uZTQuY29tgg9p
+bW92aWVzdGFnZS5jb22CEGlib29rcGFydG5lci5jb22CDmludHJpbnNpdHkuY29t
+ggxpcG9kbmFuby5jb22CC2lwaG9uZTUuY29tgg93d3cuaXBob25lNC5jb22CEWlw
+YWRhdXN0cmFsaWEuY29tgg53d3cuaXBhZG9zLmNvbYINaW1hY2FwcGxlLmNvbYIU
+d3d3LmltYWdlcy1jYXRjaC5jb22CD2ltYWNzb3VyY2VzLmNvbYILaW1vb3ZpZS5j
+b22CDmlwb2RwcmljZXMuY29tghF3d3cuaXBvZHRvdWNoLmNvbYIPd3d3Lmltb292
+aWUuY29tgg13d3cuaWtpZHMuY29tghF3d3cuaW5kaWFpcGFkLmNvbYIJaWNoYXQu
+Y29tghF3d3cuaW1hY2FwcGxlLmNvbYITd3d3Lmlwb2RjbGVhbmVyLmNvbYINaXBv
+ZHRvdWNoLmNvbYINaW5kaWFpcGFkLmNvbYIPd3d3LmlwaG9uZTUuY29tMGIGA1Ud
+IARbMFkwSQYGZ4EMAQICMD8wPQYIKwYBBQUHAgEWMWh0dHBzOi8vd3d3LmFwcGxl
+LmNvbS9jZXJ0aWZpY2F0ZWF1dGhvcml0eS9wdWJsaWMwDAYKKoZIhvdjZAULBDAT
+BgNVHSUEDDAKBggrBgEFBQcDATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vY3Js
+LmFwcGxlLmNvbS9hcHNyc2FjYTExZzEuY3JsMB0GA1UdDgQWBBTKsi0ge/POH6XO
+zjxbbVDnNSRIWjAOBgNVHQ8BAf8EBAMCBaAwDwYJKoZIhvdjZAZWBAIFADCCAfcG
+CisGAQQB1nkCBAIEggHnBIIB4wHhAHUAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrr
+wb8ohez4ZG4AAAGSpsxfxAAABAMARjBEAiB/sRUlooRpilFsCKfGUkAzx3bRYLNc
+E7jfox2jKD/RoQIgZREGAfB4ZqongwvJznSI6yIyqdHE7MdDUKpeHiKBXpgAdwDM
++w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZKmzF/AAAAEAwBIMEYC
+IQDToP/78UJvLryVoaBwY8K7IIPZO9O3pOU81t8u3koIwgIhAOEZx9ReB7OPondA
+k+wqjDQew1wSnSPgyjAN9dNzU4O7AHcAouMK5EXvva2bfjjtR2d3U9eCW4SU1yte
+GyzEuVCkR+cAAAGSpsxf1QAABAMASDBGAiEA0wVjD7u9EjwRuiUZIKGCz5NRbMKk
+fRGiS80b5cYCNpwCIQDgM4lTWYwA9PdJfwF7nlXu8OgimoKu28xgRL5pY0dnHAB2
+AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABkqbMYBkAAAQDAEcw
+RQIgMaAK1MxUSBqaeQMLHYBz17qC49nq38KvM6sHUuc6Fv4CIQCOKWQajqoQM1u7
+vZeX7KjcMd0uYc08Q8NJ8LLtTGH7kjANBgkqhkiG9w0BAQsFAAOCAQEAyJZL21us
+mbKmpPsH9wivJ2KWbVPdPKlHsZgwB6RfcDfLgoMCaOgG55Cbkv81t0vXxyQefeHl
+eq5yvXPPs+iYAMNP5uQd0k+7+3Ywc3i74nmj45FMW5Y8i0PerucSSef70I3Saz0g
+R1zf0BOzvr0FrEWxP3x1EjAu8eSlj8bk5gY17R+NrD+bPniU9Pjy4A1momujvUrt
+07KT+vWzXIfMu2gfFfkHCDbD8sogtwPBnmhVYvTEyocwfxPesKOyKMswww8H39Fs
+Pg237ylqLscsu8TaoD4PQSC2Rf/EpMMCF3RbuzKDsqzGbh6GMC6fYh4OimvuxhiE
+YbvU8uz+YOhylA==
+-----END CERTIFICATE-----
+subject=C=US, ST=California, O=Apple Inc., CN=ibookpartner.com
+issuer=CN=Apple Public Server RSA CA 11 - G1, O=Apple Inc., ST=California, C=US
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6594 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 45882A654F3E16D5F637508C5A49EE42CAE4628921FB6AA554FE34C2FF445A8C
+    Session-ID-ctx: 
+    Resumption PSK: 23C289E37694D0BF3FDD91845007FA0E0723C809E106963DE6C1A0EED27489BA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 4d f6 05 46 37 4c ea 51-bb 46 2c 5f cd d1 4d 1a   M..F7L.Q.F,_..M.
+    0010 - e8 64 21 6a a8 1d 74 35-0d bf 9d 99 7c 44 80 8e   .d!j..t5....|D..
+    0020 - 56 59 f8 92 db 20 d7 5c-7d 18 8e f3 69 b0 d2 a7   VY... .\}...i...
+    0030 - d1 ae d8 b2 bb de 76 cd-4d b0 59 12 87 d0 84 2a   ......v.M.Y....*
+    0040 - 93 3f f3 72 db 61 c6 b8-68 18 41 6f 8f 4a 1d 07   .?.r.a..h.Ao.J..
+    0050 - f3 97 b4 d4 41 a2 0d 4f-15 3a ae d1 b0 4d 24 dd   ....A..O.:...M$.
+    0060 - 23 8f a2 fa f0 ad f0 78-c4                        #......x.
+
+    Start Time: 1732697331
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

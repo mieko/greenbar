@@ -1,0 +1,83 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.buzzoola.com
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 23 00:00:00 2024 GMT; NotAfter: Sep 29 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHMjCCBhqgAwIBAgIRAJwr9kjgKkpw71GqFSPL1cQwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yNDA5MjMwMDAwMDBaFw0yNTA5MjkyMzU5NTlaMBkxFzAVBgNVBAMMDiou
+YnV6em9vbGEuY29tMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAyF1X
+crYpAbkBYPQB+X7VAX92G85qV7798Gny/opL7iNzCwypNzJ1JxTkGcANVk/wO7gp
+aVp9Yg9LCKVP7u+LK5lhTPZwBVfUYa3Ib/O7jWcrZT5FZpzjwi2g3y/ZAfMI8xMV
+cM0iZ68zercE7YtGE7zwcFCBEjf6hgfEWIBk+QhqzttJaRNGADrRYDnUxrBpe0pe
+AV6NhGaZqY6BlGO4fiMLeI13XxIgNvbjX8QD3Wi0+QfWSs9knLDc+R2uttlv5Rei
+Nq42eZg4UKHouzNvm/dWzYizdilegLViT6mdgqSVDxOauMajYjgt9m6tbPKnG5jj
+0qPeYWaStQGCgOl0NfOzJLqT9AcIeK94kY+DbbXQL8fFfmpoc6omSpXbxfMVgffx
+3A/Xy19L7a2qaz1WnNGnLYfYXCLu8T4EPepTODtxolHka/GWRfnpVcUCmZom3Pr4
+iIPGxKy6CaeRq7kS2iQ80CMoI0Cex0f9eD8IoFTwAk4kf1mWDWbtBNl7Ffbph8Zx
+cI6yUrQf0jJd4ygoJM4oagYg8YjlOvYQ9Ort6sDRbZbxCqsVG66D2PQNPq29oak1
+2S2lhNgQzNq+4UP49rAkQ0Bdbt58mEhAG8gVSFUAjou068af8+GulvQ8vH7R0C37
+jMLzlTfVwv9RMGlbRK+GvxfnRfUWURX62aQCQx0CAwEAAaOCAvwwggL4MB8GA1Ud
+IwQYMBaAFI2MXsRUrYrhd+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBTvaLZG+aWO7yUB
+iyMStdiN7lIreDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQIC
+BzAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwB
+AgEwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0
+aWdvLmNvbS9TZWN0aWdvUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNB
+LmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wJwYDVR0R
+BCAwHoIOKi5idXp6b29sYS5jb22CDGJ1enpvb2xhLmNvbTCCAXwGCisGAQQB1nkC
+BAIEggFsBIIBaAFmAHYA3dzKNJXX4RYF55Uy+sef+D0cUN/bADoUEnYKLKy7yCoA
+AAGSIJAuAQAABAMARzBFAiEAlHVo8P4BY4F9Kk464zieEmX1G8YPK0WRPQtb/b4W
+6iICIGRHDvmpt0Kj2CR3h2wSnACE9t3cpstyBaroBPxtBwWrAHUAzPsPaoVxCWX+
+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGSIJAttQAABAMARjBEAiBEaFUteysS
+ljp+VASuEnO+WwT27tJSKST5AZFLsBzF4QIgdu2JAVxyW4Ep0dmnF27FxV+MbYl5
+PcpKN9FF4gD2kpgAdQAS8U40vVNyTIQGGcOPP3oT+Oe1YoeInG0wBYTr5YYmOgAA
+AZIgkC2OAAAEAwBGMEQCIHwNdyjM3VUYw2zjixi9zuPIJrPcUKHFSJ1hpVJfnDG/
+AiBeSXQjHTB2hkgXZ1ibFoaBCil0V1PNw0ZnfCwbS3PzAjANBgkqhkiG9w0BAQsF
+AAOCAQEA0ZcnP+Do8ZPGEKeq4c5Gpo5J0u0RjG033i0w+tbGFICdc7Lku6dvf2yu
+021YyZ0EEGVQ5dOOkpGBjz7ltcS0RIo5bsB79cMhCLSwMqzgMqNf0nXRqdNTNmca
+bvdzPhA7e7ND+2DW8Zovnexa1uBbafR69FeCHPYdlIMUn4fLVnir7vvs6C51HgDV
+AMgg+NDRttVvrZyU9K2eHrIVbg6LdsUbNRrTolGnB4IegzzukIy3Ydwfi1kYgxg0
+MzcRtIP36vuCNXC24ZzL+ZYKerUPCrkGWkYvdZ7EvZHOrksIKL/9F8RQn09NCn82
+eTPFZDwtiz//SjQSq3puim7N7WfFdg==
+-----END CERTIFICATE-----
+subject=CN=*.buzzoola.com
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6727 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 4096 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

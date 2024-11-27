@@ -1,0 +1,91 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=kargo.com
+   i:C=US, O=Let's Encrypt, CN=R11
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 23 07:50:25 2024 GMT; NotAfter: Dec 22 07:50:24 2024 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=R11
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE4jCCA8qgAwIBAgISA/sYra5amlaCM7xfAEG4+p51MA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTEwHhcNMjQwOTIzMDc1MDI1WhcNMjQxMjIyMDc1MDI0WjAUMRIwEAYDVQQD
+EwlrYXJnby5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGFjAc
+8XSMrJnPNyzojXoUmsIQD0qtZrQhfsCzrTtX+pdkyFMKnxtZwdPVNl/od9gMKKMX
+Zmcx2EnbIUFFmWZWDE3m+6ysbScvJTeD0ERDsiaB1Il8xTpqYHoH9rMMi3gc2mex
+Leo8S2b4TU7ccLlBniL2SgjE7u6sz+0QwsXlLtAOU7OgSJI5KO/gVVf8fsOIFVW3
+V51jI28ufrx2IOcFNF8hIlSiNyLOnE4g0Grnh+xaIswCOoPAQBFe7r2VVSNR+TET
+EHCIEpBbYB5DjdXmJ6eqDkbAByEvqcJDF1xbpd2d4E10Tlcr5W5+dB0LpiYgoBI3
+MSyg6z2K0uz9mgRRAgMBAAGjggINMIICCTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FEw5MtsnqfnZYS1LSI5bdqcWohxDMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2w
+XpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5v
+LmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8w
+FAYDVR0RBA0wC4IJa2FyZ28uY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYK
+KwYBBAHWeQIEAgSB9QSB8gDwAHYAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8o
+hez4ZG4AAAGSHhHMiwAABAMARzBFAiBc1CTN0jZ3xPr3/cEckfm3yiVOtHKlHDYn
+SsogJ8AZ3QIhAJi+TQMq7VODr8rb7nH1Zr5M6bX09MkVhGXNUchROpcHAHYA7s3Q
+ZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGSHhHMlQAABAMARzBFAiEA
+sHbyvDHma2Dg+RI+a1wrZ6KrucfW0HF24eFac9x7lGsCICU+GvFVMo1NH44LUuhP
+ueP1GX55kAvUwceq1Q/b7iXqMA0GCSqGSIb3DQEBCwUAA4IBAQCkp2CgKdrwLaak
+Co4rYUlXN63st43UQuS8kT8Rpz0lDkruM5G7SWqzod3d1s/CDLEDdfSGJoiTjVP6
+RHLPdllb0Bka9RIOZoj/QOrwLTxKXCv00DoIqQzK7AWQ32iXzfdJpY1W+TdfvnY3
+bE9Af8ZSn5/GIQ4CnbwnDAPeagsj0y9u66vMqAXOZg3/+2c7ugzko4Q/iJbO9lo9
+4Mg3aSD/T8LHQGakF/dmioaBFRTHbXumz3hdl1n8p8wInwdiSoF8N8jJhBehX17+
+QqA0xv93N7scigE9eWwbUjmjiUHiG7BeFDI5zPMW65Yoe1M0Z9C1nqQGScMplfUS
+D9NN2bPB
+-----END CERTIFICATE-----
+subject=CN=kargo.com
+issuer=C=US, O=Let's Encrypt, CN=R11
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3089 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 68D242317856FAD14BCF729A8E7D05950880CAB30B9E6D1AF786FDD793014ECE
+    Session-ID-ctx: 
+    Resumption PSK: 93018CEFBF2A46EB119C997F7BE358FE7700D65F9C93D686DC02B6071DCA2FEE
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 07 3c 98 f3 f2 c0 53 3f-e0 9d 2d e6 22 82 4d 67   .<....S?..-.".Mg
+    0010 - 5c bb fa d5 80 00 0d 68-fa 66 a9 e7 3f d2 90 1f   \......h.f..?...
+    0020 - af 78 c2 52 9a 69 06 7c-0d 3a 78 9c 96 11 6b 14   .x.R.i.|.:x...k.
+    0030 - 00 18 98 c9 8f 0c 24 f2-2a aa 19 e0 dc 3e 23 76   ......$.*....>#v
+    0040 - 5d a4 9e f7 a4 f2 2b a0-31 5b 54 ae 01 e0 01 d2   ].....+.1[T.....
+    0050 - ce 0f c3 56 ba dd 0b d5-ce 94 da dc 55 d4 c0 e7   ...V........U...
+    0060 - 76 a2 5a 95 28 bf 89 e6-d5                        v.Z.(....
+
+    Start Time: 1732697402
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

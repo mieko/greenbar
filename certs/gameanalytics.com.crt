@@ -1,0 +1,55 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=gameanalytics.com
+   i:C=US, O=Let's Encrypt, CN=E6
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Nov 16 05:51:26 2024 GMT; NotAfter: Feb 14 05:51:25 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E6
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDhDCCAwmgAwIBAgISA8RfqXH4gxA1whuq+lWxw+ShMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NjAeFw0yNDExMTYwNTUxMjZaFw0yNTAyMTQwNTUxMjVaMBwxGjAYBgNVBAMTEWdh
+bWVhbmFseXRpY3MuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXojQwf4z
+uE2+Tuw/wkx87DqOGzDxiP+PpwJ7Cv//J3W7wD90n0a7c6FYnfkz1xeEaDi7rz/f
+amWirvfGsn4Vy6OCAhMwggIPMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggr
+BgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUU77G5b4d
+Q+e7zeTgylVY74JYisowHwYDVR0jBBgwFoAUkydGmAOpUWiOmNbEQkjbI79YlNIw
+VQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vZTYuby5sZW5jci5v
+cmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9lNi5pLmxlbmNyLm9yZy8wHAYDVR0RBBUw
+E4IRZ2FtZWFuYWx5dGljcy5jb20wEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgor
+BgEEAdZ5AgQCBIH1BIHyAPAAdgDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39
+HjeOUAAAAZMzvEMsAAAEAwBHMEUCICNXTwi3m2zWKJNii5g0HolfEDsSvwvq1VLn
+hcUbkim+AiEAms4wsOCTydlqBbBm+W95SqSidGW8bnXZ2M++i75JXbYAdgATSt8a
+tZhCCXgMb+9MepGkFrcjSc5YV2rfrtqnwqvgIgAAAZMzvEPuAAAEAwBHMEUCIQCi
+AXTcIBXWQlYGppp5Ev3E3+5fEQAetOONnMEWIk/WDgIgIAWSfLI1szID6ir5WgKH
+giSpoNgF8WPnNQUmS4Z5EGIwCgYIKoZIzj0EAwMDaQAwZgIxALuLh2xwu8vGNN2J
+PuNGwYRdRcySW3wDOCr38dT7liaYdWN8tYFrO/bwQMZfjciAFQIxAOXinvbbZAQu
+qWv1cEBTq8aEN80ZpQm8kBXMHnJGXSbHnuGpuenor9s1YBFTEIqIUQ==
+-----END CERTIFICATE-----
+subject=CN=gameanalytics.com
+issuer=C=US, O=Let's Encrypt, CN=E6
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2333 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

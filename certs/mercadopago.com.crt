@@ -1,0 +1,72 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.mercadopago.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov  6 00:00:00 2024 GMT; NotAfter: Dec  6 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF4DCCBMigAwIBAgIQBh0R5l13qzotLzQotaytJDANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MTEwNjAwMDAwMFoXDTI1MTIwNjIzNTk1OVowHDEa
+MBgGA1UEAwwRKi5tZXJjYWRvcGFnby5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCvq2bJp+UnCSMFVI5ym+VAo3gyifo1scU9RHci2la4c76XboKo
+ZetDL04LqvTFgP7VH0x3WYx3XmdWdMvw6VNOLN8pBfaTOTdJMtBFr6N7SZDf/Pq+
+Z8wEyC/2TopyV99yvbr1OA3eB23FJ5yINNBmxlPMqx57+kV+tFmyStMFhJxI03rP
+bXC1kvRW2N48Z/H7lCofzMl9Bu0/nKr/8+0m1YFEd2352oD4QU+yryjTvhxi62d9
++4hZh91Our6tOMwIl/u0XS4lpUyF5TByCTJXwNhl6lwCn9pvqKCTGnOqe7v5ThFN
+dmH5r6yFoe+BZ/BE4Y4ozm2Y5YI7ifqtBMJXAgMBAAGjggL8MIIC+DAfBgNVHSME
+GDAWgBTAMVLNWlDDgnx0cc7L6Zz5euuC4jAdBgNVHQ4EFgQUyPeJIBt9MUDGpoOV
+nvBDGMdOT5MwLQYDVR0RBCYwJIIRKi5tZXJjYWRvcGFnby5jb22CD21lcmNhZG9w
+YWdvLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0
+dHA6Ly9jcmwucjJtMDIuYW1hem9udHJ1c3QuY29tL3IybTAyLmNybDB1BggrBgEF
+BQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnIybTAyLmFtYXpvbnRy
+dXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5yMm0wMi5hbWF6b250cnVz
+dC5jb20vcjJtMDIuY2VyMAwGA1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5AgQCBIIB
+bwSCAWsBaQB2ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABkv/H
+O1YAAAQDAEcwRQIgAqstoa2AxBDATHdOAR0A9glkZKyFTOOQFMY6pnvhyZUCIQCO
+8HHNCzvIO6NxxFVNsFnNUrKlvrv5T4IGXug89uCFXAB2AObSMWNAd4zBEEEG13G5
+zsHSQPaWhIb7uocyHf0eN45QAAABkv/HOyUAAAQDAEcwRQIhAKhE+xVFWG1uCWrJ
+tRbxqOnVWGDBh5ZNhOBZnV2IHIx8AiBd1arqvIathOAwetMjmGKnBXhchg155DGF
+aIaSDN8vhAB3AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABkv/H
+Oy8AAAQDAEgwRgIhALjtSUa4lb2t7s+YDHU7c14+s5EY13B+q6RfBiRAwYGhAiEA
+tfv3Id+ucb5FzkUcBmo34SzcoV047BmFyHvW+11ZBzgwDQYJKoZIhvcNAQELBQAD
+ggEBAHf/qlxZuyK3QxGGvxm0fc8MtH+pw8crrJ25y3cnF3H6ebS5K2LHgG6R/kLG
+475vIWyAfocZ0HyxVZYLPP0D9+1y/N8iIfERicP1ly0gZVng5w2y504CS4y+W1Zh
+UGA2HGXgMZ24QPwLpYdDenz+EWiby68cdbrltFwEQLKTqK9ocuPHZCtvGWHd37pj
+HsIOAaIeDGafARP51IvzfND2MPNm3ZjcC26oQHPi57IgainWnN9mR03irZdZrvMy
+4dsIRVQQe+kGbeAcuOBn3MGMoHzC1XrzmhWz9VdkozR2Nzf1gWb5kT7+YVT4qWcW
+fjUgXds99IFeWVTGwqj9dwaICt0=
+-----END CERTIFICATE-----
+subject=CN=*.mercadopago.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4358 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

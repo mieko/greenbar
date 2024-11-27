@@ -1,0 +1,80 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=*.atlassian.com
+   i:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Sep 26 00:00:00 2024 GMT; NotAfter: Oct 25 23:59:59 2025 GMT
+ 1 s:C=US, O=Amazon, CN=Amazon RSA 2048 M02
+   i:C=US, O=Amazon, CN=Amazon Root CA 1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Aug 23 22:25:30 2022 GMT; NotAfter: Aug 23 22:25:30 2030 GMT
+ 2 s:C=US, O=Amazon, CN=Amazon Root CA 1
+   i:C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 25 12:00:00 2015 GMT; NotAfter: Dec 31 01:00:00 2037 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHbjCCBlagAwIBAgIQD1POX7INm37jfWJFHFEhwTANBgkqhkiG9w0BAQsFADA8
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRwwGgYDVQQDExNBbWF6b24g
+UlNBIDIwNDggTTAyMB4XDTI0MDkyNjAwMDAwMFoXDTI1MTAyNTIzNTk1OVowGjEY
+MBYGA1UEAwwPKi5hdGxhc3NpYW4uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAl5F3pgV/PRUNYSXG2lWqRWTZYpG9RTz0ZbWKiO+qcVB3NvX1dCaL
+up0Q3ZnoB+p2UzIHGKigfv927DKtWhGOTrh2KGmYeCbFOQQd8qLrHU1hEmX95HcE
+g2V624R59PJp/Oo7r3L35JDiYOPtJXcyZDWJdRzlsD8XDRXAtrybhFGznWxsvb7O
+CfJgivZtw9OPkFkBtAO1XadpVTzpDYKVkKRv/SzetcDSjkPqLbImoazSFT14HVLW
+ml71ey1xlj+uL8RelcVHa8VwyozarznxKzWZgpgB+gGHVbFUZNpBeXX46VMKAA9P
+RCTsAjb7xAQGY/rHZg+q8x+w9hQlDPEZxwIDAQABo4IEjDCCBIgwHwYDVR0jBBgw
+FoAUwDFSzVpQw4J8dHHOy+mc+XrrguIwHQYDVR0OBBYEFOlndaUAnrkQwlyWkEa2
+FQj8weUCMIIBvAYDVR0RBIIBszCCAa+CDyouYXRsYXNzaWFuLmNvbYIPYXRsYXNz
+aWFuLmNvLmpwgghqaXJhLmNvbYIVKi5ibG9ncy5hdGxhc3NpYW4uY29tghNpbXBv
+c3NpYmxlYWxvbmUuY29tghlhdGxhc3NpYW50ZWFtcGxheWJvb2suY29tghUqLmlt
+cG9zc2libGVhbG9uZS5jb22CDWF0bGFzc2lhbi5uZXSCDWF0bGFzc2lhbi5jb22C
+DyouY29kZWdlaXN0LmNvbYIPKi5hdGxhc3NpYW4ubmV0gg8qLmppcmEuc29mdHdh
+cmWCFSouamlyYXNlcnZpY2VkZXNrLmNvbYISKi5hdGxhc3NpYW4uY29tLmF1gg1j
+b2RlZ2Vpc3QuY29tghFzb3VyY2V0cmVlYXBwLmNvbYIRKi5hdGxhc3NpYW4uY28u
+anCCEyouc291cmNldHJlZWFwcC5jb22CCiouamlyYS5jb22CGyouYXRsYXNzaWFu
+dGVhbXBsYXlib29rLmNvbYIQYXRsYXNzaWFuLmNvbS5hdYITamlyYXNlcnZpY2Vk
+ZXNrLmNvbYINamlyYS5zb2Z0d2FyZTATBgNVHSAEDDAKMAgGBmeBDAECATAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMDsGA1Ud
+HwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwucjJtMDIuYW1hem9udHJ1c3QuY29tL3Iy
+bTAyLmNybDB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3Nw
+LnIybTAyLmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5y
+Mm0wMi5hbWF6b250cnVzdC5jb20vcjJtMDIuY2VyMAwGA1UdEwEB/wQCMAAwggF+
+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2AN3cyjSV1+EWBeeVMvrHn/g9HFDf2wA6
+FBJ2Ciysu8gqAAABki0Mlm8AAAQDAEcwRQIhAJz7VTfuc/B81MNvEp/P3q+wMhZG
+KmyA4QH3JRkTUv7fAiBmfCoobWR+FvWkiybkIoRIxYZfRF5UyFasiXyTEnGREQB2
+AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABki0MlokAAAQDAEcw
+RQIgKlNOHpikv/bOKPZWLjlsW+721M6StlQxFQKl5AZ6JLcCIQCIhwxco1UhfTkY
+sqnwfFYWrGEiwkvDo2Ffhg3vvSyyrAB2AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7
+uocyHf0eN45QAAABki0MlnkAAAQDAEcwRQIhAL5TRrnG7VE0mOltUmcYX+Lg7VAj
+Mp0mExZtHroRaAOsAiBVSUodpsqOlwI19fB5VSKB2j65C+SIPAeIqrOIJNAQnTAN
+BgkqhkiG9w0BAQsFAAOCAQEAeu3tAJION3aeMig85IJxGs+2gNahgqSdJjfZ9xn0
+Ko9YBd02YECGG2TjBz552O9e3rh5ohvfikixq03THHWeF/rtht3YuguOei/unxKu
+R8PKXnwO2Gc0CN1Q/gqlglSYQbR6RiyYj79YZTrjdFd0sMhh2ezNU+l/gYPglLSW
++VFNRh8lwx42J8Qyk0VxtYQKgaEZe5CIf7ipyV2mk/NGY55r70P968kgJCaCf5CG
+za0RKrIRbYA19iEhyLEhm8fIh7HapH+oSofj7ODeJSS95uXqjEiFtLC75JTM3Ua/
+wObaCmp//uRNc/u5ohtWJr41lKfW7n4EU2XLpft/qVEvfQ==
+-----END CERTIFICATE-----
+subject=CN=*.atlassian.com
+issuer=C=US, O=Amazon, CN=Amazon RSA 2048 M02
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4756 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

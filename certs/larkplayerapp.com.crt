@@ -1,0 +1,65 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=www.larkplayerapp.com
+   i:C=US, O=Google Trust Services, CN=WR1
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  8 02:21:17 2024 GMT; NotAfter: Jan  6 02:21:16 2025 GMT
+ 1 s:C=US, O=Google Trust Services, CN=WR1
+   i:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029 GMT
+ 2 s:C=US, O=Google Trust Services LLC, CN=GTS Root R1
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun 19 00:00:42 2020 GMT; NotAfter: Jan 28 00:00:42 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEiDCCA3CgAwIBAgIRAP2OkwiQlyidDj4GSAPjSEkwDQYJKoZIhvcNAQELBQAw
+OzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEM
+MAoGA1UEAxMDV1IxMB4XDTI0MTAwODAyMjExN1oXDTI1MDEwNjAyMjExNlowIDEe
+MBwGA1UEAxMVd3d3LmxhcmtwbGF5ZXJhcHAuY29tMFkwEwYHKoZIzj0CAQYIKoZI
+zj0DAQcDQgAEtMH+Df4nFLaaJ2e6SiiwWhMMl9TekgLMdj/Y6sYL/ixu4jYQ9DwB
+Sq4A5FWhTLQinOGWgHdPiICOCAl5IcOApKOCAmswggJnMA4GA1UdDwEB/wQEAwIH
+gDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUJeVs+8enHc+zNL7i60RkJDfYHG4wHwYDVR0jBBgwFoAUZmlJ1N4q
+nJEDz4kOJLgOMANuiC4wXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRw
+Oi8vby5wa2kuZ29vZy9zL3dyMS9fWTQwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBr
+aS5nb29nL3dyMS5jcnQwMwYDVR0RBCwwKoIVd3d3LmxhcmtwbGF5ZXJhcHAuY29t
+ghFsYXJrcGxheWVyYXBwLmNvbTATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8E
+LzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93cjEvVTFGbkJ4c1ZQcDQuY3Js
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYATnWjJ1yaEMM4W2zU3z9S6x3w4I4b
+jWnAsfpksWKaOd8AAAGSaiU9AAAABAMARzBFAiEAtAZYOUIEgk/mK/KXZGN9EywN
+1K9rx6GE3cTGnbG5EAYCIDSS5pOiPaUTFUzPJEMGKBcu2eBgzSzn+DZXG/3quXF8
+AHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGSaiU9MgAABAMA
+RzBFAiAwp0I3PkrLvALE9yX3jNio5aEL65frOZfldsL7ifReUgIhAMMzRHBJfnhW
+2eVTZWqIi78sS/eOQV71LXT2xHRHc0fXMA0GCSqGSIb3DQEBCwUAA4IBAQB70AyY
+QEnLiETwGOMgQHBIXQfns3ug4xxSpZhrQTJfuzjklK4ztsJ2YdOisa5shVB8qvXb
+NT7MYjrxRFqAuNGkOaSegWu/9CdQwT/WNLYnau+LzaCpBBAnZFPQ+AEtvP8Efk/A
+o9IfYF50xwCzBRVG8g33ZNPmbcwYk7zL4Flwm83OQmp85fu65AsbZqwxqeql17OS
+eSYE+syJgvsK65VlP6LI+t5lI+/WKh2HQn0O+DrCm0ZbLpO12bLzGNiT12MBs35T
+9SIAUIxA6RIBIayOFAMDPPgtILYe5B2oxXmCi6/4fSdsr324G/YQ17bvoRv78VDx
+s457SGnnu+VSSEAM
+-----END CERTIFICATE-----
+subject=CN=www.larkplayerapp.com
+issuer=C=US, O=Google Trust Services, CN=WR1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4226 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

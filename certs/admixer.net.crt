@@ -1,0 +1,104 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.admixer.net
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May 24 00:00:00 2024 GMT; NotAfter: Jun  5 23:59:59 2025 GMT
+ 1 s:C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+   i:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Nov  2 00:00:00 2018 GMT; NotAfter: Dec 31 23:59:59 2030 GMT
+ 2 s:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jan  1 00:00:00 2004 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+ 3 s:C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+   i:C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Mar 12 00:00:00 2019 GMT; NotAfter: Dec 31 23:59:59 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMTCCBRmgAwIBAgIRAPE+ekLl4KFO/97Q7JeXuXUwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yNDA1MjQwMDAwMDBaFw0yNTA2MDUyMzU5NTlaMBgxFjAUBgNVBAMMDSou
+YWRtaXhlci5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDM/8x+
+/jMTxZe29aEagAmZqMc6FX20CzQ3O38fHntrZiPLpX4kvPNtxOmhH8kEZKWAQB8c
+cexV+uuZISq9Nlz/7aAZrR7iyOz+VTeeiCRYILxVMp7yp4xA1Q6BgKq0ZjaMLAET
+LiQgKZKQmyfm5d7uTej6EoeD0+JeLHlC+dBi2TepEWOLh5cWSgMqZiz/hzYXLwjT
+SLyo8HWW2MTocdRg3UI0S9EVHAZo2ZHC4ZPVvBsgfcRxIZ4UcRMHOTLtNojm0iYL
+BD1zY5Vmq7HRiQ0KDy2Pd7P5baEnxBFMW3ezpFcbGZLSBTTczOWDK8LSMD1Gu9jX
+ymDJS0FYJxBt96NNAgMBAAGjggL8MIIC+DAfBgNVHSMEGDAWgBSNjF7EVK2K4Xfp
+m/mbBeG4AY1h4TAdBgNVHQ4EFgQUdTJWZhC56b7xrnRicw0rOoPeTZkwDgYDVR0P
+AQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEFBQcCARYX
+aHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEFBQcBAQR4
+MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JT
+QURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGG
+F2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMCUGA1UdEQQeMByCDSouYWRtaXhlci5u
+ZXSCC2FkbWl4ZXIubmV0MIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdQDPEVbu
+1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAY+qNmTAAAAEAwBGMEQCIC7H
+B0t7BWzlbFd8ng5WxUMO+/acA/lOlihow9CraqlPAiBBzBoYnPfJIRkunwJPrXgF
+X1Xx8iE3N7qm1zHFw382VAB3AKLjCuRF772tm3447Udnd1PXgluElNcrXhssxLlQ
+pEfnAAABj6o2ZG0AAAQDAEgwRgIhAMBNyPIz6/9d9YkzDGs+R1qNYKnKcOvL3d9m
+nghdskX2AiEA/mACtBsz0FK0KR22Bl92eORPtScAZIHtlaap4QY1t2QAdgBOdaMn
+XJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAY+qNmRtAAAEAwBHMEUCIQCZ
+4e2yw0kayCCBU16g61VoXq80qQTaJlLfomNjRyTZ1gIgCHIALR4lhdsvm+pJ6oaI
+vX/uO91E/1pFlyniaExJWZwwDQYJKoZIhvcNAQELBQADggEBAFPyRH+oViXukgjS
+yT+Vo8nLX/MAY5H4SdLRBMPz54kQKrggk0dpZ5w9jzLcR9uThzeSPaPJUlpaiB7s
+YUpwUDeAbNevw/fj6eJSzxtQcaxRk/c/yTO2B6uQIYRT17DxDj4uu2BZ+lBtDGSR
+dI1IDcrVgnTXEUHXEnepOTY69hguIbH/Yp4l8rp58vxxnB4LqYSv8nGJDR1EoOFD
+yfQCdVW5GBzpiDem4SDSLdU00FL6kMSlpVRnscq0b2DhE6sfLuaoGQ1NhSAkwWJV
+zNV9ea2ZAr8wrnNmxtplaoYBUdT1K1PdOBz/KMSt0OeeuPeHKOZ4a24gDzLrVCm3
+wrcFydc=
+-----END CERTIFICATE-----
+subject=CN=*.admixer.net
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6309 bytes and written 415 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F8DBB7CB7359A2C79E5D340580AEDE0DFEFC613D58E8CF09958E976FA114A9C4
+    Session-ID-ctx: 
+    Master-Key: 2618C1BDB09051E885DE12FCB2D271C42EA8091436E3A0BCA260400FE2F3B17297147F32E9A171D5563B9C9C77570923
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 3600 (seconds)
+    TLS session ticket:
+    0000 - 7b 07 27 63 dc 8e 54 a5-20 92 b0 dc 46 f6 a1 f4   {.'c..T. ...F...
+    0010 - 55 5d 75 4e 37 65 39 45-89 58 28 29 3e fa ba 71   U]uN7e9E.X()>..q
+    0020 - 53 7d 9f cd ec d1 27 f2-94 9c 14 4e 2a 39 ac 8e   S}....'....N*9..
+    0030 - 05 69 47 59 ff 19 06 43-38 6c b4 e8 7a 0c a4 09   .iGY...C8l..z...
+    0040 - e2 25 28 b7 0b e4 d7 96-5e 2f 8b 92 f8 45 74 81   .%(.....^/...Et.
+    0050 - 98 0f 73 8d 59 e1 b5 8a-95 64 d8 21 1d 5f de 53   ..s.Y....d.!._.S
+    0060 - f7 50 56 ca c3 47 a9 78-5c 05 49 b5 cc c7 4d 28   .PV..G.x\.I...M(
+    0070 - 6c ff 31 65 42 c1 3a 4b-26 34 73 ec 5d 9f 79 01   l.1eB.:K&4s.].y.
+    0080 - 80 91 67 c3 be 3f 62 ce-94 b8 f0 66 f3 c0 99 87   ..g..?b....f....
+    0090 - bc c7 d6 27 21 82 a2 4c-e4 32 9a d9 b0 2d 4d 86   ...'!..L.2...-M.
+    00a0 - 29 66 aa 3a a6 64 fb 94-74 8b 3d 0f 0f 8a eb 5d   )f.:.d..t.=....]
+    00b0 - 33 c5 3f b9 46 fb 86 f2-a8 cf 43 91 2a 9a 89 38   3.?.F.....C.*..8
+
+    Start Time: 1732696884
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

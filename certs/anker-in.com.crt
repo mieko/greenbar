@@ -1,0 +1,82 @@
+CONNECTED(00000007)
+---
+Certificate chain
+ 0 s:CN=tls.automattic.com
+   i:C=US, O=Let's Encrypt, CN=E6
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Oct 11 18:15:22 2024 GMT; NotAfter: Jan  9 18:15:21 2025 GMT
+ 1 s:C=US, O=Let's Encrypt, CN=E6
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: id-ecPublicKey, 384 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIbTCCB/KgAwIBAgISBISUHqhhc5kZheukDv6KZeS9MAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+NjAeFw0yNDEwMTExODE1MjJaFw0yNTAxMDkxODE1MjFaMB0xGzAZBgNVBAMTEnRs
+cy5hdXRvbWF0dGljLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKTDdAMC
+vVQQByHH5alSY21oWzaaxPunw9SIpZ0PAcJKNZ7S7OGMSjxgaLOoHOXuFlU1Skh6
+pQhGCPFOLYxCWOmjggb7MIIG9zAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFK6sG5tc
+raK0CNBeXUM6ET+nQUtIMB8GA1UdIwQYMBaAFJMnRpgDqVFojpjWxEJI2yO/WJTS
+MFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL2U2Lm8ubGVuY3Iu
+b3JnMCIGCCsGAQUFBzAChhZodHRwOi8vZTYuaS5sZW5jci5vcmcvMIIFAwYDVR0R
+BIIE+jCCBPaCFTdob2tpcGxheWVyLmdhbWUuYmxvZ4IMYW5rZXItaW4uY29tghNh
+cnRpc3Rhcy5tdXNpYy5ibG9ngiBiaWxsaW9uZG9sbGFyZW1haWxzLmJ3cHNpdGVz
+LmNvbYIgYmxhY2tjcmVhdGl2ZXdyaXRpbmcucG9ldHJ5LmJsb2eCEGJsb2cuemhp
+LXdlbi5uZXSCEGNhdGhvbGljamVkaS5jb22CEmRhdmlkd2lua293c2tpLmNvbYIU
+ZG90ZXJyYS5maXRuZXNzLmJsb2eCE2V2ZXJ5ZGF5YmV0dGVyLmJsb2eCGGZvcmV2
+ZXJqYW1lc211cnBoeS5jby51a4IUZ2V0aGVyZS5maW5hbmNlLmJsb2eCDGhtY3Nt
+YWdvZy5jYYIPamFtZXNib25kbHkuY29tgh1rZWF0b24tcGF0dGVyc29uLW1pbmlz
+dHJ5LmNvbYIbbGl2ZWNvbGxlY3RpdmUuZmFzaGlvbi5ibG9ngiNtYXJjb211bm96
+aGVydmlhcHJvZmVzb3JkZXBpYW5vLmNvbYIfbWljaGFlbGFuZ29hbmRkYXZpbmNp
+cHVwaWwuYmxvZ4IObW9ucHJvZmF1dG8uZnKCFHBhbG1pZXIuZmFzaGlvbi5ibG9n
+gg1waG90b2JiZXIuY29tghlwbGFuZXRhanVwaXRlcmRvdGJsb2cuY29tgg1zYXdh
+bm90b20uY29tghd0YWtva2FrcGVoZXI3Mi5jYXIuYmxvZ4IXdGFydW5kZWVwc2lu
+Z2gubGF3LmJsb2eCFnRoZXZpbmVjaHVyY2hleWUuY28udWuCEnRscy5hdXRvbWF0
+dGljLmNvbYIZd3d3Ljdob2tpcGxheWVyLmdhbWUuYmxvZ4Ied3d3LmJpbGxjb3Jt
+aWVyNjBrb2xkLmxhdy5ibG9ngiR3d3cuYmxhY2tjcmVhdGl2ZXdyaXRpbmcucG9l
+dHJ5LmJsb2eCFnd3dy5kYXZpZHdpbmtvd3NraS5jb22CGHd3dy5kb3RlcnJhLmZp
+dG5lc3MuYmxvZ4IYd3d3LmdhbWVybmlydWQuZ2FtZS5ibG9nghh3d3cuZ2V0aGVy
+ZS5maW5hbmNlLmJsb2eCEHd3dy5obWNzbWFnb2cuY2GCIXd3dy5rZWF0b24tcGF0
+dGVyc29uLW1pbmlzdHJ5LmNvbYIZd3d3Lmtpbi55d3YubXlibHVlaG9zdC5tZYIf
+d3d3LmxpdmVjb2xsZWN0aXZlLmZhc2hpb24uYmxvZ4Ind3d3Lm1hcmNvbXVub3po
+ZXJ2aWFwcm9mZXNvcmRlcGlhbm8uY29tgiN3d3cubWljaGFlbGFuZ29hbmRkYXZp
+bmNpcHVwaWwuYmxvZ4IZd3d3Lm1rdi5peHgubXlibHVlaG9zdC5tZYIYd3d3Lm15
+aW52YWxpZHdlYnNpdGUuY29tghh3d3cucGFsbWllci5mYXNoaW9uLmJsb2eCEXd3
+dy5waG90b2JiZXIuY29tghJ3d3cucmFpbHJvYWRzLmJsb2eCEXd3dy5zYXdhbm90
+b20uY29tght3d3cudGFrb2tha3BlaGVyNzIuY2FyLmJsb2eCG3d3dy50YXJ1bmRl
+ZXBzaW5naC5sYXcuYmxvZ4Iad3d3LnRoZXZpbmVjaHVyY2hleWUuY28udWuCEnd3
+dy56aWVnZW5odXJ0LmNvbYIMemhlcm9zZXguY29tMBMGA1UdIAQMMAowCAYGZ4EM
+AQIBMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAouMK5EXvva2bfjjtR2d3U9eC
+W4SU1yteGyzEuVCkR+cAAAGSfQBrBAAABAMARjBEAiBGBbdb3C+I6FPSp1kegXQq
+zVzKSqSq1mW7gsBJcjqQ1gIgMi1b6Ag6vtAgAm40AN8SITteMg+wNK/yS7ZWfe7e
+8bgAdgDgkrP8DB3I52g2H95huZZNClJ4GYpy1nLEsE2lbW9UBAAAAZJ9AGs/AAAE
+AwBHMEUCIQC2fsmR9vWMxonDUJHRzgiMtvp3SShK6RGLQHo8rZYDJAIgMiRw1LXb
+ZQo6rCbCOhCxoXKt4wJyU7YDhMDzp52A/XIwCgYIKoZIzj0EAwMDaQAwZgIxAJnC
+dkF0hfGGiqyO+X2qc0sKokiJESAJsI2axZOiMTAeeN/uraK7Ak+xAeFzdBH8fwIx
+AMTNVz7pWvyYeTDpWt9gftOAK1RoLqAmit7qXs83oEmen8qtSWrgYAkJs745eDj3
+Eg==
+-----END CERTIFICATE-----
+subject=CN=tls.automattic.com
+issuer=C=US, O=Let's Encrypt, CN=E6
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3655 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

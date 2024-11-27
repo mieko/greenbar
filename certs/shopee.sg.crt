@@ -1,0 +1,78 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.shopee.sg
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr 19 02:42:57 2024 GMT; NotAfter: May 21 02:42:56 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+   i:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 19 03:43:25 2023 GMT; NotAfter: Jul 19 00:00:00 2026 GMT
+ 2 s:OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Jun 19 00:00:00 2019 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+ 3 s:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   i:C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Sep  1 12:00:00 1998 GMT; NotAfter: Jan 28 12:00:00 2028 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGVTCCBT2gAwIBAgIMYJo/TVVtN+0vuHkZMA0GCSqGSIb3DQEBCwUAMFUxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSswKQYDVQQDEyJH
+bG9iYWxTaWduIEdDQyBSNiBBbHBoYVNTTCBDQSAyMDIzMB4XDTI0MDQxOTAyNDI1
+N1oXDTI1MDUyMTAyNDI1NlowFjEUMBIGA1UEAwwLKi5zaG9wZWUuc2cwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC8Kb2pGv/sKFuWaX1xJ4d5gbDEaOvH
+5zPDTAxNM++VpFWZri6dudJcX24bhdlqKFKLF7FojkhBObf0paAxa7kKXdsqlDrP
+iIeAWVJsqW9ZDzwE7RBE9Fre4YzAAKhNo3u0f5qIdkQNB9uhDQwllHMGlcBS2514
+OiIhzOahooDS/xkKo7aAvPj/EMi92//wL5unCxbSfDEOM/Oa49KG3MH7GT0CD0qT
+gcMhbPQe904ZIoa2q1J38PChXR5FRIOlyzvcchc4UAakGgJzy76CklO5/vcO65D3
+ZDYnxGlUluaLDrhKsJqPEb2El6bYfxfX3kaLxBbFS377aBaiyP0b3nb/AgMBAAGj
+ggNiMIIDXjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADCBmQYIKwYBBQUH
+AQEEgYwwgYkwSQYIKwYBBQUHMAKGPWh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5j
+b20vY2FjZXJ0L2dzZ2NjcjZhbHBoYXNzbGNhMjAyMy5jcnQwPAYIKwYBBQUHMAGG
+MGh0dHA6Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2dzZ2NjcjZhbHBoYXNzbGNhMjAy
+MzBXBgNVHSAEUDBOMAgGBmeBDAECATBCBgorBgEEAaAyCgEDMDQwMgYIKwYBBQUH
+AgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMEQGA1Ud
+HwQ9MDswOaA3oDWGM2h0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5jb20vZ3NnY2NyNmFs
+cGhhc3NsY2EyMDIzLmNybDAhBgNVHREEGjAYggsqLnNob3BlZS5zZ4IJc2hvcGVl
+LnNnMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBS9
+BbfzipM8c8t5+g+FEqF3lhiRdDAdBgNVHQ4EFgQUhqEIVcsi6ElA3mqg7ED2Bi92
+Oh4wggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2AH1ZHhLheCp7HGFnfF79+NCH
+XBSgTpWeuQMv2Q6MLnm4AAABjvQ8WtoAAAQDAEcwRQIhANfncz/Btl3m0yMG9XH4
+S+jZR86PVjg55Sn8AJHjh/H6AiBVMVI6Q/fg5mfrIovCgf4m8pFMSvKxw2XZaCyK
+m2xmYgB3AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABjvQ8WXsA
+AAQDAEgwRgIhAPkOHL2H79jRmSh97cHfgtz8BS7kispcNSu4TuUkQ1OiAiEA8bvH
+Fdy9K3lDpA6gMpIQi18wR36aXxVGjFRrS+qqUgIAdgBOdaMnXJoQwzhbbNTfP1Lr
+HfDgjhuNacCx+mSxYpo53wAAAY70PFk1AAAEAwBHMEUCIGoZiYBtYoxUsgzvGhaG
+VjD3PXTlUtFdGxY7zxe+zHXAAiEAhrWUOqrZ0PhCcFmgmVhIj3c/ZTPQcnBR+NnX
++6Ll+PQwDQYJKoZIhvcNAQELBQADggEBAMLcSLgalmotG9+CSiX22o4Op+OLUu3K
+CLHQrhxfsFDUBukYVZyElAmTPMDzLgKm4uE1RHIc5z9N4DqoomMnX7rm9XIN4Dwv
+hwhTvJEdMGWnKQBbiOYV/2MKPHc8S3E6trRykDjVcIkyyOHmFL8P+OwvCi6ZZ4WB
+4M/73hmbSaPOEzRPUFtx+PeeeI5M6ct11U+ahwjpscB/DcKfzPhqlHyJ9ebkESdf
+8vCqLAM6/cV+th5zrIZIO76UJZhIliv7Yby7voWCEuiUTahZk7Qz4RYauabdV7vi
+aeJel1mYzY0GRjN2EuDSmOglzTxz6Hequz8+saXYRKxUol5rhajdRA8=
+-----END CERTIFICATE-----
+subject=CN=*.shopee.sg
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5878 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

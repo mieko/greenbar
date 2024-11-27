@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=*.iqzone.com
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr 20 18:28:00 2024 GMT; NotAfter: May 22 18:28:00 2025 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA1
+   v:NotBefore: Jun 29 17:06:20 2004 GMT; NotAfter: Jun 29 17:06:20 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGjDCCBXSgAwIBAgIJAJV8OpSpspuWMA0GCSqGSIb3DQEBCwUAMIG0MQswCQYD
+VQQGEwJVUzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTEa
+MBgGA1UEChMRR29EYWRkeS5jb20sIEluYy4xLTArBgNVBAsTJGh0dHA6Ly9jZXJ0
+cy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5LzEzMDEGA1UEAxMqR28gRGFkZHkgU2Vj
+dXJlIENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTI0MDQyMDE4MjgwMFoX
+DTI1MDUyMjE4MjgwMFowFzEVMBMGA1UEAwwMKi5pcXpvbmUuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiguJna6U85zu1jdRUqrDQ/jiPfgf7Euy
+obl6+M/UQdvF3CuTM16C+l1YcT/gJ7lmlrbGOaiSVwp0ShgyB54+F0POnusmxn74
+aNq570uWU5ZzVlMXycw65GsavybSU3NlpoerS97AlcAVJx4S7sFTJfgCIz9YTZ9o
+z8wC2B2PkquadUese3WeFjXX5vOcDJlRDKRCt45nN3BjqNop/gpF2PID0F6UBQna
+Plpb+4oG0ML8lWJV8qgiOkrtdT8szgNgLTundO4biTB1da/QxUQ8uY09+19BN1Pv
+l3OkGk+a2n77q1chJDIEPZQE1erpa8IfrrDkD5z0ji3m9ieGbP1E4wIDAQABo4ID
+OzCCAzcwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDgYDVR0PAQH/BAQDAgWgMDkGA1UdHwQyMDAwLqAsoCqGKGh0dHA6Ly9jcmwu
+Z29kYWRkeS5jb20vZ2RpZzJzMS0yMDM0MS5jcmwwXQYDVR0gBFYwVDBIBgtghkgB
+hv1tAQcXATA5MDcGCCsGAQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFk
+ZHkuY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECATB2BggrBgEFBQcBAQRqMGgwJAYI
+KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0
+aHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcy
+LmNydDAfBgNVHSMEGDAWgBRAwr0njsw0gzCiM9f7bLPwtCyAzjAjBgNVHREEHDAa
+ggwqLmlxem9uZS5jb22CCmlxem9uZS5jb20wHQYDVR0OBBYEFEjRNRx9DVZBzT+l
+suKvCrj+6YruMIIBfwYKKwYBBAHWeQIEAgSCAW8EggFrAWkAdwBOdaMnXJoQwzhb
+bNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAY78xCSPAAAEAwBIMEYCIQCHRTRC/diJ
+/IZSEECGiKu/1KZFjE7X88SXPKhVthc3JQIhAOdefrIDPJKeNARU9G9hIfSc0knY
+uVQDnChUqDNQ1IbjAHcAfVkeEuF4KnscYWd8Xv340IdcFKBOlZ65Ay/ZDowuebgA
+AAGO/MQlhwAABAMASDBGAiEApzRq8itMvyXYAxC5b2mO+cNDubYj1kui4zaCo9YS
+kUUCIQDwUUkCJDBdUpgGPMP8JgfKUuT1cWdy3+KQ1KTH+iYGIwB1AMz7D2qFcQll
+/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABjvzEJhoAAAQDAEYwRAIgTfxda+4q
+uq57X0uyxZbQjTdGlBu1DGNO9c0jFFCzX1sCIBXz6TG6Zq7oI+KEMEITMjlJmMK2
+eVBZ+C3EzXYIkyJDMA0GCSqGSIb3DQEBCwUAA4IBAQAipIxA1ZCApXLFK95ycKCn
+ahIgVwXuhGZR5hh0iuhh6qjAukA6uPtboaSqlg6pd7SPp8mOWnsV9ZyQlJYxYcma
+CjbpwAobAxCLowrhJIAQrn63n3e/DTFaNb0QAI8ZjPPN0L4lryrlv67GX4BhcbKS
+7ASdKM9COp8ZV0HXddKe5y8cS5HVEabRyBKXCU1R67e7dqAzB8VD/G3T88V8pxvj
+Sr1oH1a92s2qnowXY+CIOuf9MUHoZHUZQAYLrnRC64cE57nk3SlcwJSGcD81wmG7
+ZQsYlGn9q7qZC2SUypk+YmvS0OJvF2qZVebPiN0OiZvo/k9RmvOsfCONZGyGefT7
+-----END CERTIFICATE-----
+subject=CN=*.iqzone.com
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, secp384r1, 384 bits
+---
+SSL handshake has read 5830 bytes and written 787 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
